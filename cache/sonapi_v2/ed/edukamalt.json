@@ -1,0 +1,74 @@
+{
+  "requestedWord": "edukamalt",
+  "estonianWord": "edukamalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "edukamalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "more successfully",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "успешнее",
+                "weight": 1
+              },
+              {
+                "words": "более успешно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "успішніше",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "edukalt",
+        "kiiremini",
+        "märgatavamalt",
+        "lihtsamalt",
+        "paremini",
+        "edukam",
+        "korralikumalt",
+        "osavamalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "edukamalt",
+      "translations": []
+    }
+  ]
+}

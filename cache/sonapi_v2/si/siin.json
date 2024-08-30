@@ -1,0 +1,556 @@
+{
+  "requestedWord": "siin",
+  "estonianWord": "siin",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "siin"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kõneleja ligidal, lähedal olevas kohas,selles kohas (kus sa ise oled või millele sa viitad)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Poole tunni pärast on nad siin.",
+            "Mida sina siin poe juures teed?",
+            "Mina ei tunne siin kedagi.",
+            "Siin kerkib sigala, seal laut.",
+            "Oota siin, ma tulen kohe tagasi.",
+            "Katrin ei ela enam siin.",
+            "Kool on väike, siin õpib ainult sada last."
+          ],
+          "synonyms": [
+            "teal"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "ici",
+                "weight": 1
+              },
+              {
+                "words": "là",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "здесь",
+                "weight": 1
+              },
+              {
+                "words": "тут",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тут",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kasutatakse kedagi esitledes, midagi pakkudes vms juhul)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Saage tuttavaks, siin on mu abikaasa.",
+            "Palun, siin on täpne raha."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "это",
+                "weight": 1
+              },
+              {
+                "words": "вот",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajalises ühenduses osutab asjade seisule, milleni parajasti on jõutud:) nüüd, siis",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ei, siin ema pisut liialdab.",
+            "Mis siin naljakat on?",
+            "Mis ta mängib siin Jumalat!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "тут",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb möönvates, (paratamatusega) nõustuvates ütlustes (ja mis on kõnelejaga lähemalt seotud),selles olukorras",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mis siin vaielda!",
+            "Siin ei aita muud, kui pead ümber tegema.",
+            "Siin ei ole enam midagi teha."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "ici",
+                "weight": 1
+              },
+              {
+                "words": "là",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "тут",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тут",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "rööbastik",
+        "siinmail",
+        "roobas",
+        "rööbas",
+        "rööpapaar",
+        "rööbe",
+        "relss",
+        "siinkandis",
+        "siinsamas",
+        "siinpool",
+        "raudteerööbas",
+        "siinkohal",
+        "rattavits",
+        "tõepoolest",
+        "praegu",
+        "tõesti",
+        "see",
+        "juba",
+        "kindlasti",
+        "aga",
+        "aga",
+        "siiski",
+        "seal",
+        "ilmselt",
+        "muidugi",
+        "meil",
+        "kunagi",
+        "veel",
+        "ikka",
+        "küll",
+        "küll",
+        "kusagil",
+        "tegelikult",
+        "kuskil",
+        "ikkagi",
+        "päris",
+        "just",
+        "ainult",
+        "vist",
+        "vist",
+        "üldiselt",
+        "nüüd",
+        "siis",
+        "alati",
+        "nii"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "siin"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "siini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "siini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "siini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "siinisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "siinis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "siinist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "siinile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "siinil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "siinilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "siiniks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "siinini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "siinina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "siinita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "siiniga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "siinid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "siinide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "siine,siinisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "siinidesse,siinesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "siinides,siines"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "siinidest,siinest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "siinidele,siinele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "siinidel,siinel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "siinidelt,siinelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "siinideks,siineks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "siinideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "siinidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "siinideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "siinidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kardinapuu külge kinnitatud terasrenn, milles liiguvad liugurid kardinat hoidvate konksukestega",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "шина",
+                "weight": 1
+              },
+              {
+                "words": "гардинная шина",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "voolujuhtide kogum, mis ühendab arvuti põhiosi ja võimaldab nendevahelist andmevahetust",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "шина",
+                "weight": 1
+              },
+              {
+                "words": "компьютерная шина",
+                "weight": 1
+              },
+              {
+                "words": "магистраль",
+                "weight": 1
+              },
+              {
+                "words": "магистральная шина",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tugev terasest või rauast latt, millel liigub rong, kraana vm raske seade",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "rööbas",
+            "relss"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "рельс",
+                "weight": 1
+              },
+              {
+                "words": "салазки",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rauast vm metallist rõngas, mis ümbritseb sõiduki ratast",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "rattavits",
+            "rehv"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "шина",
+                "weight": 1
+              },
+              {
+                "words": "обруч колёсного обода",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "rööbas",
+        "rööbastik",
+        "roobas",
+        "rööpapaar",
+        "rööbe",
+        "raudteerööbas",
+        "relss",
+        "rattavits",
+        "siinmail",
+        "siinkandis",
+        "siinsamas",
+        "siinpool",
+        "siinkohal",
+        "tõepoolest",
+        "praegu",
+        "tõesti",
+        "see",
+        "juba",
+        "kindlasti",
+        "aga",
+        "aga",
+        "siiski",
+        "seal",
+        "ilmselt",
+        "muidugi",
+        "meil",
+        "kunagi",
+        "veel",
+        "ikka",
+        "küll",
+        "küll",
+        "kusagil",
+        "tegelikult",
+        "kuskil",
+        "ikkagi",
+        "päris",
+        "just",
+        "ainult",
+        "vist",
+        "vist",
+        "üldiselt",
+        "nüüd",
+        "siis",
+        "alati",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "siin",
+      "translations": [
+        "bus",
+        "busbar",
+        "bus bar",
+        "here",
+        "herein (sees)",
+        "(kardinapuu) traverse rod"
+      ]
+    }
+  ]
+}

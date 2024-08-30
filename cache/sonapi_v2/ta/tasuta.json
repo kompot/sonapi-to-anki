@@ -1,0 +1,184 @@
+{
+  "requestedWord": "tasuta",
+  "estonianWord": "tasuta",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tasuta"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selline, mille eest ei pea maksma,selline, mille eest ei pea raha maksma",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Mul on kontserdile kaks tasuta piletit.",
+            "Tasuta kontserdile tuli palju rahvast."
+          ],
+          "synonyms": [
+            "prii,vaba"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "gratuit",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "бесплатный",
+                "weight": 1
+              },
+              {
+                "words": "свободный,бесплатный,даровой",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "безкоштовний",
+                "weight": 1
+              },
+              {
+                "words": "безплатний",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ilma raha maksmata,tasuta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kus saaks internetti tasuta kasutada?",
+            "Õppida saime tasuta.",
+            "Homme pääseb muuseumisse tasuta."
+          ],
+          "synonyms": [
+            "priilt",
+            "muidu",
+            "ilma",
+            "kauba peale,pealekauba",
+            "niisama",
+            "jumala muidu,jumalamuidu",
+            "gratis",
+            "maksuta"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "gratuitement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "бесплатно",
+                "weight": 1
+              },
+              {
+                "words": "задаром",
+                "weight": 1
+              },
+              {
+                "words": "даром",
+                "weight": 1
+              },
+              {
+                "words": "безвозмездно",
+                "weight": 1
+              },
+              {
+                "words": "за так",
+                "weight": 1
+              },
+              {
+                "words": "на дармовщинку",
+                "weight": 1
+              },
+              {
+                "words": "вдобавок,сверх,в придачу,в дополнение к",
+                "weight": 0.7
+              },
+              {
+                "words": "ни за грош,за бесценок,задаром,совсем даром",
+                "weight": 0.9
+              },
+              {
+                "words": "гратис",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "безкоштовно",
+                "weight": 1
+              },
+              {
+                "words": "безплатно",
+                "weight": 1
+              },
+              {
+                "words": "задурно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "priilt",
+        "pealekauba",
+        "maksuta",
+        "ilma",
+        "gratis",
+        "prii",
+        "niisama",
+        "hea mehe poolest",
+        "muidu",
+        "jumalamuidu",
+        "vaba",
+        "asjatult",
+        "tasuline",
+        "aastapilet"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tasuta",
+      "translations": [
+        "(Br) buckshee",
+        "complimentary",
+        "costless",
+        "for free",
+        "free",
+        "free of charge",
+        "gratis",
+        "gratuitous",
+        "no charge",
+        "on the house"
+      ]
+    }
+  ]
+}

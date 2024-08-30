@@ -1,0 +1,79 @@
+{
+  "requestedWord": "ööseks",
+  "estonianWord": "ööseks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ööseks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "öö ajaks, ööks,öö ajaks, ööks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Võid ööseks meile jääda.",
+            "Sõber jäi meie juurde ööseks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "pour la nuit",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "на ночь",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на ніч",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ööbima",
+        "natukeseks",
+        "öösel",
+        "magama",
+        "sinna",
+        "mähku",
+        "kaissu",
+        "lamama",
+        "koju",
+        "vedelema",
+        "rappuma",
+        "rõduuks",
+        "kauemaks",
+        "lebama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ööseks",
+      "translations": []
+    }
+  ]
+}

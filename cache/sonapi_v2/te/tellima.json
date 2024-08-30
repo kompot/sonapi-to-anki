@@ -1,0 +1,933 @@
+{
+  "requestedWord": "tellima",
+  "estonianWord": "tellima",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "tellin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "tellid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "tellib"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "tellime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "tellite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "tellivad"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "telli"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "tellitakse"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "tellita"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "tellisin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "tellisid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "tellis"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "tellisime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "tellisite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "tellisid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "telliti"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "telliksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "telliksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "telliks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "telliksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "telliksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "telliksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "tellitaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "tellinuksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "tellinuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "tellinuks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "tellinuksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "tellinuksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "tellinuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "tellituks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "tellivat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "tellitavat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "tellinuvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "tellituvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "telli"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "telligem"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "tellige"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "telligu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "tellitagu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "tellima"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "tellimata"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "tellimas"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "tellimast"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "tellimaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "tellitama"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "tellida"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "tellides"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "telliv"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "tellitav"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "tellinud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "tellinud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "tellitud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "tellitud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "hrl tasu eest, teenusena või tellimustööna midagi teha, valmistada või sooritada laskma, millegi hankimist, kohaletoomist või -saatmist taotlema,paluma, et mingi ettevõte või inimene sulle kaupa saadaks või teatud teenust osutaks,küsima toitu või jooki restoranis, kohvikus, baaris vms",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Toimetaja mõtleb, kellelt artiklit tellida.",
+            "Takso on veel tellimata!",
+            "Postimüügikataloogidest tellitakse järjest rohkem kaupa.",
+            "Tellisime toidud juba tund aega tagasi.",
+            "Tellisin interneti teel mitu raamatut.",
+            "Kunstnikult telliti presidendi portree.",
+            "Kas olete valmis tellima?",
+            "Ma sooviksin tellida ühe kohvi ja koogi."
+          ],
+          "synonyms": [
+            "paluma",
+            "kutsuma",
+            "küsima"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "order",
+                "weight": 1
+              },
+              {
+                "words": "invite",
+                "weight": 0.9
+              },
+              {
+                "words": "ask",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "commander",
+                "weight": 1
+              },
+              {
+                "words": "demander",
+                "weight": 0.9
+              },
+              {
+                "words": "inviter",
+                "weight": 0.9
+              },
+              {
+                "words": "demander",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "заказывать",
+                "weight": 1
+              },
+              {
+                "words": "заказать",
+                "weight": 1
+              },
+              {
+                "words": "делать заказ",
+                "weight": 1
+              },
+              {
+                "words": "сделать заказ",
+                "weight": 1
+              },
+              {
+                "words": "давать заказ",
+                "weight": 1
+              },
+              {
+                "words": "дать заказ",
+                "weight": 1
+              },
+              {
+                "words": "испросить,испрашивать,вымолить,вымаливать,попросить,упросить,упрашивать,заклинать,умолить,умолять,просить,молить",
+                "weight": 0.9
+              },
+              {
+                "words": "вызывать,вызвать,звать,позвать,приглашать,пригласить,призывать,призвать",
+                "weight": 0.9
+              },
+              {
+                "words": "спроситься,спрашиваться,попросить,просить,спросить,спрашивать",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "замовляти",
+                "weight": 1
+              },
+              {
+                "words": "замовити",
+                "weight": 1
+              },
+              {
+                "words": "просити,благати,попросити",
+                "weight": 0.9
+              },
+              {
+                "words": "кликати,покликати,запрошувати,запросити",
+                "weight": 0.9
+              },
+              {
+                "words": "попросити,просити,спитати,питати",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajakirjanduse ettetellimise kohta)",
+          "partOfSpeech": [],
+          "examples": [
+            "Tellin ainult kultuurilehte."
+          ],
+          "synonyms": [
+            "eeltellima,ette tellima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "выписывать",
+                "weight": 1
+              },
+              {
+                "words": "выписать",
+                "weight": 1
+              },
+              {
+                "words": "подписываться",
+                "weight": 1
+              },
+              {
+                "words": "подписаться",
+                "weight": 1
+              },
+              {
+                "words": "подписываться,подписаться",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "küsima",
+        "paluma",
+        "ette tellima",
+        "kutsuma",
+        "reserveerima",
+        "nõudma",
+        "kinni panema",
+        "broneerima",
+        "eeltellima",
+        "ostma",
+        "bronnima",
+        "timmima",
+        "reguleerima",
+        "rihtima",
+        "korda seadma",
+        "putitama",
+        "valmistama",
+        "paigaldama",
+        "orgunnima",
+        "tegema",
+        "tarnima",
+        "skännima",
+        "nuputama",
+        "hankima",
+        "rullima",
+        "üllitama",
+        "soetama"
+      ]
+    },
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "tellin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "tellid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "tellib"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "tellime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "tellite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "tellivad"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "telli"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "tellitakse"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "tellita"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "tellisin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "tellisid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "tellis"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "tellisime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "tellisite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "tellisid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "telliti"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "telliksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "telliksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "telliks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "telliksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "telliksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "telliksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "tellitaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "tellinuksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "tellinuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "tellinuks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "tellinuksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "tellinuksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "tellinuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "tellituks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "tellivat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "tellitavat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "tellinuvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "tellituvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "telli"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "telligem"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "tellige"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "telligu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "tellitagu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "tellima"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "tellimata"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "tellimas"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "tellimast"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "tellimaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "tellitama"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "tellida"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "tellides"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "telliv"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "tellitav"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "tellinud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "tellinud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "tellitud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "tellitud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi pikkust, kõrgust vm parameetreid soovi kohaselt muutma, reguleerima",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kontoritooli kõrgust saab tellida."
+          ],
+          "synonyms": [
+            "reguleerima,regullima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "регулировать",
+                "weight": 1
+              },
+              {
+                "words": "отрегулировать",
+                "weight": 1
+              },
+              {
+                "words": "налаживать",
+                "weight": 1
+              },
+              {
+                "words": "наладить",
+                "weight": 1
+              },
+              {
+                "words": "регулировать,отрегулировать",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "régler",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "регулювати,відрегулювати",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "paluma",
+        "ette tellima",
+        "kutsuma",
+        "timmima",
+        "reserveerima",
+        "nõudma",
+        "kinni panema",
+        "broneerima",
+        "reguleerima",
+        "rihtima",
+        "korda seadma",
+        "eeltellima",
+        "putitama",
+        "ostma",
+        "valmistama",
+        "paigaldama",
+        "orgunnima",
+        "bronnima",
+        "tegema",
+        "tarnima",
+        "skännima",
+        "nuputama",
+        "hankima",
+        "rullima",
+        "üllitama",
+        "soetama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tellima",
+      "translations": [
+        "order",
+        "(kohale) send out for",
+        "subscribe",
+        "subscribe to"
+      ]
+    }
+  ]
+}

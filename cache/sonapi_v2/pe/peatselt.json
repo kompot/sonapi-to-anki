@@ -1,0 +1,131 @@
+{
+  "requestedWord": "peatselt",
+  "estonianWord": "peatselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "peatselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(üsna) varsti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Asi jõuab peatselt kohtusse."
+          ],
+          "synonyms": [
+            "niipea,nõndapea",
+            "ligemal ajal,lähemal ajal"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "вскоре",
+                "weight": 1
+              },
+              {
+                "words": "в скором времени",
+                "weight": 1
+              },
+              {
+                "words": "скоро",
+                "weight": 1
+              },
+              {
+                "words": "в недалёком будущем",
+                "weight": 1
+              },
+              {
+                "words": "не сегодня-завтра",
+                "weight": 1
+              },
+              {
+                "words": "не так скоро",
+                "weight": 0.7
+              },
+              {
+                "words": "в ближайшее время,в скором времени,в недалёком будущем,вскоре",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "de sitôt",
+                "weight": 0.7
+              },
+              {
+                "words": "prochainement",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "не так швидко",
+                "weight": 0.7
+              },
+              {
+                "words": "незабаром,невдовзі,найближчим часом",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kohe",
+        "kohe",
+        "varsti",
+        "lähemal ajal",
+        "peagi",
+        "pea",
+        "pea",
+        "pea",
+        "pea",
+        "täna-homme",
+        "nüüd-nüüd",
+        "lähemal",
+        "lähipäevil",
+        "koheselt",
+        "taas",
+        "uuesti",
+        "juba",
+        "lõplikult",
+        "kibekiiresti",
+        "siiski",
+        "loodetavasti",
+        "ilmselt",
+        "kiirelt",
+        "tõenäoliselt",
+        "pärast",
+        "ootamatult",
+        "kiiresti",
+        "alles",
+        "hoogsasti",
+        "peats"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "peatselt",
+      "translations": [
+        "(van) betimes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "requestedWord": "kaugele",
+  "estonianWord": "kaugele",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kaugele"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "pika vahemaa taha,eemale",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Melu kostis kaugele.",
+            "Ära uju kaldast väga kaugele!",
+            "Kisa kostis kaugele."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "loin",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "далеко",
+                "weight": 1
+              },
+              {
+                "words": "вдаль",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "далеко",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "pika ajavahemiku taha (minevikus või tulevikus)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Lapsepõlv on jäänud kaugele seljataha."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "далеко",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(edenemise, arenemise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "On elus kaugele jõudnud.",
+            "Manitsemisega kaugele ei jõua.",
+            "Haigus oli juba kaugele arenenud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "далеко",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pikalt",
+        "eemale",
+        "kaugel",
+        "eemalt",
+        "sõidutama",
+        "eemal",
+        "kõrgele",
+        "ühekaugele",
+        "kaugelearenenud",
+        "lähedale",
+        "kaugelenägevus",
+        "kaugemale",
+        "niikaugele",
+        "kaugelt",
+        "nii",
+        "kaugeleulatuv"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kaugele",
+      "translations": [
+        "afar",
+        "far"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,795 @@
+{
+  "requestedWord": "pesu",
+  "estonianWord": "pesu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "pesu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "pesu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "pesu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "pessu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "pesusse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "pesus"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "pesust"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "pesule"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "pesul"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "pesult"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "pesuks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "pesuni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "pesuna"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "pesuta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "pesuga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "pesud"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "pesude"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "pesusid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "pesudesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "pesudes"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "pesudest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "pesudele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "pesudel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "pesudelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "pesudeks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "pesudeni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "pesudena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "pesudeta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "pesudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "pesemine, veega (ja muu vahendiga) puhastamine",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Riided pandi pessu.",
+            "Auto käis pesus."
+          ],
+          "synonyms": [
+            "pesemine",
+            "puhastamine",
+            "puhastus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "стирка",
+                "weight": 1
+              },
+              {
+                "words": "мойка",
+                "weight": 1
+              },
+              {
+                "words": "мытьё",
+                "weight": 1
+              },
+              {
+                "words": "стирка,мытьё",
+                "weight": 0.771
+              },
+              {
+                "words": "чистка",
+                "weight": 0.7
+              },
+              {
+                "words": "очистка,чистка,уборка,очищение,расчистка,прочистка,счистка",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "lavage",
+                "weight": 0.771
+              },
+              {
+                "words": "nettoyage",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "прання,миття",
+                "weight": 0.771
+              },
+              {
+                "words": "чищення",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "pestavad või äsja pestud riideesemed,pestavad või pestud riideesemed",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Pane pesu kuivama.",
+            "Pesu ootab triikimist.",
+            "Panin pesu pesema.",
+            "Panin pesu kuivama.",
+            "Ma ei triigi pesu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "linge",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "бельё",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "білизна",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "keha vastas, teiste riiete all kantavad riietusesemed (nt aluspüksid, särk, rinnahoidja),riideesemed, mida inimene kannab keha vastas teiste riiete all, näiteks aluspüksid ja rinnahoidja",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Külma vastu aitab korralik soe pesu.",
+            "Mulle meeldib kanda seksikat pesu ja minikleite.",
+            "Kannan talvel sooja pesu."
+          ],
+          "synonyms": [
+            "aluspesu",
+            "ihupesu",
+            "pesuese,pesutükk",
+            "intiimpesu",
+            "seljapesu"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "underwear",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "sous-vêtements",
+                "weight": 1
+              },
+              {
+                "words": "linge de corps",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "нижнее бельё",
+                "weight": 1
+              },
+              {
+                "words": "нательное бельё",
+                "weight": 1
+              },
+              {
+                "words": "носильное бельё",
+                "weight": 1
+              },
+              {
+                "words": "бельё,предмет нижнего белья",
+                "weight": 0.7
+              },
+              {
+                "words": "нижнее бельё",
+                "weight": 0.654
+              },
+              {
+                "words": "нижнее бельё",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "білизна",
+                "weight": 1
+              },
+              {
+                "words": "спідня білизна",
+                "weight": 1
+              },
+              {
+                "words": "спідня одежа",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "voodis kasutatavad ja vahetatavad voodilinad, tekikotid, padjapüürid,lina ja katted, mis pannakse patjade ja teki ümber",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mõnus on minna voodisse puhta pesu vahele.",
+            "Ta pani voodisse puhta pesu."
+          ],
+          "synonyms": [
+            "voodipesu",
+            "voodiriided",
+            "asemeriided",
+            "magamisriided",
+            "voodilinad"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "bedding",
+                "weight": 1
+              },
+              {
+                "words": "bedclothes",
+                "weight": 1
+              },
+              {
+                "words": "bed linen",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "linge",
+                "weight": 1
+              },
+              {
+                "words": "linge de lit",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "постельное бельё",
+                "weight": 1
+              },
+              {
+                "words": "постельные принадлежности",
+                "weight": 1
+              },
+              {
+                "words": "постель",
+                "weight": 1
+              },
+              {
+                "words": "бельё",
+                "weight": 1
+              },
+              {
+                "words": "спальные принадлежности,постельные принадлежности",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "постільна білизна",
+                "weight": 1
+              },
+              {
+                "words": "постіль",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "voodiriided",
+        "magamisriided",
+        "voodilinad",
+        "voodipesu",
+        "puhastamine",
+        "puhastus",
+        "riided",
+        "aluspesu",
+        "ihupesu",
+        "seljapesu",
+        "pesemine",
+        "pesuese",
+        "aknapesu",
+        "pesugeel",
+        "pitspesu",
+        "nõudepesu",
+        "pesunõu",
+        "pesuaine",
+        "ööpesu",
+        "käsipesu",
+        "harjapesu",
+        "masinpesu",
+        "pesur",
+        "süvapesu",
+        "survepesu",
+        "õrnpesu",
+        "intiimpesu",
+        "pesuküna",
+        "pesukäsn",
+        "hulk",
+        "kari",
+        "meestesalk",
+        "kari",
+        "trobikond",
+        "salk",
+        "salk",
+        "sagarik",
+        "pesakond",
+        "galerii",
+        "pundar",
+        "seltskond",
+        "polk",
+        "säbarik",
+        "sagar",
+        "sagar",
+        "rood",
+        "rood",
+        "salkkond",
+        "tropp",
+        "tropp",
+        "tropp",
+        "tropp",
+        "rodu",
+        "mügar",
+        "parmas",
+        "jõuk",
+        "sats",
+        "sats",
+        "kobar",
+        "mütsak"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "pesu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "pesu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "pesu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "pessu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "pesusse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "pesus"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "pesust"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "pesule"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "pesul"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "pesult"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "pesuks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "pesuni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "pesuna"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "pesuta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "pesuga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "pesud"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "pesude"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "pesusid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "pesudesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "pesudes"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "pesudest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "pesudele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "pesudel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "pesudelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "pesudeks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "pesudeni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "pesudena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "pesudeta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "pesudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "hulk, trobikond",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Meie ümber ujus terve pesu kõiksugu kalu."
+          ],
+          "synonyms": [
+            "pundar",
+            "kobar,kobarik",
+            "pesakond",
+            "kari,salk,salkkond,summ,trobikond",
+            "hulk"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "скопление,скопище,рой,кучка,куча",
+                "weight": 0.9
+              },
+              {
+                "words": "скопление,скопище,группа,кучка,куча,толпа",
+                "weight": 0.9
+              },
+              {
+                "words": "орава,стая,туча,рой,сомн,куча,группа,гурьба,отряд,ватага,масса,стадо,толпа,скопление,скопище",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hulk",
+        "kari",
+        "trobikond",
+        "salk",
+        "pesakond",
+        "pundar",
+        "seltskond",
+        "polk",
+        "sagar",
+        "rood",
+        "rood",
+        "salkkond",
+        "tropp",
+        "tropp",
+        "tropp",
+        "tropp",
+        "rodu",
+        "mügar",
+        "parmas",
+        "jõuk",
+        "sats",
+        "sats",
+        "kobar",
+        "pesukäsn",
+        "pesuküna",
+        "intiimpesu",
+        "õrnpesu",
+        "aluspesu",
+        "meestesalk",
+        "kari",
+        "salk",
+        "sagarik",
+        "galerii",
+        "säbarik",
+        "sagar",
+        "ihupesu",
+        "seljapesu",
+        "mütsak",
+        "pesemine",
+        "pesuese",
+        "aknapesu",
+        "pesugeel",
+        "nõudepesu",
+        "pesunõu",
+        "pitspesu",
+        "pesuaine",
+        "ööpesu",
+        "käsipesu",
+        "harjapesu",
+        "masinpesu",
+        "pesur",
+        "süvapesu",
+        "survepesu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pesu",
+      "translations": [
+        "clothes",
+        "linen"
+      ]
+    }
+  ]
+}

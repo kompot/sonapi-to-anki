@@ -1,0 +1,120 @@
+{
+  "requestedWord": "eemal",
+  "estonianWord": "eemal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eemal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teatava vahemaa taga, mitte lähedal,(veidi) kaugemal,teatud vahemaa taga,kaugemal, kaugel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Auto peatus tükk maad eemal.",
+            "Nägin eemal kõrgendikku.",
+            "Maja on suurtest teedest eemal.",
+            "Isa viibib tihti kodust eemal."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "loin",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "поодаль",
+                "weight": 1
+              },
+              {
+                "words": "вдали",
+                "weight": 1
+              },
+              {
+                "words": "в сторонке",
+                "weight": 1
+              },
+              {
+                "words": "на отшибе",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "віддалік",
+                "weight": 1
+              },
+              {
+                "words": "далеко",
+                "weight": 1
+              },
+              {
+                "words": "осторонь",
+                "weight": 1
+              },
+              {
+                "words": "поодаль",
+                "weight": 1
+              },
+              {
+                "words": "на відшибі",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millestki kõrval, kuskilt ära",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Olin pikalt blogist eemal.",
+            "Olin seitse aastat Eestist eemal."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "tagapool",
+        "kaugemal",
+        "kaugele",
+        "kaugel",
+        "eemalt",
+        "eemale",
+        "eemalseisja",
+        "eemalolek"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "eemal",
+      "translations": [
+        "aloof"
+      ]
+    }
+  ]
+}

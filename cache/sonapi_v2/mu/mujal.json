@@ -1,0 +1,101 @@
+{
+  "requestedWord": "mujal",
+  "estonianWord": "mujal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "mujal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teises, muus kohas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ma ei taha kuskil mujal elada kui Eestis.",
+            "Nad ei teagi, mis mujal maailmas toimub.",
+            "Ta pole käinud kusagil mujal peale Prantsusmaa.",
+            "Mind huvitab, kuidas mujal elatakse."
+          ],
+          "synonyms": [
+            "teisal"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "ailleurs",
+                "weight": 1
+              },
+              {
+                "words": "autre part",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в другом месте",
+                "weight": 1
+              },
+              {
+                "words": "в других местах",
+                "weight": 1
+              },
+              {
+                "words": "в других краях",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "в іншому місці",
+                "weight": 1
+              },
+              {
+                "words": "деінде",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "teisal",
+        "rohkem",
+        "rohkem",
+        "seal",
+        "isegi",
+        "nii",
+        "siin-seal",
+        "siin",
+        "siin",
+        "kusagil",
+        "kõikjal",
+        "siinsamas",
+        "kaugemal",
+        "kuskil"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "mujal",
+      "translations": [
+        "elsewhere"
+      ]
+    }
+  ]
+}

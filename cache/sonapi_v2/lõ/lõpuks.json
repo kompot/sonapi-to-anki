@@ -1,0 +1,187 @@
+{
+  "requestedWord": "lõpuks",
+  "estonianWord": "lõpuks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "lõpuks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "eelnenu järel või lõpus,kaua kestnud tegevuse või olukorra järel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Helistasin raadiosse mitu korda, lõpuks vedaski.",
+            "Lõpuks ometi on õiglus jalule seatud.",
+            "Lõpuks sai töö valmis.",
+            "Pärast pikka sõitu jõudsime lõpuks kohale."
+          ],
+          "synonyms": [
+            "viimaks"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "finally",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "finalement",
+                "weight": 1
+              },
+              {
+                "words": "enfin",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "наконец",
+                "weight": 1
+              },
+              {
+                "words": "наконец-то",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "нарешті",
+                "weight": 1
+              },
+              {
+                "words": "нарешті-таки",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(jutu, kõne vms) lõpetuseks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Lõpuks tahaksin öelda, et .."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "наконец",
+                "weight": 1
+              },
+              {
+                "words": "под конец",
+                "weight": 1
+              },
+              {
+                "words": "напоследок",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tegelikult, õieti, õigupoolest",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kes ta mees siis lõpuks on?",
+            "Õpetajad on ju ka lõpuks inimesed."
+          ],
+          "synonyms": [
+            "lõppeks"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "наконец",
+                "weight": 1
+              },
+              {
+                "words": "в конце концов",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "õieti",
+        "lõppude lõpuks",
+        "ausalt öelda",
+        "ükskord",
+        "päriselt",
+        "kord",
+        "kord",
+        "kord",
+        "lõppeks",
+        "iseenesest",
+        "õigupoolest",
+        "tõsi",
+        "õigupärast",
+        "tegelikult",
+        "viimaks",
+        "ausalt",
+        "tõtt-öelda",
+        "viimati",
+        "ikkagi",
+        "algul",
+        "jälle",
+        "ometi",
+        "alguses",
+        "lõpusilp",
+        "algult",
+        "taas",
+        "küll",
+        "küll",
+        "lõppkokkuvõttes",
+        "peagi",
+        "lõpusirge",
+        "nüüd",
+        "alguseks",
+        "lõpus",
+        "aga",
+        "aga",
+        "siiski"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lõpuks",
+      "translations": [
+        "at last",
+        "at the end",
+        "eventually",
+        "finally",
+        "lastly"
+      ]
+    }
+  ]
+}

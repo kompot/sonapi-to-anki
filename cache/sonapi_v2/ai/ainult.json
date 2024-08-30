@@ -1,0 +1,371 @@
+{
+  "requestedWord": "ainult",
+  "estonianWord": "ainult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ainult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "alustab lauset või lauseosa, mis piirab või täpsustab eelnenud väidet,sõna, mis ühendab lauses mingis mõttes vastandeid",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta pole paha tüdruk – ainult veidi laisk.",
+            "Väärt kauba eest saab ka halval ajal palju raha, ainult et võib-olla mitte liiga kiiresti.",
+            "Kõik olid kohal, ainult Peeter puudus.",
+            "Ta on tark tüdruk, ainult veidi laisk."
+          ],
+          "synonyms": [
+            "ainult et",
+            "muudkui et"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "only",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "seulement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "только",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тільки",
+                "weight": 1
+              },
+              {
+                "words": "лише",
+                "weight": 1
+              },
+              {
+                "words": "лиш",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "välistab muud võimalused peale mainitu,näitab, et muud võimalused on välistatud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Laps vajas õnneks ainult esmaabi.",
+            "Ma tahan ainult, et keegi ei teaks.",
+            "Autoregistrit kasutab ainult politsei.",
+            "Ma joon kohvi ainult hommikuti.",
+            "Ainult sina oskad seda teha."
+          ],
+          "synonyms": [
+            "vaid",
+            "üksnes"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "only",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "seulement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "только",
+                "weight": 1
+              },
+              {
+                "words": "лишь",
+                "weight": 1
+              },
+              {
+                "words": "только лишь",
+                "weight": 1
+              },
+              {
+                "words": "единственно",
+                "weight": 1
+              },
+              {
+                "words": "исключительно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тільки",
+                "weight": 1
+              },
+              {
+                "words": "лише",
+                "weight": 1
+              },
+              {
+                "words": "лиш",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab, et midagi on vähem kui vaja või eeldatud,mitte rohkem kui,vähem kui vaja või loodetud,mitte rohkem kui",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Raamatut on trükitud ainult 200 eksemplari.",
+            "Tal on ainult üks laps.",
+            "Reis kestis ainult ühe nädala.",
+            "Tule ainult korraks!",
+            "Jätke käsipagasisse ainult lennul vajalik."
+          ],
+          "synonyms": [
+            "vaid",
+            "kõigest",
+            "üksnes"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "only",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "seulement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "только",
+                "weight": 1
+              },
+              {
+                "words": "лишь",
+                "weight": 1
+              },
+              {
+                "words": "всего",
+                "weight": 1
+              },
+              {
+                "words": "только лишь",
+                "weight": 1
+              },
+              {
+                "words": "лишь только",
+                "weight": 1
+              },
+              {
+                "words": "всего лишь",
+                "weight": 1
+              },
+              {
+                "words": "всего-навсего",
+                "weight": 1
+              },
+              {
+                "words": "всего только",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тільки",
+                "weight": 1
+              },
+              {
+                "words": "лише",
+                "weight": 1
+              },
+              {
+                "words": "лиш",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "aitab öeldavat rõhutada",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Katsugu ainult puutuda!",
+            "Ole ainult mees ja meisterda see valmis.",
+            "Oleks ainult rohkem selliseid kalamehi."
+          ],
+          "synonyms": [
+            "vaid",
+            "ainuüksi,paljalt,pelgalt,üksi,üksipäinis,ükspäinis,üksipäini,üksinda"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "только",
+                "weight": 1
+              },
+              {
+                "words": "лишь",
+                "weight": 1
+              },
+              {
+                "words": "лишь бы",
+                "weight": 1
+              },
+              {
+                "words": "только лишь,только,лишь,единственно,исключительно,один только,один лишь",
+                "weight": 0.7783
+              }
+            ],
+            "fra": [
+              {
+                "words": "seul,seulement",
+                "weight": 0.7783
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тільки,лише,лиш",
+                "weight": 0.7783
+              }
+            ],
+            "eng": [
+              {
+                "words": "only",
+                "weight": 0.7783
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "aga",
+        "aga",
+        "paljalt",
+        "puht",
+        "puht",
+        "ainumalt",
+        "ainult et",
+        "puha",
+        "selge",
+        "muudkui",
+        "ükspäinis",
+        "üksnes",
+        "üksi",
+        "vaid",
+        "alles",
+        "kõigest",
+        "puhtakujuline",
+        "lihtne",
+        "kõigest kõike",
+        "pelk",
+        "paljas",
+        "aina",
+        "ainuüksi",
+        "puhas",
+        "pelgalt",
+        "niipea kui",
+        "vaevalt",
+        "oma",
+        "oma",
+        "oma",
+        "neid",
+        "samaaegselt",
+        "tõesti",
+        "ühe",
+        "see",
+        "siiski",
+        "seal",
+        "muidugi",
+        "sama",
+        "sama",
+        "kui",
+        "kui",
+        "tavaliselt",
+        "pigem",
+        "rohkem",
+        "rohkem",
+        "mitte",
+        "mitte",
+        "vähemalt",
+        "kõik",
+        "isegi",
+        "veel",
+        "enam",
+        "enam",
+        "küll",
+        "küll",
+        "ikka",
+        "enamasti",
+        "tegelikult",
+        "mingitmoodi",
+        "peaaegu",
+        "ikkagi",
+        "mingitpidi",
+        "võimalik",
+        "üldiselt",
+        "lihtsalt",
+        "siis",
+        "alati",
+        "mingi",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ainult",
+      "translations": [
+        "exclusively",
+        "mere",
+        "nothing but the (midagi)",
+        "nothing else but",
+        "only",
+        "solely",
+        "strictly"
+      ]
+    }
+  ]
+}

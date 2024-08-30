@@ -1,0 +1,331 @@
+{
+  "requestedWord": "suusatamine",
+  "estonianWord": "suusatamine",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "12",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "suusatamine"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "suusatamise"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "suusatamist"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "suusatamisse"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "suusatamisesse"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "suusatamises"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "suusatamisest"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "suusatamisele"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "suusatamisel"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "suusatamiselt"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "suusatamiseks"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "suusatamiseni"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "suusatamisena"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "suusatamiseta"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "suusatamisega"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "suusatamised"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "suusatamiste"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "suusatamisi"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "suusatamistesse,suusatamisisse"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "suusatamistes,suusatamisis"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "suusatamistest,suusatamisist"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "suusatamistele,suusatamisile"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "suusatamistel,suusatamisil"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "suusatamistelt,suusatamisilt"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "suusatamisteks,suusatamisiks"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "suusatamisteni"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "suusatamistena"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "suusatamisteta"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "suusatamistega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "spordiala, mis hõlmab murdmaasuusatamise, kahevõistluse, mäesuusatamise, suusahüpped, lumelauavõistlused jt suusavõistlused",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "MM-võistlused suusatamises.",
+            "Naiste 10 km suusatamine."
+          ],
+          "synonyms": [
+            "suusasport"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "skiing",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "лыжный спорт",
+                "weight": 1
+              },
+              {
+                "words": "лыжи",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "лижний спорт",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "suuskadel sõitmine,suuskadega sõitmine",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Suvised matkarajad sobivad talvel suusatamiseks ja kelgutamiseks.",
+            "Mulle meeldib suusatamine."
+          ],
+          "synonyms": [
+            "suusasõit"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "skiing",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "ski",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "катание на лыжах",
+                "weight": 1
+              },
+              {
+                "words": "бег на лыжах",
+                "weight": 1
+              },
+              {
+                "words": "ходьба на лыжах",
+                "weight": 1
+              },
+              {
+                "words": "хождение на лыжах",
+                "weight": 1
+              },
+              {
+                "words": "бег на лыжах,лыжный пробег,лыжная гонка,ходьба на лыжах,хождение на лыжах,катание на лыжах",
+                "weight": 0.8413
+              }
+            ],
+            "ukr": [
+              {
+                "words": "катання на лижах",
+                "weight": 1
+              },
+              {
+                "words": "їзда на лижах",
+                "weight": 1
+              },
+              {
+                "words": "ходіння на лижах",
+                "weight": 1
+              },
+              {
+                "words": "лижвування",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "suusasport",
+        "suusasõit",
+        "mäesuusatamine",
+        "vigursuusatamine",
+        "rullsuusatamine",
+        "suusaorienteerumine",
+        "kelgutamine",
+        "veesuusatamine",
+        "suusatamisvõistlus",
+        "teatesuusatamine",
+        "suusahüpe",
+        "suusatrenn",
+        "suusavõistlus",
+        "märkesuusatamine",
+        "suusakross",
+        "laskesuusatamine",
+        "murdmaasuusatamine",
+        "suusatalv",
+        "suusanõlv"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "suusatamine",
+      "translations": [
+        "skating",
+        "skiing"
+      ]
+    }
+  ]
+}

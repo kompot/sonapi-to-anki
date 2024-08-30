@@ -1,0 +1,337 @@
+{
+  "requestedWord": "vaid",
+  "estonianWord": "vaid",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vaid"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab, et midagi on vähem kui vaja või eeldatud,mitte rohkem kui,vähem kui vaja või loodetud,mitte rohkem kui",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Olümpiavõitja on tänavu võitnud vaid ühe võistluse.",
+            "Kõhklesin vaid hetke.",
+            "Mul on vaid paar eurot.",
+            "Sain vaid korraks puhata."
+          ],
+          "synonyms": [
+            "ainult",
+            "kõigest",
+            "üksnes"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "only",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "seulement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "только",
+                "weight": 1
+              },
+              {
+                "words": "лишь",
+                "weight": 1
+              },
+              {
+                "words": "всего",
+                "weight": 1
+              },
+              {
+                "words": "только лишь",
+                "weight": 1
+              },
+              {
+                "words": "лишь только",
+                "weight": 1
+              },
+              {
+                "words": "всего лишь",
+                "weight": 1
+              },
+              {
+                "words": "всего-навсего",
+                "weight": 1
+              },
+              {
+                "words": "всего только",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тільки",
+                "weight": 1
+              },
+              {
+                "words": "лише",
+                "weight": 1
+              },
+              {
+                "words": "лиш",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "välistab muud võimalused peale mainitu,näitab, et muud võimalused on välistatud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Koju jäi vaid vanaema.",
+            "Ütlen seda vaid sulle.",
+            "Soodustus kehtib vaid üliõpilastele.",
+            "Seda oskab öelda vaid arst.",
+            "Mul on vaid paar eurot."
+          ],
+          "synonyms": [
+            "ainult",
+            "üksnes"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "only",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "seulement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "только",
+                "weight": 1
+              },
+              {
+                "words": "лишь",
+                "weight": 1
+              },
+              {
+                "words": "только лишь",
+                "weight": 1
+              },
+              {
+                "words": "единственно",
+                "weight": 1
+              },
+              {
+                "words": "исключительно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тільки",
+                "weight": 1
+              },
+              {
+                "words": "лише",
+                "weight": 1
+              },
+              {
+                "words": "лиш",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(vastandavalt:) esineb eitava ja jaatava lauseosa vahel, kus jaatav asendab eitava,ühendab lauses üksteist välistavaid osi",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Otsus ei sündinud üleöö, vaid ajapikku.",
+            "Peanahka ei tohi hõõruda, vaid piirduda kerge massaažiga.",
+            "Neil pole mitte poeg, vaid tütar.",
+            "Kristjan ei läinud kinno, vaid teatrisse."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "mais",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "а",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "а",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "aitab öeldavat rõhutada",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Siin on kõike küllalt, võtke vaid.",
+            "Mõelda vaid!",
+            "Oleks vaid isa kodus!"
+          ],
+          "synonyms": [
+            "ainult",
+            "ainuüksi,paljalt,pelgalt,üksi,üksipäinis,ükspäinis,üksipäini,üksinda"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "только",
+                "weight": 1
+              },
+              {
+                "words": "лишь",
+                "weight": 1
+              },
+              {
+                "words": "лишь бы",
+                "weight": 1
+              },
+              {
+                "words": "только лишь,только,лишь,единственно,исключительно,один только,один лишь",
+                "weight": 0.7783
+              }
+            ],
+            "fra": [
+              {
+                "words": "seul,seulement",
+                "weight": 0.7783
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тільки,лише,лиш",
+                "weight": 0.7783
+              }
+            ],
+            "eng": [
+              {
+                "words": "only",
+                "weight": 0.7783
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "aga",
+        "aga",
+        "hoopiski",
+        "kõigest",
+        "aina",
+        "paljalt",
+        "teistpidi",
+        "muudkui",
+        "ainult",
+        "üksnes",
+        "hoopis",
+        "koguni",
+        "ümberpöördult",
+        "kõigest kõike",
+        "alles",
+        "kogunisti",
+        "vastupidi",
+        "niipea kui",
+        "ent",
+        "kuid",
+        "vaevalt",
+        "tõepoolest",
+        "kuigi",
+        "neid",
+        "ühe",
+        "see",
+        "pelgalt",
+        "siiski",
+        "praktiliselt",
+        "ilmselt",
+        "tavaliselt",
+        "seega",
+        "pigem",
+        "üldse",
+        "mitte",
+        "mitte",
+        "vähemalt",
+        "isegi",
+        "enam",
+        "enam",
+        "veel",
+        "küll",
+        "küll",
+        "enamasti",
+        "kasvõi",
+        "tegelikult",
+        "kaugeltki",
+        "peaaegu",
+        "ikkagi",
+        "sest",
+        "ega",
+        "niivõrd",
+        "üldiselt",
+        "lihtsalt",
+        "siis",
+        "alati",
+        "sugugi",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vaid",
+      "translations": [
+        "but",
+        "only",
+        "solely"
+      ]
+    }
+  ]
+}

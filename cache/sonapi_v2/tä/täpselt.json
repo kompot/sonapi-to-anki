@@ -1,0 +1,338 @@
+{
+  "requestedWord": "täpselt",
+  "estonianWord": "täpselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "täpselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "õigesti, tegelikkusele või etteantule vastavalt,üksikasjalikult, konkreetselt, selgelt,õigesti,selgelt, üksikasjalikult",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta mäletas juhtunut täpselt.",
+            "Ma ei tea täpselt, millal ma jõuan.",
+            "Ma tean täpselt, kui palju mul arvel raha on.",
+            "Seletage palun täpsemalt, mis teiega juhtus."
+          ],
+          "synonyms": [
+            "akuraat,akuraatselt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "exactement",
+                "weight": 1
+              },
+              {
+                "words": "précisément",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "точно",
+                "weight": 1
+              },
+              {
+                "words": "в точности",
+                "weight": 1
+              },
+              {
+                "words": "точь-в-точь",
+                "weight": 1
+              },
+              {
+                "words": "аккуратно",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "точно",
+                "weight": 1
+              },
+              {
+                "words": "достоту",
+                "weight": 1
+              },
+              {
+                "words": "достеменно",
+                "weight": 1
+              },
+              {
+                "words": "точнісінько",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(millegi mõõdetavaga ühenduses:) ei rohkem ega vähem kui,ei varem ega hiljem kui,mitte rohkem ega vähem (või varem ega hiljem) mingist konkreetsest ajast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pakk kaalub täpselt üks kilo.",
+            "See juhtus täpselt nädal aega tagasi.",
+            "Kontsert kestab täpselt kaks tundi.",
+            "Buss saabus väga täpselt.",
+            "Kell on täpselt neli."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "exactement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "ровно",
+                "weight": 1
+              },
+              {
+                "words": "точно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "рівно",
+                "weight": 1
+              },
+              {
+                "words": "точно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "etteantud mõõte, nõudeid vms arvestades",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kapp mahub siia täpselt ära.",
+            "Söögikordadest on vaja täpselt kinni pidada."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "tabavalt, otse sihtmärki",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Poiss viskab täpselt, aga kaitses on kehv."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(rõhutav üldlaiend, kinnitab, rõhutab väidet:) täiesti, igas mõttes,just, täiesti, igas mõttes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Täpselt minu mõte!",
+            "Õdedel on täpselt ühesugused mütsid.",
+            "Laps tegi täpselt nii, nagu ema ütles.",
+            "Ma arvan täpselt samamoodi."
+          ],
+          "synonyms": [
+            "just",
+            "nimelt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "précisément",
+                "weight": 1
+              },
+              {
+                "words": "justement",
+                "weight": 1
+              },
+              {
+                "words": "exactement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "именно",
+                "weight": 1
+              },
+              {
+                "words": "собственно",
+                "weight": 1
+              },
+              {
+                "words": "как раз",
+                "weight": 1
+              },
+              {
+                "words": "в точности",
+                "weight": 1
+              },
+              {
+                "words": "точно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "саме",
+                "weight": 1
+              },
+              {
+                "words": "якраз",
+                "weight": 1
+              },
+              {
+                "words": "власне",
+                "weight": 1
+              },
+              {
+                "words": "точно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "justament",
+        "just",
+        "punktipealselt",
+        "akuraat",
+        "akuraat",
+        "parasjagu",
+        "karvapealt",
+        "vahetult",
+        "piinlikult",
+        "operatiivselt",
+        "nimelt",
+        "jõhvipealt",
+        "sekundipealt",
+        "nagu kellavärk",
+        "punkt",
+        "punkt",
+        "ju",
+        "täpipealt",
+        "otse",
+        "otse",
+        "otseselt",
+        "punktipealt",
+        "kriipsupealt",
+        "’p",
+        "minutipealt",
+        "sendipealt",
+        "täpilt",
+        "otseteed",
+        "akuraatselt",
+        "täpp-täpilt",
+        "teravalt",
+        "hoolikalt",
+        "kindlalt",
+        "korralikult",
+        "vääramatult",
+        "osavalt",
+        "tabavalt",
+        "kindlasti",
+        "kahtlemata",
+        "püüdlikult",
+        "hoolsalt",
+        "puhtalt",
+        "kindla peale",
+        "ligilähedaselt",
+        "vahedalt",
+        "samaaegselt",
+        "see",
+        "juba",
+        "üheselt",
+        "aga",
+        "aga",
+        "võimalikult",
+        "miskitmoodi",
+        "umbes",
+        "umbes",
+        "surmkindlalt",
+        "sama",
+        "sama",
+        "põhimõtteliselt",
+        "hästi",
+        "selgelt",
+        "umbes-täpselt",
+        "veel",
+        "õigesti",
+        "ikka",
+        "küll",
+        "küll",
+        "nagu",
+        "üsna",
+        "tegelikult",
+        "ise",
+        "ise",
+        "ise",
+        "konkreetselt",
+        "päris",
+        "ülitäpselt",
+        "samamoodi",
+        "enam-vähem",
+        "nüüd",
+        "umbestäpselt",
+        "alati",
+        "millal",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "täpselt",
+      "translations": [
+        "accurately",
+        "closely",
+        "exactly",
+        "incisively",
+        "precisely",
+        "punctually",
+        "quite",
+        "sharp"
+      ]
+    }
+  ]
+}

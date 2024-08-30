@@ -1,0 +1,127 @@
+{
+  "requestedWord": "tahtlikult",
+  "estonianWord": "tahtlikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tahtlikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "meelega, plaanitsetult",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Seadust on võimalik rikkuda nii tahtlikult kui hooletult."
+          ],
+          "synonyms": [
+            "teadvalt",
+            "meelega,nimelt,nimme,sihilikult"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "умышленно",
+                "weight": 1
+              },
+              {
+                "words": "преднамеренно",
+                "weight": 1
+              },
+              {
+                "words": "намеренно",
+                "weight": 1
+              },
+              {
+                "words": "сознательно",
+                "weight": 1
+              },
+              {
+                "words": "разумно,осмысленно,сознательно,осознанно",
+                "weight": 0.7867
+              },
+              {
+                "words": "назло,нарочито,преднамеренно,намеренно,умышленно,нарочно,специально",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "exprès,volontairement",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "навмисно,навмисне,умисно,умисне,з наміром,спеціально",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "on purpose",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "just",
+        "nimme",
+        "nimme",
+        "meelega",
+        "teadlikult",
+        "nimelt",
+        "vihuti",
+        "taotluslikult",
+        "teadvalt",
+        "sihilikult",
+        "kiuste",
+        "kiuste",
+        "rõhutatult",
+        "ettekavatsetult",
+        "tahtlik",
+        "ebaseaduslikult",
+        "kogemata",
+        "pahauskselt",
+        "tahtmatult",
+        "alateadlikult",
+        "tahtmatu",
+        "kuritahtlik",
+        "võikalt",
+        "kuritahtlikult",
+        "valelikult",
+        "pahatahtlikult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tahtlikult",
+      "translations": [
+        "by choice",
+        "deliberately",
+        "intensionally",
+        "intentionally",
+        "purposely",
+        "scienter",
+        "wilfully"
+      ]
+    }
+  ]
+}

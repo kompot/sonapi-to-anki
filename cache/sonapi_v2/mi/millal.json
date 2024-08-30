@@ -1,0 +1,184 @@
+{
+  "requestedWord": "millal",
+  "estonianWord": "millal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "millal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "küsiv-siduv sõna: mis ajal,mis ajal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kus ja millal loengud toimuvad?",
+            "Millal sa viimati piiblit lugesid?",
+            "Ma ei tea, millal ta tuleb.",
+            "Millal kontsert algab?",
+            "Ma ei tea, millal Jüri sünnipäev on."
+          ],
+          "synonyms": [
+            "kunas",
+            "millas"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "when",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "quand",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "когда",
+                "weight": 1
+              },
+              {
+                "words": "когда же",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "коли",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb ebamäärast, juhuslikku aega osutavates väljendites",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tegemist on ajatu looga, mis võib aset leida millal iganes.",
+            "Neid harjutusi saab teha ükskõik kus ja ükskõik millal."
+          ],
+          "synonyms": [
+            "kunas"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "when",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "когда",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "siduv sõna: mis juhul, millisel korral",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tekstist ei selgu, millal on jutt bruto-, millal netopalgast."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "when",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(lausetes, mis väljendavad kõneleja eitavat arvamust või kahtlevat ootust, soovi)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Millal enne töö rikkaks on teinud.",
+            "Millal see aeg ükskord tuleb!"
+          ],
+          "synonyms": [
+            "kunas",
+            "millas"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "when",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "когда же",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kuna",
+        "kuna",
+        "kunas",
+        "mil",
+        "kas",
+        "kustkohast",
+        "kust",
+        "ükskord",
+        "täpselt",
+        "kuidas",
+        "missugune",
+        "mismoodi",
+        "millalgi",
+        "kumb",
+        "miks",
+        "miks",
+        "milline",
+        "aeg",
+        "siis"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "millal",
+      "translations": [
+        "when"
+      ]
+    }
+  ]
+}

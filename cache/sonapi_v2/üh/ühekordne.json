@@ -1,0 +1,326 @@
+{
+  "requestedWord": "ühekordne",
+  "estonianWord": "ühekordne",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "ühekordne"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "ühekordse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "ühekordset"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "ühekordsesse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "ühekordses"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "ühekordsest"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "ühekordsele"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "ühekordsel"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "ühekordselt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "ühekordseks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "ühekordseni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "ühekordsena"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "ühekordseta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "ühekordsega"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "ühekordsed"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "ühekordsete"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "ühekordseid"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "ühekordsetesse,ühekordseisse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "ühekordsetes,ühekordseis"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "ühekordsetest,ühekordseist"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "ühekordsetele,ühekordseile"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "ühekordsetel,ühekordseil"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "ühekordsetelt,ühekordseilt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "ühekordseteks,ühekordseiks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "ühekordseteni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "ühekordsetena"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "ühekordseteta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "ühekordsetega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ühest osast, kihist vms koosnev",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Ühekordsed aknad."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "одинарный",
+                "weight": 1
+              },
+              {
+                "words": "одиночный",
+                "weight": 1
+              },
+              {
+                "words": "однослойный",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ühest korrusest koosnev,selline, millel on üks korrus",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Ühekordne piklik hoone."
+          ],
+          "synonyms": [
+            "ühekorruseline"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "one-storey",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "de plain-pied",
+                "weight": 1
+              },
+              {
+                "words": "sur un seul niveau",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "одноэтажный",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "одноповерховий",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ühel korral või ühel viisil toimuv või esinev, üks kord kehtiv vms,ühel korral toimuv või tehtav,üks kord kasutatav",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Ühekordne süstal.",
+            "Ühekordne preemia."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "одноразовый",
+                "weight": 1
+              },
+              {
+                "words": "однократный",
+                "weight": 1
+              },
+              {
+                "words": "единовременный",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "одноразовий",
+                "weight": 1
+              },
+              {
+                "words": "однократний",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ühekorruseline",
+        "mitmekordne",
+        "kolmekordne",
+        "igakordne",
+        "kahekordne",
+        "paljukordne",
+        "kordne",
+        "kümnekordne",
+        "viiekordne"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ühekordne",
+      "translations": [
+        "onetime",
+        "one-time",
+        "throwaway"
+      ]
+    }
+  ]
+}

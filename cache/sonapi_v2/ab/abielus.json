@@ -1,0 +1,91 @@
+{
+  "requestedWord": "abielus",
+  "estonianWord": "abielus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "abielus"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "seisund, kus kaks inimest on ametlikus liidus ja hrl elavad koos,seisund, kus kaks inimest on ametlikus liidus",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kas olete abielus või vallaline?"
+          ],
+          "synonyms": [
+            "laulatatud",
+            "paari heitnud"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "married",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "женат",
+                "weight": 1
+              },
+              {
+                "words": "замужем",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "одружений",
+                "weight": 1
+              },
+              {
+                "words": "замiжня",
+                "weight": 1
+              },
+              {
+                "words": "одружена",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "paari heitnud",
+        "laulatatud",
+        "abielukriis",
+        "abielusuhted",
+        "abieluõnn",
+        "abieluaasta",
+        "abieluinimene",
+        "abielusõrmus",
+        "abieluakt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "abielus",
+      "translations": [
+        "covert",
+        "married"
+      ]
+    }
+  ]
+}

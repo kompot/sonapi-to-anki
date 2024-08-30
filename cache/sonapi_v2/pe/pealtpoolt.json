@@ -1,0 +1,109 @@
+{
+  "requestedWord": "pealtpoolt",
+  "estonianWord": "pealtpoolt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "pealtpoolt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(paiknemise kohta või suunda osutavalt:) millegi allpool asuva suhtes kõrgemalt, pealmiselt poolelt, ülapoolelt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Pealtpoolt oli liiv kuivem.",
+            "Jalg tuli pealtpoolt põlve amputeerida.",
+            "Lehed oli pealtpoolt kaetud siidjate karvadega."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "выше",
+                "weight": 1
+              },
+              {
+                "words": "сверху",
+                "weight": 1
+              },
+              {
+                "words": "с верхней стороны",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "väli(mi)selt küljelt, väljastpoolt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Puhastas püssi ainult pealtpoolt.",
+            "Pealtpoolt oli ta kaunitar, aga seestpoolt ehtne fuuria."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "снаружи",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pealt",
+        "üle",
+        "ülal",
+        "ülalt",
+        "ülevalt",
+        "ülevalt",
+        "peal",
+        "üleval",
+        "pealpool",
+        "siitpoolt",
+        "tagantpoolt",
+        "eestpoolt",
+        "seestpoolt",
+        "otsaeest",
+        "pealepoole",
+        "jalapealt",
+        "ülevaltpoolt",
+        "ülaltpoolt",
+        "sealtpoolt",
+        "altpoolt",
+        "kustpoolt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pealtpoolt",
+      "translations": []
+    }
+  ]
+}

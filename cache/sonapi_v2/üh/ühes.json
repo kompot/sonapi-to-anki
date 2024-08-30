@@ -1,0 +1,125 @@
+{
+  "requestedWord": "ühes",
+  "estonianWord": "ühes",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ühes"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(kuhugi minnes) kellegagi või millegagi koos, üheskoos",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Ma lähen linna, kas tuled ühes?",
+            "Sinuga ühes ei karda ma midagi.",
+            "Kiirabibrigaad ühes haigega jäi lifti kinni.",
+            "Pansionaat tähendab korterit ühes söögiga."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вместе",
+                "weight": 1
+              },
+              {
+                "words": "со",
+                "weight": 1
+              },
+              {
+                "words": "вместе со",
+                "weight": 1
+              },
+              {
+                "words": "вместе с",
+                "weight": 1
+              },
+              {
+                "words": "совместно с",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kuhugi minnes) endaga kaasas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Jahimees võttis püssi ühes.",
+            "Meil oli nädala toit ühes."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "с собой",
+                "weight": 1
+              },
+              {
+                "words": "при себе",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ligi",
+        "hulka",
+        "mesti",
+        "kõige",
+        "kilda",
+        "vahele",
+        "keskele",
+        "man",
+        "kõige täiega",
+        "kaasa",
+        "kaasa",
+        "kogu täiega",
+        "sekka",
+        "koos",
+        "koos",
+        "manu",
+        "seltsi",
+        "sleppi",
+        "samas",
+        "mitmes"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ühes",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "requestedWord": "esmakordselt",
+  "estonianWord": "esmakordselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "esmakordselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "algselt, esimesena",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Esmakordselt tundsin, et saan Hamletist aru.",
+            "Olin siin söögikohas esmakordselt.",
+            "Konverents toimub tänavu esmakordselt Eestis."
+          ],
+          "synonyms": [
+            "esimest korda"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "at the first opportunity",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "pour la première fois",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "впервые",
+                "weight": 1
+              },
+              {
+                "words": "в первый раз",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "уперше",
+                "weight": 1
+              },
+              {
+                "words": "перший раз",
+                "weight": 1
+              },
+              {
+                "words": "у перший раз",
+                "weight": 1
+              },
+              {
+                "words": "першого разу",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "esmakordne",
+        "teistkordselt",
+        "korda",
+        "juba",
+        "ametlikult",
+        "taas",
+        "uuesti",
+        "esmalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "esmakordselt",
+      "translations": [
+        "for the first time"
+      ]
+    }
+  ]
+}

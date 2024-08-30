@@ -1,0 +1,178 @@
+{
+  "requestedWord": "kuskilt",
+  "estonianWord": "kuskilt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kuskilt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingist kohast või suunast, täpselt teadmata kust,mingist kohast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kas ma kuskilt võlgu saan?",
+            "Kuskilt eemalt tuli tuul.",
+            "Ta ostis need saapad kuskilt allahindlusega.",
+            "Kas sul valutab kuskilt?"
+          ],
+          "synonyms": [
+            "kusagilt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "(de) quelque part",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "откуда-то",
+                "weight": 1
+              },
+              {
+                "words": "откуда-нибудь",
+                "weight": 1
+              },
+              {
+                "words": "откуда-либо",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звідкись",
+                "weight": 1
+              },
+              {
+                "words": "звідкілясь",
+                "weight": 1
+              },
+              {
+                "words": "звідки-небудь",
+                "weight": 1
+              },
+              {
+                "words": "звідкільсь",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mitte mingist kohast, mitte ühestki kohast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ma ei leidnud oma kindaid kuskilt.",
+            "Tööd ei saa kuskilt.",
+            "Ma pole sobivat mantlit kuskilt leidnud."
+          ],
+          "synonyms": [
+            "kusagilt",
+            "kustki"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "nulle part",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "ниоткуда",
+                "weight": 1
+              },
+              {
+                "words": "неоткуда",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "нізвідки",
+                "weight": 1
+              },
+              {
+                "words": "нізвідкіля",
+                "weight": 1
+              },
+              {
+                "words": "нівідкіля",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingist täpsemalt määratlemata ajast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kuskilt kümne aasta tagusest ajast meenub mulle üks samalaadne lugu."
+          ],
+          "synonyms": [
+            "kusagilt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "откуда-то",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mujalt",
+        "kukilt",
+        "kustkohast",
+        "kust",
+        "sealt",
+        "otsast",
+        "sealtsamast",
+        "kuskohast",
+        "sealtmaalt",
+        "tükk-tükilt",
+        "vist",
+        "vist",
+        "siit-sealt",
+        "kusagilt",
+        "siitmailt",
+        "pakilt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kuskilt",
+      "translations": []
+    }
+  ]
+}

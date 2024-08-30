@@ -1,0 +1,74 @@
+{
+  "requestedWord": "seoses",
+  "estonianWord": "seoses",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "seoses"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab asjaolule, mis midagi tingib, põhjustab, millegagi ühenduses, millestki sõltuvalt,osutab asjaolule, mis midagi tingib, põhjustab",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Ta reisib ainult tööga seoses.",
+            "Seoses sellega, et ..",
+            "Mul pole meeles, millega seoses seda räägiti."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в связи с",
+                "weight": 1
+              },
+              {
+                "words": "в связи с тем, что",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "у звʼязку",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "siinjuures",
+        "seotult",
+        "seotu",
+        "seostamatu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "seoses",
+      "translations": [
+        "in relation to"
+      ]
+    }
+  ]
+}

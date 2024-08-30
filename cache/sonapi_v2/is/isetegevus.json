@@ -1,0 +1,289 @@
+{
+  "requestedWord": "isetegevus",
+  "estonianWord": "isetegevus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "isetegevus"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "isetegevuse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "isetegevust"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "isetegevusse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "isetegevusesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "isetegevuses"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "isetegevusest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "isetegevusele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "isetegevusel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "isetegevuselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "isetegevuseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "isetegevuseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "isetegevusena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "isetegevuseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "isetegevusega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "-"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "iseseisev või endaalgatuslik tegevus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kojanaine kippus hoovi korrastamisel isetegevust harrastama.",
+            "Kontrollimatu isetegevus pole rahvuspargis mõeldav."
+          ],
+          "synonyms": [
+            "omaalgatus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "самодеятельность",
+                "weight": 1
+              },
+              {
+                "words": "личная инициатива,собственная инициатива,личный почин,личное начинание",
+                "weight": 0.75
+              }
+            ],
+            "ukr": [
+              {
+                "words": "самодіяльність",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "asjaarmastajate loominguline tegevus mingil kunstialal",
+          "partOfSpeech": [],
+          "examples": [
+            "Kultuurimajas käis hoogne isetegevus."
+          ],
+          "synonyms": [
+            "taidlus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "художественная самодеятельность",
+                "weight": 1
+              },
+              {
+                "words": "самодеятельное искусство",
+                "weight": 1
+              },
+              {
+                "words": "любительское искусство",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "художня самодіяльність",
+                "weight": 1
+              },
+              {
+                "words": "самодіяльне мистецтво",
+                "weight": 1
+              },
+              {
+                "words": "аматорське мистецтво",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "taidlus",
+        "vabatahtlikkus",
+        "amatörism",
+        "asjaarmastus",
+        "omaalgatus",
+        "isetegevuslane",
+        "loometegevus",
+        "ühistegevus",
+        "mõttetegevus",
+        "tegevus",
+        "isetegevuslik",
+        "koostegevus",
+        "õppetegevus",
+        "seedetegevus",
+        "kutsetegevus",
+        "huvitegevus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "isetegevus",
+      "translations": []
+    }
+  ]
+}

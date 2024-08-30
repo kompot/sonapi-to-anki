@@ -1,0 +1,280 @@
+{
+  "requestedWord": "äratus",
+  "estonianWord": "äratus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "äratus"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "äratuse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "äratust"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "äratusse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "äratusesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "äratuses"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "äratusest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "äratusele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "äratusel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "äratuselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "äratuseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "äratuseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "äratusena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "äratuseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "äratusega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "äratused"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "äratuste"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "äratusi"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "äratusisse,äratustesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "äratustes,äratusis"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "äratusist,äratustest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "äratustele,äratusile"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "äratusil,äratustel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "äratustelt,äratusilt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "äratusteks,äratusiks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "äratusteni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "äratustena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "äratusteta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "äratustega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "unest äratamine, ülesajamine,signaal vm märguanne ärkamiseks",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Homme on äratus pool kuus.",
+            "Ma magasin äratuse maha."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "пробуждение ото сна",
+                "weight": 1
+              },
+              {
+                "words": "подъём",
+                "weight": 1
+              },
+              {
+                "words": "побудка",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vaimne tõuge, virgutus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Palvekoosolekul saadud äratuse mõjul hakkas ta tegema misjonitööd."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "пробуждение",
+                "weight": 1
+              },
+              {
+                "words": "побуждение",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kannustus",
+        "taganttõuge",
+        "ärgitus",
+        "innustus",
+        "õhutus",
+        "ergutus",
+        "äratussignaal",
+        "isikupäratus",
+        "ettemääratus",
+        "vääratus",
+        "äratuskell",
+        "määratus",
+        "määratus",
+        "raksatus",
+        "hommikune",
+        "korratus",
+        "ärkamine",
+        "möiratus",
+        "äratulek",
+        "käratus",
+        "mürtsatus",
+        "otsatus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "äratus",
+      "translations": [
+        "awakening",
+        "rise and shine (sõjaväes)",
+        "wake-up"
+      ]
+    }
+  ]
+}

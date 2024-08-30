@@ -1,0 +1,246 @@
+{
+  "requestedWord": "ükskord",
+  "estonianWord": "ükskord",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ükskord"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingil ebamäärasel, täpselt määratlemata ajal, millalgi minevikus või tulevikus, ühel (heal) päeval,mingil ajal minevikus või tulevikus",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ükskord käisime koos kalal.",
+            "Iga pidu saab ükskord otsa.",
+            "Ükskord juhtus temaga naljakas lugu."
+          ],
+          "synonyms": [
+            "kord",
+            "kunagi",
+            "ükspäev",
+            "millalgi",
+            "millaski"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "un jour",
+                "weight": 1
+              },
+              {
+                "words": "une fois",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "однажды",
+                "weight": 1
+              },
+              {
+                "words": "когда-то",
+                "weight": 1
+              },
+              {
+                "words": "как-то",
+                "weight": 1
+              },
+              {
+                "words": "как-то раз",
+                "weight": 1
+              },
+              {
+                "words": "когда-нибудь",
+                "weight": 1
+              },
+              {
+                "words": "когда-либо",
+                "weight": 1
+              },
+              {
+                "words": "некогда",
+                "weight": 1
+              },
+              {
+                "words": "как-нибудь",
+                "weight": 1
+              },
+              {
+                "words": "когда-то,когда-нибудь,когда-либо",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "колись",
+                "weight": 1
+              },
+              {
+                "words": "коли-небудь",
+                "weight": 1
+              },
+              {
+                "words": "якось",
+                "weight": 1
+              },
+              {
+                "words": "одного разу",
+                "weight": 1
+              },
+              {
+                "words": "один раз",
+                "weight": 1
+              },
+              {
+                "words": "якось раз",
+                "weight": 1
+              },
+              {
+                "words": "колись,якось,коли-небудь",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb rõhutava või mingit asjaolu kinnitava sõnana,lõpuks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Saage ometi ükskord aru!",
+            "Jäta mind ükskord rahule!",
+            "Tulge juba ükskord sööma!"
+          ],
+          "synonyms": [
+            "kord"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "enfin",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "наконец",
+                "weight": 1
+              },
+              {
+                "words": "наконец-то",
+                "weight": 1
+              },
+              {
+                "words": "в конце концов",
+                "weight": 1
+              },
+              {
+                "words": "уж",
+                "weight": 1
+              },
+              {
+                "words": "раз уж",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "нарешті",
+                "weight": 1
+              },
+              {
+                "words": "нарешті-таки",
+                "weight": 1
+              },
+              {
+                "words": "кінець-кінцем",
+                "weight": 1
+              },
+              {
+                "words": "врешті-решт",
+                "weight": 1
+              },
+              {
+                "words": "зрештою",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "üksvahe",
+        "omal ajal",
+        "lõppude lõpuks",
+        "millalgi",
+        "kord",
+        "kord",
+        "kord",
+        "millaski",
+        "lõppeks",
+        "vahepeal",
+        "ühekorra",
+        "korra",
+        "tagasiulatuvalt",
+        "viimaks",
+        "ükspäev",
+        "lõpuks",
+        "kunagi",
+        "viimati",
+        "ikkagi",
+        "jälle",
+        "ometi",
+        "ikka",
+        "äkki",
+        "kohe",
+        "kohe",
+        "ükskordüks",
+        "varsti",
+        "nagunii",
+        "niikuinii",
+        "nüüd",
+        "alles",
+        "siis",
+        "täna-homme",
+        "kibekähku",
+        "aga",
+        "aga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ükskord",
+      "translations": [
+        "by and by",
+        "by-and-by",
+        "down the line (edaspidi)",
+        "eventually",
+        "once",
+        "one day",
+        "one of these days",
+        "some of these days"
+      ]
+    }
+  ]
+}

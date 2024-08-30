@@ -1,0 +1,373 @@
+{
+  "requestedWord": "tõepoolest",
+  "estonianWord": "tõepoolest",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tõepoolest"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(suhtluses ütlust, väidet kinnitava sõnana:) (päris) kindlasti,rõhutab, et miski on just nii, nagu sa ütled",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Olen tõepoolest väsinud.",
+            "Liisa on tõepoolest ilus tüdruk.",
+            "Sul on tõepoolest õigus!"
+          ],
+          "synonyms": [
+            "ausalt",
+            "ausõna",
+            "tõega",
+            "tõejutt",
+            "tõesti",
+            "tõesõna",
+            "tõsi",
+            "tõsijutt",
+            "tõsilugu",
+            "õigus",
+            "ausasti,ausalt",
+            "õige",
+            "muidugist,mõistagi,otse loomulikult,teadagi,loomulikult,arusaadavalt,muidugi,muidugi mõista,muidugimõista",
+            "igal juhul,ilmtingimata,kahtlemata,kahtlematult,kindlalt,kindlasti,tingimata,kaheldamatult"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "vraiment",
+                "weight": 1
+              },
+              {
+                "words": "honnêtement",
+                "weight": 0.9
+              },
+              {
+                "words": "naturellement,évidemment",
+                "weight": 0.547
+              },
+              {
+                "words": "incontestablement,indubitablement,sans aucun doute,sûrement,certainement",
+                "weight": 0.59
+              }
+            ],
+            "rus": [
+              {
+                "words": "на самом деле",
+                "weight": 1
+              },
+              {
+                "words": "правда",
+                "weight": 1
+              },
+              {
+                "words": "поистине",
+                "weight": 1
+              },
+              {
+                "words": "действительно",
+                "weight": 1
+              },
+              {
+                "words": "в самом деле",
+                "weight": 1
+              },
+              {
+                "words": "серьёзно",
+                "weight": 1
+              },
+              {
+                "words": "вправду",
+                "weight": 1
+              },
+              {
+                "words": "подлинно",
+                "weight": 1
+              },
+              {
+                "words": "воистину",
+                "weight": 1
+              },
+              {
+                "words": "честное слово",
+                "weight": 1
+              },
+              {
+                "words": "право слово",
+                "weight": 1
+              },
+              {
+                "words": "впрямь",
+                "weight": 1
+              },
+              {
+                "words": "всерьёз",
+                "weight": 1
+              },
+              {
+                "words": "право",
+                "weight": 1
+              },
+              {
+                "words": "честно,по правде",
+                "weight": 0.9
+              },
+              {
+                "words": "правильно,верно,именно так",
+                "weight": 0.7
+              },
+              {
+                "words": "известное дело,безусловно,само собой,несомненно,понятное дело,известно,разумеется,естественно,конечно,понятно,как известно,ясен перец,ясен пень",
+                "weight": 0.547
+              },
+              {
+                "words": "факт,бесспорно,без всякого сомнения,конечно,определённо,безусловно,непременно,обязательно,несомненно,без сомнения,неоспоримо,наверняка,во что бы то ни стало,что бы там ни было,в любом случае",
+                "weight": 0.59
+              }
+            ],
+            "ukr": [
+              {
+                "words": "справді",
+                "weight": 1
+              },
+              {
+                "words": "насправді",
+                "weight": 1
+              },
+              {
+                "words": "в дійсності",
+                "weight": 1
+              },
+              {
+                "words": "дійсно",
+                "weight": 1
+              },
+              {
+                "words": "чесно",
+                "weight": 0.9
+              },
+              {
+                "words": "зрозуміло,звичайно,певна річ,звісно",
+                "weight": 0.547
+              },
+              {
+                "words": "безумовно,безперечно,неодмінно,обовʼязково,конче,безсумнівно,певна річ,без сумніву,у будь-якому разі,звичайно",
+                "weight": 0.59
+              }
+            ],
+            "eng": [
+              {
+                "words": "honestly",
+                "weight": 0.9
+              },
+              {
+                "words": "in any case",
+                "weight": 0.59
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(rõhutab hämmeldust, nõutust või imestust),näitab, et sa kahtled milleski",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mehe võimed paistavad tõepoolest hämmastavad.",
+            "Tõepoolest veider üritus.",
+            "Kas ma siis tõepoolest eksisin?"
+          ],
+          "synonyms": [
+            "tõega",
+            "tõesti"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "vraiment",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "действительно",
+                "weight": 1
+              },
+              {
+                "words": "в самом деле",
+                "weight": 1
+              },
+              {
+                "words": "правда",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "справді",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tõeliselt, tegelikult, päriselt,tegelikult, päriselt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Seleta nüüd, kuidas asi tõepoolest oli."
+          ],
+          "synonyms": [
+            "tõesti"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "réellement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "действительно",
+                "weight": 1
+              },
+              {
+                "words": "в действительности",
+                "weight": 1
+              },
+              {
+                "words": "на самом деле",
+                "weight": 1
+              },
+              {
+                "words": "реально",
+                "weight": 1
+              },
+              {
+                "words": "подлинно",
+                "weight": 1
+              },
+              {
+                "words": "истинно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "справді",
+                "weight": 1
+              },
+              {
+                "words": "дійсно",
+                "weight": 1
+              },
+              {
+                "words": "насправді",
+                "weight": 1
+              },
+              {
+                "words": "в дійсності",
+                "weight": 1
+              },
+              {
+                "words": "по-справжньому",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "õige",
+        "ausõna",
+        "tõsijutt",
+        "tõesti",
+        "tõega",
+        "tõesõna",
+        "ausalt",
+        "tõsi",
+        "tõsiselt",
+        "tõeliselt",
+        "miskitpidi",
+        "kuigi",
+        "see",
+        "äärmiselt",
+        "justkui",
+        "kindlasti",
+        "piisavalt",
+        "vaid",
+        "aga",
+        "aga",
+        "siiski",
+        "seal",
+        "ilmselt",
+        "muidugi",
+        "tõenäoliselt",
+        "meil",
+        "üldse",
+        "loomulikult",
+        "kuidagi",
+        "mitte",
+        "mitte",
+        "isegi",
+        "samuti",
+        "küll",
+        "küll",
+        "ikka",
+        "üsna",
+        "üpris",
+        "tegelikult",
+        "üldsegi",
+        "mingitmoodi",
+        "oleks",
+        "ikkagi",
+        "täieliselt",
+        "päris",
+        "mingitpidi",
+        "just",
+        "kahtlemata",
+        "küllalt",
+        "lihtsalt",
+        "nüüd",
+        "üldiselt",
+        "siis",
+        "alati",
+        "väga",
+        "täiesti",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tõepoolest",
+      "translations": [
+        "forsooth",
+        "indeed",
+        "really"
+      ]
+    }
+  ]
+}

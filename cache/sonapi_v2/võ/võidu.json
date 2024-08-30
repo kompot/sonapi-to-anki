@@ -1,0 +1,278 @@
+{
+  "requestedWord": "võidu",
+  "estonianWord": "võidu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "võidu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegagi võisteldes,kellestki ette jõuda püüdes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Teeme võidu!",
+            "Tüdrukud tahtsid üksteise võidu vastata."
+          ],
+          "synonyms": [
+            "võistu",
+            "uhal"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "наперегонки",
+                "weight": 1
+              },
+              {
+                "words": "вперегонки",
+                "weight": 1
+              },
+              {
+                "words": "состязаясь",
+                "weight": 1
+              },
+              {
+                "words": "наперебой",
+                "weight": 1
+              },
+              {
+                "words": "взапуски",
+                "weight": 1
+              },
+              {
+                "words": "вперегонки,вперегонку,взапуски",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "võistu",
+        "võidujanu"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "Võidu"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "Võidu"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "Võidut"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "Võitu"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "Võidusse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "Võidus"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "Võidust"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "Võidule"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "Võidul"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "Võidult"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "Võiduks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "Võiduni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "Võiduna"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "Võiduta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "Võiduga"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "Võidud"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "Võidude"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "Võidusid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "Võidudesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "Võidudes"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "Võidudest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "Võidudele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "Võidudel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "Võidudelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "Võidudeks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "Võidudeni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "Võidudena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "Võidudeta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "Võidudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "küla Pärnu maakonnas Häädemeeste vallas (Saarde kihelkonnas)",
+          "partOfSpeech": [
+            {
+              "code": "prop",
+              "value": "pärisnimi, prooprium"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "võidu",
+      "translations": []
+    }
+  ]
+}

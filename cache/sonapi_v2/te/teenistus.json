@@ -1,0 +1,735 @@
+{
+  "requestedWord": "teenistus",
+  "estonianWord": "teenistus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "teenistus"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "teenistuse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "teenistust"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "teenistusse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "teenistusesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "teenistuses"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "teenistusest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "teenistusele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "teenistusel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "teenistuselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "teenistuseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "teenistuseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "teenistusena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "teenistuseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "teenistusega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "teenistused"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "teenistuste"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "teenistusi"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "teenistustesse,teenistusisse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "teenistustes,teenistusis"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "teenistustest,teenistusist"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "teenistustele,teenistusile"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "teenistustel,teenistusil"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "teenistustelt,teenistusilt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "teenistusteks,teenistusiks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "teenistusteni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "teenistustena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "teenistusteta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "teenistustega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "palk vm teenitud tasu,töö eest saadav tasu, palk",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Remondi peale kulus terve aasta teenistus.",
+            "Kui suur su aastane teenistus on?"
+          ],
+          "synonyms": [
+            "leib",
+            "tasu",
+            "palgaraha,palgasumma,palk,rahapalk,töötasu",
+            "sissetulek",
+            "tulu",
+            "rubla"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "salaire",
+                "weight": 1
+              },
+              {
+                "words": "rémunération",
+                "weight": 0.7
+              },
+              {
+                "words": "salaire",
+                "weight": 0.9
+              },
+              {
+                "words": "revenu",
+                "weight": 0.9
+              },
+              {
+                "words": "revenu,recette",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "заработок",
+                "weight": 1
+              },
+              {
+                "words": "хлеб",
+                "weight": 0.9
+              },
+              {
+                "words": "плата,оплата",
+                "weight": 0.7
+              },
+              {
+                "words": "зарплата,оклад,ставка,заработная плата,получка,жалованье,плата,оплата",
+                "weight": 0.9
+              },
+              {
+                "words": "приход,доход,сбор,выручка",
+                "weight": 0.9
+              },
+              {
+                "words": "приход,прибыль,выгода,доход",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "заробіток",
+                "weight": 1
+              },
+              {
+                "words": "оплата,плата,платня",
+                "weight": 0.7
+              },
+              {
+                "words": "заробітна плата,зарплата",
+                "weight": 0.9
+              },
+              {
+                "words": "прибуток,дохід",
+                "weight": 0.9
+              },
+              {
+                "words": "прибуток,дохід",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "salary",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "töö, palgaline töösuhe,(kitsamalt:) töötamine ametiasutuses,ametis olemine, töö",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Õpilastel on raske teenistust leida.",
+            "Ta asub ministeeriumi teenistusse alates septembrist.",
+            "Kohtunik pidi teenistusest lahkuma.",
+            "Avalik teenistus tähendab tööd riigiasutuses."
+          ],
+          "synonyms": [
+            "amet",
+            "leivateenistus",
+            "leivaamet",
+            "töökoht",
+            "töö",
+            "töö"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "travail",
+                "weight": 1
+              },
+              {
+                "words": "poste,emploi",
+                "weight": 0.7
+              },
+              {
+                "words": "travail",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "должность",
+                "weight": 1
+              },
+              {
+                "words": "служба",
+                "weight": 1
+              },
+              {
+                "words": "место работы",
+                "weight": 1
+              },
+              {
+                "words": "работа",
+                "weight": 1
+              },
+              {
+                "words": "должность,служба,профессия",
+                "weight": 0.9
+              },
+              {
+                "words": "работа,хлеб",
+                "weight": 0.9
+              },
+              {
+                "words": "основная работа",
+                "weight": 0.9
+              },
+              {
+                "words": "должность,служба,работа,место",
+                "weight": 0.7
+              },
+              {
+                "words": "работа",
+                "weight": 0.9
+              },
+              {
+                "words": "служба,место работы,работа",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "посада",
+                "weight": 1
+              },
+              {
+                "words": "служба",
+                "weight": 1
+              },
+              {
+                "words": "місце роботи",
+                "weight": 1
+              },
+              {
+                "words": "робота",
+                "weight": 1
+              },
+              {
+                "words": "посада,служба,професія",
+                "weight": 0.9
+              },
+              {
+                "words": "посада,праця,робота,служба",
+                "weight": 0.7
+              },
+              {
+                "words": "робота",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teenimine sõjaväes, sh ajateenistus,see, kui teenid sõjaväes (seadusega ettenähtud aja jooksul)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ta kutsutakse teenistusse kevadel.",
+            "Sel aastal kutsuti teenistusse 3500 noormeest."
+          ],
+          "synonyms": [
+            "ajateenistus,kaitseväeteenistus,sõjaväeteenistus",
+            "armeeteenistus",
+            "väeteenistus",
+            "sõjaväeteenistus,kaitseväeteenistus,kroonuteenistus,sõjateenistus"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "service",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "служба",
+                "weight": 1
+              },
+              {
+                "words": "воинская служба",
+                "weight": 1
+              },
+              {
+                "words": "прохождение воинской службы",
+                "weight": 1
+              },
+              {
+                "words": "армейская служба,военная служба,воинская служба,срочная служба,срочная военная служба,служба в оборонительных войсках",
+                "weight": 0.7
+              },
+              {
+                "words": "армейская служба",
+                "weight": 0.653
+              },
+              {
+                "words": "армейская служба,воинская служба,военная служба",
+                "weight": 0.627
+              },
+              {
+                "words": "военная служба,срочная служба,срочная военная служба,служба в оборонительных войсках,армейская служба,воинская служба",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "служба",
+                "weight": 1
+              },
+              {
+                "words": "військова служба",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hrl koguduse hoones peetav usutalitus, mis koosneb kindla järjestusega tegevustest (hrl palvetamine, jutlus, laulmine ja armulaud),kindla tegevuste järjekorraga sündmus kirikus (laulude ja palvetega)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Jõululaupäeval on kolm teenistust.",
+            "Pühade ajal toimus kolm teenistust päevas."
+          ],
+          "synonyms": [
+            "jumalateenistus",
+            "missa",
+            "kirik"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "service (religieux)",
+                "weight": 1
+              },
+              {
+                "words": "office",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "богослужение",
+                "weight": 1
+              },
+              {
+                "words": "церковная служба",
+                "weight": 1
+              },
+              {
+                "words": "священнодействие",
+                "weight": 1
+              },
+              {
+                "words": "месса",
+                "weight": 0.9
+              },
+              {
+                "words": "служба,обедня,богослужение",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "служба",
+                "weight": 1
+              },
+              {
+                "words": "служба Божа",
+                "weight": 1
+              },
+              {
+                "words": "богослужіння",
+                "weight": 1
+              },
+              {
+                "words": "церковна служба",
+                "weight": 1
+              },
+              {
+                "words": "відправа",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ameti)asutus vm üksus,selliste asutuste võrk",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Linna avalike suhete teenistus."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "служба",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi käsu all, huvides toimiv või nii toimivaks,kellegi valduses või valdusesse, kellegi kasutada",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Partei teenistuses telekanal.",
+            "Nädalavahetusel on mõis pulmaliste teenistuses."
+          ],
+          "synonyms": [
+            "kasutus",
+            "käsutus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "использование,эксплуатация,пользование,применение,употребление",
+                "weight": 0.7
+              },
+              {
+                "words": "распоряжение",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "utilisation,usage",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "використання,застосування,користування,вживання,експлуатація",
+                "weight": 0.7
+              },
+              {
+                "words": "розпорядження",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "rubla",
+        "valdus",
+        "kasutus",
+        "käsutus",
+        "üleajateenistus",
+        "veterinaarteenistus",
+        "vetelpäästeteenistus",
+        "vereteenistus",
+        "valveteenistus",
+        "tutvumisteenistus",
+        "turvateenistus",
+        "tuletõrjeteenistus",
+        "tsiviilteenistus",
+        "templiteenistus",
+        "tagalateenistus",
+        "sõjaväeteenistus",
+        "sõjateenistus",
+        "sundteenistus",
+        "sundajateenistus",
+        "sanitaarteenistus",
+        "salateenistus",
+        "riviteenistus",
+        "reservteenistus",
+        "ratsateenistus",
+        "päästeteenistus",
+        "päevateenistus",
+        "põhiteenistus",
+        "pressiteenistus",
+        "postiteenistus",
+        "politseiteenistus",
+        "patrullteenistus",
+        "nädalateenistus",
+        "mälestusteenistus",
+        "mõõteteenistus",
+        "meteoroloogiateenistus",
+        "meditsiiniteenistus",
+        "liiklusteenistus",
+        "kõrvalteenistus",
+        "kroonuteenistus",
+        "kirikuteenistus",
+        "kaplaniteenistus",
+        "kaldateenistus",
+        "kaitseväeteenistus",
+        "julgestusteenistus",
+        "julgeolekuteenistus",
+        "intendanditeenistus",
+        "inseneriteenistus",
+        "ilmateenistus",
+        "hüdrometeoroloogiateenistus",
+        "geoloogiateenistus",
+        "garnisoniteenistus",
+        "ebajumalateenistus",
+        "dispetšiteenistus",
+        "avalik teenistus",
+        "ajateenistus",
+        "abiteenistus",
+        "aastateenistus",
+        "töökoht",
+        "tasu",
+        "laekum",
+        "tulu",
+        "palvetund",
+        "amet",
+        "profiit",
+        "leivakannikas",
+        "sandipalk",
+        "näljapajuk",
+        "leivateenistus",
+        "kirik",
+        "jumalateenistus",
+        "kultus",
+        "leivaamet",
+        "palveteenistus",
+        "kasum",
+        "näljapalk",
+        "töötasu",
+        "tulem",
+        "lugemistund",
+        "palganatuke",
+        "tööraha",
+        "kasu",
+        "sants",
+        "sisse tooma",
+        "kullavihm",
+        "lugemine",
+        "palk",
+        "töö",
+        "näljakopikas",
+        "leivakoorik",
+        "palgaraha",
+        "missa",
+        "sissetulek",
+        "palvus",
+        "leib",
+        "vahiteenistus",
+        "eriteenistus",
+        "teenistuskäik",
+        "infoteenistus",
+        "teabeteenistus",
+        "teenistusleht",
+        "väeteenistus",
+        "tegevteenistus",
+        "asendusteenistus",
+        "armeeteenistus",
+        "teenistuslik",
+        "tööteenistus",
+        "sideteenistus",
+        "kuuteenistus",
+        "lisateenistus",
+        "riigiteenistus",
+        "palk",
+        "tulekultus",
+        "tulekummardamine",
+        "sisse tegema",
+        "muusa",
+        "puhas"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "teenistus",
+      "translations": [
+        "earnings",
+        "service"
+      ]
+    }
+  ]
+}

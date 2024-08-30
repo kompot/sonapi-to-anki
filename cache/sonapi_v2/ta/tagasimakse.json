@@ -1,0 +1,260 @@
+{
+  "requestedWord": "tagasimakse",
+  "estonianWord": "tagasimakse",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "6",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "tagasimakse"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "tagasimakse"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "tagasimakset"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "tagasimaksesse"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "tagasimakses"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "tagasimaksest"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "tagasimaksele"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "tagasimaksel"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "tagasimakselt"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "tagasimakseks"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "tagasimakseni"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "tagasimaksena"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "tagasimakseta"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "tagasimaksega"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "tagasimaksed"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "tagasimaksete"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "tagasimakseid"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "tagasimaksetesse,tagasimakseisse"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "tagasimaksetes,tagasimakseis"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "tagasimaksetest,tagasimakseist"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "tagasimaksetele,tagasimakseile"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "tagasimaksetel,tagasimakseil"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "tagasimaksetelt,tagasimakseilt"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "tagasimakseteks,tagasimakseiks"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "tagasimakseteni"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "tagasimaksetena"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "tagasimakseteta"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "tagasimaksetega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "laenu tagastamiseks tehtav makse",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Igakuine tagasimakse.",
+            "Laenu tagasimaksete tegemisega on tekkinud mõningaid raskusi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "возвратный платёж",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "makse sooritanud isikule mingil põhjusel tagasi makstav rahasumma",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tulumaksu tagasimakse."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "возврат",
+                "weight": 1
+              },
+              {
+                "words": "возврат платежа",
+                "weight": 1
+              },
+              {
+                "words": "возвращение платежа",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "laenumakse",
+        "intressimakse",
+        "osamakse",
+        "pensionimakse",
+        "enammakse",
+        "kuumakse",
+        "püsimakse",
+        "ettemakse"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tagasimakse",
+      "translations": [
+        "repayment"
+      ]
+    }
+  ]
+}

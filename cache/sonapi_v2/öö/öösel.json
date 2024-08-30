@@ -1,0 +1,121 @@
+{
+  "requestedWord": "öösel",
+  "estonianWord": "öösel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "öösel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "öö ajal, öö jooksul või kestel,öösiti,öö ajal, öö jooksul",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Suurem lumekoristustöö läheb lahti öösel.",
+            "Päevad on soojad ja öösel enam ei külmeta.",
+            "Ma näen igal öösel üht ja sama unenägu.",
+            "Ma sain öösel vähe magada.",
+            "Isa jõudis alles öösel koju."
+          ],
+          "synonyms": [
+            "öösi",
+            "öiti,öösiti"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "at night",
+                "weight": 1
+              },
+              {
+                "words": "at nights",
+                "weight": 0.638
+              }
+            ],
+            "fra": [
+              {
+                "words": "dans la nuit",
+                "weight": 1
+              },
+              {
+                "words": "la nuit",
+                "weight": 1
+              },
+              {
+                "words": "la nuit",
+                "weight": 0.638
+              }
+            ],
+            "rus": [
+              {
+                "words": "ночью",
+                "weight": 1
+              },
+              {
+                "words": "ночами",
+                "weight": 1
+              },
+              {
+                "words": "по ночам",
+                "weight": 1
+              },
+              {
+                "words": "ночью,ночами,по ночам",
+                "weight": 0.638
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вночі",
+                "weight": 1
+              },
+              {
+                "words": "вночі,ночами",
+                "weight": 0.638
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "öösi",
+        "keskpäeval",
+        "hommikupool",
+        "südaöösel",
+        "südaöö",
+        "päeval",
+        "hilisõhtuti",
+        "öösiti",
+        "ööseks",
+        "hommikupoole",
+        "hommikuti",
+        "varahommikuti",
+        "kesköö"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "öösel",
+      "translations": [
+        "at night",
+        "in the night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "requestedWord": "siinsamas",
+  "estonianWord": "siinsamas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "siinsamas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "siin, sellessamas kohas,siin lähedal,siin, selles kohas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Homme kohtume siinsamas kell 10.",
+            "Oleme piiriäärne küla, kohe siinsamas on Lätimaa.",
+            "Oota mind siinsamas.",
+            "Ta elab siinsamas lähedal."
+          ],
+          "synonyms": [
+            "kõrval"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "ici",
+                "weight": 1
+              },
+              {
+                "words": "à côté de",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "тут же",
+                "weight": 1
+              },
+              {
+                "words": "около,у,возле,подле,вблизи,поблизости,рядом,рядом с",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тут же",
+                "weight": 1
+              },
+              {
+                "words": "поряд з,поруч,коло,біля,поблизу,близько",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "selsamal ajahetkel või väga vähese aja pärast, nüüd kohe",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ma võin kohe siinsamas laulma hakata."
+          ],
+          "synonyms": [
+            "nüüdsama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сейчас",
+                "weight": 1
+              },
+              {
+                "words": "с минуты на минуту",
+                "weight": 1
+              },
+              {
+                "words": "вот-вот",
+                "weight": 1
+              },
+              {
+                "words": "того и гляди",
+                "weight": 1
+              },
+              {
+                "words": "ещё немного и",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ligi",
+        "ligidal",
+        "siin",
+        "siin",
+        "käeulatuses",
+        "ligilähedal",
+        "juures",
+        "ruumiliselt",
+        "kiviviske kaugusel",
+        "käegakatsutav",
+        "nina ees",
+        "käe-jala juures",
+        "ajaliselt",
+        "külje all",
+        "kõrval",
+        "kõrval",
+        "siitsamast",
+        "kohe",
+        "kohe",
+        "lähedal",
+        "kukil",
+        "samas",
+        "siinkohal",
+        "nina all",
+        "kiviga visata",
+        "seal",
+        "mujal",
+        "meie",
+        "siin-seal",
+        "kusagil",
+        "praegu",
+        "kasvõi",
+        "juba",
+        "siinpool",
+        "sealsamas",
+        "kuskil"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "siinsamas",
+      "translations": [
+        "at no great distance"
+      ]
+    }
+  ]
+}

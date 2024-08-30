@@ -1,0 +1,647 @@
+{
+  "requestedWord": "isa",
+  "estonianWord": "isa",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "isa"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "isa"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "isa"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "isasse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "isas"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "isast"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "isale"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "isal"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "isalt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "isaks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "isani"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "isana"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "isata"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "isaga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "isad"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "isade"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "isasid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "isadesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "isades"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "isadest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "isadele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "isadel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "isadelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "isadeks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "isadeni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "isadena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "isadeta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "isadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "meessoost vanem, mees oma lapse või laste suhtes,mees, kellel on laps või lapsed",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Isa ja ema ei olnud kodus.",
+            "Minu isa ja ema elavad Tallinnas."
+          ],
+          "synonyms": [
+            "issi,issu",
+            "papa,paps",
+            "taadikene,taat,taadike",
+            "vanem,lapsevanem",
+            "taadu"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "father",
+                "weight": 1
+              },
+              {
+                "words": "dad,daddy",
+                "weight": 0.9
+              },
+              {
+                "words": "parent",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "père",
+                "weight": 1
+              },
+              {
+                "words": "papa",
+                "weight": 0.9
+              },
+              {
+                "words": "parent",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "отец",
+                "weight": 1
+              },
+              {
+                "words": "папа",
+                "weight": 1
+              },
+              {
+                "words": "батюшка",
+                "weight": 1
+              },
+              {
+                "words": "родитель",
+                "weight": 1
+              },
+              {
+                "words": "папочка,папа",
+                "weight": 0.9
+              },
+              {
+                "words": "па,папа,папаша,батюшка,батя,папка",
+                "weight": 0.9
+              },
+              {
+                "words": "папуля,деда,батенька,тятенька,тятя,батюшка,папенька,батя,дедуля",
+                "weight": 0.9
+              },
+              {
+                "words": "родитель",
+                "weight": 0.9
+              },
+              {
+                "words": "деда,дедуля",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "батько",
+                "weight": 1
+              },
+              {
+                "words": "тато",
+                "weight": 1
+              },
+              {
+                "words": "татко,татонько,таточко,татусь",
+                "weight": 0.9
+              },
+              {
+                "words": "батько,мати",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "isane loom oma otseste järglaste suhtes",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Pääsukesepoegadele toovad toitu nii isa kui ka ema."
+          ],
+          "synonyms": [
+            "isane"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "отец",
+                "weight": 1
+              },
+              {
+                "words": "мужская особь,самец",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "mâle",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "самець",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(esivanemate, varasemate sugupõlvede kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Pärast pikki rännuaastaid tekkis soov tulla tagasi isade maale."
+          ],
+          "synonyms": [
+            "esiisa",
+            "esivanem"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "отцы",
+                "weight": 1
+              },
+              {
+                "words": "родоначальник,предок,прародитель,праотец,пращур",
+                "weight": 0.7
+              },
+              {
+                "words": "прародительница,родоначальница,праотец,прадед,родоначальник,предок,прародитель,пращур,прадеды,праотцы",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingil alal eeskuju, juhatust andev mees,millegi meessoost algataja, looja või esindaja",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Eesti puhkpillimuusika isa."
+          ],
+          "synonyms": [
+            "eelväelane,teerajaja,pioneer",
+            "alusepanija",
+            "eestvedaja,vedaja",
+            "algataja,initsiaator",
+            "rajaja",
+            "peamees",
+            "eestkostja,eestseisja",
+            "teejuht",
+            "pealik",
+            "suunanäitaja,teenäitaja",
+            "juht",
+            "pea"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "отец",
+                "weight": 1
+              },
+              {
+                "words": "первопроходчик,основоположница,предтеча,первопроходчица,основательница,предшественница,предшественник,основатель,основоположник,пионер,первопроходец",
+                "weight": 0.7
+              },
+              {
+                "words": "зачинатель,основоположник,родоначальник",
+                "weight": 0.7
+              },
+              {
+                "words": "заправила,вожак,главарь,заводила,верховод,предводитель,глава",
+                "weight": 0.9
+              },
+              {
+                "words": "инициатор,зачинщица,зачинщик,зачинательница,зачинатель,начинательница,начинатель",
+                "weight": 0.7
+              },
+              {
+                "words": "основатель",
+                "weight": 0.7
+              },
+              {
+                "words": "вожак,главарь,предводитель",
+                "weight": 0.9
+              },
+              {
+                "words": "покровительница,защитник,покровитель,заступник,попечитель,опекун",
+                "weight": 0.9
+              },
+              {
+                "words": "наставница,наставник",
+                "weight": 0.9
+              },
+              {
+                "words": "глава,начальник,вождь,старейшина,главарь,предводитель,вожак",
+                "weight": 0.9
+              },
+              {
+                "words": "указатель направления",
+                "weight": 0.9
+              },
+              {
+                "words": "командир,предводитель,глава,руководитель",
+                "weight": 0.9
+              },
+              {
+                "words": "глава",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "responsable,chef,dirigeant,dirigeante",
+                "weight": 0.9
+              },
+              {
+                "words": "chef",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "голова,керівник,командир",
+                "weight": 0.9
+              },
+              {
+                "words": "голова",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "chief",
+                "weight": 0.9
+              },
+              {
+                "words": "head",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kõrge (katoliku) meesvaimulik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Püha isa Johannes Paulus II."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "отец",
+                "weight": 1
+              },
+              {
+                "words": "батюшка",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(jumala kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Meie isa, kes sa oled taevas.",
+            "Isa, Poja ja Püha Vaimu nimel."
+          ],
+          "synonyms": [
+            "issa",
+            "jummel,jumal",
+            "issand",
+            "looja",
+            "taat"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "Отец",
+                "weight": 1
+              },
+              {
+                "words": "Бог Отец",
+                "weight": 1
+              },
+              {
+                "words": "Господь,Господь Бог,Бог",
+                "weight": 0.7
+              },
+              {
+                "words": "Господь",
+                "weight": 0.7
+              },
+              {
+                "words": "Создатель,Творец",
+                "weight": 0.7
+              },
+              {
+                "words": "отец небесный,владыка небесный",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "Dieu",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "Бог,Господь",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "god",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "algataja",
+        "alusepanija",
+        "teerajaja",
+        "esiisa",
+        "looja",
+        "issand",
+        "jumal",
+        "rajaja",
+        "esivanem",
+        "isane",
+        "taadu",
+        "teenäitaja",
+        "juhtoinas",
+        "juht",
+        "taat",
+        "peamees",
+        "hegemoon",
+        "papa",
+        "pealik",
+        "boss",
+        "paps",
+        "füürer",
+        "teejuht",
+        "issi",
+        "eestseisja",
+        "lipukandja",
+        "õpetaja",
+        "liider",
+        "eestvedaja",
+        "ninamees",
+        "pea",
+        "lapsevanem",
+        "papi",
+        "vanaisa",
+        "emaisa",
+        "isaisa",
+        "vanavanaisa",
+        "kasuisa",
+        "lapsepõlvesõber",
+        "peresõber",
+        "poisipõnn",
+        "noorpõlvesõber",
+        "tädipoeg",
+        "tema",
+        "esik",
+        "juht",
+        "juht",
+        "pea",
+        "pea",
+        "pea",
+        "vend",
+        "vennatütar",
+        "ema",
+        "vanaema",
+        "tütar",
+        "poeg",
+        "poja",
+        "onu",
+        "mehevend",
+        "kasuvend",
+        "vanaonu",
+        "abikaasa",
+        "vend"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "isa",
+      "translations": [
+        "begetter",
+        "father",
+        "Father (preestri ja jumala kohta)",
+        "old man"
+      ]
+    }
+  ]
+}

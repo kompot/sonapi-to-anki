@@ -1,0 +1,277 @@
+{
+  "requestedWord": "ait",
+  "estonianWord": "ait",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22u",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "ait"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "aida"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "aita"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "aita"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "aidasse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "aidas"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "aidast"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "aidale"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "aidal"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "aidalt"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "aidaks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "aidani"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "aidana"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "aidata"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "aidaga"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "aidad"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "aitade"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "aitu,aitasid"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "aitadesse,aidusse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "aitades,aidus"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "aitadest,aidust"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "aitadele,aidule"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "aitadel,aidul"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "aitadelt,aidult"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "aitadeks,aiduks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "aitadeni"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "aitadena"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "aitadeta"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "aitadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "toidu- ja muude tagavarade hoidmise hoone (talumajapidamises)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Riideait.",
+            "Kiviait.",
+            "Vanaisa talust on alles ait, kelder, saun ning maakivist laudamüürid.",
+            "Tüdrukud magasid suviti aidas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "амбар",
+                "weight": 1
+              },
+              {
+                "words": "кладовая",
+                "weight": 1
+              },
+              {
+                "words": "склад",
+                "weight": 1
+              },
+              {
+                "words": "хранилище",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "viljaait",
+        "varaait",
+        "teraviljaait",
+        "taluait",
+        "sammasait",
+        "rõivaait",
+        "riideait",
+        "püssirohuait",
+        "pagasiait",
+        "lihaait",
+        "kaubaait",
+        "andmeait",
+        "laoruum",
+        "ladu",
+        "hoiukoht",
+        "sahver",
+        "hoiuruum",
+        "panipaik",
+        "hoidla",
+        "kelder",
+        "tõllakuur",
+        "magasiait",
+        "taluhoone",
+        "võlvkelder",
+        "laut",
+        "kõrvalhoone",
+        "abihoone",
+        "vinnkaev",
+        "puukuur",
+        "mõrrakuur",
+        "pesuköök",
+        "lehmalaut",
+        "jääkelder",
+        "härrastemaja",
+        "viinaköök",
+        "vankrikuur",
+        "rehi",
+        "rehielamu",
+        "karjalaut"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ait",
+      "translations": [
+        "garner",
+        "granary"
+      ]
+    }
+  ]
+}

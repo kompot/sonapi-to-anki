@@ -1,0 +1,73 @@
+{
+  "requestedWord": "vaheldumisi",
+  "estonianWord": "vaheldumisi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vaheldumisi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vaheldudes, mingis kindlas järjestuses korduvana",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Lüki kalatükid, paprika ja krevetid vaheldumisi vardasse.",
+            "Sõita tuli vaheldumisi asfaldil ja kruusal."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "поочерёдно",
+                "weight": 1
+              },
+              {
+                "words": "попеременно",
+                "weight": 1
+              },
+              {
+                "words": "вперемежку",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vahelduvalt",
+        "kordamööda",
+        "kordamisi",
+        "vaheldumine",
+        "mitmekaupa",
+        "kahekaupa",
+        "kolmekaupa",
+        "mitmekesi",
+        "vahelduma"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vaheldumisi",
+      "translations": [
+        "alternately",
+        "intermittently"
+      ]
+    }
+  ]
+}

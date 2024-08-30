@@ -1,0 +1,231 @@
+{
+  "requestedWord": "algoritm",
+  "estonianWord": "algoritm",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "algoritm"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "algoritmi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "algoritmi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "algoritmi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "algoritmisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "algoritmis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "algoritmist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "algoritmile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "algoritmil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "algoritmilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "algoritmiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "algoritmini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "algoritmina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "algoritmita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "algoritmiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "algoritmid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "algoritmide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "algoritme,algoritmisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "algoritmidesse,algoritmesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "algoritmides,algoritmes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "algoritmidest,algoritmest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "algoritmidele,algoritmele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "algoritmidel,algoritmel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "algoritmidelt,algoritmelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "algoritmideks,algoritmeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "algoritmideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "algoritmidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "algoritmideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "algoritmidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sammsammuline tegevusjuhis, eeskiri mingi tegevuse sooritamiseks või mingit kindlat tüüpi ülesannete lahendmiseks",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Pakume välja autorituvastuse algoritmi eestikeelsete arvamusartiklite jaoks.",
+            "Kui muidu teada ei saa, siis kirjuta algoritmile vastav programm ning proovi järele."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "алгоритм",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "алгоритм",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "algoritmiline",
+        "algoritmiteooria"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "algoritm",
+      "translations": [
+        "algorithm (ülesande samm-sammulise lahendamise viis)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "requestedWord": "käsitlus",
+  "estonianWord": "käsitlus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "käsitlus"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "käsitluse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "käsitlust"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "käsitlusse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "käsitlusesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "käsitluses"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "käsitlusest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "käsitlusele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "käsitlusel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "käsitluselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "käsitluseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "käsitluseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "käsitlusena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "käsitluseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "käsitlusega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "käsitlused"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "käsitluste"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "käsitlusi"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "käsitlustesse,käsitlusisse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "käsitlustes,käsitlusis"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "käsitlustest,käsitlusist"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "käsitlustele,käsitlusile"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "käsitlustel,käsitlusil"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "käsitlustelt,käsitlusilt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "käsitlusteks,käsitlusiks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "käsitlusteni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "käsitlustena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "käsitlusteta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "käsitlustega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teatud probleemi või uurimisainega tegelemine (hrl teatavaid võtteid, teooriat kasutades),selle tegevuse tulemus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ajaliselt hõlmab käsitlus kogu keiserliku ülikooli perioodi 1802–1917.",
+            "Filosoofiline käsitlus.",
+            "Kindlustusjuhtumite käsitlus.",
+            "Ajalookäsitlus.",
+            "Teemakäsitlus."
+          ],
+          "synonyms": [
+            "käsitelu",
+            "trakteering",
+            "lahkamine",
+            "ainekäsitlus",
+            "monograafia,tervikkäsitlus",
+            "üldkäsitlus",
+            "interpreteering,interpretatsioon",
+            "vaatlus",
+            "uuring",
+            "uurimine",
+            "teooria",
+            "uurimus,uurimistöö",
+            "uurimistöö,uurimus",
+            "analüüs"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "трактовка",
+                "weight": 1
+              },
+              {
+                "words": "толкование",
+                "weight": 1
+              },
+              {
+                "words": "рассмотрение",
+                "weight": 1
+              },
+              {
+                "words": "трактовка",
+                "weight": 0.9
+              },
+              {
+                "words": "исследование,рассмотрение,разбор",
+                "weight": 0.9
+              },
+              {
+                "words": "трактовка материала,трактовка темы,трактовка предмета",
+                "weight": 0.657
+              },
+              {
+                "words": "монография",
+                "weight": 0.762
+              },
+              {
+                "words": "толкование,истолкование,интерпретация",
+                "weight": 0.9
+              },
+              {
+                "words": "рассмотрение",
+                "weight": 0.9
+              },
+              {
+                "words": "исследование,обследование",
+                "weight": 0.7
+              },
+              {
+                "words": "изучение,изыскание,исследование",
+                "weight": 0.7
+              },
+              {
+                "words": "теория",
+                "weight": 0.7
+              },
+              {
+                "words": "монография,исследовательская работа,научное исследование,научный труд,исследование",
+                "weight": 0.7
+              },
+              {
+                "words": "исследовательская работа,исследовательский труд,изыскательная работа,научно-исследовательский труд,научно-исследовательская работа,исследование",
+                "weight": 0.7
+              },
+              {
+                "words": "анализ",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "monograph",
+                "weight": 0.762
+              },
+              {
+                "words": "analysis",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "recherche,étude",
+                "weight": 0.7
+              },
+              {
+                "words": "théorie",
+                "weight": 0.7
+              },
+              {
+                "words": "recherche,étude",
+                "weight": 0.7
+              },
+              {
+                "words": "recherche",
+                "weight": 0.7
+              },
+              {
+                "words": "analyse",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "дослідження,обстеження,огляд",
+                "weight": 0.7
+              },
+              {
+                "words": "теорія",
+                "weight": 0.7
+              },
+              {
+                "words": "дослідження,дослідна робота,науково-дослідна робота,наукова праця",
+                "weight": 0.7
+              },
+              {
+                "words": "дослідна робота",
+                "weight": 0.7
+              },
+              {
+                "words": "аналіз",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "teooria",
+        "uuring",
+        "uurimistöö",
+        "uurimine",
+        "arutlus",
+        "käsitelu",
+        "analüüs",
+        "analüüsimine",
+        "eritlus",
+        "eritelu",
+        "lahkamine",
+        "vaatlus",
+        "trakteering",
+        "jaotamine",
+        "käsitus",
+        "seletus",
+        "tõlgendus",
+        "kordaseadmine",
+        "interpreteering",
+        "tõlgitsus",
+        "käsitlemine",
+        "arutus",
+        "arutus",
+        "arutelu",
+        "arutamine",
+        "üldkäsitlus",
+        "tervikkäsitlus",
+        "ainekäsitlus",
+        "käsitlusviis",
+        "kahjukäsitlus",
+        "käsitluslaad"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "käsitlus",
+      "translations": [
+        "treatment",
+        "usage"
+      ]
+    }
+  ]
+}

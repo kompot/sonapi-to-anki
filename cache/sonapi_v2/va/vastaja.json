@@ -1,0 +1,332 @@
+{
+  "requestedWord": "vastaja",
+  "estonianWord": "vastaja",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "1",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "vastaja"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "vastaja"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "vastajat"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "vastajasse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "vastajas"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "vastajast"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "vastajale"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "vastajal"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "vastajalt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "vastajaks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "vastajani"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "vastajana"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "vastajata"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "vastajaga"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "vastajad"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "vastajate"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "vastajaid"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "vastajatesse,vastajaisse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "vastajates,vastajais"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "vastajatest,vastajaist"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "vastajatele,vastajaile"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "vastajatel,vastajail"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "vastajatelt,vastajailt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "vastajateks,vastajaiks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "vastajateni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "vastajatena"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "vastajateta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "vastajatega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingis küsitluses vastuseid andev isik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Vastajate anonüümsus on tagatud.",
+            "Venekeelsete vastajate seas oli Eesti kodanikke 50%."
+          ],
+          "synonyms": [
+            "küsitletav",
+            "küsitletu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "отвечающий",
+                "weight": 1
+              },
+              {
+                "words": "отвечающая",
+                "weight": 1
+              },
+              {
+                "words": "опрашиваемый",
+                "weight": 0.7
+              },
+              {
+                "words": "опрошенный",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "see, kes vastab küsimusele või küsimustele,õppida antut vastav õpilane",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Sain aru küsijast, ent mõistsin täielikult ka vastajat.",
+            "Pinginaaber ütles vastajale ette."
+          ],
+          "synonyms": [
+            "küsitav,küsitu",
+            "eksamineeritav"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "отвечающий",
+                "weight": 1
+              },
+              {
+                "words": "отвечающая",
+                "weight": 1
+              },
+              {
+                "words": "экзаменуемый",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "telefonis helistajale nõu andev isik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Murekõnedele vastajad hakkavad tööd tegema tasuta.",
+            "Usaldustelefonidel vastajad on läbinud koolituse."
+          ],
+          "synonyms": [
+            "nõuandja",
+            "nõustaja"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "отвечающий",
+                "weight": 1
+              },
+              {
+                "words": "отвечающая",
+                "weight": 1
+              },
+              {
+                "words": "консультантка,советчик,советчица,советник,референт,референтка,консультант",
+                "weight": 0.7
+              },
+              {
+                "words": "советчик,советчица",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "conseiller,conseillère",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "консультантка,порадник,порадниця,консультант",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "küsitletav",
+        "eksamineeritav",
+        "küsitu",
+        "küsitav",
+        "nõustaja",
+        "nõuandja",
+        "automaatvastaja",
+        "vastamine",
+        "küsija",
+        "helistaja",
+        "vastustaja",
+        "edastaja"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vastaja",
+      "translations": [
+        "respondent"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "requestedWord": "paremale",
+  "estonianWord": "paremale",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "paremale"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "keha keskjoonest südamest teisele poole, parema käe poole või suunas,parema käe suunas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Auto kaldus kurvis paremale.",
+            "Keerake siit paremale.",
+            "Park jääb meist paremale."
+          ],
+          "synonyms": [
+            "paremale poole",
+            "hüvakule"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "à droite",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вправо",
+                "weight": 1
+              },
+              {
+                "words": "направо",
+                "weight": 1
+              },
+              {
+                "words": "в правую сторону",
+                "weight": 1
+              },
+              {
+                "words": "на правую сторону",
+                "weight": 1
+              },
+              {
+                "words": "направо,на правую сторону",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "праворуч",
+                "weight": 1
+              },
+              {
+                "words": "направо",
+                "weight": 1
+              },
+              {
+                "words": "вправо",
+                "weight": 1
+              },
+              {
+                "words": "у правий бік",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hüvakule",
+        "paremal",
+        "pimemale",
+        "vasakule",
+        "paremalt",
+        "vasakult",
+        "pahemale",
+        "vasemale"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "paremale",
+      "translations": [
+        "to the right"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "requestedWord": "seepeale",
+  "estonianWord": "seepeale",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "seepeale"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selle järel, selle peale, tulemusena",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Seepeale hakkasid jälle kõik naerma."
+          ],
+          "synonyms": [
+            "sellepeale"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "на это",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "pärast seda, selle järel, järgmisena,pärast mainitud tegevust või sündmust",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Akna tagant kostis samme ja varsti seepeale koputus."
+          ],
+          "synonyms": [
+            "seejärel"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "puis",
+                "weight": 1
+              },
+              {
+                "words": "ensuite",
+                "weight": 1
+              },
+              {
+                "words": "après",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вслед за тем",
+                "weight": 1
+              },
+              {
+                "words": "потом",
+                "weight": 1
+              },
+              {
+                "words": "затем",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "потім",
+                "weight": 1
+              },
+              {
+                "words": "далі",
+                "weight": 1
+              },
+              {
+                "words": "тоді",
+                "weight": 1
+              },
+              {
+                "words": "відтак",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "misjärel",
+        "seejärel",
+        "siis",
+        "solvunult",
+        "mispeale",
+        "pahaselt",
+        "minupärast",
+        "eile",
+        "kohe",
+        "kohe",
+        "sellepeale",
+        "hoobilt",
+        "nördinult",
+        "pahane",
+        "kibekähku"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "seepeale",
+      "translations": [
+        "thereupon"
+      ]
+    }
+  ]
+}

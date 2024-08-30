@@ -1,0 +1,117 @@
+{
+  "requestedWord": "sügavuti",
+  "estonianWord": "sügavuti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sügavuti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "põhjalikult, üksipulgi süvenedes, põhjani minnes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Loomulikult tegelesime probleemiga sügavuti.",
+            "Seda on vaja sügavuti uurida."
+          ],
+          "synonyms": [
+            "süviti",
+            "süvitsi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "углублённо",
+                "weight": 1
+              },
+              {
+                "words": "глубинно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "põhja, sügavuse, sisemuse suunas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Koed soojenevad sügavuti."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "глубоко",
+                "weight": 1
+              },
+              {
+                "words": "глубинно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ammendavalt",
+        "üksikasjaliselt",
+        "jalg-jalalt",
+        "risti-rästi",
+        "risti ja põiki",
+        "peenelt",
+        "risti-põiki",
+        "pulk-pulgalt",
+        "radikaalselt",
+        "risti ja rästi",
+        "näpp-näpult",
+        "süviti",
+        "pulkhaaval",
+        "kardinaalselt",
+        "detailselt",
+        "üksipulgi",
+        "täht-tähelt",
+        "põhjalikult",
+        "igakülgselt",
+        "punkt-punktilt",
+        "sügavalt",
+        "süvitsi",
+        "sügavasti",
+        "rida-realt",
+        "üksikasjalikult",
+        "punkthaaval",
+        "sügavamini",
+        "sügavamalt",
+        "sügavmõtteliselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sügavuti",
+      "translations": [
+        "depthwise",
+        "in depth"
+      ]
+    }
+  ]
+}

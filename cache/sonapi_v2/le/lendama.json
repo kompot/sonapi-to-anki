@@ -1,0 +1,878 @@
+{
+  "requestedWord": "lendama",
+  "estonianWord": "lendama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "lendan"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "lendad"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "lendab"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "lendame"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "lendate"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "lendavad"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "lenda"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "lennatakse"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "lennata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "lendasin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "lendasid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "lendas"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "lendasime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "lendasite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "lendasid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "lennati"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "lendaksin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "lendaksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "lendaks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "lendaksime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "lendaksite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "lendaksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "lennataks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "lennanuksin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "lennanuksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "lennanuks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "lennanuksime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "lennanuksite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "lennanuksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "lennatuks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "lendavat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "lennatavat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "lennanuvat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "lennatuvat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "lenda"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "lennakem"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "lennake"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "lennaku"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "lennatagu"
+        },
+        {
+          "inflectionType": "29",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "lendama"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "lendamata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "lendamas"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "lendamast"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "lendamaks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "lennatama"
+        },
+        {
+          "inflectionType": "29",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "lennata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "lennates"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "lendav"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "lennatav"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "lennanud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "lennanud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "lennatud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "lennatud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "õhus edasi liikuma, hrl õhu- või kosmosesõiduki sõidu ja sellel sõitja kohta,õhus edasi liikuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kopter lendas madalalt üle majade.",
+            "President lendab Ameerikasse.",
+            "Linnud lendavad.",
+            "Lennuk lendas Tallinnast Pariisi.",
+            "Pall lendas üle aia."
+          ],
+          "synonyms": [
+            "tiivutama"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "fly",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "voler",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "лететь",
+                "weight": 1
+              },
+              {
+                "words": "летать",
+                "weight": 1
+              },
+              {
+                "words": "улетать",
+                "weight": 1
+              },
+              {
+                "words": "улететь",
+                "weight": 1
+              },
+              {
+                "words": "перелетать",
+                "weight": 1
+              },
+              {
+                "words": "перелететь",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "летіти",
+                "weight": 1
+              },
+              {
+                "words": "літати",
+                "weight": 1
+              },
+              {
+                "words": "полетіти",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(lindude, putukate, nahkhiirte kohta:) tiibade või jäsemeid ühendava lennunaha abil õhus kulgema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Linnupojad alles õpivad lendama.",
+            "Kärbes lendas silma.",
+            "Mesilased lendasid õielt õiele."
+          ],
+          "synonyms": [
+            "tiivutama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "летать",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "õhuvoolust, tuulest kantuna õhus liuglema,tõuke, viske jõul läbi õhu liikuma või paiskuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kõrgel taevas lendav tuulelohe on tore vaatepilt.",
+            "Pall lendas väravasse.",
+            "Auto lendas kraavi."
+          ],
+          "synonyms": [
+            "lendlema",
+            "lauglema,planeerima",
+            "kanduma",
+            "lenduma",
+            "heljuma,hõljuma,vooglema",
+            "käima",
+            "liuglema",
+            "tuiskama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "реять,кружиться в воздухе,парить,летать,порхать",
+                "weight": 0.682
+              },
+              {
+                "words": "реять,кружиться,кружить,парашютировать,спарашютировать,парить,планировать,спланировать",
+                "weight": 0.7
+              },
+              {
+                "words": "передвигаться,передвинуться,перемещаться,переместиться,переноситься,перенестись",
+                "weight": 0.75
+              },
+              {
+                "words": "парить,витать,стлаться,расстилаться,разостлаться,расстелиться,порхать",
+                "weight": 0.7
+              },
+              {
+                "words": "упасть,падать,шлёпаться,шлёпнуться",
+                "weight": 0.7
+              },
+              {
+                "words": "плыть,скользить",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hooga maha kukkuma, (nt löögist, viskest) maha paiskuma või kanduma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Komistasin ja lendasin ninali."
+          ],
+          "synonyms": [
+            "alla lendama",
+            "maha lendama",
+            "alla sadama,maha sadama",
+            "maha pudenema,maha kukkuma",
+            "sadama",
+            "kukkuma",
+            "kukkuma",
+            "käima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "улететь",
+                "weight": 1
+              },
+              {
+                "words": "слететь",
+                "weight": 1
+              },
+              {
+                "words": "падать,упасть,сваливаться,свалиться,рухнуть,грохнуться,грохаться",
+                "weight": 0.9
+              },
+              {
+                "words": "упасть,падать",
+                "weight": 0.7
+              },
+              {
+                "words": "свалиться,сваливаться,упасть,падать",
+                "weight": 0.9
+              },
+              {
+                "words": "падать,упасть",
+                "weight": 0.569
+              },
+              {
+                "words": "падать,упасть,шлёпаться,шлёпнуться",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "tomber",
+                "weight": 0.9
+              },
+              {
+                "words": "tomber",
+                "weight": 0.569
+              }
+            ],
+            "ukr": [
+              {
+                "words": "падати,упасти,звалюватися,звалитися",
+                "weight": 0.9
+              },
+              {
+                "words": "упасти,падати",
+                "weight": 0.569
+              }
+            ],
+            "eng": [
+              {
+                "words": "fall",
+                "weight": 0.9
+              },
+              {
+                "words": "fall",
+                "weight": 0.569
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(vallandamise, ametist vabastamise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Segastel põhjustel lendas ametist kaks ministrit."
+          ],
+          "synonyms": [
+            "lahti laskma,lahti tegema",
+            "vallandama",
+            "maha võtma",
+            "minema kihutama,minema lööma",
+            "tagandama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "слететь",
+                "weight": 1
+              },
+              {
+                "words": "рассчитывать,рассчитать,увольнять,уволить,отказывать от места,отказывать от должности,отказать от должности,отказать от места",
+                "weight": 0.7
+              },
+              {
+                "words": "рассчитать,рассчитывать,расчесть,увольнять,уволить,отставить от должности,снять с должности",
+                "weight": 0.7
+              },
+              {
+                "words": "снимать,снять",
+                "weight": 0.7
+              },
+              {
+                "words": "низложить,лишить власти,устранять,устранить,отстранять,отстранить,снимать,снять,свергнуть,свергать,смещать,сместить,лишать власти,низлагать",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "licencier,renvoyer",
+                "weight": 0.7
+              },
+              {
+                "words": "licencier",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звільняти,звільнити",
+                "weight": 0.7
+              },
+              {
+                "words": "звільняти,звільнити",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kiire liikumise või edenemise, aja kiire möödumise kohta),kiiresti liikuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Küll mehel ikka mõte lendab ja sulg jookseb!",
+            "Töö lausa lendab käes.",
+            "Suvi läks lennates.",
+            "Päevad muudkui lendavad.",
+            "Aeg lendab."
+          ],
+          "synonyms": [
+            "mööda minema",
+            "kihutama",
+            "hüppama",
+            "kuluma",
+            "kaduma",
+            "lippama",
+            "kappama",
+            "põrutama",
+            "kupatama",
+            "tuhisema,tuhistama",
+            "tuiskama",
+            "tuiskama"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "fly",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "лететь",
+                "weight": 1
+              },
+              {
+                "words": "пролетать",
+                "weight": 1
+              },
+              {
+                "words": "пролететь",
+                "weight": 1
+              },
+              {
+                "words": "пройти,проходить,миновать",
+                "weight": 0.9
+              },
+              {
+                "words": "нестись,мчаться",
+                "weight": 0.9
+              },
+              {
+                "words": "понадобиться,требоваться,потребоваться,занимать,занять,проходить,пройти",
+                "weight": 0.9
+              },
+              {
+                "words": "пролететь,лететь",
+                "weight": 0.9
+              },
+              {
+                "words": "бежать",
+                "weight": 0.9
+              },
+              {
+                "words": "шпарить,унестись,уноситься,мчать,мчаться,махнуть",
+                "weight": 0.795
+              },
+              {
+                "words": "помчать,мчаться,помчаться,нестись,понестись,мчать,умчаться,уноситься,унестись",
+                "weight": 0.9
+              },
+              {
+                "words": "носиться вихрем,мчаться,нестись",
+                "weight": 0.9
+              },
+              {
+                "words": "носиться вихрем,мчаться,мчать",
+                "weight": 0.9
+              },
+              {
+                "words": "вихриться",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "летіти",
+                "weight": 1
+              },
+              {
+                "words": "минати",
+                "weight": 1
+              },
+              {
+                "words": "минути",
+                "weight": 1
+              },
+              {
+                "words": "збігати",
+                "weight": 1
+              },
+              {
+                "words": "збігти",
+                "weight": 1
+              },
+              {
+                "words": "проминути,проминати,минути,минати,пройти,проходити",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "passer",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(hrl teravate ütlemiste ohtra esituse kohta)",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kommentaarides kogu aeg solvangud lendavad."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "liuglema",
+        "lauglema",
+        "hõljuma",
+        "tagandama",
+        "minema lööma",
+        "minema kihutama",
+        "maha võtma",
+        "vallandama",
+        "lahti laskma",
+        "potsatama",
+        "maha kukkuma",
+        "levima",
+        "jõudma",
+        "kaduma",
+        "kihutama",
+        "tiivutama",
+        "mööduma",
+        "lippama",
+        "sõudma",
+        "kappama",
+        "kõlisema",
+        "tormama",
+        "laiali paiskuma",
+        "kõmisema",
+        "laiali lendama",
+        "edasi kanduma",
+        "kõmama",
+        "sõitma",
+        "lillutama",
+        "tiiblema",
+        "mööda saama",
+        "traavima",
+        "vurama",
+        "põrutama",
+        "tortsutama",
+        "ratsutama",
+        "galoppima",
+        "traaveldama",
+        "kupatama",
+        "purjetama",
+        "kuluma",
+        "võristama",
+        "ringlema",
+        "mööda pääsema",
+        "veerema",
+        "roomama",
+        "lennutama",
+        "tuhistama",
+        "sööstma",
+        "ronima",
+        "kärutama",
+        "mööda minema",
+        "põletama",
+        "tuiskama",
+        "galopeerima",
+        "ajama",
+        "venima",
+        "tuhisema",
+        "tulema",
+        "põrisema",
+        "hüppama",
+        "minema",
+        "üle sõitma",
+        "kanduma",
+        "vahele jääma",
+        "kostma",
+        "sisse kukkuma",
+        "läbi jooksma",
+        "mürisema",
+        "sirutama",
+        "perutama",
+        "maanduma",
+        "tiirutama",
+        "kukkuma",
+        "lenduma",
+        "lehvitama",
+        "koperdama",
+        "lendlema",
+        "suuliselt",
+        "tulema",
+        "tulema",
+        "ruumiliselt",
+        "mööda",
+        "kupatama",
+        "ajaliselt",
+        "minema",
+        "lendu",
+        "tärisema",
+        "põristama",
+        "põkkuma",
+        "kukkuma",
+        "pirtsutama",
+        "turnima",
+        "ehmuma",
+        "tankima",
+        "helendama",
+        "ukerdama",
+        "ülendama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lendama",
+      "translations": [
+        "fly"
+      ]
+    }
+  ]
+}

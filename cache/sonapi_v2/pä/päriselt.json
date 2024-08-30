@@ -1,0 +1,382 @@
+{
+  "requestedWord": "päriselt",
+  "estonianWord": "päriselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "päriselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "täiel määral, kogu ulatuses",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Eda pole sellega päriselt nõus.",
+            "Ma pole sinuga päriselt nõus.",
+            "Teda ei saa päriselt usaldada."
+          ],
+          "synonyms": [
+            "üleni",
+            "absoluutselt",
+            "läbini",
+            "läbinisti",
+            "täienisti",
+            "täielikult",
+            "täiesti",
+            "totaalselt",
+            "tervenisti",
+            "täieliselt",
+            "terveni",
+            "viimne,viimane",
+            "päris",
+            "juuksejuurteni"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "entièrement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "совсем",
+                "weight": 1
+              },
+              {
+                "words": "окончательно",
+                "weight": 1
+              },
+              {
+                "words": "совершенно",
+                "weight": 1
+              },
+              {
+                "words": "абсолютно",
+                "weight": 1
+              },
+              {
+                "words": "тотально",
+                "weight": 1
+              },
+              {
+                "words": "полностью",
+                "weight": 1
+              },
+              {
+                "words": "целиком",
+                "weight": 1
+              },
+              {
+                "words": "сполна",
+                "weight": 1
+              },
+              {
+                "words": "всецело",
+                "weight": 1
+              },
+              {
+                "words": "сплошь",
+                "weight": 1
+              },
+              {
+                "words": "насквозь",
+                "weight": 1
+              },
+              {
+                "words": "всеобъемлюще",
+                "weight": 1
+              },
+              {
+                "words": "целиком и полностью",
+                "weight": 1
+              },
+              {
+                "words": "в полной мере",
+                "weight": 1
+              },
+              {
+                "words": "вконец",
+                "weight": 1
+              },
+              {
+                "words": "последний",
+                "weight": 0.7
+              },
+              {
+                "words": "совсем,совершенно",
+                "weight": 0.82
+              },
+              {
+                "words": "до корней волос",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "повністю",
+                "weight": 1
+              },
+              {
+                "words": "цілком",
+                "weight": 1
+              },
+              {
+                "words": "абсолютно",
+                "weight": 1
+              },
+              {
+                "words": "цілковито",
+                "weight": 1
+              },
+              {
+                "words": "зовсім",
+                "weight": 1
+              },
+              {
+                "words": "геть",
+                "weight": 1
+              },
+              {
+                "words": "цілком,досить,зовсім",
+                "weight": 0.82
+              }
+            ]
+          }
+        },
+        {
+          "definition": "jäädavalt, alatiseks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Võta see raamat päriselt endale."
+          ],
+          "synonyms": [
+            "päriseks"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "навсегда",
+                "weight": 1
+              },
+              {
+                "words": "насовсем",
+                "weight": 1
+              },
+              {
+                "words": "навечно",
+                "weight": 1
+              },
+              {
+                "words": "навеки",
+                "weight": 1
+              },
+              {
+                "words": "на вечные времена",
+                "weight": 1
+              },
+              {
+                "words": "на веки вечные",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(täiel määral) tegelikkuses, reaalsuses, mitte näiliselt,reaalses elus, tegelikkuses",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Martin on mõelnud päriselt Eestisse tagasi tulla.",
+            "Kas päkapikud on päriselt olemas?"
+          ],
+          "synonyms": [
+            "tegelikult",
+            "tõeliselt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "vraiment",
+                "weight": 1
+              },
+              {
+                "words": "réellement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "действительно",
+                "weight": 1
+              },
+              {
+                "words": "в действительности",
+                "weight": 1
+              },
+              {
+                "words": "реально",
+                "weight": 1
+              },
+              {
+                "words": "в самом деле",
+                "weight": 1
+              },
+              {
+                "words": "на самом деле",
+                "weight": 1
+              },
+              {
+                "words": "истинно",
+                "weight": 1
+              },
+              {
+                "words": "по-настоящему",
+                "weight": 1
+              },
+              {
+                "words": "наяву",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "справді",
+                "weight": 1
+              },
+              {
+                "words": "дійсно",
+                "weight": 1
+              },
+              {
+                "words": "насправді",
+                "weight": 1
+              },
+              {
+                "words": "на ділі",
+                "weight": 1
+              },
+              {
+                "words": "в дійсності",
+                "weight": 1
+              },
+              {
+                "words": "по-справжньому",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "päris",
+        "praktiliselt",
+        "jäävalt",
+        "tükkis",
+        "tükkis",
+        "hoopistükkis",
+        "ausalt öelda",
+        "ilmsi",
+        "puhtani",
+        "puhtal kujul",
+        "iseenesest",
+        "auga",
+        "alatiseks",
+        "täitsa",
+        "täitsa",
+        "õigupärast",
+        "puhtanisti",
+        "reaalselt",
+        "igaveseks",
+        "puha",
+        "täiesti",
+        "kogunisti",
+        "täiega",
+        "tõtt-öelda",
+        "hoopiski",
+        "sootuks",
+        "tõeliselt",
+        "kõigiti",
+        "tervelt",
+        "jäädavalt",
+        "hoopis",
+        "igas tükis",
+        "koguni",
+        "lõpuks",
+        "puhtalt",
+        "tervenisti",
+        "õieti",
+        "igavesti",
+        "sootumaks",
+        "ausalt",
+        "päriseks",
+        "alati",
+        "igati",
+        "sootu",
+        "sootu",
+        "õigupoolest",
+        "tegelikult",
+        "tõsi",
+        "niimoodi",
+        "ometi",
+        "tõesti",
+        "lapsikult",
+        "siiski",
+        "miskitmoodi",
+        "ilmselt",
+        "üldse",
+        "kuidagi",
+        "kunagi",
+        "enam",
+        "enam",
+        "ikka",
+        "küll",
+        "küll",
+        "õhkagi",
+        "ikkagi",
+        "päriselu",
+        "vist",
+        "vist",
+        "lihtsalt",
+        "nüüd",
+        "päriselanik",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "päriselt",
+      "translations": [
+        "for real",
+        "in effect",
+        "really",
+        "sooth"
+      ]
+    }
+  ]
+}

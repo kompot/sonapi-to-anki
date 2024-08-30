@@ -1,0 +1,472 @@
+{
+  "requestedWord": "artikkel",
+  "estonianWord": "artikkel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "artikkel"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "artikli"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "artiklit"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "artiklisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "artiklis"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "artiklist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "artiklile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "artiklil"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "artiklilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "artikliks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "artiklini"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "artiklina"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "artiklita"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "artikliga"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "artiklid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "artiklite"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "artikleid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "artiklitesse,artikleisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "artiklites,artikleis"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "artiklitest,artikleist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "artiklitele,artikleile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "artiklitel,artikleil"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "artiklitelt,artikleilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "artikliteks,artikleiks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "artikliteni"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "artiklitena"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "artikliteta"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "artiklitega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "arutlev kirjutis ajakirjanduses,teaduslik või populaarteaduslik kirjutis, lühiuurimus vms,kirjutis ajalehes või ajakirjas",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tippteadlase artikleid on avaldatud paljudes teadusajakirjades üle maailma.",
+            "Erialased artiklid.",
+            "Artikkel sisaldab palju faktivigu.",
+            "Ajaleheartikkel.",
+            "Artikkel ilmub homses lehes.",
+            "Ta on avaldanud mitu teaduslikku artiklit."
+          ],
+          "synonyms": [
+            "kirjutis",
+            "kirjatükk",
+            "sulesünnitis",
+            "sulesepitsus",
+            "kirjatöö",
+            "kaastöö",
+            "lugu",
+            "asi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "article",
+                "weight": 1
+              },
+              {
+                "words": "texte,écrit",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "статья",
+                "weight": 1
+              },
+              {
+                "words": "публикация,опус,заметка,статья,сочинение",
+                "weight": 0.9
+              },
+              {
+                "words": "плод пера",
+                "weight": 0.9
+              },
+              {
+                "words": "сочинительство,заметка,публикация",
+                "weight": 0.9
+              },
+              {
+                "words": "публикация,статья,произведение",
+                "weight": 0.9
+              },
+              {
+                "words": "корреспонденция,сотрудничество",
+                "weight": 0.9
+              },
+              {
+                "words": "история,рассказ",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "стаття",
+                "weight": 1
+              },
+              {
+                "words": "твір,замітка,публікація,стаття",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "lõik, teksti osa",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "статья",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(sõnaraamatus:) märksõna koos juurdekuuluva infoga (nt muutmisinfo, seletus või vasted, näitelaused)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Põhisõnavara sõnastikus on umbes 4500 artiklit."
+          ],
+          "synonyms": [
+            "sõnaartikkel"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "словарная статья",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rahvusvahelise lepingu nummerdatud osa",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Lissaboni lepingu artiklis 5 on osutatud, et .."
+          ],
+          "synonyms": [
+            "art"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ст.",
+                "weight": 1
+              },
+              {
+                "words": "статья",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "inimese valmistatud toode, mida teistest samaliigilistest eristab number- või tähttähis või erinimetus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kommimeistrite põhiliseks artikliks on taruvaiguga šokolaad."
+          ],
+          "synonyms": [
+            "kaubaartikkel",
+            "toode"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "товар",
+                "weight": 1
+              },
+              {
+                "words": "предмет торговли",
+                "weight": 1
+              },
+              {
+                "words": "продукт,изделие",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "produit",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "виріб,продукт",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(raamatupidamises:) tulu- või kululiik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "kirje"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "артикул",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(grammatikas:) lühisõna nimisõna juures, mis tähistab nt sugu, määratust või määramatust",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Saksa keele artiklid <eki-foreign>der, die, das</eki-foreign>."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "артикль",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kaastöö",
+        "suletöö",
+        "kirjutis",
+        "sulesünnitis",
+        "nupp",
+        "sugu",
+        "kirjatükk",
+        "mark",
+        "kirjatöö",
+        "sõnum",
+        "jagu",
+        "lugu",
+        "klass",
+        "laad",
+        "liik",
+        "oopus",
+        "kategooria",
+        "sort",
+        "selts",
+        "sulesepitsus",
+        "teadusartikkel",
+        "ülevaateartikkel",
+        "ajaleheartikkel",
+        "avaartikkel",
+        "kuluartikkel",
+        "lühiartikkel",
+        "näidisartikkel",
+        "juubeliartikkel",
+        "arvamusartikkel",
+        "sugu",
+        "mark",
+        "mark",
+        "värk",
+        "kululiik",
+        "laad",
+        "liik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "artikkel",
+      "translations": [
+        "article",
+        "write-up"
+      ]
+    }
+  ]
+}

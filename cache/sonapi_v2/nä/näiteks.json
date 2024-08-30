@@ -1,0 +1,145 @@
+{
+  "requestedWord": "näiteks",
+  "estonianWord": "näiteks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "näiteks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "näitena mitme või paljude hulgast (ka väljapakutava võimaluse kohta),näitena mitme või paljude hulgast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Rooibos leevendavat mitmeid terviseprobleeme, näiteks unetust, pingeid ja peavalu.",
+            "Võib teha ka nii, et toon sulle raamatud näiteks kolmapäeval tagasi.",
+            "Ta räägib mitut keelt, näiteks inglise ja prantsuse keelt."
+          ],
+          "synonyms": [
+            "nt",
+            "näituseks"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "par ex.",
+                "weight": 1
+              },
+              {
+                "words": "par exemple",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "например",
+                "weight": 1
+              },
+              {
+                "words": "к примеру",
+                "weight": 1
+              },
+              {
+                "words": "напр.",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "наприклад",
+                "weight": 1
+              },
+              {
+                "words": "для прикладу",
+                "weight": 1
+              },
+              {
+                "words": "приміром",
+                "weight": 1
+              },
+              {
+                "words": "напр.",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vastanduva näitena",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mina näiteks ei nõua kellegi tagasiastumist."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "например",
+                "weight": 1
+              },
+              {
+                "words": "к примеру",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hoopis",
+        "aga",
+        "aga",
+        "muidugi",
+        "eelkõige",
+        "kui",
+        "kui",
+        "tavaliselt",
+        "mitutpidi",
+        "pigem",
+        "isegi",
+        "samuti",
+        "nagu",
+        "enamasti",
+        "kasvõi",
+        "mingitmoodi",
+        "muuhulgas",
+        "sealhulgas",
+        "mõni",
+        "siis",
+        "samahästi",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "näiteks",
+      "translations": [
+        "as an example",
+        "for example",
+        "for instance",
+        "for one"
+      ]
+    }
+  ]
+}

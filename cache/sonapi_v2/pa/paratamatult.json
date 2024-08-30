@@ -1,0 +1,122 @@
+{
+  "requestedWord": "paratamatult",
+  "estonianWord": "paratamatult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "paratamatult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tahtest sõltumata, igal juhul, vältimatult,sellisel moel, mida ei saa vältida",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Paratamatult tekib küsimus: mis edasi saab?",
+            "Ülepingutusest taastumine võtab paratamatult aega.",
+            "Nõrgem vastane kaotab paratamatult mängu."
+          ],
+          "synonyms": [
+            "paratamata",
+            "vägisi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "inévitablement",
+                "weight": 1
+              },
+              {
+                "words": "nécessairement",
+                "weight": 1
+              },
+              {
+                "words": "forcément",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "неизбежно",
+                "weight": 1
+              },
+              {
+                "words": "непредотвратимо",
+                "weight": 1
+              },
+              {
+                "words": "неминуемо",
+                "weight": 1
+              },
+              {
+                "words": "необходимо",
+                "weight": 1
+              },
+              {
+                "words": "фатально",
+                "weight": 1
+              },
+              {
+                "words": "как-никак",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "неминуче",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tahes-tahtmata",
+        "ikkagi",
+        "möödapääsematult",
+        "tahes-tahtmatult",
+        "tahes või tahtmata",
+        "möödapääsmatult",
+        "fataalselt",
+        "vältimatult",
+        "paratamatu",
+        "vältimatu",
+        "saatuslikult",
+        "seletamatult",
+        "tähelepandamatult",
+        "õigustamatult",
+        "unustamatult",
+        "otsatult",
+        "vääramatult",
+        "paraku",
+        "kõigutamatult",
+        "paratamatus",
+        "mõtlematult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "paratamatult",
+      "translations": [
+        "bound to (tegema)",
+        "needs",
+        "of necessity"
+      ]
+    }
+  ]
+}

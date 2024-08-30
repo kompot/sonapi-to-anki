@@ -1,0 +1,485 @@
+{
+  "requestedWord": "sama",
+  "estonianWord": "sama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sama"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(võrdlustes:) näitab, et mingi omaduse poolest on mõlemad ühesugused,võrdlustes: näitab, et mingi omaduse poolest on mõlemad ühesugused",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tütrel on sama pruunid silmad kui isal.",
+            "Sadu lakkas sama järsku, nagu oli alanudki.",
+            "Holland on peaaegu sama suur kui Eesti."
+          ],
+          "synonyms": [
+            "niisama"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "aussi",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "так же",
+                "weight": 1
+              },
+              {
+                "words": "такой же",
+                "weight": 1
+              },
+              {
+                "words": "столько же",
+                "weight": 1
+              },
+              {
+                "words": "столь же",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "такий самий",
+                "weight": 1
+              },
+              {
+                "words": "такий же",
+                "weight": 1
+              },
+              {
+                "words": "стільки же",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "võrdne",
+        "seesamune",
+        "niisamasugune",
+        "ühelaadne",
+        "paras paar",
+        "üks ja seesama",
+        "samane",
+        "ükssama",
+        "üks ja sama",
+        "ühelaadiline",
+        "toosama",
+        "seesama",
+        "üks",
+        "adekvaatne",
+        "ühetaoline",
+        "ühe vitsaga löödud",
+        "samasugune",
+        "identne",
+        "ühesugune",
+        "seesamane",
+        "vastav",
+        "nüüdsama",
+        "päris",
+        "isegi",
+        "täpselt",
+        "samagonn",
+        "ainult",
+        "mingitmoodi",
+        "kaks",
+        "samaaegselt",
+        "ühe",
+        "see",
+        "samas",
+        "mingi",
+        "nii"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17u",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "sama"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "sama"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "sama"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "samasse"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "samas"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "samast"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "samale"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "samal"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "samalt"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "samaks"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "samani"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "samana"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "samata"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "samaga"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "samad"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "samade"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "samu,samasid"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "samadesse,samusse"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "samades,samus"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "samadest,samust"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "samadele,samule"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "samadel,samul"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "samadelt,samult"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "samadeks,samuks"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "samadeni"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "samadena"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "samadeta"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "samadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teada olevaga või mainituga sarnane või (rõhutatult) ühesugune, mitte muu või teine,see, kes või mis on teada või mainitud, mitte keegi või miski muu,teada olevaga ühesugune, kellegi jaoks ühine",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Jätkasime samal viisil.",
+            "Aasta tagasi oli samas kohas tuhandeid telke.",
+            "Paula kolis samal õhtul majast välja.",
+            "Ta kannab musta mantlit ja sama värvi kübarat.",
+            "Sama mees käis siin pool tundi tagasi.",
+            "Kohtume homme samas kohas.",
+            "Rääkisime täna samal teemal nagu eelmine kord.",
+            "Elame Toomasega samas majas.",
+            "Käime samas koolis."
+          ],
+          "synonyms": [
+            "seesama",
+            "vana",
+            "vend",
+            "üks"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "même",
+                "weight": 1
+              },
+              {
+                "words": "même",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "тот же самый",
+                "weight": 1
+              },
+              {
+                "words": "та же самая",
+                "weight": 1
+              },
+              {
+                "words": "то же самое",
+                "weight": 1
+              },
+              {
+                "words": "этот же самый",
+                "weight": 1
+              },
+              {
+                "words": "эта же самая",
+                "weight": 1
+              },
+              {
+                "words": "это же самое",
+                "weight": 1
+              },
+              {
+                "words": "один и тот же",
+                "weight": 1
+              },
+              {
+                "words": "одна и та же",
+                "weight": 1
+              },
+              {
+                "words": "одно и то же",
+                "weight": 1
+              },
+              {
+                "words": "такой же",
+                "weight": 1
+              },
+              {
+                "words": "такая же",
+                "weight": 1
+              },
+              {
+                "words": "такое же",
+                "weight": 1
+              },
+              {
+                "words": "одинаковый",
+                "weight": 1
+              },
+              {
+                "words": "брат",
+                "weight": 0.7
+              },
+              {
+                "words": "один",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "той самий",
+                "weight": 1
+              },
+              {
+                "words": "та сама",
+                "weight": 1
+              },
+              {
+                "words": "те саме",
+                "weight": 1
+              },
+              {
+                "words": "один і той самий",
+                "weight": 1
+              },
+              {
+                "words": "одна й та сама",
+                "weight": 1
+              },
+              {
+                "words": "одне й те саме",
+                "weight": 1
+              },
+              {
+                "words": "однаковий",
+                "weight": 1
+              },
+              {
+                "words": "один",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vana",
+        "võrdne",
+        "seesamune",
+        "niisamasugune",
+        "ühelaadne",
+        "paras paar",
+        "üks ja seesama",
+        "samane",
+        "ükssama",
+        "üks ja sama",
+        "ühelaadiline",
+        "toosama",
+        "seesama",
+        "üks",
+        "adekvaatne",
+        "ühetaoline",
+        "ühe vitsaga löödud",
+        "samasugune",
+        "identne",
+        "ühesugune",
+        "seesamane",
+        "vastav",
+        "nüüdsama",
+        "päris",
+        "isegi",
+        "täpselt",
+        "samagonn",
+        "ainult",
+        "mingitmoodi",
+        "kaks",
+        "samaaegselt",
+        "ühe",
+        "see",
+        "samas",
+        "mingi",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sama",
+      "translations": [
+        "do.",
+        "equally",
+        "every bit",
+        "id (autor)",
+        "just the same",
+        "same"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "requestedWord": "järk-järgult",
+  "estonianWord": "järk-järgult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "järk-järgult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingis (järjestikuses) korras, ühe osa kaupa, mitte (kõik, suures mahus) korraga",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Treeningukoormust tuleks tõsta järk-järgult."
+          ],
+          "synonyms": [
+            "aste-astmelt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "постепенно",
+                "weight": 1
+              },
+              {
+                "words": "последовательно",
+                "weight": 1
+              },
+              {
+                "words": "понемногу",
+                "weight": 1
+              },
+              {
+                "words": "мало-помалу",
+                "weight": 1
+              },
+              {
+                "words": "поэтапно",
+                "weight": 1
+              },
+              {
+                "words": "по ступеням",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "järgukaupa",
+        "tasahaaval",
+        "tasahilju",
+        "kord-korralt",
+        "astmeliselt",
+        "raashaaval",
+        "pisitasa",
+        "aegamisi",
+        "piskuhaaval",
+        "tasahiljukesi",
+        "pulk-pulgalt",
+        "aegapidi",
+        "aste-astmelt",
+        "hiljukesi",
+        "aegamööda",
+        "vähehaaval",
+        "natukesehaaval",
+        "korrast",
+        "tasapisi",
+        "pikkamööda",
+        "sammhaaval",
+        "vaikselt",
+        "aeglaselt",
+        "taas",
+        "täielikult",
+        "uuesti",
+        "järkjärguline",
+        "kiiresti",
+        "üha"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "järk-järgult",
+      "translations": [
+        "by degrees",
+        "gradually",
+        "piecemeal"
+      ]
+    }
+  ]
+}

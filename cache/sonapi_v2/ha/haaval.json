@@ -1,0 +1,79 @@
+{
+  "requestedWord": "haaval",
+  "estonianWord": "haaval",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "haaval"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "üks (väike) osa, üksus korraga, iga (väike) osa, üksus eraldi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Limpsis väikeste sõõmude haaval kokteili.",
+            "Päevhaaval.",
+            "Kaaderhaaval.",
+            "Kõrshaaval.",
+            "Meeshaaval."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "по",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "haavaleht",
+        "lonkshaaval",
+        "sammhaaval",
+        "vähehaaval",
+        "kildhaaval",
+        "ükshaaval",
+        "haavav",
+        "tähthaaval",
+        "jupphaaval",
+        "natukehaaval",
+        "tasahaaval",
+        "raashaaval",
+        "terahaaval",
+        "tükkhaaval",
+        "punkthaaval",
+        "natukesehaaval",
+        "kihthaaval",
+        "millimeeterhaaval",
+        "tilkhaaval"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "haaval",
+      "translations": []
+    }
+  ]
+}

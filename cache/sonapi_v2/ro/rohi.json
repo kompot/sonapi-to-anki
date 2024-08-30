@@ -1,0 +1,528 @@
+{
+  "requestedWord": "rohi",
+  "estonianWord": "rohi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "24e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "rohi"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "rohu"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "rohtu"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "rohtu"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "rohusse"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "rohus"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "rohust"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "rohule"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "rohul"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "rohult"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "rohuks"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "rohuni"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "rohuna"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "rohuta"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "rohuga"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "rohud"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "rohtude"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "rohte,rohtusid"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "rohtudesse,rohesse"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "rohtudes,rohes"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "rohtudest,rohest"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "rohtudele,rohele"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "rohtudel,rohel"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "rohtudelt,rohelt"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "rohtudeks,roheks"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "rohtudeni"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "rohtudena"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "rohtudeta"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "rohtudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "maapinnal kasvav madal roheline heintaimedest või rohttaimedest kate,madal taimedest kate maa peal",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Astusin paljajalu kastemärjale rohule.",
+            "Lopsaka rohuga karjamaa.",
+            "Karjamaarohi.",
+            "Rohi on juba roheline."
+          ],
+          "synonyms": [
+            "muru",
+            "muruvaip",
+            "hein"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "herbe",
+                "weight": 1
+              },
+              {
+                "words": "gazon,pelouse",
+                "weight": 0.9
+              },
+              {
+                "words": "foin",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "трава",
+                "weight": 1
+              },
+              {
+                "words": "быльё",
+                "weight": 1
+              },
+              {
+                "words": "трава,травка,газон",
+                "weight": 0.9
+              },
+              {
+                "words": "травяной ковёр,ковёр травы",
+                "weight": 0.9
+              },
+              {
+                "words": "трава,сено",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "трава",
+                "weight": 1
+              },
+              {
+                "words": "газон,трава",
+                "weight": 0.9
+              },
+              {
+                "words": "сіно,трава",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "grass",
+                "weight": 0.9
+              },
+              {
+                "words": "hay",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "peenral, teeserval vm korratult kasvav taimkate või umbrohi",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Suurem osa haudu oli korrastamata, rohtu kasvanud."
+          ],
+          "synonyms": [
+            "umbrohi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сорняк",
+                "weight": 1
+              },
+              {
+                "words": "сорная трава",
+                "weight": 1
+              },
+              {
+                "words": "сорняк,бурьян,сорная трава,сорное растение",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "aine, mis on mõeldud haiguse ravimiseks, ärahoidmiseks või haigussümptomite leevendamiseks,aine, mis parandab su tervist, kui sa haige oled",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Allergiavastane rohi.",
+            "See on kange rohi, palju ei tohi korraga võtta.",
+            "Rohi hakkas kiiresti mõjuma."
+          ],
+          "synonyms": [
+            "arstim",
+            "arstirohi",
+            "medikament",
+            "ravim",
+            "rohi",
+            "preparaat"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "médicament",
+                "weight": 1
+              },
+              {
+                "words": "remède",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "лекарство",
+                "weight": 1
+              },
+              {
+                "words": "лечебное средство",
+                "weight": 1
+              },
+              {
+                "words": "медикамент",
+                "weight": 1
+              },
+              {
+                "words": "лекарственный препарат",
+                "weight": 1
+              },
+              {
+                "words": "снадобье",
+                "weight": 1
+              },
+              {
+                "words": "лекарственное средство",
+                "weight": 1
+              },
+              {
+                "words": "присуха,чародейная трава,приворотное зелье,чудодейственное лекарство",
+                "weight": 0.9
+              },
+              {
+                "words": "препарат",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ліки",
+                "weight": 1
+              },
+              {
+                "words": "лікувальний засіб",
+                "weight": 1
+              },
+              {
+                "words": "медикамент",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "erilise, imelise toimega aine, võte vm abinõu",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kuningas ulatas mehele surematuse rohu ja hoiatas liiga kiire kasutamise eest.",
+            "Lapsemeelsus on kurvameelsuse rohi."
+          ],
+          "synonyms": [
+            "arstim,arstirohi,medikament,ravim,rohi",
+            "imeravim,imerohi,võlurohi",
+            "nõiarohi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "присуха",
+                "weight": 1
+              },
+              {
+                "words": "чудодейственное лекарство",
+                "weight": 1
+              },
+              {
+                "words": "чародейная трава",
+                "weight": 1
+              },
+              {
+                "words": "приворотное зелье",
+                "weight": 1
+              },
+              {
+                "words": "лекарство,лечебное средство,медикамент,лекарственный препарат,снадобье,лекарственное средство",
+                "weight": 0.9
+              },
+              {
+                "words": "волшебное лекарство,чудо-лекарство,чудо-препарат,чудотворное лекарство,чудодейственное лекарство",
+                "weight": 0.648
+              },
+              {
+                "words": "присуха,чудотворное средство,чудотворное вещество,чудодейственное средство,чудодейственное вещество,чудодейственное лекарство,чародейная трава,приворотное зелье,колдовское зелье",
+                "weight": 0.641
+              }
+            ],
+            "fra": [
+              {
+                "words": "médicament,remède",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ліки,лікувальний засіб,медикамент",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "väikese plahvatuskiirusega lõhkeaine, hrl segu väävlist, söest ja kaaliumnitraadist (salpeetrist), mida kasutatakse kuulile või mürsule algkiiruse andmiseks, rakettmootorites ning süüte- ja pürotehnikaseadmeis",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Sellist püssi ei tohi lasta suitsuta rohuga."
+          ],
+          "synonyms": [
+            "püssirohi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "порох",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "püssirohi",
+        "ravim",
+        "narkootikum",
+        "preparaat",
+        "meelemürk",
+        "muruvaip",
+        "arstirohi",
+        "mõnuaine",
+        "medikament",
+        "uimastusaine",
+        "uimaaine",
+        "muru",
+        "uimasti",
+        "arstim",
+        "rõõmurohi",
+        "narkots",
+        "nõiajook",
+        "vereurmarohi",
+        "kurgirohi",
+        "söötreiarohi",
+        "köharohi",
+        "kõhurohi",
+        "luuderohi",
+        "põld-kaderohi",
+        "varemerohi",
+        "koirohi",
+        "kirburohi",
+        "nohurohi",
+        "umbrohi",
+        "voolmerohi",
+        "imerohi",
+        "sealõuarohi",
+        "kuutõverohi",
+        "raudrohi",
+        "takelrohi",
+        "pamparohi",
+        "südamerohi",
+        "hanerohi",
+        "koldrohi",
+        "unerohi",
+        "nõiarohi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "rohi",
+      "translations": [
+        "cure",
+        "eatage (loomatoiduna)",
+        "grass",
+        "herbage",
+        "pasturage (karjamaal loomasöödana)",
+        "weed",
+        "wheatgrass (Agropyron)"
+      ]
+    }
+  ]
+}

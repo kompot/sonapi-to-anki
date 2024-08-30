@@ -1,0 +1,682 @@
+{
+  "requestedWord": "ehtima",
+  "estonianWord": "ehtima",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "ehin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "ehid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "ehib"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "ehime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "ehite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "ehivad"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "ehi"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "ehitakse"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "ehita"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "ehtisin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "ehtisid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "ehtis"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "ehtisime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "ehtisite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "ehtisid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "ehiti"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "ehiksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "ehiksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "ehiks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "ehiksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "ehiksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "ehiksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "ehitaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "ehtinuksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "ehtinuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "ehtinuks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "ehtinuksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "ehtinuksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "ehtinuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "ehituks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "ehtivat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "ehitavat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "ehtinuvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "ehituvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "ehi"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "ehtigem"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "ehtige"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "ehtigu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "ehitagu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "ehtima"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "ehtimata"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "ehtimas"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "ehtimast"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "ehtimaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "ehitama"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "ehtida"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "ehtides"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "ehtiv"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "ehitav"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "ehtinud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "ehtinud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "ehitud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "ehitud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kujundades, värve, kaunistusi vm lisades kauni(ma)ks, ilusa(ma)ks tegema,kedagi või midagi ilusa(ma)ks tegema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Väga armas on ehtida jõulukuuske piparkookidega.",
+            "Lapsed ehtisid kuuske."
+          ],
+          "synonyms": [
+            "dekoreerima",
+            "ilustama",
+            "kaunistama",
+            "dekoorima",
+            "välja ehtima",
+            "garneerima",
+            "ornamenteerima,ornamentima,ehistama",
+            "üles lööma",
+            "mukkima",
+            "üles mukkima",
+            "kenitama",
+            "klanima",
+            "rüütama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "украшать",
+                "weight": 1
+              },
+              {
+                "words": "украсить",
+                "weight": 1
+              },
+              {
+                "words": "наряжать",
+                "weight": 1
+              },
+              {
+                "words": "нарядить",
+                "weight": 1
+              },
+              {
+                "words": "разукрашивать",
+                "weight": 1
+              },
+              {
+                "words": "разукрасить",
+                "weight": 1
+              },
+              {
+                "words": "приукрашивать",
+                "weight": 1
+              },
+              {
+                "words": "приукрашать",
+                "weight": 1
+              },
+              {
+                "words": "приукрасить",
+                "weight": 1
+              },
+              {
+                "words": "изукрашивать",
+                "weight": 1
+              },
+              {
+                "words": "изукрасить",
+                "weight": 1
+              },
+              {
+                "words": "принаряжать",
+                "weight": 1
+              },
+              {
+                "words": "принарядить",
+                "weight": 1
+              },
+              {
+                "words": "убирать",
+                "weight": 1
+              },
+              {
+                "words": "убрать",
+                "weight": 1
+              },
+              {
+                "words": "выряжать,нарядить,наряжать,вырядить",
+                "weight": 0.9
+              },
+              {
+                "words": "украшать,украсить,отделывать,отделать,гарнировать",
+                "weight": 0.9
+              },
+              {
+                "words": "орнаментовать,орнаментировать",
+                "weight": 0.9
+              },
+              {
+                "words": "принарядиться,вырядиться,выряжаться,разрядиться,разодеться,прихорашиваться,разряжаться",
+                "weight": 0.9
+              },
+              {
+                "words": "приукрашаться,приукрашать,приукрасить,приукрашивать,принаряжать,принарядить,разодеть,разряжать,разрядить,принаряжаться,принарядиться,разодеться,охорашивать,прихорашивать,прихорашиваться,расфуфыриться,охорашиваться,приукраситься,приукрашиваться,расфрантиться,расфуфыриваться",
+                "weight": 0.7
+              },
+              {
+                "words": "навести красоту,навести марафет,наводить красоту,наводить марафет,прихорошиться,прихорашиваться",
+                "weight": 0.9
+              },
+              {
+                "words": "разодеть,принарядить,принаряжать,разодеться,расфуфыриться,принарядиться,принаряжаться,прихорашивать,прихорашиваться",
+                "weight": 0.9
+              },
+              {
+                "words": "нарядить,наряжать,облечь,облекать",
+                "weight": 0.622
+              }
+            ],
+            "ukr": [
+              {
+                "words": "прикрашати",
+                "weight": 1
+              },
+              {
+                "words": "прикрасити",
+                "weight": 1
+              },
+              {
+                "words": "оздоблювати",
+                "weight": 1
+              },
+              {
+                "words": "оздобити",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi kaunistuseks, ehteks olema, sellisena midagi ilusamaks, paremaks tegema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Toa seinu ehivad vanaemalt päritud ikoonid.",
+            "Andrese nägu ehivad mustad vuntsid."
+          ],
+          "synonyms": [
+            "ilustama",
+            "kaunistama",
+            "vääristama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "украшать",
+                "weight": 1
+              },
+              {
+                "words": "украсить",
+                "weight": 1
+              },
+              {
+                "words": "красить",
+                "weight": 1
+              },
+              {
+                "words": "облагораживать,облагородить",
+                "weight": 0.622
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi vastu valmistuma, end millekski valmis seadma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ehtisime minekule.",
+            "Vanaema ehib juba magama."
+          ],
+          "synonyms": [
+            "ette valmistuma,valmistuma",
+            "asutama,ärgitama",
+            "seadma,sättima",
+            "atra seadma",
+            "kehitama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "собираться",
+                "weight": 1
+              },
+              {
+                "words": "собраться",
+                "weight": 1
+              },
+              {
+                "words": "готовиться",
+                "weight": 1
+              },
+              {
+                "words": "приготовиться",
+                "weight": 1
+              },
+              {
+                "words": "снаряжаться",
+                "weight": 1
+              },
+              {
+                "words": "снарядиться",
+                "weight": 1
+              },
+              {
+                "words": "приготавливаться,изготовляться,изготовиться,готовиться,приготовиться,подготовиться,подготавливаться",
+                "weight": 0.9
+              },
+              {
+                "words": "собираться,пытаться,порываться,попытаться,собраться",
+                "weight": 0.9
+              },
+              {
+                "words": "приготовиться,засобираться,собраться,собираться,готовиться",
+                "weight": 0.9
+              },
+              {
+                "words": "вести подготовку,готовиться",
+                "weight": 0.9
+              },
+              {
+                "words": "собираться,собраться",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "se préparer",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "готуватися,підготуватися,підготовлятися,приготуватися,приготовлятися,підготовитися",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mukkima",
+        "siluma",
+        "üles lööma",
+        "atra seadma",
+        "valmistuma",
+        "ornamenteerima",
+        "kokku korjama",
+        "kokku panema",
+        "lakkuma",
+        "garneerima",
+        "kaunistama",
+        "ilustama",
+        "dekoreerima",
+        "puhvima",
+        "asutama",
+        "sättima",
+        "üles mukkima",
+        "ette valmistama",
+        "kehitama",
+        "kenitama",
+        "klanima",
+        "koloreerima",
+        "välja ehtima",
+        "riietama",
+        "värvima",
+        "riidesse panema",
+        "pidulikult",
+        "eputama",
+        "rüütama",
+        "kekutama",
+        "kohendama",
+        "välja lööma",
+        "klanima",
+        "selga",
+        "perutama",
+        "tviitima",
+        "nülgima",
+        "tohtima",
+        "ropsima",
+        "lösutama",
+        "tuuseldama",
+        "tümitama",
+        "nottima",
+        "rihtima",
+        "pihtima",
+        "kruttima",
+        "pautima",
+        "jantima",
+        "käputama",
+        "mustama",
+        "soendama",
+        "jändama",
+        "ihaldama",
+        "ühtima",
+        "kokutama",
+        "spurtima",
+        "lehtima",
+        "viltima",
+        "kibelema",
+        "norutama",
+        "kottima",
+        "kottima",
+        "haljendama",
+        "kätlema",
+        "niietama",
+        "kärutama",
+        "vahtima",
+        "läkastama",
+        "hakkama panema"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ehtima",
+      "translations": [
+        "adorn",
+        "bedeck",
+        "bedizen",
+        "deck",
+        "decorate",
+        "dress up",
+        "gussy up",
+        "mense",
+        "titivate"
+      ]
+    }
+  ]
+}

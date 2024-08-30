@@ -1,0 +1,406 @@
+{
+  "requestedWord": "pärast",
+  "estonianWord": "pärast",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "pärast"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingi ajaühiku järel, möödudes,mingi ajavahemiku järel, möödudes",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Aasta pärast.",
+            "Kell on viie minuti pärast üks.",
+            "Kohtume nädala pärast.",
+            "Eksam on kahe päeva pärast.",
+            "Helistan sulle poole tunni pärast.",
+            "Kell on kümne minuti pärast üheksa."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "dans",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "спустя",
+                "weight": 1
+              },
+              {
+                "words": "по прошествии",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "по",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ajaliselt millestki hiljem,aja kohta: pärast",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Pärast pidu.",
+            "Pärast kella kuut.",
+            "Hoolitse, et ka pärast sind saaksid teised külastajad neid vahendeid kasutada.",
+            "Kohtume pärast lõunat.",
+            "Lähen pärast tööd kinno."
+          ],
+          "synonyms": [
+            "peale"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "après",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "после",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "після",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "seejärel, siis,(kunagi) hiljem",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Hakka minema, ma tulen pärast järele.",
+            "Pärast räägime!",
+            "Enne töö, pärast lõbu!",
+            "Hakka minema, ma tulen pärast järele.",
+            "Pärast räägime!"
+          ],
+          "synonyms": [
+            "pärastpoole"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "plus tard",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "после",
+                "weight": 1
+              },
+              {
+                "words": "потом",
+                "weight": 1
+              },
+              {
+                "words": "позднее",
+                "weight": 1
+              },
+              {
+                "words": "позже",
+                "weight": 1
+              },
+              {
+                "words": "впоследствии",
+                "weight": 1
+              },
+              {
+                "words": "впредь",
+                "weight": 1
+              },
+              {
+                "words": "в дальнейшем",
+                "weight": 1
+              },
+              {
+                "words": "в будущем",
+                "weight": 1
+              },
+              {
+                "words": "попозже",
+                "weight": 1
+              },
+              {
+                "words": "по окончании",
+                "weight": 1
+              },
+              {
+                "words": "по завершении",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "після",
+                "weight": 1
+              },
+              {
+                "words": "потім",
+                "weight": 1
+              },
+              {
+                "words": "пізніше",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab sellele, mille või kelle oma valdusse või käsutusse saamiseks, saavutamiseks võideldakse või konkureeritakse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Võitlus linna pärast.",
+            "Võistleb tiitli pärast."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "из-за",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab asjaolule, isikule vms põhjusele, millest või kellest tingituna midagi toimub,osutab põhjusele, millega seoses midagi toimub",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Nutab jonni pärast.",
+            "Lennukid ei lennanud tuhapilve pärast.",
+            "Ära hakka minu pärast vaeva nägema.",
+            "Ta muretseb oma tervise pärast.",
+            "Tüdruk nutab iga asja pärast."
+          ],
+          "synonyms": [
+            "tõttu"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "pour",
+                "weight": 1
+              },
+              {
+                "words": "à cause de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "из-за",
+                "weight": 1
+              },
+              {
+                "words": "вследствие",
+                "weight": 1
+              },
+              {
+                "words": "в силу",
+                "weight": 1
+              },
+              {
+                "words": "в связи с",
+                "weight": 1
+              },
+              {
+                "words": "по случаю",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "внаслідок",
+                "weight": 1
+              },
+              {
+                "words": "у звʼязку",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi või millegi seisukohalt, poolest",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Mine siis, minugi pärast!"
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "millegi kohaselt või järgi, midagi mööda",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Viimaks ometi saab voli pärast magada."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "согласно",
+                "weight": 1
+              },
+              {
+                "words": "согласно со",
+                "weight": 1
+              },
+              {
+                "words": "сообразно с",
+                "weight": 1
+              },
+              {
+                "words": "соответственно",
+                "weight": 1
+              },
+              {
+                "words": "в соответствии с",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ette",
+        "sinnapoole",
+        "nagu ussist nõelatud",
+        "ühtäkki",
+        "hiljem",
+        "järsku",
+        "ühekorraga",
+        "tingitult",
+        "nagu välgust rabatud",
+        "tagant",
+        "viimati",
+        "tõttu",
+        "takka",
+        "eest",
+        "lõigatult",
+        "pärastpoole",
+        "korraga",
+        "tagantjärele",
+        "järel",
+        "järel",
+        "hiljemini",
+        "sõnapealt",
+        "äkki",
+        "edaspidi",
+        "äkitselt",
+        "poolest",
+        "tänu",
+        "tänu",
+        "nimel",
+        "peale",
+        "jaoks",
+        "tagajärjel",
+        "tarvis",
+        "heaks",
+        "siis",
+        "seejärel",
+        "vahetult",
+        "kuu",
+        "kuu",
+        "kohe",
+        "kohe",
+        "päras",
+        "päev-paar",
+        "varsti",
+        "aasta-kaks",
+        "enne",
+        "enne",
+        "alles",
+        "aasta-paar",
+        "jooksul"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pärast",
+      "translations": [
+        "after",
+        "because of",
+        "on account",
+        "qua"
+      ]
+    }
+  ]
+}

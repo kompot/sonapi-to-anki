@@ -1,0 +1,974 @@
+{
+  "requestedWord": "juba",
+  "estonianWord": "juba",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "juba"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "näitab, et mingi tegevus, seisund vms on käsitletavaks momendiks alanud või lõppenud,näitab, et mingi olukord on alanud või lõppenud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Päevad on juba pikemaks läinud.",
+            "Kontsert sai juba läbi.",
+            "Ma juba tulen.",
+            "Kas sa oled juba väsinud?",
+            "Töö on juba tehtud.",
+            "Direktor on juba lahkunud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "already",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "déjà",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "уже",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "уже",
+                "weight": 1
+              },
+              {
+                "words": "вже",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rõhutab, et mingi olukord on kestnud suhteliselt kaua või on kordunud,näitab, et mingi olukord kordub või on kestnud suhteliselt kaua",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Karoliina on juba mitu aastat muusikat kirjutanud.",
+            "Me oleme juba kuskil kohtunud.",
+            "Ootan sind juba tund aega!",
+            "Nad on abielus olnud juba 20 aastat."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "already",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "déjà",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "уже",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "уже",
+                "weight": 1
+              },
+              {
+                "words": "вже",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "käsk- ja soovlausetes väljendab soovi, et miski toimuks otsekohe või võimalikult ruttu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Jäta juba järele!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "уже",
+                "weight": 1
+              },
+              {
+                "words": "уж",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rõhutab või tugevdab kergelt lauses esitatut",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "See juba sobib!",
+            "Juba selle vaate nägemiseks tasus reis ette võtta.",
+            "Kui juba tema ei suuda, siis kes veel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "уже",
+                "weight": 1
+              },
+              {
+                "words": "уж",
+                "weight": 1
+              },
+              {
+                "words": "уже даже",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jo",
+        "ju",
+        "ometi",
+        "ikka",
+        "küll",
+        "küll",
+        "vast",
+        "täna",
+        "täna",
+        "ammu",
+        "praegu",
+        "taas",
+        "aga",
+        "aga",
+        "siiski",
+        "alati",
+        "jälle",
+        "seal",
+        "ilmselt",
+        "umbes",
+        "umbes",
+        "tõenäoliselt",
+        "siin",
+        "siin",
+        "täna-homme",
+        "kunagi",
+        "tänavu",
+        "isegi",
+        "veel",
+        "üsna",
+        "tegelikult",
+        "alles",
+        "mitu",
+        "peaaegu",
+        "ikkagi",
+        "päris",
+        "tänaseks",
+        "just",
+        "endiselt",
+        "kohe",
+        "kohe",
+        "vist",
+        "vist",
+        "varsti",
+        "varem",
+        "nüüd",
+        "enne",
+        "enne",
+        "ammuilma",
+        "umbestäpselt",
+        "siis",
+        "aasta-paar",
+        "nii"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "Juba"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "Juba"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "Jubat"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "Juba"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "Jubasse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "Jubas"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "Jubast"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "Jubale"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "Jubal"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "Jubalt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "Jubaks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "Jubani"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "Jubana"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "Jubata"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "Jubaga"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "Jubad"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "Jubade"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "Jubasid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "Jubadesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "Jubades"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "Jubadest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "Jubadele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "Jubadel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "Jubadelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "Jubadeks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "Jubadeni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "Jubadena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "Jubadeta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "Jubadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Lõuna-Sudaani pealinn",
+          "partOfSpeech": [
+            {
+              "code": "prop",
+              "value": "pärisnimi, prooprium"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "deu": [
+              {
+                "words": "Juba",
+                "weight": 1
+              },
+              {
+                "words": "Dschuba",
+                "weight": 1
+              }
+            ],
+            "eng": [
+              {
+                "words": "Juba",
+                "weight": 1
+              }
+            ],
+            "fin": [
+              {
+                "words": "Juba",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "Djouba",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "Джуба",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "Juba"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "Juba"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "Jubat"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "Juba"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "Jubasse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "Jubas"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "Jubast"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "Jubale"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "Jubal"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "Jubalt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "Jubaks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "Jubani"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "Jubana"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "Jubata"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "Jubaga"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "Jubad"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "Jubade"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "Jubasid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "Jubadesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "Jubades"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "Jubadest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "Jubadele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "Jubadel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "Jubadelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "Jubadeks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "Jubadeni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "Jubadena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "Jubadeta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "Jubadega"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "Juba"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "Juba"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "Juba"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "Juba"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "Jubasse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "Jubas"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "Jubast"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "Jubale"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "Jubal"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "Jubalt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "Jubaks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "Jubani"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "Jubana"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "Jubata"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "Jubaga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "Jubad"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "Jubade"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "Jubasid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "Jubadesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "Jubades"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "Jubadest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "Jubadele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "Jubadel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "Jubadelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "Jubadeks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "Jubadeni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "Jubadena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "Jubadeta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "Jubadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "küla Võru maakonnas Võru vallas (Rõuge kihelkonnas)",
+          "partOfSpeech": [
+            {
+              "code": "prop",
+              "value": "pärisnimi, prooprium"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": []
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "Lõuna-Sudaani pealinn",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [
+            "Juba"
+          ],
+          "translations": {
+            "deu": [
+              {
+                "words": "Juba",
+                "weight": 1
+              },
+              {
+                "words": "Dschuba",
+                "weight": 1
+              }
+            ],
+            "fin": [
+              {
+                "words": "Juba",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "Djouba",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "Джуба",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "Lõuna-Sudaani pealinn",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [
+            "Juba"
+          ],
+          "translations": {
+            "deu": [
+              {
+                "words": "Dschuba",
+                "weight": 1
+              }
+            ],
+            "eng": [
+              {
+                "words": "Juba",
+                "weight": 1
+              }
+            ],
+            "fin": [
+              {
+                "words": "Juba",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "Djouba",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "Джуба",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "Lõuna-Sudaani pealinn",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [
+            "Juba"
+          ],
+          "translations": {
+            "deu": [
+              {
+                "words": "Juba",
+                "weight": 1
+              },
+              {
+                "words": "Dschuba",
+                "weight": 1
+              }
+            ],
+            "eng": [
+              {
+                "words": "Juba",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "Djouba",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "Джуба",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "juba",
+      "translations": [
+        "already"
+      ]
+    }
+  ]
+}

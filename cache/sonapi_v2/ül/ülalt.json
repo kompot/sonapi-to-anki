@@ -1,0 +1,109 @@
+{
+  "requestedWord": "ülalt",
+  "estonianWord": "ülalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ülalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi suhtes kõrgemalt, ülaltpoolt,kõrgemalt, kõrgemast kohast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ülalt laienevad sambad.",
+            "Ülalt avanes linnale suurepärane vaade.",
+            "Poiss jäi ülalt kolmandal redelipulgal pidama."
+          ],
+          "synonyms": [
+            "ülevalt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сверху",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зверху",
+                "weight": 1
+              },
+              {
+                "words": "згори",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(seoses mingis hierarhias kõrgemalt madalamale liikuvate korralduste, suuniste või muu sellisega)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ülalt surutakse peale uut raamatupidamisprogrammi."
+          ],
+          "synonyms": [
+            "ülevalt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сверху",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pealt",
+        "pealtpoolt",
+        "ülal",
+        "ülevalt",
+        "ülevalt",
+        "peal",
+        "üleval",
+        "pealpool",
+        "ülalöeldu",
+        "aplalt",
+        "tagantpoolt",
+        "alla",
+        "alla",
+        "ülaltvaade",
+        "ülevaltpoolt",
+        "ülaltpoolt",
+        "alt",
+        "alt",
+        "ülalõug",
+        "altpoolt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ülalt",
+      "translations": []
+    }
+  ]
+}

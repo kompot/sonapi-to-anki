@@ -1,0 +1,139 @@
+{
+  "requestedWord": "enamjaolt",
+  "estonianWord": "enamjaolt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "enamjaolt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "suuremas osas, enamikul juhtudel,suuremas osas, peamiselt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ma olen teie kirjutised enamjaolt läbi lugenud."
+          ],
+          "synonyms": [
+            "enamasti",
+            "suuremalt jaolt",
+            "rõhuvalt,valdavalt"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "mostly",
+                "weight": 1
+              },
+              {
+                "words": "predominantly,mainly",
+                "weight": 0.8013
+              }
+            ],
+            "rus": [
+              {
+                "words": "в большинстве",
+                "weight": 1
+              },
+              {
+                "words": "большей частью",
+                "weight": 1
+              },
+              {
+                "words": "главным образом,преимущественно,в основном,в большинстве случаев",
+                "weight": 0.8013
+              }
+            ],
+            "ukr": [
+              {
+                "words": "здебільшого",
+                "weight": 1
+              },
+              {
+                "words": "переважно",
+                "weight": 1
+              },
+              {
+                "words": "здебільшого,переважно,головним чином,в основному",
+                "weight": 0.8013
+              }
+            ],
+            "fra": [
+              {
+                "words": "essentiellement,principalement",
+                "weight": 0.8013
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "valdavalt",
+        "enamasti",
+        "suuremalt jaolt",
+        "peamiselt",
+        "peaasjalikult",
+        "esijoones",
+        "eeskätt",
+        "tihtipeale",
+        "praegu",
+        "küllaltki",
+        "vaid",
+        "sageli",
+        "siiski",
+        "aga",
+        "aga",
+        "seal",
+        "põhiliselt",
+        "ilmselt",
+        "eelkõige",
+        "enamjagu",
+        "enamjagu",
+        "tavaliselt",
+        "suhteliselt",
+        "pigem",
+        "tavapäraselt",
+        "reeglina",
+        "küll",
+        "küll",
+        "üsna",
+        "ikka",
+        "eranditult",
+        "üpris",
+        "üldjoontes",
+        "tegelikult",
+        "tihti",
+        "ikkagi",
+        "suuresti",
+        "ainult",
+        "endiselt",
+        "üldiselt",
+        "üldjuhul",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "enamjaolt",
+      "translations": [
+        "for the most part",
+        "mostly"
+      ]
+    }
+  ]
+}

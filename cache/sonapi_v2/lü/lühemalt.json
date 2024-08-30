@@ -1,0 +1,116 @@
+{
+  "requestedWord": "lühemalt",
+  "estonianWord": "lühemalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "lühemalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vähemate sõnadega, lakoonilisemalt (väljendudes),väiksema arvu sõnadega",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Muidugi saaks seda kõike ju ka lühemalt öelda.",
+            "Kuidas seda lühemalt öelda?"
+          ],
+          "synonyms": [
+            "lühemini"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "plus brièvement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "короче",
+                "weight": 1
+              },
+              {
+                "words": "более коротко",
+                "weight": 1
+              },
+              {
+                "words": "более кратко",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "коротше",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "lühemat aega",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Bioloogiajaamas on pikemalt või lühemalt peatunud pea kõik Eesti loodusteadlased."
+          ],
+          "synonyms": [
+            "lühemini"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "короче",
+                "weight": 1
+              },
+              {
+                "words": "на более короткий срок",
+                "weight": 1
+              },
+              {
+                "words": "на более короткое время",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "täpsemalt",
+        "lihtsamalt",
+        "lühemaajaline",
+        "lühidalt",
+        "lühem",
+        "õhemalt",
+        "pikemalt",
+        "ehk",
+        "raskemalt",
+        "korralikumalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lühemalt",
+      "translations": []
+    }
+  ]
+}

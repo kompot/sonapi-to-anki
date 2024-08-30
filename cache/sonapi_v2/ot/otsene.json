@@ -1,0 +1,494 @@
+{
+  "requestedWord": "otsene",
+  "estonianWord": "otsene",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "10",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "otsene"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "otsese"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "otsest"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "otsesesse"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "otseses"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "otsesest"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "otsesele"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "otsesel"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "otseselt"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "otseseks"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "otseseni"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "otsesena"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "otseseta"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "otsesega"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "otsesed"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "otseste"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "otseseid"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "otsestesse,otseseisse"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "otsestes,otseseis"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "otsestest,otseseist"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "otsestele,otseseile"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "otsestel,otseseil"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "otsestelt,otseseilt"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "otsesteks,otseseiks"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "otsesteni"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "otsestena"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "otsesteta"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "otsestega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vahendamata, ilma vaheastme vm vahepealseta,ilma vahepeal oleva astmeta",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Otsitakse sündmuse otseseid tunnistajaid.",
+            "Tal pole otseseid pärijaid.",
+            "Ta on minu otsene ülemus."
+          ],
+          "synonyms": [
+            "vahetu",
+            "vahendamata",
+            "operatiivne,operatiiv"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "direct",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "direct",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "прямой",
+                "weight": 1
+              },
+              {
+                "words": "непосредственный",
+                "weight": 1
+              },
+              {
+                "words": "оперативный",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "прямий",
+                "weight": 1
+              },
+              {
+                "words": "безпосередній",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "suunast kõrvale kaldumata, otse suunduv",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Taimi tuleks hoida otsese päikesevalguse käest."
+          ],
+          "synonyms": [
+            "sirge"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "прямой",
+                "weight": 1
+              },
+              {
+                "words": "прямой,прямолинейный",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "lausa selge, päris ilmne,selge, ilmne",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Arstil siin otsest süüd ei ole.",
+            "Need väited on üksteisega otseses vastuolus."
+          ],
+          "synonyms": [
+            "ilmselge,päevselge,sulaselge,ilmne",
+            "kindel,selge",
+            "evidentne",
+            "enesestmõistetav,iseendastmõistetav,iseenesestmõistetav,endastmõistetav",
+            "silmnähtav,silmanähtav",
+            "käegakatsutav"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "évident",
+                "weight": 1
+              },
+              {
+                "words": "manifeste,évident",
+                "weight": 0.9
+              },
+              {
+                "words": "sûr,certain",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "прямой",
+                "weight": 1
+              },
+              {
+                "words": "явный",
+                "weight": 1
+              },
+              {
+                "words": "очевидный",
+                "weight": 1
+              },
+              {
+                "words": "ясный",
+                "weight": 1
+              },
+              {
+                "words": "явственный,заведомый,ясный,чистый,настоящий,неприкрытый,заметный,несомненный,очевидный,явный,истинный",
+                "weight": 0.9
+              },
+              {
+                "words": "несомненный,бесспорный,неоспоримый,вразумительный,определённый,достоверный,явный,очевидный,ясный,толковый,понятный",
+                "weight": 0.9
+              },
+              {
+                "words": "самоочевидный,явный,очевидный",
+                "weight": 0.9
+              },
+              {
+                "words": "самоочевидный,само собой разумеющийся",
+                "weight": 0.9
+              },
+              {
+                "words": "видимый,приметный,очевидный,явственный,явный",
+                "weight": 0.9
+              },
+              {
+                "words": "ощутимый,ощутительный,очевидный,явный",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "прямий",
+                "weight": 1
+              },
+              {
+                "words": "явний",
+                "weight": 1
+              },
+              {
+                "words": "очевидний",
+                "weight": 1
+              },
+              {
+                "words": "явний,неприхований,очевидний",
+                "weight": 0.9
+              },
+              {
+                "words": "явний,ясний,зрозумілий",
+                "weight": 0.9
+              },
+              {
+                "words": "зрозумілий,самоочевидний",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "obvious",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(väljenduse kohta:) selline, kus asjad öeldakse välja nii, nagu mõeldakse, ei keerutata",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Asjalik ja otsese jutuga inimene.",
+            "Talle esitati otsene küsimus KGB kohta."
+          ],
+          "synonyms": [
+            "sirgjooneline,otsekohene,otseütlev",
+            "avameelne",
+            "otsesõnaline",
+            "otsejooneline",
+            "siiras"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "прямой",
+                "weight": 1
+              },
+              {
+                "words": "открытый,прямой,прямодушный,буквальный,прямолинейный,непосредственный,бесхитростный,правдивый",
+                "weight": 0.9
+              },
+              {
+                "words": "откровенный,искренний,прямодушный,чистосердечный",
+                "weight": 0.9
+              },
+              {
+                "words": "прямой,прямолинейный",
+                "weight": 0.9
+              },
+              {
+                "words": "прямой,прямодушный,прямолинейный",
+                "weight": 0.9
+              },
+              {
+                "words": "открытый,откровенный,прямодушный,искренний",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "відвертий,щирий",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "siiras",
+        "vahendamata",
+        "selge nagu seebivesi",
+        "avameelne",
+        "ilmne",
+        "vaieldamatu",
+        "selge",
+        "otsesõnaline",
+        "evidentne",
+        "sirge",
+        "käegakatsutav",
+        "ilmselge",
+        "otsekohene",
+        "otse",
+        "otse",
+        "vahetu",
+        "sirgjooneline",
+        "operatiivne",
+        "enesestmõistetav",
+        "silmanähtav",
+        "salgamatu",
+        "otseütleja",
+        "otsejooneline",
+        "päevselge",
+        "endastmõistetav",
+        "lähem",
+        "lähim",
+        "otseside",
+        "kaudne",
+        "ebasotsiaalne",
+        "täieline",
+        "nõrgapoolne",
+        "nendepoolne",
+        "otsesem",
+        "tegelik",
+        "üsasisene"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "otsene",
+      "translations": [
+        "direct",
+        "firsthand",
+        "flat",
+        "head-on",
+        "immediate",
+        "indicative",
+        "square",
+        "straight",
+        "straightaway"
+      ]
+    }
+  ]
+}

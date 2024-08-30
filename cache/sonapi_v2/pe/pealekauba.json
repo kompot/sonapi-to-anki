@@ -1,0 +1,120 @@
+{
+  "requestedWord": "pealekauba",
+  "estonianWord": "pealekauba",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "pealekauba"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ostetule või kokkulepitule tasuta lisaks, peale kõige muu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Müüja andis viinamarjad poole hinnaga ja ühe apelsini pealekauba.",
+            "Pealekauba on nad endised padukommunistid."
+          ],
+          "synonyms": [
+            "kauba peale",
+            "ilma,muidu,priilt,tasuta",
+            "boonus",
+            "pluss"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сверх",
+                "weight": 1
+              },
+              {
+                "words": "в придачу",
+                "weight": 1
+              },
+              {
+                "words": "в дополнение к",
+                "weight": 1
+              },
+              {
+                "words": "вдобавок",
+                "weight": 1
+              },
+              {
+                "words": "бесплатно,даром,за так,безвозмездно,задаром,на дармовщинку",
+                "weight": 0.7
+              },
+              {
+                "words": "бонус",
+                "weight": 0.7
+              },
+              {
+                "words": "плюс",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "gratuitement",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "безкоштовно,безплатно,задурно",
+                "weight": 0.7
+              },
+              {
+                "words": "бонус",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "edasi",
+        "takkapeale",
+        "täiendavalt",
+        "veel",
+        "tagatipuks",
+        "takkapihta",
+        "takkaotsa",
+        "takkatippu",
+        "pluss",
+        "lisaks",
+        "tagatippu",
+        "tagantjärele",
+        "takkatraavi",
+        "kummatigi",
+        "juuksepahmakas",
+        "huumorisoon",
+        "poekraam",
+        "poekaup",
+        "lauba",
+        "pudi-padi",
+        "nahktagi",
+        "joogikraam"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pealekauba",
+      "translations": []
+    }
+  ]
+}

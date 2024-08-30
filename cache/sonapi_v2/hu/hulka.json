@@ -1,0 +1,217 @@
+{
+  "requestedWord": "hulka",
+  "estonianWord": "hulka",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "hulka"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingisse rühma, kellegi keskele,kellegagi kokku,mingisse gruppi, kellegi keskele",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Varas kadus kiiresti rahva hulka.",
+            "Haug kuulub röövkalade hulka.",
+            "Riielge omavahel, mis te teisi sinna hulka kisute!",
+            "Ta valiti kümne parima laulja hulka.",
+            "See töö ei kuulu minu ülesannete hulka."
+          ],
+          "synonyms": [
+            "sekka",
+            "mesti",
+            "kilda",
+            "seltsi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "parmi",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в число",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "к",
+                "weight": 1
+              },
+              {
+                "words": "в среду",
+                "weight": 1
+              },
+              {
+                "words": "в компанию",
+                "weight": 1
+              },
+              {
+                "words": "в компанию,в число",
+                "weight": 0.9
+              },
+              {
+                "words": "к числу,в компанию,в число,в среду",
+                "weight": 0.9
+              },
+              {
+                "words": "в,в среду,в компанию,в общество,в окружение",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              },
+              {
+                "words": "серед",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(olemasoleva, eelneva) täiendusena, peale selle (veel),täienduseks; peale selle",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Juhan poetas oma jutu hulka sapiseid märkusi.",
+            "Sega tainale võid hulka."
+          ],
+          "synonyms": [
+            "lisaks",
+            "sekka",
+            "täiendavalt",
+            "juurde",
+            "pluss"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "дополнительно",
+                "weight": 1
+              },
+              {
+                "words": "в дополнение к",
+                "weight": 1
+              },
+              {
+                "words": "вдобавок",
+                "weight": 1
+              },
+              {
+                "words": "в добавок к",
+                "weight": 1
+              },
+              {
+                "words": "к,в дополнение к,в добавок к",
+                "weight": 0.9
+              },
+              {
+                "words": "плюс",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до,на додаток до",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tunduvalt, palju",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta on minust hulka noorem."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "намного",
+                "weight": 1
+              },
+              {
+                "words": "гораздо",
+                "weight": 1
+              },
+              {
+                "words": "значительно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mesti",
+        "kilda",
+        "vahele",
+        "ühes",
+        "keskele",
+        "kaasa",
+        "kaasa",
+        "sekka",
+        "sisse",
+        "seltsi",
+        "sleppi",
+        "hulgas",
+        "seas"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "hulka",
+      "translations": []
+    }
+  ]
+}

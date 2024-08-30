@@ -1,0 +1,256 @@
+{
+  "requestedWord": "rahaühik",
+  "estonianWord": "rahaühik",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "rahaühik"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "rahaühiku"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "rahaühikut"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "rahaühikusse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "rahaühikus"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "rahaühikust"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "rahaühikule"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "rahaühikul"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "rahaühikult"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "rahaühikuks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "rahaühikuni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "rahaühikuna"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "rahaühikuta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "rahaühikuga"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "rahaühikud"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "rahaühikute"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "rahaühikuid"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "rahaühikutesse,rahaühikuisse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "rahaühikutes,rahaühikuis"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "rahaühikutest,rahaühikuist"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "rahaühikutele,rahaühikuile"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "rahaühikutel,rahaühikuil"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "rahaühikutelt,rahaühikuilt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "rahaühikuteks,rahaühikuiks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "rahaühikuteni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "rahaühikutena"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "rahaühikuteta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "rahaühikutega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "seadusega kehtestatud rahasüsteemielement,riigis kehtiv raha, näiteks euro Eesti Vabariigis",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Vatikani rahaühik on Vatikani liir.",
+            "USA rahaühik on dollar."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "currency",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "unité monétaire",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "денежная единица",
+                "weight": 1
+              },
+              {
+                "words": "монетная единица",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "грошова одиниця",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kaaluühik",
+        "energiaühik",
+        "valuuta",
+        "valuutakorv",
+        "tingühik",
+        "vääring",
+        "pinnaühik",
+        "liir",
+        "rõhuühik",
+        "jõuühik",
+        "ajaühik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "rahaühik",
+      "translations": [
+        "monetary unit"
+      ]
+    }
+  ]
+}

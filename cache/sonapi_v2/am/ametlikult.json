@@ -1,0 +1,131 @@
+{
+  "requestedWord": "ametlikult",
+  "estonianWord": "ametlikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ametlikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sellisel viisil, mis on ametivõimude kehtestatud, korraldatud või avaldatud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Jaapan on ametlikult teatanud, et Kuriili saared on Venemaa poolt okupeeritud ala.",
+            "Kas nad on ametlikult abielus?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "officially",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "officiellement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "официально",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "офіційно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vorminõudeid või (ametlikku) vormistust puudutaval moel, ametlike dokumentide järgi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mind vormistatakse ametlikult tööle poole kohaga."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "официально",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(rõhutab seisundi, omaduse määra)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sa oled ikka vist ametlikult loll.",
+            "Ta sai ametlikult peksa."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "tänama",
+        "ametlik",
+        "veel",
+        "avalikult",
+        "ametlikum",
+        "küll",
+        "küll",
+        "esmakordselt",
+        "formaalselt",
+        "endiselt",
+        "ametlikumalt",
+        "seaduslikult",
+        "juba",
+        "üldiselt",
+        "nüüd",
+        "tegelikult",
+        "õiguslikult",
+        "ametlikkus",
+        "lõplikult",
+        "siiski"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ametlikult",
+      "translations": [
+        "formally",
+        "for the record",
+        "officially"
+      ]
+    }
+  ]
+}

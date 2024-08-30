@@ -1,0 +1,145 @@
+{
+  "requestedWord": "õnneks",
+  "estonianWord": "õnneks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "õnneks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab kõneleja heakskiidule, rahulolule, tänule vms mingi soovitud, meeldiva asjaolu puhul",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Õnneks sõbrad aitasid."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "heureusement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "к счастью",
+                "weight": 1
+              },
+              {
+                "words": "на счастье",
+                "weight": 1
+              },
+              {
+                "words": "по счастью",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на щастя",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi suhtes soodsalt või hästi",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Hilinesime, aga meie õnneks jäi buss ka hiljaks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "par chance",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "к счастью",
+                "weight": 1
+              },
+              {
+                "words": "на счастье",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на щастя",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "õnnekombel",
+        "seda enam et",
+        "pole",
+        "kuigi",
+        "muidu",
+        "tõesti",
+        "kuid",
+        "aga",
+        "aga",
+        "siiski",
+        "ilmselt",
+        "muidugi",
+        "siiani",
+        "seega",
+        "loomulikult",
+        "kahjuks",
+        "veel",
+        "seekord",
+        "küll",
+        "küll",
+        "ikka",
+        "vahepeal",
+        "tegelikult",
+        "ikkagi",
+        "päris",
+        "sest",
+        "vist",
+        "vist",
+        "nüüd",
+        "paraku",
+        "täitsa",
+        "täitsa"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "õnneks",
+      "translations": [
+        "fortunately",
+        "happily",
+        "thankfully"
+      ]
+    }
+  ]
+}

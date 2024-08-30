@@ -1,0 +1,440 @@
+{
+  "requestedWord": "aed",
+  "estonianWord": "aed",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22u",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "aed"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "aia"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "aeda"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "aeda"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "aiasse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "aias"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "aiast"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "aiale"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "aial"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "aialt"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "aiaks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "aiani"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "aiana"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "aiata"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "aiaga"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "aiad"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "aedade"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "aedu,aedasid"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "aedadesse,aiusse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "aedades,aius"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "aedadest,aiust"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "aedadele,aiule"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "aedadel,aiul"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "aedadelt,aiult"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "aedadeks,aiuks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "aedadeni"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "aedadena"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "aedadeta"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "aedadega"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "Aia"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "hrl maja ümbritsev (taraga piiratud) ala, kus kasvatatakse lilli, köögivilju, viljapuid vms,maa-ala maja juures, kus saab kasvatada lilli, köögivilju ja puuvilju",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kadrioru lossi aeda istutati hõlmikpuu.",
+            "Juurviljaaed.",
+            "Kirsiaed.",
+            "Aias kasvasid õunapuud."
+          ],
+          "synonyms": [
+            "õuepealne,hoovipealne,hoov,õu"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "garden",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "jardin",
+                "weight": 1
+              },
+              {
+                "words": "cour",
+                "weight": 0.501
+              }
+            ],
+            "rus": [
+              {
+                "words": "сад",
+                "weight": 1
+              },
+              {
+                "words": "огород",
+                "weight": 1
+              },
+              {
+                "words": "двор",
+                "weight": 0.501
+              }
+            ],
+            "ukr": [
+              {
+                "words": "сад",
+                "weight": 1
+              },
+              {
+                "words": "город",
+                "weight": 1
+              },
+              {
+                "words": "двір,подвірʼя",
+                "weight": 0.501
+              }
+            ]
+          }
+        },
+        {
+          "definition": "maa-ala piirav või eraldav tõke,enamasti puust või metallist ehitis, mis on selle maa-ala ümber",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Poiss ronis üle aia.",
+            "Poisid ronisid üle aia.",
+            "Maja ümbritses kõrge aed."
+          ],
+          "synonyms": [
+            "tara",
+            "piirdeaed,piirdetara",
+            "piire,ääris",
+            "plank,plankaed,planktara",
+            "tarandik"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "fence",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "clôture",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "забор",
+                "weight": 1
+              },
+              {
+                "words": "изгородь",
+                "weight": 1
+              },
+              {
+                "words": "ограда",
+                "weight": 1
+              },
+              {
+                "words": "палисадник",
+                "weight": 1
+              },
+              {
+                "words": "штакетник",
+                "weight": 1
+              },
+              {
+                "words": "частокол",
+                "weight": 1
+              },
+              {
+                "words": "тын",
+                "weight": 1
+              },
+              {
+                "words": "ограда,ограждение",
+                "weight": 0.9
+              },
+              {
+                "words": "ограда,бордюр,борт,ограждение",
+                "weight": 0.9
+              },
+              {
+                "words": "забор,дощатый забор",
+                "weight": 0.9
+              },
+              {
+                "words": "забор,частокол,тын,штакетник",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "огорожа",
+                "weight": 1
+              },
+              {
+                "words": "загорода",
+                "weight": 1
+              },
+              {
+                "words": "паркан",
+                "weight": 1
+              },
+              {
+                "words": "тин",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tara",
+        "palissaad",
+        "teivasaed",
+        "pistandaed",
+        "pihttara",
+        "sulg",
+        "roigasaed",
+        "palktara",
+        "suveaed",
+        "pistand",
+        "plank",
+        "pistandtara",
+        "piire",
+        "plankaed",
+        "park",
+        "pihtaed",
+        "hirsaed",
+        "piirdeaed",
+        "püstaed",
+        "püstandaed",
+        "aedik",
+        "tarandik",
+        "puiestik",
+        "kirikaed",
+        "juurviljaaed",
+        "köögiviljaaed",
+        "aiamaa",
+        "iluaed",
+        "kiviktaimla",
+        "peenramaa",
+        "tarbeaed",
+        "lillepeenar",
+        "õunapuuaed",
+        "viljapuuaed",
+        "aiandus",
+        "haljak",
+        "õunaaed",
+        "lilleaed",
+        "lehtla",
+        "ürdiaed",
+        "muruala",
+        "haljasala",
+        "muruplats",
+        "koduaed",
+        "puuviljaaed",
+        "puuhoov",
+        "hoov",
+        "rohuaed",
+        "taimeaed",
+        "plank",
+        "plank",
+        "sulg",
+        "park",
+        "park",
+        "aiakamin",
+        "latter",
+        "koht",
+        "vahesein",
+        "müür",
+        "haljastus",
+        "luigetiik",
+        "muruvaip",
+        "tiik",
+        "muruväljak",
+        "aiakujundus",
+        "terrass",
+        "murulapp",
+        "pargikujundus",
+        "iluaiandus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "aed",
+      "translations": [
+        "garden"
+      ]
+    }
+  ]
+}

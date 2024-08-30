@@ -1,0 +1,256 @@
+{
+  "requestedWord": "alev",
+  "estonianWord": "alev",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "alev"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "alevi"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "alevit"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "alevisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "alevis"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "alevist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "alevile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "alevil"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "alevilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "aleviks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "alevini"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "alevina"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "alevita"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "aleviga"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "alevid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "alevite"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "aleveid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "alevitesse,aleveisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "alevites,aleveis"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "alevitest,aleveist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "alevitele,aleveile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "alevitel,aleveil"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "alevitelt,aleveilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "aleviteks,aleveiks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "aleviteni"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "alevitena"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "aleviteta"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "alevitega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "linnast väiksem asula",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Vändra alev."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "посёлок",
+                "weight": 1
+              },
+              {
+                "words": "посёлок городского типа",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ees-, äärelinn, agul",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            ".. kui kirp kesklinnast hakkab hüppama, siis on ta alevisse jõudes elevant."
+          ],
+          "synonyms": [
+            "agul"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "окраина города,окраина,предместье",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "agul",
+        "eeslinn",
+        "äärelinn",
+        "töölisalev",
+        "alevivanem",
+        "alevik",
+        "maa-asula",
+        "alevivalitsus",
+        "rajoonikeskus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "alev",
+      "translations": []
+    }
+  ]
+}

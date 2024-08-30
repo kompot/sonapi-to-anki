@@ -1,0 +1,734 @@
+{
+  "requestedWord": "eri",
+  "estonianWord": "eri",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eri"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingil viisil teistest, muust eristuv,(kellegagi, millegagi või omavahel võrreldes) teistsugune,eristuv, eraldi olev",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Me elame kolmes eri ajas.",
+            "Poisid ja tüdrukud õpivad eri aineid.",
+            "Kangelanna soovis ajakirjanikega eri arvamusel olla.",
+            "Poisil on jalas eri värvi sokid.",
+            "Vastuvõtt on iga päev eri ajal."
+          ],
+          "synonyms": [
+            "erinev",
+            "erisugune",
+            "ise",
+            "diferentne",
+            "kõikuv",
+            "algupärane,originaalne",
+            "vastupidine,vastasmärgiline,vastandmärgiline,vastandlik,ristipidine",
+            "teistmoodi,muusugune,teissugune,teistsugune",
+            "ebavõrdne,mittevõrdne",
+            "igasugu,igasugune,kõiksugu,kõiksugune,igatsugu",
+            "mõnesugune,mõningas,mõningane",
+            "teine",
+            "kahesugune",
+            "iseäraldi,eraldi",
+            "nagu siga ja kägu,nagu öö ja päev",
+            "teisest ooperist",
+            "vaks vahet",
+            "nagu tuli ja vesi",
+            "lahkuminev",
+            "omamoodi,isemoodi",
+            "isesorti,iselaadi",
+            "eriilmeline",
+            "isenäoline",
+            "kordumatu",
+            "spetsiifiline,eri,eriline,eriomane",
+            "ebaühtlane",
+            "teistlaadi,teistlaadne,teiselaadne,teiselaadiline",
+            "erinev,erilaadne,mitmesugune,erilaadiline"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "different",
+                "weight": 1
+              },
+              {
+                "words": "contrary",
+                "weight": 0.7
+              },
+              {
+                "words": "other,another",
+                "weight": 0.9
+              },
+              {
+                "words": "different,diverse",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "différent",
+                "weight": 1
+              },
+              {
+                "words": "inverse,contraire",
+                "weight": 0.7
+              },
+              {
+                "words": "différent",
+                "weight": 0.7
+              },
+              {
+                "words": "autre",
+                "weight": 0.9
+              },
+              {
+                "words": "séparément",
+                "weight": 0.9
+              },
+              {
+                "words": "différent,divers",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "разный",
+                "weight": 1
+              },
+              {
+                "words": "различный",
+                "weight": 1
+              },
+              {
+                "words": "отдельный",
+                "weight": 1
+              },
+              {
+                "words": "свой",
+                "weight": 1
+              },
+              {
+                "words": "различающийся",
+                "weight": 1
+              },
+              {
+                "words": "отличающийся",
+                "weight": 1
+              },
+              {
+                "words": "шаткий,зыбкий,подвижный",
+                "weight": 0.89
+              },
+              {
+                "words": "самобытный,необычный,своеобразный,оригинальный,нестандартный,неизбитый",
+                "weight": 0.7
+              },
+              {
+                "words": "противный,противоположный",
+                "weight": 0.7
+              },
+              {
+                "words": "другого склада,иного склада,не такой,иной,другой",
+                "weight": 0.7
+              },
+              {
+                "words": "неравноправный,неравный",
+                "weight": 0.7
+              },
+              {
+                "words": "всякий,любой,всевозможный,разнообразный,всемерный,всяческий",
+                "weight": 0.89
+              },
+              {
+                "words": "кое-какой,некий,какой-то,некоторый,кой-какой",
+                "weight": 0.89
+              },
+              {
+                "words": "другой",
+                "weight": 0.9
+              },
+              {
+                "words": "двоякого рода,двоякий,двух сортов,двух типов",
+                "weight": 0.575
+              },
+              {
+                "words": "врозь,отдельно,раздельно,порознь,особняком,в отдельности,по отдельности",
+                "weight": 0.9
+              },
+              {
+                "words": "небо и земля",
+                "weight": 0.9
+              },
+              {
+                "words": "из другой оперы",
+                "weight": 0.9
+              },
+              {
+                "words": "большая разница",
+                "weight": 0.9
+              },
+              {
+                "words": "как кошка с собакой",
+                "weight": 0.9
+              },
+              {
+                "words": "своеобразный",
+                "weight": 0.7
+              },
+              {
+                "words": "особенный,своеобычный,особый,необычный,странный,своеобразный",
+                "weight": 0.7
+              },
+              {
+                "words": "разноликий",
+                "weight": 0.9
+              },
+              {
+                "words": "разноликий,своеобразный",
+                "weight": 0.9
+              },
+              {
+                "words": "неподражаемый,неповторимый,единственный и неповторимый,исключительный,единственный в своём роде",
+                "weight": 0.9
+              },
+              {
+                "words": "специфический,особенный,отличительный,специфичный,характерный,свойственный",
+                "weight": 0.9
+              },
+              {
+                "words": "разнородный,неоднородный,неравномерный",
+                "weight": 0.7
+              },
+              {
+                "words": "другой,другого склада,иного склада,иной",
+                "weight": 0.7
+              },
+              {
+                "words": "разнообразный,различный,разный,разнородный",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "різний",
+                "weight": 1
+              },
+              {
+                "words": "відмінний",
+                "weight": 1
+              },
+              {
+                "words": "неоднаковий",
+                "weight": 1
+              },
+              {
+                "words": "несхожий",
+                "weight": 1
+              },
+              {
+                "words": "протилежний",
+                "weight": 0.7
+              },
+              {
+                "words": "не такий,інакший,інший",
+                "weight": 0.7
+              },
+              {
+                "words": "будь-який,всякий,всілякий",
+                "weight": 0.89
+              },
+              {
+                "words": "інший",
+                "weight": 0.9
+              },
+              {
+                "words": "нарізно,окремо",
+                "weight": 0.9
+              },
+              {
+                "words": "особливий,специфічний,характерний,притаманний,властивий",
+                "weight": 0.9
+              },
+              {
+                "words": "різноманітний,різний",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "eraldi olev, omaette esinev, iseseisev",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Psalmide kommentaar ilmub eri vihikuna.",
+            "Süsteemis on iga värvi pastakad eri kaubana arvel.",
+            "45 minutiga tuleb õpetada 3 erinevat materjali kolmele eri klassile."
+          ],
+          "synonyms": [
+            "eraldine",
+            "separaatne",
+            "erinev",
+            "separaat"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сепаратный",
+                "weight": 1
+              },
+              {
+                "words": "отдельный",
+                "weight": 1
+              },
+              {
+                "words": "обособленный",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "окремий",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ainukordne",
+        "erisugune",
+        "erinäoline",
+        "ainulaadne",
+        "asjatoimetus",
+        "nagu tuli ja vesi",
+        "teistsugune",
+        "erilaadne",
+        "fenomenaalne",
+        "ainuline",
+        "eriaegne",
+        "eriilmeline",
+        "askeldus",
+        "ebatavaline",
+        "rabelus",
+        "tegemine",
+        "asjaõiendus",
+        "nagu siga ja kägu",
+        "unikaalne",
+        "toimetus",
+        "teisest ooperist",
+        "isenäoline",
+        "asi",
+        "kordumatu",
+        "sibin-sabin",
+        "rariteetne",
+        "õiendus",
+        "erandlik",
+        "hädaasi",
+        "erakordne",
+        "asjatalitus",
+        "harv",
+        "isesugune",
+        "harukordne",
+        "tegu",
+        "tants",
+        "lahkuminev",
+        "erinev",
+        "eripalgeline",
+        "ainupärane",
+        "haruldane",
+        "jant",
+        "singulaarne",
+        "vaks vahet",
+        "asjaajamine",
+        "ise",
+        "eriline",
+        "talitus",
+        "karva",
+        "kõiksugune",
+        "spetsiaalne",
+        "omaette",
+        "mitmevärvuseline",
+        "igasugune",
+        "mitmevärviline",
+        "erivärviline",
+        "eraldi",
+        "iseäralik",
+        "mitmesugune",
+        "muude",
+        "teatud",
+        "ise",
+        "ise",
+        "jaht",
+        "jaht"
+      ]
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eri"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(eelistust, põhilist välja tuues:) eeskätt, ennekõike,rõhutab seda, mis on põhiline: eelkõige",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Eri halb on kaotada neile, kellega koos astusin profisumosse.",
+            "Asendusteenistuses on päevi, mis tunduvad eri pikad.",
+            "See ei tohiks ju eri kallis olla."
+          ],
+          "synonyms": [
+            "eriti",
+            "iseäranis",
+            "eelkõige,eeskätt,eestkätt,ennekõike,esijoones,esmajoones,ennekõige"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "especially",
+                "weight": 1
+              },
+              {
+                "words": "first and foremost",
+                "weight": 0.768
+              }
+            ],
+            "fra": [
+              {
+                "words": "surtout",
+                "weight": 1
+              },
+              {
+                "words": "surtout,principalement,avant tout",
+                "weight": 0.768
+              }
+            ],
+            "rus": [
+              {
+                "words": "особенно",
+                "weight": 1
+              },
+              {
+                "words": "в особенности",
+                "weight": 1
+              },
+              {
+                "words": "в частности",
+                "weight": 1
+              },
+              {
+                "words": "особо",
+                "weight": 1
+              },
+              {
+                "words": "наипаче",
+                "weight": 1
+              },
+              {
+                "words": "в первую очередь,прежде всего,главным образом,преимущественно,по преимуществу,первым делом,первым долгом,перво-наперво",
+                "weight": 0.768
+              }
+            ],
+            "ukr": [
+              {
+                "words": "особливо",
+                "weight": 1
+              },
+              {
+                "words": "зокрема",
+                "weight": 1
+              },
+              {
+                "words": "насамперед,передусім,найперше,перш за все",
+                "weight": 0.768
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eri-"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "eriotstarbeks mõeldud",
+          "partOfSpeech": [],
+          "examples": [
+            "Erikohtlemine.",
+            "Eriluba.",
+            "Eriolukord.",
+            "Erioskus.",
+            "Eritingimus."
+          ],
+          "synonyms": [
+            "eriline,spets,spetsiaalne,spets,spetsiaal",
+            "ainukordne,singulaarne,unikaalne",
+            "erakorraline"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "особенный",
+                "weight": 1
+              },
+              {
+                "words": "специальный",
+                "weight": 1
+              },
+              {
+                "words": "специальный,особый",
+                "weight": 0.7
+              },
+              {
+                "words": "уникальный,сингулярный",
+                "weight": 0.9
+              },
+              {
+                "words": "внеочередной,экстренный,чрезвычайный",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "spécial,spécifique",
+                "weight": 0.7
+              },
+              {
+                "words": "extraordinaire",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "особливий,спеціальний",
+                "weight": 0.7
+              },
+              {
+                "words": "позачерговий,екстрений,надзвичайний",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingi erialaga seotud",
+          "partOfSpeech": [],
+          "examples": [
+            "Eriarst.",
+            "Eriaine.",
+            "Eriharidus."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "millelegi olemuslikult, tunnuslikult omane,millelegi või kellelegi eriti omane",
+          "partOfSpeech": [],
+          "examples": [
+            "Erijoon.",
+            "Eriomadus.",
+            "Eritunnus."
+          ],
+          "synonyms": [
+            "eriline",
+            "eriomane",
+            "spetsiifiline",
+            "ainulaadne,ainuline,ainupärane,unikaalne",
+            "eriilmeline",
+            "iseloomulik,karakteerne",
+            "diferentne,eri,erinev,erisugune,ise",
+            "omane",
+            "igiomane,ürgomane",
+            "üldomane",
+            "ainuomane",
+            "isikupärane"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "свойственный",
+                "weight": 1
+              },
+              {
+                "words": "специфический",
+                "weight": 1
+              },
+              {
+                "words": "специфичный",
+                "weight": 1
+              },
+              {
+                "words": "характерный",
+                "weight": 1
+              },
+              {
+                "words": "особенный",
+                "weight": 1
+              },
+              {
+                "words": "отличительный",
+                "weight": 1
+              },
+              {
+                "words": "единственный в своём роде,неповторимый,исключительный,уникальный,самобытный,редкостный,редкий",
+                "weight": 0.89
+              },
+              {
+                "words": "разноликий",
+                "weight": 0.89
+              },
+              {
+                "words": "показательный,характерный,свойственный,отличительный,классический,симптоматичный,типичный,типический",
+                "weight": 0.89
+              },
+              {
+                "words": "различный,различающийся,отличающийся,отдельный,свой,разный",
+                "weight": 0.85
+              },
+              {
+                "words": "характерный,типичный,присущий,свойственный",
+                "weight": 0.663
+              },
+              {
+                "words": "изначально присущий,характерный,исконно свойственный,исконно присущий,изначально свойственный",
+                "weight": 0.751
+              },
+              {
+                "words": "исключительно характерный,единственно свойственный",
+                "weight": 0.72
+              },
+              {
+                "words": "самобытный,индивидуальный,характерный,типичный",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "властивий",
+                "weight": 1
+              },
+              {
+                "words": "притаманний",
+                "weight": 1
+              },
+              {
+                "words": "характерний",
+                "weight": 1
+              },
+              {
+                "words": "специфічний",
+                "weight": 1
+              },
+              {
+                "words": "особливий",
+                "weight": 1
+              },
+              {
+                "words": "характерний,властивий,притаманний,типовий",
+                "weight": 0.89
+              },
+              {
+                "words": "різний,відмінний,неоднаковий,несхожий",
+                "weight": 0.85
+              },
+              {
+                "words": "властивий,притаманний,характерний",
+                "weight": 0.663
+              }
+            ],
+            "fra": [
+              {
+                "words": "caractéristique",
+                "weight": 0.89
+              },
+              {
+                "words": "différent",
+                "weight": 0.85
+              },
+              {
+                "words": "typique,caractéristique,propre",
+                "weight": 0.663
+              }
+            ],
+            "eng": [
+              {
+                "words": "characteristic",
+                "weight": 0.89
+              },
+              {
+                "words": "different",
+                "weight": 0.85
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(omadussõnadega ja neist tuletatud abstraktnimisõnadega:) millestki erinev, lahknev",
+          "partOfSpeech": [],
+          "examples": [
+            "Erimahuline.",
+            "Erisuunaline.",
+            "Erivärviline.",
+            "Erivärvilisus."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "eri",
+      "translations": [
+        "separate",
+        "various"
+      ]
+    }
+  ]
+}

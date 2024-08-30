@@ -1,0 +1,199 @@
+{
+  "requestedWord": "saati",
+  "estonianWord": "saati",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "saati"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teatavast ajast alates, mingist ajast peale,osutab, mis ajast mingi tegevus algas",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Pood on jõulust saati suletud.",
+            "Talle on lapsest saati meeldinud hobused."
+          ],
+          "synonyms": [
+            "saadik"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "depuis",
+                "weight": 1
+              },
+              {
+                "words": "à partir de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "начиная",
+                "weight": 1
+              },
+              {
+                "words": "начиная с",
+                "weight": 1
+              },
+              {
+                "words": "от",
+                "weight": 1
+              },
+              {
+                "words": "со",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "починаючи",
+                "weight": 1
+              },
+              {
+                "words": "починаючи з",
+                "weight": 1
+              },
+              {
+                "words": "від",
+                "weight": 1
+              },
+              {
+                "words": "з",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teatava piirini, milleni miski ulatub",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Vesi oli rinnust saati."
+          ],
+          "synonyms": [
+            "saadik"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "до",
+                "weight": 1
+              },
+              {
+                "words": "по",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "eriti (veel), pealegi (veel),seda enam",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Lapsepõlves ei meeldinud talle lilligi viia, saati siis võhivõõrale ligi astuda ja juttu puhuda."
+          ],
+          "synonyms": [
+            "liiati",
+            "liiatigi",
+            "ammu",
+            "ammuks",
+            "ammugi",
+            "kummatigi",
+            "saadik",
+            "aruti"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "тем более",
+                "weight": 1
+              },
+              {
+                "words": "к тому же",
+                "weight": 1
+              },
+              {
+                "words": "подавно",
+                "weight": 1
+              },
+              {
+                "words": "и подавно",
+                "weight": 1
+              },
+              {
+                "words": "притом",
+                "weight": 1
+              },
+              {
+                "words": "особенно",
+                "weight": 1
+              },
+              {
+                "words": "тем паче",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pihta",
+        "ajaliselt",
+        "sestpeale",
+        "kuni",
+        "sestsaadik",
+        "ruumiliselt",
+        "kauaks",
+        "seni kui",
+        "peast",
+        "peast",
+        "sestsaati",
+        "sestmaalt",
+        "kuniks",
+        "niikaua kui",
+        "sealtsaadik",
+        "saadik",
+        "saadik",
+        "sealtpeale",
+        "sealtmaalt",
+        "alates",
+        "siiamaani",
+        "siiani",
+        "siitsaadik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "saati",
+      "translations": []
+    }
+  ]
+}

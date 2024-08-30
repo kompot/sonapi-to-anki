@@ -1,0 +1,364 @@
+{
+  "requestedWord": "juurde",
+  "estonianWord": "juurde",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "juurde"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi (või kellegi) vahetusse lähedusse, hästi lähedale,(millegi) lähedale",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Astus akna juurde.",
+            "Sinna ei pääse autoga juurde.",
+            "Pean hambaarsti juurde minema.",
+            "Koer jooksis peremehe juurde."
+          ],
+          "synonyms": [
+            "kõrvale"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "à",
+                "weight": 1
+              },
+              {
+                "words": "près de",
+                "weight": 1
+              },
+              {
+                "words": "à côté de",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "к",
+                "weight": 1
+              },
+              {
+                "words": "рядом с",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              },
+              {
+                "words": "возле",
+                "weight": 1
+              },
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "к,рядом с,у,возле,около",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до",
+                "weight": 1
+              },
+              {
+                "words": "поряд з",
+                "weight": 1
+              },
+              {
+                "words": "поруч з",
+                "weight": 1
+              },
+              {
+                "words": "коло",
+                "weight": 1
+              },
+              {
+                "words": "біля",
+                "weight": 1
+              },
+              {
+                "words": "до,поряд з,поруч з,коло,біля",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi asu-, elu- või töökohta,kellegi vastuvõtule või jutule, (mingis asjas) kuhugi või kellegi poole,kellegi elukohta,kellegi töökohta või vastuvõtule",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Sõidame nädalavahetuseks maale vanaema juurde.",
+            "Pean arsti juurde minema.",
+            "Mine sauna juurde ja pane veel tuld alla.",
+            "Lapsed sõitsid maale vanaema juurde.",
+            "Lähen homme arsti juurde."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "chez",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "к",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab asutusele või organisatsioonile, mille alluvusse või koosseisu miski või keegi jääb.",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Linnavalitsuse juurde moodustati mitu komisjoni."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "при",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab tegevusele, otsusele või seisundile, milleni parasjagu jõutakse või millel otsustatakse püsida",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Viimastel aastatel on kunstnik pöördunud tagasi õlimaali juurde.",
+            "Isa jäi oma tahtmise juurde kindlaks.",
+            "Tule mõistuse juurde, mees!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "к",
+                "weight": 1
+              },
+              {
+                "words": "при",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millelegi lisaks, täienduseks,(millelegi) lisaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Kohvi juurde pakuti konjakit.",
+            "Tuli halva mängu juurde head nägu teha.",
+            "Viska kaminasse paar halgu juurde!",
+            "Hea töö eest pandi palka juurde.",
+            "Ma sain palka juurde.",
+            "Rahvast tuli juurde.",
+            "Kohvi juurde pakuti küpsiseid."
+          ],
+          "synonyms": [
+            "hulka,lisaks,sekka,täiendavalt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "к",
+                "weight": 1
+              },
+              {
+                "words": "в дополнение к",
+                "weight": 1
+              },
+              {
+                "words": "в добавок к",
+                "weight": 1
+              },
+              {
+                "words": "в,дополнительно,вдобавок,в добавок к,в дополнение к",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до",
+                "weight": 1
+              },
+              {
+                "words": "на додаток до",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ligi",
+        "kõrvale",
+        "veel",
+        "lähedale",
+        "silma alla",
+        "otsa",
+        "lisaks",
+        "manu",
+        "täiendavalt",
+        "alla",
+        "alla",
+        "asetama",
+        "panema",
+        "tõstma",
+        "vastu panema",
+        "toetama",
+        "ligi laskma",
+        "lähemale",
+        "ahvatlema",
+        "järele",
+        "tihedasti",
+        "tegema",
+        "ajama",
+        "karglema",
+        "ligemale",
+        "alla veerema",
+        "tooma",
+        "juures",
+        "ette",
+        "kallama",
+        "tõmbama",
+        "astuma",
+        "kokku",
+        "kutsuma",
+        "kihutama",
+        "lähenema",
+        "veeretama",
+        "talutama",
+        "salaja",
+        "minema",
+        "minema",
+        "puistama",
+        "külje alla",
+        "läbi",
+        "lähedal",
+        "ligidale",
+        "tulema",
+        "tulema",
+        "tulema",
+        "rehitsema",
+        "tõsiselt",
+        "üles hüppama",
+        "keksima",
+        "vargsi",
+        "ligi tõmbama",
+        "tirima",
+        "ette veeretama",
+        "sõidutama",
+        "edasi liikuma",
+        "välja lõikama",
+        "hopsama",
+        "sisse",
+        "ronima",
+        "vastu",
+        "raputama",
+        "ligi meelitama",
+        "viima",
+        "ligidal",
+        "köitma",
+        "naaldama",
+        "päris",
+        "ümber",
+        "istutama",
+        "lükkama",
+        "ujuma",
+        "peibutama",
+        "ligi hiilima",
+        "välja",
+        "kalpsama",
+        "kohale sõitma",
+        "kargama",
+        "valama",
+        "peale viskama",
+        "lähendama",
+        "alla lendama",
+        "koomale",
+        "galoppima",
+        "külge",
+        "täis valama",
+        "sekka",
+        "edasi",
+        "lubama",
+        "kõrval",
+        "kõrval",
+        "hüplema",
+        "peale",
+        "sinnajuurde",
+        "sinna",
+        "juurdemaks"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "juurde",
+      "translations": []
+    }
+  ]
+}

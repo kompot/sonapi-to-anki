@@ -1,0 +1,566 @@
+{
+  "requestedWord": "kaasa",
+  "estonianWord": "kaasa",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kaasa"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegagi koos, kellegi seltsis, kellegagi või millegagi ühinedes,enda juurde, endaga ühes,kellegagi koos (mingist tegevusest osa võttes),näitab, et sa kuhugi minnes võtad kellegi või millegi endaga",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Oota, ma tulen sinuga kaasa.",
+            "Meeskonnaga sõitis kaasa 14 fänni.",
+            "Võtsin liiga vähe raha kaasa.",
+            "Koer jooksis lastega kaasa.",
+            "Tule minuga poodi kaasa."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "avec",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вместе",
+                "weight": 1
+              },
+              {
+                "words": "с собой",
+                "weight": 1
+              },
+              {
+                "words": "с",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "разом",
+                "weight": 1
+              },
+              {
+                "words": "з собою",
+                "weight": 1
+              },
+              {
+                "words": "з",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi lisaks, millegi saateks, millegagi koos (esinedes, toimudes, mõjudes)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pillimees laulis oma mängule kaasa."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(hea soovi osana)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Õnn kaasa!",
+            "Jumal kaasa!"
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "под",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ligi",
+        "hulka",
+        "keskele",
+        "vahele",
+        "man",
+        "kilda",
+        "ühes",
+        "sekka",
+        "manu",
+        "mesti",
+        "seltsi",
+        "sleppi",
+        "kätte",
+        "kinni",
+        "järele",
+        "abikaas",
+        "maadam",
+        "abielunaine",
+        "madam",
+        "naispool",
+        "elukaaslane",
+        "abielupool",
+        "noorik",
+        "küljesoojendaja",
+        "matroon",
+        "eluseltsiline",
+        "naiseraasuke",
+        "konkubiin",
+        "naisuke",
+        "emand",
+        "vanamoor",
+        "proua",
+        "eit",
+        "tanukandja",
+        "abikaasa",
+        "moor",
+        "kodukana",
+        "küljeluu",
+        "paariline",
+        "kullatükk",
+        "mehenaine",
+        "naisenatuke",
+        "takka kiitma",
+        "haarama",
+        "viima",
+        "sisse",
+        "juurde tooma",
+        "kiskuma",
+        "aitama",
+        "teinepool"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kaasa"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kaasa"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kaasat"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kaasasse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kaasas"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kaasast"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kaasale"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kaasal"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kaasalt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kaasaks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kaasani"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kaasana"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kaasata"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kaasaga"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kaasad"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kaasade"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kaasasid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kaasadesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kaasades"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kaasadest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kaasadele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kaasadel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kaasadelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kaasadeks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kaasadeni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kaasadena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kaasadeta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kaasadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "inimene, kellega ollakse abielus, üks abielupool teise abielupoole suhtes,üks abielu partneritest",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tore on kalli kaasaga päikeseloojangut imetleda."
+          ],
+          "synonyms": [
+            "abikaasa",
+            "abikaas",
+            "abielupool",
+            "teinepool",
+            "eluseltsiline",
+            "partner",
+            "proua",
+            "naine"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "spouse",
+                "weight": 1
+              },
+              {
+                "words": "partner",
+                "weight": 0.7
+              },
+              {
+                "words": "wife",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "mari",
+                "weight": 1
+              },
+              {
+                "words": "époux",
+                "weight": 1
+              },
+              {
+                "words": "femme",
+                "weight": 1
+              },
+              {
+                "words": "épouse",
+                "weight": 1
+              },
+              {
+                "words": "épouse,femme",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "муж",
+                "weight": 1
+              },
+              {
+                "words": "жена",
+                "weight": 1
+              },
+              {
+                "words": "супруг",
+                "weight": 1
+              },
+              {
+                "words": "супруга",
+                "weight": 1
+              },
+              {
+                "words": "половина",
+                "weight": 1
+              },
+              {
+                "words": "один из супругов",
+                "weight": 0.9
+              },
+              {
+                "words": "вторая половина",
+                "weight": 0.9
+              },
+              {
+                "words": "супруга,спутник жизни,подруга жизни,спутница жизни,друг жизни,супруг",
+                "weight": 0.9
+              },
+              {
+                "words": "сожительница,партнёр,партнёрша,сожитель",
+                "weight": 0.7
+              },
+              {
+                "words": "супруга,жена",
+                "weight": 0.9
+              },
+              {
+                "words": "жена",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чоловік",
+                "weight": 1
+              },
+              {
+                "words": "дружина",
+                "weight": 1
+              },
+              {
+                "words": "жінка",
+                "weight": 1
+              },
+              {
+                "words": "дружина,жінка",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "partner",
+        "abikaas",
+        "maadam",
+        "abielunaine",
+        "madam",
+        "naispool",
+        "elukaaslane",
+        "abielupool",
+        "noorik",
+        "küljesoojendaja",
+        "matroon",
+        "eluseltsiline",
+        "naiseraasuke",
+        "naisuke",
+        "emand",
+        "vanamoor",
+        "proua",
+        "eit",
+        "sekka",
+        "abikaasa",
+        "tanukandja",
+        "moor",
+        "küljeluu",
+        "paariline",
+        "naisenatuke",
+        "ligi",
+        "hulka",
+        "keskele",
+        "vahele",
+        "man",
+        "konkubiin",
+        "kilda",
+        "ühes",
+        "teinepool",
+        "aitama",
+        "takka kiitma",
+        "kätte",
+        "kinni",
+        "järele",
+        "haarama",
+        "viima",
+        "sisse",
+        "juurde tooma",
+        "kiskuma",
+        "seltsi",
+        "sleppi",
+        "kodukana",
+        "manu",
+        "mesti",
+        "mehenaine",
+        "kullatükk"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kaasa",
+      "translations": []
+    }
+  ]
+}

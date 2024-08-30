@@ -1,0 +1,383 @@
+{
+  "requestedWord": "katsetus",
+  "estonianWord": "katsetus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "katsetus"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "katsetuse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "katsetust"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "katsetusse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "katsetusesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "katsetuses"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "katsetusest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "katsetusele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "katsetusel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "katsetuselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "katsetuseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "katsetuseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "katsetusena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "katsetuseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "katsetusega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "katsetused"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "katsetuste"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "katsetusi"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "katsetustesse,katsetusisse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "katsetustes,katsetusis"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "katsetustest,katsetusist"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "katsetustele,katsetusile"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "katsetustel,katsetusil"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "katsetustelt,katsetusilt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "katsetusteks,katsetusiks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "katsetusteni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "katsetustena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "katsetusteta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "katsetustega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "püüe midagi teha, sooritada või saavutada,millegi katsetamine või proovimine,see, kui proovitakse midagi teha või saavutada",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Peale mitmeid katsetusi olen maksa praadimise lõpuks selgeks saanud.",
+            "Gripivaktsiini kliiniline katsetus.",
+            "Katsetusel lennuk purunes.",
+            "Katsetused näitasid, et ravim toimib."
+          ],
+          "synonyms": [
+            "katse",
+            "üritus",
+            "eksperiment",
+            "katsetamine",
+            "test",
+            "proov",
+            "proovimine",
+            "püüe,püüdlus,püüd"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "tentative",
+                "weight": 1
+              },
+              {
+                "words": "essai",
+                "weight": 1
+              },
+              {
+                "words": "test",
+                "weight": 1
+              },
+              {
+                "words": "essai",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "попытка",
+                "weight": 1
+              },
+              {
+                "words": "эксперимент",
+                "weight": 1
+              },
+              {
+                "words": "опыт",
+                "weight": 1
+              },
+              {
+                "words": "проба",
+                "weight": 1
+              },
+              {
+                "words": "опробование",
+                "weight": 1
+              },
+              {
+                "words": "испытание",
+                "weight": 1
+              },
+              {
+                "words": "заход",
+                "weight": 1
+              },
+              {
+                "words": "тест",
+                "weight": 0.7
+              },
+              {
+                "words": "опробование,попытка,испытание,проба",
+                "weight": 0.9
+              },
+              {
+                "words": "проба,попытка,примерка,опробование,пробирование,отведывание,проверка",
+                "weight": 0.9
+              },
+              {
+                "words": "старанье,стремления,устремления,усилие,попытка,стремление,старание,устремление,тяготение,тяга,стремленье,устремлённость",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "проба",
+                "weight": 1
+              },
+              {
+                "words": "спроба",
+                "weight": 1
+              },
+              {
+                "words": "випробування",
+                "weight": 1
+              },
+              {
+                "words": "проба,спроба,випробування",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "test",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "algajalik, prooviks tehtud töö (eriti kirjanduses, kunstis, muusikas)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Veebilehel saab lugeda noorte autorite kirjanduslikke katsetusi."
+          ],
+          "synonyms": [
+            "proovitöö",
+            "katsetöö",
+            "suleproov,suleharjutus",
+            "sulekatsetus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "опыт",
+                "weight": 1
+              },
+              {
+                "words": "попытка",
+                "weight": 1
+              },
+              {
+                "words": "пробная работа",
+                "weight": 0.9
+              },
+              {
+                "words": "проба пера",
+                "weight": 0.9
+              },
+              {
+                "words": "проба пера",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vormikatsetus",
+        "tuumarelvakatsetus",
+        "tehasekatsetus",
+        "sordikatsetus",
+        "polügoonkatsetus",
+        "luulekatsetus",
+        "test",
+        "suleharjutus",
+        "sulekatsetus",
+        "proovitöö",
+        "proovimine",
+        "suleproov",
+        "katsekakk",
+        "üritus",
+        "katse",
+        "proov",
+        "teim",
+        "eksperiment",
+        "tuumakatsetus",
+        "katsetöö",
+        "katsemudel",
+        "katselend",
+        "katsetulemus",
+        "katseeksemplar",
+        "katsetaja"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "katsetus",
+      "translations": [
+        "testing"
+      ]
+    }
+  ]
+}

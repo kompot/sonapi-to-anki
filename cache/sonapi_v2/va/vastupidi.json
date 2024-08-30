@@ -1,0 +1,123 @@
+{
+  "requestedWord": "vastupidi",
+  "estonianWord": "vastupidi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vastupidi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "täiesti, hoopis teisiti, vastandlikul moel, ümberpöördult,täiesti, hoopis teisiti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta ei kiirustanud, vastupidi, hakkas aeglaselt, tollhaaval liikuma.",
+            "Sa kindlasti põlgad mind. – Vastupidi, jumaldan.",
+            "Sa siis ei taha kaasa tulla? – Vastupidi, väga tahan!",
+            "Kas tüdruk solvus poisi peale või oli see vastupidi?"
+          ],
+          "synonyms": [
+            "vastuoksa"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "au contraire",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "наоборот",
+                "weight": 1
+              },
+              {
+                "words": "напротив",
+                "weight": 1
+              },
+              {
+                "words": "наперекор",
+                "weight": 1
+              },
+              {
+                "words": "навыворот",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "навпаки",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tagurpidi",
+        "hoopiski",
+        "pahupidi",
+        "tagaspidi",
+        "teistpidi",
+        "vastupidiselt",
+        "vastuoksa",
+        "nuripidi",
+        "pahempidi",
+        "äraspidi",
+        "taatsi",
+        "vastukarva",
+        "hoopis",
+        "koguni",
+        "ümberpöördult",
+        "teisipidi",
+        "kogunisti",
+        "vaid",
+        "valepidi",
+        "kiuste",
+        "kiuste",
+        "vastu",
+        "mitte",
+        "mitte",
+        "miskitmoodi",
+        "kõrvupidi",
+        "miskitpidi",
+        "kahtpidi",
+        "otsemalt",
+        "sedapidi",
+        "niipidi",
+        "näppupidi",
+        "laiupidi",
+        "loomulikult",
+        "vastupidine",
+        "pigem",
+        "siis"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vastupidi",
+      "translations": [
+        "contrariwise",
+        "conversely",
+        "on the contrary",
+        "vice versa"
+      ]
+    }
+  ]
+}

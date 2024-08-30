@@ -1,0 +1,58 @@
+{
+  "requestedWord": "ühiskondlikult",
+  "estonianWord": "ühiskondlikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ühiskondlikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "общественно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sotsiaalselt",
+        "ühiskondlik-majanduslik",
+        "perekondlikult",
+        "mõjukalt",
+        "poliitiliselt",
+        "majanduslikult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ühiskondlikult",
+      "translations": [
+        "socially"
+      ]
+    }
+  ]
+}

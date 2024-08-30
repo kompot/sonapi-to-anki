@@ -1,0 +1,299 @@
+{
+  "requestedWord": "esialgu",
+  "estonianWord": "esialgu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "esialgu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi alguses, siis kui miski on alles peale hakanud,kohe algul, esmalt veel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ka teine poolaeg kulges esialgu igavalt.",
+            "Esialgu tundus kõik lihtne.",
+            "Ruumi jätkus esialgu kõigile.",
+            "Ära sellest esialgu kellelegi räägi!"
+          ],
+          "synonyms": [
+            "esipuhku",
+            "algul,alul",
+            "kõigepealt,enne,esmalt",
+            "esmapilgul",
+            "alguses",
+            "esiotsa,esiti"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "au début",
+                "weight": 1
+              },
+              {
+                "words": "(tout) d'abord",
+                "weight": 1
+              },
+              {
+                "words": "d'abord,au début",
+                "weight": 0.815
+              },
+              {
+                "words": "d'abord",
+                "weight": 0.7928
+              }
+            ],
+            "rus": [
+              {
+                "words": "сначала",
+                "weight": 1
+              },
+              {
+                "words": "вначале",
+                "weight": 1
+              },
+              {
+                "words": "первоначально",
+                "weight": 1
+              },
+              {
+                "words": "в первое время",
+                "weight": 1
+              },
+              {
+                "words": "на первых порах",
+                "weight": 1
+              },
+              {
+                "words": "пока",
+                "weight": 1
+              },
+              {
+                "words": "пока что",
+                "weight": 1
+              },
+              {
+                "words": "сперва",
+                "weight": 1
+              },
+              {
+                "words": "поначалу",
+                "weight": 1
+              },
+              {
+                "words": "вначале,сначала,в первое время,на первых порах,поначалу,в начале",
+                "weight": 0.815
+              },
+              {
+                "words": "прежде всего,в первую очередь,сначала,прежде,сперва",
+                "weight": 0.7928
+              },
+              {
+                "words": "на первый взгляд",
+                "weight": 0.9
+              },
+              {
+                "words": "первое время,на первых порах,в самом начале",
+                "weight": 0.9
+              },
+              {
+                "words": "до поры до времени,на первых порах,в первое время,прежде всего,вначале,сначала,сперва",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "спочатку",
+                "weight": 1
+              },
+              {
+                "words": "на початку",
+                "weight": 1
+              },
+              {
+                "words": "спершу",
+                "weight": 1
+              },
+              {
+                "words": "поки що",
+                "weight": 1
+              },
+              {
+                "words": "поки",
+                "weight": 1
+              },
+              {
+                "words": "спочатку,на початку,спершу",
+                "weight": 0.815
+              },
+              {
+                "words": "насамперед,спочатку,передусім,найперше,перш за все,у першу чергу",
+                "weight": 0.7928
+              }
+            ],
+            "eng": [
+              {
+                "words": "in the beginning",
+                "weight": 0.815
+              },
+              {
+                "words": "first,firstly,first of all",
+                "weight": 0.7928
+              }
+            ]
+          }
+        },
+        {
+          "definition": "alustuseks, mõneks ajaks, nt kuni mingite asjaolude selgumiseni",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Esialgu trükitakse teost vaid 50 eksemplari."
+          ],
+          "synonyms": [
+            "enne,esmalt,kõigepealt",
+            "esimese valuga,esimese hooga,esimese uhaga",
+            "esimese jutiga",
+            "esimesel hoobil",
+            "alguses",
+            "esiotsa,esiti",
+            "algatuseks"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сперва",
+                "weight": 1
+              },
+              {
+                "words": "сначала",
+                "weight": 1
+              },
+              {
+                "words": "вначале",
+                "weight": 1
+              },
+              {
+                "words": "прежде всего,в первую очередь,сначала,прежде,сперва",
+                "weight": 0.7928
+              },
+              {
+                "words": "на первых порах,первое время,в самом начале",
+                "weight": 0.9
+              },
+              {
+                "words": "до поры до времени,на первых порах,сперва,прежде всего,вначале,сначала,в первое время",
+                "weight": 0.9
+              },
+              {
+                "words": "для начала",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "d'abord",
+                "weight": 0.7928
+              }
+            ],
+            "ukr": [
+              {
+                "words": "найперше,у першу чергу,перш за все,спочатку,насамперед,передусім",
+                "weight": 0.7928
+              }
+            ],
+            "eng": [
+              {
+                "words": "first of all,firstly,first",
+                "weight": 0.7928
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "algatuseks",
+        "algul",
+        "esialgselt",
+        "esmalt",
+        "esimese hooga",
+        "esimesel hoobil",
+        "esimese jutiga",
+        "hakul",
+        "esmapilgul",
+        "alguses",
+        "algselt",
+        "esiotsa",
+        "enne",
+        "enne",
+        "esiti",
+        "esiteks",
+        "praegu",
+        "sisuliselt",
+        "minugipärast",
+        "seni",
+        "peamiselt",
+        "sellejaoks",
+        "kuigi",
+        "see",
+        "peagi",
+        "küllaltki",
+        "vaid",
+        "kuid",
+        "aga",
+        "aga",
+        "siiski",
+        "seal",
+        "ilmselt",
+        "tõenäoliselt",
+        "hiljem",
+        "pigem",
+        "isegi",
+        "sealt",
+        "veel",
+        "küll",
+        "küll",
+        "üsna",
+        "enamasti",
+        "tegelikult",
+        "ikkagi",
+        "ainult",
+        "endiselt",
+        "üldiselt",
+        "ent",
+        "nüüd",
+        "siis",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "esialgu",
+      "translations": [
+        "for the time being",
+        "in the beginning",
+        "pro tem"
+      ]
+    }
+  ]
+}

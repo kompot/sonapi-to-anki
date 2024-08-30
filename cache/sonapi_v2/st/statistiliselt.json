@@ -1,0 +1,54 @@
+{
+  "requestedWord": "statistiliselt",
+  "estonianWord": "statistiliselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "statistiliselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "статистически",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "statistiline",
+        "statistika"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "statistiliselt",
+      "translations": [
+        "statistically"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "requestedWord": "seega",
+  "estonianWord": "seega",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "seega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kokkuvõttena, järeldusena hrl eelnevast, sellest tulenevalt,järeldusena eelnevast, sellest tingitud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Seega pole romaan üldse kurb.",
+            "Pilved olid väga madalal, seega polnud mäetippu näha.",
+            "Homme on pühapäev, seega saab kaua magada."
+          ],
+          "synonyms": [
+            "järelikult",
+            "niisiis",
+            "ergo"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "donc",
+                "weight": 1
+              },
+              {
+                "words": "par conséquent",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "следовательно",
+                "weight": 1
+              },
+              {
+                "words": "значит",
+                "weight": 1
+              },
+              {
+                "words": "поэтому",
+                "weight": 1
+              },
+              {
+                "words": "итак",
+                "weight": 1
+              },
+              {
+                "words": "таким образом",
+                "weight": 1
+              },
+              {
+                "words": "вследствие этого",
+                "weight": 1
+              },
+              {
+                "words": "по этой причине",
+                "weight": 1
+              },
+              {
+                "words": "стало быть",
+                "weight": 1
+              },
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "тем самым",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "отже",
+                "weight": 1
+              },
+              {
+                "words": "тому",
+                "weight": 1
+              },
+              {
+                "words": "тож",
+                "weight": 1
+              },
+              {
+                "words": "отож",
+                "weight": 1
+              },
+              {
+                "words": "значить",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "niisiis",
+        "järelikult",
+        "siis",
+        "ergo",
+        "sisuliselt",
+        "ning",
+        "praegu",
+        "kuigi",
+        "see",
+        "kindlasti",
+        "vaid",
+        "kuid",
+        "aga",
+        "aga",
+        "siiski",
+        "ilmselt",
+        "muidugi",
+        "tõenäoliselt",
+        "põhimõtteliselt",
+        "mistõttu",
+        "pigem",
+        "loomulikult",
+        "üldse",
+        "seetõttu",
+        "isegi",
+        "veel",
+        "samuti",
+        "seepärast",
+        "küll",
+        "küll",
+        "üsna",
+        "ikka",
+        "tegelikult",
+        "ikkagi",
+        "päris",
+        "õnneks",
+        "ainult",
+        "sest",
+        "kuna",
+        "kuna",
+        "üldiselt",
+        "ent",
+        "paraku",
+        "alati",
+        "väga",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "seega",
+      "translations": [
+        "because of this",
+        "hence",
+        "herewith",
+        "in consequence",
+        "thus"
+      ]
+    }
+  ]
+}

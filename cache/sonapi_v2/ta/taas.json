@@ -1,0 +1,165 @@
+{
+  "requestedWord": "taas",
+  "estonianWord": "taas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "taas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(teatud aja järel) uut puhku,näitab, et samasugune tegevus või olukord on juba varem toimunud või olnud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Muuseum avab uksed taas aprillis.",
+            "Eesti on taas iseseisev.",
+            "Väljas hakkas taas vihma sadama.",
+            "Millal me taas kohtume?"
+          ],
+          "synonyms": [
+            "jälle",
+            "jällegi",
+            "uuesti",
+            "taaskord,taas kord,taaskordselt",
+            "veelkord,veel kord"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "again",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "de nouveau",
+                "weight": 1
+              },
+              {
+                "words": "encore",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "снова",
+                "weight": 1
+              },
+              {
+                "words": "вновь",
+                "weight": 1
+              },
+              {
+                "words": "заново",
+                "weight": 1
+              },
+              {
+                "words": "опять",
+                "weight": 1
+              },
+              {
+                "words": "снова,в очередной раз,вновь,повторно",
+                "weight": 0.606
+              },
+              {
+                "words": "ещё раз",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "знову",
+                "weight": 1
+              },
+              {
+                "words": "знов",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "seejärel jälle, omakorda",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mustris on sinine triip, punane ja taas sinine."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "опять",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jälle",
+        "remilitariseerima",
+        "uuesti",
+        "taaslooma",
+        "jällegi",
+        "teistkordselt",
+        "järjekordselt",
+        "sedakorda",
+        "täna",
+        "täna",
+        "vaikselt",
+        "esmakordselt",
+        "peagi",
+        "juba",
+        "lõplikult",
+        "siiski",
+        "korraks",
+        "jätkuvalt",
+        "ootamatult",
+        "tasapisi",
+        "tänavu",
+        "sealt",
+        "seekord",
+        "ikka",
+        "vahepeal",
+        "viimaks",
+        "kiiresti",
+        "alles",
+        "lõpuks",
+        "taaskord",
+        "ikkagi",
+        "endiselt",
+        "kohe",
+        "kohe",
+        "varsti",
+        "nüüd",
+        "järjest"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "taas",
+      "translations": []
+    }
+  ]
+}

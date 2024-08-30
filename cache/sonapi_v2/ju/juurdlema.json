@@ -1,0 +1,551 @@
+{
+  "requestedWord": "juurdlema",
+  "estonianWord": "juurdlema",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "30",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "juurdlema"
+        },
+        {
+          "inflectionType": "30",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "juurdlemata"
+        },
+        {
+          "inflectionType": "30",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "juurdlemas"
+        },
+        {
+          "inflectionType": "30",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "juurdlemast"
+        },
+        {
+          "inflectionType": "30",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "juurdlemaks"
+        },
+        {
+          "inflectionType": "30",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "juureldama"
+        },
+        {
+          "inflectionType": "30",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "juurelda"
+        },
+        {
+          "inflectionType": "30",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "juureldes"
+        },
+        {
+          "inflectionType": "30",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "juurdlev"
+        },
+        {
+          "inflectionType": "30",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "juureldav"
+        },
+        {
+          "inflectionType": "30",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "juurelnud"
+        },
+        {
+          "inflectionType": "30",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "juurelnud"
+        },
+        {
+          "inflectionType": "30",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "juureldud"
+        },
+        {
+          "inflectionType": "30",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "juureldud"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "juurdlen"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "juurdled"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "juurdleb"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "juurdleme"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "juurdlete"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "juurdlevad"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "juurdle"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "juureldakse"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "juurelda"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "juurdlesin"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "juurdlesid"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "juurdles"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "juurdlesime"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "juurdlesite"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "juurdlesid"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "juureldi"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "juurdleksin"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "juurdleksid"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "juurdleks"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "juurdleksime"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "juurdleksite"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "juurdleksid"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "juureldaks"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "juurelnuksin"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "juurelnuksid"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "juurelnuks"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "juurelnuksime"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "juurelnuksite"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "juurelnuksid"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "juurelduks"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "juurdlevat"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "juureldavat"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "juurelnuvat"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "juurelduvat"
+        },
+        {
+          "inflectionType": "30",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "juurdle"
+        },
+        {
+          "inflectionType": "30",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "juurelgem"
+        },
+        {
+          "inflectionType": "30",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "juurelge"
+        },
+        {
+          "inflectionType": "30",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "juurelgu"
+        },
+        {
+          "inflectionType": "30",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "juureldagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "põhjalikult, asja sisusse tungides millegi üle pikalt mõtlema, mingeid asjaolusid sügavalt kaaluma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Uurija juurdles pildi kallal, mis tal oli sündmusest kujunenud.",
+            "Oli momente, kus Tereese oma praeguse elu üle juurdles."
+          ],
+          "synonyms": [
+            "arutelema,arutlema",
+            "kaaluma",
+            "mõtiskelema,mõtisklema",
+            "mõtlema,ajusid liigutama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "обдумывать",
+                "weight": 1
+              },
+              {
+                "words": "обдумать",
+                "weight": 1
+              },
+              {
+                "words": "раздумывать",
+                "weight": 1
+              },
+              {
+                "words": "продумывать",
+                "weight": 1
+              },
+              {
+                "words": "продумать",
+                "weight": 1
+              },
+              {
+                "words": "размышлять",
+                "weight": 1
+              },
+              {
+                "words": "размыслить",
+                "weight": 1
+              },
+              {
+                "words": "тщательно взвешивать",
+                "weight": 1
+              },
+              {
+                "words": "тщательно взвесить",
+                "weight": 1
+              },
+              {
+                "words": "поразмышлять",
+                "weight": 1
+              },
+              {
+                "words": "поразмыслить",
+                "weight": 1
+              },
+              {
+                "words": "ломать себе голову",
+                "weight": 1
+              },
+              {
+                "words": "рассуждать,обсудить,обсуждать",
+                "weight": 0.655
+              },
+              {
+                "words": "взвесить,взвешивать",
+                "weight": 0.509
+              },
+              {
+                "words": "раздуматься,размышлять,поразмыслить,раздумывать,пораздумать,призадумываться,призадуматься",
+                "weight": 0.805
+              },
+              {
+                "words": "обдумать,обдумывать,продумать,продумывать,подумать,думать,шевелить мозгами,пошевелить мозгами",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "обговорити,обміркувати,обмірковувати,обговорювати",
+                "weight": 0.655
+              },
+              {
+                "words": "зважити,зважувати",
+                "weight": 0.509
+              },
+              {
+                "words": "думати,обмірковувати,обміркувати,обдумати,обдумувати,погадати,гадати,подумати",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "soupeser,peser,réfléchir",
+                "weight": 0.509
+              },
+              {
+                "words": "réfléchir,penser",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "think",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kohtus juurdlust toimetama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Seadus lubab juurelda kuu aega."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "производить дознание",
+                "weight": 1
+              },
+              {
+                "words": "произвести дознание",
+                "weight": 1
+              },
+              {
+                "words": "вести дознание",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pead murdma",
+        "ajusid liigutama",
+        "mõlgutama",
+        "mõtisklema",
+        "mediteerima",
+        "mõtlema",
+        "kukalt sügama",
+        "nuputama",
+        "kukalt kratsima",
+        "pead vaevama",
+        "ajusid ragistama",
+        "meelisklema",
+        "arutlema",
+        "perutama",
+        "asjatama",
+        "igavlema",
+        "üldistama",
+        "kemplema",
+        "kaeblema",
+        "heietama",
+        "kobrutama",
+        "pööritama",
+        "jagelema",
+        "siplema",
+        "kaalutlema",
+        "hämmastama",
+        "näägutama",
+        "logelema",
+        "kohutama",
+        "pabistama",
+        "ohkama",
+        "tänitama",
+        "targutama",
+        "kõhklema",
+        "vaidlema",
+        "pirtsutama",
+        "imestama",
+        "diskuteerima",
+        "muhelema",
+        "ärgitama",
+        "ragistama",
+        "unelema",
+        "kibelema",
+        "talitama",
+        "tukslema",
+        "riidlema",
+        "solkima",
+        "amelema",
+        "eritlema",
+        "tähtsustama",
+        "mõistatama",
+        "lonkima"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "juurdlema",
+      "translations": [
+        "bethink",
+        "brood",
+        "brood over",
+        "cerebrate",
+        "cogitate",
+        "mull",
+        "ponder",
+        "ponder over (millegi üle)",
+        "reason"
+      ]
+    }
+  ]
+}

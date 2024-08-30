@@ -1,0 +1,294 @@
+{
+  "requestedWord": "lokk",
+  "estonianWord": "lokk",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "lokk"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "loki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "lokki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "lokki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "lokisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "lokis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "lokist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "lokile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "lokil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "lokilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "lokiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "lokini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "lokina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "lokita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "lokiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "lokid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "lokkide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "lokke,lokkisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "lokkidesse,lokesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "lokkides,lokes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "lokkidest,lokest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "lokkidele,lokele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "lokkidel,lokel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "lokkidelt,lokelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "lokkideks,lokeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "lokkideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "lokkidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "lokkideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "lokkidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ruljalt kõver või keerdus juuksesalk",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tüdruk jooksis lokkide lehvides kodu poole."
+          ],
+          "synonyms": [
+            "juukselokk"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "локон",
+                "weight": 1
+              },
+              {
+                "words": "кудри",
+                "weight": 1
+              },
+              {
+                "words": "завиток",
+                "weight": 1
+              },
+              {
+                "words": "кудряшка",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(juukse)karvade käharus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Loomuliku lokiga juuksed."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "кучерявость",
+                "weight": 1
+              },
+              {
+                "words": "курчавость",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kihar",
+        "säbrik",
+        "kräsu",
+        "lokud",
+        "lokulaud",
+        "säbar",
+        "kruss",
+        "kola",
+        "kola",
+        "säbru",
+        "lokupill",
+        "kähar",
+        "juuksepahmakas",
+        "juuksegeel",
+        "juuksehari",
+        "nahkrihm",
+        "juuksemood",
+        "lokki",
+        "juuksenõel",
+        "lokkis",
+        "nahkne",
+        "säbruline",
+        "liimvärv",
+        "lateksvärv",
+        "juuksevärv",
+        "lakkvärv",
+        "lokirull",
+        "huulevärv",
+        "föönisoeng",
+        "juuksepael",
+        "lokkispäine"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lokk",
+      "translations": [
+        "crimp",
+        "curl",
+        "tress"
+      ]
+    }
+  ]
+}

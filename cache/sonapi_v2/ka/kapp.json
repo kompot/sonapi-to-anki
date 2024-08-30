@@ -1,0 +1,911 @@
+{
+  "requestedWord": "kapp",
+  "estonianWord": "kapp",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kapp"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kapi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kappi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "kappi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kapisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kapis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kapist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kapile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kapil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kapilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kapiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kapini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kapina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kapita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kapiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kapid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kappide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kappe,kappisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kappidesse,kapesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kappides,kapes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kappidest,kapest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kappidele,kapele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kappidel,kapel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kappidelt,kapelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kappideks,kapeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kappideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kappidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kappideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kappidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "uksega või ustega suletav mööbliese asjade hoidmiseks,mööbliese, mille sees saab asju hoida ja mida saab ukse või ustega sulgeda",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tammepuust kapp.",
+            "Toidukapp.",
+            "Panin riided kappi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "cupboard",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "armoire",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "шкаф",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "шафа",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(muude selletaoliste esemete või esemeosade kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kapiga seinakell."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "suur turske (ka robustne, jõhker) mees",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Võlgnikule ähvardati mingid kapid kaela saata."
+          ],
+          "synonyms": [
+            "jõmm",
+            "jõmakas",
+            "mehejõmakas,mehejurakas",
+            "jõmmkärakas",
+            "jõujuurikas",
+            "kantpea,kant",
+            "lihamägi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "шкаф",
+                "weight": 1
+              },
+              {
+                "words": "амбал,мордоворот",
+                "weight": 0.9
+              },
+              {
+                "words": "громада,махина,громадина",
+                "weight": 0.9
+              },
+              {
+                "words": "туша,здоровила,здоровый детина,толстяк,тумба,здоровенный мужик,мужичище,толстущий мужик,здоровяк",
+                "weight": 0.9
+              },
+              {
+                "words": "толстяк,туша",
+                "weight": 0.9
+              },
+              {
+                "words": "силач",
+                "weight": 0.9
+              },
+              {
+                "words": "бандюк",
+                "weight": 0.9
+              },
+              {
+                "words": "туша,мясистое животное,мясистый человек",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "voodikapp",
+        "toidukapp",
+        "termokapp",
+        "teraskapp",
+        "telefonikapp",
+        "söögikapp",
+        "sügavkülmkapp",
+        "sektsioonkapp",
+        "saunakapp",
+        "relvakapp",
+        "püssikapp",
+        "pühasekapp",
+        "puukapp",
+        "postikapp",
+        "pesukapp",
+        "orelikapp",
+        "nõudekapp",
+        "mürgikapp",
+        "külmutuskapp",
+        "kušetikapp",
+        "kuivatuskapp",
+        "klaaskapp",
+        "kirjutuskapp",
+        "kellakapp",
+        "kataloogikapp",
+        "kassakapp",
+        "kartoteegikapp",
+        "kantseleikapp",
+        "jääkapp",
+        "jahutuskapp",
+        "ikoonikapp",
+        "esmaabikapp",
+        "baarikapp",
+        "apteegikapp",
+        "jurakas",
+        "juurikas",
+        "jõmmkärakas",
+        "tümikas",
+        "tünn",
+        "jõmakas",
+        "mehejõmakas",
+        "kantpea",
+        "jõujuurikas",
+        "lihamägi",
+        "jõmm",
+        "seinakapp",
+        "sahtlikapp",
+        "öökapp",
+        "nurgakapp",
+        "ahjukapp",
+        "mööbliese",
+        "riidekapp",
+        "puhvetkapp",
+        "köögikapp",
+        "külmkapp",
+        "kummut",
+        "riiul",
+        "seinariiul",
+        "jahekapp",
+        "võtmekapp",
+        "raamatukapp",
+        "kibu",
+        "praagamagu",
+        "rasvatrull",
+        "rasvatünn",
+        "jumikas",
+        "rasvamagu",
+        "rasvarull",
+        "rabamagu",
+        "paksmagu"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kapp"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kapi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kappi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "kappi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kapisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kapis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kapist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kapile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kapil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kapilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kapiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kapini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kapina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kapita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kapiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kapid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kappide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kappe,kappisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kappidesse,kapesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kappides,kapes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kappidest,kapest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kappidele,kapele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kappidel,kapel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kappidelt,kapelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kappideks,kapeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kappideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kappidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kappideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kappidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kanda ümbritsev (pealsenaha ja voodri vaheline) tugevam osa jalatsil",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kingakapp."
+          ],
+          "synonyms": [
+            "kannakapp"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "задник",
+                "weight": 1
+              },
+              {
+                "words": "задок",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jurakas",
+        "paksmagu",
+        "rasvarull",
+        "kibu",
+        "rabamagu",
+        "rasvamagu",
+        "juurikas",
+        "jõmmkärakas",
+        "jumikas",
+        "tümikas",
+        "tünn",
+        "jõmakas",
+        "rasvatrull",
+        "rasvatünn",
+        "mehejõmakas",
+        "praagamagu",
+        "kantpea",
+        "jõujuurikas",
+        "lihamägi",
+        "jõmm",
+        "seinakapp",
+        "sahtlikapp",
+        "öökapp",
+        "nurgakapp",
+        "ahjukapp",
+        "mööbliese",
+        "riidekapp",
+        "puhvetkapp",
+        "köögikapp",
+        "külmkapp",
+        "kummut",
+        "riiul",
+        "seinariiul",
+        "jahekapp",
+        "võtmekapp",
+        "raamatukapp"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22u",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kapp"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kapa"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kappa"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "kappa"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kapasse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kapas"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kapast"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kapale"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kapal"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kapalt"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kapaks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kapani"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kapana"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kapata"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kapaga"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kapad"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kappade"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kappu,kappasid"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kappadesse,kapusse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kappades,kapus"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kappadest,kapust"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kappadele,kapule"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kappadel,kapul"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kappadelt,kapult"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kappadeks,kapuks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kappadeni"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kappadena"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kappadeta"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kappadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ümara põhjaga pealt laienev 3–5-toobine puunõu, millel üks pikem küljelaud on käepidemeks",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mees viskas kapast kerisele vett."
+          ],
+          "synonyms": [
+            "kibu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "жбан",
+                "weight": 1
+              },
+              {
+                "words": "шайка",
+                "weight": 1
+              },
+              {
+                "words": "деревянный жбан,жбан,шайка",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kapatäis",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tellis kõrtsmikult suure kapa õlut."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "endisaegne mahumõõt, umbes 3 liitrit",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "kibu",
+        "tünn",
+        "jurakas",
+        "paksmagu",
+        "rasvarull",
+        "rabamagu",
+        "rasvamagu",
+        "juurikas",
+        "jõmmkärakas",
+        "jumikas",
+        "tümikas",
+        "jõmakas",
+        "rasvatrull",
+        "rasvatünn",
+        "mehejõmakas",
+        "praagamagu",
+        "kantpea",
+        "jõujuurikas",
+        "lihamägi",
+        "jõmm",
+        "seinakapp",
+        "sahtlikapp",
+        "öökapp",
+        "nurgakapp",
+        "ahjukapp",
+        "mööbliese",
+        "riidekapp",
+        "puhvetkapp",
+        "köögikapp",
+        "külmkapp",
+        "kummut",
+        "riiul",
+        "seinariiul",
+        "jahekapp",
+        "võtmekapp",
+        "raamatukapp"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kapp",
+      "translations": [
+        "case",
+        "(sl",
+        "solvav) meatball"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "requestedWord": "teadagi",
+  "estonianWord": "teadagi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "teadagi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(rõhutav üldlaiend:) iseenesest mõista, nagu (kõigile) teada,nii, nagu võibki arvata, kindlasti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "See oli mulle ilmselge ja teadagi ka Lillile.",
+            "Kohtuveskid jahvatavad teadagi aeglaselt."
+          ],
+          "synonyms": [
+            "arusaadavalt",
+            "loomulikult",
+            "muidugi",
+            "muidugi mõista",
+            "muidugimõista",
+            "muidugist",
+            "mõistagi",
+            "otse loomulikult",
+            "ausalt,ausõna,tõega,tõejutt,tõepoolest,tõesti,tõesõna,tõsi,tõsijutt,tõsilugu,õigus"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "naturellement",
+                "weight": 1
+              },
+              {
+                "words": "évidemment",
+                "weight": 1
+              },
+              {
+                "words": "vraiment",
+                "weight": 0.547
+              }
+            ],
+            "rus": [
+              {
+                "words": "несомненно",
+                "weight": 1
+              },
+              {
+                "words": "безусловно",
+                "weight": 1
+              },
+              {
+                "words": "конечно",
+                "weight": 1
+              },
+              {
+                "words": "известно",
+                "weight": 1
+              },
+              {
+                "words": "понятно",
+                "weight": 1
+              },
+              {
+                "words": "понятное дело",
+                "weight": 1
+              },
+              {
+                "words": "разумеется",
+                "weight": 1
+              },
+              {
+                "words": "естественно",
+                "weight": 1
+              },
+              {
+                "words": "известное дело",
+                "weight": 1
+              },
+              {
+                "words": "само собой",
+                "weight": 1
+              },
+              {
+                "words": "как известно",
+                "weight": 1
+              },
+              {
+                "words": "ясен перец",
+                "weight": 1
+              },
+              {
+                "words": "ясен пень",
+                "weight": 1
+              },
+              {
+                "words": "честное слово,в самом деле,действительно,серьёзно,впрямь,поистине,на самом деле,подлинно,всерьёз,вправду,воистину,право,право слово,правда",
+                "weight": 0.547
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зрозуміло",
+                "weight": 1
+              },
+              {
+                "words": "звичайно",
+                "weight": 1
+              },
+              {
+                "words": "певна річ",
+                "weight": 1
+              },
+              {
+                "words": "звісно",
+                "weight": 1
+              },
+              {
+                "words": "справді,насправді,в дійсності,дійсно",
+                "weight": 0.547
+              }
+            ]
+          }
+        },
+        {
+          "definition": "selge ju, teada ju",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Teadagi, miks ta nii tegi.",
+            "Teadagi, mis sellisele näitemängule kõik järgneb.",
+            "Kiirdieetide proovimine viib teadagi milleni.",
+            "Need rahad on teadagi kelle kontrolli all."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "известно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mõistagi",
+        "teadaolevalt",
+        "teadupärast",
+        "muidugi mõista",
+        "iseenesestki mõista",
+        "arusaadavalt",
+        "endastmõistetavalt",
+        "muidugi",
+        "iseenesestmõistetavalt",
+        "enesestki mõista",
+        "loomulikult",
+        "teadupoolest",
+        "teatavasti",
+        "päris",
+        "ikka",
+        "küll",
+        "küll",
+        "niiväga",
+        "tõesti",
+        "vist",
+        "vist",
+        "õhkagi",
+        "tõtt-öelda",
+        "üldse",
+        "aga",
+        "aga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "teadagi",
+      "translations": [
+        "to wit"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "requestedWord": "kõrgele",
+  "estonianWord": "kõrgele",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kõrgele"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "maapinnast tublisti ülespoole,maapinnast kaugele, ülespoole",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ronis kõrgele puu otsa.",
+            "Kass ronis kõrgele puu otsa.",
+            "Poiss viskas palli kõrgele õhku."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "haut",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "высоко",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "високо",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "seisundilt, tasemelt tavalisest (tublisti) suuremaks, eespoole või ülalpoole",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõrgele kruvitud ootused.",
+            "Kõrgele arenenud kohusetunne."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "высоко",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "koguselt, hulgalt suuremaks, rohkemaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pulss kerkis kõrgele."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "высоко",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kõrgel",
+        "kõrge",
+        "ühekaugele",
+        "madalale",
+        "madalamale",
+        "kaugele",
+        "kõrgemale",
+        "kõrgeimale"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kõrgele",
+      "translations": [
+        "high"
+      ]
+    }
+  ]
+}

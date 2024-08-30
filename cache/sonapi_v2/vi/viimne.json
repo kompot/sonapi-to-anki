@@ -1,0 +1,469 @@
+{
+  "requestedWord": "viimne",
+  "estonianWord": "viimne",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "viimne"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "viimse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "viimset"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "viimsesse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "viimses"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "viimsest"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "viimsele"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "viimsel"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "viimselt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "viimseks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "viimseni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "viimsena"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "viimseta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "viimsega"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "viimsed"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "viimsete"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "viimseid"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "viimsetesse,viimseisse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "viimsetes,viimseis"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "viimsetest,viimseist"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "viimsetele,viimseile"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "viimsetel,viimseil"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "viimsetelt,viimseilt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "viimseteks,viimseiks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "viimseteni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "viimsetena"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "viimseteta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "viimsetega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ajaliselt kõige viimane",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Ootasime neid lennujaamas viimse hetkeni."
+          ],
+          "synonyms": [
+            "viimane",
+            "tagumine"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "последний",
+                "weight": 1
+              },
+              {
+                "words": "последний",
+                "weight": 0.8095
+              },
+              {
+                "words": "задний,тыльный",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "dernier",
+                "weight": 0.8095
+              }
+            ],
+            "ukr": [
+              {
+                "words": "останній",
+                "weight": 0.8095
+              },
+              {
+                "words": "задній",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ühenduses elu lõpu, surma, matuste või matmispaigaga)",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Käes on ta viimsed elupäevad.",
+            "See oli vanaema viimne soov.",
+            "Viimne puhkepaik.",
+            "Siin puhkab viimset und mu onu."
+          ],
+          "synonyms": [
+            "viimane"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "последний",
+                "weight": 1
+              },
+              {
+                "words": "предсмертный",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "selline, mis millestki vähenevast, lõppevast, kaduvast veel järel on,selline, mis millestki lõppevast veel järel on",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Vanainimene kaotas oma viimsed rahasäästud.",
+            "Viimsedki tainaribad said koku rullitud.",
+            "Nii kadus viimnegi lootus."
+          ],
+          "synonyms": [
+            "viimane"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "dernier",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "последний",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "останній",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "midagi rõhutavalt, tugevdavalt: astmelt, intensiivsuselt äärmine, suurim võimalik, ülim",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Olin viidud viimse piirini."
+          ],
+          "synonyms": [
+            "viimane",
+            "kõige suurem,suurim",
+            "äärmine",
+            "ülim",
+            "max,maksimaalne",
+            "suur"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "последний",
+                "weight": 1
+              },
+              {
+                "words": "крайний",
+                "weight": 1
+              },
+              {
+                "words": "предельный",
+                "weight": 1
+              },
+              {
+                "words": "самый большой,наибольший",
+                "weight": 0.7
+              },
+              {
+                "words": "чрезвычайный,экстремальный,крайний,редкостный,предельный,исключительный",
+                "weight": 0.9
+              },
+              {
+                "words": "крайний,последний,максимальный,предельный,непревзойдённый,исключительный",
+                "weight": 0.9
+              },
+              {
+                "words": "макс.,наибольший,максимальный,предельный",
+                "weight": 0.9
+              },
+              {
+                "words": "большой",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "le plus grand",
+                "weight": 0.7
+              },
+              {
+                "words": "grand",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "найбільший",
+                "weight": 0.7
+              },
+              {
+                "words": "великий",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb ühendites, mis rõhutavad, et hõlmatud on kogu tervik või absoluutselt kõik, kõik ilma erandita",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Viimne kui üks auto peeti kinni.",
+            "Võideldi viimse meheni."
+          ],
+          "synonyms": [
+            "viimane",
+            "lõpuni",
+            "viimseni",
+            "terveni,täieliselt,üleni,absoluutselt,läbini,läbinisti,täienisti,päriselt,täielikult,täiesti,tervenisti,totaalselt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "последний",
+                "weight": 1
+              },
+              {
+                "words": "до предела,полностью,до конца",
+                "weight": 0.7
+              },
+              {
+                "words": "целиком и полностью,совсем,совершенно,абсолютно,сполна,полностью,целиком,всецело,сплошь,в полной мере,насквозь,тотально,вконец,всеобъемлюще,окончательно",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "entièrement",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "повністю,цілком,абсолютно,цілковито,зовсім,геть",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lõplik",
+        "viimane",
+        "vihuviimane",
+        "ülim",
+        "äärmine",
+        "surmigav",
+        "tagumine",
+        "surmlik",
+        "päramine",
+        "maksimaalne",
+        "surmaeelne",
+        "kohutavaim",
+        "ainus",
+        "täieline",
+        "viimnepäev",
+        "auline",
+        "toimne",
+        "õudseim",
+        "vihtuimne",
+        "lõppematu",
+        "intiimne",
+        "pühalik",
+        "tõeline",
+        "legitiimne",
+        "teine",
+        "esimene",
+        "paheline",
+        "saatuslik",
+        "kohtupäev",
+        "jõudne",
+        "ilmseim",
+        "illegitiimne"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "viimne",
+      "translations": []
+    }
+  ]
+}

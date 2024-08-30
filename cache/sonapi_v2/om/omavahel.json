@@ -1,0 +1,171 @@
+{
+  "requestedWord": "omavahel",
+  "estonianWord": "omavahel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "omavahel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vastastikku üksteisega või teineteisega,üksteisega või teineteisega",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Suguselts peab ikka omavahel suhtlema.",
+            "Me pole omavahel tuttavad.",
+            "Kass ja koer saavad omavahel hästi läbi.",
+            "Lapsed jagasid kommid omavahel ära."
+          ],
+          "synonyms": [
+            "isekeskis",
+            "omakeskis"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "между собой",
+                "weight": 1
+              },
+              {
+                "words": "между собою",
+                "weight": 1
+              },
+              {
+                "words": "друг с другом",
+                "weight": 1
+              },
+              {
+                "words": "друг с дружкой",
+                "weight": 1
+              },
+              {
+                "words": "промеж себя",
+                "weight": 1
+              },
+              {
+                "words": "промеж собой",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "проміж себе",
+                "weight": 1
+              },
+              {
+                "words": "один з одним",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegagi omaette, olukorras, kus kõrvalisi isikuid või teisi juures pole,kellegagi omaette, ilma et teised juures oleks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kui on leitud usaldusväärne lapsehoidja, on vanematel võimalus veidi puhata ka täiesti omavahel olles.",
+            "Noored tahavad omavahel olla.",
+            "Ma lähen ära, kui te omavahel rääkida tahate."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "одни",
+                "weight": 1
+              },
+              {
+                "words": "наедине",
+                "weight": 1
+              },
+              {
+                "words": "без посторонних",
+                "weight": 1
+              },
+              {
+                "words": "между нами",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "сам на сам",
+                "weight": 1
+              },
+              {
+                "words": "віч-на-віч",
+                "weight": 1
+              },
+              {
+                "words": "наодинці",
+                "weight": 1
+              },
+              {
+                "words": "між нами",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "omakeskis",
+        "rinda pistma",
+        "heitlema",
+        "sõdima",
+        "võitlema",
+        "isekeskis",
+        "nelja silma all",
+        "silmast silma",
+        "taplema",
+        "kahekesi",
+        "läbi rääkima",
+        "arutama",
+        "nõu pidama",
+        "vahel",
+        "kokku",
+        "omavahele",
+        "külgepidi",
+        "vaenujalal",
+        "vahedalt",
+        "tihedalt",
+        "üksteise",
+        "vastastikku",
+        "omavaheline"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "omavahel",
+      "translations": [
+        "among us",
+        "between",
+        "between ourselves",
+        "between us (öeldes)",
+        "in between",
+        "sub rosa"
+      ]
+    }
+  ]
+}

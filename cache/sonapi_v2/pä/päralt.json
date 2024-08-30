@@ -1,0 +1,89 @@
+{
+  "requestedWord": "päralt",
+  "estonianWord": "päralt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "päralt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi jaoks või kasutada,kellegi oma, kellelegi kuuluv",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Palun, kõnepult on teie päralt!",
+            "Nädalavahetused on pere päralt.",
+            "Julgete päralt on maailm."
+          ],
+          "synonyms": [
+            "valduses"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "во владении",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "en possession de",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "під володінням,у власності",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pool",
+        "pool",
+        "käes",
+        "jaoks",
+        "valduses",
+        "rõõmuküllane",
+        "ees",
+        "kõrval",
+        "kõrval",
+        "pärale",
+        "tulevik",
+        "varakamber",
+        "pära",
+        "päraldis",
+        "kõrvaltuba",
+        "hoov",
+        "tagaiste",
+        "tagahoov",
+        "käeulatuses",
+        "pärapõrgu",
+        "päral"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "päralt",
+      "translations": []
+    }
+  ]
+}

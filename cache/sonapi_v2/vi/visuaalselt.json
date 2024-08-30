@@ -1,0 +1,65 @@
+{
+  "requestedWord": "visuaalselt",
+  "estonianWord": "visuaalselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "visuaalselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "визуально",
+                "weight": 1
+              },
+              {
+                "words": "зрительно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "teatraalselt",
+        "visuaalsus",
+        "visuaal",
+        "efektselt",
+        "esteetiliselt",
+        "visuaalne",
+        "kunstiliselt",
+        "tehniliselt",
+        "sensuaalselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "visuaalselt",
+      "translations": [
+        "visually"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,694 @@
+{
+  "requestedWord": "valmistama",
+  "estonianWord": "valmistama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "valmistama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "valmistamata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "valmistamas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "valmistamast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "valmistamaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "valmistatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "valmistada"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "valmistades"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "valmistav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "valmistatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "valmistanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "valmistanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "valmistatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "valmistatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "valmistan"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "valmistad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "valmistab"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "valmistame"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "valmistate"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "valmistavad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "valmista"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "valmistatakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "valmistata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "valmistasin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "valmistasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "valmistas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "valmistasime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "valmistasite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "valmistasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "valmistati"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "valmistaksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "valmistaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "valmistaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "valmistaksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "valmistaksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "valmistaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "valmistataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "valmistanuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "valmistanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "valmistanuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "valmistanuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "valmistanuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "valmistanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "valmistatuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "valmistavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "valmistatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "valmistanuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "valmistatuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "valmista"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "valmistagem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "valmistage"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "valmistagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "valmistatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(peamiselt esemete, toodete, toidu kohta:) (valmis) tegema,(valmis) tegema, eriti toote või söögi kohta",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Firma valmistab lippe ja vimpleid.",
+            "Õpilased valmistasid lasteaedadele linnumaju.",
+            "Taimetoitlastele valmistatakse eraldi road.",
+            "Sõrmus oli valmistatud hõbedast.",
+            "Ta valmistab köögis õhtusööki."
+          ],
+          "synonyms": [
+            "tegema",
+            "meisterdama",
+            "produtseerima",
+            "sepitsema",
+            "meisterdama",
+            "tootma",
+            "looma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "производить",
+                "weight": 1
+              },
+              {
+                "words": "произвести",
+                "weight": 1
+              },
+              {
+                "words": "изготавливать",
+                "weight": 1
+              },
+              {
+                "words": "изготовлять",
+                "weight": 1
+              },
+              {
+                "words": "изготовить",
+                "weight": 1
+              },
+              {
+                "words": "делать",
+                "weight": 1
+              },
+              {
+                "words": "сделать",
+                "weight": 1
+              },
+              {
+                "words": "готовить",
+                "weight": 1
+              },
+              {
+                "words": "приготавливать",
+                "weight": 1
+              },
+              {
+                "words": "приготовлять",
+                "weight": 1
+              },
+              {
+                "words": "приготовить",
+                "weight": 1
+              },
+              {
+                "words": "сготовить",
+                "weight": 1
+              },
+              {
+                "words": "изготовлять,изготовить,выработать,вырабатывать,сделать,произвести,создать,создавать,производить,делать",
+                "weight": 0.9
+              },
+              {
+                "words": "сладить,сделать ручным способом,изготовить ручным способом,ладить,мастерить,смастерить,делать ручным способом,изготовлять ручным способом,слаживать",
+                "weight": 0.9
+              },
+              {
+                "words": "мастерить,изготовлять ручным способом,делать ручным способом,изготовить ручным способом,сделать ручным способом,смастерить",
+                "weight": 0.9
+              },
+              {
+                "words": "производить,вырабатывать,произвести,выпускать,выпустить,выработать,изготовить,производиться,изготовлять",
+                "weight": 0.812
+              },
+              {
+                "words": "созидать,образовать,образовывать,сформировать,формировать,создать,создавать,основать,основывать",
+                "weight": 0.85
+              }
+            ],
+            "ukr": [
+              {
+                "words": "виробляти",
+                "weight": 1
+              },
+              {
+                "words": "виробити",
+                "weight": 1
+              },
+              {
+                "words": "виготовляти",
+                "weight": 1
+              },
+              {
+                "words": "виготовити",
+                "weight": 1
+              },
+              {
+                "words": "робити",
+                "weight": 1
+              },
+              {
+                "words": "зробити",
+                "weight": 1
+              },
+              {
+                "words": "готувати",
+                "weight": 1
+              },
+              {
+                "words": "приготувати",
+                "weight": 1
+              },
+              {
+                "words": "виготовити,виготовляти,зробити,робити",
+                "weight": 0.9
+              },
+              {
+                "words": "виготовити,виробляти,виробити,випускати,випустити,виготовляти",
+                "weight": 0.812
+              },
+              {
+                "words": "творити,створити,створювати",
+                "weight": 0.85
+              }
+            ],
+            "fra": [
+              {
+                "words": "faire",
+                "weight": 0.9
+              },
+              {
+                "words": "produire",
+                "weight": 0.812
+              },
+              {
+                "words": "créer",
+                "weight": 0.85
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hrl mingit tunnet esile kutsuma, põhjustama, tekitama,(tunnet) tekitama, esile kutsuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Tulemus valmistas pettumuse.",
+            "Kõige rohkem valmistab Mikule peavalu matemaatika."
+          ],
+          "synonyms": [
+            "sigitama,sünnitama,tekitama,põhjustama",
+            "esile kutsuma",
+            "kaasa tooma",
+            "välja kutsuma,vallandama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "доставлять",
+                "weight": 1
+              },
+              {
+                "words": "доставить",
+                "weight": 1
+              },
+              {
+                "words": "причинять",
+                "weight": 1
+              },
+              {
+                "words": "причинить",
+                "weight": 1
+              },
+              {
+                "words": "возбуждать,создавать,творить,служить поводом,порождать,вызывать,вызвать,служить причиной,обуславливать,обусловить,зарождать,зародить,породить,влечь за собой,обусловливать,причинять,причинить,являться причиной,явиться причиной,повлечь за собой,рождать",
+                "weight": 0.85
+              },
+              {
+                "words": "вызывать,вызвать,возбуждать,возбудить,порождать,породить",
+                "weight": 0.85
+              },
+              {
+                "words": "вызвать,вызывать,повлечь за собой",
+                "weight": 0.9
+              },
+              {
+                "words": "вызывать,вызвать,возбуждать,возбудить,порождать,породить",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "завдавати",
+                "weight": 1
+              },
+              {
+                "words": "завдати",
+                "weight": 1
+              },
+              {
+                "words": "спричиняти,спричинити,викликати,викликати,створювати,створити,призводити,призвести,завдавати,завдати",
+                "weight": 0.85
+              },
+              {
+                "words": "спричиняти,спричинити,породжувати,породити,викликати,викликати",
+                "weight": 0.85
+              },
+              {
+                "words": "викликати,спричиняти,спричинити,призводити,призвести,викликати",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "causer,provoquer",
+                "weight": 0.85
+              },
+              {
+                "words": "provoquer,déclencher",
+                "weight": 0.85
+              },
+              {
+                "words": "entraîner,causer",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "põhjustama",
+        "vallandama",
+        "ajendama",
+        "soperdama",
+        "rohmima",
+        "kasvatama",
+        "summima",
+        "pätserdama",
+        "plätsima",
+        "rohmama",
+        "lopsima",
+        "kokku klopsima",
+        "sitta kokku keerama",
+        "tekitama",
+        "tingima",
+        "vorpima",
+        "mätserdama",
+        "tootma",
+        "lööma",
+        "meisterdama",
+        "nabistama",
+        "kaasa tooma",
+        "mätsima",
+        "nokitsema",
+        "esile kutsuma",
+        "produtseerima",
+        "pätsima",
+        "looma",
+        "plätserdama",
+        "tegema",
+        "välja kutsuma",
+        "treima",
+        "posserdama",
+        "kokku kopsima",
+        "andma",
+        "plötsima",
+        "vusserdama",
+        "pötserdama",
+        "sepitsema",
+        "kokku käkerdama",
+        "fabritseerima",
+        "välja laskma",
+        "uimerdama",
+        "sünnitama",
+        "sigitama",
+        "determineerima",
+        "plötserdama",
+        "viimistlema",
+        "üles ehitama",
+        "sooritama",
+        "rajama",
+        "organiseerima",
+        "püstitama",
+        "korraldama",
+        "ehitama",
+        "moodustama",
+        "kokku seadma",
+        "koostama",
+        "töötlema",
+        "keetma",
+        "asutama",
+        "rõõmustama",
+        "nikerdama",
+        "serveerima",
+        "küpsetama",
+        "valmistuma",
+        "sepistama",
+        "plaksima",
+        "nabima",
+        "vaime välja kutsuma",
+        "mäkerdama",
+        "sumama",
+        "uhtma",
+        "vussima",
+        "larpima",
+        "tuliseid süsi pea peale koguma",
+        "meelepaha",
+        "mätsutama",
+        "lahmima",
+        "talitama",
+        "kurvastama",
+        "töötama",
+        "toimima",
+        "toimetama",
+        "karastama",
+        "leiutama",
+        "turustama",
+        "õlitama",
+        "saluteerima",
+        "kaunistama",
+        "kavandama",
+        "degusteerima",
+        "teadustama",
+        "innustama",
+        "kodustama",
+        "kujutama",
+        "komplekteerima",
+        "aretama",
+        "tutvustama",
+        "viltima",
+        "maiustama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "valmistama",
+      "translations": [
+        "dress out"
+      ]
+    }
+  ]
+}

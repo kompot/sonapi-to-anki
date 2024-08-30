@@ -1,0 +1,230 @@
+{
+  "requestedWord": "iseäranis",
+  "estonianWord": "iseäranis",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "iseäranis"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(rõhutades:) suurel määral, väga,suurel määral, väga",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ühel päeval leidis kukk iseäranis rasvase vihmaussi.",
+            "Iseäranis ilus koht.",
+            "Ta sai iseäranis jõhkralt karistada."
+          ],
+          "synonyms": [
+            "eriti",
+            "eriliselt",
+            "ekstra",
+            "mega,mega",
+            "super"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "especially",
+                "weight": 1
+              },
+              {
+                "words": "very",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "particulièrement",
+                "weight": 1
+              },
+              {
+                "words": "très",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "особенно",
+                "weight": 1
+              },
+              {
+                "words": "особо",
+                "weight": 1
+              },
+              {
+                "words": "очень",
+                "weight": 1
+              },
+              {
+                "words": "исключительно",
+                "weight": 1
+              },
+              {
+                "words": "особенно,особо",
+                "weight": 0.7885
+              },
+              {
+                "words": "экстра,особенно,особо",
+                "weight": 0.9
+              },
+              {
+                "words": "мега",
+                "weight": 0.7
+              },
+              {
+                "words": "супер",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "особливо",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(eelistust, põhilist välja tuues:) eeskätt, ennekõike,rõhutab seda, mis on põhiline: eelkõige",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mulle meeldivad valimised, iseäranis presidendivalimised."
+          ],
+          "synonyms": [
+            "eriti",
+            "eri",
+            "eelkõige,eeskätt,eestkätt,ennekõike,esijoones,esmajoones,ennekõige"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "especially",
+                "weight": 1
+              },
+              {
+                "words": "first and foremost",
+                "weight": 0.768
+              }
+            ],
+            "fra": [
+              {
+                "words": "surtout",
+                "weight": 1
+              },
+              {
+                "words": "surtout,principalement,avant tout",
+                "weight": 0.768
+              }
+            ],
+            "rus": [
+              {
+                "words": "особенно",
+                "weight": 1
+              },
+              {
+                "words": "в особенности",
+                "weight": 1
+              },
+              {
+                "words": "в частности",
+                "weight": 1
+              },
+              {
+                "words": "особо",
+                "weight": 1
+              },
+              {
+                "words": "наипаче",
+                "weight": 1
+              },
+              {
+                "words": "в первую очередь,прежде всего,главным образом,преимущественно,по преимуществу,первым делом,первым долгом,перво-наперво",
+                "weight": 0.768
+              }
+            ],
+            "ukr": [
+              {
+                "words": "особливо",
+                "weight": 1
+              },
+              {
+                "words": "зокрема",
+                "weight": 1
+              },
+              {
+                "words": "насамперед,передусім,найперше,перш за все",
+                "weight": 0.768
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "suuremat",
+        "ekstra",
+        "ekstra",
+        "suurt",
+        "eriti",
+        "kuigi",
+        "palju",
+        "palju",
+        "eriliselt",
+        "erakordselt",
+        "harukordselt",
+        "äärmiselt",
+        "haruldaselt",
+        "iseäralikult",
+        "eeskätt",
+        "sõnulseletamatult",
+        "küllaltki",
+        "eelkõige",
+        "hästi",
+        "loomulikult",
+        "suisa",
+        "üsna",
+        "vaieldamatult",
+        "silmatorkavalt",
+        "sedavõrd",
+        "üpris",
+        "eripäraselt",
+        "tabamatult",
+        "just",
+        "ülimalt",
+        "iseäraldi",
+        "kahtlemata",
+        "ääretult",
+        "kahtlematult",
+        "väga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "iseäranis",
+      "translations": [
+        "particularly"
+      ]
+    }
+  ]
+}

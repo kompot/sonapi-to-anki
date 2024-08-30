@@ -1,0 +1,619 @@
+{
+  "requestedWord": "umbes",
+  "estonianWord": "umbes",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "umbes"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mitte päris täpselt, enam-vähem, ligilähedaselt,mitte päris täpselt, ligikaudu, enam-vähem",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nii seal umbes kirjas oli.",
+            "Tunne oli umbes sama kui peapõrutuse puhul.",
+            "Pood asub umbes kilomeetri kaugusel.",
+            "Merike on umbes sama pikk kui mina."
+          ],
+          "synonyms": [
+            "umbkaudu",
+            "nii",
+            "ligikaudu",
+            "ligikaudselt",
+            "umbkaudselt",
+            "arvata",
+            "kusagil",
+            "u",
+            "kuskil",
+            "ringis",
+            "nõnda",
+            "kuski",
+            "üks",
+            "orienteerivalt,orienteeruvalt",
+            "enam-vähem"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "approximately",
+                "weight": 1
+              },
+              {
+                "words": "more or less",
+                "weight": 1
+              },
+              {
+                "words": "roughly",
+                "weight": 1
+              },
+              {
+                "words": "more or less",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "approximativement",
+                "weight": 1
+              },
+              {
+                "words": "environ",
+                "weight": 1
+              },
+              {
+                "words": "à peu près",
+                "weight": 1
+              },
+              {
+                "words": "à peu près,plus ou moins,presque",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "приблизительно",
+                "weight": 1
+              },
+              {
+                "words": "почти",
+                "weight": 1
+              },
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "порядка",
+                "weight": 1
+              },
+              {
+                "words": "почти что",
+                "weight": 1
+              },
+              {
+                "words": "на круг",
+                "weight": 1
+              },
+              {
+                "words": "приближённо",
+                "weight": 1
+              },
+              {
+                "words": "ориентировочно",
+                "weight": 1
+              },
+              {
+                "words": "грубо говоря",
+                "weight": 1
+              },
+              {
+                "words": "где-то",
+                "weight": 1
+              },
+              {
+                "words": "примерно",
+                "weight": 1
+              },
+              {
+                "words": "почти,приблизительно,примерно,с",
+                "weight": 0.9
+              },
+              {
+                "words": "ориентировочно,примерно,приблизительно",
+                "weight": 0.7
+              },
+              {
+                "words": "более или менее,почти",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "майже",
+                "weight": 1
+              },
+              {
+                "words": "приблизно",
+                "weight": 1
+              },
+              {
+                "words": "більш-менш,майже",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(koos arvulise näitajaga:) ligikaudu, enam-vähem",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kohale oli tulnud umbes tuhat inimest.",
+            "Kõik sündis umbes kümne sekundi jooksul."
+          ],
+          "synonyms": [
+            "enam-vähem"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "приблизительно",
+                "weight": 1
+              },
+              {
+                "words": "примерно",
+                "weight": 1
+              },
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "под",
+                "weight": 1
+              },
+              {
+                "words": "с",
+                "weight": 1
+              },
+              {
+                "words": "почти,более или менее",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "plus ou moins,à peu près,presque",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "більш-менш,майже",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "more or less",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "nagu juhtub, hea õnne peale,arutult, ilma mõtlemata",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Vastasin täiesti umbes."
+          ],
+          "synonyms": [
+            "huupi",
+            "umbropsu",
+            "pimedast peast",
+            "uduumbe",
+            "ehku peale,ehkupeale"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "необдуманно",
+                "weight": 1
+              },
+              {
+                "words": "безрассудно",
+                "weight": 1
+              },
+              {
+                "words": "опрометчиво",
+                "weight": 1
+              },
+              {
+                "words": "наудачу",
+                "weight": 1
+              },
+              {
+                "words": "не долго думая",
+                "weight": 1
+              },
+              {
+                "words": "по опрометчивости",
+                "weight": 1
+              },
+              {
+                "words": "сплеча",
+                "weight": 1
+              },
+              {
+                "words": "наугад",
+                "weight": 1
+              },
+              {
+                "words": "наобум",
+                "weight": 1
+              },
+              {
+                "words": "вслепую",
+                "weight": 1
+              },
+              {
+                "words": "на авось",
+                "weight": 1
+              },
+              {
+                "words": "наобум лазаря",
+                "weight": 1
+              },
+              {
+                "words": "с закрытыми глазами",
+                "weight": 1
+              },
+              {
+                "words": "как бог на душу положит",
+                "weight": 1
+              },
+              {
+                "words": "на авось",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ligi",
+        "tongis",
+        "nõnda",
+        "ümmargune",
+        "tuuris",
+        "tuuris",
+        "purupurjus",
+        "umbne",
+        "timmis",
+        "kandiline",
+        "mõni",
+        "purujommis",
+        "umbkaudselt",
+        "na",
+        "täis",
+        "täis",
+        "umbkaudu",
+        "õnnega pooleks",
+        "ligikaudselt",
+        "porujommis",
+        "joogine",
+        "joomane",
+        "hurraa peale",
+        "viinane",
+        "auru all",
+        "vintis",
+        "ümmarguselt",
+        "pehme",
+        "hanges",
+        "kinnituisanud",
+        "ehku peale",
+        "jommis",
+        "purjus",
+        "juua täis",
+        "jokkis",
+        "svipsis",
+        "sopsus",
+        "enam-vähem",
+        "hea õnne peale",
+        "ringis",
+        "pilditu",
+        "nokastanud",
+        "mütsiga lööma",
+        "üks",
+        "vindine",
+        "arvata",
+        "maani täis",
+        "nii",
+        "napsine",
+        "ligikaudu",
+        "krillis",
+        "ümber",
+        "ebakaine",
+        "ligilähedalt",
+        "kobina peale",
+        "lakku täis",
+        "sakkis",
+        "umbropsu",
+        "joobnud",
+        "pommis",
+        "orienteerivalt",
+        "oma",
+        "oma",
+        "oma",
+        "pimedalt",
+        "täistuisanud",
+        "pea",
+        "pea",
+        "pea",
+        "pea",
+        "samm sees",
+        "jõmmis",
+        "ligemale",
+        "peaaegu",
+        "huupi",
+        "vähemalt",
+        "umbes-täpselt",
+        "paarkümmend",
+        "kolm",
+        "kolmveerand",
+        "kuni",
+        "juba",
+        "umbestäpselt",
+        "poolteist"
+      ]
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "umbes"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kinni, täis, läbipääsuvõimaluseta,kinni, täis, nii et miski ei pääse läbi",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Autodest umbes tänav.",
+            "Kraanikauss on umbes."
+          ],
+          "synonyms": [
+            "kinni",
+            "täis",
+            "umbne",
+            "ummikus"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "bouché",
+                "weight": 1
+              },
+              {
+                "words": "plein",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "забитый",
+                "weight": 1
+              },
+              {
+                "words": "забившийся",
+                "weight": 1
+              },
+              {
+                "words": "закупоренный",
+                "weight": 1
+              },
+              {
+                "words": "заторенный",
+                "weight": 1
+              },
+              {
+                "words": "засорённый",
+                "weight": 1
+              },
+              {
+                "words": "полный,заполненный,наполненный,исполненный,переполненный",
+                "weight": 0.9
+              },
+              {
+                "words": "глухой,сплошной,закрытый",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "забитий",
+                "weight": 1
+              },
+              {
+                "words": "повний,повен,заповнений,наповнений",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mädapõletikus, paistes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sõrm on umbes."
+          ],
+          "synonyms": [
+            "paistes",
+            "põletikus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "в нарывах",
+                "weight": 1
+              },
+              {
+                "words": "опухлый,распухший,опухший",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ummikus",
+        "kinni",
+        "põletikus",
+        "paistes",
+        "tongis",
+        "tuuris",
+        "tuuris",
+        "purupurjus",
+        "umbne",
+        "timmis",
+        "purujommis",
+        "täis",
+        "õnnega pooleks",
+        "porujommis",
+        "joogine",
+        "joomane",
+        "hurraa peale",
+        "viinane",
+        "auru all",
+        "vintis",
+        "pehme",
+        "hanges",
+        "kinnituisanud",
+        "jommis",
+        "purjus",
+        "juua täis",
+        "jokkis",
+        "svipsis",
+        "sopsus",
+        "hea õnne peale",
+        "pilditu",
+        "nokastanud",
+        "vindine",
+        "maani täis",
+        "napsine",
+        "krillis",
+        "ebakaine",
+        "kobina peale",
+        "lakku täis",
+        "sakkis",
+        "joobnud",
+        "pommis",
+        "oma",
+        "oma",
+        "pimedalt",
+        "täistuisanud",
+        "samm sees",
+        "täis",
+        "na",
+        "mõni",
+        "mütsiga lööma",
+        "arvata",
+        "üks",
+        "nii",
+        "oma",
+        "pea",
+        "paarkümmend",
+        "kolm",
+        "kolmveerand",
+        "kuni",
+        "juba",
+        "poolteist",
+        "ümmargune",
+        "nõnda",
+        "ligi",
+        "kandiline",
+        "umbkaudselt",
+        "umbkaudu",
+        "ligikaudselt",
+        "ümmarguselt",
+        "ehku peale",
+        "enam-vähem",
+        "ringis",
+        "ligikaudu",
+        "ümber",
+        "ligilähedalt",
+        "umbropsu",
+        "orienteerivalt",
+        "pea",
+        "ligemale",
+        "peaaegu",
+        "huupi",
+        "jõmmis",
+        "vähemalt",
+        "umbes-täpselt",
+        "umbestäpselt",
+        "pea",
+        "pea"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "umbes",
+      "translations": [
+        "about",
+        "approx (= approximately)",
+        "circa",
+        "roughly"
+      ]
+    }
+  ]
+}

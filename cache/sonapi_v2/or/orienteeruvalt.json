@@ -1,0 +1,91 @@
+{
+  "requestedWord": "orienteeruvalt",
+  "estonianWord": "orienteeruvalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "orienteeruvalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ligikaudu, umbes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Rohukülast 14.30 väljuv parvlaev jõuab Heltermaale orienteeruvalt 15.45."
+          ],
+          "synonyms": [
+            "orienteerivalt",
+            "arvata,kusagil,kuskil,ligikaudu,nii,nõnda,ringis,u,umbes,umbkaudu,ligikaudselt,umbkaudselt,kuski"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "приблизительно",
+                "weight": 1
+              },
+              {
+                "words": "примерно",
+                "weight": 1
+              },
+              {
+                "words": "ориентировочно",
+                "weight": 1
+              },
+              {
+                "words": "около,приблизительно,почти,грубо говоря,почти что,порядка,ориентировочно,приближённо,так,на круг,где-то,примерно",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "approximativement,environ,à peu près",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "майже,приблизно",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "approximately,more or less,roughly",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "orienteerumine",
+        "ligikaudu",
+        "umbes",
+        "umbes",
+        "orienteeruv",
+        "orienteerivalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "orienteeruvalt",
+      "translations": []
+    }
+  ]
+}

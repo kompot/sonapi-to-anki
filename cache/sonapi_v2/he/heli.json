@@ -1,0 +1,325 @@
+{
+  "requestedWord": "heli",
+  "estonianWord": "heli",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "heli"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "heli"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "heli"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "helisse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "helis"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "helist"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "helile"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "helil"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "helilt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "heliks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "helini"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "helina"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "helita"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "heliga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "helid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "helide"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "helisid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "helidesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "helides"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "helidest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "helidele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "helidel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "helidelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "helideks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "helideni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "helidena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "helideta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "helidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "elastses keskkonnas lainena leviv võnkumine, mida on võimalik kuulda,see, mida sa kuuled",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Valgus liigub kiiremini kui heli.",
+            "Õuest kostis mingi kahtlane heli."
+          ],
+          "synonyms": [
+            "hääl",
+            "kõla",
+            "saund,sound"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "son",
+                "weight": 1
+              },
+              {
+                "words": "bruit",
+                "weight": 1
+              },
+              {
+                "words": "son,bruit",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "звук",
+                "weight": 1
+              },
+              {
+                "words": "звук,голос",
+                "weight": 0.9
+              },
+              {
+                "words": "звук,звон",
+                "weight": 0.7
+              },
+              {
+                "words": "саунд",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звук",
+                "weight": 1
+              },
+              {
+                "words": "звук,голос",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "sound",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(muusikas:) akustiline nähtus, mida tekitab heliallika ühtlane perioodiline võnkumine, teatava kindla kõrgusega toon erinevalt mürast",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Flöödiheli.",
+            "Kitarriheli."
+          ],
+          "synonyms": [
+            "toon"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "звук",
+                "weight": 1
+              },
+              {
+                "words": "тон",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "ton",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тон",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "helin",
+        "meloodia",
+        "kõla",
+        "saund",
+        "toon",
+        "hääl",
+        "pideheli",
+        "abiheli",
+        "ülemheli",
+        "heliefekt",
+        "digiheli",
+        "helipea",
+        "kõrvalheli",
+        "põhiheli",
+        "digitaalheli",
+        "alusheli"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "heli",
+      "translations": [
+        "sound"
+      ]
+    }
+  ]
+}

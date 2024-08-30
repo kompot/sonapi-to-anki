@@ -1,0 +1,1224 @@
+{
+  "requestedWord": "pääsema",
+  "estonianWord": "pääsema",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "28",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "pääsema"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "pääsemata"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "pääsemas"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "pääsemast"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "pääsemaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "pääsetama"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "pääseda"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "pääsedes"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "pääsev"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "pääsetav"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "pääsenud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "pääsenud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "pääsetud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "pääsetud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "pääsen"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "pääsed"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "pääseb"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "pääseme"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "pääsete"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "pääsevad"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "pääse"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "pääsetakse"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "pääseta"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "pääsesin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "pääsesid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "pääses"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "pääsesime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "pääsesite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "pääsesid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "pääseti"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "pääseksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "pääseksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "pääseks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "pääseksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "pääseksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "pääseksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "pääsetaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "pääsenuksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "pääsenuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "pääsenuks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "pääsenuksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "pääsenuksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "pääsenuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "pääsetuks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "pääsevat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "pääsetavat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "pääsenuvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "pääsetuvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "pääse"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "pääsegem"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "pääsege"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "pääsegu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "pääsetagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "pääsema"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "pääsemata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "pääsemas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "pääsemast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "pääsemaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "pääsetama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "pääseda"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "pääsedes"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "pääsev"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "pääsetav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "pääsenud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "pääsenud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "pääsetud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "pääsetud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "pääsen"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "pääsed"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "pääseb"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "pääseme"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "pääsete"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "pääsevad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "pääse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "pääsetakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "pääseta"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "pääsesin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "pääsesid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "pääses"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "pääsesime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "pääsesite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "pääsesid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "pääseti"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "pääseksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "pääseksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "pääseks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "pääseksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "pääseksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "pääseksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "pääsetaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "pääsenuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "pääsenuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "pääsenuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "pääsenuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "pääsenuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "pääsenuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "pääsetuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "pääsevat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "pääsetavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "pääsenuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "pääsetuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "pääse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "pääsegem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "pääsege"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "pääsegu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "pääsetagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ohtlikust, raskest või halvast olukorrast ära, eemale, turvalisemasse paika saama,sellisest olukorrast (suhteliselt kergesti) välja tulema,ohtlikust või raskest olukorrast eemale, turvalisse kohta jõudma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Venemaa vangilaagreist pääsesid eluga üksikud.",
+            "Autojuht pääses ehmatusega.",
+            "Kogu pere hukkus õnnetuses, ainult laps pääses.",
+            "Pääsesin tulekahjust eluga.",
+            "Tüdruk pääses röövlite käest."
+          ],
+          "synonyms": [
+            "pääsma",
+            "lahti saama",
+            "välja tulema",
+            "vabanema",
+            "välja rabelema,välja siplema",
+            "välja pääsema,välja saama",
+            "ära saama",
+            "lahti rabelema",
+            "välja vingerdama",
+            "välja ujuma"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "échapper",
+                "weight": 1
+              },
+              {
+                "words": "se débarrasser",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "спасаться",
+                "weight": 1
+              },
+              {
+                "words": "спастись",
+                "weight": 1
+              },
+              {
+                "words": "уцелеть",
+                "weight": 1
+              },
+              {
+                "words": "освобождаться,освободиться,избавляться,избавиться,отделываться,отделаться",
+                "weight": 0.9
+              },
+              {
+                "words": "выйти,выходить",
+                "weight": 0.9
+              },
+              {
+                "words": "освобождаться,освободиться,избавляться,избавиться,отделываться,отделаться,разделываться,разделаться",
+                "weight": 0.9
+              },
+              {
+                "words": "вывернуться,вырываться,вырваться,высвобождаться,высвободиться,выбираться,выбраться,выкручиваться,выкрутиться,выпутываться,выпутаться,вывёртываться,выкарабкиваться,выкарабкаться",
+                "weight": 0.9
+              },
+              {
+                "words": "выбираться,выбраться",
+                "weight": 0.7
+              },
+              {
+                "words": "вырываться,выбираться,выбраться,вырваться",
+                "weight": 0.7
+              },
+              {
+                "words": "вырываться,вырваться",
+                "weight": 0.7
+              },
+              {
+                "words": "высвободиться,выбираться,выбраться,выкручиваться,выкрутиться,выпутываться,выпутаться,вывёртываться,вывернуться,выкарабкаться,выкарабкиваться,высвобождаться",
+                "weight": 0.7
+              },
+              {
+                "words": "выплывать,выплыть",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "рятуватися",
+                "weight": 1
+              },
+              {
+                "words": "врятуватися",
+                "weight": 1
+              },
+              {
+                "words": "порятуватися",
+                "weight": 1
+              },
+              {
+                "words": "позбавитися,збуватися,збутися,звільнятися,звільнитися,позбавлятися",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "midagi vältida või millestki hoiduda õnnestuma,(vormilt küsivas, sisult eitavas ütluses)",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Pääsesime napilt liiklusõnnetusest.",
+            "Kuhu sa pääsed, tuleb harjuda.",
+            "Küll selg paraneb, kus ta pääseb!"
+          ],
+          "synonyms": [
+            "vabanema",
+            "lahti saama",
+            "kaelast ära saama",
+            "vältima",
+            "hoiduma",
+            "mööda saama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "избегать",
+                "weight": 1
+              },
+              {
+                "words": "избежать",
+                "weight": 1
+              },
+              {
+                "words": "разделаться,разделываться,отделаться,отделываться,избавиться,избавляться,освободиться,освобождаться",
+                "weight": 0.9
+              },
+              {
+                "words": "отделаться,освобождаться,освободиться,избавляться,избавиться,отделываться",
+                "weight": 0.9
+              },
+              {
+                "words": "сбыть с шеи,сбросить с плеч,сваливать с плеч,свалить с плеч,скидывать с плеч,скинуть с плеч,сбывать с рук,сбрасывать с плеч,сбрасывать с шеи,сбросить с шеи,сбывать с шеи",
+                "weight": 0.9
+              },
+              {
+                "words": "предотвращать,предотвратить,избегать,избежать,избегнуть,сторониться,отвращать,отвратить,миновать",
+                "weight": 0.7
+              },
+              {
+                "words": "поберечься,избежать,избегать,остеречься,остерегаться,воздержаться,воздерживаться,беречься",
+                "weight": 0.7
+              },
+              {
+                "words": "обходить,обойти",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "se débarrasser",
+                "weight": 0.9
+              },
+              {
+                "words": "éviter",
+                "weight": 0.7
+              },
+              {
+                "words": "s'abstenir,éviter",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "збутися,збуватися,позбавитися,позбавлятися,звільнитися,звільнятися",
+                "weight": 0.9
+              },
+              {
+                "words": "ухилитися,уникати,уникнути,ухилятися",
+                "weight": 0.7
+              },
+              {
+                "words": "запобігти,запобігати,уникнути,уникати,утриматися,утримуватися",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(takistusi, raskusi ületades) mingi soovitud koha, olukorra või tegevuseni jõudma,takistusi ületama, et soovitud olukorda või kohta jõuda",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kass pääses lindude toidumaja juurde.",
+            "Võitja pääseb poolfinaali.",
+            "Sass ei pääsenudki kunstikooli.",
+            "Meie võistkond pääses finaali.",
+            "Vang pääses põgenema."
+          ],
+          "synonyms": [
+            "pääsma",
+            "jõudma",
+            "saama",
+            "ligi saama",
+            "jalga ukse vahele saama",
+            "sisse saama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "попадать",
+                "weight": 1
+              },
+              {
+                "words": "попасть",
+                "weight": 1
+              },
+              {
+                "words": "добираться",
+                "weight": 1
+              },
+              {
+                "words": "добраться",
+                "weight": 1
+              },
+              {
+                "words": "пробираться",
+                "weight": 1
+              },
+              {
+                "words": "пробраться",
+                "weight": 1
+              },
+              {
+                "words": "пробиваться",
+                "weight": 1
+              },
+              {
+                "words": "пробиться",
+                "weight": 1
+              },
+              {
+                "words": "прорываться",
+                "weight": 1
+              },
+              {
+                "words": "прорваться",
+                "weight": 1
+              },
+              {
+                "words": "вырываться",
+                "weight": 1
+              },
+              {
+                "words": "вырваться",
+                "weight": 1
+              },
+              {
+                "words": "достигать,достичь,достигнуть,приходить,прийти",
+                "weight": 0.9
+              },
+              {
+                "words": "попадать",
+                "weight": 0.9
+              },
+              {
+                "words": "пробираться,пробраться,добираться,добраться",
+                "weight": 0.9
+              },
+              {
+                "words": "поступать,поступить",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "потрапляти",
+                "weight": 1
+              },
+              {
+                "words": "потрапити",
+                "weight": 1
+              },
+              {
+                "words": "попадати",
+                "weight": 1
+              },
+              {
+                "words": "попасти",
+                "weight": 1
+              },
+              {
+                "words": "добиратися",
+                "weight": 1
+              },
+              {
+                "words": "добратися",
+                "weight": 1
+              },
+              {
+                "words": "пробиратися",
+                "weight": 1
+              },
+              {
+                "words": "пробратися",
+                "weight": 1
+              },
+              {
+                "words": "досягнути,доходити,дійти,досягати,досягти",
+                "weight": 0.9
+              },
+              {
+                "words": "вступати,вступити",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "être accepté",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(osutab tegevuse võimalikkusele, võimalusele:) saama",
+          "partOfSpeech": [],
+          "examples": [
+            "Koridorist pääseb pööningule ja sealt katusele.",
+            "Bussiga sinna ei pääse."
+          ],
+          "synonyms": [
+            "saama",
+            "ligi saama",
+            "juurde pääsema,ligi pääsema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "попадать",
+                "weight": 1
+              },
+              {
+                "words": "попасть",
+                "weight": 1
+              },
+              {
+                "words": "попадать",
+                "weight": 0.9
+              },
+              {
+                "words": "пробираться,пробраться,добираться,добраться",
+                "weight": 0.9
+              },
+              {
+                "words": "подступиться,подступаться",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi küljest, kinnitusest, kütkest vabanema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Koer pääses rihma otsast lahti."
+          ],
+          "synonyms": [
+            "vabanema",
+            "vabanema",
+            "saama",
+            "lahti saama",
+            "lahti rabelema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "освобождаться",
+                "weight": 1
+              },
+              {
+                "words": "освободиться",
+                "weight": 1
+              },
+              {
+                "words": "высвобождаться",
+                "weight": 1
+              },
+              {
+                "words": "высвободиться",
+                "weight": 1
+              },
+              {
+                "words": "вырываться",
+                "weight": 1
+              },
+              {
+                "words": "вырваться",
+                "weight": 1
+              },
+              {
+                "words": "выбраться",
+                "weight": 1
+              },
+              {
+                "words": "освобождаться,освободиться",
+                "weight": 0.9
+              },
+              {
+                "words": "освободиться,освобождаться,высвобождаться,высвободиться",
+                "weight": 0.9
+              },
+              {
+                "words": "попадать",
+                "weight": 0.9
+              },
+              {
+                "words": "вырываться,вырваться",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звільнятися",
+                "weight": 1
+              },
+              {
+                "words": "звільнитися",
+                "weight": 1
+              },
+              {
+                "words": "вивільнятися",
+                "weight": 1
+              },
+              {
+                "words": "вивільнитися",
+                "weight": 1
+              },
+              {
+                "words": "вириватися",
+                "weight": 1
+              },
+              {
+                "words": "вирватися",
+                "weight": 1
+              },
+              {
+                "words": "вибиратися",
+                "weight": 1
+              },
+              {
+                "words": "вибратися",
+                "weight": 1
+              },
+              {
+                "words": "звільнитися,звільнятися",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hrl tahtmatult, poolkogemata kuuldavale tulema",
+          "partOfSpeech": [],
+          "examples": [
+            "Vanamehe suust pääses ehmatushüüe."
+          ],
+          "synonyms": [
+            "välja lipsama",
+            "lipsama,lipsatama",
+            "vallanduma",
+            "välja purskama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "вырваться",
+                "weight": 1
+              },
+              {
+                "words": "слететь,проскальзывать,слетать,проскользнуть",
+                "weight": 0.7
+              },
+              {
+                "words": "вспыхнуть,разражаться,разразиться,вспыхивать,разыгрываться,разыграться",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "välja vingerdama",
+        "välja ujuma",
+        "välja purskama",
+        "vallanduma",
+        "kvalifitseeruma",
+        "lahti rabelema",
+        "ära saama",
+        "sisse saama",
+        "rohelist teed saama",
+        "mööda saama",
+        "hoiduma",
+        "vältima",
+        "välja lipsama",
+        "lipsama",
+        "välja pääsema",
+        "võidule pääsema",
+        "valla pääsema",
+        "ulale pääsema",
+        "tagasi pääsema",
+        "sisse pääsema",
+        "putku pääsema",
+        "plehku pääsema",
+        "pildile pääsema",
+        "pakku pääsema",
+        "mööda pääsema",
+        "mõjule pääsema",
+        "löögile pääsema",
+        "läbi pääsema",
+        "lahti pääsema",
+        "ette pääsema",
+        "eluga pääsema",
+        "edasi pääsema",
+        "saama",
+        "kaelast ära saama",
+        "puhta nahaga pääsema",
+        "välja rabelema",
+        "ligi saama",
+        "puhastuma",
+        "juurde pääsema",
+        "jalga ukse vahele saama",
+        "vabanema",
+        "kerge nahaga pääsema",
+        "lahti saama",
+        "terve nahaga pääsema",
+        "juurde saama",
+        "ligi pääsema",
+        "välja tulema",
+        "jõudma",
+        "lahti tulema",
+        "pääsenu",
+        "pääsetee",
+        "pääsemine",
+        "pääse",
+        "võitu saama",
+        "soonele saama",
+        "otsa peale saama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pääsema",
+      "translations": [
+        "deliver from"
+      ]
+    }
+  ]
+}

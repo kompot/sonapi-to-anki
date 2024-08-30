@@ -1,0 +1,626 @@
+{
+  "requestedWord": "märgistama",
+  "estonianWord": "märgistama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "märgistama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "märgistamata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "märgistamas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "märgistamast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "märgistamaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "märgistatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "märgistada"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "märgistades"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "märgistav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "märgistatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "märgistanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "märgistanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "märgistatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "märgistatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "märgistan"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "märgistad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "märgistab"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "märgistame"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "märgistate"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "märgistavad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "märgista"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "märgistatakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "märgistata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "märgistasin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "märgistasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "märgistas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "märgistasime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "märgistasite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "märgistasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "märgistati"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "märgistaksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "märgistaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "märgistaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "märgistaksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "märgistaksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "märgistaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "märgistataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "märgistanuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "märgistanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "märgistanuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "märgistanuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "märgistanuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "märgistanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "märgistatuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "märgistavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "märgistatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "märgistanuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "märgistatuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "märgista"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "märgistagem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "märgistage"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "märgistagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "märgistatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "eristamist, äratundmist võimaldava tunnuse, märgi või tähisega varustama,sel viisil millelegi osutama või viitama,mingit märki kuhugi panema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Mahetoodete hinnasildid on märgistatud rohelise kleebisega.",
+            "Märgistatud matkarada.",
+            "Kalu märgistatakse nende rännuteede uurimiseks.",
+            "Isased koerad pissivad tihti selleks, et märgistada oma territooriumi."
+          ],
+          "synonyms": [
+            "tähistama",
+            "markeerima",
+            "märgitsema",
+            "ära märkima",
+            "märkima",
+            "signeerima",
+            "sildistama,silditama"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "indiquer",
+                "weight": 1
+              },
+              {
+                "words": "indiquer",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "отмечать",
+                "weight": 1
+              },
+              {
+                "words": "отметить",
+                "weight": 1
+              },
+              {
+                "words": "метить",
+                "weight": 1
+              },
+              {
+                "words": "пометить",
+                "weight": 1
+              },
+              {
+                "words": "размечивать",
+                "weight": 1
+              },
+              {
+                "words": "разметить",
+                "weight": 1
+              },
+              {
+                "words": "маркировать",
+                "weight": 1
+              },
+              {
+                "words": "наметить",
+                "weight": 1
+              },
+              {
+                "words": "клеймить",
+                "weight": 1
+              },
+              {
+                "words": "заклеймить",
+                "weight": 1
+              },
+              {
+                "words": "таврить",
+                "weight": 1
+              },
+              {
+                "words": "затаврить",
+                "weight": 1
+              },
+              {
+                "words": "отмечать,отметить,клеймить,заклеймить,разметить,маркировать,замаркировать,намаркировать,размечать,помечать,пометить,обозначать,обозначить",
+                "weight": 0.797
+              },
+              {
+                "words": "означать",
+                "weight": 0.9
+              },
+              {
+                "words": "обозначить,отмечать,отметить,помечать,пометить,обозначать",
+                "weight": 0.9
+              },
+              {
+                "words": "отмечать,отметить,помечать,пометить,метить",
+                "weight": 0.9
+              },
+              {
+                "words": "пронумеровать,нумеровать,занумеровать",
+                "weight": 0.9
+              },
+              {
+                "words": "снабжать этикеткой,снабжать ярлыком",
+                "weight": 0.699
+              }
+            ],
+            "ukr": [
+              {
+                "words": "відзначати",
+                "weight": 1
+              },
+              {
+                "words": "відзначити",
+                "weight": 1
+              },
+              {
+                "words": "відмічати",
+                "weight": 1
+              },
+              {
+                "words": "відмітити",
+                "weight": 1
+              },
+              {
+                "words": "позначати,позначити,значити,мітити,помітити,відзначати,відзначити,відмічати,відмітити",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi sümboliks või tunnuseks olema,millegi märgiks olema, millelegi viitama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Arhitekti sõnul märgistab graniit kindlust, tugevust ja igavikulisust, klaas ja alumiinium aga olevikku ja tulevikku."
+          ],
+          "synonyms": [
+            "tähistama",
+            "sümboliseerima",
+            "kinnitama",
+            "märkima",
+            "osutama,viitama"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "signifier",
+                "weight": 1
+              },
+              {
+                "words": "confirmer",
+                "weight": 0.75
+              },
+              {
+                "words": "indiquer",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "обозначать",
+                "weight": 1
+              },
+              {
+                "words": "означать",
+                "weight": 1
+              },
+              {
+                "words": "указывать",
+                "weight": 1
+              },
+              {
+                "words": "указать",
+                "weight": 1
+              },
+              {
+                "words": "символизировать",
+                "weight": 1
+              },
+              {
+                "words": "знаменовать",
+                "weight": 1
+              },
+              {
+                "words": "служить символом,символизировать",
+                "weight": 0.7
+              },
+              {
+                "words": "заверять,заверить,удостоверять,удостоверить,засвидетельствовать,подтверждать,подтвердить",
+                "weight": 0.75
+              },
+              {
+                "words": "обозначать,обозначить,означать,отметить,отмечать",
+                "weight": 0.9
+              },
+              {
+                "words": "указать,свидетельствовать,указывать",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "означати",
+                "weight": 1
+              },
+              {
+                "words": "значити",
+                "weight": 1
+              },
+              {
+                "words": "символізувати",
+                "weight": 1
+              },
+              {
+                "words": "підтверджувати,підтвердити,засвідчувати,засвідчити,посвідчувати,посвідчити",
+                "weight": 0.75
+              },
+              {
+                "words": "указувати,указати,свідчити",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "viitama",
+        "sümboliseerima",
+        "markeerima",
+        "tähistama",
+        "signeerima",
+        "märkima",
+        "märgitsema",
+        "ära märkima",
+        "tuvastama",
+        "sildistama",
+        "demarkeerima",
+        "ladustama",
+        "madistama",
+        "käitlema",
+        "mulistama",
+        "kugistama",
+        "veerima",
+        "käitama",
+        "mustama",
+        "tarastama",
+        "rüütama",
+        "vibutama",
+        "kodustama",
+        "külastama",
+        "põristama",
+        "ristama",
+        "kinnistama",
+        "veristama",
+        "võdistama",
+        "krigistama",
+        "haljastama",
+        "mineerima",
+        "putitama",
+        "eksitama",
+        "pareerima",
+        "paaritama",
+        "lohistama",
+        "pakendama",
+        "siristama",
+        "haljendama",
+        "kiristama",
+        "vesistama",
+        "läkastama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "märgistama",
+      "translations": [
+        "bespot",
+        "brand",
+        "check",
+        "code",
+        "flag",
+        "label",
+        "stake out",
+        "tag"
+      ]
+    }
+  ]
+}

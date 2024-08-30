@@ -1,0 +1,595 @@
+{
+  "requestedWord": "uhkeldama",
+  "estonianWord": "uhkeldama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "uhkeldama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "uhkeldamata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "uhkeldamas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "uhkeldamast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "uhkeldamaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "uhkeldatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "uhkeldada"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "uhkeldades"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "uhkeldav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "uhkeldatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "uhkeldanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "uhkeldanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "uhkeldatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "uhkeldatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "uhkeldan"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "uhkeldad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "uhkeldab"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "uhkeldame"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "uhkeldate"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "uhkeldavad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "uhkelda"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "uhkeldatakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "uhkeldata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "uhkeldasin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "uhkeldasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "uhkeldas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "uhkeldasime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "uhkeldasite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "uhkeldasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "uhkeldati"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "uhkeldaksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "uhkeldaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "uhkeldaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "uhkeldaksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "uhkeldaksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "uhkeldaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "uhkeldataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "uhkeldanuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "uhkeldanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "uhkeldanuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "uhkeldanuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "uhkeldanuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "uhkeldanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "uhkeldatuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "uhkeldavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "uhkeldatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "uhkeldanuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "uhkeldatuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "uhkelda"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "uhkeldagem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "uhkeldage"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "uhkeldagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "uhkeldatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teiste tähelepanu ja imetlust äratada püüdma millegagi, mille üle uhkust tuntakse",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Lapsed kipuvad oma asjadega teiste ees uhkeldama.",
+            "Puutumatu loodus, millega uhkeldame, on hävimas."
+          ],
+          "synonyms": [
+            "hüppama",
+            "lehvitama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "хвастаться",
+                "weight": 1
+              },
+              {
+                "words": "похвастаться",
+                "weight": 1
+              },
+              {
+                "words": "кичиться",
+                "weight": 1
+              },
+              {
+                "words": "бравировать",
+                "weight": 1
+              },
+              {
+                "words": "важничать",
+                "weight": 1
+              },
+              {
+                "words": "хвастать",
+                "weight": 1
+              },
+              {
+                "words": "похвастать",
+                "weight": 1
+              },
+              {
+                "words": "хвалиться",
+                "weight": 1
+              },
+              {
+                "words": "похвалиться",
+                "weight": 1
+              },
+              {
+                "words": "гордиться",
+                "weight": 1
+              },
+              {
+                "words": "фанфаронить",
+                "weight": 1
+              },
+              {
+                "words": "заноситься",
+                "weight": 1
+              },
+              {
+                "words": "занестись",
+                "weight": 1
+              },
+              {
+                "words": "козырять",
+                "weight": 1
+              },
+              {
+                "words": "чваниться",
+                "weight": 1
+              },
+              {
+                "words": "бахвалиться",
+                "weight": 1
+              },
+              {
+                "words": "задаваться",
+                "weight": 1
+              },
+              {
+                "words": "форсить",
+                "weight": 1
+              },
+              {
+                "words": "кочевряжиться",
+                "weight": 1
+              },
+              {
+                "words": "задирать нос",
+                "weight": 1
+              },
+              {
+                "words": "задрать нос",
+                "weight": 1
+              },
+              {
+                "words": "поднимать нос",
+                "weight": 1
+              },
+              {
+                "words": "поднять нос",
+                "weight": 1
+              },
+              {
+                "words": "держать фасон",
+                "weight": 1
+              },
+              {
+                "words": "выхваляться",
+                "weight": 1
+              },
+              {
+                "words": "ходить гоголем",
+                "weight": 1
+              },
+              {
+                "words": "выдерживать фасон",
+                "weight": 1
+              },
+              {
+                "words": "выдержать фасон",
+                "weight": 1
+              },
+              {
+                "words": "хвастаться,хвалиться,бахвалиться",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "uhkena, ilusana vms silma torkama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Aias uhkeldab õitsev jasmiin."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "красоваться",
+                "weight": 1
+              },
+              {
+                "words": "роскошествовать",
+                "weight": 1
+              },
+              {
+                "words": "роскошничать",
+                "weight": 1
+              },
+              {
+                "words": "щеголять",
+                "weight": 1
+              },
+              {
+                "words": "франтить",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kehklema",
+        "praalima",
+        "hõiskama",
+        "laiama",
+        "liputama",
+        "hooplema",
+        "hüppama",
+        "kelkima",
+        "kiitlema",
+        "kiitma",
+        "muljet avaldama",
+        "kekkama",
+        "end võõraste sulgedega ehtima",
+        "kerklema",
+        "laiutama",
+        "suurustlema",
+        "keksima",
+        "uhkustama",
+        "suurustama",
+        "lehvitama",
+        "paradeerima",
+        "paraaditsema",
+        "oma saba kergitama",
+        "toretsema",
+        "kemplema",
+        "kilkama",
+        "ärplema",
+        "nina püsti ajama",
+        "jumaldama",
+        "uhkeldavalt",
+        "jukerdama",
+        "askeldama",
+        "vingerdama",
+        "vaheldama",
+        "eputama",
+        "tuuseldama",
+        "nikerdama",
+        "kaunistama",
+        "tükeldama",
+        "peegeldama",
+        "hööveldama",
+        "lõkerdama",
+        "kühveldama",
+        "kantseldama",
+        "mustama",
+        "hekseldama",
+        "lotendama",
+        "rüütama",
+        "vaimustama",
+        "jändama",
+        "kritseldama",
+        "snorgeldama",
+        "hingeldama",
+        "ihaldama",
+        "kadestama",
+        "juubeldama",
+        "mõnitama",
+        "töllerdama",
+        "rahmeldama",
+        "kallistama",
+        "lõbustama",
+        "topeldama",
+        "guugeldama",
+        "dekoreerima",
+        "tembeldama",
+        "hiilgama",
+        "pahteldama",
+        "hullutama",
+        "nüpeldama",
+        "vemmeldama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "uhkeldama",
+      "translations": [
+        "flaunt",
+        "gasconade",
+        "rodomontade",
+        "roister",
+        "strut out",
+        "strut your stuff",
+        "vaunt"
+      ]
+    }
+  ]
+}

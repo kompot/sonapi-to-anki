@@ -1,0 +1,568 @@
+{
+  "requestedWord": "armee",
+  "estonianWord": "armee",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "26i",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "armee"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "armee"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "armeed"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "armeesse"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "armees"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "armeest"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "armeele"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "armeel"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "armeelt"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "armeeks"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "armeeni"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "armeena"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "armeeta"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "armeega"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "armeed"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "armeede"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "armeid,armeesid"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "armeedesse,armeisse"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "armeedes,armeis"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "armeedest,armeist"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "armeedele,armeile"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "armeedel,armeil"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "armeedelt,armeilt"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "armeedeks,armeiks"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "armeedeni"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "armeedena"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "armeedeta"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "armeedega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "riiki sõjalise tegevusega välisvaenlaste vastu kaitsev, rahu ajal kaitsevalmidust tagav ja väljaõpet andev relvastatud organisatsioon,riiklik organisatsioon, mis koosneb sõjalise väljaõppe saanud inimestest,selle iseseisev osa",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Armee valmistub rünnakuks."
+          ],
+          "synonyms": [
+            "kaitsevägi",
+            "sõjavägi",
+            "löögijõud",
+            "relvajõud,sõjajõud",
+            "vägi"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "army",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "armée",
+                "weight": 1
+              },
+              {
+                "words": "forces armées",
+                "weight": 1
+              },
+              {
+                "words": "forces de défense",
+                "weight": 1
+              },
+              {
+                "words": "armée",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "армия",
+                "weight": 1
+              },
+              {
+                "words": "оборонительные войска",
+                "weight": 1
+              },
+              {
+                "words": "ударные силы,оборонительные силы,оборонные силы",
+                "weight": 0.9
+              },
+              {
+                "words": "вооружённые силы,военные силы",
+                "weight": 0.9
+              },
+              {
+                "words": "армия,силы,войска",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "армія",
+                "weight": 1
+              },
+              {
+                "words": "військо",
+                "weight": 1
+              },
+              {
+                "words": "збройні сили",
+                "weight": 1
+              },
+              {
+                "words": "військо,сили,армія",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osa riigi relvajõude (välja arvatud merejõud), eelkõige maajõud",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Armee ja laevastik viidi lahinguvalmidusse."
+          ],
+          "synonyms": [
+            "maakaitsevägi,maavägi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "армия",
+                "weight": 1
+              },
+              {
+                "words": "сухопутная армия,сухопутные войска",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingi ühise tunnusega iseloomustuv (inim)hulk",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Uues romaanis tuuakse lugeja ette terve armee veidrikke.",
+            "Riigil pole enam raha, et tohutut ametnike armeed üleval pidada."
+          ],
+          "synonyms": [
+            "pilv",
+            "armaada",
+            "parv",
+            "kari,salk,salkkond,summ,trobikond",
+            "vägi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "армия",
+                "weight": 1
+              },
+              {
+                "words": "стая,рой,туча",
+                "weight": 0.9
+              },
+              {
+                "words": "армада",
+                "weight": 0.9
+              },
+              {
+                "words": "рой,сонм,туча,скопище,скопление",
+                "weight": 0.9
+              },
+              {
+                "words": "сомн,скопление,скопище,орава,стая,туча,рой,группа,гурьба,отряд,ватага,масса,куча,стадо,толпа",
+                "weight": 0.9
+              },
+              {
+                "words": "толпа,рать,туча,полк,синклит",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "üldarmee",
+        "vabastusarmee",
+        "tsaariarmee",
+        "rahvavabastusarmee",
+        "Päästearmee",
+        "Punaarmee",
+        "palgaarmee",
+        "löögiarmee",
+        "Loodearmee",
+        "lennuarmee",
+        "kaadriarmee",
+        "hiigelarmee",
+        "ekspeditsiooniarmee",
+        "maakaitsevägi",
+        "pilv",
+        "rügement",
+        "armaada",
+        "vaenlasvägi",
+        "löögijõud",
+        "müriaad",
+        "summ",
+        "vaenuvägi",
+        "löögirusikas",
+        "sõjajõud",
+        "malev",
+        "parv",
+        "rahvavägi",
+        "kaitsevägi",
+        "relvajõud",
+        "sõjavägi",
+        "sülem",
+        "vägi",
+        "maavägi",
+        "tankiarmee",
+        "tegevarmee",
+        "reservarmee",
+        "kaardiväearmee",
+        "regulaararmee",
+        "valitsusarmee",
+        "õhuarmee",
+        "rahvaarmee",
+        "ratsaarmee",
+        "summ",
+        "pahvak",
+        "rusikas"
+      ]
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "riiki sõjalise tegevusega välisvaenlaste vastu kaitsev, rahu ajal kaitsevalmidust tagav ja väljaõpet andev relvastatud organisatsioon,riiklik organisatsioon, mis koosneb sõjalise väljaõppe saanud inimestest,selle iseseisev osa",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [
+            "armee",
+            "kaitsevägi",
+            "sõjavägi",
+            "löögijõud",
+            "relvajõud,sõjajõud",
+            "vägi"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "army",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "forces armées",
+                "weight": 1
+              },
+              {
+                "words": "forces de défense",
+                "weight": 1
+              },
+              {
+                "words": "armée",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "армия",
+                "weight": 1
+              },
+              {
+                "words": "оборонительные войска",
+                "weight": 1
+              },
+              {
+                "words": "ударные силы,оборонительные силы,оборонные силы",
+                "weight": 0.9
+              },
+              {
+                "words": "вооружённые силы,военные силы",
+                "weight": 0.9
+              },
+              {
+                "words": "армия,силы,войска",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "армія",
+                "weight": 1
+              },
+              {
+                "words": "військо",
+                "weight": 1
+              },
+              {
+                "words": "збройні сили",
+                "weight": 1
+              },
+              {
+                "words": "військо,сили,армія",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(riigi) sõjavägi, väeüksused,(kuninga, hertsogi vm valitseja) sõjamehed kogumina,suur rühm sõdureid, sõjavägi",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "vägi",
+            "armee,kaitsevägi,sõjavägi",
+            "relvajõud,sõjajõud",
+            "löögijõud",
+            "sõjavägi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "войска",
+                "weight": 1
+              },
+              {
+                "words": "силы",
+                "weight": 1
+              },
+              {
+                "words": "армия",
+                "weight": 1
+              },
+              {
+                "words": "оборонительные войска,армия",
+                "weight": 0.9
+              },
+              {
+                "words": "вооружённые силы,военные силы",
+                "weight": 0.9
+              },
+              {
+                "words": "ударные силы,оборонительные силы,оборонные силы",
+                "weight": 0.9
+              },
+              {
+                "words": "рать,войско",
+                "weight": 0.7777
+              }
+            ],
+            "ukr": [
+              {
+                "words": "військо",
+                "weight": 1
+              },
+              {
+                "words": "сили",
+                "weight": 1
+              },
+              {
+                "words": "армія",
+                "weight": 1
+              },
+              {
+                "words": "армія,військо,збройні сили",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "armée,forces armées,forces de défense",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "army",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "armee",
+      "translations": [
+        "army",
+        "slew of"
+      ]
+    }
+  ]
+}

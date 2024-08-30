@@ -1,0 +1,81 @@
+{
+  "requestedWord": "aastaringselt",
+  "estonianWord": "aastaringselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "aastaringselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kogu aasta jooksul ilma katkestamata, terve aasta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Näitus on lahti aastaringselt.",
+            "Majas on võimalik elada aastaringselt.",
+            "Kulu põletamine on Eestis aastaringselt keelatud."
+          ],
+          "synonyms": [
+            "aasta ringi",
+            "aasta otsa"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "all year round",
+                "weight": 1
+              },
+              {
+                "words": "throughout the year",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "круглогодично",
+                "weight": 1
+              },
+              {
+                "words": "круглый год",
+                "weight": 1
+              },
+              {
+                "words": "весь год",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "aastaringne",
+        "hooajaliselt",
+        "aastaring",
+        "suviti"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "aastaringselt",
+      "translations": [
+        "perennially"
+      ]
+    }
+  ]
+}

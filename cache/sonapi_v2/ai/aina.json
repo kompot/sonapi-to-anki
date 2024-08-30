@@ -1,0 +1,229 @@
+{
+  "requestedWord": "aina",
+  "estonianWord": "aina",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "aina"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kogu aeg, jätkuvalt ühtmoodi või samal viisil muutudes,kogu aeg, muudkui",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Aina sajab ja sajab.",
+            "Asjad lähevad aina hullemaks.",
+            "Aina sajab vihma.",
+            "Ilmad lähevad aina soojemaks."
+          ],
+          "synonyms": [
+            "ühtaina",
+            "järjest",
+            "üha",
+            "aiva",
+            "taaskord,taaskordselt,taas kord",
+            "muudkui,pealegi,peale",
+            "kogu aeg,koguaeg"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "toujours",
+                "weight": 1
+              },
+              {
+                "words": "sans cesse",
+                "weight": 1
+              },
+              {
+                "words": "sans arrêt,tout le temps,sans cesse",
+                "weight": 0.786
+              },
+              {
+                "words": "tout le temps",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "только и",
+                "weight": 1
+              },
+              {
+                "words": "постоянно",
+                "weight": 1
+              },
+              {
+                "words": "всё время",
+                "weight": 1
+              },
+              {
+                "words": "то и дело",
+                "weight": 1
+              },
+              {
+                "words": "знай",
+                "weight": 1
+              },
+              {
+                "words": "всё",
+                "weight": 1
+              },
+              {
+                "words": "так и",
+                "weight": 1
+              },
+              {
+                "words": "повторно,вновь,в очередной раз,снова",
+                "weight": 0.7
+              },
+              {
+                "words": "всё,только и,всё время,так и",
+                "weight": 0.786
+              },
+              {
+                "words": "всё время",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "постійно",
+                "weight": 1
+              },
+              {
+                "words": "увесь час",
+                "weight": 1
+              },
+              {
+                "words": "усе",
+                "weight": 1
+              },
+              {
+                "words": "все",
+                "weight": 1
+              },
+              {
+                "words": "все,усе,увесь час",
+                "weight": 0.786
+              },
+              {
+                "words": "весь час",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "all the time,always",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "lausa, päris",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Uhked ehted – ja kõik aina kullast."
+          ],
+          "synonyms": [
+            "aiva"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "прямо",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lausa",
+        "paljalt",
+        "üha",
+        "järjest",
+        "korrast",
+        "ühtesoodu",
+        "muudkui",
+        "üksnes",
+        "ikka",
+        "vaid",
+        "alles",
+        "ikka ja jälle",
+        "mitut puhku",
+        "kõigest",
+        "ainult",
+        "aiva",
+        "aiva",
+        "taga",
+        "kõigest kõike",
+        "korduvalt",
+        "ühtaina",
+        "pealegi",
+        "ühtejärge",
+        "sageli",
+        "pidevalt",
+        "lakkamatult",
+        "jäävalt",
+        "kestvalt",
+        "katkestamatult",
+        "lakkamata",
+        "alatasa",
+        "järjepanu",
+        "püsivalt",
+        "ühtelugu",
+        "alaliselt",
+        "konstantselt",
+        "vahetpidamata",
+        "järjekindlalt",
+        "alati",
+        "alalõpmata",
+        "kõige",
+        "enam",
+        "enam",
+        "mühinal",
+        "märksa",
+        "palju",
+        "palju",
+        "tunduvalt",
+        "aasta-aastalt",
+        "tasapisi",
+        "rohkem",
+        "rohkem",
+        "veelgi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "aina",
+      "translations": [
+        "all the time",
+        "continually",
+        "ever-"
+      ]
+    }
+  ]
+}

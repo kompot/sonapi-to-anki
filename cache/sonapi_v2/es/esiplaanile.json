@@ -1,0 +1,90 @@
+{
+  "requestedWord": "esiplaanile",
+  "estonianWord": "esiplaanile",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "esiplaanile"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "esiplaanil"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kõige tähtsamale, valitsevale, juhtivale kohale või positsioonile",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nii jäävadki esiplaanile just negatiivsed teemad."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на передний план",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "esirind",
+        "koht",
+        "positsioon",
+        "asend",
+        "seisund",
+        "juhtkoht",
+        "ajaplaan",
+        "aeroplaan",
+        "reisiplaan",
+        "põhiplaan",
+        "perspektiivplaan",
+        "asendiplaan",
+        "tagantvaade",
+        "külgvaade",
+        "eestvaade",
+        "üldplaan",
+        "paraplaan",
+        "tagaplaan",
+        "rongiplaan",
+        "müügiplaan",
+        "kaitseplaan",
+        "monoplaan",
+        "biplaan",
+        "üles",
+        "tagaplaanile",
+        "esiplaanil",
+        "esile",
+        "tahaplaanile",
+        "esiplaan"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "esiplaanile",
+      "translations": [
+        "to the fore"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "requestedWord": "tervist",
+  "estonianWord": "tervist",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tervist"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tervitussõna, mida kasutatakse kohtumisel või kellegi poole pöördumisel,sõna, mida sa ütled, kui sa kellegagi kohtud",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "Tervist, Mari!",
+            "Tervist!"
+          ],
+          "synonyms": [
+            "tere",
+            "terekest",
+            "tervitus",
+            "tere"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "hello",
+                "weight": 1
+              },
+              {
+                "words": "hi",
+                "weight": 1
+              },
+              {
+                "words": "greetings",
+                "weight": 0.9
+              },
+              {
+                "words": "hello",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "bonjour",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "здравствуйте",
+                "weight": 1
+              },
+              {
+                "words": "здравствуй",
+                "weight": 1
+              },
+              {
+                "words": "здрасьте",
+                "weight": 1
+              },
+              {
+                "words": "привет",
+                "weight": 1
+              },
+              {
+                "words": "здорово",
+                "weight": 1
+              },
+              {
+                "words": "салют",
+                "weight": 1
+              },
+              {
+                "words": "привет",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "привіт!",
+                "weight": 1
+              },
+              {
+                "words": "добрий день!",
+                "weight": 1
+              },
+              {
+                "words": "здрастуйте",
+                "weight": 1
+              },
+              {
+                "words": "здрастуй",
+                "weight": 1
+              },
+              {
+                "words": "здорові були",
+                "weight": 1
+              },
+              {
+                "words": "здоров",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "sõna, mida kasutatakse alkoholi joomisel klaase tõstes või kokku lüües,sõna, mida kasutame, kui lööme klaase kokku, et kellegi või millegi auks juua",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            },
+            {
+              "code": "vrm",
+              "value": "muutevorm (ambivorm, määramata)"
+            }
+          ],
+          "examples": [
+            "\"Tervist!\" kõlas laua otsast, ja pidulised tõstsid veiniklaase."
+          ],
+          "synonyms": [
+            "terviseks",
+            "proosit"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "santé",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "за здоровье",
+                "weight": 1
+              },
+              {
+                "words": "за ваше здоровье!",
+                "weight": 1
+              },
+              {
+                "words": "ваше здоровье!",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за здоровʼя",
+                "weight": 1
+              },
+              {
+                "words": "за ваше здоровʼя!",
+                "weight": 1
+              },
+              {
+                "words": "будьмо!",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ütlus selle peale, kui keegi aevastab,sõna, mida sa ütled, kui keegi aevastab",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            },
+            {
+              "code": "vrm",
+              "value": "muutevorm (ambivorm, määramata)"
+            }
+          ],
+          "examples": [
+            "Tervist! – Aitäh!"
+          ],
+          "synonyms": [
+            "terviseks"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "будь здоров!",
+                "weight": 1
+              },
+              {
+                "words": "будьте здоровы!",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на здоровʼя",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jätku leivale",
+        "tere",
+        "tere",
+        "jätku tarvis",
+        "jätku leiba",
+        "terekest",
+        "servus",
+        "tervitus",
+        "tarvis",
+        "terviseoht"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tervist",
+      "translations": [
+        "all hail",
+        "hello",
+        "(lad) salve"
+      ]
+    }
+  ]
+}

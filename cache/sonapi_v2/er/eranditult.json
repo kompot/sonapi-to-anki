@@ -1,0 +1,83 @@
+{
+  "requestedWord": "eranditult",
+  "estonianWord": "eranditult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eranditult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ilma ühegi erandita",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kiita said eranditult kõik.",
+            "Selles restoranis valmistatakse toitu eranditult kohalikust toorainest."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "без исключения",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "teenitult",
+        "üksnes",
+        "vaid",
+        "rafineeritult",
+        "enamjaolt",
+        "praktiliselt",
+        "põhiliselt",
+        "häbitult",
+        "absoluutselt",
+        "tavaliselt",
+        "pigem",
+        "reeglina",
+        "mitte",
+        "mitte",
+        "taktitult",
+        "kõik",
+        "enamasti",
+        "täielikult",
+        "peaaegu",
+        "eranditu",
+        "erand",
+        "ainult",
+        "suureliselt",
+        "üldiselt",
+        "valdavalt",
+        "alati"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "eranditult",
+      "translations": [
+        "invariably",
+        "unexceptionally",
+        "without exception"
+      ]
+    }
+  ]
+}

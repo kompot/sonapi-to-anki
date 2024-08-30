@@ -1,0 +1,116 @@
+{
+  "requestedWord": "niipea",
+  "estonianWord": "niipea",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "niipea"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "varsti, lähemal ajal, lähemas tulevikus,lähemas tulevikus, varsti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pereema minust niipea ei saa.",
+            "Suuri muutusi niipea ei tule.",
+            "Anu niipea ülikooli ei lõpeta.",
+            "Suuri muutusi niipea ei tule."
+          ],
+          "synonyms": [
+            "nõndapea",
+            "homme",
+            "lähemal ajal,ligemal ajal",
+            "lähipäevil",
+            "täna-homme",
+            "peatselt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "de sitôt",
+                "weight": 1
+              },
+              {
+                "words": "prochainement",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "не так скоро",
+                "weight": 1
+              },
+              {
+                "words": "завтра",
+                "weight": 0.7
+              },
+              {
+                "words": "в ближайшее время,в скором времени,в недалёком будущем,вскоре",
+                "weight": 0.7
+              },
+              {
+                "words": "в ближайшие дни,на днях",
+                "weight": 0.7
+              },
+              {
+                "words": "сегодня-завтра,на днях,не сегодня завтра",
+                "weight": 0.7
+              },
+              {
+                "words": "не сегодня-завтра,вскоре,скоро,в скором времени,в недалёком будущем",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "не так швидко",
+                "weight": 1
+              },
+              {
+                "words": "найближчим часом,незабаром,невдовзі",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "peatselt",
+        "täna-homme",
+        "lähipäevil",
+        "lähemal ajal",
+        "vahetult",
+        "nõndapea",
+        "kohe",
+        "enam",
+        "alles",
+        "kohe",
+        "enam",
+        "kui",
+        "kui",
+        "siis"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "niipea",
+      "translations": []
+    }
+  ]
+}

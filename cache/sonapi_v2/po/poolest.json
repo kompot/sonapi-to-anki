@@ -1,0 +1,153 @@
+{
+  "requestedWord": "poolest",
+  "estonianWord": "poolest",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "poolest"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teatavast küljest,mingis suhtes, mingis mõttes",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Välimuse ja lõhna poolest meenutab naistenõges melissi.",
+            "Mille poolest tema neist rumalam oli?",
+            "Liina meenutab välimuse poolest oma ema.",
+            "Mille poolest see arvuti teistest erineb?"
+          ],
+          "synonyms": [
+            "koha pealt",
+            "osas",
+            "mõte",
+            "suhtes",
+            "küsimuses"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "par",
+                "weight": 1
+              },
+              {
+                "words": "au sujet de,en ce qui concerne",
+                "weight": 0.64
+              }
+            ],
+            "rus": [
+              {
+                "words": "по",
+                "weight": 1
+              },
+              {
+                "words": "в отношении",
+                "weight": 1
+              },
+              {
+                "words": "в смысле",
+                "weight": 1
+              },
+              {
+                "words": "с точки зрения",
+                "weight": 1
+              },
+              {
+                "words": "смысл",
+                "weight": 0.7
+              },
+              {
+                "words": "в отношении к,относительно,насчёт,в отношении,по отношению,по отношению к",
+                "weight": 0.64
+              },
+              {
+                "words": "по вопросу,в вопросе",
+                "weight": 0.589
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "щодо",
+                "weight": 1
+              },
+              {
+                "words": "відносно,щодо,стосовно",
+                "weight": 0.64
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi seisukoha järgi, kellegi arvates,mingit asjaolu arvestades,kellegi seisukoha järgi, kellegi arvates",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Minu poolest võib kinno minna küll.",
+            "Kas lootsid, et aitan sind niisama, tutvuse poolest?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "по",
+                "weight": 1
+              },
+              {
+                "words": "в отношении",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "щодо",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tänu",
+        "tänu",
+        "pärast",
+        "tingitult",
+        "tõttu",
+        "mispoolest",
+        "minugipoolest",
+        "minupoolest",
+        "sellepoolest",
+        "millepoolest",
+        "teadupoolest",
+        "seepoolest"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "poolest",
+      "translations": []
+    }
+  ]
+}

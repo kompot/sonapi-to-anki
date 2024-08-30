@@ -1,0 +1,129 @@
+{
+  "requestedWord": "kiiremini",
+  "estonianWord": "kiiremini",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kiiremini"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "rohkem kiiresti, rohkem kiirelt,rohkem kiiresti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sõida kiiremini, muidu jääme hiljaks.",
+            "See salv aitab haavadel kiiremini paraneda.",
+            "Kõnni palun kiiremini!"
+          ],
+          "synonyms": [
+            "kiiremalt",
+            "rutem,rutemini",
+            "nobedamalt",
+            "väledamalt,väledamini"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "more quickly",
+                "weight": 1
+              },
+              {
+                "words": "quicklier",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "plus vite",
+                "weight": 1
+              },
+              {
+                "words": "plus rapidement",
+                "weight": 1
+              },
+              {
+                "words": "plus vite,plus rapidement",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "быстрее",
+                "weight": 1
+              },
+              {
+                "words": "скорее",
+                "weight": 1
+              },
+              {
+                "words": "скорее,быстрее,поскорее,расторопнее,живее",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "швидше",
+                "weight": 1
+              },
+              {
+                "words": "швидше",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "väledamalt",
+        "nobedamalt",
+        "kiiremalt",
+        "rutem",
+        "rutemini",
+        "kiirelt",
+        "kõvemini",
+        "kiiresti",
+        "aeglasemalt",
+        "targemini",
+        "edukamalt",
+        "rohkemini",
+        "märgatavamalt",
+        "lihtsamalt",
+        "puhtamalt",
+        "paremini",
+        "kergemini",
+        "kehvemini",
+        "korralikumalt",
+        "kiirem",
+        "osavamalt",
+        "olulisemalt",
+        "rohkem",
+        "rohkem"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kiiremini",
+      "translations": [
+        "faster",
+        "get up",
+        "quicker"
+      ]
+    }
+  ]
+}

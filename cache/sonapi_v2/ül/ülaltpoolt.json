@@ -1,0 +1,94 @@
+{
+  "requestedWord": "ülaltpoolt",
+  "estonianWord": "ülaltpoolt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ülaltpoolt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "koha, asendi poolest kõrgemalt,taseme, astme poolest kõrgemalt,kõrgemalt, suunaga ülevalt alla",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "See on ülaltpoolt tulnud korraldus.",
+            "Päike paistis ülaltpoolt alla.",
+            "Jalg amputeeriti ülaltpoolt põlve.",
+            "Kusagilt ülaltpoolt kostab hääli."
+          ],
+          "synonyms": [
+            "ülevaltpoolt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сверху",
+                "weight": 1
+              },
+              {
+                "words": "с верхней стороны",
+                "weight": 1
+              },
+              {
+                "words": "свыше",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зверху",
+                "weight": 1
+              },
+              {
+                "words": "згори",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ülevaltpoolt",
+        "siitpoolt",
+        "tagantpoolt",
+        "eestpoolt",
+        "seestpoolt",
+        "väljastpoolt",
+        "pealtpoolt",
+        "ülevalt",
+        "ülevalt",
+        "ülaltvaade",
+        "ülalt",
+        "ülalõug",
+        "sealtpoolt",
+        "altpoolt",
+        "kustpoolt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ülaltpoolt",
+      "translations": []
+    }
+  ]
+}

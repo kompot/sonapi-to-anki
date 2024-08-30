@@ -1,0 +1,323 @@
+{
+  "requestedWord": "purjus",
+  "estonianWord": "purjus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "purjus"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "alkoholijoobes, alkoholi tarvitanud olekus,selline, kes on joonud nii palju alkoholi, et ei suuda enam selgelt mõelda või rääkida",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta oli ikka väga purjus.",
+            "Mees oli silmanähtavalt purjus ja ülemeelik.",
+            "Politsei pidas kinni purjus bussijuhi.",
+            "Ma ei saanud aru, kas ta oli purjus või mitte."
+          ],
+          "synonyms": [
+            "joobnud",
+            "joomane",
+            "joogine",
+            "ebakaine",
+            "viinane",
+            "viinastunud",
+            "aurune",
+            "täis",
+            "juua täis",
+            "lakku täis",
+            "täis nagu templielevant,täis nagu tina,täis nagu tinavile,täis nagu tint,limalakku täis,purujommis,purupurjus,porujommis,käpp on maas,maani täis,täis nagu pinal,täis nagu siga,täis nagu sikk,täis nagu sitikas,täis nagu tarakan,täis nagu tatikas",
+            "auru all,jokkis,jommis,napsus,sakkis,sopsus,svipsis,švipsis,tongis,vintis,jõmmis,krillis,purjakil,pommis",
+            "tuuris",
+            "joobnult,purjuspäi,joobnudpäi,joobnud päi,purjus päi",
+            "paras poiss",
+            "sooja peaga",
+            "pehme",
+            "rõõmus",
+            "pilditu",
+            "pidune",
+            "samm sees",
+            "õline",
+            "napsine,nokastanud,nokastunud,vindine,vinene,napsune,jokine"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "ivre",
+                "weight": 1
+              },
+              {
+                "words": "soûl",
+                "weight": 1
+              },
+              {
+                "words": "soûl",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "пьяный",
+                "weight": 1
+              },
+              {
+                "words": "нетрезвый",
+                "weight": 1
+              },
+              {
+                "words": "опьяневший",
+                "weight": 1
+              },
+              {
+                "words": "хмельной",
+                "weight": 1
+              },
+              {
+                "words": "опьянелый",
+                "weight": 1
+              },
+              {
+                "words": "под хмельком",
+                "weight": 1
+              },
+              {
+                "words": "бухой",
+                "weight": 1
+              },
+              {
+                "words": "выпивший",
+                "weight": 1
+              },
+              {
+                "words": "под мухой",
+                "weight": 1
+              },
+              {
+                "words": "пьяный",
+                "weight": 0.9
+              },
+              {
+                "words": "в доску пьяный,в стельку пьяный,пьяный как зюзя",
+                "weight": 0.9
+              },
+              {
+                "words": "пьяный в стельку,пьяный в дым,пьяный в дугаря,пьяным-пьяный,пьяный в дупель,пьяный в дугу,мертвецки пьяный,пьяный как зюзя,пьяный как змий,пьяный вдрызг,пьяный вдребезги,пьяный в лоск,пьяный в доску,пьяный как сапожник",
+                "weight": 0.9
+              },
+              {
+                "words": "пьяный,хмельной,подвыпивший,захмелевший,под мухой,под хмельком,окосевший,опьянелый,выпивший,выпивши,во хмелю,навеселе,под градусом,в подпитии,подшофе,пьяненький,под парами,как зюзя",
+                "weight": 0.9
+              },
+              {
+                "words": "под мухой,навеселе",
+                "weight": 0.9
+              },
+              {
+                "words": "под пьяную руку,спьяна,спьяну,с пьяных глаз,по пьяной лавочке,в нетрезвом состоянии,выпивши,будучи пьяным,в пьяном виде,в нетрезвом виде",
+                "weight": 0.9
+              },
+              {
+                "words": "с пьяных глаз,по пьяной лавочке,под пьяную руку",
+                "weight": 0.9
+              },
+              {
+                "words": "навеселе",
+                "weight": 0.7
+              },
+              {
+                "words": "как в тумане,в полуобморочном состоянии",
+                "weight": 0.9
+              },
+              {
+                "words": "хмель бродит в голове,хмель гуляет в голове",
+                "weight": 0.9
+              },
+              {
+                "words": "во хмелю,под парами,как зюзя,пьяный,хмельной,навеселе,под градусом,под мухой,подшофе,под хмельком,выпивши,выпивший,в подпитии,опьянелый,подвыпивший,пьяненький,захмелевший,окосевший",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пʼяний",
+                "weight": 1
+              },
+              {
+                "words": "нетверезий",
+                "weight": 1
+              },
+              {
+                "words": "пʼяний",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tugeva tunde meelisegava mõju all, kellestki või millestki vaimustunud olekus",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Olen õnnest purjus.",
+            "Alateadvus on alatasa purjus.",
+            "Eesti on praegu eneseimetlusest lausa purjus."
+          ],
+          "synonyms": [
+            "joobnud",
+            "segaduses",
+            "häiritud",
+            "vaimustunud",
+            "vaimustuses",
+            "joovastunud",
+            "joovastuses"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "опьянённый",
+                "weight": 1
+              },
+              {
+                "words": "пьяный",
+                "weight": 1
+              },
+              {
+                "words": "опьянелый",
+                "weight": 1
+              },
+              {
+                "words": "опьяневший",
+                "weight": 1
+              },
+              {
+                "words": "в замешательстве,в растерянности",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "õline",
+        "täis nagu tint",
+        "täis nagu tinavile",
+        "täis nagu tina",
+        "täis nagu templielevant",
+        "täis nagu tatikas",
+        "täis nagu tarakan",
+        "täis nagu sitikas",
+        "täis nagu sikk",
+        "täis nagu siga",
+        "täis nagu pinal",
+        "švipsis",
+        "pidune",
+        "häiritud",
+        "segaduses",
+        "tongis",
+        "joobnudpäi",
+        "ümmargune",
+        "tuuris",
+        "tuuris",
+        "purupurjus",
+        "timmis",
+        "pähe hakkama",
+        "kandiline",
+        "purujommis",
+        "täis",
+        "täis",
+        "porujommis",
+        "joobnult",
+        "joogine",
+        "joomane",
+        "auru all",
+        "ära kukkuma",
+        "vintis",
+        "viinastuma",
+        "pehme",
+        "jommis",
+        "juua täis",
+        "umbes",
+        "umbes",
+        "ekstaatiline",
+        "joobnu",
+        "purjuspäi",
+        "svipsis",
+        "sopsus",
+        "pilditu",
+        "nokastanud",
+        "vindine",
+        "nokastanult",
+        "maani täis",
+        "paras poiss",
+        "napsine",
+        "krillis",
+        "ebakaine",
+        "lakku täis",
+        "sakkis",
+        "joobnud",
+        "pommis",
+        "sooja peaga",
+        "samm sees",
+        "jõmmis",
+        "entusiastlik",
+        "jokkis",
+        "viinane",
+        "roolijoodik",
+        "purupurju",
+        "purjutama",
+        "poolpurjus",
+        "purju",
+        "purjakil",
+        "joobeaste",
+        "purjusolek"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "purjus",
+      "translations": [
+        "befuddled",
+        "bleareyed",
+        "blear-eyed",
+        "bleary-eyed",
+        "blotto",
+        "bombed",
+        "boozy",
+        "drunk",
+        "slewed",
+        "soused",
+        "squiffed",
+        "wasted"
+      ]
+    }
+  ]
+}

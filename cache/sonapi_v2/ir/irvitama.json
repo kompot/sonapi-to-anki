@@ -1,0 +1,614 @@
+{
+  "requestedWord": "irvitama",
+  "estonianWord": "irvitama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "irvitama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "irvitamata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "irvitamas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "irvitamast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "irvitamaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "irvitatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "irvitada"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "irvitades"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "irvitav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "irvitatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "irvitanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "irvitanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "irvitatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "irvitatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "irvitan"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "irvitad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "irvitab"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "irvitame"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "irvitate"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "irvitavad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "irvita"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "irvitatakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "irvitata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "irvitasin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "irvitasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "irvitas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "irvitasime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "irvitasite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "irvitasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "irvitati"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "irvitaksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "irvitaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "irvitaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "irvitaksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "irvitaksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "irvitaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "irvitataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "irvitanuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "irvitanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "irvitanuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "irvitanuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "irvitanuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "irvitanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "irvitatuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "irvitavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "irvitatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "irvitanuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "irvitatuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "irvita"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "irvitagem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "irvitage"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "irvitagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "irvitatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "pilkavalt, üleolevalt, kahjurõõmsalt vms moel naerma,selliselt naerdes või mõnitades millestki või kellestki rääkima",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "„Ahaa, maarott ronis siia!” irvitasid meremehed.",
+            "Margus irvitas mu riidest taskurätikute üle."
+          ],
+          "synonyms": [
+            "naerma",
+            "narritama,narrima",
+            "ilkuma",
+            "välja naerma",
+            "pilkama",
+            "iroonitsema,ironiseerima",
+            "pilama",
+            "naeruvääristama",
+            "mõnitama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "насмехаться",
+                "weight": 1
+              },
+              {
+                "words": "издеваться",
+                "weight": 1
+              },
+              {
+                "words": "глумиться",
+                "weight": 1
+              },
+              {
+                "words": "насмеяться",
+                "weight": 1
+              },
+              {
+                "words": "надругаться",
+                "weight": 1
+              },
+              {
+                "words": "измываться",
+                "weight": 1
+              },
+              {
+                "words": "насмешничать",
+                "weight": 1
+              },
+              {
+                "words": "зубоскалить",
+                "weight": 1
+              },
+              {
+                "words": "скалиться",
+                "weight": 1
+              },
+              {
+                "words": "мудрить",
+                "weight": 1
+              },
+              {
+                "words": "оскаливаться",
+                "weight": 1
+              },
+              {
+                "words": "оскалиться",
+                "weight": 1
+              },
+              {
+                "words": "скалить зубы",
+                "weight": 1
+              },
+              {
+                "words": "надсмехаться",
+                "weight": 1
+              },
+              {
+                "words": "надсмеяться",
+                "weight": 1
+              },
+              {
+                "words": "тешиться",
+                "weight": 1
+              },
+              {
+                "words": "оскаливать зубы",
+                "weight": 1
+              },
+              {
+                "words": "оскалить зубы",
+                "weight": 1
+              },
+              {
+                "words": "осмеять,посмеяться,насмехаться,смеяться,осмеивать,хихикать,высмеивать,высмеять",
+                "weight": 0.9
+              },
+              {
+                "words": "дразнить,глумиться,насмехаться,передразнить,передразнивать,подшутить,подтрунить,поддразнивать,подшучивать,подтрунивать,раздразнить,раздразнивать,издеваться",
+                "weight": 0.9
+              },
+              {
+                "words": "глумиться,злорадствовать,улюлюкать,насмехаться",
+                "weight": 0.9
+              },
+              {
+                "words": "поднять на смех,высмеивать,высмеять,осмеивать,осмеять,поднимать на смех,засмеивать,засмеять,вышучивать,вышутить,обсмеивать,обсмеять",
+                "weight": 0.9
+              },
+              {
+                "words": "насмехаться,осмеять,осмеивать,надсмеяться,насмеяться,иронизировать,подтрунить,подтрунивать,насмешничать",
+                "weight": 0.85
+              },
+              {
+                "words": "тонко вышучивать,иронизировать,насмехаться,насмешничать,тонко вышутить",
+                "weight": 0.9
+              },
+              {
+                "words": "глумиться,иронизировать,издеваться,насмеяться,надсмеяться,осмеивать,осмеять,высмеивать,пересмеивать,подтрунивать,подтрунить,насмехаться",
+                "weight": 0.9
+              },
+              {
+                "words": "выставить в смешном виде,делать посмешищем,выставлять в смешном виде,высмеивать,высмеять,осмеивать,осмеять,сделать посмешищем,поднимать на смех,поднять на смех,рофлить",
+                "weight": 0.85
+              },
+              {
+                "words": "ломаться,куражиться,глумиться,издеваться,надругаться,измываться,поглумиться,покуражиться,кощунствовать",
+                "weight": 0.838
+              }
+            ]
+          }
+        },
+        {
+          "definition": "poollahti, irvakil olema",
+          "partOfSpeech": [],
+          "examples": [
+            "Tema pea kohal oleva pildi klaasis irvitas pirakas auk."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "насмехаться",
+                "weight": 1
+              },
+              {
+                "words": "глумиться",
+                "weight": 1
+              },
+              {
+                "words": "насмешничать",
+                "weight": 1
+              },
+              {
+                "words": "измываться",
+                "weight": 1
+              },
+              {
+                "words": "скалить зубы",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "haigutama",
+        "narrima",
+        "ironiseerima",
+        "lõkerdama",
+        "pugisema",
+        "nöökama",
+        "nalja tegema",
+        "ilkuma",
+        "mugistama",
+        "lagistama",
+        "karikeerima",
+        "turtsuma",
+        "pilkama",
+        "iroonitsema",
+        "mugisema",
+        "pilama",
+        "tönkama",
+        "kugisema",
+        "naeruvääristama",
+        "tögama",
+        "aasima",
+        "tonksima",
+        "naeruks tegema",
+        "pugistama",
+        "nöökima",
+        "mügisema",
+        "kõkutama",
+        "puksuma",
+        "hihitama",
+        "pupsuma",
+        "itsitama",
+        "mõnitama",
+        "kihistama",
+        "naerma",
+        "hirnuma",
+        "naeruks panema",
+        "nalja heitma",
+        "välja naerma",
+        "hambaid näitama",
+        "nalja viskama",
+        "irevile",
+        "lõõpima",
+        "põlastama",
+        "lõkatama",
+        "lõkatama",
+        "tõmbama",
+        "kekutama",
+        "kikerdama",
+        "kihistama",
+        "hassetama",
+        "ässitama",
+        "perutama",
+        "ohhetama",
+        "eputama",
+        "ahastama",
+        "lösutama",
+        "kissitama",
+        "tembutama",
+        "tümitama",
+        "rüvetama",
+        "poetama",
+        "avitama",
+        "mossitama",
+        "käputama",
+        "sülitama",
+        "teotama",
+        "poputama",
+        "põetama",
+        "sütitama",
+        "lömastama",
+        "kopitama",
+        "pabistama",
+        "külastama",
+        "evitama",
+        "kõditama",
+        "tänitama",
+        "kokutama",
+        "lehvitama",
+        "kepsutama",
+        "paitama",
+        "ropendama",
+        "ilustama",
+        "teietama",
+        "krimpsutama",
+        "jõllitama",
+        "upitama",
+        "tervitama",
+        "utsitama",
+        "läkastama",
+        "himustama",
+        "ussitama",
+        "vihastama",
+        "napsitama",
+        "patustama",
+        "näägutama",
+        "põlvitama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "irvitama",
+      "translations": [
+        "grin",
+        "(millegi üle) laugh to scorn",
+        "scoff",
+        "scorn",
+        "smirk",
+        "sneer"
+      ]
+    }
+  ]
+}

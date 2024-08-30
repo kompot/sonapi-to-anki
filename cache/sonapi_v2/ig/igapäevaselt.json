@@ -1,0 +1,137 @@
+{
+  "requestedWord": "igapäevaselt",
+  "estonianWord": "igapäevaselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "igapäevaselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kogu aeg, päev päeva järel, igal päeval,pidevalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nüüd, mil ma igapäevaselt õmblesin, nägin ma seda köit vaimusilmas niipea, kui masina valmis panin ja pedaali paika sättisin.",
+            "Siin on esindatud suuline keel sellisel kujul, nagu eestlased seda igapäevaselt suheldes kasutavad."
+          ],
+          "synonyms": [
+            "päevast päeva",
+            "iga päev",
+            "kogu aeg,koguaeg"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ежедневно",
+                "weight": 1
+              },
+              {
+                "words": "каждый день",
+                "weight": 1
+              },
+              {
+                "words": "изо дня в день",
+                "weight": 1
+              },
+              {
+                "words": "всё время",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "tout le temps",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "весь час",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "always,all the time",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "töö- või argipäevale, argisele sündmusele vastavalt või kohaselt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõik teised olid igapäevaselt riides, aga mina kandsin ülikonda."
+          ],
+          "synonyms": [
+            "argipäevaselt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "по-будничному",
+                "weight": 1
+              },
+              {
+                "words": "буднично",
+                "weight": 1
+              },
+              {
+                "words": "обыденно",
+                "weight": 1
+              },
+              {
+                "words": "повседневно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "argiselt",
+        "harilikult",
+        "tavaliselt",
+        "argipäevaselt",
+        "proosaliselt",
+        "igapäev",
+        "tihti",
+        "regulaarselt",
+        "pidevalt",
+        "igapäevamure",
+        "aeg-ajalt",
+        "pühapäevaselt",
+        "päevaselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "igapäevaselt",
+      "translations": [
+        "routinely"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "requestedWord": "pilves",
+  "estonianWord": "pilves",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "pilves"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "pilvises olekus, pilvedega kaetud,kui ilm on <eki-highlight>pilves</eki-highlight>, siis on taevas palju pilvi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pilves ilm.",
+            "Möödunud öö oli pilves.",
+            "Hommik oli pilves ja vihmane."
+          ],
+          "synonyms": [
+            "pilvine",
+            "sompjas,hall,sombune,sompus,sonnune,sumune",
+            "pilvis",
+            "hämar,videv,vidune",
+            "morn",
+            "tusane",
+            "sünge"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "couvert",
+                "weight": 1
+              },
+              {
+                "words": "nuageux",
+                "weight": 0.9
+              },
+              {
+                "words": "sombre",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "облачно",
+                "weight": 1
+              },
+              {
+                "words": "хмурый,облачный,пасмурный",
+                "weight": 0.9
+              },
+              {
+                "words": "облачный,пасмурный,туманный,мглистый,хмурый",
+                "weight": 0.9
+              },
+              {
+                "words": "сумрачный,мглистый,пасмурный,тенистый,туманный,сумеречный,тусклый",
+                "weight": 0.9
+              },
+              {
+                "words": "пасмурный,хмурый,сумрачный",
+                "weight": 0.9
+              },
+              {
+                "words": "хмурый,мрачный,угрюмый",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "хмарно",
+                "weight": 1
+              },
+              {
+                "words": "захмарений,хмарний",
+                "weight": 0.9
+              },
+              {
+                "words": "тінистий,темний,похмурий,присмерковий,смерковий,сутінковий",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "cloudy",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(näoilme kohta:) sünge, tusane, tujust ära olekut väljendav",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Uudise peale selgis direktori pilves nägu sedamaid.",
+            "Miks sa nii pilves oled?"
+          ],
+          "synonyms": [
+            "morn",
+            "mossis,vingus,vissis",
+            "tusameelne",
+            "torssis,tossis",
+            "pahur",
+            "torris",
+            "nina vingus",
+            "torsakas",
+            "pännis",
+            "turris",
+            "tujutu",
+            "sünk,sünge"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "неприветливый,невесёлый,угрюмый,хмурый,мрачный,нахмуренный,насупленный,постный,неулыбчивый",
+                "weight": 0.9
+              },
+              {
+                "words": "угрюмый,хмурый,мрачный,нахмуренный,насупленный,постный,надутый",
+                "weight": 0.9
+              },
+              {
+                "words": "хмурый,угрюмый,мрачный,надутый,помрачневший",
+                "weight": 0.9
+              },
+              {
+                "words": "мрачный,угрюмый",
+                "weight": 0.9
+              },
+              {
+                "words": "досадливый,недовольный,сердитый,угрюмый,мрачный,возмущённый",
+                "weight": 0.2
+              },
+              {
+                "words": "взъерошенный,ощетинившийся",
+                "weight": 0.9
+              },
+              {
+                "words": "невесёлый,расстроенный,не в духе,унылый,безрадостный,мрачный",
+                "weight": 0.9
+              },
+              {
+                "words": "мрачный,пасмурный,сумрачный,угрюмый,хмурый",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "narkootikumist tingitult joobeseisundis, narkouimas",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta on kogu aeg purjus või pilves.",
+            "Õhtuti tuigub maja ümber pilves noorukeid."
+          ],
+          "synonyms": [
+            "laksu all",
+            "uimas",
+            "narkouimas"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "под кайфом",
+                "weight": 1
+              },
+              {
+                "words": "под дурманом",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "laksu all",
+        "narkouimas",
+        "uimas",
+        "sompjas",
+        "sombune",
+        "sünge",
+        "seltsis segasem",
+        "tuuris",
+        "tuuris",
+        "torsakas",
+        "nina vingus",
+        "vissis",
+        "mõnekesi",
+        "mitmekesi",
+        "kampas",
+        "tujutu",
+        "hulgakesi",
+        "kambas",
+        "tusameelne",
+        "tossis",
+        "pahur",
+        "hapu",
+        "seltsis",
+        "torris",
+        "morn",
+        "mossis",
+        "tusane",
+        "hulganisti",
+        "torssis",
+        "tohe",
+        "torin",
+        "udune",
+        "hulgaliselt",
+        "hulgani",
+        "mõttes",
+        "pilvine",
+        "hämar",
+        "vingus",
+        "paljukesi",
+        "pännis",
+        "tõre",
+        "karjakaupa",
+        "turris",
+        "sügisene",
+        "tire",
+        "tire",
+        "tusatsema",
+        "kulmu kortsutama",
+        "tuhmilt",
+        "mossitama",
+        "hallilt",
+        "sompus",
+        "süngestuma",
+        "ähmaselt",
+        "ilmetult",
+        "hall",
+        "hall",
+        "hall",
+        "lauspilves",
+        "pilvestik",
+        "pilvemass",
+        "pilvis",
+        "pilvemets",
+        "pilvesammas",
+        "pilvitu",
+        "pilveriba",
+        "pilveräbal",
+        "pilve",
+        "pilvesein"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pilves",
+      "translations": [
+        "hopped-up",
+        "in a cloud",
+        "stoned (narkootikumiuimas)"
+      ]
+    }
+  ]
+}

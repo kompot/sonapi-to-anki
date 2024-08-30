@@ -1,0 +1,512 @@
+{
+  "requestedWord": "oskama",
+  "estonianWord": "oskama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "oskan"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "oskad"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "oskab"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "oskame"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "oskate"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "oskavad"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "oska"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "osatakse"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "osata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "oskasin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "oskasid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "oskas"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "oskasime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "oskasite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "oskasid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "osati"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "oskaksin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "oskaksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "oskaks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "oskaksime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "oskaksite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "oskaksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "osataks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "osanuksin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "osanuksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "osanuks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "osanuksime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "osanuksite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "osanuksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "osatuks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "oskavat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "osatavat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "osanuvat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "osatuvat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "oska"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "osakem"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "osake"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "osaku"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "osatagu"
+        },
+        {
+          "inflectionType": "29",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "oskama"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "oskamata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "oskamas"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "oskamast"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "oskamaks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "osatama"
+        },
+        {
+          "inflectionType": "29",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "osata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "osates"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "oskav"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "osatav"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "osanud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "osanud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "osatud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "osatud"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "ei oska"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(õppimise läbi) mingit oskust omama,millekski võimeline olema, millegagi (ladusalt) toime tulema,mingit oskust omama,millekski võimeline olema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Laps oskab juba lugeda.",
+            "Mitut keelt sa oskad?",
+            "Minu mees ei oska haamritki käes hoida.",
+            "Ma ei oska su küsimusele vastata.",
+            "Tõesti ei oska öelda, kes või mis süüdi oli.",
+            "Ma oskan hästi prantsuse ja itaalia keelt.",
+            "Laps oskab juba lugeda.",
+            "Ta ei oska viisakalt käituda.",
+            "Poiss oskab saksa keelt."
+          ],
+          "synonyms": [
+            "valdama",
+            "teadma",
+            "mõistma",
+            "kodus olema",
+            "mõikama",
+            "taipama",
+            "suutma",
+            "selge olema",
+            "tundma",
+            "rääkima,kõnelema"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "savoir",
+                "weight": 1
+              },
+              {
+                "words": "connaître",
+                "weight": 1
+              },
+              {
+                "words": "maîtriser",
+                "weight": 0.778
+              },
+              {
+                "words": "pouvoir",
+                "weight": 0.7845
+              },
+              {
+                "words": "connaître",
+                "weight": 0.9
+              },
+              {
+                "words": "parler",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "уметь",
+                "weight": 1
+              },
+              {
+                "words": "знать",
+                "weight": 1
+              },
+              {
+                "words": "владеть,знать",
+                "weight": 0.778
+              },
+              {
+                "words": "знать",
+                "weight": 0.8165
+              },
+              {
+                "words": "уметь",
+                "weight": 0.85
+              },
+              {
+                "words": "разбираться",
+                "weight": 0.9
+              },
+              {
+                "words": "сообразить,смыслить,разуметь,кумекать,мараковать,соображать,смекнуть,смекать",
+                "weight": 0.75
+              },
+              {
+                "words": "разбираться,понимать,понять,схватить,смекать,смекнуть,разбирать,разобрать,схватывать,ухватывать,ухватить,соображать,улавливать,уловить,сообразить,смыслить,постигать,постигнуть,постичь,разобраться",
+                "weight": 0.75
+              },
+              {
+                "words": "быть в силах,быть в состоянии,смочь,быть способным,мочь",
+                "weight": 0.7845
+              },
+              {
+                "words": "разбираться,знать",
+                "weight": 0.9
+              },
+              {
+                "words": "говорить",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "уміти",
+                "weight": 1
+              },
+              {
+                "words": "знати",
+                "weight": 1
+              },
+              {
+                "words": "знати,володіти",
+                "weight": 0.778
+              },
+              {
+                "words": "могти,змогти,бути в силі,бути спроможним,бути здатним",
+                "weight": 0.7845
+              },
+              {
+                "words": "розумітися,тямити,знати,знатися",
+                "weight": 0.9
+              },
+              {
+                "words": "розмовляти,говорити",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "realise",
+                "weight": 0.75
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "selge olema",
+        "valdama",
+        "teadma",
+        "mõistma",
+        "kodus olema",
+        "mõikama",
+        "suutma",
+        "aduma",
+        "tundma",
+        "taipama",
+        "aru saama",
+        "oskamatusest",
+        "oskamatus",
+        "oskamatult",
+        "oskamatu",
+        "hoomama",
+        "üritama",
+        "tohtima",
+        "nuuskama",
+        "räuskama",
+        "viitsima",
+        "luiskama",
+        "söandama",
+        "mõistatama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "oskama",
+      "translations": []
+    }
+  ]
+}

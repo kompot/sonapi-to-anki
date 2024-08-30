@@ -1,0 +1,332 @@
+{
+  "requestedWord": "salong",
+  "estonianWord": "salong",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "salong"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "salongi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "salongi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "salongi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "salongisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "salongis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "salongist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "salongile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "salongil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "salongilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "salongiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "salongini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "salongina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "salongita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "salongiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "salongid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "salongide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "salonge,salongisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "salongidesse,salongesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "salongides,salonges"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "salongidest,salongest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "salongidele,salongele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "salongidel,salongel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "salongidelt,salongelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "salongideks,salongeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "salongideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "salongidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "salongideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "salongidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "elegantselt sisustatud ruum võõraste vastuvõtuks",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Algselt mängiti akordioni salongides, kus aadelkond koos käis."
+          ],
+          "synonyms": [
+            "külalistuba,võõrastetuba"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "салон",
+                "weight": 1
+              },
+              {
+                "words": "комната для гостей",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(esinduslik) teenindus- või kaubandusettevõte,ettevõte, kus pakutakse mingit teenust või kaupa",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kõik salongid habemeajamise teenust ei paku.",
+            "Fotosalong.",
+            "Müügisalong.",
+            "Moesalong.",
+            "Salongis töötavad professionaalsed juuksurid."
+          ],
+          "synonyms": [
+            "ateljee"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "салон",
+                "weight": 1
+              },
+              {
+                "words": "ателье,студия",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "салон",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "sõitjatele ettenähtud osa sõidukis (nt laevas, autos)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kliimaseade oli salongi maha jahutanud."
+          ],
+          "synonyms": [
+            "sõitjateruum"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "пассажирский салон",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kirjandus-, kunsti- või poliitikahuviliste inimeste seltskondlik ring,selles ringis toimuv üritus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kirjanduslik salong Kati Murutariga Põltsamaa raamatukogus."
+          ],
+          "synonyms": [
+            "salongiõhtu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "салон",
+                "weight": 1
+              },
+              {
+                "words": "салонный вечер",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "võõrastetuba",
+        "ateljee",
+        "salongiõhtu",
+        "rannasalong",
+        "kosmeetikasalong",
+        "kirjandussalong",
+        "iludussalong",
+        "juuksurisalong",
+        "autosalong",
+        "kunstisalong",
+        "ilusalong",
+        "salongilõvi",
+        "müügisalong",
+        "salongvagun",
+        "talong"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "salong",
+      "translations": [
+        "lounge",
+        "salon",
+        "saloon (saal)"
+      ]
+    }
+  ]
+}

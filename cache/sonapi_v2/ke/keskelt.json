@@ -1,0 +1,198 @@
+{
+  "requestedWord": "keskelt",
+  "estonianWord": "keskelt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "keskelt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingi ala, koha keskkohast,mingi koha keskmisest osast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Püüdsime teisel poolajal ülearu sageli keskelt läbi murda.",
+            "Joonlaud oli keskelt katki.",
+            "Tõstsime toolid saali keskelt seina äärde.",
+            "Koer hüppab ringi keskelt välja."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "du milieu de",
+                "weight": 1
+              },
+              {
+                "words": "du centre de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "из середины",
+                "weight": 1
+              },
+              {
+                "words": "с середины",
+                "weight": 1
+              },
+              {
+                "words": "посреди",
+                "weight": 1
+              },
+              {
+                "words": "посередине",
+                "weight": 1
+              },
+              {
+                "words": "посредине",
+                "weight": 1
+              },
+              {
+                "words": "из центра",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з середини",
+                "weight": 1
+              },
+              {
+                "words": "із центру",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellestki või millestki ümbritsetud olekust",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Väikeste puude keskelt ilmus nähtavale põder."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "kellegi hulgast, kellegi seast,kellegi seltskonnast, kellegi hulgast",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Nad valisid endi keskelt kolm saadikut.",
+            "Lavastaja jälgis etendust publiku keskelt."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "parmi",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "среди",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з",
+                "weight": 1
+              },
+              {
+                "words": "з-поміж",
+                "weight": 1
+              },
+              {
+                "words": "з-посеред",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajaliselt:) millegi keskpaigast,mingi ajavahemiku keskmisest osast",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Kõige vanem lugu andmebaasis on pärit 18. sajandi keskelt.",
+            "Algab oma kirjeldustega sündmuste keskelt peale.",
+            "See mõis on pärit 16. sajandi keskelt."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "du milieu de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "из середины",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з середини",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "otsast",
+        "eestotsast",
+        "keskel",
+        "pealepoole",
+        "keskele",
+        "vahelt",
+        "priskelt",
+        "servapidi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "keskelt",
+      "translations": []
+    }
+  ]
+}

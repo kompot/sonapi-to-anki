@@ -1,0 +1,390 @@
+{
+  "requestedWord": "kolm",
+  "estonianWord": "kolm",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22i",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kolm"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kolme"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kolme"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "kolme"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kolmesse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kolmes"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kolmest"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kolmele"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kolmel"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kolmelt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kolmeks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kolmeni"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kolmena"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kolmeta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kolmega"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kolmed"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kolmede"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kolmi,kolmesid"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kolmedesse,kolmisse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kolmedes,kolmis"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kolmedest,kolmist"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kolmedele,kolmile"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kolmedel,kolmil"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kolmedelt,kolmilt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kolmedeks,kolmiks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kolmedeni"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kolmedena"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kolmedeta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kolmedega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "põhiarv 3,arv 3",
+          "partOfSpeech": [
+            {
+              "code": "num",
+              "value": "arvsõna, numeraal"
+            }
+          ],
+          "examples": [
+            "Kakskümmend kolm.",
+            "Jaga kuus kolmega.",
+            "Süüa pakuti kolm korda päevas.",
+            "Neil on kolm last.",
+            "Kell saab kolm."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "three",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "trois",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "три",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "три",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kellaaja kohta:) päeval või öösel kell 3",
+          "partOfSpeech": [],
+          "examples": [
+            "Pühapäeval kell kolm."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "three",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "три",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hulgalt, koguselt 3",
+          "partOfSpeech": [],
+          "examples": [
+            "Kolm tilka verd.",
+            "Jaga õun kolmeks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "three",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(vastava arvulise järjekorra kohta)",
+          "partOfSpeech": [],
+          "examples": [
+            "Tramm nr 3.",
+            "Paragrahv kolm."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "three",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "number 3",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Rooma kolm.",
+            "Viskasin täringuga kolme."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "three",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "тройка",
+                "weight": 1
+              },
+              {
+                "words": "цифра три",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "viiepallisüsteemis „puuduliku” ja „hea” vahelmine hinne, hinne 3",
+          "partOfSpeech": [],
+          "examples": [
+            "Sain jälle kolme.",
+            "Õppisin kolmedele."
+          ],
+          "synonyms": [
+            "rahuldav"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "тройка",
+                "weight": 1
+              },
+              {
+                "words": "три",
+                "weight": 1
+              },
+              {
+                "words": "удовлетворительно",
+                "weight": 1
+              },
+              {
+                "words": "удовлетворительная отметка",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "rahuldav",
+        "kolmi",
+        "kolmekesi",
+        "kümme",
+        "neli",
+        "paar",
+        "kaksteist",
+        "neliteist",
+        "mituteist",
+        "kakskümmend",
+        "kaheksasada",
+        "viis",
+        "kolm-neli",
+        "kaheksa",
+        "üheksa",
+        "seitse",
+        "kolmteist",
+        "mitu",
+        "kaks",
+        "viisteist",
+        "seitsekümmend",
+        "seitseteist",
+        "poolteist",
+        "teist",
+        "paar",
+        "viis",
+        "viis"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kolm",
+      "translations": [
+        "three"
+      ]
+    }
+  ]
+}

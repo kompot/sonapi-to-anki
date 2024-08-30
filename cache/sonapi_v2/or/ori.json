@@ -1,0 +1,394 @@
+{
+  "requestedWord": "ori",
+  "estonianWord": "ori",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "24e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "ori"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "orja"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "orja"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "orja"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "orjasse"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "orjas"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "orjast"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "orjale"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "orjal"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "orjalt"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "orjaks"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "orjani"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "orjana"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "orjata"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "orjaga"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "orjad"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "orjade"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "orje,orjasid"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "orjadesse,orjesse"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "orjades,orjes"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "orjadest,orjest"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "orjadele,orjele"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "orjadel,orjel"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "orjadelt,orjelt"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "orjadeks,orjeks"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "orjadeni"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "orjadena"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "orjadeta"
+        },
+        {
+          "inflectionType": "24e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "orjadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi omandiks olev õigusteta inimene",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Haiti elanikkonna enamuse moodustavad Aafrikast toodud mustanahaliste orjade järeltulijad.",
+            "Vabaks lastud orjad."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "раб",
+                "weight": 1
+              },
+              {
+                "words": "рабыня",
+                "weight": 1
+              },
+              {
+                "words": "раба",
+                "weight": 1
+              },
+              {
+                "words": "невольник",
+                "weight": 1
+              },
+              {
+                "words": "невольница",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(väikese palga eest) kõvasti tööd rabav inimene",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Sageli oled väikefirmas ise tööandjana kõige suurem ori."
+          ],
+          "synonyms": [
+            "tööori",
+            "neeger"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "раб",
+                "weight": 1
+              },
+              {
+                "words": "рабыня",
+                "weight": 1
+              },
+              {
+                "words": "работяга,трудоголик",
+                "weight": 0.7
+              },
+              {
+                "words": "негр",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millestki või kellestki suuresti sõltuv, millegi või kellegi meelevallas olev inimene",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Inimene on harjumuste ori.",
+            "Kes endale pangalaenu kaela on võtnud, see on panga ori viimase laenumakseni."
+          ],
+          "synonyms": [
+            "vang",
+            "teener",
+            "mürmidoon,käsutäitja",
+            "tallaalune",
+            "käsualune",
+            "toapoiss"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "раб",
+                "weight": 1
+              },
+              {
+                "words": "рабыня",
+                "weight": 1
+              },
+              {
+                "words": "подхалим,прислужник,лакей,холоп,подхалимка",
+                "weight": 0.7
+              },
+              {
+                "words": "исполнитель приказа,выполняющий приказ,исполнитель,исполнительница,приспешник,приспешница",
+                "weight": 0.9
+              },
+              {
+                "words": "подневольный,приказной,подчинённая,подчинённый",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "prisoner",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "võlaori",
+        "tööori",
+        "teoori",
+        "templiori",
+        "seksiori",
+        "riigiori",
+        "pärisori",
+        "patuori",
+        "palgaori",
+        "neegerori",
+        "naisori",
+        "mõisaori",
+        "meesori",
+        "mammonaori",
+        "kõhuori",
+        "galeeriori",
+        "teener",
+        "toapoiss",
+        "orjahing",
+        "orjatar",
+        "käsutäitja",
+        "alam",
+        "tallaalune",
+        "teenija",
+        "käsualune",
+        "palgatööline",
+        "orjalik",
+        "trääl",
+        "orjakaupmees",
+        "orjapõli",
+        "orjastaja",
+        "vang",
+        "orjaöö",
+        "orjapidaja",
+        "küürakas",
+        "pätt",
+        "pätt",
+        "munn",
+        "pagar",
+        "macho",
+        "inimsööja",
+        "metslane",
+        "juut",
+        "verejanuline",
+        "värdjas",
+        "lindprii",
+        "blond",
+        "sitapea",
+        "surelik",
+        "patune",
+        "tumm",
+        "tumm",
+        "päkaalune",
+        "uelslane",
+        "argpüks",
+        "kaabakas",
+        "beib",
+        "türann",
+        "tõbras",
+        "vang",
+        "isand",
+        "lojus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ori",
+      "translations": [
+        "bondman",
+        "bondservant",
+        "bond servant",
+        "bond-servant",
+        "menial",
+        "serf",
+        "slave"
+      ]
+    }
+  ]
+}

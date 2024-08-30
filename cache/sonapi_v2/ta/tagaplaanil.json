@@ -1,0 +1,71 @@
+{
+  "requestedWord": "tagaplaanil",
+  "estonianWord": "tagaplaanil",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tagaplaanil"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teisejärgulisel, vähemtähtsal, vähem nähtaval vms kohal või positsioonil",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kui sõbrad kutsusid, oli perekond ikka tagaplaanil.",
+            "Presidendi abikaasa eelistas püsida tagaplaanil."
+          ],
+          "synonyms": [
+            "vari"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "на заднем плане",
+                "weight": 1
+              },
+              {
+                "words": "тень",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tagaplaanile",
+        "paremal",
+        "esiplaanil",
+        "taamal",
+        "tagapoolne",
+        "tagapool",
+        "tahaplaanile",
+        "tagaplaan",
+        "esiplaanile",
+        "esiplaan"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tagaplaanil",
+      "translations": [
+        "behind the scenes"
+      ]
+    }
+  ]
+}

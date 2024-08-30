@@ -1,0 +1,93 @@
+{
+  "requestedWord": "eelnevalt",
+  "estonianWord": "eelnevalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eelnevalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millestki toimuvast, tehtavast varem",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Oma osavõtust paluti eelnevalt teatada.",
+            "Eelnevalt on seda teemat palju arutatud."
+          ],
+          "synonyms": [
+            "eel"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "предварительно",
+                "weight": 1
+              },
+              {
+                "words": "заранее",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ette",
+        "enne",
+        "enne",
+        "ennakult",
+        "eeli",
+        "varem",
+        "esialgselt",
+        "esmalt",
+        "konkreetselt",
+        "põhjalikult",
+        "varasemalt",
+        "hoolikalt",
+        "täpselt",
+        "korralikult",
+        "personaalselt",
+        "teadlikult",
+        "samuti",
+        "juba",
+        "kindlasti",
+        "järgnevalt",
+        "aegsasti",
+        "ise",
+        "ise",
+        "ise",
+        "alati",
+        "loomulikult",
+        "korduvalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "eelnevalt",
+      "translations": [
+        "afore",
+        "beforehand",
+        "hereinbefore",
+        "previously",
+        "prior to",
+        "therebiforn"
+      ]
+    }
+  ]
+}

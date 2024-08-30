@@ -1,0 +1,362 @@
+{
+  "requestedWord": "nimetus",
+  "estonianWord": "nimetus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "nimetus"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "nimetuse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "nimetust"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "nimetusse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "nimetusesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "nimetuses"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "nimetusest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "nimetusele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "nimetusel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "nimetuselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "nimetuseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "nimetuseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "nimetusena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "nimetuseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "nimetusega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "nimetused"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "nimetuste"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "nimetusi"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "nimetustesse,nimetusisse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "nimetustes,nimetusis"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "nimetustest,nimetusist"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "nimetustele,nimetusile"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "nimetustel,nimetusil"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "nimetustelt,nimetusilt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "nimetusteks,nimetusiks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "nimetusteni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "nimetustena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "nimetusteta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "nimetustega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sõna või sõnaühend, mis tähistab mingit tüüpi objekti (nt <eki-foreign>pühapäev</eki-foreign>, <eki-foreign>ülikool</eki-foreign>, <eki-foreign>mets</eki-foreign>)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kõik pintsakukandjad ei vääri härrasmehe nimetust.",
+            "Selle laulustiili rahvusvaheline nimetus on runo.",
+            "Taimede rahvapärased nimetused.",
+            "Nädalapäevade nimetused."
+          ],
+          "synonyms": [
+            "nimi",
+            "üldnimetus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "название",
+                "weight": 1
+              },
+              {
+                "words": "название,наименование",
+                "weight": 0.8307
+              },
+              {
+                "words": "общее название",
+                "weight": 0.621
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teistest eristuv arvestusüksus mingis nimistus (nt iga tooteartikkel või omaette pealkirjaga väljaanne)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tehase toodangus on 380 nimetust maitseaineid.",
+            "Tema tõlgitud raamatute loetelu hõlmab 27 nimetust.",
+            "Patsiendid ei orienteeru hästi ravimite nimetustes."
+          ],
+          "synonyms": [
+            "tootenimetus,tootenimi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "наименование",
+                "weight": 1
+              },
+              {
+                "words": "название изделия,название товара",
+                "weight": 0.624
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tiitel, aunimetus vms",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Eesti Kooriühingu auliikme nimetus anti .."
+          ],
+          "synonyms": [
+            "tiitel",
+            "aunimetus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "звание",
+                "weight": 1
+              },
+              {
+                "words": "титул,звание,сан",
+                "weight": 0.9
+              },
+              {
+                "words": "почётное звание,почётное наименование",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "titre",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звання,титул",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingit kohta, asutust vms nimena eristav kirjeldav sõnaühend,millegi nimi",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Minu töökoha nimetus on eesti keele instituut.",
+            "Mis on teie asutuse ametlik nimetus?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "nom",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "название",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "назва",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "aunimetus",
+        "nimi",
+        "silt",
+        "üldnimi",
+        "tiitel",
+        "pealkiri",
+        "enesenimetus",
+        "ühisnimetus",
+        "tootenimetus",
+        "tingnimetus",
+        "linnunimetus",
+        "originaalnimetus",
+        "kutsenimetus",
+        "liiginimetus",
+        "üldnimetus",
+        "ametinimetus",
+        "lühendnimetus",
+        "päritolunimetus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "nimetus",
+      "translations": [
+        "appellation",
+        "designation"
+      ]
+    }
+  ]
+}

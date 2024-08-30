@@ -1,0 +1,284 @@
+{
+  "requestedWord": "sõnnik",
+  "estonianWord": "sõnnik",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "sõnnik"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "sõnniku"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "sõnnikut"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "sõnnikusse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "sõnnikus"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "sõnnikust"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "sõnnikule"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "sõnnikul"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "sõnnikult"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "sõnnikuks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "sõnnikuni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "sõnnikuna"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "sõnnikuta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "sõnnikuga"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "sõnnikud"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "sõnnikute"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "sõnnikuid"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "sõnnikutesse,sõnnikuisse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "sõnnikutes,sõnnikuis"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "sõnnikutest,sõnnikuist"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "sõnnikutele,sõnnikuile"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "sõnnikutel,sõnnikuil"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "sõnnikutelt,sõnnikuilt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "sõnnikuteks,sõnnikuiks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "sõnnikuteni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "sõnnikutena"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "sõnnikuteta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "sõnnikutega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(ladestunud, sõnnikuks kujunenud) põllumajandusloomade väljaheide, hrl väetisena",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Puhta sõnniku peal kasvanud nisu.",
+            "Sõnnikut põllule laotama.",
+            "Hobusesõnnik.",
+            "Lehmasõnnik.",
+            "Seasõnnik."
+          ],
+          "synonyms": [
+            "loomasõnnik"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "навоз",
+                "weight": 1
+              },
+              {
+                "words": "помёт",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(millegi täiesti kõlbmatu või väärtusetu kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Süüdimõistetud ei ole kõnts ega sõnnik, nagu paljud arvavad.",
+            "Kultuur on isamaaline sõnnik."
+          ],
+          "synonyms": [
+            "praht,rämps",
+            "sitt,pask"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "дребедень,барахло,хлам,дрянь,шваль,заваль,чепуха",
+                "weight": 0.9
+              },
+              {
+                "words": "дерьмо,херня,хрень",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sitt",
+        "rämps",
+        "laudasõnnik",
+        "praht",
+        "praht",
+        "loomasõnnik",
+        "pahn",
+        "sõnnikulaotur",
+        "hobusesõnnik",
+        "hein",
+        "heinahunnik",
+        "linnusõnnik",
+        "sõnnikuvedu",
+        "õngesööt",
+        "kompostihunnik",
+        "sõnnikuhark",
+        "koresööt",
+        "põlluväetis",
+        "sõnnikuhoidla",
+        "lehmasõnnik",
+        "vedelsõnnik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sõnnik",
+      "translations": [
+        "dung",
+        "manure",
+        "muck"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "requestedWord": "mitmeti",
+  "estonianWord": "mitmeti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "mitmeti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mitut moodi, mitmel moel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sõnum oli mitmeti mõistetav."
+          ],
+          "synonyms": [
+            "mitmeselt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "по-разному",
+                "weight": 1
+              },
+              {
+                "words": "различным образом",
+                "weight": 1
+              },
+              {
+                "words": "разно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "paljuski, mitmes asjas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mitmeti pealiskaudne artikkel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "во многом",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mitutpidi",
+        "nii ja naa",
+        "kujundlikult",
+        "mitmetahuline",
+        "mitmetähenduslikkus",
+        "mitmetähenduslik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "mitmeti",
+      "translations": []
+    }
+  ]
+}

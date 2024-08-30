@@ -1,0 +1,59 @@
+{
+  "requestedWord": "küüsist",
+  "estonianWord": "küüsist",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "küüsist"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "meelevallast või võimusest ära",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Pühapilt olevat päästnud Venemaa Napoleoni küüsist.",
+            "Vanemaid inimesi on hilja alkoholismi küüsist päästa."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "из лап",
+                "weight": 1
+              },
+              {
+                "words": "из когтей",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "küüsis",
+        "küüsi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "küüsist",
+      "translations": []
+    }
+  ]
+}

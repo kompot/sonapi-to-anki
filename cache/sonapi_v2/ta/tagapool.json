@@ -1,0 +1,578 @@
+{
+  "requestedWord": "tagapool",
+  "estonianWord": "tagapool",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tagapool"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(kaugemal) taga, (millegi või kellegi suhtes) kaugemal,(kaugemal) taga,tagumises osas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Tagapool istujad ei näinud midagi.",
+            "Seisnuks ma meeter tagapool, oleks palliga vastu pead saanud.",
+            "Mootor asub tagapool esisilda.",
+            "Vend seisis õest veidi tagapool.",
+            "Tagapool istujad ei näinud midagi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "en arrière",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "позади",
+                "weight": 1
+              },
+              {
+                "words": "сзади",
+                "weight": 1
+              },
+              {
+                "words": "следом",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "позаду",
+                "weight": 1
+              },
+              {
+                "words": "ззаду",
+                "weight": 1
+              },
+              {
+                "words": "позад",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "поза",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hiljem, allpool (nt järgnevas tekstis)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sellest tuleb juttu tagapool."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "далее",
+                "weight": 1
+              },
+              {
+                "words": "дальше",
+                "weight": 1
+              },
+              {
+                "words": "позже",
+                "weight": 1
+              },
+              {
+                "words": "позднее",
+                "weight": 1
+              },
+              {
+                "words": "в дальнейшем",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(paremusjärjestuses) lõpu pool, saavutustelt, paremuselt teistest kehvem",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta on edetabelis kuskil tagapool."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "selg",
+        "pööre",
+        "pööre",
+        "maas",
+        "eemal",
+        "kaugemal",
+        "järel",
+        "järel",
+        "tagakülg",
+        "tagantpoolt",
+        "möödas",
+        "tahapoole",
+        "taha",
+        "seljataga",
+        "taga",
+        "seljataha",
+        "plusspool",
+        "päevapool",
+        "peajagu",
+        "tagaots",
+        "kuspool",
+        "meespool",
+        "pealpool",
+        "peapool",
+        "ettepoole",
+        "tagaotsas",
+        "kuklapool",
+        "kehapool",
+        "tagaplaanil",
+        "tagaratas",
+        "seespool",
+        "tagapoolne",
+        "seljapool",
+        "lihapool",
+        "eespool",
+        "ninapool",
+        "alapool"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "13",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "tagapool"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "tagapoole"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "tagapoolt"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "tagapoolde"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "tagapoolesse"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "tagapooles"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "tagapoolest"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "tagapoolele"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "tagapoolel"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "tagapoolelt"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "tagapooleks"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "tagapooleni"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "tagapoolena"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "tagapooleta"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "tagapoolega"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "tagapooled"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "tagapoolte"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "tagapooli"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "tagapooltesse,tagapoolisse"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "tagapooltes,tagapoolis"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "tagapooltest,tagapoolist"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "tagapooltele,tagapoolile"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "tagapooltel,tagapoolil"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "tagapooltelt,tagapoolilt"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "tagapoolteks,tagapooliks"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "tagapoolteni"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "tagapooltena"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "tagapoolteta"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "tagapooltega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi tagumine pool",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Selline võiks välja näha üks Kuu tagapoolel tehtud foto."
+          ],
+          "synonyms": [
+            "tagupool",
+            "tagakülg",
+            "selg",
+            "selg",
+            "pööre"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "зад",
+                "weight": 1
+              },
+              {
+                "words": "оборот",
+                "weight": 1
+              },
+              {
+                "words": "задняя сторона",
+                "weight": 1
+              },
+              {
+                "words": "обратная сторона",
+                "weight": 1
+              },
+              {
+                "words": "тыльная сторона",
+                "weight": 1
+              },
+              {
+                "words": "зад,тыльная сторона,тыл,обратная сторона,задняя сторона",
+                "weight": 0.9
+              },
+              {
+                "words": "спинка",
+                "weight": 0.7
+              },
+              {
+                "words": "спинка",
+                "weight": 0.7
+              },
+              {
+                "words": "обратная сторона,оборот",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "verso",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зворот",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kehaosa, millel istutakse,see osa kehast, mille peal sa istud",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Unes nägin veidraid kuuolendeid, kes nägid välja nagu inimesed, ainult et nad sõid oma tagapoolega, suud aga kasutasid istumiseks."
+          ],
+          "synonyms": [
+            "tagumik",
+            "istmik",
+            "tagapalged",
+            "ahter",
+            "tagupool",
+            "istumine,istekoht",
+            "tagument",
+            "taguots",
+            "sabaalune",
+            "pee",
+            "perse",
+            "pepu,tuss",
+            "tussu"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "bottom",
+                "weight": 1
+              },
+              {
+                "words": "seat",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "derrière",
+                "weight": 1
+              },
+              {
+                "words": "fesses",
+                "weight": 1
+              },
+              {
+                "words": "postérieur",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "ягодицы",
+                "weight": 1
+              },
+              {
+                "words": "зад",
+                "weight": 1
+              },
+              {
+                "words": "задница",
+                "weight": 1
+              },
+              {
+                "words": "попа",
+                "weight": 1
+              },
+              {
+                "words": "мягкое место",
+                "weight": 1
+              },
+              {
+                "words": "пятая точка",
+                "weight": 1
+              },
+              {
+                "words": "сиденье",
+                "weight": 1
+              },
+              {
+                "words": "заднее место",
+                "weight": 1
+              },
+              {
+                "words": "седалище",
+                "weight": 1
+              },
+              {
+                "words": "задница,зад,сиденье,седалище,ягодицы",
+                "weight": 0.9
+              },
+              {
+                "words": "задница,зад",
+                "weight": 0.9
+              },
+              {
+                "words": "зад,задница",
+                "weight": 0.9
+              },
+              {
+                "words": "задница,зад",
+                "weight": 0.9
+              },
+              {
+                "words": "попа,попка,жопка,жопа,зад,задница",
+                "weight": 0.9
+              },
+              {
+                "words": "зад,жопа,задница",
+                "weight": 0.9
+              },
+              {
+                "words": "попка,попа",
+                "weight": 0.9
+              },
+              {
+                "words": "попа,попка",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "сідниці",
+                "weight": 1
+              },
+              {
+                "words": "зад",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tagapool",
+      "translations": [
+        "arrear"
+      ]
+    }
+  ]
+}

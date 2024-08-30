@@ -1,0 +1,59 @@
+{
+  "requestedWord": "esirinnas",
+  "estonianWord": "esirinnas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "esirinnas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "juhtpositsioonis, millegi eesotsas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Soojade supluskohtade esirinnas on Paralepa rand ja Harku järv.",
+            "Nakatunute arvu poolest oli esirinnas Ukraina."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в первых рядах",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "poolest",
+        "esirinda",
+        "teerajaja",
+        "jätkuvalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "esirinnas",
+      "translations": [
+        "in the forefront"
+      ]
+    }
+  ]
+}

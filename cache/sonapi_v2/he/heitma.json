@@ -1,0 +1,829 @@
+{
+  "requestedWord": "heitma",
+  "estonianWord": "heitma",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "34",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "heitma"
+        },
+        {
+          "inflectionType": "34",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "heitmata"
+        },
+        {
+          "inflectionType": "34",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "heitmas"
+        },
+        {
+          "inflectionType": "34",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "heitmast"
+        },
+        {
+          "inflectionType": "34",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "heitmaks"
+        },
+        {
+          "inflectionType": "34",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "heidetama"
+        },
+        {
+          "inflectionType": "34",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "heita"
+        },
+        {
+          "inflectionType": "34",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "heites"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "heitev"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "heidetav"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "heitnud"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "heitnud"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "heidetud"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "heidetud"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "heidan"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "heidad"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "heidab"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "heidame"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "heidate"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "heidavad"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "heida"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "heidetakse"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "heideta"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "heitsin"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "heitsid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "heitis"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "heitsime"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "heitsite"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "heitsid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "heideti"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "heidaksin"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "heidaksid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "heidaks"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "heidaksime"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "heidaksite"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "heidaksid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "heidetaks"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "heitnuksin"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "heitnuksid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "heitnuks"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "heitnuksime"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "heitnuksite"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "heitnuksid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "heidetuks"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "heitvat"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "heidetavat"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "heitnuvat"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "heidetuvat"
+        },
+        {
+          "inflectionType": "34",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "heida"
+        },
+        {
+          "inflectionType": "34",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "heitkem"
+        },
+        {
+          "inflectionType": "34",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "heitke"
+        },
+        {
+          "inflectionType": "34",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "heitku"
+        },
+        {
+          "inflectionType": "34",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "heidetagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "läbi õhu viskama, hooga kuhugi paiskama,viskama, läbi õhu lendama panema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Reelika tegi hoogsalt sporti: tõukas kuuli ja heitis ketast.",
+            "Ta heitis täringut kaks korda.",
+            "Lennukilt heideti linnale mitu pommi."
+          ],
+          "synonyms": [
+            "loopima,pilduma",
+            "viskama",
+            "sahmatama,sahmama",
+            "pillutama",
+            "lennutama",
+            "viskama",
+            "viskama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "бросать",
+                "weight": 1
+              },
+              {
+                "words": "бросить",
+                "weight": 1
+              },
+              {
+                "words": "сбрасывать",
+                "weight": 1
+              },
+              {
+                "words": "сбросить",
+                "weight": 1
+              },
+              {
+                "words": "кидать",
+                "weight": 1
+              },
+              {
+                "words": "кинуть",
+                "weight": 1
+              },
+              {
+                "words": "скидывать",
+                "weight": 1
+              },
+              {
+                "words": "скинуть",
+                "weight": 1
+              },
+              {
+                "words": "метать",
+                "weight": 1
+              },
+              {
+                "words": "метнуть",
+                "weight": 1
+              },
+              {
+                "words": "закидать,забрасывать,закидывать,метать,бросать,бросить,кидать,кинуть,швырять,швырнуть,забросать",
+                "weight": 0.9
+              },
+              {
+                "words": "метнуть,метать,бросать,бросить,кидать,кинуть",
+                "weight": 0.8273
+              },
+              {
+                "words": "раскидать,разбросать,расшвыривать,расшвырять,разметать,размётывать,разбрасывать,раскидывать",
+                "weight": 0.9
+              },
+              {
+                "words": "запустить,запускать",
+                "weight": 0.9
+              },
+              {
+                "words": "выбросить,выбрасывать",
+                "weight": 0.8273
+              }
+            ],
+            "ukr": [
+              {
+                "words": "кидати",
+                "weight": 1
+              },
+              {
+                "words": "кинути",
+                "weight": 1
+              },
+              {
+                "words": "метати",
+                "weight": 1
+              },
+              {
+                "words": "метнути",
+                "weight": 1
+              },
+              {
+                "words": "скидати",
+                "weight": 1
+              },
+              {
+                "words": "скинути",
+                "weight": 1
+              },
+              {
+                "words": "кидати,кинути,метати,метнути",
+                "weight": 0.8273
+              }
+            ],
+            "fra": [
+              {
+                "words": "jeter,lancer",
+                "weight": 0.8273
+              }
+            ]
+          }
+        },
+        {
+          "definition": "järsku liigutust tegema, järsu liigutusega mingisse asendisse viima",
+          "partOfSpeech": [],
+          "examples": [
+            "Mees heitis pea teatraalselt kuklasse ja sulges silmad."
+          ],
+          "synonyms": [
+            "viskama",
+            "viskama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ложиться",
+                "weight": 1
+              },
+              {
+                "words": "лечь",
+                "weight": 1
+              },
+              {
+                "words": "прилечь",
+                "weight": 1
+              },
+              {
+                "words": "закидывать,закинуть,вскидывать,вскинуть,бросаться,броситься,ложиться,лечь,прилечь,распластываться,распластаться,растягиваться,растянуться",
+                "weight": 0.8273
+              },
+              {
+                "words": "бросать,бросить,кидать,кинуть",
+                "weight": 0.8273
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kuhugi või mingisse olukorda siirduma või toimetama,(mingisse asendisse) laskuma,mingisse asendisse laskuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ta otsustas pikali heita ning veidi magada.",
+            "Selle tobeda naljatembu eest ei tohiks teda suvaliselt vangi heita."
+          ],
+          "synonyms": [
+            "viskuma",
+            "viskama",
+            "laskma,laskuma",
+            "viskama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "бросаться",
+                "weight": 1
+              },
+              {
+                "words": "броситься",
+                "weight": 1
+              },
+              {
+                "words": "забрасывать",
+                "weight": 1
+              },
+              {
+                "words": "забросить",
+                "weight": 1
+              },
+              {
+                "words": "закидывать",
+                "weight": 1
+              },
+              {
+                "words": "закинуть",
+                "weight": 1
+              },
+              {
+                "words": "выброситься,выбрасываться,взмётываться,метнуться,ринуться,взметнуться,кинуться,броситься,бросаться,кидаться",
+                "weight": 0.568
+              },
+              {
+                "words": "броситься,закидывать,закинуть,вскидывать,вскинуть,бросаться,ложиться,лечь,прилечь,распластываться,распластаться,растягиваться,растянуться",
+                "weight": 0.8273
+              },
+              {
+                "words": "спускаться,сесть,садиться,опуститься,опускаться,спуститься",
+                "weight": 0.7
+              },
+              {
+                "words": "бросать,бросить,выбрасывать,выбросить,выкидывать,выкинуть,вышвыривать,вышвырнуть",
+                "weight": 0.8273
+              }
+            ],
+            "ukr": [
+              {
+                "words": "кидатися",
+                "weight": 1
+              },
+              {
+                "words": "кинутися",
+                "weight": 1
+              },
+              {
+                "words": "опускатися,спуститися,спускатися,опуститися,сідати,сісти",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "descendre",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegagi liituma või ühinema (ka abiellumise kohta)",
+          "partOfSpeech": [],
+          "examples": [
+            "Ma otsustasin matkagrupis mahajääjatega mesti heita.",
+            "Laupäeva öösel kavatseb Tartu Ülikooli botaanikaaias paari heita kaks noort inimest."
+          ],
+          "synonyms": [
+            "liituma,ühinema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сходиться",
+                "weight": 1
+              },
+              {
+                "words": "сойтись",
+                "weight": 1
+              },
+              {
+                "words": "соединяться",
+                "weight": 1
+              },
+              {
+                "words": "соединиться",
+                "weight": 1
+              },
+              {
+                "words": "объединяться",
+                "weight": 1
+              },
+              {
+                "words": "объединиться",
+                "weight": 1
+              },
+              {
+                "words": "снюхиваться",
+                "weight": 1
+              },
+              {
+                "words": "снюхаться",
+                "weight": 1
+              },
+              {
+                "words": "объединяться,объединиться,присоединяться,присоединиться,примыкать,примкнуть",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "s'unir,se joindre",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "приєднуватися,приєднатися",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "endast välja saatma või kiirgama (hrl valgust, helki, varju)",
+          "partOfSpeech": [],
+          "examples": [
+            "Päike heidab kiiri läbi männilatvade.",
+            "Kontori laes olevad lambid heidavad hõõglambile omast valgust."
+          ],
+          "synonyms": [
+            "viskama",
+            "pilduma",
+            "välja saatma",
+            "välja kiirgama",
+            "kiirgama",
+            "välja paiskama",
+            "ajama,välja ajama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "излучать,источать,испускать,исходить",
+                "weight": 0.8273
+              },
+              {
+                "words": "метать",
+                "weight": 0.9
+              },
+              {
+                "words": "испускать,излучать,излучить",
+                "weight": 0.7
+              },
+              {
+                "words": "сиять,сверкать,блестеть,искриться,блистать,светиться",
+                "weight": 0.7
+              },
+              {
+                "words": "выбрасывать,выкидывать,выкинуть,вышвыривать,вышвырнуть,выбросить",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "midagi vahele või vastu ütlema, lühidalt lausuma",
+          "partOfSpeech": [],
+          "examples": [
+            "„Sa vingerdad ja ajad rumalat juttu,” heitis Lii tüdinult."
+          ],
+          "synonyms": [
+            "viskama",
+            "paiskama",
+            "purskama",
+            "vahele torkama,sekka pistma,vahele pistma",
+            "märkima",
+            "nimetama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "бросать,бросить",
+                "weight": 0.8273
+              },
+              {
+                "words": "выпалить,бухнуть",
+                "weight": 0.814
+              },
+              {
+                "words": "выпалить",
+                "weight": 0.9
+              },
+              {
+                "words": "вкрапливать,вкраплять,вкрапить,вставлять,вставить",
+                "weight": 0.7
+              },
+              {
+                "words": "отмечать,отметить,заметить,замечать",
+                "weight": 0.7
+              },
+              {
+                "words": "назвать,называть,упомянуть,упоминать",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "mentionner,signaler",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "відзначати,відзначити,відмічати,відмітити,зауважувати,зауважити",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "välja ajama",
+        "välja paiskama",
+        "sekka pistma",
+        "teatama",
+        "nentima",
+        "nimetama",
+        "märkima",
+        "kiirgama",
+        "välja kiirgama",
+        "välja saatma",
+        "laskuma",
+        "ühinema",
+        "viskama",
+        "sülitama",
+        "summima",
+        "pilduma",
+        "pursatama",
+        "söötma",
+        "sahmama",
+        "purtsama",
+        "pillutama",
+        "sähmama",
+        "virutama",
+        "saatma",
+        "sumama",
+        "purtsatama",
+        "lennutama",
+        "pommitama",
+        "loopima",
+        "purskama",
+        "paiskama",
+        "laiali loopima",
+        "läkitama",
+        "pillama",
+        "säästma",
+        "kõrvale viskama",
+        "välja sirutama",
+        "peale viskama",
+        "poetama",
+        "välja viskama",
+        "halastama",
+        "minema viskama",
+        "laiali pilduma",
+        "ära viskama",
+        "viskuma",
+        "lahmima",
+        "kallutama",
+        "heitlema",
+        "vibutama",
+        "ahmima",
+        "loitma",
+        "köitma",
+        "raputama",
+        "aega viitma",
+        "trampima",
+        "upitama",
+        "peitma",
+        "õhutama",
+        "heitma",
+        "dikteerima",
+        "laiali",
+        "kõrvale",
+        "hoidma",
+        "armu andma",
+        "kulul",
+        "eemale",
+        "peale",
+        "tagasi",
+        "ehmuma",
+        "piserdama",
+        "nöökima",
+        "visandama",
+        "pilgutama",
+        "kohkuma",
+        "anduma"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "heitma",
+      "translations": [
+        "cast",
+        "dart",
+        "(van) (oda) elance",
+        "fling",
+        "fling down",
+        "(õhku) flip",
+        "hurl",
+        "pitch",
+        "shed",
+        "throw"
+      ]
+    }
+  ]
+}

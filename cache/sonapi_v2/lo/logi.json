@@ -1,0 +1,261 @@
+{
+  "requestedWord": "logi",
+  "estonianWord": "logi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "logi"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "logi"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "logi"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "logisse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "logis"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "logist"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "logile"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "logil"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "logilt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "logiks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "logini"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "logina"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "logita"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "logiga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "logid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "logide"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "logisid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "logidesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "logides"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "logidest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "logidele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "logidel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "logidelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "logideks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "logideni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "logidena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "logideta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "logidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kronoloogiliselt jäädvustatud sündmuste andmestik, tegevuse päevik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "SMS-ide ja telefonikõnede logi varundamiseks on olemas äpp.",
+            "Uurimus põhines õhuliikluse logidel.",
+            "Muudatuste logi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "лог",
+                "weight": 1
+              },
+              {
+                "words": "журнал событий",
+                "weight": 1
+              },
+              {
+                "words": "дневник",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "riist laeva kiiruse ja läbitud tee pikkuse mõõtmiseks",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Logi lasti vette.",
+            "Mitu sõlme logi näitab?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "лаг",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "logiraamat",
+        "päevik",
+        "kõnelogi",
+        "käsilogi",
+        "logima",
+        "logifail",
+        "login"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "logi",
+      "translations": [
+        "log"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,971 @@
+{
+  "requestedWord": "kohe",
+  "estonianWord": "kohe",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kohe"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selsamal hetkel, väga lühikese aja jooksul, aega viitmata,väga kiiresti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tule kohe siia!",
+            "Kohe selgub, kellel oli õigus.",
+            "Raamat müüdi kohe läbi.",
+            "Laps jäi kohe magama."
+          ],
+          "synonyms": [
+            "otsekohe",
+            "otseteed",
+            "hetkepealt",
+            "jalamaid",
+            "jalapealt",
+            "koheselt",
+            "kohemaid",
+            "korrapealt",
+            "minutipealt",
+            "otsemaid",
+            "otsemat teed",
+            "paugupealt",
+            "paukselt",
+            "plaksupealt",
+            "raksupealt",
+            "ropsult",
+            "ropsupealt",
+            "sedamaid",
+            "sekundipealt",
+            "silmapilk",
+            "tunnipealt",
+            "viibimata",
+            "viivitamata",
+            "momentaanselt",
+            "momentselt",
+            "viibimatult",
+            "viivitamatult",
+            "sekundi pealt",
+            "momentaalselt",
+            "silmapilkselt",
+            "minuti pealt",
+            "krapsupealt",
+            "viivitamatu",
+            "hoobilt",
+            "rapsupealt",
+            "ühe ropsuga,ühe rapsuga,ühe raksuga",
+            "ühe hoobiga,ühe pauguga",
+            "ühe naksuga",
+            "järsku,korraga,äkitselt,äkki,ühekorraga,ühtäkki,ootamatult,üksäkki",
+            "hetkelt",
+            "tuhatnelja,välkkiiresti,tuhat tulist,tuhat-tulist,tuhknai,tulisi jalu,tulistjalu,tulistvalu,tuulekiirul,tuulekiirusel,välgukiirul,välgukiirusel,välkkiirelt",
+            "ilma pikemata,aega viitmata,pikemata,ajaviitmata"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "tout de suite",
+                "weight": 1
+              },
+              {
+                "words": "immédiatement",
+                "weight": 1
+              },
+              {
+                "words": "aussitôt",
+                "weight": 1
+              },
+              {
+                "words": "soudain,tout à coup,subitement,brusquement",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "прямиком",
+                "weight": 1
+              },
+              {
+                "words": "сразу",
+                "weight": 1
+              },
+              {
+                "words": "срочно",
+                "weight": 1
+              },
+              {
+                "words": "неотложно",
+                "weight": 1
+              },
+              {
+                "words": "мгновенно",
+                "weight": 1
+              },
+              {
+                "words": "тотчас",
+                "weight": 1
+              },
+              {
+                "words": "мигом",
+                "weight": 1
+              },
+              {
+                "words": "спешно",
+                "weight": 1
+              },
+              {
+                "words": "немедлительно",
+                "weight": 1
+              },
+              {
+                "words": "незамедлительно",
+                "weight": 1
+              },
+              {
+                "words": "не откладывая",
+                "weight": 1
+              },
+              {
+                "words": "не раздумывая",
+                "weight": 1
+              },
+              {
+                "words": "без замедления",
+                "weight": 1
+              },
+              {
+                "words": "без промедления",
+                "weight": 1
+              },
+              {
+                "words": "в срочном порядке",
+                "weight": 1
+              },
+              {
+                "words": "не тратя времени",
+                "weight": 1
+              },
+              {
+                "words": "не теряя времени",
+                "weight": 1
+              },
+              {
+                "words": "в одну секунду",
+                "weight": 1
+              },
+              {
+                "words": "в одну минуту",
+                "weight": 1
+              },
+              {
+                "words": "щас",
+                "weight": 1
+              },
+              {
+                "words": "тут же",
+                "weight": 1
+              },
+              {
+                "words": "немедленно",
+                "weight": 1
+              },
+              {
+                "words": "моментально",
+                "weight": 1
+              },
+              {
+                "words": "сразу же",
+                "weight": 1
+              },
+              {
+                "words": "в один миг",
+                "weight": 1
+              },
+              {
+                "words": "сейчас же",
+                "weight": 1
+              },
+              {
+                "words": "тотчас же",
+                "weight": 1
+              },
+              {
+                "words": "немедля",
+                "weight": 1
+              },
+              {
+                "words": "сию же минуту",
+                "weight": 1
+              },
+              {
+                "words": "сию же секунду",
+                "weight": 1
+              },
+              {
+                "words": "одним пыхом",
+                "weight": 1
+              },
+              {
+                "words": "с ходу",
+                "weight": 1
+              },
+              {
+                "words": "вмиг",
+                "weight": 1
+              },
+              {
+                "words": "сию минуту",
+                "weight": 1
+              },
+              {
+                "words": "сию секунду",
+                "weight": 1
+              },
+              {
+                "words": "моменталом",
+                "weight": 1
+              },
+              {
+                "words": "в одночасье",
+                "weight": 1
+              },
+              {
+                "words": "безотлагательно",
+                "weight": 1
+              },
+              {
+                "words": "неотлагательно",
+                "weight": 1
+              },
+              {
+                "words": "безотлагательный,неотложный,незамедлительный,немедленный,неотлагательный",
+                "weight": 0.7
+              },
+              {
+                "words": "сразу,немедля,разом,мгновенно,мигом,немедленно,тотчас же,сразу же",
+                "weight": 0.9
+              },
+              {
+                "words": "с ходу,тотчас же,мигом,разом,сразу же",
+                "weight": 0.9
+              },
+              {
+                "words": "единым махом,одним махом",
+                "weight": 0.9
+              },
+              {
+                "words": "с одного маху,одним ударом,одним махом",
+                "weight": 0.9
+              },
+              {
+                "words": "по щелчку пальцев",
+                "weight": 0.9
+              },
+              {
+                "words": "вдруг,внезапно,нежданно-негаданно,мгновенно,разом,с ходу,откуда ни возьмись,неожиданно,нежданно,непредвиденно",
+                "weight": 0.9
+              },
+              {
+                "words": "в одну минуту,в одно мгновение,в один миг,в мгновение ока,в тот же миг",
+                "weight": 0.9
+              },
+              {
+                "words": "что есть духу,что есть мочи,со всех ног,молнией,на всех скоростях,на бешеной скорости,молниеносно,со скоростью ветра,с ветерком,с молниеносной быстротой,без оглядки,стремительно,поспешно,опрометью,стремглав,стрелой,пулей,во всю прыть,не чувствуя под собой ног,вихрем,во весь дух",
+                "weight": 0.9
+              },
+              {
+                "words": "тотчас,сейчас же,немедленно,не долго думая,не раздумывая,без промедления,сразу же",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "відразу",
+                "weight": 1
+              },
+              {
+                "words": "зразу",
+                "weight": 1
+              },
+              {
+                "words": "зараз же",
+                "weight": 1
+              },
+              {
+                "words": "негайно",
+                "weight": 1
+              },
+              {
+                "words": "раптом,враз,раптово,непередбачено,несподівано,нагло,зненацька,нараз",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "suddenly,unexpectedly",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi või kellegi vahetus läheduses, lähedusse või lähedusest, vahetult,kellegi või millegi vahetus läheduses",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Suvila asus kohe järve kaldal.",
+            "Bussipeatus on kohe maja ees.",
+            "Bussipeatus on kohe maja ees."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "juste",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "сразу",
+                "weight": 1
+              },
+              {
+                "words": "прямо",
+                "weight": 1
+              },
+              {
+                "words": "тут же",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "відразу",
+                "weight": 1
+              },
+              {
+                "words": "тут же",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rõhu-, vahel ka lihtsalt täitesõnana: päris, lausa, otse",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ma kohe ei kannata teda!",
+            "Kohe rõõm näha, kuidas töö edeneb.",
+            "Sinuga on päris häda kohe.",
+            "Sellest ei taha kohe rääkidagi."
+          ],
+          "synonyms": [
+            "päris"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "прямо",
+                "weight": 1
+              },
+              {
+                "words": "прямо-таки",
+                "weight": 1
+              },
+              {
+                "words": "просто",
+                "weight": 1
+              },
+              {
+                "words": "даже",
+                "weight": 1
+              },
+              {
+                "words": "совершенно,совсем",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зовсім,цілком,досить",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "padavai",
+        "ligidal",
+        "ropsult",
+        "siinsamas",
+        "silmapilk",
+        "silmapilk",
+        "nüüd-nüüd",
+        "raksupealt",
+        "otsejoonelt",
+        "nina ees",
+        "korraga",
+        "käe-jala juures",
+        "otse",
+        "otse",
+        "kannapealt",
+        "sõnapealt",
+        "hetkelt",
+        "viivitamata",
+        "hetkepealt",
+        "kohemaid",
+        "momentaanselt",
+        "jalapealt",
+        "ilma pikema jututa",
+        "korralt",
+        "ühe raksuga",
+        "lähedal",
+        "paugupealt",
+        "otsejoones",
+        "nina all",
+        "kobe",
+        "ühe rapsuga",
+        "silmapilkselt",
+        "täitsa",
+        "täitsa",
+        "koheselt",
+        "otsemat teed",
+        "ruumiliselt",
+        "käegakatsutav",
+        "nõndapea",
+        "ühe naksuga",
+        "aegaviitmatult",
+        "sedamaid",
+        "viivitamatult",
+        "täna-homme",
+        "otsemaid",
+        "kohev",
+        "lausa",
+        "päevapealt",
+        "peagi",
+        "pea",
+        "pea",
+        "pea",
+        "pea",
+        "samas",
+        "ühe hoobiga",
+        "kiviga visata",
+        "peatselt",
+        "puhev",
+        "ühekorraga",
+        "pikemata",
+        "juures",
+        "kiviviske kaugusel",
+        "korrapealt",
+        "lähemal ajal",
+        "mahuline",
+        "jalamaid",
+        "kõrval",
+        "kõrval",
+        "otseselt",
+        "siitsamast",
+        "lihtsalt",
+        "paukselt",
+        "viibimata",
+        "suisa",
+        "niipea",
+        "kahune",
+        "päris",
+        "ligi",
+        "rapsupealt",
+        "joonelt",
+        "käeulatuses",
+        "otsekohe",
+        "ligilähedal",
+        "plaksupealt",
+        "muhe",
+        "vahetult",
+        "ajaliselt",
+        "külje all",
+        "hoobilt",
+        "varsti",
+        "ropsupealt",
+        "ühe ropsuga",
+        "otsejoont",
+        "otseteed",
+        "kukil",
+        "praegu",
+        "nüüd",
+        "peale",
+        "uuesti",
+        "juba",
+        "kindlasti",
+        "kibekiiresti",
+        "siiski",
+        "alati",
+        "jälle",
+        "kiirelt",
+        "pärast",
+        "kibekähku",
+        "ruttu-ruttu",
+        "veel",
+        "ikka",
+        "küll",
+        "küll",
+        "kiiresti",
+        "kribinal",
+        "alles",
+        "ise",
+        "ise",
+        "ise",
+        "kõigepealt",
+        "enne",
+        "enne",
+        "siis",
+        "ruttu",
+        "kibekiirelt"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "02",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kohe"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "koheda"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kohedat"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kohedasse"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kohedas"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kohedast"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kohedale"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kohedal"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kohedalt"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kohedaks"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kohedani"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kohedana"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kohedata"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kohedaga"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kohedad"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kohedate"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kohedaid"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kohedatesse,kohedaisse"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kohedates,kohedais"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kohedatest,kohedaist"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kohedatele,kohedaile"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kohedatel,kohedail"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kohedatelt,kohedailt"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kohedateks,kohedaiks"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kohedateni"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kohedatena"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kohedateta"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kohedatega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "suurte õhuvahedega, poore sisaldav, seetõttu kõrge, mahult suur,selline, mille osade vahel on õhku ja mis tundub seetõttu suurem või kõrgem",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Kanarbikupõõsad murdusid koheda lume all."
+          ],
+          "synonyms": [
+            "kohev",
+            "kobe",
+            "kahune,kahus",
+            "puhev",
+            "õhuline",
+            "kore",
+            "mahuline",
+            "puhmaline",
+            "paks"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "moelleux",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "пушистый",
+                "weight": 1
+              },
+              {
+                "words": "пышный",
+                "weight": 1
+              },
+              {
+                "words": "рыхлый",
+                "weight": 1
+              },
+              {
+                "words": "сыпучий",
+                "weight": 1
+              },
+              {
+                "words": "пухлый",
+                "weight": 1
+              },
+              {
+                "words": "рыхлый",
+                "weight": 0.89
+              },
+              {
+                "words": "пушистый,пышный,курчавый,кудрявый",
+                "weight": 0.9
+              },
+              {
+                "words": "пушистый,пухлый,пышный",
+                "weight": 0.89
+              },
+              {
+                "words": "пухлый,пушистый,хрупкий,пышный",
+                "weight": 0.7
+              },
+              {
+                "words": "рыхлый",
+                "weight": 0.7
+              },
+              {
+                "words": "объёмный",
+                "weight": 0.89
+              },
+              {
+                "words": "кустистый",
+                "weight": 0.7
+              },
+              {
+                "words": "толстый",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пухнастий",
+                "weight": 1
+              },
+              {
+                "words": "пишний",
+                "weight": 1
+              },
+              {
+                "words": "пухкий",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "padavai",
+        "ligidal",
+        "ropsult",
+        "siinsamas",
+        "silmapilk",
+        "silmapilk",
+        "nüüd-nüüd",
+        "raksupealt",
+        "otsejoonelt",
+        "nina ees",
+        "korraga",
+        "käe-jala juures",
+        "otse",
+        "otse",
+        "kannapealt",
+        "sõnapealt",
+        "hetkelt",
+        "viivitamata",
+        "hetkepealt",
+        "kohemaid",
+        "momentaanselt",
+        "jalapealt",
+        "ilma pikema jututa",
+        "korralt",
+        "ühe raksuga",
+        "lähedal",
+        "paugupealt",
+        "otsejoones",
+        "nina all",
+        "kobe",
+        "ühe rapsuga",
+        "silmapilkselt",
+        "täitsa",
+        "täitsa",
+        "koheselt",
+        "otsemat teed",
+        "ruumiliselt",
+        "käegakatsutav",
+        "nõndapea",
+        "ühe naksuga",
+        "aegaviitmatult",
+        "sedamaid",
+        "viivitamatult",
+        "täna-homme",
+        "otsemaid",
+        "kohev",
+        "lausa",
+        "päevapealt",
+        "peagi",
+        "pea",
+        "pea",
+        "pea",
+        "pea",
+        "samas",
+        "ühe hoobiga",
+        "kiviga visata",
+        "peatselt",
+        "puhev",
+        "ühekorraga",
+        "pikemata",
+        "juures",
+        "kiviviske kaugusel",
+        "korrapealt",
+        "lähemal ajal",
+        "mahuline",
+        "jalamaid",
+        "kõrval",
+        "kõrval",
+        "otseselt",
+        "siitsamast",
+        "lihtsalt",
+        "paukselt",
+        "viibimata",
+        "suisa",
+        "niipea",
+        "kahune",
+        "päris",
+        "ligi",
+        "rapsupealt",
+        "joonelt",
+        "käeulatuses",
+        "otsekohe",
+        "ligilähedal",
+        "plaksupealt",
+        "muhe",
+        "vahetult",
+        "ajaliselt",
+        "külje all",
+        "hoobilt",
+        "varsti",
+        "ropsupealt",
+        "ühe ropsuga",
+        "otsejoont",
+        "otseteed",
+        "kukil",
+        "praegu",
+        "nüüd",
+        "peale",
+        "uuesti",
+        "juba",
+        "kindlasti",
+        "kibekiiresti",
+        "siiski",
+        "alati",
+        "jälle",
+        "kiirelt",
+        "pärast",
+        "kibekähku",
+        "ruttu-ruttu",
+        "veel",
+        "ikka",
+        "küll",
+        "küll",
+        "kiiresti",
+        "kribinal",
+        "alles",
+        "ise",
+        "ise",
+        "ise",
+        "kõigepealt",
+        "enne",
+        "enne",
+        "siis",
+        "ruttu",
+        "kibekiirelt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kohe",
+      "translations": [
+        "at once",
+        "immediately",
+        "just",
+        "right away",
+        "urgently"
+      ]
+    }
+  ]
+}

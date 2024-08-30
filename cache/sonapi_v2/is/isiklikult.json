@@ -1,0 +1,160 @@
+{
+  "requestedWord": "isiklikult",
+  "estonianWord": "isiklikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "isiklikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ise, vahetult, teiste vahenduseta,ise,otse, vahetult",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Direktor tuli isiklikult rõõmusõnumit teatama.",
+            "Tahaksin temaga isiklikult kohtuda.",
+            "Tunnen Peetrit isiklikult.",
+            "Mina isiklikult nii ei arva.",
+            "Me pole isiklikult tuttavad."
+          ],
+          "synonyms": [
+            "ise"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "personally",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "personnellement",
+                "weight": 1
+              },
+              {
+                "words": "tout seul",
+                "weight": 0.7733
+              }
+            ],
+            "rus": [
+              {
+                "words": "лично",
+                "weight": 1
+              },
+              {
+                "words": "персонально",
+                "weight": 1
+              },
+              {
+                "words": "самолично",
+                "weight": 1
+              },
+              {
+                "words": "сам,сама,само,сами",
+                "weight": 0.7733
+              }
+            ],
+            "ukr": [
+              {
+                "words": "особисто",
+                "weight": 1
+              },
+              {
+                "words": "персонально",
+                "weight": 1
+              },
+              {
+                "words": "сам,сама,само,самі",
+                "weight": 0.7733
+              }
+            ]
+          }
+        },
+        {
+          "definition": "isikuna, isikusse puutuvalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kirjutis solvas kirjanikku isiklikult.",
+            "Tema kriitikat ei tasu isiklikult võtta."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "лично",
+                "weight": 1
+              },
+              {
+                "words": "персонально",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "personaalselt",
+        "ise",
+        "ise",
+        "isikuti",
+        "pühalikult",
+        "kindlasti",
+        "sügavalt",
+        "heausklikult",
+        "otseselt",
+        "mulle",
+        "surmtõsiselt",
+        "üldse",
+        "loomulikult",
+        "isiklikumalt",
+        "intiimselt",
+        "mitte",
+        "mitte",
+        "minupärast",
+        "sündsalt",
+        "samuti",
+        "küll",
+        "küll",
+        "võhiklikult",
+        "asjalikult",
+        "isiklikum",
+        "isiklik",
+        "alati",
+        "väga",
+        "ise"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "isiklikult",
+      "translations": [
+        "in person",
+        "in propria persona",
+        "in the flesh",
+        "personally"
+      ]
+    }
+  ]
+}

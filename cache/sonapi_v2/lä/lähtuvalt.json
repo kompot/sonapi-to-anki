@@ -1,0 +1,63 @@
+{
+  "requestedWord": "lähtuvalt",
+  "estonianWord": "lähtuvalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "lähtuvalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millestki tõukudes, midagi aluseks võttes, millegi põhjal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Materjalid on koostatud lähtuvalt kehtivast riiklikust õppekavast.",
+            "Me ei juhi riiki arvamusküsitlustest lähtuvalt."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "исходя",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "виходячи",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lähtuma",
+        "tulenevalt",
+        "olenevalt",
+        "sõltuvalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lähtuvalt",
+      "translations": []
+    }
+  ]
+}

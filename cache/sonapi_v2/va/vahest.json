@@ -1,0 +1,399 @@
+{
+  "requestedWord": "vahest",
+  "estonianWord": "vahest",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vahest"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab oletatavale või loodetavale võimalusele, milles siiski ei olda päris kindel,näitab, et kõneleja ei ole päris kindel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "See on vahest kõige olulisem.",
+            "Vahest ongi asi nii, et ...",
+            "Ta satub siiakanti harva – vahest korra aastas.",
+            "Vahest mõni targem teab asjast rääkida?"
+          ],
+          "synonyms": [
+            "vahest ehk",
+            "ehk",
+            "järsku",
+            "vast",
+            "vast ehk",
+            "võib-olla",
+            "võibolla",
+            "äkki",
+            "v-o",
+            "vo",
+            "vbl"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "perhaps",
+                "weight": 1
+              },
+              {
+                "words": "maybe",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "peut-être",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "возможно",
+                "weight": 1
+              },
+              {
+                "words": "вероятно",
+                "weight": 1
+              },
+              {
+                "words": "быть может",
+                "weight": 1
+              },
+              {
+                "words": "пожалуй",
+                "weight": 1
+              },
+              {
+                "words": "может",
+                "weight": 1
+              },
+              {
+                "words": "авось",
+                "weight": 1
+              },
+              {
+                "words": "м.б.",
+                "weight": 1
+              },
+              {
+                "words": "может быть",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "можливо",
+                "weight": 1
+              },
+              {
+                "words": "може",
+                "weight": 1
+              },
+              {
+                "words": "мабуть",
+                "weight": 1
+              },
+              {
+                "words": "либонь",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "aeg-ajalt (ette tulles), mõne aja tagant (kordudes), mõnel juhul,nii, et tegevus kordub mõne aja tagant",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Vahest on jutuks tulnud, et mitu korda nädalas ma trenni teen.",
+            "Võta last vahest sülle ka!",
+            "Me puutume väga tihti kokku elu endaga, millest vahest tekib kunst, vahest ei teki.",
+            "Vahest tundis ta selle üle isegi väheke rõõmu. Aga nüüd enam mitte.",
+            "Vahest ajab nii marru, et õudne.",
+            "Vahest näis, et ta nüüdsama lõhkeb mõttepingest."
+          ],
+          "synonyms": [
+            "aeg-ajalt",
+            "mõnikord",
+            "hooti",
+            "kohati",
+            "teinekord",
+            "paiguti",
+            "puhuti",
+            "taoti",
+            "vahel",
+            "tükati",
+            "vahetevahel",
+            "sekka",
+            "ajuti",
+            "hetketi,hetkiti",
+            "periooditi",
+            "kord",
+            "juhuti",
+            "puhanguti",
+            "hooti,hookaupa,hoo kaupa",
+            "mõndapuhku",
+            "vaheti",
+            "harvasti,harva,harvalt",
+            "pilguti"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "sometimes",
+                "weight": 1
+              },
+              {
+                "words": "occasionally",
+                "weight": 1
+              },
+              {
+                "words": "once in a while",
+                "weight": 1
+              },
+              {
+                "words": "now and again",
+                "weight": 1
+              },
+              {
+                "words": "every now and then",
+                "weight": 1
+              },
+              {
+                "words": "every so often",
+                "weight": 1
+              },
+              {
+                "words": "from time to time",
+                "weight": 1
+              },
+              {
+                "words": "rarely",
+                "weight": 0.709
+              }
+            ],
+            "fra": [
+              {
+                "words": "de temps en temps",
+                "weight": 1
+              },
+              {
+                "words": "par moments",
+                "weight": 1
+              },
+              {
+                "words": "parfois",
+                "weight": 1
+              },
+              {
+                "words": "tantôt",
+                "weight": 0.7
+              },
+              {
+                "words": "rarement",
+                "weight": 0.709
+              }
+            ],
+            "rus": [
+              {
+                "words": "кое-когда",
+                "weight": 1
+              },
+              {
+                "words": "иногда",
+                "weight": 1
+              },
+              {
+                "words": "порой",
+                "weight": 1
+              },
+              {
+                "words": "временами",
+                "weight": 1
+              },
+              {
+                "words": "время от времени",
+                "weight": 1
+              },
+              {
+                "words": "по временам",
+                "weight": 1
+              },
+              {
+                "words": "от случая к случаю",
+                "weight": 1
+              },
+              {
+                "words": "иной раз",
+                "weight": 1
+              },
+              {
+                "words": "эпизодически",
+                "weight": 1
+              },
+              {
+                "words": "другой раз",
+                "weight": 1
+              },
+              {
+                "words": "подчас",
+                "weight": 1
+              },
+              {
+                "words": "урывками",
+                "weight": 1
+              },
+              {
+                "words": "время от времени,временами,иногда,порой",
+                "weight": 0.9
+              },
+              {
+                "words": "время от времени,иногда,порой,подчас",
+                "weight": 0.9
+              },
+              {
+                "words": "периодически,периодами",
+                "weight": 0.9
+              },
+              {
+                "words": "то..., то...,",
+                "weight": 0.7
+              },
+              {
+                "words": "время от времени,нерегулярно,от случая к случаю,иногда",
+                "weight": 0.9
+              },
+              {
+                "words": "порывами",
+                "weight": 0.9
+              },
+              {
+                "words": "время от времени,по временам,рывками,урывками,урывочно,порывами,порывисто",
+                "weight": 0.9
+              },
+              {
+                "words": "иной раз,иногда,в некоторых случаях",
+                "weight": 0.9
+              },
+              {
+                "words": "нечасто,иногда,изредка,редко",
+                "weight": 0.709
+              },
+              {
+                "words": "порой,иногда,время от времени,подчас",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "іноді",
+                "weight": 1
+              },
+              {
+                "words": "інколи",
+                "weight": 1
+              },
+              {
+                "words": "часом",
+                "weight": 1
+              },
+              {
+                "words": "час від часу",
+                "weight": 1
+              },
+              {
+                "words": "деколи",
+                "weight": 1
+              },
+              {
+                "words": "то..., то...",
+                "weight": 0.7
+              },
+              {
+                "words": "рідко,нечасто,зрідка,іноді",
+                "weight": 0.709
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "aga",
+        "aga",
+        "taoti",
+        "teinekord",
+        "hooti",
+        "puhuti",
+        "hetkiti",
+        "periooditi",
+        "hookaupa",
+        "tükati",
+        "kohati",
+        "aeg-ajalt",
+        "ikka",
+        "mõnikord",
+        "vahetevahel",
+        "alles",
+        "mõndapuhku",
+        "vast",
+        "võib-olla",
+        "vaheti",
+        "vaheti",
+        "hetketi",
+        "vahel",
+        "mine tea",
+        "puhanguti",
+        "ehk",
+        "ajuti",
+        "pilguti",
+        "juhuti",
+        "kas",
+        "tõesti",
+        "kindlasti",
+        "sageli",
+        "siiski",
+        "ilmselt",
+        "muidugi",
+        "tavaliselt",
+        "üldse",
+        "isegi",
+        "küll",
+        "küll",
+        "enamasti",
+        "tihti",
+        "ikkagi",
+        "hirmpalju",
+        "vist",
+        "vist",
+        "üldiselt",
+        "keski",
+        "võibolla"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vahest",
+      "translations": []
+    }
+  ]
+}

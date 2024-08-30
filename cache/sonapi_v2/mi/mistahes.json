@@ -1,0 +1,108 @@
+{
+  "requestedWord": "mistahes",
+  "estonianWord": "mistahes",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "mistahes"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(möönvalt:) ükskõik mis, ükskõik milline",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Tema poole võib pöörduda mistahes küsimuses."
+          ],
+          "synonyms": [
+            "mis tahes",
+            "suva,suvaline",
+            "arbitraarne,meelevaldne,suvaline",
+            "ebamäärane,umbkaudne",
+            "igasugu,igatsugu,kõiksugune,kõiksugu,igasugune",
+            "milline,missugune"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "любой",
+                "weight": 1
+              },
+              {
+                "words": "какой угодно",
+                "weight": 1
+              },
+              {
+                "words": "всё равно какой,какой угодно,любой",
+                "weight": 0.89
+              },
+              {
+                "words": "самоуправный,своевольный,произвольный",
+                "weight": 0.7
+              },
+              {
+                "words": "смутный,неясный,неопределённый",
+                "weight": 0.89
+              },
+              {
+                "words": "всяческий,всевозможный,разнообразный,всемерный,любой,всякий",
+                "weight": 0.9
+              },
+              {
+                "words": "любой,каков,какой",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "всякий,будь-який,всілякий",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ükskõik milline",
+        "meelevaldne",
+        "igasugune",
+        "mis tahes",
+        "suvaline",
+        "arbitraarne",
+        "muude",
+        "ükskõik",
+        "kuitahes",
+        "või",
+        "või",
+        "tahes",
+        "teatud",
+        "antud",
+        "kestahes",
+        "mingi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "mistahes",
+      "translations": [
+        "any",
+        "indefinite"
+      ]
+    }
+  ]
+}

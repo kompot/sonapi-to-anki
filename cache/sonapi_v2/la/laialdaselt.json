@@ -1,0 +1,64 @@
+{
+  "requestedWord": "laialdaselt",
+  "estonianWord": "laialdaselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "laialdaselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "широко",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "väheselt",
+        "pikaldaselt",
+        "laialdane",
+        "levinud",
+        "pikalt-laialt",
+        "haruldaselt",
+        "üldiselt",
+        "laiemalt",
+        "ulatuslikult",
+        "laialt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "laialdaselt",
+      "translations": [
+        "extensively",
+        "widely",
+        "widespreadedly"
+      ]
+    }
+  ]
+}

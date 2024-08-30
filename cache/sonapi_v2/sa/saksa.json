@@ -1,0 +1,427 @@
+{
+  "requestedWord": "saksa",
+  "estonianWord": "saksa",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "saksa"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "Saksa"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sakslaste või saksa keelega seotud,sakslastega seotud",
+          "partOfSpeech": [
+            {
+              "code": "adjg",
+              "value": "omastavaline täiend, genitiivatribuut, täiendsõna"
+            }
+          ],
+          "examples": [
+            "Eesti keeles on palju saksa laene."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "German",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "allemand",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "немецкий",
+                "weight": 1
+              },
+              {
+                "words": "германский",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "німецький",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "prantsuse",
+        "eesti",
+        "vene",
+        "Saksa"
+      ]
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "Saksa"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Saksamaaga seotud",
+          "partOfSpeech": [
+            {
+              "code": "adjg",
+              "value": "omastavaline täiend, genitiivatribuut, täiendsõna"
+            }
+          ],
+          "examples": [
+            "Kohtumine Saksa kantsleriga jäi ära."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "немецкий",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "Saksamaa",
+        "saksa"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "Saksa"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "Saksa"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "Saksat"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "Saksa"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "Saksasse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "Saksas"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "Saksast"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "Saksale"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "Saksal"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "Saksalt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "Saksaks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "Saksani"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "Saksana"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "Saksata"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "Saksaga"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "Saksad"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "Saksade"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "Saksasid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "Saksadesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "Saksades"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "Saksadest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "Saksadele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "Saksadel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "Saksadelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "Saksadeks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "Saksadeni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "Saksadena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "Saksadeta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "Saksadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "riik Kesk-Euroopas",
+          "partOfSpeech": [
+            {
+              "code": "prop",
+              "value": "pärisnimi, prooprium"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "Saksamaa"
+          ],
+          "translations": {
+            "deu": [
+              {
+                "words": "Deutschland",
+                "weight": 1
+              }
+            ],
+            "eng": [
+              {
+                "words": "Germany",
+                "weight": 1
+              }
+            ],
+            "fin": [
+              {
+                "words": "Saksa",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "Allemagne",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "Германия",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "Німеччина",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "küla Rapla maakonnas Kehtna vallas (Rapla kihelkonnas)",
+          "partOfSpeech": [
+            {
+              "code": "prop",
+              "value": "pärisnimi, prooprium"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": []
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "riik Kesk-Euroopas",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [
+            "Saksamaa",
+            "Saksa"
+          ],
+          "translations": {
+            "deu": [
+              {
+                "words": "Deutschland",
+                "weight": 1
+              }
+            ],
+            "eng": [
+              {
+                "words": "Germany",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "Allemagne",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "Германия",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "Німеччина",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "saksa",
+      "translations": []
+    }
+  ]
+}

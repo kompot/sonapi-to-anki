@@ -1,0 +1,633 @@
+{
+  "requestedWord": "kõrbema",
+  "estonianWord": "kõrbema",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "kõrbema"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "kõrbemata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "kõrbemas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "kõrbemast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "kõrbemaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "kõrbetama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "kõrbeda"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "kõrbedes"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "kõrbev"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "kõrbetav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "kõrbenud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "kõrbenud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "kõrbetud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "kõrbetud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "kõrben"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "kõrbed"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "kõrbeb"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "kõrbeme"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "kõrbete"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "kõrbevad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "kõrbe"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "kõrbetakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "kõrbeta"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "kõrbesin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "kõrbesid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "kõrbes"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "kõrbesime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "kõrbesite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "kõrbesid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "kõrbeti"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "kõrbeksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "kõrbeksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "kõrbeks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "kõrbeksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "kõrbeksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "kõrbeksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "kõrbetaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "kõrbenuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "kõrbenuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "kõrbenuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "kõrbenuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "kõrbenuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "kõrbenuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "kõrbetuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "kõrbevat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "kõrbetavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "kõrbenuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "kõrbetuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "kõrbe"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "kõrbegem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "kõrbege"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "kõrbegu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "kõrbetagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "leegita põlemisel või kuumuse mõjul (pinnalt) söestuma või mustaks tõmbuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Jutuhoos ei märgatud, et liha kõrbes panni peal."
+          ],
+          "synonyms": [
+            "põlema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "подгорать",
+                "weight": 1
+              },
+              {
+                "words": "подгореть",
+                "weight": 1
+              },
+              {
+                "words": "пригорать",
+                "weight": 1
+              },
+              {
+                "words": "пригореть",
+                "weight": 1
+              },
+              {
+                "words": "перепекаться",
+                "weight": 1
+              },
+              {
+                "words": "перепечься",
+                "weight": 1
+              },
+              {
+                "words": "пережариваться",
+                "weight": 1
+              },
+              {
+                "words": "пережариться",
+                "weight": 1
+              },
+              {
+                "words": "гореть",
+                "weight": 1
+              },
+              {
+                "words": "сгореть",
+                "weight": 1
+              },
+              {
+                "words": "погорать",
+                "weight": 1
+              },
+              {
+                "words": "погореть",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "põuaga päikese käes väga ära kuivama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Muru on täitsa kõrbenud, niita pole midagi."
+          ],
+          "synonyms": [
+            "kuivama",
+            "põlema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "выгорать",
+                "weight": 1
+              },
+              {
+                "words": "выгореть",
+                "weight": 1
+              },
+              {
+                "words": "сохнуть,высохнуть,иссыхать,иссохнуть,иссякать,иссякнуть,высыхать,обсыхать,обсохнуть,просыхать,просохнуть,просушиваться,просушиться,сушиться,высушиться,пересыхать,пересохнуть,засохнуть,засыхать",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "sécher",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "сохнути,висихати,висохнути,засихати,засохнути",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tugeva või ülemäärase päevitumise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Päikesest pruuniks kõrbenud noormees."
+          ],
+          "synonyms": [
+            "ära põlema",
+            "põlema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "обгореть",
+                "weight": 1
+              },
+              {
+                "words": "обгорать",
+                "weight": 1
+              },
+              {
+                "words": "сгорать",
+                "weight": 1
+              },
+              {
+                "words": "сгореть",
+                "weight": 1
+              },
+              {
+                "words": "загорать",
+                "weight": 1
+              },
+              {
+                "words": "загореть",
+                "weight": 1
+              },
+              {
+                "words": "сгорать,сгореть",
+                "weight": 0.7
+              },
+              {
+                "words": "обуглиться,сгореть,обугливаться",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(maha) põlema",
+          "partOfSpeech": [],
+          "examples": [
+            "Vulkaanipurskes tuhaks kõrbenud linnad."
+          ],
+          "synonyms": [
+            "maha põlema",
+            "põlema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сгорать",
+                "weight": 1
+              },
+              {
+                "words": "сгореть",
+                "weight": 1
+              },
+              {
+                "words": "гореть,сгореть",
+                "weight": 0.9
+              },
+              {
+                "words": "гореть,зажигать,зажечь,разжигать,разжечь,сгореть,сгорать,поджигать,поджечь,перегорать,перегореть,прогорать,прогореть,подпаливать,подпалить",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "brûler",
+                "weight": 0.9
+              },
+              {
+                "words": "brûler",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "горіти,згоріти",
+                "weight": 0.9
+              },
+              {
+                "words": "горіти,згоряти,згоріти,палати,запалати,запалювати,запалити,підпалювати,підпалити",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tugevat janu väljendavates, eeskätt rahvapärastes ütlustes",
+          "partOfSpeech": [],
+          "examples": [
+            "Mul sees kõrbeb, andke palun vett!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "пересохнуть",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "läbi kukkuma, põruma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Teatevõistluses kõrbesid meie suusatajad täiesti."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "погореть",
+                "weight": 1
+              },
+              {
+                "words": "прогореть",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lõkkele lööma",
+        "maha põlema",
+        "tuleroaks saama",
+        "sisisema",
+        "vinisema",
+        "vinduma",
+        "lõõskama",
+        "hingitsema",
+        "loitma",
+        "lõkendama",
+        "leekima",
+        "leekima",
+        "loitlema",
+        "lahvama",
+        "leegitsema",
+        "lõõmama",
+        "lõkkama",
+        "visisema",
+        "põlema",
+        "susisema",
+        "tuleroaks langema",
+        "kärssama",
+        "vusisema",
+        "tuhastuma",
+        "äärest",
+        "pealt",
+        "kõrbekliima",
+        "kõrbeliiv",
+        "kõrbelõhn",
+        "kõrbeala",
+        "kõrbemaa",
+        "jahune",
+        "kõrbetirts",
+        "kõrbetuul",
+        "kõrbemaastik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kõrbema",
+      "translations": []
+    }
+  ]
+}

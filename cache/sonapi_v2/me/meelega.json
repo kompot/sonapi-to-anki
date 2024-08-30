@@ -1,0 +1,184 @@
+{
+  "requestedWord": "meelega",
+  "estonianWord": "meelega",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "meelega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kindla kavatsusega, mitte kogemata,nii, et on kavatsetud või ette planeeritud, mitte juhuslikult",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tegid sa seda meelega?",
+            "Jätsin neile meelega vale mulje.",
+            "Ta jättis meelega ukse lahti, et mind ärritada."
+          ],
+          "synonyms": [
+            "nimelt",
+            "nimme",
+            "sihilikult",
+            "tahtlikult",
+            "teadvalt",
+            "taotluslikult",
+            "teadlikult",
+            "vihuti",
+            "plaanitult,ettekavatsetult,kavatsetult",
+            "tahtsi"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "on purpose",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "exprès",
+                "weight": 1
+              },
+              {
+                "words": "volontairement",
+                "weight": 1
+              },
+              {
+                "words": "sciemment,volontairement",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "намеренно",
+                "weight": 1
+              },
+              {
+                "words": "умышленно",
+                "weight": 1
+              },
+              {
+                "words": "преднамеренно",
+                "weight": 1
+              },
+              {
+                "words": "нарочито",
+                "weight": 1
+              },
+              {
+                "words": "нарочно",
+                "weight": 1
+              },
+              {
+                "words": "специально",
+                "weight": 1
+              },
+              {
+                "words": "назло",
+                "weight": 1
+              },
+              {
+                "words": "преднамеренно,сознательно,умышленно,намеренно",
+                "weight": 0.9
+              },
+              {
+                "words": "разумно,осмысленно,сознательно,осознанно",
+                "weight": 0.9
+              },
+              {
+                "words": "осознанно,осмысленно,сознательно",
+                "weight": 0.9
+              },
+              {
+                "words": "преднамеренно,намеренно,умышленно,назло,нарочно,наперекор",
+                "weight": 0.9
+              },
+              {
+                "words": "преднамеренно,по заранее обдуманному плану,планомерно,с умыслом,умышленно,предумышленно,намеренно",
+                "weight": 0.9
+              },
+              {
+                "words": "по доброй воле",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "навмисно",
+                "weight": 1
+              },
+              {
+                "words": "навмисне",
+                "weight": 1
+              },
+              {
+                "words": "умисно",
+                "weight": 1
+              },
+              {
+                "words": "умисне",
+                "weight": 1
+              },
+              {
+                "words": "з наміром",
+                "weight": 1
+              },
+              {
+                "words": "спеціально",
+                "weight": 1
+              },
+              {
+                "words": "свідомо",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tahtsi",
+        "plaanitult",
+        "tahtlikult",
+        "nimme",
+        "teadlikult",
+        "nimelt",
+        "vihuti",
+        "taotluslikult",
+        "teadvalt",
+        "sihilikult",
+        "kiuste",
+        "ettekavatsetult",
+        "just",
+        "nimme",
+        "kiuste",
+        "rõhutatult",
+        "hea",
+        "meeleldi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "meelega",
+      "translations": [
+        "by choice",
+        "on purpose"
+      ]
+    }
+  ]
+}

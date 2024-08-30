@@ -1,0 +1,174 @@
+{
+  "requestedWord": "keskmiselt",
+  "estonianWord": "keskmiselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "keskmiselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(matemaatiliselt) keskmise arvestusega,keskmise arvestusega",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Majanduskasv on keskmiselt 2% aastas.",
+            "Läbisime matkal keskmiselt 20 km päevas.",
+            "Kui palju kohv Tallinnas keskmiselt maksab?"
+          ],
+          "synonyms": [
+            "keskeltläbi",
+            "läbistikku"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "en moyenne",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в среднем",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "в середньому",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "üldiselt (võttes), üldjoontes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Koolitused toimuvad keskmiselt kaks korda kuus."
+          ],
+          "synonyms": [
+            "keskeltläbi",
+            "läbistikku"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "в среднем",
+                "weight": 1
+              },
+              {
+                "words": "в общем",
+                "weight": 1
+              },
+              {
+                "words": "приблизительно",
+                "weight": 1
+              },
+              {
+                "words": "примерно",
+                "weight": 1
+              },
+              {
+                "words": "в общих чертах",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "päris suurel määral, küllaltki palju,keskmisel määral,keskmisel tasemel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Selliseks reisiks peab rahakott olema keskmiselt kopsakas.",
+            "Olin keskmiselt purjus.",
+            "Rahvast oli kontserdil keskmiselt.",
+            "Ta õpib koolis keskmiselt."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "moyennement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "средне",
+                "weight": 1
+              },
+              {
+                "words": "заурядно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "середньо",
+                "weight": 1
+              },
+              {
+                "words": "посередньо",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "keskeltläbi",
+        "vastuvõetav",
+        "rahuldavalt",
+        "talutavalt",
+        "kenakesti",
+        "keskpäraselt",
+        "vähemalt",
+        "ligi",
+        "ligikaudu",
+        "vähem",
+        "vähem",
+        "umbes",
+        "umbes",
+        "keskmine",
+        "maksimaalselt",
+        "tavaliselt",
+        "suhteliselt",
+        "neljakordselt",
+        "viiekordselt",
+        "rohkem",
+        "rohkem"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "keskmiselt",
+      "translations": []
+    }
+  ]
+}

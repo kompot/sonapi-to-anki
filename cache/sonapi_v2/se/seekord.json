@@ -1,0 +1,142 @@
+{
+  "requestedWord": "seekord",
+  "estonianWord": "seekord",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "seekord"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sel korral, praegusel juhul,sel korral",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Seekord oli igal lehel midagi huvitavat.",
+            "Seekord lähen reisile koos vennaga.",
+            "Seekord katse õnnestus."
+          ],
+          "synonyms": [
+            "sedakorda",
+            "sedapuhku"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "cette fois",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в этот раз",
+                "weight": 1
+              },
+              {
+                "words": "на этот раз",
+                "weight": 1
+              },
+              {
+                "words": "на сей раз",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "цього разу",
+                "weight": 1
+              },
+              {
+                "words": "цим разом",
+                "weight": 1
+              },
+              {
+                "words": "на цей раз",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "siis, tookord",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ma läksin seekord kohvikust läbi, kui sinu juurde tulin."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в тот раз",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sedakorda",
+        "sedapuhku",
+        "tookord",
+        "sedaaegu",
+        "siis",
+        "sellal",
+        "tollal",
+        "miskitpidi",
+        "kahtpidi",
+        "taas",
+        "seekordne",
+        "sedapidi",
+        "hoopis",
+        "aga",
+        "aga",
+        "siiski",
+        "miskitmoodi",
+        "jälle",
+        "muidugi",
+        "loomulikult",
+        "kahjuks",
+        "kuidagi",
+        "tänavu",
+        "küll",
+        "küll",
+        "ikka",
+        "taaskord",
+        "ikkagi",
+        "järjekordselt",
+        "just",
+        "õnneks",
+        "oodatult",
+        "vist",
+        "vist",
+        "jällegi",
+        "nüüd"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "seekord",
+      "translations": []
+    }
+  ]
+}

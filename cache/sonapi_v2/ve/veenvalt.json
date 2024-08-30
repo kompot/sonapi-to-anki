@@ -1,0 +1,82 @@
+{
+  "requestedWord": "veenvalt",
+  "estonianWord": "veenvalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "veenvalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nii, et see veenab, paneb uskuma,kindlalt, kahtlusi välistavalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ma ei suutnud oma seisukohti veenvalt põhjendada.",
+            "Mitmed teadusuuringud on veenvalt tõestanud, et ..",
+            "Ajalooline olustik on teoses veenvalt kujutatud.",
+            "Kalev võitis kolm kohtumist järjest küllatki mõõduka vahega, ent siiski veenvalt."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "убедительно",
+                "weight": 1
+              },
+              {
+                "words": "доказательно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "usutavalt",
+        "usutav",
+        "tõepäraselt",
+        "kõnekalt",
+        "ebaveenvalt",
+        "ilmekalt",
+        "argumenteeritult",
+        "realistlikult",
+        "efektselt",
+        "arusaadavalt",
+        "sisukalt",
+        "vaimukalt",
+        "andekalt",
+        "nüansirikkalt",
+        "näitlikult",
+        "võimsalt",
+        "veenev",
+        "veenvus",
+        "selgelt",
+        "siiski"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "veenvalt",
+      "translations": [
+        "convincingly",
+        "persuadingly"
+      ]
+    }
+  ]
+}

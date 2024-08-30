@@ -1,0 +1,100 @@
+{
+  "requestedWord": "parajalt",
+  "estonianWord": "parajalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "parajalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sobival, vajalikul määral, mõõdukalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Oktoober oli parajalt soe."
+          ],
+          "synonyms": [
+            "parajasti",
+            "parasjagu",
+            "hetkel,momendil"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "умеренно",
+                "weight": 1
+              },
+              {
+                "words": "в меру",
+                "weight": 1
+              },
+              {
+                "words": "в достаточной мере",
+                "weight": 1
+              },
+              {
+                "words": "в данный момент",
+                "weight": 0.75
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mõõdukalt",
+        "parasjagu",
+        "mõnusasti",
+        "tempokalt",
+        "veidikene",
+        "kenakene",
+        "superhästi",
+        "vingelt",
+        "mõnusalt",
+        "toredalt",
+        "liialt",
+        "piisavalt",
+        "meeldivalt",
+        "muhedalt",
+        "natuke",
+        "natuke",
+        "kenasti",
+        "tüütult",
+        "veidikese",
+        "krõbedalt",
+        "rammusalt",
+        "meeletult",
+        "piinlikult",
+        "natukene",
+        "natukene",
+        "ikka",
+        "üsna",
+        "hullult",
+        "igatpidi",
+        "igatepidi",
+        "ääretult",
+        "väga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "parajalt",
+      "translations": []
+    }
+  ]
+}

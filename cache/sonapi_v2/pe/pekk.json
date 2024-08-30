@@ -1,0 +1,380 @@
+{
+  "requestedWord": "pekk",
+  "estonianWord": "pekk",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "pekk"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "peki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "pekki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "pekki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "pekisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "pekis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "pekist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "pekile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "pekil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "pekilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "pekiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "pekini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "pekina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "pekita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "pekiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "pekid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "pekkide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "pekke,pekkisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "pekkidesse,pekesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "pekkides,pekes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "pekkidest,pekest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "pekkidele,pekele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "pekkidel,pekel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "pekkidelt,pekelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "pekkideks,pekeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "pekkideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "pekkidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "pekkideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "pekkidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nahaalune kõvenenud rasvkude seal",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Vaadake põrsast sulus, kus vitsutab, ainult anna kätte, karv läigib ja pekk kogub."
+          ],
+          "synonyms": [
+            "pekk,rasv"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сало",
+                "weight": 1
+              },
+              {
+                "words": "сало,жир",
+                "weight": 0.6135
+              }
+            ],
+            "fra": [
+              {
+                "words": "graisse",
+                "weight": 0.6135
+              }
+            ],
+            "ukr": [
+              {
+                "words": "жир,сало",
+                "weight": 0.6135
+              }
+            ],
+            "eng": [
+              {
+                "words": "fat",
+                "weight": 0.6135
+              }
+            ]
+          }
+        },
+        {
+          "definition": "sealiha rasvane valge osa toiduainena",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kruubipuder pekiga.",
+            "Volli sööb vaid ilma pekita sinki."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "сало",
+                "weight": 1
+              },
+              {
+                "words": "шпик",
+                "weight": 1
+              },
+              {
+                "words": "шпиг",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hrl inimese või looma naha alla või siseorganite ümber ladestunud vees lahustumatu valge tahke aine,pehme valge aine, mis on loomade ja inimeste naha all",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mehel rippus pekk üle püksivärvli.",
+            "Plaanin sporti teha, et suveks pekkidest lahti saada."
+          ],
+          "synonyms": [
+            "rasv",
+            "rasvkude",
+            "polster,rasvapolster",
+            "rasvakiht",
+            "pekk"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "fat",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "graisse",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "жир",
+                "weight": 1
+              },
+              {
+                "words": "сало",
+                "weight": 1
+              },
+              {
+                "words": "жировая ткань",
+                "weight": 0.664
+              },
+              {
+                "words": "слой жира",
+                "weight": 0.712
+              },
+              {
+                "words": "сало",
+                "weight": 0.6135
+              }
+            ],
+            "ukr": [
+              {
+                "words": "жир",
+                "weight": 1
+              },
+              {
+                "words": "сало",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "rasu",
+        "rasv",
+        "kintsuliha",
+        "leem",
+        "põsk",
+        "tamp",
+        "lödi",
+        "heik",
+        "kints",
+        "püdel",
+        "pudrune",
+        "löga",
+        "plönn",
+        "puder",
+        "searasv",
+        "seapekk",
+        "jahune",
+        "rasvane",
+        "sefiir",
+        "klimpi",
+        "mannapuder",
+        "sink",
+        "peekoniviil",
+        "pekine",
+        "naan",
+        "klimp",
+        "kaaviar",
+        "nätske",
+        "krõmps",
+        "broiler",
+        "pekkis",
+        "pekki",
+        "soust",
+        "keedumuna",
+        "saiapuru",
+        "leivapuru",
+        "sült",
+        "pätsike"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pekk",
+      "translations": [
+        "lard"
+      ]
+    }
+  ]
+}

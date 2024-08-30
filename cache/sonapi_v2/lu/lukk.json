@@ -1,0 +1,648 @@
+{
+  "requestedWord": "lukk",
+  "estonianWord": "lukk",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "lukk"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "luku"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "lukku"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "lukku"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "lukusse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "lukus"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "lukust"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "lukule"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "lukul"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "lukult"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "lukuks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "lukuni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "lukuna"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "lukuta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "lukuga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "lukud"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "lukkude"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "lukke,lukkusid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "lukkudesse,lukesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "lukkudes,lukes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "lukkudest,lukest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "lukkudele,lukele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "lukkudel,lukel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "lukkudelt,lukelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "lukkudeks,lukeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "lukkudeni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "lukkudena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "lukkudeta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "lukkudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kindla ainusobiva vahendiga (võtmega, magnetkaardiga, koodi sisestamisega vm) avatav ukse, kohvri vm sulgur,selline sõiduki ärandamist takistav vahend,metallist vahend, mis sulgeb ukse või värava nii, et selle avamiseks on võtit vaja",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Elektrooniline lukk.",
+            "Ukselukk.",
+            "Mul on vaja uksele uus lukk panna."
+          ],
+          "synonyms": [
+            "lukustus",
+            "sulgur",
+            "lukusti"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "serrure",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "замок",
+                "weight": 1
+              },
+              {
+                "words": "заглушка,затвор,зажим,задвижка,запор",
+                "weight": 0.75
+              },
+              {
+                "words": "заключка,замыкатель,запор",
+                "weight": 0.559
+              }
+            ],
+            "ukr": [
+              {
+                "words": "замок",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kahest vastastikku hambuvast hammastikust ja lukustist koosnev sulgemisvahend, mida suletakse ja avatakse lukustit piki hammastikku tõmmates,piklik vahend, mille küljes olevat väikest osa tõmmates saab avada ja sulgeda näiteks kotte, riideid või taskuid",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tõmbasin jope luku kinni.",
+            "Telgi lukk.",
+            "Saapa lukk läks katki.",
+            "Tõmbasin luku kinni/lahti."
+          ],
+          "synonyms": [
+            "tõmbelukk",
+            "tõmblukk"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "zip",
+                "weight": 1
+              },
+              {
+                "words": "zipper",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "fermeture éclair",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "молния",
+                "weight": 1
+              },
+              {
+                "words": "змейка",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "блискавка",
+                "weight": 1
+              },
+              {
+                "words": "змійка",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tagant laetava tulirelva rauaõõne sulgemise ning lasu tekitamise mehhanism",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Vanamoodsa lukuga jahipüss."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "затвор",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(mitmesuguste kinnitavate, sulgevate või ühendavate osade või moodustiste kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Lukuga kõrvarõngad.",
+            "Aita mul kaelakee lukk lahti teha.",
+            "Klõpsasin käekoti luku kinni."
+          ],
+          "synonyms": [
+            "haak",
+            "kinnis"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "застёжка",
+                "weight": 1
+              },
+              {
+                "words": "крюк,крючок",
+                "weight": 0.7
+              },
+              {
+                "words": "застёжка",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "nööpaugu, taskusuu või voldi otsa tugev kinnitusviis",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(karpidel ja käsijalgsetel:) kojapoolmeid liigutada võimaldav ühendusosa",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "замок",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kinnis",
+        "haak",
+        "sulgur",
+        "katik",
+        "riiv",
+        "riiv",
+        "lukus",
+        "lukustus",
+        "polt",
+        "lapselukk",
+        "lukusti",
+        "ukselukk",
+        "süütelukk",
+        "veorihm",
+        "fonolukk",
+        "uks",
+        "tõmblukk",
+        "turvarihm",
+        "koodlukk",
+        "vesilukk",
+        "tagaluuk",
+        "tabalukk",
+        "lastelukk",
+        "rull-lukk",
+        "rihm",
+        "lukuauk",
+        "turvalukk"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "lukk"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "luki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "lukki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "lukki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "lukisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "lukis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "lukist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "lukile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "lukil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "lukilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "lukiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "lukini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "lukina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "lukita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "lukiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "lukid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "lukkide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "lukke,lukkisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "lukkidesse,lukesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "lukkides,lukes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "lukkidest,lukest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "lukkidele,lukele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "lukkidel,lukel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "lukkidelt,lukelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "lukkideks,lukeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "lukkideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "lukkidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "lukkideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "lukkidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "suguti või kõdisti eesots",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "головка",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "uks",
+        "sulgur",
+        "katik",
+        "riiv",
+        "riiv",
+        "lukus",
+        "lukustus",
+        "polt",
+        "lapselukk",
+        "lukusti",
+        "ukselukk",
+        "süütelukk",
+        "veorihm",
+        "fonolukk",
+        "tõmblukk",
+        "turvarihm",
+        "koodlukk",
+        "vesilukk",
+        "tagaluuk",
+        "tabalukk",
+        "lastelukk",
+        "rull-lukk",
+        "rihm",
+        "lukuauk",
+        "turvalukk"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lukk",
+      "translations": [
+        "fastener",
+        "lock"
+      ]
+    }
+  ]
+}

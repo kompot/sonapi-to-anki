@@ -1,0 +1,98 @@
+{
+  "requestedWord": "üleöö",
+  "estonianWord": "üleöö",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "üleöö"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "väga kiiresti, lühikese ajaga, ootamatult",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ega need võlad üleöö tekkinud."
+          ],
+          "synonyms": [
+            "üle öö"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "вдруг",
+                "weight": 1
+              },
+              {
+                "words": "внезапно",
+                "weight": 1
+              },
+              {
+                "words": "в два счёта",
+                "weight": 1
+              },
+              {
+                "words": "в одночасье",
+                "weight": 1
+              },
+              {
+                "words": "очень быстро",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ettenägematult",
+        "ajaliselt",
+        "nagu välk selgest taevast",
+        "äkiliselt",
+        "prauhti",
+        "üllatuslikult",
+        "partsti",
+        "järsku",
+        "kõpsti",
+        "ootamatult",
+        "plaksti",
+        "kopsti",
+        "äkitsi",
+        "kiirelt",
+        "kiirenema",
+        "kohe",
+        "kohe",
+        "paugupealt",
+        "päev-paar",
+        "aasta-kaks",
+        "päevapealt",
+        "muutus",
+        "lihtsalt",
+        "kiiresti",
+        "aasta-paar",
+        "kunagi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "üleöö",
+      "translations": [
+        "overnight"
+      ]
+    }
+  ]
+}

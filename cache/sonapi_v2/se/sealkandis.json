@@ -1,0 +1,84 @@
+{
+  "requestedWord": "sealkandis",
+  "estonianWord": "sealkandis",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sealkandis"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kohas, mis asub kõnelejast kaugemal,varem nimetatud paikkonnas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Jaan oli sealkandis sündinud.",
+            "Pisikesi saari on sealkandis rohkesti."
+          ],
+          "synonyms": [
+            "sealmail",
+            "seal kandis"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "в тех краях",
+                "weight": 1
+              },
+              {
+                "words": "в тех местах",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "seal",
+        "sealmail",
+        "ikkagi",
+        "linnaäärne",
+        "päris",
+        "ilmselt",
+        "siinmail",
+        "sealmaal",
+        "saarerikas",
+        "küll",
+        "küll",
+        "ikka",
+        "siin",
+        "siin",
+        "jõeäärne",
+        "juba",
+        "ennemuiste",
+        "siinkandis",
+        "sealtkandist",
+        "aga",
+        "aga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sealkandis",
+      "translations": [
+        "thereabouts",
+        "thereby"
+      ]
+    }
+  ]
+}

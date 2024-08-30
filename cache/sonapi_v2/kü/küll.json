@@ -1,0 +1,744 @@
+{
+  "requestedWord": "küll",
+  "estonianWord": "küll",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "küll"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(rõhutav üldlaiend:) tugevdab väite jaatamist,kasuta siis, kui tahad rõhutada, et miski on kindel või asi on tõesti nii",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ole mureta, küll me saame hakkama.",
+            "Nüüd ma pean küll minema.",
+            "Töö on küll raske, aga huvitav.",
+            "Kurb küll, aga nii see on.",
+            "Kas sa tuled meile? – Tulen küll."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(väljendab kinnitust, mööndust, nõusolekut:) jah muidugi, nii tõepoolest,näitab, et oled nõus, kiidad midagi heaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kas jääb meelde? – Jääb küll."
+          ],
+          "synonyms": [
+            "jajaa",
+            "jajah",
+            "just"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "да-да",
+                "weight": 1
+              },
+              {
+                "words": "да",
+                "weight": 1
+              },
+              {
+                "words": "конечно",
+                "weight": 1
+              },
+              {
+                "words": "точно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "так-так",
+                "weight": 1
+              },
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "звичайно",
+                "weight": 1
+              },
+              {
+                "words": "еге",
+                "weight": 1
+              },
+              {
+                "words": "авжеж",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(esineb mitmesugustes hüüatustes)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Küll alles tuiskab!",
+            "Jumal küll, mis nüüd saab!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "ох",
+                "weight": 1
+              },
+              {
+                "words": "ах",
+                "weight": 1
+              },
+              {
+                "words": "ой",
+                "weight": 1
+              },
+              {
+                "words": "ну и",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(rõhutab kõhklust, imestust, nõutust vm tundetooni)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mis sa temas küll leiad?",
+            "Kurb küll, aga nii see on.",
+            "Usub ta su lubadust küll!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "так и",
+                "weight": 1
+              },
+              {
+                "words": "так уж и",
+                "weight": 1
+              },
+              {
+                "words": "прямо-таки",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kinnitav, rõhutav sõna mingi vastanduse korral,rõhutab täpsustust või piiravat väidet",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ma pole küll päris terve, kuid tulen siiski kaasa.",
+            "Põnev ehk küll, aga loomuvastane.",
+            "Mees olevat jälle ametis, küll mitte enam juhtkonnas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "хотя..., но",
+                "weight": 1
+              },
+              {
+                "words": "но",
+                "weight": 1
+              },
+              {
+                "words": "однако",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb ühendava sõnana loetelu korral",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mindi küll üksikult, küll hulgakesi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "и...и",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "küllalt, piisaval määral, piisavalt,küllalt, piisavalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Raha on veel küll.",
+            "Mul on raha veel küll.",
+            "Siin on ruumi küll."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "suffisamment",
+                "weight": 1
+              },
+              {
+                "words": "beaucoup",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "достаточно",
+                "weight": 1
+              },
+              {
+                "words": "довольно",
+                "weight": 1
+              },
+              {
+                "words": "вдоволь",
+                "weight": 1
+              },
+              {
+                "words": "вволю",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "досить",
+                "weight": 1
+              },
+              {
+                "words": "достатньо",
+                "weight": 1
+              },
+              {
+                "words": "доволі",
+                "weight": 1
+              },
+              {
+                "words": "удосталь",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "voli pärast",
+        "kuhjaga",
+        "surmkindlalt",
+        "iga hinna eest",
+        "saagu mis saab",
+        "igatahes",
+        "nagunii",
+        "sadagu taevast või pussnuge",
+        "maa ja ilm",
+        "küll ja küll",
+        "ikka",
+        "kas või malk pooleks",
+        "raudkindlalt",
+        "iga kell",
+        "kindlasti",
+        "niikuinii",
+        "volilt",
+        "küllaldaselt",
+        "ammugi",
+        "maksku mis maksab",
+        "endastmõistetavalt",
+        "kindla peale",
+        "tingimata",
+        "loalt",
+        "lahedasti",
+        "kahtlemata",
+        "küllalt",
+        "iga naks",
+        "kahtlematult",
+        "priilt",
+        "tarvilikult",
+        "iga toll",
+        "raudselt",
+        "sadagu või pussnuge",
+        "priipärast",
+        "ilmtingimata",
+        "igal juhul",
+        "küllaga",
+        "piisavalt",
+        "maailm",
+        "ometi",
+        "juba",
+        "ju",
+        "vast",
+        "pole",
+        "tõepoolest",
+        "praegu",
+        "kuigi",
+        "tõesti",
+        "see",
+        "kuid",
+        "aga",
+        "aga",
+        "siiski",
+        "miskitmoodi",
+        "seal",
+        "ilmselt",
+        "muidugi",
+        "siin",
+        "siin",
+        "seega",
+        "pigem",
+        "üldse",
+        "kahjuks",
+        "kuidagi",
+        "kunagi",
+        "mitte",
+        "mitte",
+        "isegi",
+        "veel",
+        "üsna",
+        "tegelikult",
+        "ise",
+        "ise",
+        "ise",
+        "ikkagi",
+        "päris",
+        "õnneks",
+        "endiselt",
+        "esialgu",
+        "vist",
+        "vist",
+        "üldiselt",
+        "ent",
+        "nüüd",
+        "paraku",
+        "lihtsalt",
+        "siis",
+        "alati",
+        "väga",
+        "nii"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22i",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "küll"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "külla"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "külla"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "külla"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "küllasse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "küllas"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "küllast"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "küllale"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "küllal"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "küllalt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "küllaks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "küllani"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "küllana"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "küllata"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "küllaga"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "küllad"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "küllade"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "külli,küllasid"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "külladesse,küllisse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "küllades,küllis"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "külladest,küllist"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "külladele,küllile"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "külladel,küllil"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "külladelt,küllilt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "külladeks,külliks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "külladeni"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "külladena"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "külladeta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "külladega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "küllus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ega küll küllale liiga ei tee."
+          ],
+          "synonyms": [
+            "rikkalikkus",
+            "ohtrus",
+            "paljus,paljusus",
+            "küll ja veel,küll ja küll",
+            "küllus",
+            "varakus,jõukus,rikkus",
+            "rohkus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "обилие",
+                "weight": 1
+              },
+              {
+                "words": "изобилие",
+                "weight": 1
+              },
+              {
+                "words": "избыток",
+                "weight": 1
+              },
+              {
+                "words": "достаток",
+                "weight": 1
+              },
+              {
+                "words": "изобилие,обилие",
+                "weight": 0.7
+              },
+              {
+                "words": "множество,многочисленность,обилие,изобилие,множественность",
+                "weight": 0.7
+              },
+              {
+                "words": "предостаточно",
+                "weight": 0.9
+              },
+              {
+                "words": "зажиточность,достаток,довольство",
+                "weight": 0.7
+              },
+              {
+                "words": "достояние,материальный достаток,зажиточность,состоятельность,достаток,богатство,обилие,довольство,изобилие",
+                "weight": 0.7
+              },
+              {
+                "words": "множество,многочисленность,достаток,обилие,избыток,изобилие,большое количество",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "richesse",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "багатство,заможність,статок,достаток",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "wealth",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "paljus",
+        "rikkus",
+        "ohtrus",
+        "rikkalikkus",
+        "rohkus",
+        "küllus",
+        "kuhjaga",
+        "küll ja küll",
+        "küllaga",
+        "piisavalt",
+        "voli pärast",
+        "surmkindlalt",
+        "iga hinna eest",
+        "saagu mis saab",
+        "igatahes",
+        "nagunii",
+        "sadagu taevast või pussnuge",
+        "maa ja ilm",
+        "ikka",
+        "kas või malk pooleks",
+        "raudkindlalt",
+        "iga kell",
+        "kindlasti",
+        "niikuinii",
+        "volilt",
+        "küllaldaselt",
+        "ammugi",
+        "maksku mis maksab",
+        "endastmõistetavalt",
+        "kindla peale",
+        "tingimata",
+        "loalt",
+        "lahedasti",
+        "kahtlemata",
+        "küllalt",
+        "iga naks",
+        "kahtlematult",
+        "priilt",
+        "tarvilikult",
+        "iga toll",
+        "raudselt",
+        "sadagu või pussnuge",
+        "priipärast",
+        "ilmtingimata",
+        "igal juhul",
+        "maailm",
+        "ometi",
+        "juba",
+        "ju",
+        "vast",
+        "pole",
+        "tõepoolest",
+        "praegu",
+        "kuigi",
+        "tõesti",
+        "see",
+        "kuid",
+        "aga",
+        "aga",
+        "siiski",
+        "miskitmoodi",
+        "seal",
+        "ilmselt",
+        "muidugi",
+        "siin",
+        "siin",
+        "seega",
+        "pigem",
+        "üldse",
+        "kahjuks",
+        "kuidagi",
+        "kunagi",
+        "mitte",
+        "mitte",
+        "isegi",
+        "veel",
+        "üsna",
+        "tegelikult",
+        "ise",
+        "ise",
+        "ise",
+        "ikkagi",
+        "päris",
+        "õnneks",
+        "endiselt",
+        "esialgu",
+        "vist",
+        "vist",
+        "üldiselt",
+        "ent",
+        "nüüd",
+        "paraku",
+        "lihtsalt",
+        "siis",
+        "alati",
+        "väga",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "küll",
+      "translations": []
+    }
+  ]
+}

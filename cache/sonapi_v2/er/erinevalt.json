@@ -1,0 +1,134 @@
+{
+  "requestedWord": "erinevalt",
+  "estonianWord": "erinevalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "erinevalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teistsugusel moel, erineval viisil,teisel viisil",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Eellepet on osapooled pisut erinevalt tõlgendanud.",
+            "Me mõtleme väga erinevalt.",
+            "Erinevalt teistest lastest meeldib Meelisele üksi olla."
+          ],
+          "synonyms": [
+            "teist moodi,teist pidi,teist viisi,teisipidi,teisiti,teistmoodi,teistpidi,teistviisi",
+            "omamoodi,isemoodi"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "differently",
+                "weight": 1
+              },
+              {
+                "words": "unlike",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "по-разному",
+                "weight": 1
+              },
+              {
+                "words": "разно",
+                "weight": 1
+              },
+              {
+                "words": "в отличие",
+                "weight": 1
+              },
+              {
+                "words": "в другую сторону,в обратную сторону,по-другому,иначе,по-иному,иным способом",
+                "weight": 0.9
+              },
+              {
+                "words": "по-своему,иначе,по-иному,по-особому",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "по-різному",
+                "weight": 1
+              },
+              {
+                "words": "на відміну від",
+                "weight": 1
+              },
+              {
+                "words": "інакше,по-іншому",
+                "weight": 0.9
+              },
+              {
+                "words": "по-своєму,інакше,по-іншому",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "autrement,différemment",
+                "weight": 0.9
+              },
+              {
+                "words": "différemment,à sa manière,à sa façon",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "isemoodi",
+        "naaviisi",
+        "naapidi",
+        "alias",
+        "alias",
+        "isepidi",
+        "naa",
+        "teistviisi",
+        "muidu",
+        "teist moodi",
+        "omamoodi",
+        "teistmoodi",
+        "teisipidi",
+        "teisisõnu",
+        "teisiti",
+        "nii ja naa",
+        "erinema",
+        "erinev",
+        "erinevam"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "erinevalt",
+      "translations": [
+        "differentially",
+        "diversely",
+        "unlike"
+      ]
+    }
+  ]
+}

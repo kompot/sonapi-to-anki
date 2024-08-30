@@ -1,0 +1,101 @@
+{
+  "requestedWord": "sestap",
+  "estonianWord": "sestap",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sestap"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sellepärast siis, sellepärast ju",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Eestis lund polnud, sestap tuli Alpidesse suusatama minna."
+          ],
+          "synonyms": [
+            "miska,mistõttu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "поэтому и",
+                "weight": 1
+              },
+              {
+                "words": "оттого и",
+                "weight": 1
+              },
+              {
+                "words": "поэтому-то",
+                "weight": 1
+              },
+              {
+                "words": "оттого-то",
+                "weight": 1
+              },
+              {
+                "words": "почему,отчего,вследствие чего,из-за чего",
+                "weight": 0.7617
+              }
+            ],
+            "fra": [
+              {
+                "words": "c'est pourquoi,c'est la raison pour laquelle",
+                "weight": 0.7617
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чому,чого,через що,внаслідок чого",
+                "weight": 0.7617
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "misläbi",
+        "seetõttu",
+        "seepärast",
+        "sellepärast",
+        "seekaudu",
+        "mistõttu",
+        "seeläbi",
+        "toopärast",
+        "sesterts",
+        "sestsaadik",
+        "sestpeale",
+        "sest",
+        "kuna",
+        "kuna",
+        "sestsaati",
+        "seega",
+        "siis",
+        "aga",
+        "aga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sestap",
+      "translations": []
+    }
+  ]
+}

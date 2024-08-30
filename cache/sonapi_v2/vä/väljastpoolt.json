@@ -1,0 +1,114 @@
+{
+  "requestedWord": "väljastpoolt",
+  "estonianWord": "väljastpoolt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "väljastpoolt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi piiridest kaugemalt või välimiselt küljelt,väljast,väljas oleva külje poolt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Ta ei otsi seiklusi väljastpoolt kodu.",
+            "Metspipra väljastpoolt pruun, seest punakas õis.",
+            "Haiget uuriti põhjalikult seest- ja väljastpoolt.",
+            "Oht ei ähvarda mitte ainult väljastpoolt.",
+            "Keerasin ukse väljastpoolt lukku."
+          ],
+          "synonyms": [
+            "väljaspoolt",
+            "väljapoolt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "de l'extérieur",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "снаружи",
+                "weight": 1
+              },
+              {
+                "words": "извне",
+                "weight": 1
+              },
+              {
+                "words": "с внешней стороны",
+                "weight": 1
+              },
+              {
+                "words": "с наружной стороны",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ззовні",
+                "weight": 1
+              },
+              {
+                "words": "іззовні",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "väljaspool",
+        "väljast",
+        "väljas",
+        "väljapoole",
+        "mujalt",
+        "eestpoolt",
+        "seestpoolt",
+        "kaugemalt",
+        "pealtpoolt",
+        "ülaltpoolt",
+        "ülevaltpoolt",
+        "seest",
+        "väljaspoole",
+        "altpoolt",
+        "kõikjalt",
+        "sissepoole",
+        "sealtpoolt",
+        "siitpoolt",
+        "väljaspoolt",
+        "kustpoolt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "väljastpoolt",
+      "translations": [
+        "externally",
+        "extrinsically"
+      ]
+    }
+  ]
+}

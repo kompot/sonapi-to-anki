@@ -1,0 +1,413 @@
+{
+  "requestedWord": "istekoht",
+  "estonianWord": "istekoht",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22i",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "istekoht"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "istekoha"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "istekohta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "istekohta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "istekohasse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "istekohas"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "istekohast"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "istekohale"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "istekohal"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "istekohalt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "istekohaks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "istekohani"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "istekohana"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "istekohata"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "istekohaga"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "istekohad"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "istekohtade"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "istekohti,istekohtasid"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "istekohtadesse,istekohisse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "istekohtades,istekohis"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "istekohtadest,istekohist"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "istekohtadele,istekohile"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "istekohtadel,istekohil"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "istekohtadelt,istekohilt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "istekohtadeks,istekohiks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "istekohtadeni"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "istekohtadena"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "istekohtadeta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "istekohtadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "koht istumiseks (nt bussis, kontserdil),koht, kus saab istuda",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Raske oli leida istekohta, kust laval toimuv hästi näha oleks.",
+            "Bussis ei olnud ühtegi vaba istekohta."
+          ],
+          "synonyms": [
+            "iste",
+            "istmealune",
+            "koht",
+            "plats"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "seat",
+                "weight": 1
+              },
+              {
+                "words": "seat",
+                "weight": 0.766
+              }
+            ],
+            "fra": [
+              {
+                "words": "place (assise)",
+                "weight": 1
+              },
+              {
+                "words": "siège",
+                "weight": 0.766
+              },
+              {
+                "words": "place",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "место для сидения",
+                "weight": 1
+              },
+              {
+                "words": "сидячее место",
+                "weight": 1
+              },
+              {
+                "words": "сиденье,место",
+                "weight": 0.766
+              },
+              {
+                "words": "сиденье",
+                "weight": 0.7
+              },
+              {
+                "words": "место",
+                "weight": 0.9
+              },
+              {
+                "words": "место",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "місце для сидіння",
+                "weight": 1
+              },
+              {
+                "words": "сидяче місце",
+                "weight": 1
+              },
+              {
+                "words": "сидіння,місце",
+                "weight": 0.766
+              },
+              {
+                "words": "місце",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(istmiku kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            ".. kirjeldamatult mõnus on varjuda suure betoonsilla meeldivasse vilusse ning toetada istekoht jahedale kivile."
+          ],
+          "synonyms": [
+            "istumine",
+            "ahter,istmik,tagapalged,tagumik,tagupool,tagapool",
+            "taguots",
+            "tagument",
+            "sabaalune",
+            "perse",
+            "pee",
+            "tuss,pepu",
+            "tussu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "зад",
+                "weight": 1
+              },
+              {
+                "words": "седалище",
+                "weight": 1
+              },
+              {
+                "words": "ягодицы",
+                "weight": 1
+              },
+              {
+                "words": "сиденье",
+                "weight": 1
+              },
+              {
+                "words": "задница",
+                "weight": 1
+              },
+              {
+                "words": "попа,мягкое место,заднее место,зад,задница,сиденье,седалище,ягодицы,пятая точка",
+                "weight": 0.9
+              },
+              {
+                "words": "задница,зад",
+                "weight": 0.9
+              },
+              {
+                "words": "задница,зад",
+                "weight": 0.9
+              },
+              {
+                "words": "задница,зад",
+                "weight": 0.9
+              },
+              {
+                "words": "жопа,зад,задница",
+                "weight": 0.9
+              },
+              {
+                "words": "попка,попа,задница,зад,жопа,жопка",
+                "weight": 0.9
+              },
+              {
+                "words": "попа,попка",
+                "weight": 0.9
+              },
+              {
+                "words": "попа,попка",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "derrière,fesses,postérieur",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "сідниці,зад",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "bottom,seat",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "istmealune",
+        "istmik",
+        "koht",
+        "tagaots",
+        "perse",
+        "pepu",
+        "pee",
+        "istumine",
+        "ahter",
+        "tuss",
+        "sabaalune",
+        "iste",
+        "tagument",
+        "tagumik",
+        "taguots",
+        "plats",
+        "puutekoht",
+        "istevann",
+        "isteasend",
+        "istmepadi",
+        "istepink",
+        "parkimiskoht",
+        "tussu",
+        "iste",
+        "plats",
+        "plats",
+        "süstekoht",
+        "voodikoht"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "istekoht",
+      "translations": []
+    }
+  ]
+}

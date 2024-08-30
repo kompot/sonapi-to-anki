@@ -1,0 +1,80 @@
+{
+  "requestedWord": "hiljemalt",
+  "estonianWord": "hiljemalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "hiljemalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mitte hiljem kui",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kinnituskiri saadetakse hiljemalt 12. septembriks e-postiga."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "не позднее",
+                "weight": 1
+              },
+              {
+                "words": "не позже",
+                "weight": 1
+              },
+              {
+                "words": "не позднее чем",
+                "weight": 1
+              },
+              {
+                "words": "не позже чем",
+                "weight": 1
+              },
+              {
+                "words": "самое позднее",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vähemalt",
+        "valjemalt",
+        "enne",
+        "enne",
+        "alles",
+        "aegsasti",
+        "alates",
+        "kirjalikult",
+        "juba",
+        "jõustuma",
+        "lõpptähtaeg",
+        "teisipäeval"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "hiljemalt",
+      "translations": []
+    }
+  ]
+}

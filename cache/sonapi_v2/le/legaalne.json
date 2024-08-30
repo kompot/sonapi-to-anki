@@ -1,0 +1,319 @@
+{
+  "requestedWord": "legaalne",
+  "estonianWord": "legaalne",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "02",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "legaalne"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "legaalse"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "legaalset"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "legaalsesse"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "legaalses"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "legaalsest"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "legaalsele"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "legaalsel"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "legaalselt"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "legaalseks"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "legaalseni"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "legaalsena"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "legaalseta"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "legaalsega"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "legaalsed"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "legaalsete"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "legaalseid"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "legaalsetesse,legaalseisse"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "legaalsetes,legaalseis"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "legaalsetest,legaalseist"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "legaalsetele,legaalseile"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "legaalsetel,legaalseil"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "legaalsetelt,legaalseilt"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "legaalseteks,legaalseiks"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "legaalseteni"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "legaalsetena"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "legaalseteta"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "legaalsetega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kehtiva seadusega kooskõlas olev, ametlikult lubatud, tunnustatud või määratud,seadusel või seadustel põhinev, seadusele või seadustele vastav",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Legaalne sissetulek.",
+            "Meest seostatakse nii allilma kui ka legaalse äriga."
+          ],
+          "synonyms": [
+            "seaduslik",
+            "seaduspärane",
+            "legitiimne,õiguspärane",
+            "juriidiline,õiguslik",
+            "ametlik,ofitsiaalne"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "légal",
+                "weight": 1
+              },
+              {
+                "words": "juridique",
+                "weight": 0.638
+              },
+              {
+                "words": "officiel",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "законный",
+                "weight": 1
+              },
+              {
+                "words": "легальный",
+                "weight": 1
+              },
+              {
+                "words": "признанный",
+                "weight": 1
+              },
+              {
+                "words": "узаконенный",
+                "weight": 1
+              },
+              {
+                "words": "правосудный",
+                "weight": 1
+              },
+              {
+                "words": "законный,правомерный,легитимный,закономерный",
+                "weight": 0.9
+              },
+              {
+                "words": "юридический,правовой",
+                "weight": 0.638
+              },
+              {
+                "words": "официальный",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "законний",
+                "weight": 1
+              },
+              {
+                "words": "легальний",
+                "weight": 1
+              },
+              {
+                "words": "правничий,правний,юридичний,правовий",
+                "weight": 0.638
+              },
+              {
+                "words": "офіційний",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "official",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "legitiimne",
+        "seaduspärane",
+        "õiguspärane",
+        "seaduslik",
+        "ainus",
+        "kriminaalne",
+        "mittepoliitiline",
+        "poollegaalne",
+        "ebaseaduslik",
+        "kuritahtlik",
+        "illegaalne",
+        "juriidiline",
+        "apoliitiline",
+        "abortiivne",
+        "poliitiline",
+        "ainuõiguslik",
+        "ühiskondlik-poliitiline",
+        "sunduslik",
+        "legaalsus",
+        "päevapoliitiline",
+        "äriline",
+        "kuritegelik",
+        "legaalselt",
+        "illegaal"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "legaalne",
+      "translations": [
+        "legal"
+      ]
+    }
+  ]
+}

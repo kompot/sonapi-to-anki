@@ -1,0 +1,99 @@
+{
+  "requestedWord": "seast",
+  "estonianWord": "seast",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "seast"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingist rühmast, kellegi keskelt,kellegi juurest ära,mingist grupist, kellegi keskelt",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Hääl rahva seast.",
+            "Kümne kandidaadi seast valiti välja üks võitja.",
+            "Uute juuksevärvide seast leiab igaüks endale sobiva.",
+            "Esineja kutsus publiku seast lavale kaks inimest.",
+            "Uute filmide seast valiti välja parimad."
+          ],
+          "synonyms": [
+            "hulgast"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "parmi",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "из",
+                "weight": 1
+              },
+              {
+                "words": "от",
+                "weight": 1
+              },
+              {
+                "words": "среди",
+                "weight": 1
+              },
+              {
+                "words": "из числа",
+                "weight": 1
+              },
+              {
+                "words": "из среды",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з",
+                "weight": 1
+              },
+              {
+                "words": "з-поміж",
+                "weight": 1
+              },
+              {
+                "words": "з-посеред",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "valitu",
+        "seas",
+        "seasink",
+        "hulgas",
+        "hulgast"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "seast",
+      "translations": []
+    }
+  ]
+}

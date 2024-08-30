@@ -1,0 +1,407 @@
+{
+  "requestedWord": "reaktsioon",
+  "estonianWord": "reaktsioon",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "reaktsioon"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "reaktsiooni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "reaktsiooni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "reaktsiooni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "reaktsioonisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "reaktsioonis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "reaktsioonist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "reaktsioonile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "reaktsioonil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "reaktsioonilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "reaktsiooniks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "reaktsioonini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "reaktsioonina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "reaktsioonita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "reaktsiooniga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "reaktsioonid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "reaktsioonide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "reaktsioone,reaktsioonisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "reaktsioonidesse,reaktsioonesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "reaktsioonides,reaktsioones"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "reaktsioonidest,reaktsioonest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "reaktsioonidele,reaktsioonele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "reaktsioonidel,reaktsioonel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "reaktsioonidelt,reaktsioonelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "reaktsioonideks,reaktsiooneks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "reaktsioonideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "reaktsioonidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "reaktsioonideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "reaktsioonidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "käitumine, tegutsemine, meeleolu järsk muutus vms vastusena ärritajale (nt teatavale sündmusele, asjaolule)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Šokk on loomulik reaktsioon ebaloomulikule olukorrale.",
+            "Finantsturgude reaktsioon uudisele oli tagasihoidlik."
+          ],
+          "synonyms": [
+            "reageering",
+            "vastureaktsioon",
+            "vastus",
+            "vastukaja,tagasiside,resonants",
+            "järelkaja"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "реакция",
+                "weight": 1
+              },
+              {
+                "words": "ответная реакция",
+                "weight": 1
+              },
+              {
+                "words": "реагирование",
+                "weight": 1
+              },
+              {
+                "words": "ответное действие",
+                "weight": 1
+              },
+              {
+                "words": "ответ",
+                "weight": 0.7
+              },
+              {
+                "words": "отзыв,обратная связь,отклик,резонанс",
+                "weight": 0.7
+              },
+              {
+                "words": "отклик,эхо,отражение,отголосок,отзвук",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "feedback",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "organismi tundlikkus, vahetu vastumõju, mis tekib ravimi, tolmu, päikesekiirguse vm ainega kokkupuutumisel",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ravim võib põhjustada allergilist reaktsiooni.",
+            "Ülitundlikkusreaktsioon.",
+            "Valureaktsioon."
+          ],
+          "synonyms": [
+            "immuunreaktsioon,immuunvastus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "реакция",
+                "weight": 1
+              },
+              {
+                "words": "иммунная реакция,иммунный ответ",
+                "weight": 0.685
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ühiskonnas, riigis:) võimulolijate vastuseis, vastutegevus riigi- või ühiskonnakorralduse uuendamise püüdele",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Äärmine reaktsioon hariduselus."
+          ],
+          "synonyms": [
+            "tagurlus",
+            "tagurlikkus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "реакция",
+                "weight": 1
+              },
+              {
+                "words": "консерватизм,отсталость,реакционность,ретроградство,ретроградность,реакционеры,консерваторы,ретрограды",
+                "weight": 0.9
+              },
+              {
+                "words": "консерватизм,реакционность,отсталость",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(inimese kohta:) võime (kiiresti) reageerida",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tänu heale reaktsioonile tõrjusin penalti."
+          ],
+          "synonyms": [
+            "reaktsioonikiirus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "скорость реакции",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "keemiline protsess, mille käigus ühest või mitmest keemilisest ainest tekib üks või mitu uute omadustega keemilist ainet",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Lagunemisreaktsioon.",
+            "Liitumisreaktsioon."
+          ],
+          "synonyms": [
+            "keemiline reaktsioon"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "химическая реакция",
+                "weight": 1
+              },
+              {
+                "words": "реакция",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "iga mõjuga kaasnev võrdne ja vastassuunaline mõju",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "vastumõju",
+            "vastasjõud,vastujõud"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "противодействие,противодействующие силы,контрсила,оппозиционные силы",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tagurlikkus",
+        "vastujõud",
+        "reageering",
+        "obskurantlus",
+        "vastumõju",
+        "obskurantism",
+        "vastutoime",
+        "tagasimõju",
+        "tagurlus",
+        "vastureaktsioon",
+        "redoksreaktsioon",
+        "kaitsereaktsioon",
+        "reaktsiooniline",
+        "immuunreaktsioon"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "reaktsioon",
+      "translations": [
+        "reaction"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "requestedWord": "lend",
+  "estonianWord": "lend",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "lend"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "lennu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "lendu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "lendu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "lennusse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "lennus"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "lennust"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "lennule"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "lennul"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "lennult"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "lennuks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "lennuni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "lennuna"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "lennuta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "lennuga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "lennud"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "lendude"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "lende,lendusid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "lendudesse,lennesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "lendudes,lennes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "lendudest,lennest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "lendudele,lennele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "lendudel,lennel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "lendudelt,lennelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "lendudeks,lenneks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "lendudeni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "lendudena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "lendudeta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "lendudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "lindude, putukate vm olendite õhus lendamine,(linnu) liikumine õhus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Pääsukeste lend."
+          ],
+          "synonyms": [
+            "lendamine"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "vol",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "полёт",
+                "weight": 1
+              },
+              {
+                "words": "летание",
+                "weight": 1
+              },
+              {
+                "words": "лёт",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "політ",
+                "weight": 1
+              },
+              {
+                "words": "літання",
+                "weight": 1
+              },
+              {
+                "words": "літ",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "õhusõiduki, sellel sõitja sõit õhus,kindla kellaajaga õhureis (nt sõiduplaani alusel),lendamine kosmoses,sõit lennukil",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Rahvusvahelised lennud.",
+            "Vahemaandumisega lend.",
+            "Saabuvate lendude tabloo.",
+            "Lend Kuule.",
+            "Kopter alustas lendu.",
+            "Lend läheb hommikul kell 6.",
+            "Moskva lend jäi tehnilistel põhjustel ära."
+          ],
+          "synonyms": [
+            "lennukisõit,lennusõit",
+            "lendamine",
+            "õhusõit,õhulend"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "vol",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "перелёт",
+                "weight": 1
+              },
+              {
+                "words": "полёт",
+                "weight": 1
+              },
+              {
+                "words": "полёт на самолёте,полёт самолёта",
+                "weight": 0.575
+              },
+              {
+                "words": "аэронавтика,лёт,воздушный полёт,полёт в воздухе,воздухоплавание",
+                "weight": 0.589
+              }
+            ],
+            "ukr": [
+              {
+                "words": "переліт",
+                "weight": 1
+              },
+              {
+                "words": "політ",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tõuke, viske jõul läbi õhu liikumine",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Väravavaht hindas palli lendu valesti."
+          ],
+          "synonyms": [
+            "õhulend"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "воздушный полёт",
+                "weight": 0.589
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kiire liikumise, aja kiire möödumise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mõtete lend.",
+            "Tegemist on nii palju, et ei märkagi päevade lendu."
+          ],
+          "synonyms": [
+            "jooks"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "течение,бег,ход",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "õppeasutuse (kooli või ülikooli, ka teaduskonna vms) samal aastal lõpetanud inimesed",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Lavakunstikooli värskest lennust läheb viis näitlejat tööle Vanemuisesse."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "выпуск",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lendamine",
+        "kursus",
+        "jooks",
+        "möödumine",
+        "äralend",
+        "ülelend",
+        "lennusõit",
+        "väljalend",
+        "lennuilm",
+        "kulend",
+        "regulaarlend",
+        "tandemlend",
+        "jätkulend",
+        "lendu",
+        "lendaja",
+        "otselend",
+        "liuglend",
+        "lennus",
+        "lendutõus",
+        "õhulend",
+        "purilend",
+        "tšarterlend",
+        "tagasilend",
+        "vigurlend",
+        "lennuaeg",
+        "voog"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lend",
+      "translations": [
+        "flight",
+        "volley"
+      ]
+    }
+  ]
+}

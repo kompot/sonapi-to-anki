@@ -1,0 +1,240 @@
+{
+  "requestedWord": "rikkis",
+  "estonianWord": "rikkis",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "rikkis"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "korrast ära olekus, mitte (korralikult) töötav või toimiv,seadmete, masinate kohta: selline, mis ei tööta, on korrast ära",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kell oli rikkis.",
+            "Süsteem on jälle rikkis.",
+            "Kui sa tuled, siis koputa, sest uksekell on rikkis."
+          ],
+          "synonyms": [
+            "korrast ära",
+            "katki",
+            "omadega õhtul",
+            "omadega läbi",
+            "untsus",
+            "tuksis,tuksus",
+            "nässus",
+            "peetis",
+            "katkine",
+            "vigane",
+            "defektne",
+            "mittetöötav",
+            "mittetoimiv",
+            "tarvituskõlbmatu,kasutamiskõlbmatu,tarvitamiskõlbmatu,kasutuskõlbmatu",
+            "vana"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "en panne",
+                "weight": 1
+              },
+              {
+                "words": "cassé",
+                "weight": 1
+              },
+              {
+                "words": "hors service",
+                "weight": 1
+              },
+              {
+                "words": "cassé",
+                "weight": 0.503
+              }
+            ],
+            "rus": [
+              {
+                "words": "сломанный",
+                "weight": 1
+              },
+              {
+                "words": "неисправный",
+                "weight": 1
+              },
+              {
+                "words": "испорченный",
+                "weight": 1
+              },
+              {
+                "words": "повреждённый",
+                "weight": 1
+              },
+              {
+                "words": "негодный",
+                "weight": 1
+              },
+              {
+                "words": "дефектный",
+                "weight": 1
+              },
+              {
+                "words": "с изъяном",
+                "weight": 1
+              },
+              {
+                "words": "разлаженный",
+                "weight": 1
+              },
+              {
+                "words": "не в порядке",
+                "weight": 0.9
+              },
+              {
+                "words": "сломан,сломана,сломано,сломаны",
+                "weight": 0.7833
+              },
+              {
+                "words": "доживает последние деньки",
+                "weight": 0.7
+              },
+              {
+                "words": "разлаженный,испорченный,сломанный,неисправный",
+                "weight": 0.7
+              },
+              {
+                "words": "неисправный,испорченный",
+                "weight": 0.7
+              },
+              {
+                "words": "разбитый,ломаный,битый,поломанный,сломанный",
+                "weight": 0.503
+              },
+              {
+                "words": "с изъяном,дефектный,сломанный,неисправный,повреждённый",
+                "weight": 0.7
+              },
+              {
+                "words": "дефектный",
+                "weight": 0.7
+              },
+              {
+                "words": "неисправный",
+                "weight": 0.7
+              },
+              {
+                "words": "непригодный для употребления,негодный к употреблению,негодный,непригодный к употреблению,непригодный к использованию,непригодный,неприменимый",
+                "weight": 0.7
+              },
+              {
+                "words": "поношенный,ветхий,старый,потасканный",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зламаний",
+                "weight": 1
+              },
+              {
+                "words": "зломлений",
+                "weight": 1
+              },
+              {
+                "words": "поламаний",
+                "weight": 1
+              },
+              {
+                "words": "несправний",
+                "weight": 1
+              },
+              {
+                "words": "зіпсований",
+                "weight": 1
+              },
+              {
+                "words": "пошкоджений",
+                "weight": 1
+              },
+              {
+                "words": "поламаний,зламаний,зломлений",
+                "weight": 0.7833
+              },
+              {
+                "words": "зламаний,зломлений,поламаний,потрощений,розбитий",
+                "weight": 0.503
+              }
+            ],
+            "eng": [
+              {
+                "words": "old",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "untsus",
+        "nässus",
+        "omadega õhtul",
+        "omadega sees",
+        "omadega läbi",
+        "peetis",
+        "mittetoimiv",
+        "kasutuskõlbmatu",
+        "defektne",
+        "raisus",
+        "hukas",
+        "korrast ära",
+        "katki",
+        "vana",
+        "auto",
+        "tuksis",
+        "katkine",
+        "puhur",
+        "kardaan",
+        "katkiminek",
+        "jokkis",
+        "tõrkuma",
+        "autovõti",
+        "süüde",
+        "rikki",
+        "automakk",
+        "lühis",
+        "alarm",
+        "auto",
+        "töökorras",
+        "omadega vahel"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "rikkis",
+      "translations": [
+        "broken-down",
+        "busted",
+        "down",
+        "out-of-order"
+      ]
+    }
+  ]
+}

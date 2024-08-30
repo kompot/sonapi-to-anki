@@ -1,0 +1,204 @@
+{
+  "requestedWord": "ega",
+  "estonianWord": "ega",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(eitavas lauses:) ka mitte, samuti mitte, ja ei,ka mitte, ei ka",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Siin polnud ühtegi puud ega põõsast.",
+            "Auto ei pääsenud edasi ega tagasi.",
+            "Unistab mehest, kes ei joo ega suitseta.",
+            "Ta vaatas võõrale otsa ega lausunud sõnagi.",
+            "Ma ei söö sibulat ega küüslauku.",
+            "Siin ei kasva ühtki puud ega põõsast."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "nor",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "ni",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "и не",
+                "weight": 1
+              },
+              {
+                "words": "также не",
+                "weight": 1
+              },
+              {
+                "words": "ни",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ні",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb eitussõnana,ja ei, ning ei",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Ega see paha mõte ole!",
+            "Ju seal ikka põhjust oli, ega nad muidu räägi.",
+            "Tingimata kaebab edasi, ega tema ei jäta!",
+            "Tema mees ei joo ega suitseta.",
+            "Mart on lihtne inimene ega tea poliitikast midagi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "nor",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "ni",
+                "weight": 1
+              },
+              {
+                "words": "et",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "и не",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "і не",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "küsisõna, mis alustab tagasihoidlikku küsimust,alustab küsimust, millel on kas jaatav või eitav vastus",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ega sa minu peale pahane pole?",
+            "Ega sul ometi täna sünnipäev ei ole?",
+            "Ega sa ei tea, kes see mees on?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "ведь не",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чи не",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "teps mitte",
+        "õige",
+        "õige",
+        "mitte",
+        "mitte",
+        "ep",
+        "ei",
+        "ei",
+        "ei saa juttugi olla",
+        "mitte mingi hinna eest",
+        "’p",
+        "egas",
+        "ei tule kõne allagi",
+        "ilmaaegu",
+        "pole",
+        "kuigi",
+        "iialgi",
+        "vaid",
+        "kuid",
+        "aga",
+        "aga",
+        "naljalt",
+        "ammugi",
+        "otseselt",
+        "üldse",
+        "kuidagi",
+        "kunagi",
+        "keegi",
+        "kuigivõrd",
+        "iial",
+        "enam",
+        "enam",
+        "küll",
+        "küll",
+        "kaugeltki",
+        "sest",
+        "kuna",
+        "kuna",
+        "sugugi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ega",
+      "translations": [
+        "nor"
+      ]
+    }
+  ]
+}

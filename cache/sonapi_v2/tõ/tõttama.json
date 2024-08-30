@@ -1,0 +1,547 @@
+{
+  "requestedWord": "tõttama",
+  "estonianWord": "tõttama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "29",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "tõttama"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "tõttamata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "tõttamas"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "tõttamast"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "tõttamaks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "tõtatama"
+        },
+        {
+          "inflectionType": "29",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "tõtata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "tõtates"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "tõttav"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "tõtatav"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "tõtanud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "tõtanud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "tõtatud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "tõtatud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "tõttan"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "tõttad"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "tõttab"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "tõttame"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "tõttate"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "tõttavad"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "tõtta"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "tõtatakse"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "tõtata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "tõttasin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "tõttasid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "tõttas"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "tõttasime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "tõttasite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "tõttasid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "tõtati"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "tõttaksin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "tõttaksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "tõttaks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "tõttaksime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "tõttaksite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "tõttaksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "tõtataks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "tõtanuksin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "tõtanuksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "tõtanuks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "tõtanuksime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "tõtanuksite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "tõtanuksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "tõtatuks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "tõttavat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "tõtatavat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "tõtanuvat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "tõtatuvat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "tõtta"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "tõtakem"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "tõtake"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "tõtaku"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "tõtatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kiiresti, kiiruga kuhugi minema, kiiresti liikuma,kiiresti kuhugi minema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Läbi pargi tõtatakse tööle ja kooli.",
+            "Tõttasin naisele appi.",
+            "Kõik tõttasid kuhugi."
+          ],
+          "synonyms": [
+            "kiirustama",
+            "ruttama",
+            "tõtlema",
+            "rutlema",
+            "tormama",
+            "põrutama",
+            "jooksma"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "se dépêcher d'aller",
+                "weight": 1
+              },
+              {
+                "words": "aller vite",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "поторапливаться",
+                "weight": 1
+              },
+              {
+                "words": "нестись",
+                "weight": 1
+              },
+              {
+                "words": "мчаться",
+                "weight": 1
+              },
+              {
+                "words": "торопиться",
+                "weight": 1
+              },
+              {
+                "words": "поторопиться",
+                "weight": 1
+              },
+              {
+                "words": "спешить",
+                "weight": 1
+              },
+              {
+                "words": "поспешить",
+                "weight": 1
+              },
+              {
+                "words": "метаться,поспешать,поторапливаться,поторопиться,торопиться,сновать,спешить",
+                "weight": 0.9
+              },
+              {
+                "words": "помчаться,рвануться,броситься,мчаться,устремляться,ринуться,понестись,нестись,мчать,пуститься,устремиться",
+                "weight": 0.9
+              },
+              {
+                "words": "махнуть,шпарить,мчать,мчаться,унестись,уноситься",
+                "weight": 0.657
+              },
+              {
+                "words": "бегать",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "поспішати",
+                "weight": 1
+              },
+              {
+                "words": "спішити",
+                "weight": 1
+              },
+              {
+                "words": "квапитися",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kiiresti, kiiruga midagi tegema, millegagi kiire olema,kiiresti midagi tegema",
+          "partOfSpeech": [],
+          "examples": [
+            "Tõttasin vabandama."
+          ],
+          "synonyms": [
+            "kiirustama",
+            "ruttama",
+            "tõtlema",
+            "tormama,tormlema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "спешить",
+                "weight": 1
+              },
+              {
+                "words": "поспешить",
+                "weight": 1
+              },
+              {
+                "words": "торопиться",
+                "weight": 1
+              },
+              {
+                "words": "поторопиться",
+                "weight": 1
+              },
+              {
+                "words": "спешить,поспешить,торопиться,поторопиться,делать второпях,делать впопыхах,действовать второпях,действовать впопыхах,пороть горячку",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "поспішати",
+                "weight": 1
+              },
+              {
+                "words": "спішити",
+                "weight": 1
+              },
+              {
+                "words": "квапитися",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tõtlema",
+        "pakitsema",
+        "kiirustama",
+        "rutlema",
+        "tormama",
+        "ruttama",
+        "sööstma",
+        "perutama",
+        "kibelema",
+        "kamandama",
+        "ässitama",
+        "asjatama",
+        "sokutama",
+        "kohtama",
+        "hurjutama",
+        "ahastama",
+        "tembutama",
+        "huilgama",
+        "käputama",
+        "hädaldama",
+        "mossitama",
+        "sülitama",
+        "siplema",
+        "müttama",
+        "poputama",
+        "sütitama",
+        "lohutama",
+        "näpistama",
+        "kaagutama",
+        "viibutama",
+        "teretama",
+        "kokutama",
+        "virutama",
+        "sikutama",
+        "sosistama",
+        "paitama",
+        "põrutama",
+        "teietama",
+        "nuputama",
+        "jõllitama",
+        "mineerima",
+        "putitama",
+        "norutama",
+        "lõõritama",
+        "upitama",
+        "utsitama",
+        "hirmutama",
+        "tulitama",
+        "kõmpima",
+        "napsitama",
+        "näägutama",
+        "kärutama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tõttama",
+      "translations": [
+        "haste",
+        "hasten",
+        "hie",
+        "hurry",
+        "scurry"
+      ]
+    }
+  ]
+}

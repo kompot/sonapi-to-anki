@@ -1,0 +1,210 @@
+{
+  "requestedWord": "suhtes",
+  "estonianWord": "suhtes",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "suhtes"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingis küsimuses, mingis asjas,kellegagi või millegagi seoses",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Toidu suhtes on ta nõudlik.",
+            "Iroonia Eesti asja suhtes.",
+            "Igas suhtes tubli mees.",
+            "Jah, ses suhtes on sul õigus.",
+            "Vaktsiin tekitas viiruse suhtes immuunsuse.",
+            "Tiina on toidu suhtes nõudlik.",
+            "Selline käitumine ei ole minu suhtes aus."
+          ],
+          "synonyms": [
+            "mõte",
+            "poolest,koha pealt,osas"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "au sujet de",
+                "weight": 1
+              },
+              {
+                "words": "en ce qui concerne",
+                "weight": 1
+              },
+              {
+                "words": "par",
+                "weight": 0.64
+              }
+            ],
+            "rus": [
+              {
+                "words": "в отношении",
+                "weight": 1
+              },
+              {
+                "words": "по отношению",
+                "weight": 1
+              },
+              {
+                "words": "по отношению к",
+                "weight": 1
+              },
+              {
+                "words": "в отношении к",
+                "weight": 1
+              },
+              {
+                "words": "относительно",
+                "weight": 1
+              },
+              {
+                "words": "насчёт",
+                "weight": 1
+              },
+              {
+                "words": "смысл",
+                "weight": 0.7
+              },
+              {
+                "words": "по,в отношении,в смысле,с точки зрения",
+                "weight": 0.64
+              }
+            ],
+            "ukr": [
+              {
+                "words": "щодо",
+                "weight": 1
+              },
+              {
+                "words": "стосовно",
+                "weight": 1
+              },
+              {
+                "words": "відносно",
+                "weight": 1
+              },
+              {
+                "words": "за,щодо",
+                "weight": 0.64
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegagi võrreldes, arvestades mingit asjaolu",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Purjetas tuule suhtes võimalikult väikese nurga all."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в отношении",
+                "weight": 1
+              },
+              {
+                "words": "по отношению",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "koha pealt",
+        "kohalt",
+        "mõttes",
+        "poolest",
+        "küljest",
+        "osas",
+        "kohta",
+        "üle",
+        "suhtestik"
+      ]
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "suhtes"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "püsivas paarisuhtes, aga mitte abielus",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Olen 40a suhtes naine."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в отношениях",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "koha pealt",
+        "kohalt",
+        "mõttes",
+        "poolest",
+        "küljest",
+        "osas",
+        "kohta",
+        "üle",
+        "suhtestik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "suhtes",
+      "translations": [
+        "concerning",
+        "(millegi) in reference to",
+        "WRT (= with regard/respect to)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "requestedWord": "kusagil",
+  "estonianWord": "kusagil",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kusagil"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingis kohas või suunas, täpselt teadmata kus,mingis kohas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ma olen seda meest kusagil kohanud.",
+            "Ehk leidub kusagil keegi ka minu jaoks.",
+            "Ta elab kusagil Saksamaal.",
+            "Me oleme kusagil kohtunud."
+          ],
+          "synonyms": [
+            "kuskil",
+            "kuski"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "quelque part",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "где-то",
+                "weight": 1
+              },
+              {
+                "words": "где-нибудь",
+                "weight": 1
+              },
+              {
+                "words": "где-либо",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "десь",
+                "weight": 1
+              },
+              {
+                "words": "де-небудь",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mitte mingis kohas, mitte üheski kohas",
+          "partOfSpeech": [],
+          "examples": [
+            "Tema ei jää kusagil hätta.",
+            "Marti pole kusagil.",
+            "Kusagil pole nii hea kui oma kodus."
+          ],
+          "synonyms": [
+            "kuskil"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "nulle part",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "негде",
+                "weight": 1
+              },
+              {
+                "words": "нигде",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ніде",
+                "weight": 1
+              },
+              {
+                "words": "немає де",
+                "weight": 1
+              },
+              {
+                "words": "нема де",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mitte päris täpselt, enam-vähem, ligilähedaselt,mitte päris täpselt, ligikaudu, enam-vähem",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kusagil kolmandas klassis hakkasin trennis käima.",
+            "Isal oli kusagil 30 või 40 000 hüpoteegivõlga."
+          ],
+          "synonyms": [
+            "umbkaudu",
+            "umbes",
+            "nii",
+            "ligikaudu",
+            "ligikaudselt",
+            "umbkaudselt",
+            "arvata",
+            "u",
+            "kuskil",
+            "ringis",
+            "nõnda",
+            "kuski",
+            "üks",
+            "orienteerivalt,orienteeruvalt",
+            "enam-vähem"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "approximately",
+                "weight": 1
+              },
+              {
+                "words": "more or less",
+                "weight": 1
+              },
+              {
+                "words": "roughly",
+                "weight": 1
+              },
+              {
+                "words": "more or less",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "approximativement",
+                "weight": 1
+              },
+              {
+                "words": "environ",
+                "weight": 1
+              },
+              {
+                "words": "à peu près",
+                "weight": 1
+              },
+              {
+                "words": "à peu près,plus ou moins,presque",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "приблизительно",
+                "weight": 1
+              },
+              {
+                "words": "почти",
+                "weight": 1
+              },
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "порядка",
+                "weight": 1
+              },
+              {
+                "words": "почти что",
+                "weight": 1
+              },
+              {
+                "words": "на круг",
+                "weight": 1
+              },
+              {
+                "words": "приближённо",
+                "weight": 1
+              },
+              {
+                "words": "ориентировочно",
+                "weight": 1
+              },
+              {
+                "words": "грубо говоря",
+                "weight": 1
+              },
+              {
+                "words": "где-то",
+                "weight": 1
+              },
+              {
+                "words": "примерно",
+                "weight": 1
+              },
+              {
+                "words": "почти,приблизительно,примерно,с",
+                "weight": 0.9
+              },
+              {
+                "words": "ориентировочно,примерно,приблизительно",
+                "weight": 0.7
+              },
+              {
+                "words": "более или менее,почти",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "майже",
+                "weight": 1
+              },
+              {
+                "words": "приблизно",
+                "weight": 1
+              },
+              {
+                "words": "більш-менш,майже",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kuskil",
+        "keegi",
+        "kuskohas",
+        "kaugel",
+        "seal",
+        "mujal",
+        "isegi",
+        "millalgi",
+        "seespool",
+        "siin",
+        "siin",
+        "kusagile",
+        "vist",
+        "vist",
+        "juba",
+        "kusagilt",
+        "ammuilma",
+        "siinsamas",
+        "üldse",
+        "kuskilt",
+        "kunagi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kusagil",
+      "translations": [
+        "nowhere",
+        "out there",
+        "someplace",
+        "somewhere"
+      ]
+    }
+  ]
+}

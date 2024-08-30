@@ -1,0 +1,83 @@
+{
+  "requestedWord": "lonkshaaval",
+  "estonianWord": "lonkshaaval",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "lonkshaaval"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "üks lonks korraga, lonksude kaupa",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Jootsin haiget lonkshaaval."
+          ],
+          "synonyms": [
+            "lonksukaupa",
+            "lonksu kaupa"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "глотками",
+                "weight": 1
+              },
+              {
+                "words": "глоточками",
+                "weight": 1
+              },
+              {
+                "words": "по глотку",
+                "weight": 1
+              },
+              {
+                "words": "глоток за глотком",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lonksama",
+        "tükkhaaval",
+        "sammhaaval",
+        "tilkhaaval",
+        "ükshaaval",
+        "kildhaaval",
+        "tähthaaval",
+        "jupphaaval",
+        "kihthaaval",
+        "tasahaaval",
+        "raashaaval",
+        "haaval",
+        "terahaaval",
+        "punkthaaval",
+        "natukesehaaval",
+        "natukehaaval"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lonkshaaval",
+      "translations": []
+    }
+  ]
+}

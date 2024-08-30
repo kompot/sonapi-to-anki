@@ -1,0 +1,306 @@
+{
+  "requestedWord": "kiuste",
+  "estonianWord": "kiuste",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kiuste"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kiusu ajamiseks, kiusu pärast, kiusamiseks,millestki mitte hoolides või midagi trotsides",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Toimis kiuste kõigi soovituste vastu.",
+            "Tormi kiuste mindi merele.",
+            "Ta lõpetas siiski kõigi takistuste kiuste kooli."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "назло",
+                "weight": 1
+              },
+              {
+                "words": "вопреки",
+                "weight": 1
+              },
+              {
+                "words": "наперекор",
+                "weight": 1
+              },
+              {
+                "words": "в пику",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tahtlikult",
+        "just",
+        "nimme",
+        "nimme",
+        "teadlikult",
+        "meelega",
+        "nimelt",
+        "vihuti",
+        "taotluslikult",
+        "teadvalt",
+        "sihilikult",
+        "vastupidi",
+        "vastuoksa"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "6",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kiuste"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kiuste"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kiustet"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kiustesse"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kiustes"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kiustest"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kiustele"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kiustel"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kiustelt"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kiusteks"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kiusteni"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kiustena"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kiusteta"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kiustega"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kiusted"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kiustete"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kiusteid"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kiustetesse,kiusteisse"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kiustetes,kiusteis"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kiustetest,kiusteist"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kiustetele,kiusteile"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kiustetel,kiusteil"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kiustetelt,kiusteilt"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kiusteteks,kiusteiks"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kiusteteni"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kiustetena"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kiusteteta"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kiustetega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellelegi ebameeldivuste tekitamine, nt oma käitumise või sõnadega",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mõnikord hakkasin ma juba uskuma, et ta töötab niiviisi nimme minu kiusteks."
+          ],
+          "synonyms": [
+            "kius"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "абьюз",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tahtlikult",
+        "just",
+        "nimme",
+        "nimme",
+        "teadlikult",
+        "meelega",
+        "nimelt",
+        "vihuti",
+        "taotluslikult",
+        "teadvalt",
+        "sihilikult",
+        "vastupidi",
+        "vastuoksa"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kiuste",
+      "translations": [
+        "despite"
+      ]
+    }
+  ]
+}

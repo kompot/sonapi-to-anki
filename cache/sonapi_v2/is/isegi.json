@@ -1,0 +1,199 @@
+{
+  "requestedWord": "isegi",
+  "estonianWord": "isegi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "isegi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(tõstab esile järgnevat sõna või lauseosa:) vastupidi ootustele, lisaks kõigele, lausa,sõna, mida kasutatakse, et tuua esile midagi ootamatut või üllatavat",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Naabripoiss ei öelnud mulle isegi tere.",
+            "Isegi kampsuniga oli toas külm.",
+            "Juhtunu ei olnud isegi naljakas.",
+            "Naine teenis isegi rohkem kui mees.",
+            "Sa isegi ei kuulanud mind.",
+            "Selle tööga saab isegi laps hakkama.",
+            "Ta ei usalda mitte kedagi, isegi oma vanemaid mitte."
+          ],
+          "synonyms": [
+            "koguni",
+            "kogunisti",
+            "päris"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "même",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "даже",
+                "weight": 1
+              },
+              {
+                "words": "аж",
+                "weight": 1
+              },
+              {
+                "words": "совершенно,совсем",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "навіть",
+                "weight": 1
+              },
+              {
+                "words": "аж",
+                "weight": 1
+              },
+              {
+                "words": "зовсім,цілком,досить",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ilma selletagi,ilma selletagi, niikuinii,igal juhul",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sa oled isegi tubli, mis ta veel tahab.",
+            "Tal tööd isegi palju.",
+            "Tal süda isegi mures ja nüüd tulen mina oma halaga.",
+            "Sa oled täna isegi tubli olnud.",
+            "Neil on tööd isegi palju."
+          ],
+          "synonyms": [
+            "niigi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "déjà",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "и так",
+                "weight": 1
+              },
+              {
+                "words": "и без того",
+                "weight": 1
+              },
+              {
+                "words": "и так-то",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "і так",
+                "weight": 1
+              },
+              {
+                "words": "і без того",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kah",
+        "nõndagi",
+        "muidugi",
+        "ka",
+        "aupoolest",
+        "koguni",
+        "aupärast",
+        "nagunii",
+        "kogunisti",
+        "niigi",
+        "tõepoolest",
+        "kuigi",
+        "tõesti",
+        "see",
+        "vaid",
+        "sageli",
+        "aga",
+        "aga",
+        "siiski",
+        "ilmselt",
+        "kui",
+        "kui",
+        "tavaliselt",
+        "üldse",
+        "rohkem",
+        "rohkem",
+        "kunagi",
+        "mitte",
+        "mitte",
+        "enam",
+        "enam",
+        "samuti",
+        "veel",
+        "küll",
+        "küll",
+        "ikka",
+        "eriti",
+        "palju",
+        "palju",
+        "mõnikord",
+        "tegelikult",
+        "lausa",
+        "mingitmoodi",
+        "ikkagi",
+        "päris",
+        "ainult",
+        "samahästi",
+        "vist",
+        "vist",
+        "üldiselt",
+        "võib-olla",
+        "lihtsalt",
+        "alati",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "isegi",
+      "translations": [
+        "as many as",
+        "e'en",
+        "even"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "requestedWord": "kõikjale",
+  "estonianWord": "kõikjale",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kõikjale"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "igasse kohta, kõikidesse kohtadesse,kõikidesse kohtadesse, igasse kohta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kvalifitseeritud arstiabi ei jõua kahjuks kõikjale.",
+            "Mõned võtavad oma lapsed kõikjale kaasa.",
+            "Ta jääb kõikjale hiljaks."
+          ],
+          "synonyms": [
+            "igale poole"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "everywhere",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "partout",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "всюду",
+                "weight": 1
+              },
+              {
+                "words": "повсюду",
+                "weight": 1
+              },
+              {
+                "words": "во все места",
+                "weight": 1
+              },
+              {
+                "words": "во все стороны",
+                "weight": 1
+              },
+              {
+                "words": "по всем направлениям",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "всюди",
+                "weight": 1
+              },
+              {
+                "words": "повсюди",
+                "weight": 1
+              },
+              {
+                "words": "у всі місця",
+                "weight": 1
+              },
+              {
+                "words": "скрізь",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mujale",
+        "kõikjalt",
+        "kuhugile",
+        "kõikjal",
+        "kuskile",
+        "kusagile"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kõikjale",
+      "translations": []
+    }
+  ]
+}

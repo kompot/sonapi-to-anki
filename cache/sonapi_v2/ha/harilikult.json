@@ -1,0 +1,156 @@
+{
+  "requestedWord": "harilikult",
+  "estonianWord": "harilikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "harilikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "suuremal osal juhtudest, enamasti,kõige sagedamini, nii nagu on üldine",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Harilikult kaasneb selle viirusega palavik.",
+            "Kõige külmem on harilikult maapinna lähedal.",
+            "Mis kell sa harilikult magama lähed?"
+          ],
+          "synonyms": [
+            "tavaliselt",
+            "hrl",
+            "tav"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "habituellement",
+                "weight": 1
+              },
+              {
+                "words": "d'habitude",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "обычно",
+                "weight": 1
+              },
+              {
+                "words": "обыкновенно",
+                "weight": 1
+              },
+              {
+                "words": "большей частью",
+                "weight": 1
+              },
+              {
+                "words": "чаще всего",
+                "weight": 1
+              },
+              {
+                "words": "обыч.",
+                "weight": 1
+              },
+              {
+                "words": "обычн.",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звичайно",
+                "weight": 1
+              },
+              {
+                "words": "зазвичай",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teistest omataolistest eristumata",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pealtnäha käitus ta täiesti harilikult.",
+            "Üks torkab silma, teine riietub harilikult."
+          ],
+          "synonyms": [
+            "tavaliselt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "обычно",
+                "weight": 1
+              },
+              {
+                "words": "обыкновенно",
+                "weight": 1
+              },
+              {
+                "words": "обыденно",
+                "weight": 1
+              },
+              {
+                "words": "просто",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "argiselt",
+        "muidu",
+        "tavaliselt",
+        "igapäevaselt",
+        "argipäevaselt",
+        "üldjuhul",
+        "üldiselt",
+        "proosaliselt",
+        "reeglina",
+        "tavaline",
+        "pärimuslik",
+        "traditsiooniliselt",
+        "normaalselt",
+        "tavapärane",
+        "harilik",
+        "tavapäraselt",
+        "enamasti",
+        "ebaharilikult",
+        "harilikum",
+        "pärilikult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "harilikult",
+      "translations": [
+        "normally"
+      ]
+    }
+  ]
+}

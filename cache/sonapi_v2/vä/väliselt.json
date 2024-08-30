@@ -1,0 +1,109 @@
+{
+  "requestedWord": "väliselt",
+  "estonianWord": "väliselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "väliselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "välisel, pealispindsel vaatlusel,nagu mulje põhjal tundub,esimese mulje põhjal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Väliselt meenutab see ollus hanerasva.",
+            "Väliselt terve mees.",
+            "Väliselt tavapärane kohtumine lõppes suure tüliga."
+          ],
+          "synonyms": [
+            "pealtnäha"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "en apparence",
+                "weight": 1
+              },
+              {
+                "words": "apparemment",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "внешне",
+                "weight": 1
+              },
+              {
+                "words": "наружно",
+                "weight": 1
+              },
+              {
+                "words": "на вид",
+                "weight": 1
+              },
+              {
+                "words": "с виду",
+                "weight": 1
+              },
+              {
+                "words": "по виду",
+                "weight": 1
+              },
+              {
+                "words": "на взгляд",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зовні",
+                "weight": 1
+              },
+              {
+                "words": "на вигляд",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pealtnäha",
+        "näiliselt",
+        "väljast",
+        "täieliselt",
+        "vormiliselt",
+        "sisuliselt",
+        "sisemiselt",
+        "seesmiselt",
+        "suureliselt",
+        "täiesti"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "väliselt",
+      "translations": [
+        "externally",
+        "outwardly"
+      ]
+    }
+  ]
+}

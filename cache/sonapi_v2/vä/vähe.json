@@ -1,0 +1,596 @@
+{
+  "requestedWord": "vähe",
+  "estonianWord": "vähe",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vähe"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tavapärasest, vajaminevast, soovitust vms väiksemal hulgal, ebapiisavalt,väikesel hulgal või määral,mitte piisavalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Vähe on hingelt vabu inimesi.",
+            "Aega on vähe, aga ma usun, et nad jõuavad.",
+            "On seda palju või vähe?",
+            "On vähe tõenäoline, et ajaleht vabandaks.",
+            "Ta loeb vähe.",
+            "Lapsi sünnib liiga vähe.",
+            "Tal on vähe sõpru.",
+            "Muuseumis käib vähe inimesi.",
+            "Mul on praegu vähe aega, helista hiljem."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "peu",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "мало",
+                "weight": 1
+              },
+              {
+                "words": "недостаточно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "мало",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vähesel määral või hulgal,mingil määral, vähesel määral",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Läks vähe võtmiseks!",
+            "Teil tuleb ilmselt vähe oodata."
+          ],
+          "synonyms": [
+            "natuke",
+            "natukene",
+            "veidikese",
+            "kübeke",
+            "kübekene",
+            "mõnevõrra",
+            "natike",
+            "nats",
+            "natsa",
+            "natu",
+            "natukese",
+            "pisku",
+            "pisut",
+            "sugupärast",
+            "veidi",
+            "veidike",
+            "veidikene",
+            "väheke",
+            "vähekene",
+            "vähekese",
+            "pireke",
+            "natikene",
+            "nõksa,nõksu",
+            "veits,veitsa",
+            "raasuke,raas,põrmuke,nõks,natukene,natuke,kröömike,krööm,ivakene,kübemeke,pireke,kröömikene,tsutike,veidikene,ivake,kübekene,tsutikene,sutikene,põrmukene,tsipake,torts,tibakene,tibake,terakene,terake,tera,sutsakas,suts,kübeke,veidike,törtsukene,törtsuke,törts,tsipakene,tsipa",
+            "vähene",
+            "kergelt,väikeselt,väikestviisi,väikest viisi,väikselt",
+            "natu-natukene,natu-natuke",
+            "pisinatuke",
+            "tibake,tibakene,tsipa,tsipake,tsipakene,tiba",
+            "raasikene,sutike,sutikene,kröömikese,kröömikene,terakene,nõksuke,suti,sugu,raasuke,raasike,pilguke,kröömike,karvakene,karvake,jupikene,jupike,ivakene,ivake,sutsu,sutsuke,sutt,tera,terake,tirts,tsuti,tsutike,tsutikene,tsutt,sutsukene",
+            "kuigipalju,kuigivõrd",
+            "küünevõrd,karvavõrra,karvavõrd,juuksekarva võrra,kriipsuvõrd,kriipsuvõrra,kriipsuvõrragi,küünevõrra,karvaväärt,karvaväärtki,karvavõrragi",
+            "otsapidi,servapidi,äärtpidi"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "a little",
+                "weight": 1
+              },
+              {
+                "words": "a bit",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "un peu",
+                "weight": 1
+              },
+              {
+                "words": "faible,modeste",
+                "weight": 0.7
+              },
+              {
+                "words": "légèrement",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "немножечко",
+                "weight": 1
+              },
+              {
+                "words": "чуть-чуть",
+                "weight": 1
+              },
+              {
+                "words": "кроха",
+                "weight": 1
+              },
+              {
+                "words": "крошечка",
+                "weight": 1
+              },
+              {
+                "words": "крупица",
+                "weight": 1
+              },
+              {
+                "words": "капелька",
+                "weight": 1
+              },
+              {
+                "words": "чуточка",
+                "weight": 1
+              },
+              {
+                "words": "частица",
+                "weight": 1
+              },
+              {
+                "words": "чуток",
+                "weight": 1
+              },
+              {
+                "words": "немного",
+                "weight": 1
+              },
+              {
+                "words": "чуть",
+                "weight": 1
+              },
+              {
+                "words": "чуточку",
+                "weight": 1
+              },
+              {
+                "words": "маленько",
+                "weight": 1
+              },
+              {
+                "words": "немножко",
+                "weight": 1
+              },
+              {
+                "words": "малость",
+                "weight": 1
+              },
+              {
+                "words": "капельку",
+                "weight": 1
+              },
+              {
+                "words": "толика",
+                "weight": 1
+              },
+              {
+                "words": "чуть-чуть,чуточку,чуток",
+                "weight": 0.448
+              },
+              {
+                "words": "немножечко,чуть-чуть",
+                "weight": 0.496
+              },
+              {
+                "words": "маненько,маленько,крошечка,чуток,малость,чуточку,чуть,капелька,крошка,капля,кроха,крупинка,крупица,немножечко,немножко,чуть-чуть,каплю,капельку,толика,чуточка",
+                "weight": 0.9
+              },
+              {
+                "words": "скудный,недостаточный,малый,немногочисленный",
+                "weight": 0.7
+              },
+              {
+                "words": "чуть-чуть,немного,немножко,чуть,слегка,несколько,малость,маленько,помалу",
+                "weight": 0.9
+              },
+              {
+                "words": "капельку,чуточку",
+                "weight": 0.9
+              },
+              {
+                "words": "чуточку",
+                "weight": 0.9
+              },
+              {
+                "words": "малость,чуть-чуть,немного,капельку,чуток,крошечку,немножко,немножечко,чуть,чуточку",
+                "weight": 0.9
+              },
+              {
+                "words": "малость,чуток,маленько,маненько,крошку,капелюшечку,немного,капельку,каплю,крошечку,чуть-чуть,немножко,немножечко,чуть,чуточку,слегка",
+                "weight": 0.9
+              },
+              {
+                "words": "чуть,чуточку,несколько,сколько-то,немного,не очень,не совсем,чуть-чуть,не особенно",
+                "weight": 0.9
+              },
+              {
+                "words": "слегка,на волос,немного,самую малость,капельку,чуть-чуть,чуточку,чуть",
+                "weight": 0.9
+              },
+              {
+                "words": "частично,отчасти,поверхностно,мимоходом,краем уха,краем глаза,немного",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "трохи",
+                "weight": 1
+              },
+              {
+                "words": "трошки",
+                "weight": 1
+              },
+              {
+                "words": "трішки",
+                "weight": 1
+              },
+              {
+                "words": "недостатній,нечисленний,невеликий,незначний,убогий,мізерний",
+                "weight": 0.7
+              },
+              {
+                "words": "злегка,трохи,трошки",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "minimaalselt",
+        "napilt",
+        "napivõitu",
+        "poolikult",
+        "kasinasti",
+        "puudulikult",
+        "vähevõitu",
+        "kasinalt",
+        "ebapiisavalt",
+        "väheselt",
+        "rohkelt",
+        "piisavalt",
+        "sageli",
+        "üllatavalt",
+        "kuigipalju",
+        "suhteliselt",
+        "üldse",
+        "rohkem",
+        "ülipalju",
+        "ikka",
+        "üsna",
+        "eriti",
+        "palju",
+        "tihti",
+        "imevähe",
+        "hirmpalju",
+        "vähem",
+        "rohkesti",
+        "üldiselt",
+        "küllalt",
+        "väga",
+        "nii",
+        "näpuotsatäis",
+        "suutäis",
+        "näputäis",
+        "linnunokatäis",
+        "käputäis",
+        "näpuotsaga",
+        "kukenokatäis",
+        "peotäis",
+        "jalatäis",
+        "nokatäis",
+        "rohkem",
+        "palju",
+        "vähem"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "vähe"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "vähe"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "vähet"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "vähesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "vähes"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "vähest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "vähele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "vähel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "vähelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "väheks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "väheni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "vähena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "väheta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "vähega"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "vähed"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "vähede"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "vähesid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "vähedesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "vähedes"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "vähedest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "vähedele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "vähedel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "vähedelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "vähedeks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "vähedeni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "vähedena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "vähedeta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "vähedega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(substantiivselt või adjektiivselt viitab umbmääraselt kellegi või millegi väiksemale hulgale)",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Tahtsin hakkama saada vähega.",
+            "Oleme vähega leppinud.",
+            "Õhku jäi väheks.",
+            "See juhtus vähe aja eest."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "немногое",
+                "weight": 1
+              },
+              {
+                "words": "малое",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "väheselt",
+        "näpuotsatäis",
+        "suutäis",
+        "näputäis",
+        "linnunokatäis",
+        "käputäis",
+        "minimaalselt",
+        "napilt",
+        "napivõitu",
+        "näpuotsaga",
+        "poolikult",
+        "kukenokatäis",
+        "peotäis",
+        "kasinasti",
+        "puudulikult",
+        "jalatäis",
+        "vähevõitu",
+        "kasinalt",
+        "nokatäis",
+        "ebapiisavalt",
+        "rohkelt",
+        "piisavalt",
+        "sageli",
+        "üllatavalt",
+        "kuigipalju",
+        "suhteliselt",
+        "üldse",
+        "rohkem",
+        "rohkem",
+        "ülipalju",
+        "ikka",
+        "eriti",
+        "üsna",
+        "palju",
+        "tihti",
+        "imevähe",
+        "hirmpalju",
+        "vähem",
+        "vähem",
+        "rohkesti",
+        "üldiselt",
+        "küllalt",
+        "väga",
+        "nii",
+        "palju"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vähe",
+      "translations": [
+        "small"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "requestedWord": "suuresti",
+  "estonianWord": "suuresti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "suuresti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "suurel määral, enamalt jaolt,üsna palju, väga,suurel määral, üsna palju",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kuninga roll Norra riigipeana on suuresti tseremoniaalne.",
+            "See on suuresti autobiograafiline film.",
+            "Hääletus oli suuresti formaalne.",
+            "Oled juhtunus suuresti ise süüdi.",
+            "Korterite hinnad sõltuvad suuresti asukohast."
+          ],
+          "synonyms": [
+            "suures osas"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "en grande partie",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "большей частью",
+                "weight": 1
+              },
+              {
+                "words": "по большей части",
+                "weight": 1
+              },
+              {
+                "words": "в большой степени",
+                "weight": 1
+              },
+              {
+                "words": "в большой мере",
+                "weight": 1
+              },
+              {
+                "words": "преимущественно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "здебільшого",
+                "weight": 1
+              },
+              {
+                "words": "переважно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "jõukalt, suurejooneliselt, uhkesti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Elas suuresti kui Türgi sultan."
+          ],
+          "synonyms": [
+            "suurelt",
+            "suurejooneliselt",
+            "uhkelt,uhkesti",
+            "jõukalt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "монументально,великолепно,по-царски,грандиозно,широко,помпезно",
+                "weight": 0.7
+              },
+              {
+                "words": "шикарно,роскошно,пышно",
+                "weight": 0.7
+              },
+              {
+                "words": "зажиточно,богато",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jõukalt",
+        "uhkesti",
+        "suurejooneliselt",
+        "kõvasti",
+        "mehemoodi",
+        "tublisti",
+        "tõhusalt",
+        "tugevasti",
+        "priskesti",
+        "vägevasti",
+        "priskelt",
+        "võimsalt",
+        "suurelt",
+        "mehiselt",
+        "tugevalt",
+        "vägevalt",
+        "kuradimoodi",
+        "väga",
+        "väheselt",
+        "eeskätt",
+        "peamiselt",
+        "peaasjalikult",
+        "märkimisväärselt",
+        "suuresõnaliselt",
+        "siiski",
+        "põhiliselt",
+        "ilmselt",
+        "muidugi",
+        "eelkõige",
+        "paljus",
+        "mõnevõrra",
+        "üsna",
+        "enamasti",
+        "oluliselt",
+        "tegelikult",
+        "täielikult",
+        "sõltus",
+        "ikkagi",
+        "paljuski",
+        "osaliselt",
+        "just",
+        "üldiselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "suuresti",
+      "translations": [
+        "formidably",
+        "greatly",
+        "largely",
+        "parlous"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "requestedWord": "äi",
+  "estonianWord": "äi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22u",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "äi"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "äia"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "äia"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "äia"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "äiasse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "äias"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "äiast"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "äiale"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "äial"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "äialt"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "äiaks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "äiani"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "äiana"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "äiata"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "äiaga"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "äiad"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "äiade"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "äiu,äiasid"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "äiadesse,äiusse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "äiades,äius"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "äiadest,äiust"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "äiadele,äiule"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "äiadel,äiul"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "äiadelt,äiult"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "äiadeks,äiuks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "äiadeni"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "äiadena"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "äiadeta"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "äiadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mehe- või naiseisa,abikaasa isa",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Äi suri ja ämm jäi üksi.",
+            "Lähen homme äiale ja ämmale külla."
+          ],
+          "synonyms": [
+            "äiapapa",
+            "meheisa",
+            "naiseisa"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "father-in-law",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "beau-père",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "свёкор",
+                "weight": 1
+              },
+              {
+                "words": "отец мужа",
+                "weight": 1
+              },
+              {
+                "words": "тесть",
+                "weight": 1
+              },
+              {
+                "words": "отец жены",
+                "weight": 1
+              },
+              {
+                "words": "свёкор",
+                "weight": 0.9
+              },
+              {
+                "words": "отец жены,тесть",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "свекор",
+                "weight": 1
+              },
+              {
+                "words": "тесть",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "naiseisa",
+        "meheisa",
+        "äiapapa",
+        "š",
+        "ep",
+        "ämm",
+        "oo",
+        "da",
+        "lell",
+        "r",
+        "r",
+        "õemees",
+        "Mo",
+        "r"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "äi",
+      "translations": [
+        "father-in-law (naiseisa",
+        "meheisa)"
+      ]
+    }
+  ]
+}

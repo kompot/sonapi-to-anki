@@ -1,0 +1,375 @@
+{
+  "requestedWord": "kohati",
+  "estonianWord": "kohati",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kohati"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(juhuslikult) mõnes kohas, mitte igal pool,mitte igal pool, vaid mõnes kohas,siin ja seal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Öösel sajab kohati hoovihma.",
+            "Meri oli kohati peegelsile.",
+            "Põllud on veel kohati lumised.",
+            "Teed on kohati libedad."
+          ],
+          "synonyms": [
+            "paiguti",
+            "tükati"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "par endroits",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "местами",
+                "weight": 1
+              },
+              {
+                "words": "кое-где",
+                "weight": 1
+              },
+              {
+                "words": "в некоторых местах",
+                "weight": 1
+              },
+              {
+                "words": "тут и там",
+                "weight": 1
+              },
+              {
+                "words": "кой-где",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "подекуди",
+                "weight": 1
+              },
+              {
+                "words": "де-не-де",
+                "weight": 1
+              },
+              {
+                "words": "місцями",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "aeg-ajalt (ette tulles), mõne aja tagant (kordudes), mõnel juhul,nii, et tegevus kordub mõne aja tagant",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kohati tuli tema töös ette mõningaid hilinemisi.",
+            "Võistkond mängis kohati päris hästi.",
+            "Etendus oli kohati igav."
+          ],
+          "synonyms": [
+            "aeg-ajalt",
+            "mõnikord",
+            "hooti",
+            "teinekord",
+            "paiguti",
+            "puhuti",
+            "taoti",
+            "vahel",
+            "tükati",
+            "vahetevahel",
+            "vahest",
+            "sekka",
+            "ajuti",
+            "hetketi,hetkiti",
+            "periooditi",
+            "kord",
+            "juhuti",
+            "puhanguti",
+            "hooti,hookaupa,hoo kaupa",
+            "mõndapuhku",
+            "vaheti",
+            "harvasti,harva,harvalt",
+            "pilguti"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "sometimes",
+                "weight": 1
+              },
+              {
+                "words": "occasionally",
+                "weight": 1
+              },
+              {
+                "words": "once in a while",
+                "weight": 1
+              },
+              {
+                "words": "now and again",
+                "weight": 1
+              },
+              {
+                "words": "every now and then",
+                "weight": 1
+              },
+              {
+                "words": "every so often",
+                "weight": 1
+              },
+              {
+                "words": "from time to time",
+                "weight": 1
+              },
+              {
+                "words": "rarely",
+                "weight": 0.709
+              }
+            ],
+            "fra": [
+              {
+                "words": "de temps en temps",
+                "weight": 1
+              },
+              {
+                "words": "par moments",
+                "weight": 1
+              },
+              {
+                "words": "parfois",
+                "weight": 1
+              },
+              {
+                "words": "tantôt",
+                "weight": 0.7
+              },
+              {
+                "words": "rarement",
+                "weight": 0.709
+              }
+            ],
+            "rus": [
+              {
+                "words": "кое-когда",
+                "weight": 1
+              },
+              {
+                "words": "иногда",
+                "weight": 1
+              },
+              {
+                "words": "порой",
+                "weight": 1
+              },
+              {
+                "words": "временами",
+                "weight": 1
+              },
+              {
+                "words": "время от времени",
+                "weight": 1
+              },
+              {
+                "words": "по временам",
+                "weight": 1
+              },
+              {
+                "words": "от случая к случаю",
+                "weight": 1
+              },
+              {
+                "words": "иной раз",
+                "weight": 1
+              },
+              {
+                "words": "эпизодически",
+                "weight": 1
+              },
+              {
+                "words": "другой раз",
+                "weight": 1
+              },
+              {
+                "words": "подчас",
+                "weight": 1
+              },
+              {
+                "words": "урывками",
+                "weight": 1
+              },
+              {
+                "words": "время от времени,временами,иногда,порой",
+                "weight": 0.9
+              },
+              {
+                "words": "время от времени,иногда,порой,подчас",
+                "weight": 0.9
+              },
+              {
+                "words": "периодически,периодами",
+                "weight": 0.9
+              },
+              {
+                "words": "то..., то...,",
+                "weight": 0.7
+              },
+              {
+                "words": "время от времени,нерегулярно,от случая к случаю,иногда",
+                "weight": 0.9
+              },
+              {
+                "words": "порывами",
+                "weight": 0.9
+              },
+              {
+                "words": "время от времени,по временам,рывками,урывками,урывочно,порывами,порывисто",
+                "weight": 0.9
+              },
+              {
+                "words": "иной раз,иногда,в некоторых случаях",
+                "weight": 0.9
+              },
+              {
+                "words": "нечасто,иногда,изредка,редко",
+                "weight": 0.709
+              },
+              {
+                "words": "порой,иногда,время от времени,подчас",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "іноді",
+                "weight": 1
+              },
+              {
+                "words": "інколи",
+                "weight": 1
+              },
+              {
+                "words": "часом",
+                "weight": 1
+              },
+              {
+                "words": "час від часу",
+                "weight": 1
+              },
+              {
+                "words": "деколи",
+                "weight": 1
+              },
+              {
+                "words": "то..., то...",
+                "weight": 0.7
+              },
+              {
+                "words": "рідко,нечасто,зрідка,іноді",
+                "weight": 0.709
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "taoti",
+        "teinekord",
+        "hooti",
+        "puhuti",
+        "hetkiti",
+        "periooditi",
+        "hookaupa",
+        "tükati",
+        "aeg-ajalt",
+        "laiguti",
+        "mõnikord",
+        "vahetevahel",
+        "siin ja seal",
+        "mõndapuhku",
+        "paiguti",
+        "lapiti",
+        "lapiti",
+        "siin-seal",
+        "vaheti",
+        "vaheti",
+        "hetketi",
+        "vahel",
+        "vahest",
+        "puhanguti",
+        "ajuti",
+        "jaoti",
+        "jaoti",
+        "paikselt",
+        "pilguti",
+        "juhuti",
+        "sügavmõtteliselt",
+        "küllaltki",
+        "aga",
+        "aga",
+        "siiski",
+        "veidi",
+        "naljakalt",
+        "magedalt",
+        "tüütult",
+        "lõiguti",
+        "koomiliselt",
+        "ebaloogiliselt",
+        "isegi",
+        "kohatine",
+        "suisa",
+        "küll",
+        "küll",
+        "üsna",
+        "enamasti",
+        "üpris",
+        "pisut",
+        "väga",
+        "lausa",
+        "tihti",
+        "päris",
+        "konarlikult",
+        "rabavalt",
+        "kohatult",
+        "häirivalt",
+        "täiesti"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kohati",
+      "translations": [
+        "at times",
+        "in a way",
+        "sporadically"
+      ]
+    }
+  ]
+}

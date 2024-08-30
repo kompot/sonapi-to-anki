@@ -1,0 +1,344 @@
+{
+  "requestedWord": "ausalt",
+  "estonianWord": "ausalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ausalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tõest ja õiglusest juhindudes, ilma valetamata,lepetest ja lubadustest kinni pidades,selliselt, et ei valeta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "On aeg hakata ausalt asju ajama.",
+            "Ütlen ausalt, et ei tea.",
+            "Tal ei ole kombeks keerutada, ütleb otse ja ausalt.",
+            "Räägi mulle kõik ausalt ära."
+          ],
+          "synonyms": [
+            "ausasti",
+            "ausalt,ausõna,tõega,tõejutt,tõepoolest,tõesti,tõesõna,tõsi,tõsijutt,tõsilugu,õigus"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "honestly",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "honnêtement",
+                "weight": 1
+              },
+              {
+                "words": "vraiment",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "честно",
+                "weight": 1
+              },
+              {
+                "words": "по правде",
+                "weight": 1
+              },
+              {
+                "words": "честное слово,в самом деле,действительно,серьёзно,впрямь,поистине,на самом деле,подлинно,всерьёз,вправду,воистину,право,право слово,правда",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чесно",
+                "weight": 1
+              },
+              {
+                "words": "справді,насправді,в дійсності,дійсно",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(suhtluses ütlust, väidet kinnitava sõnana:) (päris) kindlasti,rõhutab, et miski on just nii, nagu sa ütled",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "„Kai olevat abiellunud.” – „Ausalt?”",
+            "Ausalt, raske on uskuda."
+          ],
+          "synonyms": [
+            "ausõna",
+            "tõega",
+            "tõejutt",
+            "tõepoolest",
+            "tõesti",
+            "tõesõna",
+            "tõsi",
+            "tõsijutt",
+            "tõsilugu",
+            "õigus",
+            "ausasti,ausalt",
+            "õige",
+            "muidugist,mõistagi,otse loomulikult,teadagi,loomulikult,arusaadavalt,muidugi,muidugi mõista,muidugimõista",
+            "igal juhul,ilmtingimata,kahtlemata,kahtlematult,kindlalt,kindlasti,tingimata,kaheldamatult"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "vraiment",
+                "weight": 1
+              },
+              {
+                "words": "honnêtement",
+                "weight": 0.9
+              },
+              {
+                "words": "naturellement,évidemment",
+                "weight": 0.547
+              },
+              {
+                "words": "incontestablement,indubitablement,sans aucun doute,sûrement,certainement",
+                "weight": 0.59
+              }
+            ],
+            "rus": [
+              {
+                "words": "на самом деле",
+                "weight": 1
+              },
+              {
+                "words": "правда",
+                "weight": 1
+              },
+              {
+                "words": "поистине",
+                "weight": 1
+              },
+              {
+                "words": "действительно",
+                "weight": 1
+              },
+              {
+                "words": "в самом деле",
+                "weight": 1
+              },
+              {
+                "words": "серьёзно",
+                "weight": 1
+              },
+              {
+                "words": "вправду",
+                "weight": 1
+              },
+              {
+                "words": "подлинно",
+                "weight": 1
+              },
+              {
+                "words": "воистину",
+                "weight": 1
+              },
+              {
+                "words": "честное слово",
+                "weight": 1
+              },
+              {
+                "words": "право слово",
+                "weight": 1
+              },
+              {
+                "words": "впрямь",
+                "weight": 1
+              },
+              {
+                "words": "всерьёз",
+                "weight": 1
+              },
+              {
+                "words": "право",
+                "weight": 1
+              },
+              {
+                "words": "честно,по правде",
+                "weight": 0.9
+              },
+              {
+                "words": "правильно,верно,именно так",
+                "weight": 0.7
+              },
+              {
+                "words": "известное дело,безусловно,само собой,несомненно,понятное дело,известно,разумеется,естественно,конечно,понятно,как известно,ясен перец,ясен пень",
+                "weight": 0.547
+              },
+              {
+                "words": "факт,бесспорно,без всякого сомнения,конечно,определённо,безусловно,непременно,обязательно,несомненно,без сомнения,неоспоримо,наверняка,во что бы то ни стало,что бы там ни было,в любом случае",
+                "weight": 0.59
+              }
+            ],
+            "ukr": [
+              {
+                "words": "справді",
+                "weight": 1
+              },
+              {
+                "words": "насправді",
+                "weight": 1
+              },
+              {
+                "words": "в дійсності",
+                "weight": 1
+              },
+              {
+                "words": "дійсно",
+                "weight": 1
+              },
+              {
+                "words": "чесно",
+                "weight": 0.9
+              },
+              {
+                "words": "зрозуміло,звичайно,певна річ,звісно",
+                "weight": 0.547
+              },
+              {
+                "words": "безумовно,безперечно,неодмінно,обовʼязково,конче,безсумнівно,певна річ,без сумніву,у будь-якому разі,звичайно",
+                "weight": 0.59
+              }
+            ],
+            "eng": [
+              {
+                "words": "honestly",
+                "weight": 0.9
+              },
+              {
+                "words": "in any case",
+                "weight": 0.59
+              }
+            ]
+          }
+        },
+        {
+          "definition": "igati, täiesti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Oma maine on see mees ausalt ära teeninud.",
+            "Film on Oscari ausalt ära teeninud."
+          ],
+          "synonyms": [
+            "ausasti"
+          ],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "tõsijutt",
+        "ausasti",
+        "ausalt öelda",
+        "puhtani",
+        "puhtal kujul",
+        "iseenesest",
+        "auga",
+        "õigupärast",
+        "puhtanisti",
+        "täiesti",
+        "puha",
+        "täiega",
+        "tõtt-öelda",
+        "kõigiti",
+        "päriselt",
+        "tervelt",
+        "tõesti",
+        "tõega",
+        "tõemeeli",
+        "tões ja vaimus",
+        "igas tükis",
+        "lõpuks",
+        "puhtalt",
+        "tervenisti",
+        "õieti",
+        "tõesõna",
+        "ausõna",
+        "igati",
+        "tõepoolest",
+        "õigupoolest",
+        "tegelikult",
+        "tõsi",
+        "viisakalt",
+        "korralikult",
+        "nõmedalt",
+        "läbipaistvalt",
+        "lollakalt",
+        "püüdlikult",
+        "egoistlikult",
+        "naljakalt",
+        "otsekoheselt",
+        "rammusalt",
+        "siiralt",
+        "piinlikult",
+        "ebaausalt",
+        "küüniliselt",
+        "andekalt",
+        "võikalt",
+        "ausamalt",
+        "ilusalt",
+        "asjalikult",
+        "ebasiiralt",
+        "kiitvalt",
+        "lihtsalt",
+        "totakalt",
+        "avameelselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ausalt",
+      "translations": [
+        "above board",
+        "above-board",
+        "as is only fair",
+        "earnestly",
+        "fair and square",
+        "fairly",
+        "frankly",
+        "honestly",
+        "honest-to-God",
+        "honorably",
+        "honourably",
+        "in a fair manner",
+        "on the level",
+        "seriously",
+        "truthfully"
+      ]
+    }
+  ]
+}

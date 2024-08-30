@@ -1,0 +1,94 @@
+{
+  "requestedWord": "siiapoole",
+  "estonianWord": "siiapoole",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "siiapoole"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(kuskile) siia,siia kanti, siia suunda",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Taud levis Lätist siiapoole."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "сюда",
+                "weight": 1
+              },
+              {
+                "words": "в эту сторону",
+                "weight": 1
+              },
+              {
+                "words": "в этом направлении",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kõneleja suhtes millestki samale poolele",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Matkal jäädi siiapoole lõunapöörijoont."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "по эту сторону",
+                "weight": 1
+              },
+              {
+                "words": "по сию сторону",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kokkupoole",
+        "pealepoole",
+        "siia",
+        "sinnapoolegi",
+        "sinna",
+        "kuhupoole",
+        "kuhugile",
+        "kuhugipoole",
+        "sinnapoole"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "siiapoole",
+      "translations": []
+    }
+  ]
+}

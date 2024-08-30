@@ -1,0 +1,474 @@
+{
+  "requestedWord": "alkohoolik",
+  "estonianWord": "alkohoolik",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "alkohoolik"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "alkohooliku"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "alkohoolikut"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "alkohoolikusse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "alkohoolikus"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "alkohoolikust"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "alkohoolikule"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "alkohoolikul"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "alkohoolikult"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "alkohoolikuks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "alkohoolikuni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "alkohoolikuna"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "alkohoolikuta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "alkohoolikuga"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "alkohoolikud"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "alkohoolikute"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "alkohoolikuid"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "alkohoolikutesse,alkohoolikuisse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "alkohoolikutes,alkohoolikuis"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "alkohoolikutest,alkohoolikuist"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "alkohoolikutele,alkohoolikuile"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "alkohoolikutel,alkohoolikuil"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "alkohoolikutelt,alkohoolikuilt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "alkohoolikuteks,alkohoolikuiks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "alkohoolikuteni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "alkohoolikutena"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "alkohoolikuteta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "alkohoolikutega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "inimene, kes ülemäära tarvitab alkohoolseid jooke, on alkoholist sõltuvuses,inimene, kes joob liiga palju alkoholi ja on sellest sõltuvuses",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "See, et keegi üksi pudeli veini joob, ei tee temast veel alkohoolikut.",
+            "Riik toetab alkohoolikute ravi."
+          ],
+          "synonyms": [
+            "alkoholisõltlane",
+            "joodik",
+            "joomakoer",
+            "joomar",
+            "joomakõri",
+            "alkašš",
+            "joomavend",
+            "lakard",
+            "lakekauss",
+            "lakekrants",
+            "lakkekauss",
+            "lakkekrants",
+            "õli",
+            "alkoholilembene,viinalembene,napsilembene",
+            "napsisõber",
+            "võtja",
+            "laaberdis",
+            "pummeldaja",
+            "joomahull",
+            "joomamees",
+            "kärakamees,kärakavend,napsivend,napsivõtja,topsisõber,topsivend,kärakavõtja,napsiarmastaja,napsuarmastaja,napsitaja",
+            "mudajoodik",
+            "peedivend",
+            "viinavend",
+            "jota,viinapump,viinakõri,viinanina",
+            "sopajoodik",
+            "purujoodik",
+            "tipsutaja",
+            "joomakaru",
+            "padujoodik,lausjoodik",
+            "marujoodik",
+            "pump",
+            "viinamees,viinaviskaja,viinavõtja,napsimees,napsumees",
+            "parmaat,parm"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "alcoholic",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "alcoolique",
+                "weight": 1
+              },
+              {
+                "words": "ivrogne",
+                "weight": 1
+              },
+              {
+                "words": "buveur",
+                "weight": 1
+              },
+              {
+                "words": "buveuse",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "алкоголик",
+                "weight": 1
+              },
+              {
+                "words": "пьяница",
+                "weight": 1
+              },
+              {
+                "words": "алкоголичка",
+                "weight": 1
+              },
+              {
+                "words": "алкозависимый",
+                "weight": 1
+              },
+              {
+                "words": "алкогольно-зависимый",
+                "weight": 1
+              },
+              {
+                "words": "бражник",
+                "weight": 1
+              },
+              {
+                "words": "алкаш",
+                "weight": 1
+              },
+              {
+                "words": "алкашка",
+                "weight": 1
+              },
+              {
+                "words": "пропойца",
+                "weight": 1
+              },
+              {
+                "words": "пьянчуга",
+                "weight": 1
+              },
+              {
+                "words": "выпивоха",
+                "weight": 1
+              },
+              {
+                "words": "запивоха",
+                "weight": 1
+              },
+              {
+                "words": "пьянчужка",
+                "weight": 1
+              },
+              {
+                "words": "забулдыга",
+                "weight": 1
+              },
+              {
+                "words": "винолюб,любитель выпить,поддавала",
+                "weight": 0.7
+              },
+              {
+                "words": "любитель выпить,человек, любящий выпить,человек, имеющий слабость к спиртному,пьющий человек",
+                "weight": 0.9
+              },
+              {
+                "words": "выпивала,выпивоха",
+                "weight": 0.7
+              },
+              {
+                "words": "гуляка,забулдыга,кутила",
+                "weight": 0.7
+              },
+              {
+                "words": "разгульный человек,кутёжник,кутила",
+                "weight": 0.9
+              },
+              {
+                "words": "запойный пьяница",
+                "weight": 0.9
+              },
+              {
+                "words": "пьянчуга,пьяница,пропойца,выпивоха",
+                "weight": 0.9
+              },
+              {
+                "words": "пропойца,алкаш,пьянчуга,выпивоха,выпивала,пьющий,любящий выпивать,злоупотребляющий алкогольными напитками,любитель выпить,человек, злоупотребляющий алкогольными напитками,пьющий человек",
+                "weight": 0.9
+              },
+              {
+                "words": "беспробудный пьяница,пьянчуга,пропойца",
+                "weight": 0.9
+              },
+              {
+                "words": "бормоглот,бормотушница,бормотушник,бормоглотка",
+                "weight": 0.9
+              },
+              {
+                "words": "выпивоха,пьянчуга,пьющий",
+                "weight": 0.9
+              },
+              {
+                "words": "бухарик,бухарь,выпивала,выпивоха,пьянчужка,пьянчуга,алкашка,алкаш,пропойца",
+                "weight": 0.9
+              },
+              {
+                "words": "забулдыга,беспробудный пьяница",
+                "weight": 0.9
+              },
+              {
+                "words": "беспробудная пьяница,горькая пьяница,горький пьяница,беспробудный пьяница",
+                "weight": 0.9
+              },
+              {
+                "words": "запивоха,пропойца,пьянчуга,выпивоха",
+                "weight": 0.9
+              },
+              {
+                "words": "запойный пьяница,горький пьяница,пропойца",
+                "weight": 0.9
+              },
+              {
+                "words": "беспробудный пьяница",
+                "weight": 0.9
+              },
+              {
+                "words": "любитель выпить,выпивала,пьющий,пьющий человек,выпивоха",
+                "weight": 0.9
+              },
+              {
+                "words": "алкаш,алкашка,пьянчуга",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "алкоголік",
+                "weight": 1
+              },
+              {
+                "words": "алкоголічка",
+                "weight": 1
+              },
+              {
+                "words": "пʼяниця",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "alkašš",
+        "joodik",
+        "viinavõtja",
+        "joomakoer",
+        "lakard",
+        "jota",
+        "napsumees",
+        "mudajoodik",
+        "kärakavõtja",
+        "kärakamees",
+        "kärakavend",
+        "joomavend",
+        "napsiarmastaja",
+        "joomahull",
+        "peedivend",
+        "napsimees",
+        "joomakõri",
+        "joomar",
+        "topsivend",
+        "joomahaige",
+        "napsivend",
+        "lakkekauss",
+        "viinavend",
+        "valvejoodik",
+        "viinanina",
+        "joomamees",
+        "viinaviskaja",
+        "sopajoodik",
+        "purujoodik",
+        "tipsutaja",
+        "joomakaru",
+        "napsisõber",
+        "napsivõtja",
+        "pump",
+        "lausjoodik",
+        "lakkekrants",
+        "viinamees",
+        "marujoodik",
+        "topsisõber",
+        "joomatõbine",
+        "alkoholism",
+        "alkoholisõltuvus",
+        "alkoholisõltlane",
+        "alkoholilembene",
+        "alkoholiprobleem",
+        "sopakas",
+        "narkosõltlane",
+        "alkohoolne",
+        "mittealkohoolne",
+        "heroiinisõltlane"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "alkohoolik",
+      "translations": [
+        "alcoholic"
+      ]
+    }
+  ]
+}

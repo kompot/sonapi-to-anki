@@ -1,0 +1,124 @@
+{
+  "requestedWord": "valesti",
+  "estonianWord": "valesti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "valesti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "valel moel, mitte õigesti,mitte nii nagu vaja, valel moel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Panin jala valesti maha ja nüüd on valus.",
+            "Nad said teineteisest valesti aru.",
+            "Valesti tõlgitud lause.",
+            "Ta parkis auto valesti ja sai trahvi.",
+            "Ma sain ülesandest valesti aru."
+          ],
+          "synonyms": [
+            "vääralt",
+            "vääriti",
+            "ebaõigesti",
+            "vildakalt"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "wrong",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "mal",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "неправильно",
+                "weight": 1
+              },
+              {
+                "words": "неверно",
+                "weight": 1
+              },
+              {
+                "words": "ошибочно",
+                "weight": 1
+              },
+              {
+                "words": "превратно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "неправильно",
+                "weight": 1
+              },
+              {
+                "words": "помилково",
+                "weight": 1
+              },
+              {
+                "words": "хибно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "võõriti",
+        "vildakalt",
+        "nuripidi",
+        "ebaõigesti",
+        "kõveriti",
+        "vääralt",
+        "vääriti",
+        "kõõrdi",
+        "ekslikult",
+        "valestimõistmine",
+        "vale",
+        "õigesti",
+        "halvasti",
+        "ebatäpselt",
+        "teadlikult",
+        "kogemata",
+        "valestart",
+        "ebakorrektselt",
+        "puudulikult",
+        "tegelikult",
+        "aru",
+        "aru",
+        "teadvalt",
+        "valepidi",
+        "valelikult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "valesti",
+      "translations": []
+    }
+  ]
+}

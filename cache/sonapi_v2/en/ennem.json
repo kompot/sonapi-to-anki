@@ -1,0 +1,167 @@
+{
+  "requestedWord": "ennem",
+  "estonianWord": "ennem",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ennem"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "pigem, pigemini",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ennem lasen lõppeda kitsedel kui inimestel."
+          ],
+          "synonyms": [
+            "ennemini"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "скорее",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "enne praegust või teatavat aega, varasemal ajal, millalgi minevikus,varasemal ajal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Peaks ta ikka ennem kohale jõudma."
+          ],
+          "synonyms": [
+            "ennemalt",
+            "ennemini",
+            "varem",
+            "varemalt",
+            "varemini",
+            "enne",
+            "tuna",
+            "varasemalt"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "earlier",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "avant",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "раньше",
+                "weight": 1
+              },
+              {
+                "words": "прежде",
+                "weight": 1
+              },
+              {
+                "words": "ранее",
+                "weight": 1
+              },
+              {
+                "words": "перед",
+                "weight": 1
+              },
+              {
+                "words": "до",
+                "weight": 1
+              },
+              {
+                "words": "недавно",
+                "weight": 0.9
+              },
+              {
+                "words": "ранее,раньше",
+                "weight": 0.618
+              }
+            ],
+            "ukr": [
+              {
+                "words": "раніше",
+                "weight": 1
+              },
+              {
+                "words": "перше",
+                "weight": 1
+              },
+              {
+                "words": "до",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "omal ajal",
+        "ennemini",
+        "enam",
+        "enam",
+        "meelsamini",
+        "ennist",
+        "varemalt",
+        "tuna",
+        "ennemalt",
+        "varemini",
+        "varem",
+        "enne",
+        "enne",
+        "toona",
+        "pigemini",
+        "parem",
+        "parem",
+        "rohkem",
+        "rohkem",
+        "pigem",
+        "ennest",
+        "ammu",
+        "kohe",
+        "kohe",
+        "pärast",
+        "päev-paar",
+        "ennemuiste",
+        "juba",
+        "siis"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ennem",
+      "translations": [
+        "druther",
+        "more likely",
+        "sooner"
+      ]
+    }
+  ]
+}

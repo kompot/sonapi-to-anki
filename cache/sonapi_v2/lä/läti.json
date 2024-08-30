@@ -1,0 +1,569 @@
+{
+  "requestedWord": "läti",
+  "estonianWord": "läti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "läti"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "Läti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "lätlaste või läti keelega seotud",
+          "partOfSpeech": [
+            {
+              "code": "adjg",
+              "value": "omastavaline täiend, genitiivatribuut, täiendsõna"
+            }
+          ],
+          "examples": [
+            "Ma ei oska läti keelt."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "Latvian",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "letton",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "латвийский",
+                "weight": 1
+              },
+              {
+                "words": "латышский",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "латвійський",
+                "weight": 1
+              },
+              {
+                "words": "латиський",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "eesti",
+        "lätipärane",
+        "leedu",
+        "vene",
+        "Läti"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "Läti"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "Läti"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "Lätit"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "Lätti"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "Lätisse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "Lätis"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "Lätist"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "Lätile"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "Lätil"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "Lätilt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "Lätiks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "Lätini"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "Lätina"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "Lätita"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "Lätiga"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "Lätid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "Lätide"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "Lätisid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "Lätidesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "Lätides"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "Lätidest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "Lätidele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "Lätidel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "Lätidelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "Lätideks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "Lätideni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "Lätidena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "Lätideta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "Lätidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "riik Euroopas Läänemere ääres",
+          "partOfSpeech": [
+            {
+              "code": "prop",
+              "value": "pärisnimi, prooprium"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "deu": [
+              {
+                "words": "Lettland",
+                "weight": 1
+              }
+            ],
+            "eng": [
+              {
+                "words": "Latvia",
+                "weight": 1
+              }
+            ],
+            "fin": [
+              {
+                "words": "Latvia",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "Lettonie",
+                "weight": 1
+              }
+            ],
+            "lav": [
+              {
+                "words": "Latvija",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "Латвия",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "Латвія",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "Leedu",
+        "Poola",
+        "Eesti",
+        "Riia",
+        "läti"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "Läti"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "Läti"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "Lätit"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "Lätti"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "Lätisse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "Lätis"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "Lätist"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "Lätile"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "Lätil"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "Lätilt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "Lätiks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "Lätini"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "Lätina"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "Lätita"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "Lätiga"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "Lätid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "Lätide"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "Lätisid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "Lätidesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "Lätides"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "Lätidest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "Lätidele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "Lätidel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "Lätidelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "Lätideks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "Lätideni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "Lätidena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "Lätideta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "Lätidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "küla Rapla maakonnas Märjamaa vallas (Vigala kihelkonnas)",
+          "partOfSpeech": [
+            {
+              "code": "prop",
+              "value": "pärisnimi, prooprium"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "küla Tartu maakonnas Kambja vallas (Nõo kihelkonnas)",
+          "partOfSpeech": [
+            {
+              "code": "prop",
+              "value": "pärisnimi, prooprium"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "paik (küla) Harju maakonnas Anija vallas (Harju-Jaani kihelkonnas)",
+          "partOfSpeech": [
+            {
+              "code": "prop",
+              "value": "pärisnimi, prooprium"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "paik (küla) Lääne maakonnas Lääne-Nigula vallas (Kullamaa kihelkonnas)",
+          "partOfSpeech": [
+            {
+              "code": "prop",
+              "value": "pärisnimi, prooprium"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "läti",
+      "translations": [
+        "Lettish"
+      ]
+    }
+  ]
+}

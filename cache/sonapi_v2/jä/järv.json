@@ -1,0 +1,272 @@
+{
+  "requestedWord": "järv",
+  "estonianWord": "järv",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22i",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "järv"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "järve"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "järve"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "järve"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "järvesse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "järves"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "järvest"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "järvele"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "järvel"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "järvelt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "järveks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "järveni"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "järvena"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "järveta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "järvega"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "järved"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "järvede"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "järvi,järvesid"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "järvedesse,järvisse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "järvedes,järvis"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "järvedest,järvist"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "järvedele,järvile"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "järvedel,järvil"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "järvedelt,järvilt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "järvedeks,järviks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "järvedeni"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "järvedena"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "järvedeta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "järvedega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "suurem veega täitunud maismaanõgu, mis ei ole otseses ühenduses merega,suur veekogu, mis pole otseses ühenduses merega",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Käisime järves ujumas.",
+            "Kalamehed sõitsid paadiga järvele.",
+            "Maja ehitati järve kaldale."
+          ],
+          "synonyms": [
+            "jv",
+            "järvesilm"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "lake",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "lac",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "озеро",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "озеро",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "järvesilm",
+        "ürgjärv",
+        "rannikujärv",
+        "rannajärv",
+        "rabajärv",
+        "paisjärv",
+        "orujärv",
+        "mägijärv",
+        "mäestikujärv",
+        "mudajärv",
+        "metsajärv",
+        "lammijärv",
+        "laavajärv",
+        "kõrgmäestikujärv",
+        "kraatrijärv",
+        "karstijärv",
+        "kalajärv",
+        "jääpaisjärv",
+        "jääjärv",
+        "allikajärv",
+        "akumulatsioonijärv",
+        "järvik",
+        "veesilm",
+        "järvistu",
+        "soojärv"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "järv",
+      "translations": [
+        "lake",
+        "loch",
+        "lough"
+      ]
+    }
+  ]
+}

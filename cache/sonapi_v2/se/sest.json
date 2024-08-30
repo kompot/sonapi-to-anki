@@ -1,0 +1,152 @@
+{
+  "requestedWord": "sest",
+  "estonianWord": "sest",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sest"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sellepärast et, sel põhjusel et,sel põhjusel, et,sellepärast et",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Koole pannakse kinni, sest laste arv jääb väiksemaks.",
+            "Kohus andis hagi tagasi, sest see olevat puudulikult koostatud.",
+            "Katrin läks tuppa, sest tal hakkas külm.",
+            "Ma ei saa kooki teha, sest jahu sai otsa."
+          ],
+          "synonyms": [
+            "kuivõrd",
+            "kuna"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "parce que",
+                "weight": 1
+              },
+              {
+                "words": "car",
+                "weight": 1
+              },
+              {
+                "words": "puisque",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "поскольку",
+                "weight": 1
+              },
+              {
+                "words": "так как",
+                "weight": 1
+              },
+              {
+                "words": "потому что",
+                "weight": 1
+              },
+              {
+                "words": "ибо",
+                "weight": 1
+              },
+              {
+                "words": "коль скоро",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "бо",
+                "weight": 1
+              },
+              {
+                "words": "тому що",
+                "weight": 1
+              },
+              {
+                "words": "через те що",
+                "weight": 1
+              },
+              {
+                "words": "того що",
+                "weight": 1
+              },
+              {
+                "words": "оскільки",
+                "weight": 1
+              },
+              {
+                "words": "позаяк",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kuna",
+        "kuna",
+        "seepärast et",
+        "kuivõrd",
+        "sellepärast et",
+        "sest et",
+        "et",
+        "et",
+        "ning",
+        "kuigi",
+        "muidu",
+        "see",
+        "ehkki",
+        "kuid",
+        "aga",
+        "aga",
+        "ilmselt",
+        "kui",
+        "kui",
+        "mistõttu",
+        "seega",
+        "seetõttu",
+        "isegi",
+        "seepärast",
+        "sellepärast",
+        "küll",
+        "küll",
+        "tegelikult",
+        "ega",
+        "ent",
+        "siis",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sest",
+      "translations": [
+        "because",
+        "cos (= because)",
+        "for",
+        "inasmuch as",
+        "since"
+      ]
+    }
+  ]
+}

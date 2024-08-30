@@ -1,0 +1,256 @@
+{
+  "requestedWord": "emapalk",
+  "estonianWord": "emapalk",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22u",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "emapalk"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "emapalga"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "emapalka"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "emapalka"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "emapalgasse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "emapalgas"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "emapalgast"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "emapalgale"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "emapalgal"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "emapalgalt"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "emapalgaks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "emapalgani"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "emapalgana"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "emapalgata"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "emapalgaga"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "emapalgad"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "emapalkade"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "emapalku,emapalkasid"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "emapalkadesse,emapalgusse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "emapalkades,emapalgus"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "emapalkadest,emapalgust"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "emapalkadele,emapalgule"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "emapalkadel,emapalgul"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "emapalkadelt,emapalgult"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "emapalkadeks,emapalguks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "emapalkadeni"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "emapalkadena"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "emapalkadeta"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "emapalkadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "emale makstav vanemahüvitis",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Palka ja emapalka korraga ei saada.",
+            "Emapalga pärast seal peres küll lapsi ei tehta."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "материнская зарплата",
+                "weight": 1
+              },
+              {
+                "words": "родительская зарплата",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "miinimumpalk",
+        "vanemapalk",
+        "palgatõus",
+        "aluspalk",
+        "aluspalk",
+        "pension",
+        "netopalk",
+        "aampalk",
+        "lastetoetus",
+        "tulemuspalk",
+        "nädalapalk",
+        "kuupalk",
+        "saepalk",
+        "mediaanpalk",
+        "emapension",
+        "alampalk",
+        "vanemahüvitis",
+        "aastapalk",
+        "palk",
+        "palk",
+        "tunnipalk",
+        "ristpalk",
+        "brutosissetulek",
+        "vanemapension",
+        "ametipalk",
+        "brutopalk",
+        "lapsetoetus",
+        "reaalpalk",
+        "kuusissetulek",
+        "päevapalk",
+        "põhipalk"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "emapalk",
+      "translations": []
+    }
+  ]
+}

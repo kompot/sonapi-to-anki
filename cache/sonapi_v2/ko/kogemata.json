@@ -1,0 +1,140 @@
+{
+  "requestedWord": "kogemata",
+  "estonianWord": "kogemata",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kogemata"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mittekavatsetult, mittetahtlikult, mitte meelega,ilma et oleks kavatsenud või ette planeerinud, juhuslikult",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Klaas kukkus kogemata käest maha.",
+            "Laps tegi kogemata mänguasja katki.",
+            "Astusin talle kogemata varba peale."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "случайно",
+                "weight": 1
+              },
+              {
+                "words": "нечаянно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "випадково",
+                "weight": 1
+              },
+              {
+                "words": "ненароком",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "juhuslikult, juhuse tõttu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sain täiesti kogemata teada, et .."
+          ],
+          "synonyms": [
+            "juhtumisi,juhuslikult"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "случайно",
+                "weight": 1
+              },
+              {
+                "words": "ненароком,случайно,нечаянно,невзначай,по случаю",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "par hasard,fortuitement",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "випадково",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "accidentally,randomly",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ekslikult",
+        "kobina peale",
+        "juhuslikult",
+        "sattumisi",
+        "tahtmatult",
+        "juhtumisi",
+        "eksikombel",
+        "teadmatult",
+        "kogemata kombel",
+        "ootamatult",
+        "tahtlikult",
+        "purupurju",
+        "isegi",
+        "peadpidi",
+        "kogema",
+        "õnnetult",
+        "lihtsalt",
+        "sihilikult",
+        "poolkogemata",
+        "hooletult",
+        "valesti",
+        "pahaaimamatult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kogemata",
+      "translations": [
+        "accidentally",
+        "by accident",
+        "inadvertently",
+        "unwittingly"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "requestedWord": "kardetavasti",
+  "estonianWord": "kardetavasti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kardetavasti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(hrl kahetsevalt:) arvatavasti, nagu karta on",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kardetavasti hukkusid lennuõnnetuses kõik reisijad."
+          ],
+          "synonyms": [
+            "kardetavalt",
+            "arvatavasti,ilmselt,ilmsesti,tõenäoliselt,vist,oletatavalt,tõenäoselt,oletatavasti"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "боюсь",
+                "weight": 1
+              },
+              {
+                "words": "видимо,вероятно,по-видимому,наверное,очевидно,заметно,явно,кажется,возможно,похоже,как можно предположить,судя по всему,скорее всего,надо думать,надо полагать,по всей видимости,наверно,предположительно,по всей вероятности,верно",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "probablement,sans doute",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "мабуть,певно,напевно,очевидно,ймовірно",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "presumably,presumedly",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vististi",
+        "tõenäoliselt",
+        "nähtavasti",
+        "ilmsesti",
+        "ilmselt",
+        "küllap",
+        "oletatavalt",
+        "arvatavasti",
+        "vist",
+        "vist",
+        "oletatavasti",
+        "usutavasti",
+        "nagu näha",
+        "arvata",
+        "oodatavasti",
+        "eeldatavasti",
+        "kardetav",
+        "ilmselgelt",
+        "loodetavasti",
+        "kardetavalt",
+        "ikka",
+        "muidu",
+        "sest",
+        "nagunii",
+        "kindlasti",
+        "väidetavasti",
+        "sedajagu",
+        "täna-homme",
+        "aga",
+        "aga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kardetavasti",
+      "translations": []
+    }
+  ]
+}

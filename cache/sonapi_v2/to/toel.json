@@ -1,0 +1,90 @@
+{
+  "requestedWord": "toel",
+  "estonianWord": "toel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "toel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millelegi või kellelegi toetudes, midagi kasutades, millegi abil,kellegi või millegi abiga",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Annetuste toel kerkinud maja.",
+            "Uus kirik ehitati annetuste toel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "à l'aide de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "при поддержке",
+                "weight": 1
+              },
+              {
+                "words": "с помощью",
+                "weight": 1
+              },
+              {
+                "words": "при помощи",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за підтримкою",
+                "weight": 1
+              },
+              {
+                "words": "за допомогою",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "väel",
+        "jõul",
+        "abil",
+        "vahendusel",
+        "najal",
+        "toetusel",
+        "varal",
+        "juhtimisel",
+        "kaudu",
+        "eestvedamisel",
+        "eestvõtmisel",
+        "kaasabil",
+        "rahastu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "toel",
+      "translations": []
+    }
+  ]
+}

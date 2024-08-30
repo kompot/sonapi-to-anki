@@ -1,0 +1,135 @@
+{
+  "requestedWord": "teadmata",
+  "estonianWord": "teadmata",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "teadmata"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selline, kelle või mille kohta ei teata",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Pulmad on teadmata ajaks edasi lükatud.",
+            "Auto lahkus teadmata suunas.",
+            "Mees kuulutati teadmata kadunuks."
+          ],
+          "synonyms": [
+            "pime",
+            "jäljetu",
+            "ennetundmatu,tundmatu,võõras",
+            "iks",
+            "umbkaudne,ebamäärane",
+            "suvaline,suva"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "неизвестный",
+                "weight": 1
+              },
+              {
+                "words": "безызвестный",
+                "weight": 1
+              },
+              {
+                "words": "незнакомый",
+                "weight": 1
+              },
+              {
+                "words": "неведомый",
+                "weight": 1
+              },
+              {
+                "words": "безвестный",
+                "weight": 1
+              },
+              {
+                "words": "подозрительный,тёмный",
+                "weight": 0.7
+              },
+              {
+                "words": "бесследный",
+                "weight": 0.7
+              },
+              {
+                "words": "чужой,неведомый,неизвестный,незнакомый",
+                "weight": 0.9
+              },
+              {
+                "words": "неизвестный",
+                "weight": 0.9
+              },
+              {
+                "words": "смутный,неопределённый,неясный",
+                "weight": 0.9
+              },
+              {
+                "words": "всё равно какой,какой угодно,любой",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "inconnu",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "незнайомий,невідомий,чужий,незнаний",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "unfamiliar,strange",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "iks",
+        "meelevaldne",
+        "mis tahes",
+        "ebamäärane",
+        "tundmatu",
+        "suvaline",
+        "mingi",
+        "teadmatult",
+        "kadunud",
+        "surmaaeg",
+        "teadmatus",
+        "teadmatu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "teadmata",
+      "translations": [
+        "behind your back",
+        "unbeknownst",
+        "(kellegi) unbeknownst to"
+      ]
+    }
+  ]
+}

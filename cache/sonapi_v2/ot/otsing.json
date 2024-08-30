@@ -1,0 +1,318 @@
+{
+  "requestedWord": "otsing",
+  "estonianWord": "otsing",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "02",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "otsing"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "otsingu"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "otsingut"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "otsingusse"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "otsingus"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "otsingust"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "otsingule"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "otsingul"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "otsingult"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "otsinguks"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "otsinguni"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "otsinguna"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "otsinguta"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "otsinguga"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "otsingud"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "otsingute"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "otsinguid"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "otsingutesse,otsinguisse"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "otsingutes,otsinguis"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "otsingutest,otsinguist"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "otsingutele,otsinguile"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "otsingutel,otsinguil"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "otsingutelt,otsinguilt"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "otsinguteks,otsinguiks"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "otsinguteni"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "otsingutena"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "otsinguteta"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "otsingutega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kadunu, kaotsiläinu otsimine",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tulututele otsingutele kulus pühapäev ja pool esmaspäeva.",
+            "Põgenike otsingud jätkuvad."
+          ],
+          "synonyms": [
+            "otsimine"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "поиск",
+                "weight": 1
+              },
+              {
+                "words": "искание",
+                "weight": 1
+              },
+              {
+                "words": "разыскивание",
+                "weight": 1
+              },
+              {
+                "words": "поиск",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "recherche",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пошук,шукання",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vaimse, loomingulise idee poole pürgimine",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Loomingulised otsingud.",
+            "Elu täis otsinguid.",
+            "Jah, eks mu usulised otsingud on heitlikud olnud."
+          ],
+          "synonyms": [
+            "otsiskelu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "поиск",
+                "weight": 1
+              },
+              {
+                "words": "искания",
+                "weight": 1
+              },
+              {
+                "words": "поиск",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi otsimine veebis, failis vm dokumendis teatava käskluse (nt sõna, sümbolijada) abil",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Sõnaotsing.",
+            "Pildiotsing."
+          ],
+          "synonyms": [
+            "infootsing"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "поиск",
+                "weight": 1
+              },
+              {
+                "words": "информационный поиск,поиск информации",
+                "weight": 0.644
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "otsiskelu",
+        "otsimine",
+        "tööotsing",
+        "tõeotsing",
+        "eneseotsing",
+        "infootsing"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "otsing",
+      "translations": [
+        "quest",
+        "retrieval",
+        "search"
+      ]
+    }
+  ]
+}

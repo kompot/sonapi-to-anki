@@ -1,0 +1,128 @@
+{
+  "requestedWord": "seejärel",
+  "estonianWord": "seejärel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "seejärel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "pärast seda, selle järel, järgmisena,pärast mainitud tegevust või sündmust",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kaarel vaatas kõhklevalt Jussi ja seejärel Piretit.",
+            "Ta lõpetas kooli ja läks seejärel tööle.",
+            "Kõigepealt prae sibul, seejärel kartulid."
+          ],
+          "synonyms": [
+            "seepeale"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "puis",
+                "weight": 1
+              },
+              {
+                "words": "ensuite",
+                "weight": 1
+              },
+              {
+                "words": "après",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вслед за тем",
+                "weight": 1
+              },
+              {
+                "words": "потом",
+                "weight": 1
+              },
+              {
+                "words": "затем",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "потім",
+                "weight": 1
+              },
+              {
+                "words": "далі",
+                "weight": 1
+              },
+              {
+                "words": "тоді",
+                "weight": 1
+              },
+              {
+                "words": "відтак",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "misjärel",
+        "seepeale",
+        "siis",
+        "pärast",
+        "pärastpoole",
+        "algul",
+        "ning",
+        "taas",
+        "suundus",
+        "uuesti",
+        "peagi",
+        "smalt",
+        "lõplikult",
+        "jälle",
+        "hiljemini",
+        "hiljem",
+        "esmalt",
+        "sealt",
+        "ükshaaval",
+        "viimaks",
+        "alles",
+        "lõpuks",
+        "kõigepealt",
+        "kohe",
+        "kohe",
+        "esialgu",
+        "nüüd",
+        "järgemööda"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "seejärel",
+      "translations": [
+        "after that",
+        "(kohe) hereupon",
+        "thereafter"
+      ]
+    }
+  ]
+}

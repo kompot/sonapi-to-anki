@@ -1,0 +1,55 @@
+{
+  "requestedWord": "tervislikult",
+  "estonianWord": "tervislikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tervislikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tervisele kasulikult, tervist säästes ja toetades",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Toitu tervislikult!",
+            "Eks katsun tervislikumalt elada."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "terve",
+        "ebatervislik",
+        "tervislik",
+        "tervislikum",
+        "toituma",
+        "tervislikkus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tervislikult",
+      "translations": [
+        "healthfully",
+        "wholesomely"
+      ]
+    }
+  ]
+}

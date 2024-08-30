@@ -1,0 +1,123 @@
+{
+  "requestedWord": "pikemalt",
+  "estonianWord": "pikemalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "pikemalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "pikemat aega, kauem,(mingi teema käsitlemise kohta:) põhjalikumalt, ulatuslikumalt, üksikasjalikumalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ma pole saanud temaga pikemalt rääkida.",
+            "Ta nagu kavatseks siin pikemalt peatuda.",
+            "Pikemalt mõtlemata pistis ta kodu poole punuma.",
+            "Nüüd võttis võõras pikemalt sõna.",
+            "Pikemalt käsitleti kaht viimast teemat."
+          ],
+          "synonyms": [
+            "pikemini",
+            "kauem,kauemini"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "дольше",
+                "weight": 1
+              },
+              {
+                "words": "долее",
+                "weight": 1
+              },
+              {
+                "words": "подробнее",
+                "weight": 1
+              },
+              {
+                "words": "детальнее",
+                "weight": 1
+              },
+              {
+                "words": "на более длительное время",
+                "weight": 1
+              },
+              {
+                "words": "на более длительный срок",
+                "weight": 1
+              },
+              {
+                "words": "дольше,долее,подольше",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "longer",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kaugemale ulatuvalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Siruta jalg pikemalt ette.",
+            "Kuuldavasti pannakse sellised lambid ka naabertänavale ja palju pikemalt."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "kauem",
+        "pikemini",
+        "kauemini",
+        "rahulikumalt",
+        "loomulikumalt",
+        "täpsemalt",
+        "põhjalikumalt",
+        "lühemalt",
+        "pikalt-laialt",
+        "üksikasjalikumalt",
+        "ametlikumalt",
+        "pikalt",
+        "lähemalt",
+        "korralikumalt",
+        "pikemata",
+        "põgusalt",
+        "raskemalt",
+        "isiklikumalt",
+        "kauem"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pikemalt",
+      "translations": []
+    }
+  ]
+}

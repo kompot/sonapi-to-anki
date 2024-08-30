@@ -1,0 +1,108 @@
+{
+  "requestedWord": "mullu",
+  "estonianWord": "mullu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "mullu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "möödunud aastal,eelmisel aastal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Õunu on tänavu rohkem kui mullu.",
+            "Läänepoolkerale levis viirus mullu suvel.",
+            "Helen lõpetas mullu ülikooli.",
+            "Isa sai mullu kevadel 50-aastaseks."
+          ],
+          "synonyms": [
+            "tunavu"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "l'an dernier",
+                "weight": 1
+              },
+              {
+                "words": "l'année dernière",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в прошлом году",
+                "weight": 1
+              },
+              {
+                "words": "в прошедшем году",
+                "weight": 1
+              },
+              {
+                "words": "в минувшем году",
+                "weight": 1
+              },
+              {
+                "words": "в истекшем году",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "минулого року",
+                "weight": 1
+              },
+              {
+                "words": "того року",
+                "weight": 1
+              },
+              {
+                "words": "в минулому році",
+                "weight": 1
+              },
+              {
+                "words": "торік",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tunamullu",
+        "minevaasta",
+        "tänavu",
+        "mullune",
+        "ülemöödunud",
+        "mullusuvine",
+        "möödunud"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "mullu",
+      "translations": [
+        "last year",
+        "yester-year",
+        "yesteryear"
+      ]
+    }
+  ]
+}

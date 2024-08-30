@@ -1,0 +1,707 @@
+{
+  "requestedWord": "liiga",
+  "estonianWord": "liiga",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "liiga"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "liigas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "üle tavalise või otstarbeka määra, rohkem kui vaja või kasulik,rohkem kui vaja või kasulik on, üle normi, liialt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tööd on liiga palju.",
+            "Ta suri liiga vara.",
+            "Korvpalluriks olen ma liiga lühike.",
+            "Olen juba liiga oma, et asja kõrvalseisja pilguga vaadata.",
+            "Eesti turg on liiga väike, et siia kallist rõivabrändi või luksusautosid tuua.",
+            "Supp on liiga soolane.",
+            "Sa sõidad liiga kiiresti."
+          ],
+          "synonyms": [
+            "liig"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "trop",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "слишком",
+                "weight": 1
+              },
+              {
+                "words": "чрезмерно",
+                "weight": 1
+              },
+              {
+                "words": "излишне",
+                "weight": 1
+              },
+              {
+                "words": "непомерно",
+                "weight": 1
+              },
+              {
+                "words": "сверх меры",
+                "weight": 1
+              },
+              {
+                "words": "чересчур",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "надто",
+                "weight": 1
+              },
+              {
+                "words": "занадто",
+                "weight": 1
+              },
+              {
+                "words": "надміру",
+                "weight": 1
+              },
+              {
+                "words": "надмірно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "liiaks",
+        "föderatsioon",
+        "ühendus",
+        "allianss",
+        "koondis",
+        "ülearu",
+        "liit",
+        "unioon",
+        "liialdatult",
+        "liiasti",
+        "liig",
+        "liig",
+        "liigselt",
+        "ülemäära",
+        "liialt",
+        "blokk",
+        "üleliia",
+        "liiast",
+        "koalitsioon",
+        "assotsiatsioon",
+        "üleliiga",
+        "mudaliiga",
+        "jalgpalliliiga",
+        "üsna",
+        "liigagar",
+        "suhteliselt",
+        "piisavalt",
+        "väga",
+        "superliiga"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "liiga"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "liiga"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "liigat"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "liigasse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "liigas"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "liigast"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "liigale"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "liigal"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "liigalt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "liigaks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "liigani"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "liigana"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "liigata"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "liigaga"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "liigad"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "liigade"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "liigasid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "liigadesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "liigades"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "liigadest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "liigadele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "liigadel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "liigadelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "liigadeks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "liigadeni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "liigadena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "liigadeta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "liigadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tugevusgrupp spordis, teatud tasemega võistkondade rühm, kes omavahel perioodiliselt võistlevad meistritiitli või kõrgemasse tugevusgruppi edasipääsu nimel",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Euroopa meistrite liiga alagrupimängud on alanud põnevalt.",
+            "Profiliiga."
+          ],
+          "synonyms": [
+            "divisjon"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "лига",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(mingi omaduse poolest teatavas suurusjärgus, klassis paiknemise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Nüüdseks oleme jõudnud arenenud riikide liigasse.",
+            "Noorte näitlejate mäng ei olnud samast liigast vanemate tegijate omaga.",
+            "Mõlemad rääkisid inglise keeles, aga rootslase perfektne ja vaba inglise keel oli hoopis teisest liigast."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(ühiskondlik-poliitiline) liit, ühendus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Araabia Riikide Liiga.",
+            "Katoliiklik Liiga."
+          ],
+          "synonyms": [
+            "assotsiatsioon,koondis",
+            "ühendus",
+            "unioon",
+            "blokk",
+            "koalitsioon"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "объединение",
+                "weight": 1
+              },
+              {
+                "words": "союз",
+                "weight": 1
+              },
+              {
+                "words": "лига",
+                "weight": 1
+              },
+              {
+                "words": "ассоциация,объединение",
+                "weight": 0.9
+              },
+              {
+                "words": "объединение,союз,общество,сообщество,ассоциация,товарищество",
+                "weight": 0.9
+              },
+              {
+                "words": "союз,унион,уния,объединение",
+                "weight": 0.9
+              },
+              {
+                "words": "блок",
+                "weight": 0.9
+              },
+              {
+                "words": "коалиция",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "спілка,товариство,обʼєднання,союз",
+                "weight": 0.9
+              },
+              {
+                "words": "коаліція",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "liiaks",
+        "föderatsioon",
+        "ühendus",
+        "allianss",
+        "koondis",
+        "ülearu",
+        "liit",
+        "unioon",
+        "blokk",
+        "koalitsioon",
+        "assotsiatsioon",
+        "üleliiga",
+        "mudaliiga",
+        "jalgpalliliiga",
+        "superliiga",
+        "liialdatult",
+        "liiasti",
+        "liig",
+        "liig",
+        "liigselt",
+        "ülemäära",
+        "liialt",
+        "üleliia",
+        "liiast",
+        "üsna",
+        "liigagar",
+        "suhteliselt",
+        "piisavalt",
+        "väga"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "liiga"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "liiga"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "liigat"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "liigasse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "liigas"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "liigast"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "liigale"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "liigal"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "liigalt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "liigaks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "liigani"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "liigana"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "liigata"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "liigaga"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "liigad"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "liigade"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "liigasid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "liigadesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "liigades"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "liigadest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "liigadele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "liigadel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "liigadelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "liigadeks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "liigadeni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "liigadena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "liigadeta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "liigadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "noodikirja märk, millega ühendatakse seotult esitatavad noodid või kaks kõrvuti asetsevat ja võrdse kõrgusega heli",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "ligatuur",
+            "pidekaar",
+            "sidekaar"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "лигатура",
+                "weight": 1
+              },
+              {
+                "words": "лига",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "liiaks",
+        "föderatsioon",
+        "ühendus",
+        "allianss",
+        "koondis",
+        "ülearu",
+        "liit",
+        "unioon",
+        "liialdatult",
+        "liiasti",
+        "liig",
+        "liig",
+        "liigselt",
+        "ülemäära",
+        "liialt",
+        "blokk",
+        "üleliia",
+        "liiast",
+        "koalitsioon",
+        "assotsiatsioon",
+        "üleliiga",
+        "mudaliiga",
+        "jalgpalliliiga",
+        "üsna",
+        "liigagar",
+        "suhteliselt",
+        "piisavalt",
+        "väga",
+        "superliiga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "liiga",
+      "translations": [
+        "exaggeratedly",
+        "league",
+        "too",
+        "unduly",
+        "unnecessarily"
+      ]
+    }
+  ]
+}

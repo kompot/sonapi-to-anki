@@ -1,0 +1,99 @@
+{
+  "requestedWord": "kahekesi",
+  "estonianWord": "kahekesi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kahekesi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kaks inimest koos (ilma teisteta),teineteisega koos",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Reisisime naisega kahekesi.",
+            "Käisime vennaga kahekesi kinos."
+          ],
+          "synonyms": [
+            "kaksi",
+            "nelja silma all,tête-à-tête",
+            "üksi-kaksi",
+            "paarikesi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "à deux",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вдвоём",
+                "weight": 1
+              },
+              {
+                "words": "тет-а-тет,наедине",
+                "weight": 0.9
+              },
+              {
+                "words": "по двое,парами,вдвоём",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "удвох",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "üksi-kaksi",
+        "kaksi",
+        "omavahel",
+        "nelja silma all",
+        "silmast silma",
+        "paarikesi",
+        "ühiselt",
+        "koos",
+        "kuuekesi",
+        "seitsmekesi",
+        "kolmekesi",
+        "üksinda",
+        "kesi",
+        "kümnekesi",
+        "viiekesi",
+        "neljakesi",
+        "üksi",
+        "kaheksakesi",
+        "mitmekesi",
+        "kambakesi",
+        "koos"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kahekesi",
+      "translations": []
+    }
+  ]
+}

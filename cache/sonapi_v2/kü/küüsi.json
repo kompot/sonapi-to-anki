@@ -1,0 +1,62 @@
+{
+  "requestedWord": "küüsi",
+  "estonianWord": "küüsi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "küüsi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi meelevalda või võimusse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Suvel sattus ta taas vigastuste küüsi.",
+            "Taksojuht sattus röövlite küüsi."
+          ],
+          "synonyms": [
+            "küünte vahele"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "в лапы",
+                "weight": 1
+              },
+              {
+                "words": "в когти",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "küüsist",
+        "küüs",
+        "küüsis"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "küüsi",
+      "translations": []
+    }
+  ]
+}

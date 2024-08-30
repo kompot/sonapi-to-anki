@@ -1,0 +1,842 @@
+{
+  "requestedWord": "pakkima",
+  "estonianWord": "pakkima",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "pakin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "pakid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "pakib"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "pakime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "pakite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "pakivad"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "paki"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "pakitakse"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "pakita"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "pakkisin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "pakkisid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "pakkis"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "pakkisime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "pakkisite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "pakkisid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "pakiti"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "pakiksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "pakiksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "pakiks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "pakiksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "pakiksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "pakiksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "pakitaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "pakkinuksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "pakkinuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "pakkinuks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "pakkinuksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "pakkinuksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "pakkinuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "pakituks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "pakkivat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "pakitavat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "pakkinuvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "pakituvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "paki"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "pakkigem"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "pakkige"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "pakkigu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "pakitagu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "pakkima"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "pakkimata"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "pakkimas"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "pakkimast"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "pakkimaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "pakitama"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "pakkida"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "pakkides"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "pakkiv"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "pakitav"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "pakkinud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "pakkinud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "pakitud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "pakitud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "esemeid, asju kaasavõtmiseks korrapäraselt nt kohvrisse, kotti, autosse paigutama, kohvrit vm kaasavõetavaga täitma,asju kohvrisse, kotti vms paigutama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Asjad on pakitud, lennuk läheb pealelõunal.",
+            "Pakkisin seljakotti nädala söögivaru.",
+            "Kohver on ikka veel pakkimata.",
+            "Pakkisin asjad kohvrisse.",
+            "On sul reisiks kõik vajalik pakitud?"
+          ],
+          "synonyms": [
+            "kokku pakkima",
+            "kokku panema",
+            "ära pakkima",
+            "mahutama"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "emballer",
+                "weight": 1
+              },
+              {
+                "words": "emballer",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "паковать",
+                "weight": 1
+              },
+              {
+                "words": "упаковывать",
+                "weight": 1
+              },
+              {
+                "words": "упаковать",
+                "weight": 1
+              },
+              {
+                "words": "запаковывать",
+                "weight": 1
+              },
+              {
+                "words": "запаковать",
+                "weight": 1
+              },
+              {
+                "words": "укладывать",
+                "weight": 1
+              },
+              {
+                "words": "уложить",
+                "weight": 1
+              },
+              {
+                "words": "упаковывать,упаковать,укладывать,уложить",
+                "weight": 0.7
+              },
+              {
+                "words": "помещать,поместить,вкладывать,вложить,умещать,уместить,размещать,разместить",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пакувати",
+                "weight": 1
+              },
+              {
+                "words": "спакувати",
+                "weight": 1
+              },
+              {
+                "words": "упаковувати",
+                "weight": 1
+              },
+              {
+                "words": "упакувати",
+                "weight": 1
+              },
+              {
+                "words": "складати",
+                "weight": 1
+              },
+              {
+                "words": "скласти",
+                "weight": 1
+              },
+              {
+                "words": "спаковувати,спакувати,упаковувати,упакувати,складати,скласти",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esemeid, kaupa pakkematerjalisse panema (nt kolimisel, postiga saatmisel, ostmisel vm juhul),tooteid standardpakendisse panema (hrl masinaga),asju pakki, pakendisse panema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kõikjal pakitakse kingitusi ja valmistutakse jõuludeks.",
+            "Tampoonid on pakitud kümnekaupa.",
+            "Kas kingitused on pakitud?",
+            "Pakkisin lilled paberisse."
+          ],
+          "synonyms": [
+            "sisse pakkima",
+            "sisse mähkima,sisse mässima",
+            "keerama,pöörama",
+            "kokku siduma",
+            "pakendama",
+            "ära pakkima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "упаковывать",
+                "weight": 1
+              },
+              {
+                "words": "упаковать",
+                "weight": 1
+              },
+              {
+                "words": "заворачивать",
+                "weight": 1
+              },
+              {
+                "words": "завернуть",
+                "weight": 1
+              },
+              {
+                "words": "упаковывать,запаковывать,запаковать,упаковать,завёртывать,завернуть,заворачивать",
+                "weight": 0.7
+              },
+              {
+                "words": "обёртывать,обернуть,подгибать,подогнуть,свернуть,скатывать,скатать,свёртывать,скручивать,завёртывать,скрутить,завернуть",
+                "weight": 0.9
+              },
+              {
+                "words": "связывать,связать",
+                "weight": 0.9
+              },
+              {
+                "words": "фасовать,расфасовывать,расфасовать",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "упаковувати",
+                "weight": 1
+              },
+              {
+                "words": "упакувати",
+                "weight": 1
+              },
+              {
+                "words": "запаковувати",
+                "weight": 1
+              },
+              {
+                "words": "запакувати",
+                "weight": 1
+              },
+              {
+                "words": "загортати",
+                "weight": 1
+              },
+              {
+                "words": "загорнути",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teatud ainega ümbritsema, nt säilitamiseks",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Klientidele viimiseks pakitakse terved värsked kalad jäässe."
+          ],
+          "synonyms": [
+            "sisse pakkima",
+            "paigutama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "укладывать",
+                "weight": 1
+              },
+              {
+                "words": "уложить",
+                "weight": 1
+              },
+              {
+                "words": "завёртывать,завернуть,заворачивать,упаковывать,упаковать,запаковать,запаковывать",
+                "weight": 0.7
+              },
+              {
+                "words": "помещать,поместить,размещать,разместить",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "mettre,placer",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "поставити,класти,покласти,розташовувати,розміщати,розміщувати,розмістити,розташувати,ставити",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(hulga inimeste paigutamise, mahutamise kohta nt sõidukisse)",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Meid pakiti bussi ja viidi Titicaca järve äärde.",
+            "Kitsuke jäähall oli rahvast täis pakitud kui tipptunni tramm."
+          ],
+          "synonyms": [
+            "paigutama",
+            "mahutama",
+            "toppima",
+            "tuupima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "помещать,поместить,размещать,разместить",
+                "weight": 0.7
+              },
+              {
+                "words": "умещать,помещать,поместить,вкладывать,вложить,уместить,размещать,разместить",
+                "weight": 0.7
+              },
+              {
+                "words": "совать,засовывать,втискивать,впихивать,пихать,запихивать,сунуть",
+                "weight": 0.7
+              },
+              {
+                "words": "втискивать,втиснуть,набивать,набить,забивать,забить,впихивать,впихнуть,заставлять,заставить",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "mettre,placer",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ставити,поставити,класти,покласти,розташовувати,розташувати,розміщати,розміщувати,розмістити",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(soojalt) riietama või (koos sõnaga <eki-foreign>end</eki-foreign>) riietuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Pakkisin end hommikumantlisse."
+          ],
+          "synonyms": [
+            "sisse pakkima",
+            "sisse mässima,sisse mähkima",
+            "riietama,rõivastama,riidesse panema",
+            "rõivastuma,riietuma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "кутать",
+                "weight": 1
+              },
+              {
+                "words": "закутывать",
+                "weight": 1
+              },
+              {
+                "words": "закутать",
+                "weight": 1
+              },
+              {
+                "words": "укутывать",
+                "weight": 1
+              },
+              {
+                "words": "укутать",
+                "weight": 1
+              },
+              {
+                "words": "закутываться",
+                "weight": 1
+              },
+              {
+                "words": "укутываться",
+                "weight": 1
+              },
+              {
+                "words": "укутаться",
+                "weight": 1
+              },
+              {
+                "words": "закутаться",
+                "weight": 1
+              },
+              {
+                "words": "кутаться",
+                "weight": 1
+              },
+              {
+                "words": "укутываться,укутаться,закутываться,закутаться,укутывать,закутывать,укутать,закутать",
+                "weight": 0.7
+              },
+              {
+                "words": "одеть,облачать,облачить,обряжать,обрядить,приодеваться,наряжать,нарядить,приодеться,одевать",
+                "weight": 0.7
+              },
+              {
+                "words": "обрядиться,обряжаться,облачиться,облачаться,одеться,одеваться,надеть,надевать,нарядиться,наряжаться",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "s'habiller",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "одягнутися,одягати,одягти,одягнути,одягатися,одягтися",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "andmeid sellisele kujule teisendama, et nad salvestusel või edastusel vähem ruumi võtavad",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Pakitud failid."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "упаковывать",
+                "weight": 1
+              },
+              {
+                "words": "упаковать",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(lume kohta:) kokku hakkama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Lumi pakkis hästi."
+          ],
+          "synonyms": [
+            "kokku hakkama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "лепиться",
+                "weight": 1
+              },
+              {
+                "words": "слепляться,слепиться,лепиться",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "riietuma",
+        "riietama",
+        "kokku hakkama",
+        "tuupima",
+        "toppima",
+        "mahutama",
+        "paigutama",
+        "pakendama",
+        "ära pakkima",
+        "ümber pakkima",
+        "välja pakkima",
+        "sisse pakkima",
+        "lahti pakkima",
+        "kaasa pakkima",
+        "kokku panema",
+        "köitma",
+        "sisse mässima",
+        "keerama",
+        "kokku siduma",
+        "lükkima",
+        "kokku pakkima",
+        "ümber panema",
+        "kinni",
+        "mähkima",
+        "leekima",
+        "leekima",
+        "sörkima",
+        "pookima",
+        "pookima",
+        "õlitama",
+        "sorteerima",
+        "hoiustama",
+        "surkima",
+        "ohkima",
+        "nuuskima",
+        "häkkima",
+        "mossitama",
+        "klõbistama",
+        "nokkima",
+        "plekkima",
+        "tükkima",
+        "krõbistama",
+        "hakkima",
+        "nöökima",
+        "pleekima",
+        "kopitama",
+        "näpistama",
+        "kohvitama",
+        "kelkima",
+        "koukima",
+        "sorkima",
+        "öökima",
+        "puskima",
+        "triikima",
+        "nühkima",
+        "lakkima",
+        "kallistama",
+        "lokkima",
+        "muukima",
+        "dokkima",
+        "kükkima",
+        "haakima",
+        "libistama",
+        "tikkima",
+        "pakitsema",
+        "solkima",
+        "kärutama",
+        "lonkima"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pakkima",
+      "translations": [
+        "compress",
+        "do up",
+        "pack",
+        "stack the deck (kaardipakki vm sohki tehes järjestama)",
+        "stow",
+        "wrap"
+      ]
+    }
+  ]
+}

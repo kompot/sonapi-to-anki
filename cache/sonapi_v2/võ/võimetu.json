@@ -1,0 +1,265 @@
+{
+  "requestedWord": "võimetu",
+  "estonianWord": "võimetu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "01",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "võimetu"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "võimetu"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "võimetut"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "võimetusse"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "võimetus"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "võimetust"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "võimetule"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "võimetul"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "võimetult"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "võimetuks"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "võimetuni"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "võimetuna"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "võimetuta"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "võimetuga"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "võimetud"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "võimetute"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "võimetuid"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "võimetutesse,võimetuisse"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "võimetutes,võimetuis"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "võimetutest,võimetuist"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "võimetutele,võimetuile"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "võimetutel,võimetuil"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "võimetutelt,võimetuilt"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "võimetuteks,võimetuiks"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "võimetuteni"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "võimetutena"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "võimetuteta"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "võimetutega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mitte võimeline midagi sooritama",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Kurbus on võimetu viha, et midagi ei saa muuta.",
+            "Töövõimetu."
+          ],
+          "synonyms": [
+            "jõuetu",
+            "teovõimetu,tegutsemisvõimetu,teojõuetu",
+            "suutmatu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "бессильный",
+                "weight": 1
+              },
+              {
+                "words": "беспомощный",
+                "weight": 1
+              },
+              {
+                "words": "неспособный",
+                "weight": 1
+              },
+              {
+                "words": "немощный,бессильный,слабосильный,расслабленный,слабый,малосильный,обессиленный,ослабевший,ослабелый,разбитый,истощённый,изнеможённый",
+                "weight": 0.9
+              },
+              {
+                "words": "неспособный к деятельности,недееспособный,неспособный к действию",
+                "weight": 0.607
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "suutmatu",
+        "nüri",
+        "tönts",
+        "jõuetu",
+        "võimeline",
+        "kõnevõimetu",
+        "suuteline",
+        "võimetus",
+        "vastutusvõimetu",
+        "liikumisvõimetu",
+        "töövõimetu",
+        "maksevõimetu",
+        "tahtevõimetu",
+        "otsustusvõimetu",
+        "tegutsemisvõimetu",
+        "sigimisvõimetu",
+        "võitlusvõimetu",
+        "eluvõimetu",
+        "teovõimetu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "võimetu",
+      "translations": [
+        "disabled",
+        "incapable",
+        "incapable of",
+        "unable"
+      ]
+    }
+  ]
+}

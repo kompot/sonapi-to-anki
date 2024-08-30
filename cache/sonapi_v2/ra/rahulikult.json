@@ -1,0 +1,131 @@
+{
+  "requestedWord": "rahulikult",
+  "estonianWord": "rahulikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "rahulikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Laps magas rahulikult."
+          ],
+          "synonyms": [
+            "segamatult,häirimatult"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "tranquillement",
+                "weight": 1
+              },
+              {
+                "words": "calmement",
+                "weight": 1
+              },
+              {
+                "words": "paisiblement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "спокойно",
+                "weight": 1
+              },
+              {
+                "words": "безмятежно",
+                "weight": 1
+              },
+              {
+                "words": "мирно",
+                "weight": 1
+              },
+              {
+                "words": "смирно",
+                "weight": 1
+              },
+              {
+                "words": "спокойно,невозмутимо,безмятежно,бестревожно",
+                "weight": 0.89
+              }
+            ],
+            "ukr": [
+              {
+                "words": "спокійно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "häirimatult",
+        "segamatult",
+        "rahumeeli",
+        "südamerahuga",
+        "rahumeelselt",
+        "vaikselt",
+        "vagus",
+        "vaikne",
+        "tasaselt",
+        "tasane",
+        "mugav",
+        "tasa",
+        "vagur",
+        "leplikult",
+        "vaguralt",
+        "vagusalt",
+        "tempokalt",
+        "mõistvalt",
+        "rahulik",
+        "rõõmsamalt",
+        "kainelt",
+        "andunult",
+        "tegusalt",
+        "sõbralikult",
+        "muretult",
+        "kannatlikult",
+        "ennatlikult",
+        "mõistlikult",
+        "rahulikumalt",
+        "rõõmsalt",
+        "normaalselt",
+        "õndsalt",
+        "kärsitult",
+        "asjalikult",
+        "närviliselt",
+        "kartlikult",
+        "rõõmsameelselt",
+        "rahutult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "rahulikult",
+      "translations": [
+        "calmly",
+        "peacefully"
+      ]
+    }
+  ]
+}

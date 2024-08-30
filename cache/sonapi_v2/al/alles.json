@@ -1,0 +1,439 @@
+{
+  "requestedWord": "alles",
+  "estonianWord": "alles",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "alles"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(endisest) säilinud, veel või endist viisi olemas,säilinud, (veel) olemas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pool leiba on söödud, pool on alles.",
+            "Pool kooki on söödud, aga pool on veel alles."
+          ],
+          "synonyms": [
+            "järel",
+            "järgi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "осталось",
+                "weight": 1
+              },
+              {
+                "words": "сохранилось",
+                "weight": 1
+              },
+              {
+                "words": "в сохранности",
+                "weight": 1
+              },
+              {
+                "words": "цел",
+                "weight": 1
+              },
+              {
+                "words": "цела",
+                "weight": 1
+              },
+              {
+                "words": "цело",
+                "weight": 1
+              },
+              {
+                "words": "целы",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "залишилося",
+                "weight": 1
+              },
+              {
+                "words": "лишилося",
+                "weight": 1
+              },
+              {
+                "words": "в цілості",
+                "weight": 1
+              },
+              {
+                "words": "збереглося",
+                "weight": 1
+              },
+              {
+                "words": "цілий",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "väga vähe aega tagasi, natukese aja eest,väga vähe aega tagasi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Täiesti uus maja, alles sai valmis.",
+            "Alles ostsin uue pastapliiatsi ja nüüd juba kadunud.",
+            "Hooaeg on alles alanud.",
+            "Ta alles saabus.",
+            "Mul pole kõht tühi, ma alles sõin."
+          ],
+          "synonyms": [
+            "nüüdsama",
+            "vast",
+            "äsja"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "recently",
+                "weight": 1
+              },
+              {
+                "words": "just",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "juste",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "недавно",
+                "weight": 1
+              },
+              {
+                "words": "совсем недавно",
+                "weight": 1
+              },
+              {
+                "words": "на днях",
+                "weight": 1
+              },
+              {
+                "words": "только",
+                "weight": 1
+              },
+              {
+                "words": "только что",
+                "weight": 1
+              },
+              {
+                "words": "только-только",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "недавно",
+                "weight": 1
+              },
+              {
+                "words": "зовсім недавно",
+                "weight": 1
+              },
+              {
+                "words": "тільки що",
+                "weight": 1
+              },
+              {
+                "words": "щойно",
+                "weight": 1
+              },
+              {
+                "words": "цими днями",
+                "weight": 1
+              },
+              {
+                "words": "на днях",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(osutab millegi kestmisele, pooleli-olekule:) (ikka) veel,(ikka) veel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mets on alles raagus.",
+            "Võistlus alles käib.",
+            "Ise alles algaja, aga mängib professionaali.",
+            "Uurimistöö on alles algusjärgus.",
+            "Võistlus alles käib.",
+            "Mul on töö alles pooleli."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "encore",
+                "weight": 1
+              },
+              {
+                "words": "toujours",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "ещё",
+                "weight": 1
+              },
+              {
+                "words": "все ещё",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ще",
+                "weight": 1
+              },
+              {
+                "words": "усе ще",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajalist vm järjekorda, järgnevust silmas pidades)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta on järjekorras alles kümnes.",
+            "Tagajärjed ilmnesid alles poole aasta pärast."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "ещё только",
+                "weight": 1
+              },
+              {
+                "words": "лишь",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(osutab tavalisest või oodatust hilisemale ajale:) mitte varem kui, mitte enne kui,tavalisest või oodatavast hiljem, mitte enne kui",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Alles nüüd taipas Jaak, milles asi.",
+            "Või tuleb pastor alles õhtuks?",
+            "Jõuan koju alles õhtul.",
+            "Alles nüüd sain ma tõe teada."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "seulement",
+                "weight": 1
+              },
+              {
+                "words": "ne ... que",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "только лишь",
+                "weight": 1
+              },
+              {
+                "words": "только",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тільки",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vähem, kui võiks arvata, mitte rohkem kui,vähem, kui võiks arvata",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kell on alles neli.",
+            "Olen alles viiskümmend lehekülge läbi lugenud.",
+            "Kell on alles kaks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "seulement",
+                "weight": 1
+              },
+              {
+                "words": "ne ... que",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "ещё только",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ще тільки",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(rõhutav üldlaiend:) esineb imestust, üllatust väljendavates hüüatustes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kus ta alles kirus vene värki!"
+          ],
+          "synonyms": [
+            "vast"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ну и",
+                "weight": 1
+              },
+              {
+                "words": "вот так",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "aga",
+        "aga",
+        "veelgi",
+        "just",
+        "paljalt",
+        "hiljaaegu",
+        "hiljuti",
+        "järgi",
+        "ennest",
+        "nüüdsama",
+        "üksnes",
+        "ikka",
+        "vaid",
+        "järel",
+        "järel",
+        "vast",
+        "kõigest",
+        "ennist",
+        "ainult",
+        "ammuks",
+        "äsja",
+        "kõigest kõike",
+        "parajasti",
+        "vastselt",
+        "veel",
+        "aina",
+        "vahest",
+        "alal",
+        "kaitsma",
+        "ellu jääma",
+        "alguses",
+        "taas",
+        "uuesti",
+        "peagi",
+        "juba",
+        "lõplikult",
+        "siiski",
+        "jälle",
+        "seal",
+        "ilmselt",
+        "hiljem",
+        "pärast",
+        "küll",
+        "küll",
+        "aasta-kaks",
+        "lõpuks",
+        "ikkagi",
+        "millalgi",
+        "kohe",
+        "kohe",
+        "varsti",
+        "nüüd",
+        "enne",
+        "enne",
+        "siis",
+        "aasta-paar",
+        "aastake"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "alles",
+      "translations": [
+        "only",
+        "yet"
+      ]
+    }
+  ]
+}

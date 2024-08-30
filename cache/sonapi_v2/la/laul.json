@@ -1,0 +1,586 @@
+{
+  "requestedWord": "laul",
+  "estonianWord": "laul",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "laul"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "laulu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "laulu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "laulu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "laulusse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "laulus"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "laulust"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "laulule"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "laulul"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "laulult"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "lauluks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "lauluni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "lauluna"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "lauluta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "lauluga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "laulud"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "laulude"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "laule,laulusid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "lauludesse,laulesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "lauludes,laules"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "lauludest,laulest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "lauludele,laulele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "lauludel,laulel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "lauludelt,laulelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "lauludeks,lauleks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "lauludeni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "lauludena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "lauludeta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "lauludega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "laulmine, inimese muusikaline eneseväljendus oma hääle abil",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tantsu ja laulu jagus varaste hommikutundideni.",
+            "Ta õppis muusikakoolis klassikalist laulu."
+          ],
+          "synonyms": [
+            "lõõritus",
+            "laulujorin,laulujoru",
+            "laulmine"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "пение",
+                "weight": 1
+              },
+              {
+                "words": "раскат,трель",
+                "weight": 0.7
+              },
+              {
+                "words": "пение",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "співання",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(laulu)lindude iseloomulik meloodiline häälitsemine,muusika moodi helid, mida lind teeb",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Linnuke muudkui laskis oma katkematut laulu.",
+            "Väljast kostab lindude laulu."
+          ],
+          "synonyms": [
+            "linnulaul",
+            "lõõritus",
+            "sidin,vidin",
+            "sirin"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "chant",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "пение птиц",
+                "weight": 1
+              },
+              {
+                "words": "птичье пение",
+                "weight": 1
+              },
+              {
+                "words": "раскат,трель",
+                "weight": 0.7
+              },
+              {
+                "words": "говор,щебетание,щебет,пересвист",
+                "weight": 0.7
+              },
+              {
+                "words": "треск,стрекот,стрекотня,щебет,чириканье,свиристение,верещание,цвириканье",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "спів",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kilkide, ritsikate vm putukate tekitatud helide kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kottpimedas Vahemere öös kostis ainult tsikaadide laul."
+          ],
+          "synonyms": [
+            "sirin"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "пение",
+                "weight": 1
+              },
+              {
+                "words": "стрекот",
+                "weight": 1
+              },
+              {
+                "words": "треск,стрекот,стрекотня,щебет,чириканье,свиристение,верещание,цвириканье",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(loodushäälte, rütmilise müra kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kuulasin lainete laulu.",
+            "Mootori undav laul."
+          ],
+          "synonyms": [
+            "müha,mühin"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "шум",
+                "weight": 1
+              },
+              {
+                "words": "роптание,ропот,гул,шум,рокот",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "see, mida lauldakse, laulmiseks kirjutatud või viisistatud pala,muusikaline pala sõnadega, mida lauldakse",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Rahvalikud laulud.",
+            "Korporandid laulsid isamaalisi laule.",
+            "Lemmiklaul.",
+            "Ansambel esitas kaks uut laulu.",
+            "Laulsime vanu häid laule."
+          ],
+          "synonyms": [
+            "lugu",
+            "laululugu"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "chanson",
+                "weight": 1
+              },
+              {
+                "words": "chant",
+                "weight": 1
+              },
+              {
+                "words": "chanson,morceau",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "песня",
+                "weight": 1
+              },
+              {
+                "words": "песнь",
+                "weight": 1
+              },
+              {
+                "words": "песня,мелодия,пьеса",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пісня",
+                "weight": 1
+              },
+              {
+                "words": "пісня",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "luuletus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Juhan Liivi laulud."
+          ],
+          "synonyms": [
+            "luuletus",
+            "poees",
+            "luulepala"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "песня",
+                "weight": 1
+              },
+              {
+                "words": "стихотворение,поэзия,стих",
+                "weight": 0.9
+              },
+              {
+                "words": "поэзия",
+                "weight": 0.9
+              },
+              {
+                "words": "небольшое стихотворное произведение,небольшое поэтическое произведение",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "poème,poésie",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вірш",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "poem",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "eepilise luuleteose (umbes peatükile vastav) osa",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Dante „Jumalik komöödia” koosneb 100 laulust."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "песнь",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(selle kohta, mida keegi räägib või ütleb)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ikka see vana laul: pole kuulnud, pole näinud.",
+            "Veel mõni aeg tagasi eitas ta suhet Erkiga, nüüd aga on kaunitaril hoopis teine laul."
+          ],
+          "synonyms": [
+            "joru",
+            "jutt",
+            "jaur,jaurang",
+            "jutujoru"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "песня",
+                "weight": 1
+              },
+              {
+                "words": "старая песня,песня,стара песня",
+                "weight": 0.9
+              },
+              {
+                "words": "разговор",
+                "weight": 0.9
+              },
+              {
+                "words": "переливание из пустого в порожнее,пустословие,пустая болтовня,околесица",
+                "weight": 0.7
+              },
+              {
+                "words": "нескончаемый разговор,бесконечный разговор,речь без начала и конца,разглагольствования",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "paroles,propos,discours",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "розмова",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sidin",
+        "jutujoru",
+        "jaur",
+        "müha",
+        "sirin",
+        "lõõritus",
+        "laulusalm",
+        "lugu",
+        "laululugu",
+        "laulujoru",
+        "leelo",
+        "leelo",
+        "salm",
+        "jutt",
+        "jutt",
+        "luuletus",
+        "joru",
+        "luulepala",
+        "poees",
+        "laulmine",
+        "meloodia",
+        "ühislaul",
+        "lembelaul",
+        "töölaul",
+        "pilalaul",
+        "armastuslaul",
+        "lemmiklaul",
+        "kosjalaul",
+        "rivilaul",
+        "võistluslaul",
+        "kõnelaul",
+        "leinalaul",
+        "kaebelaul",
+        "salmilaul",
+        "poplaul",
+        "soololaul",
+        "võitluslaul",
+        "unelaul",
+        "naljalaul",
+        "salm"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "laul",
+      "translations": [
+        "song"
+      ]
+    }
+  ]
+}

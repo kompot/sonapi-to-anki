@@ -1,0 +1,176 @@
+{
+  "requestedWord": "tagurpidi",
+  "estonianWord": "tagurpidi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tagurpidi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selg, tagumine pool ees, tagasisuunas,tavapärasele liikumisele vastupidises suunas,selg või tagumine pool ees",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mõned lapsed hakkavad roomama tagurpidi.",
+            "Ajasin auto garaaži tagurpidi.",
+            "Tagurpidi salto.",
+            "Torm pani Pirita jõe tagurpidi voolama.",
+            "Kõndisin tagurpidi, et tuul näkku ei puhuks.",
+            "Ma ei oska tagurpidi parkida."
+          ],
+          "synonyms": [
+            "tagaspidi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "задом",
+                "weight": 1
+              },
+              {
+                "words": "наоборот",
+                "weight": 1
+              },
+              {
+                "words": "задом наперёд",
+                "weight": 1
+              },
+              {
+                "words": "спиной",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "задом",
+                "weight": 1
+              },
+              {
+                "words": "задки",
+                "weight": 1
+              },
+              {
+                "words": "задом наперед",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tavapärasele asendile, olekule vastupidi, seetõttu (mingis mõttes) valesti,normaalsele asendile vastupidi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tal on raamat tagurpidi käes.",
+            "Mõned sõnad olid kirjutatud tagurpidi.",
+            "Teie jutus kumab läbi tagurpidi loogika.",
+            "Tal on raamat tagurpidi käes.",
+            "Tüdruk pani kleidi tagurpidi selga."
+          ],
+          "synonyms": [
+            "pärapidi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "à l'envers",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "задом наперёд",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "задом наперед",
+                "weight": 1
+              },
+              {
+                "words": "догори ногами",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(riietuseseme, kanga vm kohta:) tagaosa ees või sisemine pool väljaspool",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Müts tagurpidi peas.",
+            "Tagurpidi laotatud vaip."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "pahupidi",
+        "tagaspidi",
+        "vastupidiselt",
+        "vastuoksa",
+        "äraspidi",
+        "nuripidi",
+        "pahempidi",
+        "taatsi",
+        "vastukarva",
+        "teisipidi",
+        "vastupidi",
+        "valepidi",
+        "selgapidi",
+        "liuglema",
+        "ümber",
+        "nööripidi",
+        "tagurpidikäik",
+        "kummuli",
+        "nurkapidi",
+        "poolkülili",
+        "tagurpidine",
+        "tagurdama",
+        "ülespidi",
+        "külili",
+        "kaardu",
+        "õigetpidi",
+        "ringiratast",
+        "päripidi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tagurpidi",
+      "translations": [
+        "backwards",
+        "contrariwise",
+        "upside down",
+        "widdershins"
+      ]
+    }
+  ]
+}

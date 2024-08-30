@@ -1,0 +1,136 @@
+{
+  "requestedWord": "kulul",
+  "estonianWord": "kulul",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kulul"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi rahadega, kellegi ülalpidamisel,kellegi rahadega",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Loodab teiste kulul elada ja edasi jõuda.",
+            "Kodutu maeti riigi kulul.",
+            "Madis on juba täiskasvanud mees, aga elab ikka vanemate kulul.",
+            "Kodutu naine maeti riigi kulul."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "à la charge",
+                "weight": 1
+              },
+              {
+                "words": "aux frais",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "за счёт",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за рахунок",
+                "weight": 1
+              },
+              {
+                "words": "коштом",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi huve kahjustades, kedagi või midagi mingis suhtes piirates",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Ajas rahva kulul suure varanduse kokku.",
+            "Tahtis teiste kulul oma nahka päästa."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "за счёт",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kedagi või midagi pilgates",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Tema kulul tehti halba nalja.",
+            "Teravmeelitses oma taipamatu kaaslase kulul."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на счёт",
+                "weight": 1
+              },
+              {
+                "words": "над",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "parasiitlikult",
+        "elatuma",
+        "kulu ja kirjadega",
+        "arvel",
+        "heitma",
+        "kululiik",
+        "kuluaar",
+        "maksumaksja",
+        "kulud",
+        "kulu",
+        "kulu",
+        "kulu",
+        "kulu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kulul",
+      "translations": []
+    }
+  ]
+}

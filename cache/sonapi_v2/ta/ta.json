@@ -1,0 +1,583 @@
+{
+  "requestedWord": "ta",
+  "estonianWord": "ta",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "00",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "ta"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "ta"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "teda"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "tasse"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "tas"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "tast"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "talle"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "tal"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "talt"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "taga"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "nad"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "nende"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "neid"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "neisse"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "neis"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "neist"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "neile"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "neil"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "neilt"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "neiks"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "-"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab inimesele, kes ei ole kõneleja ega kuulaja,tähistab isikut, kes ei ole kõneleja ega kuulaja",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Ta pole mingi nohik.",
+            "Tal sündis poeg.",
+            "Tal on kolm õde.",
+            "Mõtlen talle tihti."
+          ],
+          "synonyms": [
+            "tema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "он",
+                "weight": 1
+              },
+              {
+                "words": "она",
+                "weight": 1
+              },
+              {
+                "words": "оно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "він",
+                "weight": 1
+              },
+              {
+                "words": "вона",
+                "weight": 1
+              },
+              {
+                "words": "воно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab varem mainitud (või mainitavale) esemele, nähtusele, olukorrale",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Palk palgaks, väike on ta küll.",
+            "Tuul suunab mind, ta surub mind mere äärest metsa."
+          ],
+          "synonyms": [
+            "tema"
+          ],
+          "translations": {}
+        },
+        {
+          "definition": "osutab esimesena mainitule",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "See riie meenutab lavsaani, aga ta on sellest paksem."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(ebamäärasema osutusega või täitesõnana)",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Eks ta ole.",
+            "Mis ta ikka, alati on hea meel, kui kiidetakse."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "tema",
+        "see",
+        "km",
+        "dr",
+        "et",
+        "et",
+        "sa",
+        "Ta",
+        "ei",
+        "ei",
+        "ka",
+        "y",
+        "y",
+        "te",
+        "I",
+        "me",
+        "ma",
+        "ja",
+        "ju",
+        "me"
+      ]
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "hallikas hästi töödeldav metall, keemiline element järjenumbriga 73",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [
+            "tantaal"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "Та",
+                "weight": 1
+              },
+              {
+                "words": "тантал",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ta",
+        "et",
+        "et",
+        "ei",
+        "ei",
+        "lk",
+        "ka",
+        "I",
+        "b",
+        "b",
+        "ma",
+        "ja"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "26",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "TA"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "TA"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "TA-d"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "TA"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "TA-sse"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "TA-s"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "TA-st"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "TA-le"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "TA-l"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "TA-lt"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "TA-ks"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "TA-ni"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "TA-na"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "TA-ta"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "TA-ga"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "TA-d"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "TA-de"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "TA-sid"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "TA-desse"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "TA-des"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "TA-dest"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "TA-dele"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "TA-del"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "TA-delt"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "TA-deks"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "TA-deni"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "TA-dena"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "TA-deta"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "TA-dega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "süstemaatiline teaduslik ja uuenduslik tegevus, mis aitab suurendada teadmiste hulka ning kasutada neid teadmisi uute rakendusalade leidmiseks (hrl alusuuringud, rakendusuuringud või eksperimentaalarendus)",
+          "partOfSpeech": [],
+          "examples": [
+            "Teadus- ja arendustegevus (TA) toimib Eesti ühiskonna ja majanduse huvides."
+          ],
+          "synonyms": [
+            "teadus- ja arendustegevus",
+            "T&A"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "research and development",
+                "weight": 1
+              },
+              {
+                "words": "R&D",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "исследования и разработки",
+                "weight": 1
+              },
+              {
+                "words": "научные исследования и разработки",
+                "weight": 1
+              },
+              {
+                "words": "научно-исследовательские и опытно-конструкторские работы",
+                "weight": 1
+              },
+              {
+                "words": "НИОКР",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ta",
+      "translations": [
+        "he",
+        "He",
+        "he or she",
+        "she (naissoost)"
+      ]
+    }
+  ]
+}

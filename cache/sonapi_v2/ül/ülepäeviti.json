@@ -1,0 +1,71 @@
+{
+  "requestedWord": "ülepäeviti",
+  "estonianWord": "ülepäeviti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ülepäeviti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "üle päeva, igal teisel päeval",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Seni käis Moskva rong ülepäeviti, nüüd igal päeval."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "через день",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kolmapäeviti",
+        "pissil",
+        "reedeti",
+        "äripäeviti",
+        "tööpäeviti",
+        "puhkepäeviti",
+        "laupäeviti",
+        "argipäeviti",
+        "õhtuti",
+        "hommikuti",
+        "pühapäeviti",
+        "rühmatund",
+        "laupäevaõhtuti",
+        "neljapäeviti",
+        "teisipäeviti",
+        "esmaspäeviti",
+        "päeviti"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ülepäeviti",
+      "translations": [
+        "every other day"
+      ]
+    }
+  ]
+}

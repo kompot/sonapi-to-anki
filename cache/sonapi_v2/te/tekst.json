@@ -1,0 +1,404 @@
+{
+  "requestedWord": "tekst",
+  "estonianWord": "tekst",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "tekst"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "teksti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "teksti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "teksti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "tekstisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "tekstis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "tekstist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "tekstile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "tekstil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "tekstilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "tekstiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "tekstini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "tekstina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "tekstita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "tekstiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "tekstid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "tekstide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "tekste,tekstisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "tekstidesse,tekstesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "tekstides,tekstes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "tekstidest,tekstest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "tekstidele,tekstele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "tekstidel,tekstel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "tekstidelt,tekstelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "tekstideks,teksteks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "tekstideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "tekstidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "tekstideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "tekstidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kirjutatud või trükitud sõnade hrl mõtestatud järjend,kirjutatud või (näiteks raamatus, ajalehes või ajakirjas) trükitud sõnad",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ma ei näe teksti lugeda.",
+            "Mees lasi silmadel üle teksti libiseda.",
+            "Raamatus oli vähe teksti ja palju pilte.",
+            "Ta uurib vanu tekste."
+          ],
+          "synonyms": [
+            "kirjutatu",
+            "kiri"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "texte",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "текст",
+                "weight": 1
+              },
+              {
+                "words": "слова",
+                "weight": 1
+              },
+              {
+                "words": "текстовой материал",
+                "weight": 1
+              },
+              {
+                "words": "написанное",
+                "weight": 0.7
+              },
+              {
+                "words": "надпись",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "текст",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kirjutis, trükis (nt raamat, artikkel),viimase kirjutatud osa",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Siin asub araabia maailma vanim ning arvukam iidsete tekstide kogu.",
+            "Raamatu tekst vaheldus piltide ja tabelitega."
+          ],
+          "synonyms": [
+            "trükis,trükitoode",
+            "kirjutis",
+            "rmt,raamat",
+            "kiri"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "текст",
+                "weight": 1
+              },
+              {
+                "words": "печатное произведение,печатное издание,произведение печати",
+                "weight": 0.7
+              },
+              {
+                "words": "публикация,заметка,опус,статья,сочинение",
+                "weight": 0.7
+              },
+              {
+                "words": "книга,книжонка,книжка,книжечка",
+                "weight": 0.7
+              },
+              {
+                "words": "надпись",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "écrit,texte",
+                "weight": 0.7
+              },
+              {
+                "words": "livre",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "стаття,публікація,замітка,твір",
+                "weight": 0.7
+              },
+              {
+                "words": "книга,книжка",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "book",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "lavateose sõnaline osa,laulu vm vokaalteose sõnad",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Näitlejal läks tekst meelest."
+          ],
+          "synonyms": [
+            "sõnad"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "текст",
+                "weight": 1
+              },
+              {
+                "words": "слова,текст",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "keelelise suhtluse suurim sidusat tervikut moodustav üksus,info mittekeeleline esitis (nt fotodest või filmidest kujunev sidus tervik)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kirjalik tekst.",
+            "Suuline tekst.",
+            "Pilttekst."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "текст",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "raamat",
+        "trükis",
+        "kirjutis",
+        "kirjutatu",
+        "kiri",
+        "sõnad",
+        "tarbetekst",
+        "terviktekst",
+        "kaastekst",
+        "alustekst",
+        "tõlketekst",
+        "reklaamtekst",
+        "saatetekst",
+        "teatritekst",
+        "täistekst",
+        "teletekst",
+        "lähtetekst",
+        "originaaltekst",
+        "alltekst",
+        "proosatekst",
+        "lõpptekst",
+        "tüvitekst",
+        "laulutekst",
+        "teadustekst",
+        "põhitekst",
+        "algtekst",
+        "luuletekst",
+        "värsstekst"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tekst",
+      "translations": [
+        "text",
+        "(laialt levinud) vulgate"
+      ]
+    }
+  ]
+}

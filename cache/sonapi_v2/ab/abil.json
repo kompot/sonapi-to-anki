@@ -1,0 +1,91 @@
+{
+  "requestedWord": "abil",
+  "estonianWord": "abil",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "abil"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "midagi kasutades või appi võttes, millegi vahendusel, millegagi,kellegi või millegi abiga, midagi kasutades",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Teadlased uurivad satelliitide abil rannikuvett.",
+            "Tehase toodang valmib kaasaegse tehnoloogia abil.",
+            "Ingliskeelset kirjandust loeb ta sõnaraamatu abil.",
+            "Ostsime uue maja laenu abil."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "par",
+                "weight": 1
+              },
+              {
+                "words": "grâce à",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "с помощью",
+                "weight": 1
+              },
+              {
+                "words": "при помощи",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за допомогою",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "toel",
+        "väel",
+        "jõul",
+        "vahendusel",
+        "najal",
+        "toetusel",
+        "varal",
+        "kaudu",
+        "teel",
+        "vaheltharimine",
+        "käigus",
+        "kaasabil"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "abil",
+      "translations": [
+        "by dint of",
+        "by means of",
+        "by the agency of"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,660 @@
+{
+  "requestedWord": "klapp",
+  "estonianWord": "klapp",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "klapp"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "klapi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "klappi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "klappi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "klapisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "klapis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "klapist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "klapile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "klapil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "klapilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "klapiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "klapini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "klapina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "klapita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "klapiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "klapid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "klappide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "klappe,klappisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "klappidesse,klapesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "klappides,klapes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "klappidest,klapest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "klappidele,klapele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "klappidel,klapel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "klappidelt,klapelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "klappideks,klapeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "klappideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "klappidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "klappideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "klappidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingi eseme üht serva pidi kinnitatud liikuv osa, seadis hrl mingi ava katteks",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kongiukse klapp avati.",
+            "Klapiga tasku."
+          ],
+          "synonyms": [
+            "lakk"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "клапан",
+                "weight": 1
+              },
+              {
+                "words": "козырёк,клапан",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "seade masinas või torustikus auru, vedeliku või gaasi läbipääsu reguleerimiseks",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Klapid sulguvad automaatselt seadme väljalülitamisel."
+          ],
+          "synonyms": [
+            "siiber"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "клапан",
+                "weight": 1
+              },
+              {
+                "words": "золотник",
+                "weight": 0.75
+              }
+            ]
+          }
+        },
+        {
+          "definition": "pillikeres olevat ava sulgev ja avav mehhanismiosa puhkpillil",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kuueteistkümne klapiga klarnet."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "клапан",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kõrvaklappide või nende ühe kõrvaosa kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Käin hommikuti jooksmas, klapid peas ja lemmikmuusika kõrvus kõlamas.",
+            "Kui kõrvaklapisõltlased ei suuda tänaval ilma klappideta olla, siis kasutagu ainult üht klappi ja jätku teine kõrv vabaks – nii kuulevad ka seda, mis ümberringi toimub."
+          ],
+          "synonyms": [
+            "kõrvaklapp",
+            "kõrvaklapid,kuuldeklapid"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "наушники",
+                "weight": 1
+              },
+              {
+                "words": "наушник",
+                "weight": 0.7
+              },
+              {
+                "words": "наушники",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "écouteurs,oreillettes",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "навушники",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "headphones",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vere tagasivoolamist takistav õhuke kilejas siseseina kurd veresoontes",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "veeniklapp"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "венозный клапан",
+                "weight": 1
+              },
+              {
+                "words": "клапан вены",
+                "weight": 1
+              },
+              {
+                "words": "клапан",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "veeniklapp",
+        "tuulutusklapp",
+        "taskuklapp",
+        "taldrikklapp",
+        "tahmaklapp",
+        "tagasilöögiklapp",
+        "südameklapp",
+        "surveklapp",
+        "sulgeklapp",
+        "silmaklapp",
+        "seguklapp",
+        "rõngasklapp",
+        "reduktsiooniklapp",
+        "pöördklapp",
+        "pingiklapp",
+        "liugklapp",
+        "lauaklapp",
+        "kolviklapp",
+        "kiirendusklapp",
+        "imiklapp",
+        "automaatklapp",
+        "kõrvaklapp",
+        "siiber",
+        "ventiil",
+        "pelt",
+        "klapivedru",
+        "kaitseklapp",
+        "klapplaud",
+        "klapphöövel",
+        "õhuklapp",
+        "sidur",
+        "mitraalklapp",
+        "klappuks",
+        "väljalaskeklapp",
+        "harmoonia",
+        "sobimus",
+        "kooskõla",
+        "tasakaal"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "klapp"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "klapi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "klappi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "klappi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "klapisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "klapis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "klapist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "klapile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "klapil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "klapilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "klapiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "klapini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "klapina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "klapita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "klapiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "klapid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "klappide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "klappe,klappisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "klappidesse,klapesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "klappides,klapes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "klappidest,klapest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "klappidele,klapele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "klappidel,klapel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "klappidelt,klapelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "klappideks,klapeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "klappideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "klappidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "klappideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "klappidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(kokku)sobimine, kooskõla",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Bändimeeste omavaheline klapp oli nauditav.",
+            "Meeskonna ja treeneri suurepärane klapp.",
+            "Igaühega lihtsalt ei teki õiget klappi."
+          ],
+          "synonyms": [
+            "harmoonia,kooskõla",
+            "sobivus",
+            "läbisaamine",
+            "tasakaal,balanss"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "лад",
+                "weight": 1
+              },
+              {
+                "words": "согласие,гармония,соответствие,согласованность,сочетание",
+                "weight": 0.9
+              },
+              {
+                "words": "соответствие,уместность,сообразность",
+                "weight": 0.7
+              },
+              {
+                "words": "взаимоотношения",
+                "weight": 0.7
+              },
+              {
+                "words": "равновесие,баланс,равное соотношение",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "злагода,гармонія",
+                "weight": 0.9
+              },
+              {
+                "words": "рівновага",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "équilibre",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "läbisaamine",
+        "sobivus",
+        "harmoonia",
+        "sobimus",
+        "kooskõla",
+        "tasakaal",
+        "siiber",
+        "ventiil",
+        "pelt",
+        "klapivedru",
+        "kaitseklapp",
+        "klapplaud",
+        "klapphöövel",
+        "õhuklapp",
+        "sidur",
+        "mitraalklapp",
+        "klappuks",
+        "väljalaskeklapp"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "klapp",
+      "translations": [
+        "fit",
+        "flap",
+        "valve"
+      ]
+    }
+  ]
+}

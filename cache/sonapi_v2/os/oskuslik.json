@@ -1,0 +1,522 @@
+{
+  "requestedWord": "oskuslik",
+  "estonianWord": "oskuslik",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "25",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "oskuslik"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "oskusliku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "oskuslikku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "oskuslikku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "oskuslikusse"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "oskuslikus"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "oskuslikust"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "oskuslikule"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "oskuslikul"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "oskuslikult"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "oskuslikuks"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "oskuslikuni"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "oskuslikuna"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "oskuslikuta"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "oskuslikuga"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "oskuslikud"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "oskuslike,oskuslikkude"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "oskuslikke,oskuslikkusid"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "oskuslikesse,oskuslikkudesse"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "oskuslikes,oskuslikkudes"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "oskuslikest,oskuslikkudest"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "oskuslikele,oskuslikkudele"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "oskuslikel,oskuslikkudel"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "oskuslikelt,oskuslikkudelt"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "oskuslikeks,oskuslikkudeks"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "oskuslikeni,oskuslikkudeni"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "oskuslikena,oskuslikkudena"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "oskusliketa,oskuslikkudeta"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "oskuslikega,oskuslikkudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vilumust, oskust omav või ilmutav, teadmisi võimekalt kasutav,teadlik, kiire ja õigeaegne",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Oskusliku juhtimisega teeb härg head tööd.",
+            "Mehe kiire ja oskuslik tegutsemine päästis autos olnud inimese kindlast surmast."
+          ],
+          "synonyms": [
+            "oskaja",
+            "meisterlik,taidurlik",
+            "vilunud",
+            "õppinud",
+            "kompetentne,asjatundlik,pädev",
+            "artistlik",
+            "virtuoosne,virtuooslik",
+            "väljaõppinud",
+            "kogenenud,kogenud",
+            "andeline,anderikas,andekas",
+            "heatasemeline",
+            "esmajärguline",
+            "esmaklassiline",
+            "maailmaklassiline",
+            "kõrgeklassiline",
+            "viimase peal",
+            "lahtiste kätega,lahtise käega",
+            "kuldsete kätega",
+            "asjatundja",
+            "osavnäpp,osavkäpp",
+            "kõrgetasemeline",
+            "spets,eriline,spets,spetsiaalne,spetsiaal",
+            "teadja",
+            "professionaalne,proff",
+            "kibe",
+            "peenikene,peen,peenike",
+            "osav",
+            "osav"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ловкий",
+                "weight": 1
+              },
+              {
+                "words": "проворный",
+                "weight": 1
+              },
+              {
+                "words": "расторопный",
+                "weight": 1
+              },
+              {
+                "words": "юркий",
+                "weight": 1
+              },
+              {
+                "words": "увёртливый",
+                "weight": 1
+              },
+              {
+                "words": "изворотливый",
+                "weight": 1
+              },
+              {
+                "words": "оборотливый",
+                "weight": 1
+              },
+              {
+                "words": "сноровистый",
+                "weight": 1
+              },
+              {
+                "words": "умелый",
+                "weight": 1
+              },
+              {
+                "words": "опытный",
+                "weight": 1
+              },
+              {
+                "words": "мастерский",
+                "weight": 1
+              },
+              {
+                "words": "мастерской",
+                "weight": 1
+              },
+              {
+                "words": "грамотный",
+                "weight": 1
+              },
+              {
+                "words": "искусный",
+                "weight": 1
+              },
+              {
+                "words": "знающий своё дело",
+                "weight": 1
+              },
+              {
+                "words": "мастерской,мастерский,артистический,искусный,виртуозный,умелый",
+                "weight": 0.9
+              },
+              {
+                "words": "опытный",
+                "weight": 0.9
+              },
+              {
+                "words": "обученный",
+                "weight": 0.9
+              },
+              {
+                "words": "компетентный,сведущий,осведомлённый,знающий",
+                "weight": 0.9
+              },
+              {
+                "words": "артистический,артистичный,искусный,виртуозный",
+                "weight": 0.8
+              },
+              {
+                "words": "мастерский,художнический,мастерской,виртуозный",
+                "weight": 0.7
+              },
+              {
+                "words": "подготовлен,обученный",
+                "weight": 0.6
+              },
+              {
+                "words": "опытный,искушённый",
+                "weight": 0.75
+              },
+              {
+                "words": "даровитый,способный,талантливый,одарённый",
+                "weight": 0.488
+              },
+              {
+                "words": "классный,качественный,мастерской,выполненный на высоком уровне",
+                "weight": 0.42
+              },
+              {
+                "words": "первоочередной,первичный,первенствующий,первейший,первоклассный,перворазрядный,первостатейный,первостепенный",
+                "weight": 0.42
+              },
+              {
+                "words": "первосортный,перворазрядный,первостатейный,первоклассный,классный",
+                "weight": 0.42
+              },
+              {
+                "words": "международного класса,высшего класса,мирового класса",
+                "weight": 0.42
+              },
+              {
+                "words": "высшего класса",
+                "weight": 0.42
+              },
+              {
+                "words": "мастер на все руки",
+                "weight": 0.7
+              },
+              {
+                "words": "сведущий,знающий,компетентный",
+                "weight": 0.9
+              },
+              {
+                "words": "искусник,искусница,артист,мастер,мастерица,умелец,мастак",
+                "weight": 0.654
+              },
+              {
+                "words": "высококлассный,на высоком уровне",
+                "weight": 0.7
+              },
+              {
+                "words": "особый,специальный",
+                "weight": 0.9
+              },
+              {
+                "words": "осведомлённый,знающий,компетентный,сведущий",
+                "weight": 0.76
+              },
+              {
+                "words": "профессиональный,мастерской,умелый,мастерский",
+                "weight": 0.9
+              },
+              {
+                "words": "заядлый,страстный",
+                "weight": 0.7
+              },
+              {
+                "words": "тонкий",
+                "weight": 0.7
+              },
+              {
+                "words": "искусный,расторопный,проворный,ловкий,умелый",
+                "weight": 0.9
+              },
+              {
+                "words": "сноровистый,оборотливый,изворотливый,увёртливый,юркий,расторопный,проворный,искусный,умелый,ловкий",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "expérimenté",
+                "weight": 0.75
+              },
+              {
+                "words": "doué,talentueux",
+                "weight": 0.488
+              },
+              {
+                "words": "spécifique,spécial",
+                "weight": 0.9
+              },
+              {
+                "words": "professionnel",
+                "weight": 0.9
+              },
+              {
+                "words": "habile",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "досвідчений",
+                "weight": 0.75
+              },
+              {
+                "words": "талановитий,здібний,обдарований",
+                "weight": 0.488
+              },
+              {
+                "words": "спеціальний,особливий",
+                "weight": 0.9
+              },
+              {
+                "words": "професійний,професіональний,фаховий",
+                "weight": 0.9
+              },
+              {
+                "words": "майстерний,вправний,умілий",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "experienced",
+                "weight": 0.75
+              },
+              {
+                "words": "talented",
+                "weight": 0.488
+              },
+              {
+                "words": "professional",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "peenike",
+        "kibe",
+        "vilunud",
+        "asjatundlikult",
+        "meisterlik",
+        "täiuslik",
+        "virtuoosne",
+        "oskaja",
+        "asjatundja",
+        "artistlikult",
+        "osavasti",
+        "oskuslikult",
+        "kompetentne",
+        "jumalikult",
+        "pädev",
+        "väljaõppinud",
+        "spets",
+        "õppinud",
+        "toredasti",
+        "teadjalt",
+        "professionaalne",
+        "virtuooslik",
+        "artistlik",
+        "meisterlikult",
+        "suurepäraselt",
+        "asjatundlik",
+        "osavalt",
+        "osav",
+        "hiilgavalt",
+        "jõulisus",
+        "eesmärgipärane",
+        "tahtejõuline",
+        "professionaalsus",
+        "tasakaalukas",
+        "turunduslik",
+        "vaistlik",
+        "kuluefektiivne",
+        "asjatundlikkus",
+        "kogemuslik",
+        "tegevuslik",
+        "osavus",
+        "leidlik",
+        "oskustöö",
+        "tulemuslik",
+        "sihipärane",
+        "sihikindel",
+        "enesekriitiline",
+        "kavakindel",
+        "taktitundeline",
+        "kindlakäeline",
+        "eesmärgikindel",
+        "tundmuslik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "oskuslik",
+      "translations": [
+        "natty",
+        "nifty",
+        "skilled",
+        "skillful",
+        "sure-handed"
+      ]
+    }
+  ]
+}

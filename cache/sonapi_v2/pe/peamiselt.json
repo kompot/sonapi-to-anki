@@ -1,0 +1,180 @@
+{
+  "requestedWord": "peamiselt",
+  "estonianWord": "peamiselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "peamiselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "valdava asjana, suuremalt jaolt, enamikul juhtudel,enamikul juhtudel, enamasti,valdavalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Joodi peamiselt õlut ja veini.",
+            "Jalg valutab peamiselt öösel.",
+            "Eestis püsib peamiselt kuiv ja kuum ilm.",
+            "Hotellis ööbivad peamiselt turistid.",
+            "Vabal ajal tegelen peamiselt lugemisega."
+          ],
+          "synonyms": [
+            "peaasjalikult",
+            "pms",
+            "põhiliselt",
+            "põhimiselt",
+            "eelkõige,eeskätt,eestkätt,ennekõike,esijoones,esmajoones,ennekõige",
+            "rõhuvalt,valdavalt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "principalement",
+                "weight": 1
+              },
+              {
+                "words": "surtout,principalement,avant tout",
+                "weight": 0.7897
+              },
+              {
+                "words": "essentiellement,principalement",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "главным образом",
+                "weight": 1
+              },
+              {
+                "words": "преимущественно",
+                "weight": 1
+              },
+              {
+                "words": "прежде всего",
+                "weight": 1
+              },
+              {
+                "words": "по преимуществу",
+                "weight": 1
+              },
+              {
+                "words": "коренным образом",
+                "weight": 1
+              },
+              {
+                "words": "в осн.",
+                "weight": 1
+              },
+              {
+                "words": "в основном",
+                "weight": 1
+              },
+              {
+                "words": "в первую очередь,прежде всего,главным образом,преимущественно,по преимуществу,первым делом,первым долгом,перво-наперво",
+                "weight": 0.7897
+              },
+              {
+                "words": "главным образом,преимущественно,в основном,в большинстве случаев",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "переважно",
+                "weight": 1
+              },
+              {
+                "words": "здебільшого",
+                "weight": 1
+              },
+              {
+                "words": "головним чином",
+                "weight": 1
+              },
+              {
+                "words": "головно",
+                "weight": 1
+              },
+              {
+                "words": "в основному",
+                "weight": 1
+              },
+              {
+                "words": "насамперед,передусім,найперше,перш за все",
+                "weight": 0.7897
+              },
+              {
+                "words": "здебільшого,переважно,головним чином,в основному",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "first and foremost",
+                "weight": 0.7897
+              },
+              {
+                "words": "predominantly,mainly",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "põhimiselt",
+        "eeskätt",
+        "põhiliselt",
+        "ennekõike",
+        "eriti",
+        "enamasti",
+        "esmajoones",
+        "peaasjalikult",
+        "kõige enam",
+        "eelkõige",
+        "kõigepealt",
+        "enamjaolt",
+        "põhiline",
+        "peamine",
+        "oluliselt",
+        "esijoones",
+        "tihti",
+        "väheselt",
+        "suuresti",
+        "samuti",
+        "üldiselt",
+        "valdavalt",
+        "pigem",
+        "sageli",
+        "siiski"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "peamiselt",
+      "translations": [
+        "chiefly",
+        "mainly",
+        "primarily",
+        "primely",
+        "principally"
+      ]
+    }
+  ]
+}

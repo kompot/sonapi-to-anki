@@ -1,0 +1,55 @@
+{
+  "requestedWord": "kodunt",
+  "estonianWord": "kodunt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kodunt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kodust (ära, välja, eemal)",
+          "partOfSpeech": [
+            {
+              "code": "vrm",
+              "value": "muutevorm (ambivorm, määramata)"
+            }
+          ],
+          "examples": [
+            "Filmivõtetega oli Anna kodunt eemal pool aastat.",
+            "Kui lapsed kodunt ära kolisid, muutus ämm nende juttudes lugudeks.",
+            "Ähvardas sadama hakata ja ta võttis kodunt vihmavarju kaasa – see oli suur, eelajalooline, luitunud ega olnud kokkupandav, käies võis sellele nagu kepile toetuda."
+          ],
+          "synonyms": [
+            "kottu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "из дома",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kodunt",
+      "translations": []
+    }
+  ]
+}

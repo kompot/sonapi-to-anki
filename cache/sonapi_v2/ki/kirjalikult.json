@@ -1,0 +1,106 @@
+{
+  "requestedWord": "kirjalikult",
+  "estonianWord": "kirjalikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kirjalikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kirjutatud kujul, suulise vahenduseta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Taotlus esitage kirjalikult."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "par écrit",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "письменно",
+                "weight": 1
+              },
+              {
+                "words": "в письменной форме",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "письмово",
+                "weight": 1
+              },
+              {
+                "words": "у письмовій формі",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "maha tegema",
+        "suuliselt",
+        "läbi ratsutama",
+        "piitsutama",
+        "peatuma",
+        "sarjama",
+        "maha tampima",
+        "materdama",
+        "käsitlema",
+        "nahutama",
+        "kõne alla võtma",
+        "sakutama",
+        "kirjutama",
+        "arvustama",
+        "sagima",
+        "libistama",
+        "arutama",
+        "särutama",
+        "pihta andma",
+        "rääkima",
+        "trakteerima",
+        "kritiseerima",
+        "vaatlema",
+        "riivama",
+        "arutusele võtma",
+        "sugema",
+        "puudutama",
+        "rooskama",
+        "silmakirjalikult",
+        "lihtkirjalik",
+        "kirjalik",
+        "lillkirjaline"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kirjalikult",
+      "translations": [
+        "in writing"
+      ]
+    }
+  ]
+}

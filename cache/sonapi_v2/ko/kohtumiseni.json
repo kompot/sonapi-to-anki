@@ -1,0 +1,106 @@
+{
+  "requestedWord": "kohtumiseni",
+  "estonianWord": "kohtumiseni",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kohtumiseni"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "lahkumisel öeldav sõna (kui eeldatakse, et kohtutakse jälle),sõna, mida sa ütled, kui lahkud kellestki ja eeldad, et te kohtute jälle",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "Kohtumiseni Otepääl!",
+            "Peatse kohtumiseni!",
+            "Rõõmsa kohtumiseni!"
+          ],
+          "synonyms": [
+            "jällenägemiseni",
+            "prassai"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "see you",
+                "weight": 1
+              },
+              {
+                "words": "see you later",
+                "weight": 1
+              },
+              {
+                "words": "goodbye",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "à bientôt",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "до встречи",
+                "weight": 1
+              },
+              {
+                "words": "до свидания",
+                "weight": 1
+              },
+              {
+                "words": "до свиданья",
+                "weight": 1
+              },
+              {
+                "words": "увидимся",
+                "weight": 1
+              },
+              {
+                "words": "прощай",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до зустрічі",
+                "weight": 1
+              },
+              {
+                "words": "до побачення",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "nägemiseni"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kohtumiseni",
+      "translations": [
+        "so long"
+      ]
+    }
+  ]
+}

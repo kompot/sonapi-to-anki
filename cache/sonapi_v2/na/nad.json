@@ -1,0 +1,267 @@
+{
+  "requestedWord": "nad",
+  "estonianWord": "nad",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "00",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "ta"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "ta"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "teda"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "tasse"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "tas"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "tast"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "talle"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "tal"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "talt"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "taga"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "nad"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "nende"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "neid"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "neisse"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "neis"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "neist"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "neile"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "neil"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "neilt"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "neiks"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "-"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab kahele või enamale inimesele (või olendile), kes ei ole ei kõnelejad ega kuulajad,tema ja keegi teine inimene või tema ja teised inimesed",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Said sa aru, mis keelt nad räägivad?",
+            "Kus nad elavad?",
+            "Neil on kaks last."
+          ],
+          "synonyms": [
+            "nemad"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "они",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вони",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kohavarjundiga:) nende juures (kodus)",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Käisin eile neil, aga poiss oli kuskil ära."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "osutab mainitud või mainitavale nähtusele",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Asjad ei ole üldse pahad, aga nad ei ole ka päris ideaalsed.",
+            "Ilusad on nad küll, need teie pojengid!"
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "nemad",
+        "need",
+        "kõik",
+        "mõlemad",
+        "inimlased",
+        "neid"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "nad",
+      "translations": [
+        "they"
+      ]
+    }
+  ]
+}

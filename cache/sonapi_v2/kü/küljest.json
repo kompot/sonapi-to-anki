@@ -1,0 +1,99 @@
+{
+  "requestedWord": "küljest",
+  "estonianWord": "küljest",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "küljest"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millestki lahti, eraldatuks, ära,kinnitatuna olekust või kinnihoidmisest lahti,millestki lahti, kuskilt ära",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Taat raius kuiva lepa küljest tüki.",
+            "Nukul tuli käsi küljest.",
+            "Noorem poeg sai isatalu küljest tüki maad.",
+            "Torm rebis katuse maja küljest.",
+            "Tüdruk korjab põõsa küljest marju.",
+            "Torm rebis maja küljest katuse.",
+            "murdsin leiva küljest tüki."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "от",
+                "weight": 1
+              },
+              {
+                "words": "с",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з",
+                "weight": 1
+              },
+              {
+                "words": "від",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "otsast",
+        "lahti harutama",
+        "pealt",
+        "lõikekoht",
+        "lõige",
+        "rapsima",
+        "saagima",
+        "murima",
+        "maha",
+        "lahti lõikama",
+        "ära",
+        "ära",
+        "küljeuks",
+        "küljeti",
+        "küljetsi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "küljest",
+      "translations": [
+        "apart"
+      ]
+    }
+  ]
+}

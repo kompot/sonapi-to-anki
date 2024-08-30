@@ -1,0 +1,138 @@
+{
+  "requestedWord": "puudu",
+  "estonianWord": "puudu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "puudu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "näitab, et midagi või kedagi ei jätku, on vähem kui vaja, ebapiisavalt,näitab, et midagi või kedagi ei jätku, on vähem kui vaja",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ida-Virumaal on politseinikke puudu.",
+            "Oskustest jääb puudu.",
+            "Ajast tuli puudu.",
+            "Mul on oskustest puudu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "не хватает",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "не стає",
+                "weight": 1
+              },
+              {
+                "words": "не вистачає",
+                "weight": 1
+              },
+              {
+                "words": "бракує",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab, kui palju on midagi millestki või vajalikust vähem,(väljendites, mis märgivad, et äärepealt oleks midagi juhtunud)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Aprillikuu soojarekordist jäi puudu ainult 1,3 kraadi.",
+            "Palju puudu ei jäänud, et reka oleks meil külje maha sõitnud.",
+            "Õpilasel jäi viiest üks punkt puudu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "ukr": [
+              {
+                "words": "бракувати",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "näitab, et midagi või kedagi tarvis olevat ei ole vajalikul kohal või olemas,näitab, et midagi või kedagi ei ole seal, kus ta olema peaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Serbia piiril avastati, et Briti kodanikul on üks leht passist puudu.",
+            "Ainult külalised on veel puudu.",
+            "Ülemiselt riiulilt on raamatuid puudu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "отсутствует",
+                "weight": 1
+              },
+              {
+                "words": "не хватает",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "немає",
+                "weight": 1
+              },
+              {
+                "words": "нема",
+                "weight": 1
+              },
+              {
+                "words": "бракує",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vajaka",
+        "puudus",
+        "puudusel"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "puudu",
+      "translations": [
+        "shy of"
+      ]
+    }
+  ]
+}

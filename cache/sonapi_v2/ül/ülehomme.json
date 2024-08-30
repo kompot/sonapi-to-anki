@@ -1,0 +1,91 @@
+{
+  "requestedWord": "ülehomme",
+  "estonianWord": "ülehomme",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ülehomme"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "homsele järgneval päeval,homsele päevale järgneval päeval",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Saan tagasi maksta homme või ülehomme.",
+            "Puhkus lõpeb ülehomme."
+          ],
+          "synonyms": [
+            "tunahomme"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "the day after tomorrow",
+                "weight": 1
+              },
+              {
+                "words": "overmorrow",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "après-demain",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "послезавтра",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "післязавтра",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tunahomme",
+        "täna",
+        "täna",
+        "südaöösel",
+        "teisipäeval",
+        "hommepäev",
+        "homme",
+        "homme",
+        "ülehomne",
+        "üleülehomme",
+        "täna-homme"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ülehomme",
+      "translations": [
+        "day after tomorrow",
+        "the day after tomorrow"
+      ]
+    }
+  ]
+}

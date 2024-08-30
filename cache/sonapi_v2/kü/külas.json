@@ -1,0 +1,66 @@
+{
+  "requestedWord": "külas",
+  "estonianWord": "külas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "külas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "külaskäigul, külalisena kellegi juures,kellegi juures külalisena",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mul on praegu sõbrad külas."
+          ],
+          "synonyms": [
+            "võõrusel"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "в гостях",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "у гостях",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "võõrusel",
+        "pool",
+        "pool",
+        "väisama",
+        "külasepp",
+        "külastama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "külas",
+      "translations": []
+    }
+  ]
+}

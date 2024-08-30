@@ -1,0 +1,98 @@
+{
+  "requestedWord": "paaris",
+  "estonianWord": "paaris",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "paaris"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kahekaupa koos (mingis tegevuses või tervikut moodustavana)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Võisteldi paaris.",
+            "Tugirõngad on paaris kolviga."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "парами",
+                "weight": 1
+              },
+              {
+                "words": "в паре",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "abielus,kooselus (ka loomade-lindude kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Täiskasvanud emud elavad paaris koos kuni elu lõpuni."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в браке",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kahekaupa",
+        "paaristikku",
+        "kakshaaval",
+        "paariviisi",
+        "paarikaupa",
+        "kaheti",
+        "paariti",
+        "kõrvuti",
+        "paaristama",
+        "paarisarv",
+        "paaritu",
+        "paarisuimed",
+        "paarisriim",
+        "paarissulgjas",
+        "paarisrakend"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "paaris",
+      "translations": [
+        "coupled",
+        "even",
+        "paired with",
+        "zygo-"
+      ]
+    }
+  ]
+}

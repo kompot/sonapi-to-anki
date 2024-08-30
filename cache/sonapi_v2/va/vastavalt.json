@@ -1,0 +1,107 @@
+{
+  "requestedWord": "vastavalt",
+  "estonianWord": "vastavalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vastavalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegagi vastavuses, kooskõlas olevalt, millestki lähtudes, millegi kohaselt või järgi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Kõik on tehtud seadusele vastavalt.",
+            "Dokumenti tuleks taotleda vastavalt oma elukohale.",
+            "Kui riik leiab, et kasiinosid pole Eestile vaja, eks me peame siis vastavalt ka käituma."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "соответственно",
+                "weight": 1
+              },
+              {
+                "words": "соответственно с",
+                "weight": 1
+              },
+              {
+                "words": "согласно",
+                "weight": 1
+              },
+              {
+                "words": "согласно с",
+                "weight": 1
+              },
+              {
+                "words": "сообразно",
+                "weight": 1
+              },
+              {
+                "words": "сообразно с",
+                "weight": 1
+              },
+              {
+                "words": "по",
+                "weight": 1
+              },
+              {
+                "words": "надлежащим образом",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "koheselt",
+        "kohaselt",
+        "järgi",
+        "sobivalt",
+        "vastav"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vastavalt",
+      "translations": [
+        "according",
+        "accordingly",
+        "according to",
+        "correspondingly",
+        "in accordance with",
+        "in compliance with",
+        "in conformity with",
+        "in pursuance of",
+        "pursuant to",
+        "respectively",
+        "under"
+      ]
+    }
+  ]
+}

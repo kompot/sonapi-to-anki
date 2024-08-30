@@ -1,0 +1,250 @@
+{
+  "requestedWord": "kasutajatunnus",
+  "estonianWord": "kasutajatunnus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "9",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kasutajatunnus"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kasutajatunnuse"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kasutajatunnust"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kasutajatunnusesse"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kasutajatunnuses"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kasutajatunnusest"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kasutajatunnusele"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kasutajatunnusel"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kasutajatunnuselt"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kasutajatunnuseks"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kasutajatunnuseni"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kasutajatunnusena"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kasutajatunnuseta"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kasutajatunnusega"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kasutajatunnused"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kasutajatunnuste"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kasutajatunnuseid"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kasutajatunnustesse,kasutajatunnuseisse"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kasutajatunnustes,kasutajatunnuseis"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kasutajatunnustest,kasutajatunnuseist"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kasutajatunnustele,kasutajatunnuseile"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kasutajatunnustel,kasutajatunnuseil"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kasutajatunnustelt,kasutajatunnuseilt"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kasutajatunnusteks,kasutajatunnuseiks"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kasutajatunnusteni"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kasutajatunnustena"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kasutajatunnusteta"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kasutajatunnustega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "arvutisüsteemile, andmebaasile vm ressursile juurdepääsu tagav nimi,sinu valitud nimi, mille abil saad internetis teatud lehekülgedele siseneda, näiteks postkasti või internetipanka",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Selleks, et internetipanka sisse logida, tuleb sisestada oma kasutajatunnus ja parool."
+          ],
+          "synonyms": [
+            "kasutajanimi"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "username",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "nom d'utilisateur",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "имя пользователя",
+                "weight": 1
+              },
+              {
+                "words": "логин",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "імʼя користувача",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kasutajanimi",
+        "peatunnus",
+        "kasutajatugi",
+        "kasutajaprofiil",
+        "tunnuskood",
+        "parool"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kasutajatunnus",
+      "translations": []
+    }
+  ]
+}

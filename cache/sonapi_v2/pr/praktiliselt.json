@@ -1,0 +1,200 @@
+{
+  "requestedWord": "praktiliselt",
+  "estonianWord": "praktiliselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "praktiliselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(rõhutav üldlaiend, pehmendab otseütlemist, väljendab umbmäärasust:) sama hästi kui, õigupoolest, peaaegu, enam-vähem,peaaegu, enam-vähem",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Seda on praktiliselt võimatu öelda.",
+            "Mõni maanurk on praktiliselt tühjaks jäänud.",
+            "1980-ndatel olin praktiliselt põlu all.",
+            "Õues on nii libe, et jalgsi liikuda on praktiliselt võimatu."
+          ],
+          "synonyms": [
+            "põhimõtteliselt",
+            "enam-vähem"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "presque",
+                "weight": 1
+              },
+              {
+                "words": "pratiquement",
+                "weight": 1
+              },
+              {
+                "words": "plus ou moins,à peu près,presque",
+                "weight": 0.511
+              }
+            ],
+            "rus": [
+              {
+                "words": "практически",
+                "weight": 1
+              },
+              {
+                "words": "почти,более или менее",
+                "weight": 0.511
+              }
+            ],
+            "ukr": [
+              {
+                "words": "практично",
+                "weight": 1
+              },
+              {
+                "words": "більш-менш,майже",
+                "weight": 0.511
+              }
+            ],
+            "eng": [
+              {
+                "words": "more or less",
+                "weight": 0.511
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tegelikkuses, praktikas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Teoreetiliselt on kõik lihtne, aga kas praktiliselt ka nii on?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "практически",
+                "weight": 1
+              },
+              {
+                "words": "на практике",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "otstarbekalt, asjalikult",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Katsu raha praktilisemalt kulutada."
+          ],
+          "synonyms": [
+            "otstarbekalt,otstarbekohaselt",
+            "asjalikult"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "практично",
+                "weight": 1
+              },
+              {
+                "words": "рационально",
+                "weight": 1
+              },
+              {
+                "words": "целесообразно",
+                "weight": 1
+              },
+              {
+                "words": "рационально,целесообразно",
+                "weight": 0.9
+              },
+              {
+                "words": "деловито,дельно,толково",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "asjalikult",
+        "kainelt",
+        "ratsionaalselt",
+        "sisuliselt",
+        "realistlikult",
+        "faktiliselt",
+        "külmalt",
+        "mõistuslikult",
+        "päriselt",
+        "tõeliselt",
+        "peaaegu",
+        "mõistlikult",
+        "tegelikult",
+        "vaata et",
+        "reaalselt",
+        "otstarbekalt",
+        "otstarbekohaselt",
+        "samahästi",
+        "praktika",
+        "taktiliselt",
+        "tõepoolest",
+        "äärmiselt",
+        "puhtpraktiline",
+        "vaid",
+        "põhimõtteliselt",
+        "absoluutselt",
+        "võimatu",
+        "seega",
+        "üldse",
+        "loomulikult",
+        "praktilisem",
+        "kaugeltki",
+        "täielikult",
+        "teoreetiliselt",
+        "üldiselt",
+        "lihtsalt",
+        "alati",
+        "väga",
+        "täiesti"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "praktiliselt",
+      "translations": [
+        "concretely",
+        "practically",
+        "virtually"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "requestedWord": "ligidalt",
+  "estonianWord": "ligidalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ligidalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "lühikese vahemaa tagant,lühikese vahemaa kauguselt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Lennukid möödusid üksteisest väga ligidalt.",
+            "Ükski hunt ei murra kodu ligidalt."
+          ],
+          "synonyms": [
+            "lähedalt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "de près",
+                "weight": 1
+              },
+              {
+                "words": "près de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "близко",
+                "weight": 1
+              },
+              {
+                "words": "поблизости",
+                "weight": 1
+              },
+              {
+                "words": "недалеко",
+                "weight": 1
+              },
+              {
+                "words": "вблизи",
+                "weight": 1
+              },
+              {
+                "words": "с близкого расстояния",
+                "weight": 1
+              },
+              {
+                "words": "накоротке",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "близько",
+                "weight": 1
+              },
+              {
+                "words": "поблизу",
+                "weight": 1
+              },
+              {
+                "words": "зблизька",
+                "weight": 1
+              },
+              {
+                "words": "недалеко",
+                "weight": 1
+              },
+              {
+                "words": "з-під",
+                "weight": 1
+              },
+              {
+                "words": "впритул",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "lühikese ajavahemiku tagant (minevikust)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ajaloost võib selliseid näiteid leida ligidalt ja kaugelt."
+          ],
+          "synonyms": [
+            "lähedalt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "недавнее прошлое",
+                "weight": 1
+              },
+              {
+                "words": "из недалёкого прошлого",
+                "weight": 1
+              },
+              {
+                "words": "недавно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "lähedaste sugulus- vm tihedate sidemete kaudu,inimeste vahel olevate suhete kohta: vahetult, palju",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nad on ligidalt sugulased."
+          ],
+          "synonyms": [
+            "lähedalt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "de près",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "близко",
+                "weight": 1
+              },
+              {
+                "words": "близкое родство",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "близько",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lähedalt",
+        "lähedal",
+        "ligidal",
+        "kõledalt",
+        "siitkaudu",
+        "jõledalt",
+        "käbedalt",
+        "ujedalt",
+        "väikeselt",
+        "lagedalt",
+        "sealt",
+        "tobedalt",
+        "juhmilt",
+        "kaugelt",
+        "sealtpoolt",
+        "jäledalt",
+        "äärest",
+        "siitmailt",
+        "rämedalt",
+        "ligidale"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ligidalt",
+      "translations": [
+        "close up"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "requestedWord": "tagantpoolt",
+  "estonianWord": "tagantpoolt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tagantpoolt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(kaugemalt) tagant, (millegi või kellegi suhtes) kaugemalt,taga olevast suunast, selja tagant",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Piiritähis on tagantpoolt valgustatud.",
+            "Tagantpoolt lähenes rong.",
+            "Basseinivee analüüsid võetakse eestpoolt ja tagantpoolt puhastusseadet.",
+            "Tuul puhub tagantpoolt.",
+            "Ma ei tundnud teda tagantpoolt ära."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "par derrière",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "сзади",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ззаду",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(paremusjärjestuses) lõpust, lõpu poolt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sai tagantpoolt vaadates esikoha.",
+            "Jäin tagantpoolt neljandaks."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "taamalt",
+        "eemalt",
+        "kaugemalt",
+        "tagapool",
+        "selgapidi",
+        "tagant",
+        "kustpoolt",
+        "tagantselja",
+        "pealtpoolt",
+        "ülevaltpoolt",
+        "ülaltpoolt",
+        "altpoolt",
+        "tagantkäe",
+        "ettepoole",
+        "tagantkätt",
+        "sealtpoolt",
+        "siitpoolt",
+        "ette-taha",
+        "eestpoolt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tagantpoolt",
+      "translations": []
+    }
+  ]
+}

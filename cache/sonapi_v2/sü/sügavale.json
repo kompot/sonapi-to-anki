@@ -1,0 +1,101 @@
+{
+  "requestedWord": "sügavale",
+  "estonianWord": "sügavale",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sügavale"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ümbruse üldisest pinnast tunduvalt allapoole",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kassi teravad küüned lõikusid sügavale kätte.",
+            "Tõmbas mütsi sügavale pähe."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "глубоко",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "eesmisest pinnast või äärest kõvasti sisse- või tahapoole",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tõmbas suitsu sügavale kopsu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "глубоко",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi ülimasse olemusse, millegi keskmesse",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta oli sügavale endasse tõmbunud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "глубоко",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sügavalt",
+        "sügaval",
+        "sügavasti",
+        "hädavale"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sügavale",
+      "translations": [
+        "deep into"
+      ]
+    }
+  ]
+}

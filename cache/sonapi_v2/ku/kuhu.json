@@ -1,0 +1,325 @@
+{
+  "requestedWord": "kuhu",
+  "estonianWord": "kuhu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kuhu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "küsiv-siduv sõna: missugusesse kohta, missugusesse suunda,mis kohta, mis suunda",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kuhu sa lähed?",
+            "Kuhu te trügite?",
+            "Siiani on selgusetu, kuhu ausammas tuleb.",
+            "Eesti on tore maa, kuhu sõita.",
+            "Ma ei tea, kuhu see tee viib."
+          ],
+          "synonyms": [
+            "kuhukohta",
+            "kuskohta"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "où",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "куда",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "куди",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb ebamäärast kohta osutavates väljendites",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mindi laiali kes kuhu.",
+            "Sõitis pagan teab kuhu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "куда",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kõneleja suhtumist, eitavat arvamust või hinnangut rõhutav sõna",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kuhu me niimoodi jõuame?",
+            "Kuhu see kõlbab?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "куда",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kus",
+        "kust",
+        "kustkohast",
+        "sinnajuurde",
+        "sinna",
+        "kuhupoole",
+        "kuhugile",
+        "kuhugi",
+        "kustkaudu",
+        "sinnasamasse",
+        "kuhugipoole",
+        "sisse"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "Kuhu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "Kuhu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "Kuhu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "Kuhku"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "Kuhusse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "Kuhus"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "Kuhust"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "Kuhule"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "Kuhul"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "Kuhult"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "Kuhuks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "Kuhuni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "Kuhuna"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "Kuhuta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "Kuhuga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "Kuhud"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "Kuhude"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "Kuhusid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "Kuhudesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "Kuhudes"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "Kuhudest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "Kuhudele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "Kuhudel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "Kuhudelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "Kuhudeks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "Kuhudeni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "Kuhudena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "Kuhudeta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "Kuhudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "küla Pärnu maakonnas Lääneranna vallas (Mihkli kihelkonnas)",
+          "partOfSpeech": [
+            {
+              "code": "prop",
+              "value": "pärisnimi, prooprium"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kuhu",
+      "translations": [
+        "whither"
+      ]
+    }
+  ]
+}

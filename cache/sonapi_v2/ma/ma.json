@@ -1,0 +1,551 @@
+{
+  "requestedWord": "ma",
+  "estonianWord": "ma",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "00",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "ma"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "mu"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "mind"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "musse"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "mus"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "must"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "mulle"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "mul"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "mult"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "muga"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "me"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "me"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "meid"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "meisse"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "meis"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "meist"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "meile"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "meil"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "meilt"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "meiks"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "-"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sõna, mida kõneleja kasutab endale osutamiseks,viitab kõnelejale",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Ma ei tea ju jalgpallist midagi.",
+            "Ma töötan pangas.",
+            "See on mu vend.",
+            "Ta armastab mind.",
+            "Mul on üks õde.",
+            "Mulle see film ei meeldinud."
+          ],
+          "synonyms": [
+            "mina"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "я",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "я",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tähendus tuhmunud)",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Kah mul asi!",
+            "Küll ta teadis laule ja lugusid, oh sa mu meie!"
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(kellegi poole pöördumisel viisakus- või poolehoiuavaldustes)",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Mu daamid ja härrad!",
+            "Vabandage, mu härra, kas tohin küsida, kes selles majas elab?"
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "mina",
+        "ego",
+        "ta",
+        "Te",
+        "x",
+        "x",
+        "f",
+        "f",
+        "et",
+        "et",
+        "No",
+        "sa",
+        "no",
+        "Ta",
+        "ei",
+        "ei",
+        "lk",
+        "ka",
+        "me",
+        "b",
+        "b",
+        "r",
+        "r",
+        "te",
+        "P",
+        "ja",
+        "ju",
+        "me",
+        "r"
+      ]
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "elektrivoolu tugevuse mõõtühik, tuhandik amprit",
+          "partOfSpeech": [],
+          "examples": [
+            "Hõõglampi läbib 5 min jooksul 500 mA tugevune vool, tehes tööd 1,5 kJ."
+          ],
+          "synonyms": [
+            "milliamper"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "миллиампер",
+                "weight": 1
+              },
+              {
+                "words": "мА",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mW",
+        "mV",
+        "mR",
+        "Gb",
+        "Wh",
+        "Hz",
+        "kV",
+        "Bq",
+        "kJ",
+        "Hz"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "26",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "MA"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "MA"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "MA-d"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "MA"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "MA-sse"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "MA-s"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "MA-st"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "MA-le"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "MA-l"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "MA-lt"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "MA-ks"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "MA-ni"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "MA-na"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "MA-ta"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "MA-ga"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "MA-d"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "MA-de"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "MA-sid"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "MA-desse"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "MA-des"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "MA-dest"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "MA-dele"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "MA-del"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "MA-delt"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "MA-deks"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "MA-deni"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "MA-dena"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "MA-deta"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "MA-dega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "hrl kaheaastase õppekava lõpetanud, bakalaureusest kõrgema ja doktorist madalama akadeemilise kraadi saanud isik paljude maade ülikoolides,vastav akadeemiline kraad",
+          "partOfSpeech": [],
+          "examples": [
+            "Sotsiaalteaduste magister (MA) Euroopa õpingutes.",
+            "Disaini ja rakenduskunsti MA ühisõppekava."
+          ],
+          "synonyms": [
+            "magister",
+            "maka",
+            "mag"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "магистр",
+                "weight": 1
+              },
+              {
+                "words": "магистр искусств",
+                "weight": 1
+              },
+              {
+                "words": "магистр гуманитарных наук",
+                "weight": 1
+              },
+              {
+                "words": "маг-р",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ma",
+      "translations": [
+        "I"
+      ]
+    }
+  ]
+}

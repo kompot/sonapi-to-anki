@@ -1,0 +1,378 @@
+{
+  "requestedWord": "retsept",
+  "estonianWord": "retsept",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "retsept"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "retsepti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "retsepti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "retsepti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "retseptisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "retseptis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "retseptist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "retseptile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "retseptil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "retseptilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "retseptiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "retseptini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "retseptina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "retseptita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "retseptiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "retseptid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "retseptide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "retsepte,retseptisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "retseptidesse,retseptesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "retseptides,retseptes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "retseptidest,retseptest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "retseptidele,retseptele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "retseptidel,retseptel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "retseptidelt,retseptelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "retseptideks,retsepteks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "retseptideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "retseptidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "retseptideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "retseptidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "arsti (kirjalik) ettekirjutus, mille alusel patsiendile väljastatakse apteegist sobiv ravim,see, mille alusel saab apteegist teatud ravimeid osta",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Arstiretsept.",
+            "Ravimiretsept.",
+            "Arst kirjutas retsepti.",
+            "Seda rohtu saab apteegist ilma retseptita."
+          ],
+          "synonyms": [
+            "ravimiretsept",
+            "arstiretsept",
+            "arstitäht",
+            "rohutäht"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "prescription",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "ordonnance",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "медицинский рецепт",
+                "weight": 1
+              },
+              {
+                "words": "рецепт",
+                "weight": 1
+              },
+              {
+                "words": "рецепт врача",
+                "weight": 1
+              },
+              {
+                "words": "рецепт лекарства",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "рецепт",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "toidu vms koostise ja valmistamise kirjeldus,mingi toidu või joogi valmistamise kirjeldus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Lambaprae retsept.",
+            "Toiduretsept.",
+            "Koogiretsept.",
+            "Tegin vanaema retsepti järgi küpsiseid."
+          ],
+          "synonyms": [
+            "valmistamisõpetus,valmistusõpetus"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "recipe",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "recette",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "рецепт",
+                "weight": 1
+              },
+              {
+                "words": "рецепт,инструкция по изготовлению,руководство по изготовлению",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "рецепт",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "valmis õpetus või tegevusjuhis",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mina ei ole veel leidnud retsepti, kuidas 300 euroga kuus toime tulla."
+          ],
+          "synonyms": [
+            "instruktsioon,juhis",
+            "valem",
+            "õpetus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "готовый рецепт",
+                "weight": 1
+              },
+              {
+                "words": "верный способ достигнуть",
+                "weight": 1
+              },
+              {
+                "words": "инструкция,правило,указание,руководство",
+                "weight": 0.7
+              },
+              {
+                "words": "формула",
+                "weight": 0.7
+              },
+              {
+                "words": "инструкция,правило,указание,наставление,поучение,руководство,совет,наказ",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "instruction",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "наука,повчання,вказівка,порада,інструкція",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "valmistõde",
+        "juhis",
+        "valem",
+        "ravimiretsept",
+        "õpetus",
+        "rohutäht",
+        "valmistusõpetus",
+        "arstitäht",
+        "digiretsept",
+        "arstiretsept",
+        "retseptiraamat",
+        "retseptuur",
+        "retseptaar"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "retsept",
+      "translations": [
+        "formula",
+        "receipt",
+        "recipe",
+        "Rx",
+        "scrip"
+      ]
+    }
+  ]
+}

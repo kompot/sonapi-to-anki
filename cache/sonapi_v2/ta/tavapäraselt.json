@@ -1,0 +1,93 @@
+{
+  "requestedWord": "tavapäraselt",
+  "estonianWord": "tavapäraselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tavapäraselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "tavakohaselt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "традиционно",
+                "weight": 1
+              },
+              {
+                "words": "по-обычному",
+                "weight": 1
+              },
+              {
+                "words": "обычно",
+                "weight": 1
+              },
+              {
+                "words": "привычно",
+                "weight": 1
+              },
+              {
+                "words": "по традиции",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "harilikult",
+        "pärimuslik",
+        "traditsiooniliselt",
+        "tavapärane",
+        "harilik",
+        "tihti",
+        "võõrapäraselt",
+        "tavapäratu",
+        "harjumuspäraselt",
+        "üldiselt",
+        "tavaliselt",
+        "eripäraselt",
+        "meelepäraselt",
+        "tavapäratult",
+        "tavapäraseim",
+        "raskepäraselt",
+        "loomulikult",
+        "reeglina",
+        "ootuspäraselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tavapäraselt",
+      "translations": [
+        "commonly",
+        "customarily",
+        "habitually",
+        "ordinarily",
+        "routinely"
+      ]
+    }
+  ]
+}

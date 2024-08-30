@@ -1,0 +1,98 @@
+{
+  "requestedWord": "vabatahtlikult",
+  "estonianWord": "vabatahtlikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vabatahtlikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vabal tahtel, ilma kohustuse või sunduseta,omal soovil",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Uuringus osaleti vabatahtlikult.",
+            "Vabatahtlikult ma oma ametist ei loobu.",
+            "Patsient saab ise vabatahtlikult otsustada, kelle käest ta teist arvamust tahab küsida.",
+            "Kas ta tuli vabatahtlikult või pidid sa teda sundima?"
+          ],
+          "synonyms": [
+            "isetahtsi,omatahtsi"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "voluntarily",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "volontairement",
+                "weight": 1
+              },
+              {
+                "words": "de son plein gré",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "добровольно",
+                "weight": 1
+              },
+              {
+                "words": "по-своему,по своему усмотрению,по доброй воле,по собственному почину,по своему желанию,по собственному желанию,по своему хотению,по собственному волеизъявлению",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "добровільно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "omal soovil",
+        "omatahtsi",
+        "vabatahtsi",
+        "sunniviisiliselt",
+        "vabatahtlikkus",
+        "kohustuslikult",
+        "avalikult",
+        "teadlikult",
+        "vabatahtlik",
+        "ise",
+        "ise",
+        "ise"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vabatahtlikult",
+      "translations": [
+        "voluntarily",
+        "willingly"
+      ]
+    }
+  ]
+}

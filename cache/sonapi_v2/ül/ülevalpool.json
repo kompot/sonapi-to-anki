@@ -1,0 +1,205 @@
+{
+  "requestedWord": "ülevalpool",
+  "estonianWord": "ülevalpool",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ülevalpool"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kohalt, asendilt kõrgemal,tasemelt, astmelt kõrgemal,kõrgemal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Ülevalpool merepinda.",
+            "Paistab, et rahva arvamustega ülevalpool ei arvestata.",
+            "Ülevalpool keldrit on eluruumid."
+          ],
+          "synonyms": [
+            "ülalpool",
+            "pealpool",
+            "ülal,üleval",
+            "ülemal",
+            "kohal",
+            "kõrgemal"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "выше",
+                "weight": 1
+              },
+              {
+                "words": "наверху",
+                "weight": 1
+              },
+              {
+                "words": "над",
+                "weight": 1
+              },
+              {
+                "words": "сверху,выше,наверху,вверху,над",
+                "weight": 0.699
+              },
+              {
+                "words": "вверху,сверху,наверху",
+                "weight": 0.7
+              },
+              {
+                "words": "выше",
+                "weight": 0.7
+              },
+              {
+                "words": "над",
+                "weight": 0.7
+              },
+              {
+                "words": "выше",
+                "weight": 0.484
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вище",
+                "weight": 1
+              },
+              {
+                "words": "над",
+                "weight": 1
+              },
+              {
+                "words": "нагорі",
+                "weight": 1
+              },
+              {
+                "words": "наверху",
+                "weight": 1
+              },
+              {
+                "words": "угорі",
+                "weight": 1
+              },
+              {
+                "words": "наверху,угорі,нагорі",
+                "weight": 0.7
+              },
+              {
+                "words": "над,наді",
+                "weight": 0.7
+              },
+              {
+                "words": "вище",
+                "weight": 0.484
+              }
+            ],
+            "fra": [
+              {
+                "words": "au-dessus de",
+                "weight": 0.7
+              },
+              {
+                "words": "plus haut",
+                "weight": 0.484
+              }
+            ]
+          }
+        },
+        {
+          "definition": "eespool, eelnevas tekstis",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Paar lõiku ülevalpool juba mainisin, et .."
+          ],
+          "synonyms": [
+            "ülal",
+            "ülalpool",
+            "eelpool,eespool,eel"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "выше",
+                "weight": 1
+              },
+              {
+                "words": "ранее",
+                "weight": 1
+              },
+              {
+                "words": "выше,ранее",
+                "weight": 0.511
+              }
+            ],
+            "fra": [
+              {
+                "words": "précédemment",
+                "weight": 0.511
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вище",
+                "weight": 0.511
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ülemal",
+        "ülal",
+        "peal",
+        "kohal",
+        "seespool",
+        "ülalpool",
+        "sealpool",
+        "ülevaltpoolt",
+        "ülevalt",
+        "ülevalt",
+        "ülaltpoolt",
+        "allpool",
+        "eelpool",
+        "pealpool",
+        "üleval",
+        "eespool",
+        "kõrgemal",
+        "madalamal",
+        "kuklapool",
+        "esipool",
+        "allapoole",
+        "peapool",
+        "kuspool"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ülevalpool",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "requestedWord": "kulunud",
+  "estonianWord": "kulunud",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu",
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kulunud"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kulunud"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kulunu"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kulunut"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kulunusse"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kulunus"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kulunust"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kulunule"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kulunul"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kulunult"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kulunuks"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kulununi"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kulununa"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kulunuta"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kulunuga"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kulunud"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kulunute"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kulunuid"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kulunutesse,kulunuisse"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kulunutes,kulunuis"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kulunutest,kulunuist"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kulunutele,kulunuile"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kulunutel,kulunuil"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kulunutelt,kulunuilt"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kulunuteks,kulunuiks"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kulunuteni"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kulunutena"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kulunuteta"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kulunutega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(riiete vm esemete kohta:) värskuse kaotanud, luitunud, viledaks läinud vms",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Ta lemmikrõivas on kulunud T-särk."
+          ],
+          "synonyms": [
+            "vile",
+            "peetud",
+            "vana",
+            "ärapeetud",
+            "päevinäinud,päevi näinud",
+            "väsinud",
+            "juust",
+            "eakas",
+            "räbalane"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "изношенный",
+                "weight": 1
+              },
+              {
+                "words": "потрёпанный",
+                "weight": 1
+              },
+              {
+                "words": "прохудившийся,просиженный,обтёртый,затёртый,потёртый,изношенный,истрёпанный",
+                "weight": 0.9
+              },
+              {
+                "words": "подержанный",
+                "weight": 0.9
+              },
+              {
+                "words": "ветхий,поношенный,потасканный,старый",
+                "weight": 0.9
+              },
+              {
+                "words": "потрёпанный,изношенный,истрёпанный",
+                "weight": 0.7
+              },
+              {
+                "words": "видавший виды",
+                "weight": 0.7
+              },
+              {
+                "words": "потёртый",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "old",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "sagedasest kordamisest mõju kaotanud, tüütult tuntuks muutunud",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Kulunud lendlaused.",
+            "See kulunud demagoogia ei hirmuta enam kedagi."
+          ],
+          "synonyms": [
+            "äraleierdatud",
+            "banaalne",
+            "labane",
+            "lame",
+            "trafaretne",
+            "triviaalne",
+            "šabloonne,šablooniline",
+            "tüütu",
+            "stereotüüpne,stereotüüpiline"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "избитый",
+                "weight": 1
+              },
+              {
+                "words": "заезженный",
+                "weight": 1
+              },
+              {
+                "words": "банальный,избитый",
+                "weight": 0.9
+              },
+              {
+                "words": "простой",
+                "weight": 0.9
+              },
+              {
+                "words": "плоский,пошлый",
+                "weight": 0.9
+              },
+              {
+                "words": "привычный,общеизвестный,шаблонный,стандартный,трафаретный,избитый,банальный",
+                "weight": 0.9
+              },
+              {
+                "words": "тривиальный,обыденный,банальный,избитый,обыкновенный,заурядный,пошлый,неоригинальный",
+                "weight": 0.9
+              },
+              {
+                "words": "банальный,избитый,штампованный,трафаретный,шаблонный",
+                "weight": 0.9
+              },
+              {
+                "words": "занудливый,нудный,назойливый,навязчивый,надоедливый,привязчивый,неотвязчивый,докучливый,надоедный,докучный",
+                "weight": 0.7
+              },
+              {
+                "words": "стереотипный,трафаретный,шаблонный",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "ennuyeux",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "навʼязливий,невідчепний,причепливий,набридливий,докучливий,надокучливий,настирливий",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "annoying",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(väsinud või räsitud inimese kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Ööklubides tiirutasid kergelt kulunud olemisega naised."
+          ],
+          "synonyms": [
+            "väsinud",
+            "surmväsinud",
+            "rampväsinud",
+            "üleväsinud",
+            "puruväsinud",
+            "pidune",
+            "poolpeetud,poolpidune",
+            "kantud",
+            "omadega õhtul",
+            "nagu tühjaks pigistatud sidrun",
+            "ärapeetud",
+            "roid"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "потасканный",
+                "weight": 1
+              },
+              {
+                "words": "усталый,утомлённый,уставший",
+                "weight": 0.9
+              },
+              {
+                "words": "уставший до смерти,смертельно усталый",
+                "weight": 0.9
+              },
+              {
+                "words": "смертельно усталый,до смерти уставший",
+                "weight": 0.9
+              },
+              {
+                "words": "мертвецки усталый,смертельно усталый,чрезвычайно усталый,переутомлённый,до смерти усталый,усталый, как собака",
+                "weight": 0.9
+              },
+              {
+                "words": "подержанный,поношенный,ношеный",
+                "weight": 0.9
+              },
+              {
+                "words": "истёртый,подержанный,поношенный,изношенный",
+                "weight": 0.9
+              },
+              {
+                "words": "изношенный,поношенный",
+                "weight": 0.9
+              },
+              {
+                "words": "доживает последние деньки",
+                "weight": 0.9
+              },
+              {
+                "words": "как выжатый лимон",
+                "weight": 0.9
+              },
+              {
+                "words": "изношенный,истрёпанный,потрёпанный",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "fatigué",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "змучений,стомлений,втомлений",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "tired",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "eakas",
+        "stereotüüpne",
+        "juust",
+        "ärapeetud",
+        "räbalane",
+        "päevi näinud",
+        "päevinäinud",
+        "tüütu",
+        "habemega",
+        "puruväsinud",
+        "keskpärane",
+        "nagu tühjaks pigistatud sidrun",
+        "omadega õhtul",
+        "labane",
+        "surmväsinud",
+        "reatööline",
+        "poolpeetud",
+        "poolpidune",
+        "trafaretne",
+        "triviaalne",
+        "harilik",
+        "odav",
+        "väsinud",
+        "pruugitud",
+        "notoorne",
+        "roid",
+        "klišeeväljend",
+        "usuaalne",
+        "rampväsinud",
+        "pidune",
+        "pidune",
+        "keskmine",
+        "üleväsinud",
+        "lame",
+        "standardne",
+        "vile",
+        "vile",
+        "vile",
+        "vile",
+        "šabloonne",
+        "lihtne",
+        "peetud",
+        "käibetõde",
+        "lihtliige",
+        "šablooniline",
+        "üldtuntud",
+        "kantud",
+        "ordinaarne",
+        "tavaline",
+        "banaalne",
+        "vana",
+        "tibake",
+        "tibake",
+        "kulunorm"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kulunud",
+      "translations": [
+        "ablated",
+        "abrased",
+        "attrite",
+        "commonplace",
+        "corny (nali",
+        "anekdoot)",
+        "decrepit",
+        "eroded",
+        "hackneyed",
+        "(laiguti) mangy",
+        "mousy",
+        "outworn",
+        "(poes seismisest) shop-soiled",
+        "trite",
+        "wear and tear",
+        "well-worn",
+        "worn",
+        "worn-out"
+      ]
+    }
+  ]
+}

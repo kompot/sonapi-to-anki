@@ -1,0 +1,484 @@
+{
+  "requestedWord": "alam",
+  "estonianWord": "alam",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "alam"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "alama"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "alamat"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "alamasse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "alamas"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "alamast"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "alamale"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "alamal"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "alamalt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "alamaks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "alamani"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "alamana"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "alamata"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "alamaga"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "alamad"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "alamate"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "alamaid"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "alamatesse,alamaisse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "alamates,alamais"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "alamatest,alamaist"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "alamatele,alamaile"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "alamatel,alamail"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "alamatelt,alamailt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "alamateks,alamaiks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "alamateni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "alamatena"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "alamateta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "alamatega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ameti- või teenistusastmelt, sotsiaalselt positsioonilt madalamal seisev",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Alamad ja kõrgemad vaimulikud.",
+            "Kas politseinikud on alam sort inimesi?"
+          ],
+          "synonyms": [
+            "madal",
+            "madalam"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "низший",
+                "weight": 1
+              },
+              {
+                "words": "младший",
+                "weight": 1
+              },
+              {
+                "words": "низкий",
+                "weight": 0.7
+              },
+              {
+                "words": "более низкий",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "inférieur",
+                "weight": 0.7
+              },
+              {
+                "words": "plus bas",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "низький",
+                "weight": 0.7
+              },
+              {
+                "words": "нижчий",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "isik, kes on madalamal astmel või positsioonil,alam",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mis parata, alamatel tuleb ülematele alluda."
+          ],
+          "synonyms": [
+            "alamus",
+            "alluv",
+            "käsualune",
+            "käsutäitja,mürmidoon"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "подчинённый",
+                "weight": 1
+              },
+              {
+                "words": "подчинённая",
+                "weight": 1
+              },
+              {
+                "words": "подчинённая,подчинённый",
+                "weight": 0.9
+              },
+              {
+                "words": "подчинённый,подчинённая,приказной,подневольный",
+                "weight": 0.7
+              },
+              {
+                "words": "исполнитель приказа,выполняющий приказ,исполнитель,исполнительница,приспешник,приспешница",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "subordonné,subordonnée",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "підлеглий,підлегла",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "madalamasse järku kuuluv, madalam",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Määrus ja sellest alamad regulatsioonid.",
+            "Alama astme kohus."
+          ],
+          "synonyms": [
+            "madal",
+            "madalam"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "низший",
+                "weight": 1
+              },
+              {
+                "words": "низкий",
+                "weight": 0.7
+              },
+              {
+                "words": "более низкий",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "inférieur",
+                "weight": 0.7
+              },
+              {
+                "words": "plus bas",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "низький",
+                "weight": 0.7
+              },
+              {
+                "words": "нижчий",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "algelisem, vähem komplitseeritud, lihtsam",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Alamad taimed."
+          ],
+          "synonyms": [
+            "algeline"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "низший",
+                "weight": 1
+              },
+              {
+                "words": "примитивный",
+                "weight": 1
+              },
+              {
+                "words": "элементарный,примитивный,зачаточный",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(endisaegse, monarhistliku) riigi kodanik (või elanik)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Vene tsaari alamad.",
+            "17. sajandil said eestlased Rootsi alamaiks."
+          ],
+          "synonyms": [
+            "kodanik,riigikodanik",
+            "elanik",
+            "asukas"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "подданный",
+                "weight": 1
+              },
+              {
+                "words": "подданная",
+                "weight": 1
+              },
+              {
+                "words": "гражданин,гражданка",
+                "weight": 0.9
+              },
+              {
+                "words": "обитатель,житель,жительница,жилец,обитательница",
+                "weight": 0.9
+              },
+              {
+                "words": "поселенец,поселенка,жительница,житель,обитательница,обитатель",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "citoyenne,citoyen",
+                "weight": 0.9
+              },
+              {
+                "words": "résidente,résident,habitant,habitante",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "громадянин,громадянка",
+                "weight": 0.9
+              },
+              {
+                "words": "мешканець,мешканка,житель,жителька",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "citizen",
+                "weight": 0.9
+              },
+              {
+                "words": "resident",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "madalam",
+        "käsualune",
+        "käsutäitja",
+        "algeline",
+        "madal",
+        "alamus",
+        "alluv",
+        "kodanik",
+        "elanik",
+        "asukas",
+        "asuja",
+        "alamrahvas",
+        "alamale"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "alam",
+      "translations": [
+        "lower",
+        "minion",
+        "subject",
+        "underling"
+      ]
+    }
+  ]
+}

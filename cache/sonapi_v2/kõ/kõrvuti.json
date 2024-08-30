@@ -1,0 +1,221 @@
+{
+  "requestedWord": "kõrvuti",
+  "estonianWord": "kõrvuti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kõrvuti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "asendilt üksteise kõrval või kõrvale,üksteise kõrval või üksteise kõrvale",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Jooksime temaga kõrvuti.",
+            "Kaks kaubanduskeskust on kõrvuti.",
+            "Pane kuus tooli kõrvuti.",
+            "Lennujaam ja bussijaam asuvad kõrvuti.",
+            "Mari ja Jüri pandi kõrvuti istuma."
+          ],
+          "synonyms": [
+            "kõrvu",
+            "küljekuti,külitsi",
+            "külg külje kõrval",
+            "küljestikku",
+            "külgepidi,külge pidi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "côte à côte",
+                "weight": 1
+              },
+              {
+                "words": "l'un à côté de l'autre",
+                "weight": 1
+              },
+              {
+                "words": "les uns à côté des autres",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "рядом",
+                "weight": 1
+              },
+              {
+                "words": "рядышком",
+                "weight": 1
+              },
+              {
+                "words": "вплотную друг к другу,друг возле друга,бок о бок",
+                "weight": 0.9
+              },
+              {
+                "words": "вплотную,бок о бок,тесно",
+                "weight": 0.9
+              },
+              {
+                "words": "бок о бок,вплотную друг к другу",
+                "weight": 0.9
+              },
+              {
+                "words": "боком,боками",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "поряд з",
+                "weight": 1
+              },
+              {
+                "words": "поруч",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "paralleelselt, samaaegselt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõrvuti uuega eksisteerib ka vana."
+          ],
+          "synonyms": [
+            "kõrvu",
+            "kõrval",
+            "rööpselt,rööbiti",
+            "paralleelselt",
+            "ühekorraga,üheaegselt,samaaegselt,korraga",
+            "seekõrval"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "рядом",
+                "weight": 1
+              },
+              {
+                "words": "наряду с",
+                "weight": 1
+              },
+              {
+                "words": "одновременно",
+                "weight": 1
+              },
+              {
+                "words": "помимо,наряду с,вдобавок,кроме",
+                "weight": 0.418
+              },
+              {
+                "words": "одновременно,параллельно,наряду",
+                "weight": 0.7
+              },
+              {
+                "words": "параллельно,одновременно",
+                "weight": 0.448
+              },
+              {
+                "words": "единовременно,разом,одновременно,синхронно",
+                "weight": 0.7
+              },
+              {
+                "words": "наряду с этим,в то же время,вместе с тем",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "en plus de,à côté de",
+                "weight": 0.418
+              },
+              {
+                "words": "à la fois,en même temps,simultanément",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на додаток,опріч,крім",
+                "weight": 0.418
+              },
+              {
+                "words": "одночасно,водночас,разом",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "seekõrval",
+        "rööbiti",
+        "samaaegselt",
+        "küljekuti",
+        "külg külje kõrval",
+        "külitsi",
+        "külgepidi",
+        "küljestikku",
+        "küljetsi",
+        "küljeti",
+        "rinnu",
+        "kõrvu",
+        "kohakuti",
+        "omavahel",
+        "kõrval",
+        "kõrval",
+        "kõrvupidi",
+        "teineteise",
+        "üksteise",
+        "paralleelselt",
+        "lähestikku",
+        "puutuma",
+        "paaristama",
+        "asetsema",
+        "kokku puutuma",
+        "kõrvutama",
+        "koolduma",
+        "olema",
+        "kontakteeruma",
+        "riivama",
+        "paaris",
+        "kõrvutus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kõrvuti",
+      "translations": [
+        "abreast",
+        "alongside",
+        "along with",
+        "in juxtaposition",
+        "side by side",
+        "side-by-side"
+      ]
+    }
+  ]
+}

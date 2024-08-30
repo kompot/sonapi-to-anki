@@ -1,0 +1,107 @@
+{
+  "requestedWord": "topelt",
+  "estonianWord": "topelt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "topelt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kaks korda suuremana, rohkemana vms, kahekordselt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Siin müüakse leiba topelt kallimalt kui linnas.",
+            "Appi, ma näen topelt!",
+            "Milleks topelt karistada?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вдвойне",
+                "weight": 1
+              },
+              {
+                "words": "вдвое",
+                "weight": 1
+              },
+              {
+                "words": "удвоенно",
+                "weight": 1
+              },
+              {
+                "words": "сдвоенно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kaks korda suurem, rohkem vms, kahekordne",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Topelt käibemaksu pole vaja maksta.",
+            "Koostegemise rõõm on topelt rõõm.",
+            "Teatavasti käis stagnaajal topelt arvepidamine."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "двойной",
+                "weight": 1
+              },
+              {
+                "words": "удвоенный",
+                "weight": 1
+              },
+              {
+                "words": "сдвоенный",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kaheli",
+        "kahekordselt",
+        "kahekordne",
+        "topeltpõhi",
+        "topeltlai",
+        "topeltports",
+        "topeltlõug"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "topelt",
+      "translations": [
+        "double",
+        "doubly"
+      ]
+    }
+  ]
+}

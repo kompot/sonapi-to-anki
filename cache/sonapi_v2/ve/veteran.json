@@ -1,0 +1,256 @@
+{
+  "requestedWord": "veteran",
+  "estonianWord": "veteran",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "19",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "veteran"
+        },
+        {
+          "inflectionType": "19",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "veterani"
+        },
+        {
+          "inflectionType": "19",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "veterani"
+        },
+        {
+          "inflectionType": "19",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "veterani"
+        },
+        {
+          "inflectionType": "19",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "veteranisse"
+        },
+        {
+          "inflectionType": "19",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "veteranis"
+        },
+        {
+          "inflectionType": "19",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "veteranist"
+        },
+        {
+          "inflectionType": "19",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "veteranile"
+        },
+        {
+          "inflectionType": "19",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "veteranil"
+        },
+        {
+          "inflectionType": "19",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "veteranilt"
+        },
+        {
+          "inflectionType": "19",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "veteraniks"
+        },
+        {
+          "inflectionType": "19",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "veteranini"
+        },
+        {
+          "inflectionType": "19",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "veteranina"
+        },
+        {
+          "inflectionType": "19",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "veteranita"
+        },
+        {
+          "inflectionType": "19",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "veteraniga"
+        },
+        {
+          "inflectionType": "19",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "veteranid"
+        },
+        {
+          "inflectionType": "19",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "veteranide"
+        },
+        {
+          "inflectionType": "19",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "veterane"
+        },
+        {
+          "inflectionType": "19",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "veteranidesse,veteranesse"
+        },
+        {
+          "inflectionType": "19",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "veteranides,veteranes"
+        },
+        {
+          "inflectionType": "19",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "veteranidest,veteranest"
+        },
+        {
+          "inflectionType": "19",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "veteranidele,veteranele"
+        },
+        {
+          "inflectionType": "19",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "veteranidel,veteranel"
+        },
+        {
+          "inflectionType": "19",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "veteranidelt,veteranelt"
+        },
+        {
+          "inflectionType": "19",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "veteranideks,veteraneks"
+        },
+        {
+          "inflectionType": "19",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "veteranideni"
+        },
+        {
+          "inflectionType": "19",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "veteranidena"
+        },
+        {
+          "inflectionType": "19",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "veteranideta"
+        },
+        {
+          "inflectionType": "19",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "veteranidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sõjast osavõtnu",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Vietnami sõja veteran.",
+            "Veteranide paraad."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "ветеран",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mõnel alal kaua tegutsenud isik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Teatriveteran."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "ветеран",
+                "weight": 1
+              },
+              {
+                "words": "ветеранка",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sõjaveteran",
+        "veteranipäev",
+        "veteranpoliitik",
+        "spordiveteran",
+        "veteransportlane"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "veteran",
+      "translations": [
+        "grognard",
+        "trouper",
+        "vet",
+        "veteran"
+      ]
+    }
+  ]
+}

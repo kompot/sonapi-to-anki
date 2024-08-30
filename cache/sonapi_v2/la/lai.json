@@ -1,0 +1,821 @@
+{
+  "requestedWord": "lai",
+  "estonianWord": "lai",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22u",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "lai"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "laia"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "laia"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "laia"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "laiasse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "laias"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "laiast"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "laiale"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "laial"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "laialt"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "laiaks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "laiani"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "laiana"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "laiata"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "laiaga"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "laiad"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "laiade"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "laiu,laiasid"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "laiadesse,laiusse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "laiades,laius"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "laiadest,laiust"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "laiadele,laiule"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "laiadel,laiul"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "laiadelt,laiult"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "laiadeks,laiuks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "laiadeni"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "laiadena"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "laiadeta"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "laiadega"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "Laia"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ristsuunas, ühest küljest või servast teiseni suhteliselt suure ulatusega,selline, mille ühest küljest teise küljeni on pikk vahemaa",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Kõrge ja lai trepp.",
+            "Lai voodi.",
+            "Jõgi polnud kuigi lai.",
+            "Mehe lai selg varjas kogu vaate.",
+            "Mulle meeldib magada laias voodis.",
+            "Sportlasel on laiad õlad."
+          ],
+          "synonyms": [
+            "avar",
+            "ruumikas,mahukas",
+            "laialdane",
+            "lame"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "large",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "широкий",
+                "weight": 1
+              },
+              {
+                "words": "просторный,обширный",
+                "weight": 0.775
+              },
+              {
+                "words": "большой вместимости,объёмистый,просторный,вместительный,ёмкий",
+                "weight": 0.7
+              },
+              {
+                "words": "обширный,широкий,пространный",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "широкий",
+                "weight": 1
+              },
+              {
+                "words": "просторий",
+                "weight": 0.775
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(koos arvuliste suurustega:) teatava laiusega,teatud laiusega",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Ruum oli kolm ja pool meetrit lai.",
+            "Vaip on 3 m pikk ja 1,5 m lai."
+          ],
+          "synonyms": [
+            "laiune"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "large de",
+                "weight": 1
+              },
+              {
+                "words": "de large",
+                "weight": 1
+              },
+              {
+                "words": "large de,de large",
+                "weight": 0.468
+              }
+            ],
+            "rus": [
+              {
+                "words": "широкий",
+                "weight": 1
+              },
+              {
+                "words": "ширины,шириной в,шириной с,в ширину",
+                "weight": 0.468
+              }
+            ],
+            "ukr": [
+              {
+                "words": "широкий",
+                "weight": 1
+              },
+              {
+                "words": "у ширину,завширшки",
+                "weight": 0.468
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(igas suunas) suure ulatusega, mingist lähte- või keskpunktist (suhteliselt) kaugele ulatuv",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Läks laia maailma õnne otsima.",
+            "Vanaisa niidab laia kaarega."
+          ],
+          "synonyms": [
+            "avar"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "просторный,обширный",
+                "weight": 0.775
+              }
+            ],
+            "ukr": [
+              {
+                "words": "просторий",
+                "weight": 0.775
+              }
+            ]
+          }
+        },
+        {
+          "definition": "suure läbimõõduga,selliseks deformeerunud",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Laia põhjaga pann.",
+            "Taevast liugles alla laiu lumehelbeid.",
+            "Keegi on puraviku laiaks astunud.",
+            "Litsus sitika laiaks."
+          ],
+          "synonyms": [
+            "lamedapõhjaline"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "плоскодонный",
+                "weight": 0.408
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(riiete kohta:) avara lõikega või liiga avar",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Kui ilus lai seelik!",
+            "Mantel on seljast pisut lai."
+          ],
+          "synonyms": [
+            "avar",
+            "laiavõitu",
+            "suur",
+            "lahe",
+            "lohvakas",
+            "lohmakas",
+            "kotakas,lotakas,lötakas",
+            "lohva,lohvka",
+            "lahmakas"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "широкий",
+                "weight": 1
+              },
+              {
+                "words": "широковатый",
+                "weight": 0.9
+              },
+              {
+                "words": "крупный,большой",
+                "weight": 0.456
+              },
+              {
+                "words": "просторный,вместительный,свободный",
+                "weight": 0.9
+              },
+              {
+                "words": "массивный,громоздкий,мешковатый",
+                "weight": 0.9
+              },
+              {
+                "words": "обвислый,вислый,отвислый",
+                "weight": 0.9
+              },
+              {
+                "words": "большой,широкий,здоровенный,развалистый,мешковатый,громоздкий,большущий,огромный,громадный",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "grand",
+                "weight": 0.456
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чималий,великий",
+                "weight": 0.456
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tervet nägu hõlmava naeruse ilme kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Lai naeratus näol.",
+            "Nägu tõmbus laiale muigele."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "haardelt ulatuslik,paljut või paljusid hõlmav,suure ulatusega",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Lai silmaring.",
+            "Lai valik ehteid.",
+            "Erakonnal on lai toetajaskond.",
+            "Poes on lai valik erinevaid tooteid."
+          ],
+          "synonyms": [
+            "laialdane",
+            "suur",
+            "laiahaardeline",
+            "mastaapne",
+            "arvukas,rohke,rohkearvuline",
+            "kaugeleulatuv",
+            "massiivne,massiline",
+            "hulgaline",
+            "mitmekesine,mitmekülgne",
+            "laiaulatuslik",
+            "ulatuslik",
+            "laialine"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "large",
+                "weight": 1
+              },
+              {
+                "words": "vaste",
+                "weight": 1
+              },
+              {
+                "words": "grand",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "широкий",
+                "weight": 1
+              },
+              {
+                "words": "обширный",
+                "weight": 1
+              },
+              {
+                "words": "большой",
+                "weight": 0.456
+              },
+              {
+                "words": "широкозахватный,развёрнутый,монументальный",
+                "weight": 0.7
+              },
+              {
+                "words": "масштабный",
+                "weight": 0.7
+              },
+              {
+                "words": "многочисленный,множественный",
+                "weight": 0.7
+              },
+              {
+                "words": "далеко идущий,обширный",
+                "weight": 0.7
+              },
+              {
+                "words": "массовый",
+                "weight": 0.7
+              },
+              {
+                "words": "множественный,многочисленный",
+                "weight": 0.7
+              },
+              {
+                "words": "разновидный,разнообразный,многообразный,многосторонний,разносторонний",
+                "weight": 0.442
+              },
+              {
+                "words": "широкомасштабный",
+                "weight": 0.7
+              },
+              {
+                "words": "основательный,всеохватывающий,всеохватный,долговременный,углублённый,всеобъемлющий,обширный,пространный,широкий,фундаментальный,огромный,развёрнутый,длительный,продолжительный,глубокий,монументальный,масштабный",
+                "weight": 0.9
+              },
+              {
+                "words": "широкий,обширный",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "широкий",
+                "weight": 1
+              },
+              {
+                "words": "великий",
+                "weight": 0.456
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(helide, jutu vms kohta:) valjuhäälne, vabalt voolav",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Tüdruk lasi laia naeru.",
+            "Ei suuda seda laia jutuga meest tõsiselt võtta."
+          ],
+          "synonyms": [
+            "laiahäälne",
+            "kõrvulukustav",
+            "valjuhääleline,häälekas,kõvahäälne,valjuhäälne",
+            "vali,kõva"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "громкий",
+                "weight": 1
+              },
+              {
+                "words": "громогласный",
+                "weight": 1
+              },
+              {
+                "words": "громкоголосый,громкий",
+                "weight": 0.9
+              },
+              {
+                "words": "оглушительный",
+                "weight": 0.9
+              },
+              {
+                "words": "громкоголосый,громогласный,громкий,голосистый",
+                "weight": 0.9
+              },
+              {
+                "words": "громкий,громогласный,сильный",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "fort",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "голосний,гучний",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "loud",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(inimese, tema maneeride kohta:) suureline, tähtis, praaliv,pillav, priiskav",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Mis viga naise rahaga laia meest mängida!",
+            "Omast aru on ta lai kuju.",
+            "Naftariik näitas pidustuste korraldamisel idamaiselt laia joont."
+          ],
+          "synonyms": [
+            "suureline",
+            "ülemuslik",
+            "kõrk,upsakas,üleolev",
+            "ülbe",
+            "ennasttäis,ennast täis",
+            "täispuhutud",
+            "pillav",
+            "priiskav",
+            "uhke",
+            "kõva,kange",
+            "tähtis"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "надменный,хвастливый,самонадеянный,чванливый,заносчивый,высокомерный,чванный,спесивый,кичливый,напыщенный",
+                "weight": 0.9
+              },
+              {
+                "words": "начальнический,начальственный",
+                "weight": 0.9
+              },
+              {
+                "words": "гордый,надутый,кичливый,чванливый,пренебрежительный,напыщенный,дерзкий,высокомерный,надменный,заносчивый,спесивый,чванный,презрительный",
+                "weight": 0.9
+              },
+              {
+                "words": "чванливый,наглый,высокомерный,нахальный,надменный,заносчивый,дерзкий,спесивый,кичливый",
+                "weight": 0.9
+              },
+              {
+                "words": "вся из себя,весь из себя",
+                "weight": 0.9
+              },
+              {
+                "words": "напыщенный,высокомерный,высокопарный,надменный,надутый",
+                "weight": 0.9
+              },
+              {
+                "words": "небережливый,неэкономный,мотовской,расточительный",
+                "weight": 0.7
+              },
+              {
+                "words": "расточительный",
+                "weight": 0.7
+              },
+              {
+                "words": "гордый,горделивый,важный",
+                "weight": 0.9
+              },
+              {
+                "words": "сильный,завзятый,страстный,заядлый",
+                "weight": 0.9
+              },
+              {
+                "words": "знатный,горделивый,высокопоставленный,влиятельный,важный,гордый",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "arrogant",
+                "weight": 0.9
+              },
+              {
+                "words": "fier",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чванливий,бундючний,пихатий,погордливий,гордовитий,зарозумілий",
+                "weight": 0.9
+              },
+              {
+                "words": "гордий,гордовитий",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "arrogant",
+                "weight": 0.9
+              },
+              {
+                "words": "proud",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mahukas",
+        "laiaulatuslik",
+        "mastaapne",
+        "hulgaline",
+        "massiivne",
+        "kaugeleulatuv",
+        "laiahaardeline",
+        "rohke",
+        "arvukas",
+        "laialdane",
+        "lame",
+        "ruumikas",
+        "pillav",
+        "priiskav",
+        "suureline",
+        "iseteadlik",
+        "ülemuslik",
+        "ennast täis",
+        "laiahäälne",
+        "lötakas",
+        "lohva",
+        "lohmakas",
+        "täispuhutud",
+        "vali",
+        "lotakas",
+        "ülbe",
+        "lobe",
+        "ninatark",
+        "homeeriline",
+        "lohvakas",
+        "lohvka",
+        "lahmakas",
+        "rumaluhke",
+        "kõrk",
+        "avar",
+        "üleolev",
+        "kõvahäälne",
+        "lahe",
+        "lahe",
+        "tohe",
+        "valjuhäälne",
+        "laiavõitu",
+        "kõrvulukustav",
+        "iseteadev",
+        "kõva",
+        "tähtis",
+        "häälekas",
+        "nagu kott",
+        "upsakas",
+        "enesekindel",
+        "uhke",
+        "ulatuslik",
+        "kitsuke",
+        "ampluaa",
+        "kitsam",
+        "tööpõld",
+        "haare",
+        "haare",
+        "süvis",
+        "värvivalik",
+        "lamedapõhjaline",
+        "kitsaribaline",
+        "laius",
+        "kitsas",
+        "suur",
+        "mitmekesine",
+        "laiune",
+        "madal",
+        "silmaring",
+        "kitsavõitu",
+        "pikk",
+        "kõrge",
+        "sügav",
+        "laudjas",
+        "laudjas",
+        "kitsavõraline",
+        "teemadering",
+        "valik",
+        "laiem",
+        "spekter",
+        "kandepind",
+        "diapasoon"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lai",
+      "translations": [
+        "broad",
+        "large",
+        "wide"
+      ]
+    }
+  ]
+}

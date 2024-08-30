@@ -1,0 +1,351 @@
+{
+  "requestedWord": "residents",
+  "estonianWord": "residents",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "residents"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "residentsi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "residentsi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "residentsi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "residentsisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "residentsis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "residentsist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "residentsile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "residentsil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "residentsilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "residentsiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "residentsini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "residentsina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "residentsita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "residentsiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "residentsid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "residentside"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "residentse,residentsisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "residentsidesse,residentsesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "residentsides,residentses"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "residentsidest,residentsest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "residentsidele,residentsele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "residentsidel,residentsel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "residentsidelt,residentselt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "residentsideks,residentseks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "residentsideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "residentsidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "residentsideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "residentsidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "riigijuhi vm kõrgema võimukandja või vaimuliku asupaik, hrl töö- ja eluhoone",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Briti peaministri residents.",
+            "Valitsuse residents Stenbocki majas."
+          ],
+          "synonyms": [
+            "hoone",
+            "esindushoone",
+            "asukoht,asupaik"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "резиденция",
+                "weight": 1
+              },
+              {
+                "words": "постройка,здание,строение",
+                "weight": 0.7
+              },
+              {
+                "words": "здание представительства",
+                "weight": 0.7
+              },
+              {
+                "words": "месторасположение,местоположение,местонахождение,местопребывание",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "bâtiment",
+                "weight": 0.7
+              },
+              {
+                "words": "emplacement",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "будова,будинок,будівля",
+                "weight": 0.7
+              },
+              {
+                "words": "місцеперебування,місцезнаходження,місце розташування,місце розміщення,місцеположення",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kellegi asupaiga, elukoha kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ta residents nägi küll sauna moodi välja."
+          ],
+          "synonyms": [
+            "elamine",
+            "elukoht",
+            "katusealune,peavari,ulualune",
+            "eluase",
+            "kodu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "жилище,жильё",
+                "weight": 0.9
+              },
+              {
+                "words": "местожительство,место жительства",
+                "weight": 0.9
+              },
+              {
+                "words": "кровля,приют,крыша над головой,пристанище,прибежище,жильё,убежище,жилище,навес,крыша,кров,угол,уголок,укрытие,ночлег",
+                "weight": 0.9
+              },
+              {
+                "words": "обиталище,обитель,жилище,жильё",
+                "weight": 0.9
+              },
+              {
+                "words": "дом,кров,очаг",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "logement",
+                "weight": 0.9
+              },
+              {
+                "words": "domicile,lieu de résidence",
+                "weight": 0.9
+              },
+              {
+                "words": "maison,foyer,domicile,logement",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "житло",
+                "weight": 0.9
+              },
+              {
+                "words": "місце проживання",
+                "weight": 0.9
+              },
+              {
+                "words": "дім,домівка,оселя",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "home",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hoone",
+        "esindushoone",
+        "elupaik",
+        "eluase",
+        "elamine",
+        "peavari",
+        "asupaik",
+        "ulualune",
+        "elamine-olemine",
+        "elukoht",
+        "kodu",
+        "kodu",
+        "biotoop",
+        "katusealune",
+        "maaresidents",
+        "suveresidents",
+        "residentsus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "residents",
+      "translations": []
+    }
+  ]
+}

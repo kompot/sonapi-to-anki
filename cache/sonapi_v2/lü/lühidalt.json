@@ -1,0 +1,122 @@
+{
+  "requestedWord": "lühidalt",
+  "estonianWord": "lühidalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "lühidalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "väheste sõnadega, mitte pikalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Palun tutvusta end lühidalt."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "brièvement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "кратко",
+                "weight": 1
+              },
+              {
+                "words": "коротко",
+                "weight": 1
+              },
+              {
+                "words": "вкратце",
+                "weight": 1
+              },
+              {
+                "words": "лаконично",
+                "weight": 1
+              },
+              {
+                "words": "сжато",
+                "weight": 1
+              },
+              {
+                "words": "в двух словах",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "коротко",
+                "weight": 1
+              },
+              {
+                "words": "стисло",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "napisõnaliselt",
+        "ühesõnaga",
+        "lakooniliselt",
+        "napilt",
+        "kokkusurutult",
+        "kokkuvõtlikult",
+        "tabavalt",
+        "kokku",
+        "põhjalikult",
+        "siinkohal",
+        "pikemalt",
+        "üldistatult",
+        "lühidus",
+        "täpsemalt",
+        "lühemalt",
+        "konspektiivselt",
+        "piltlikult",
+        "kokkuvõtvalt",
+        "lühi",
+        "lühida",
+        "näitlikult",
+        "üksikasjalikult",
+        "lühike",
+        "konkreetselt",
+        "asjalikult",
+        "detailselt",
+        "üksikasjaliselt",
+        "lihtsalt",
+        "segaselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lühidalt",
+      "translations": [
+        "briefly",
+        "compactly",
+        "for short",
+        "in brief"
+      ]
+    }
+  ]
+}

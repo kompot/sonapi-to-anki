@@ -1,0 +1,212 @@
+{
+  "requestedWord": "vahele",
+  "estonianWord": "vahele",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vahele"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab kellegi või millegi asetamisele või paigutumisele hrl kahe asja või isiku vahemikku nii, et üks neist jääb ühele ja teine teisele poole,kahe inimese või asja vahelisele kohale või vahelisse kohta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Koer tõmbas saba jalge vahele.",
+            "Pani pähkli tangide vahele.",
+            "Ust kinni tõmmates jäid sõrmed vahele.",
+            "Ära trügi vahele!",
+            "Ära mine järjekorras vahele.",
+            "Istusin Rita ja Roberti vahele.",
+            "Panin foto raamatu vahele."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "entre",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "между",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "між",
+                "weight": 1
+              },
+              {
+                "words": "поміж",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajaliselt:) kahe ajamomendi, sündmuse, tegevuse vahelisele ajale",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Päevad olid hallid, harva juhtus vahele mõni päikesepaisteline."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "между",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(seoses arvsuurustega väljendatud vahemikuga)",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Temperatuur võib öösel langeda 3–5 kraadi vahele."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "osutab kahe või mitme nähtuse, isiku vms omavahelisele suhtele,osutab kahe või mitme objekti omavahelisele suhtele",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Las see jutt jääb meie vahele.",
+            "Las see jutt jääb ainult meie vahele."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "entre",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "между",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "між",
+                "weight": 1
+              },
+              {
+                "words": "поміж",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab segavale, takistavale tulekule mingisse tegevusse või protsessi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Ema segas ennast teiste asjade vahele.",
+            "Ta tahtis preilit juba jõulu ajal altari ette viia, aga näe, surm tuli vahele."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "seoses kellegi jutusse sekkumisega (seda katkestades)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõnepidajale hüüti vahele.",
+            "Laps ärgu rääkigu vanainimeste jutu vahele."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "mesti",
+        "hulka",
+        "kilda",
+        "ühes",
+        "keskele",
+        "kaasa",
+        "kaasa",
+        "sekka",
+        "seltsi",
+        "sleppi",
+        "kuhjama",
+        "vahel",
+        "vahelt",
+        "sisse",
+        "täis toppima",
+        "vahelepõige",
+        "kõrvale",
+        "omavahele",
+        "vahelejätt",
+        "kahevahele"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vahele",
+      "translations": [
+        "between",
+        "out of turn (rääkima)"
+      ]
+    }
+  ]
+}

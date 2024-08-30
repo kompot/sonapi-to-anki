@@ -1,0 +1,473 @@
+{
+  "requestedWord": "kinni",
+  "estonianWord": "kinni",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kinni"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "suletud seisundisse või suletud seisundis,(pealt) kaetuks või kaetuna,nii, et katab sisse- ja väljapääsu või mingit pinda",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pane aken kinni!",
+            "Täitsin pudelid ja korkisin kinni.",
+            "Kohver ei taha kinni minna.",
+            "Silmad vajuvad vägisi kinni.",
+            "Pimesikul seoti silmad salliga kinni.",
+            "Uks on kinni.",
+            "Arst sidus haava kinni.",
+            "Panin ahju ukse kinni."
+          ],
+          "synonyms": [
+            "umbe"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "закрыто",
+                "weight": 1
+              },
+              {
+                "words": "замкнуто",
+                "weight": 1
+              },
+              {
+                "words": "заперто",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "закрито",
+                "weight": 1
+              },
+              {
+                "words": "зачинено",
+                "weight": 1
+              },
+              {
+                "words": "замкнуто",
+                "weight": 1
+              },
+              {
+                "words": "замкнено",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(asutuse kohta:) seisus, kus tööd, teenindamist ei toimu,asutuste kohta: nii, et ei tööta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kohvik on kinni, klubi on kinni.",
+            "Eriolukorras on kõik koolid ja söögikohad kinni.",
+            "Pühapäeval on apteek kinni."
+          ],
+          "synonyms": [
+            "suletud"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "закрыт",
+                "weight": 1
+              },
+              {
+                "words": "закрыта",
+                "weight": 1
+              },
+              {
+                "words": "закрыто",
+                "weight": 1
+              },
+              {
+                "words": "закрыты",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зачинено",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(süvendi vms korral:) täis, millestki täidetuks või täidetuna,liitunuks, kokku",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Haud aeti kinni.",
+            "Haav on täiesti kinni kasvanud."
+          ],
+          "synonyms": [
+            "umbes"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "забившийся,закупоренный,заторенный,забитый,засорённый",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "bouché",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "забитий",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(seadmete kohta:) väljalülitatud olekus(se)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Televiisor on kinni, sest sealt ei tule midagi huvitavat."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "sellisesse olukorda või sellises olukorras, et liikumine on takistatud või seda ei toimu või kellegi vabadus on piiratud,olukorras või olukorda, kus liikumine on takistatud või kellegi vabadus piiratud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Hoidke teda kinni, et ta põgenema ei pääseks!",
+            "Koer on toas kinni.",
+            "Tähtsad toimetused hoidvat teda linnas kinni.",
+            "Rongkäigu ajaks pannakse liiklus kinni.",
+            "Auto jäi lumme kinni.",
+            "Koer on toas kinni.",
+            "Politsei ei tea, kus röövlid naist kinni hoiavad."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(mõtete, harjumuste, tunnete seotuse kohta),(osutab asjaolule, mille tõttu on miski takistatud)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ära ole minevikus kinni.",
+            "Ta on kinni oma endises mehes.",
+            "Paljuski on asi mõtlemises kinni."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "vangi või vangis",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mees läks kolmeks aastaks kinni.",
+            "Mõrvar istub kinni."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(osutab tihedalt kokkuköidetud, kokkusurutud või tihedalt kooshoidvale, pingul seisundile)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kui ma kooli läksin, ei osanud ma kingapaelugi kinni siduda.",
+            "Juku tõmbas püksirihma kõvasti kinni."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(hingamise tagasihoituse või takistatuse kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nina on kinni.",
+            "Proovisime, kumb meist suudab kauem hinge kinni hoida.",
+            "Poisil suurest jooksust hing kinni."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "osutab millegi lakkamisele,seoses ajaga, kus lehm ajutiselt ei anna piima",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Põud pani viljakasvu kinni.",
+            "Talveks jäid lehmad kinni.",
+            "Raske aeg, lehm on kinni, kanad ei mune."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(harvenenud roojaerituse, kõhukinnisuse kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõht on kinni."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "haarates külge, haardesse või haardes, küljes,(püütava, otsitava kättesaamise kohta),nii, et sa hoiad midagi käes või võtad midagi kätte",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Laps hoidis ema käest kinni.",
+            "Püüa pall kinni!",
+            "Kõrv püüdis kinni mõne üksiku lausekatke.",
+            "Katusele ronides hoidsin kõvasti redelist kinni.",
+            "Poiss võttis tüdrukul käest kinni."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(mingi olukorra, mõtte ärakasutamise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Haarasime ideest kinni ja tegime näituse teoks."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "millegi rohkust märkivates väljendites osutab tihedasti, väga lähestikku või vahetus kokkupuutes paiknemisele",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kreetal on hotell hotellis kinni.",
+            "Maakaardilt näeme, et Karjala kaguosas on üks järv teises kinni."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вплотную",
+                "weight": 1
+              },
+              {
+                "words": "тесно",
+                "weight": 1
+              },
+              {
+                "words": "плотно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tööga, mingi tegevusega koormatud, mingis olekus, mitte vaba,mitte vaba",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tänan kutsumast, aga olen kahjuks tööga kinni.",
+            "Kohvikus olid kõik kohad kinni.",
+            "Tal on telefon kogu aeg kinni.",
+            "Saalis on kõik kohad kinni.",
+            "Olen praegu kinni, räägime hiljem."
+          ],
+          "synonyms": [
+            "hõivatud",
+            "seotud",
+            "töine"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "занят",
+                "weight": 1
+              },
+              {
+                "words": "деловой,многотрудный",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зайнятий",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "umbe",
+        "umbes",
+        "vangis",
+        "suluksis",
+        "kongis",
+        "suletud",
+        "okastraadi taga",
+        "vee ja leiva peal",
+        "pulkade taga",
+        "trellide taga",
+        "täis",
+        "täis",
+        "ümber kerima",
+        "külge hakkama",
+        "külge siduma",
+        "haakuma",
+        "täis tuupima",
+        "ära sööma",
+        "kaasa",
+        "kaasa",
+        "kahmama",
+        "kaunistama",
+        "kokku siduma",
+        "kokku",
+        "sõtkuma",
+        "takerduma",
+        "kokku panema",
+        "pistma",
+        "üle viskama",
+        "sõlmama",
+        "kinni keerama",
+        "pressima",
+        "kirjama",
+        "summutama",
+        "uppuma",
+        "külge kruvima",
+        "rammima",
+        "kiskuma",
+        "kinni haarama",
+        "paranema",
+        "pakkima",
+        "kätte",
+        "üles",
+        "sisse vajuma",
+        "suruma",
+        "keerutama",
+        "haarama",
+        "pitsitama",
+        "pitsitama",
+        "välja õmblema",
+        "muljuma",
+        "taguma",
+        "minestama",
+        "kinni mätsima",
+        "toppima",
+        "vastu",
+        "krabama",
+        "peale",
+        "köitma",
+        "jääma",
+        "sulgema",
+        "ajama",
+        "armistuma",
+        "tikkima",
+        "rabama",
+        "naelutama",
+        "kokku vajutama",
+        "läbi õmblema",
+        "aitama",
+        "kokku kasvama",
+        "poolkinni",
+        "lahti",
+        "maha",
+        "vinni"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kinni",
+      "translations": [
+        "blocked",
+        "busy",
+        "down",
+        "fastened",
+        "stuck"
+      ]
+    }
+  ]
+}

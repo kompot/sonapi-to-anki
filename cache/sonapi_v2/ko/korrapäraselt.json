@@ -1,0 +1,106 @@
+{
+  "requestedWord": "korrapäraselt",
+  "estonianWord": "korrapäraselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "korrapäraselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "равномерно",
+                "weight": 1
+              },
+              {
+                "words": "симметрично",
+                "weight": 1
+              },
+              {
+                "words": "регулярно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "perioodiliselt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ритмично",
+                "weight": 1
+              },
+              {
+                "words": "периодически,периодично",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "periodically",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "regulaarselt",
+        "rütmiliselt",
+        "perioodiliselt",
+        "järjepidevalt",
+        "süstemaatiliselt",
+        "graatsiliselt",
+        "aeg-ajalt",
+        "õieti",
+        "reeglipäraselt",
+        "õigesti",
+        "harmooniliselt",
+        "sujuvalt",
+        "loogiliselt",
+        "nõtkelt",
+        "järjekindlalt",
+        "rühikalt",
+        "korrapäratult",
+        "korrapärane",
+        "korrapäratu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "korrapäraselt",
+      "translations": [
+        "periodically",
+        "regularly"
+      ]
+    }
+  ]
+}

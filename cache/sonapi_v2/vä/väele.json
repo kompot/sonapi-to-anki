@@ -1,0 +1,47 @@
+{
+  "requestedWord": "väele",
+  "estonianWord": "väele",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "väele"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "olukorda, et ainult teatud riietusese seljas või jalas (ja mitte muud selle peal)",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Võtan jalast botased, jään sokkide väele.",
+            "Ta rõivastus bikiinide väele."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "tudile"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "väele",
+      "translations": []
+    }
+  ]
+}

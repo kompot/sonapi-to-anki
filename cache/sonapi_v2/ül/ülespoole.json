@@ -1,0 +1,139 @@
+{
+  "requestedWord": "ülespoole",
+  "estonianWord": "ülespoole",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ülespoole"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kohalt, asendilt kõrgemale, suunaga üles,kõrgemale, suunaga alt üles",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Soe õhk kerkib ülespoole.",
+            "Saapasääred ulatasid ülespoole põlve.",
+            "Orav jooksis mööda puud ülespoole.",
+            "Soe õhk liigub ülespoole."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вверх",
+                "weight": 1
+              },
+              {
+                "words": "выше",
+                "weight": 1
+              },
+              {
+                "words": "кверху",
+                "weight": 1
+              },
+              {
+                "words": "наверх",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вгору",
+                "weight": 1
+              },
+              {
+                "words": "уверх",
+                "weight": 1
+              },
+              {
+                "words": "догори",
+                "weight": 1
+              },
+              {
+                "words": "нагору",
+                "weight": 1
+              },
+              {
+                "words": "наверх",
+                "weight": 1
+              },
+              {
+                "words": "вище",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "määralt, tasemelt, väärtuselt kõrgemale",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kui tuleb euro, tuleb ka hindade ülespoole ümardamine."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вверх",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ülespidi",
+        "ületsi",
+        "üles",
+        "peale",
+        "ülal",
+        "eespool",
+        "kõrgemale",
+        "liuglema",
+        "kuhugipoole",
+        "pealepoole",
+        "poolviltu",
+        "tahapoole",
+        "nihkuma",
+        "sissepoole",
+        "ettepoole",
+        "allapoole"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ülespoole",
+      "translations": [
+        "skyward",
+        "skywards",
+        "upward",
+        "upwards"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "requestedWord": "jäine",
+  "estonianWord": "jäine",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "10",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "jäine"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "jäise"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "jäist"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "jäisesse"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "jäises"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "jäisest"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "jäisele"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "jäisel"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "jäiselt"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "jäiseks"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "jäiseni"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "jäisena"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "jäiseta"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "jäisega"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "jäised"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "jäiste"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "jäiseid"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "jäistesse,jäiseisse"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "jäistes,jäiseis"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "jäistest,jäiseist"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "jäistele,jäiseile"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "jäistel,jäiseil"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "jäistelt,jäiseilt"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "jäisteks,jäiseiks"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "jäisteni"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "jäistena"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "jäisteta"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "jäistega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "jääst koosnev või jääga kaetud, jäätunud (mitte veekogu kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Öine külm oli maandumisraja jäiseks muutnud."
+          ],
+          "synonyms": [
+            "jäätunud"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "обледенелый",
+                "weight": 1
+              },
+              {
+                "words": "обледеневший",
+                "weight": 1
+              },
+              {
+                "words": "оледенелый",
+                "weight": 1
+              },
+              {
+                "words": "заледенелый",
+                "weight": 1
+              },
+              {
+                "words": "леденистый",
+                "weight": 1
+              },
+              {
+                "words": "ледяной",
+                "weight": 1
+              },
+              {
+                "words": "льдистый",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "külm nagu jää, väga külm",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Jäist tuult trotsides rühiti edasi.",
+            "Kõrvetava päikese käes maitses jäine kokteil lausa taevalikult."
+          ],
+          "synonyms": [
+            "jääkülm",
+            "kivikülm",
+            "kibekülm",
+            "pakasene,pakaseline",
+            "kõle",
+            "kõlekülm",
+            "kärekülm",
+            "raudkülm",
+            "teraskülm",
+            "tulikülm",
+            "krõbe,käre",
+            "valuskülm",
+            "pakane",
+            "karm",
+            "põrgukülm",
+            "krõps",
+            "kale"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ледяной",
+                "weight": 1
+              },
+              {
+                "words": "леденящий",
+                "weight": 1
+              },
+              {
+                "words": "морозный",
+                "weight": 1
+              },
+              {
+                "words": "заледенелый",
+                "weight": 1
+              },
+              {
+                "words": "промёрзлый",
+                "weight": 1
+              },
+              {
+                "words": "студёный",
+                "weight": 1
+              },
+              {
+                "words": "очень холодный",
+                "weight": 1
+              },
+              {
+                "words": "холодный как лёд",
+                "weight": 1
+              },
+              {
+                "words": "студёный,морозный,холодный",
+                "weight": 0.89
+              },
+              {
+                "words": "резкий,леденящий,промозглый,пронизывающий,холодный",
+                "weight": 0.519
+              },
+              {
+                "words": "ледяной, как железо,ледяной,холодный как железо",
+                "weight": 0.89
+              },
+              {
+                "words": "холодный, как сталь",
+                "weight": 0.89
+              },
+              {
+                "words": "сердитый,жестокий,лютый,свирепый,суровый,морозный,студёный,трескучий",
+                "weight": 0.89
+              },
+              {
+                "words": "леденящий,пронизывающе-ледяной",
+                "weight": 0.89
+              },
+              {
+                "words": "холодный,морозный,студёный",
+                "weight": 0.7
+              },
+              {
+                "words": "чертовски холодный,адски холодный",
+                "weight": 0.9
+              },
+              {
+                "words": "трескучий мороз",
+                "weight": 0.7
+              },
+              {
+                "words": "суровый",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "freezing",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tunnete, psüühilise sfääri kohta:) äärmiselt ükskõikne, kalk",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Külaline võeti vastu jäise viisakusega."
+          ],
+          "synonyms": [
+            "jääkülm",
+            "jäik,kalk,külm",
+            "südametu",
+            "karm",
+            "kalge",
+            "tundetu",
+            "kõvasüdameline",
+            "kivine",
+            "julm",
+            "kale",
+            "rüve"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ледяной",
+                "weight": 1
+              },
+              {
+                "words": "равнодушный",
+                "weight": 1
+              },
+              {
+                "words": "бездушный,ледяной",
+                "weight": 0.8163
+              },
+              {
+                "words": "бездушный,жёсткий,сухой,ожесточённый,жестокосердный,нечуткий,нечувствительный,бессердечный,чёрствый,натянутый,суровый",
+                "weight": 0.9
+              },
+              {
+                "words": "бездушный,чёрствый,бессердечный,жестокосердный",
+                "weight": 0.89
+              },
+              {
+                "words": "тупой,бесчувственный,холодный,нечувствительный,бесстрастный,нечуткий,безучастный,равнодушный",
+                "weight": 0.89
+              },
+              {
+                "words": "жестокосердный,бессердечный",
+                "weight": 0.89
+              },
+              {
+                "words": "окаменелый",
+                "weight": 0.9
+              },
+              {
+                "words": "беспощадный,жестокий,палаческий,звериный,изуверский,зверский,нещадный,безжалостный,свирепый,лютый",
+                "weight": 0.9
+              },
+              {
+                "words": "суровый,резкий,жестокий,ожесточённый,чёрствый,жёсткий,бездушный,твердокаменный",
+                "weight": 0.9
+              },
+              {
+                "words": "грязный",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "cruel",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "лютий,нещадний,безжалісний,немилосердний,жорстокий",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "cruel",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pakane",
+        "jäik",
+        "jäätunud",
+        "külm",
+        "krõbe",
+        "raudne",
+        "kivine",
+        "vali",
+        "kivikülm",
+        "rüve",
+        "põrgukülm",
+        "kibekülm",
+        "kalk",
+        "südametu",
+        "karm",
+        "karm",
+        "pakaseline",
+        "jääkülm",
+        "metalne",
+        "kõlekülm",
+        "pakasene",
+        "kale",
+        "julm",
+        "kõrvetav",
+        "kare",
+        "kare",
+        "kärekülm",
+        "raudkülm",
+        "teraskülm",
+        "tulikülm",
+        "käre",
+        "metalline",
+        "kalge",
+        "valuskülm",
+        "tundetu",
+        "kõvasüdameline",
+        "hurmav",
+        "tuisune",
+        "tuulevaikne",
+        "lumetu",
+        "sädelev",
+        "toredus",
+        "sulav",
+        "sume",
+        "tuisk",
+        "jäävihm",
+        "sulnis",
+        "sombune",
+        "lumevaene",
+        "tontlik",
+        "marutuul",
+        "lumerohke",
+        "porine",
+        "soe",
+        "tuisupea",
+        "päikseline",
+        "härmas",
+        "külmus",
+        "päikeseline",
+        "briis",
+        "kõle",
+        "lumine",
+        "jahedus",
+        "kalk",
+        "kale"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "jäine",
+      "translations": [
+        "freezing",
+        "frigid",
+        "gelid",
+        "glacial",
+        "icy",
+        "(ülek) stony"
+      ]
+    }
+  ]
+}

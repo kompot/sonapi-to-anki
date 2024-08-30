@@ -1,0 +1,192 @@
+{
+  "requestedWord": "nüüd",
+  "estonianWord": "nüüd",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "nüüd"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "käesoleval ajahetkel või seda hõlmaval lühemal või pikemal ajalõigul,käesoleval hetkel või ajal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nüüd on ka minu kannatus katkenud.",
+            "Ja nüüd koju magama?",
+            "Nüüd ei ole enam hommik, vaid päev juba.",
+            "Aini senise elu võib jagada kaheks: enne ja nüüd.",
+            "Hommikul sadas vihma, aga nüüd paistab päike.",
+            "Lähme nüüd kinno."
+          ],
+          "synonyms": [
+            "praegu",
+            "prg",
+            "täna",
+            "hetkel,momendil"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "maintenant",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "сейчас",
+                "weight": 1
+              },
+              {
+                "words": "теперь",
+                "weight": 1
+              },
+              {
+                "words": "в настоящее время",
+                "weight": 1
+              },
+              {
+                "words": "нынче",
+                "weight": 1
+              },
+              {
+                "words": "ныне",
+                "weight": 1
+              },
+              {
+                "words": "сегодня",
+                "weight": 0.7882
+              },
+              {
+                "words": "в данный момент",
+                "weight": 0.8063
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тепер",
+                "weight": 1
+              },
+              {
+                "words": "зараз",
+                "weight": 1
+              }
+            ],
+            "eng": [
+              {
+                "words": "today",
+                "weight": 0.7882
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(praegusele ajahetkele lisaks ka muutunud olukorrale või järgnevale viidates)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Räägime nüüd teie tülist presidendiga."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "теперь",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "väljendab kõneleja suhtumist (nt imestust, kahtlemist, tõrjumist, järelemõtlemist)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mis te nüüd!",
+            "Ole nüüd!",
+            "Mida ma nüüd öelda tahtsingi?",
+            "On see nüüd hea või halb?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "ну",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "praegu",
+        "täna",
+        "täna",
+        "ometi",
+        "kohe",
+        "kohe",
+        "siis",
+        "tõepoolest",
+        "taas",
+        "sedapidi",
+        "tõesti",
+        "see",
+        "juba",
+        "aga",
+        "aga",
+        "siiski",
+        "jälle",
+        "seal",
+        "ilmselt",
+        "siin",
+        "siin",
+        "meil",
+        "kõik",
+        "veel",
+        "ikka",
+        "küll",
+        "küll",
+        "vahepeal",
+        "tegelikult",
+        "lõpuks",
+        "ikkagi",
+        "endiselt",
+        "varsti",
+        "vist",
+        "vist",
+        "lihtsalt",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "nüüd",
+      "translations": [
+        "now"
+      ]
+    }
+  ]
+}

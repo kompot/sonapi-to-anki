@@ -1,0 +1,621 @@
+{
+  "requestedWord": "kitsendama",
+  "estonianWord": "kitsendama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "kitsendama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "kitsendamata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "kitsendamas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "kitsendamast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "kitsendamaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "kitsendatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "kitsendada"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "kitsendades"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "kitsendav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "kitsendatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "kitsendanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "kitsendanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "kitsendatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "kitsendatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "kitsendan"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "kitsendad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "kitsendab"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "kitsendame"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "kitsendate"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "kitsendavad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "kitsenda"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "kitsendatakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "kitsendata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "kitsendasin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "kitsendasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "kitsendas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "kitsendasime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "kitsendasite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "kitsendasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "kitsendati"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "kitsendaksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "kitsendaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "kitsendaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "kitsendaksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "kitsendaksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "kitsendaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "kitsendataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "kitsendanuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "kitsendanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "kitsendanuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "kitsendanuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "kitsendanuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "kitsendanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "kitsendatuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "kitsendavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "kitsendatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "kitsendanuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "kitsendatuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "kitsenda"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "kitsendagem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "kitsendage"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "kitsendagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "kitsendatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(nähtusele, protsessile, tegevusele) tõkestavaid tingimusi, piire seadma, millegi toimimis- või esinemisala vähendama,millelegi kindlat piiri seadma, midagi (selle piirini) vähendama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Otsus ei kitsenda elanike õigusi.",
+            "Loetelu on võimalik kitsendada.",
+            "Kitsendav tingimus."
+          ],
+          "synonyms": [
+            "ahendama",
+            "piirama",
+            "kärpima",
+            "kahandama,vähendama",
+            "keelama",
+            "reguleerima",
+            "aeglustama",
+            "takistama",
+            "limiteerima",
+            "tõkestama",
+            "lõikama",
+            "tõrjuma",
+            "kahandama,vähendama"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "limiter",
+                "weight": 1
+              },
+              {
+                "words": "diminuer,réduire",
+                "weight": 0.9
+              },
+              {
+                "words": "réduire,diminuer",
+                "weight": 0.9
+              },
+              {
+                "words": "réguler",
+                "weight": 0.523
+              },
+              {
+                "words": "empêcher",
+                "weight": 0.54
+              }
+            ],
+            "rus": [
+              {
+                "words": "ущемлять",
+                "weight": 1
+              },
+              {
+                "words": "ущемить",
+                "weight": 1
+              },
+              {
+                "words": "ограничивать",
+                "weight": 1
+              },
+              {
+                "words": "ограничить",
+                "weight": 1
+              },
+              {
+                "words": "лимитировать",
+                "weight": 1
+              },
+              {
+                "words": "стеснять",
+                "weight": 1
+              },
+              {
+                "words": "стеснить",
+                "weight": 1
+              },
+              {
+                "words": "суживать",
+                "weight": 1
+              },
+              {
+                "words": "сужать",
+                "weight": 1
+              },
+              {
+                "words": "сузить",
+                "weight": 1
+              },
+              {
+                "words": "умерять",
+                "weight": 1
+              },
+              {
+                "words": "умерить",
+                "weight": 1
+              },
+              {
+                "words": "ущерблять",
+                "weight": 1
+              },
+              {
+                "words": "ущербить",
+                "weight": 1
+              },
+              {
+                "words": "подсократить",
+                "weight": 1
+              },
+              {
+                "words": "ужать,ужимать,урезывать,сократить,урезать,сокращать",
+                "weight": 0.9
+              },
+              {
+                "words": "приспускать,приспустить,снижать,сбавлять,снизить,сбавить,сокращать,сократить,уменьшать,уменьшить,умалять,умалить,убавлять,убавить",
+                "weight": 0.9
+              },
+              {
+                "words": "регулировать,отрегулировать,урегулировать",
+                "weight": 0.523
+              },
+              {
+                "words": "понизить,понижать,сбавить,снижать,сбавлять,замедлить,замедлять,снизить",
+                "weight": 0.512
+              },
+              {
+                "words": "противодействовать,затруднить,затруднять,застопорить,стопорить,задержать,задерживать,воспрепятствовать,сдерживать,сдержать,мешать,помешать,препятствовать",
+                "weight": 0.54
+              },
+              {
+                "words": "лимитировать,устанавливать лимит,ограничивать,ограничить,установить лимит",
+                "weight": 0.505
+              },
+              {
+                "words": "препятствовать,положить предел,ограничивать,ограничить,блокировать,предотвращать,воспрепятствовать,предотвратить",
+                "weight": 0.513
+              },
+              {
+                "words": "урезывать,урезать",
+                "weight": 0.7
+              },
+              {
+                "words": "истребить,истреблять,уничтожить,уничтожать,вывести,выводить",
+                "weight": 0.7
+              },
+              {
+                "words": "уменьшать,уменьшить,понизить,понижать,сбавить,сбавлять,снизить,снижать",
+                "weight": 0.774
+              }
+            ],
+            "ukr": [
+              {
+                "words": "обмежувати",
+                "weight": 1
+              },
+              {
+                "words": "обмежити",
+                "weight": 1
+              },
+              {
+                "words": "лімітувати",
+                "weight": 1
+              },
+              {
+                "words": "урізувати,зменшити,зменшувати,скоротити,скорочувати,урізати",
+                "weight": 0.9
+              },
+              {
+                "words": "зменшувати,зменшити,знижувати,знизити,скорочувати,скоротити,спускати,спустити",
+                "weight": 0.9
+              },
+              {
+                "words": "регулювати,відрегулювати,урегулювати,врегулювати",
+                "weight": 0.523
+              },
+              {
+                "words": "заважати,перешкодити,перешкоджати,завадити",
+                "weight": 0.54
+              }
+            ]
+          }
+        },
+        {
+          "definition": "laiuselt vähemaks, kitsamaks tegema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Sõiduteed pole mõtet kitsendada endiseks."
+          ],
+          "synonyms": [
+            "ahendama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "суживать",
+                "weight": 1
+              },
+              {
+                "words": "сужать",
+                "weight": 1
+              },
+              {
+                "words": "сузить",
+                "weight": 1
+              },
+              {
+                "words": "сокращать",
+                "weight": 1
+              },
+              {
+                "words": "сократить",
+                "weight": 1
+              },
+              {
+                "words": "уменьшать",
+                "weight": 1
+              },
+              {
+                "words": "уменьшить",
+                "weight": 1
+              },
+              {
+                "words": "ограничивать",
+                "weight": 1
+              },
+              {
+                "words": "ограничить",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ahendama",
+        "ahistama",
+        "kokku võtma",
+        "piirama",
+        "kahandama",
+        "kärpima",
+        "suruma",
+        "koondama",
+        "kokku pigistama",
+        "vähendama",
+        "lühendama",
+        "pehmendama",
+        "üldistama",
+        "vastandama",
+        "pisendama",
+        "kitsenema",
+        "laiendama",
+        "harvendama",
+        "masendama",
+        "kisendama",
+        "rehkendama",
+        "noorendama",
+        "käsitama",
+        "sisendama",
+        "halvendama",
+        "võõrandama",
+        "taaskehtestama",
+        "pahandama",
+        "terendama",
+        "kohendama",
+        "õgvendama",
+        "raskendama",
+        "teisendama",
+        "parendama",
+        "kõrgendama",
+        "lõdvendama",
+        "haljendama",
+        "läkastama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kitsendama",
+      "translations": []
+    }
+  ]
+}

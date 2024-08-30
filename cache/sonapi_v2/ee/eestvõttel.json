@@ -1,0 +1,75 @@
+{
+  "requestedWord": "eestvõttel",
+  "estonianWord": "eestvõttel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eestvõttel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi juhtimisel, korraldamisel, algatusel",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Üritus toimus Eesti Instituudi eestvõttel."
+          ],
+          "synonyms": [
+            "eestvedamisel",
+            "eestvõtmisel",
+            "eestvõtul"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "по инициативе",
+                "weight": 1
+              },
+              {
+                "words": "под предводительством",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "juhtimisel",
+        "toimetusel",
+        "eestvedamisel",
+        "toel",
+        "õhutusel",
+        "loodi",
+        "eestvedamine",
+        "eestvõtul",
+        "toetusel",
+        "juhatusel",
+        "eestvõtmine",
+        "eestvõtja",
+        "eestvõtmisel",
+        "kaasabil",
+        "sõnul"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "eestvõttel",
+      "translations": []
+    }
+  ]
+}

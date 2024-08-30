@@ -1,0 +1,74 @@
+{
+  "requestedWord": "objektiivselt",
+  "estonianWord": "objektiivselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "objektiivselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "объективно",
+                "weight": 1
+              },
+              {
+                "words": "беспристрастно",
+                "weight": 1
+              },
+              {
+                "words": "непредвзято",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "erapooletult",
+        "kvantitatiivselt",
+        "tõepäraselt",
+        "kiretult",
+        "subjektiivselt",
+        "ratsionaalselt",
+        "deduktiivselt",
+        "adekvaatselt",
+        "normatiivselt",
+        "objektiivne",
+        "konspektiivselt",
+        "ebaobjektiivne",
+        "retrospektiivselt",
+        "kvalitatiivselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "objektiivselt",
+      "translations": [
+        "objectively"
+      ]
+    }
+  ]
+}

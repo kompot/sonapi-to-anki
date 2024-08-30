@@ -1,0 +1,77 @@
+{
+  "requestedWord": "tuttu",
+  "estonianWord": "tuttu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tuttu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(voodisse) magama",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "On aeg tuttu minna."
+          ],
+          "synonyms": [
+            "tudile",
+            "tudule",
+            "tutti"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "бай-бай",
+                "weight": 1
+              },
+              {
+                "words": "баю-бай",
+                "weight": 1
+              },
+              {
+                "words": "баиньки",
+                "weight": 1
+              },
+              {
+                "words": "спать",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tuttuus",
+        "imekähku",
+        "tutti",
+        "tutti",
+        "rõõmsasti",
+        "magama",
+        "armsasti",
+        "imeruttu",
+        "ruttu-ruttu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tuttu",
+      "translations": []
+    }
+  ]
+}

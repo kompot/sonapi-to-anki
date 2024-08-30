@@ -1,0 +1,376 @@
+{
+  "requestedWord": "ühekorraga",
+  "estonianWord": "ühekorraga",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ühekorraga"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ühel ja samal ajal,ühel ja samal ajal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõik külalised tulid ühekorraga.",
+            "Ühekorraga efektne ja mugav lahendus."
+          ],
+          "synonyms": [
+            "korraga",
+            "samaaegselt",
+            "üheaegselt",
+            "kõrvu,kõrvuti"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "en même temps",
+                "weight": 1
+              },
+              {
+                "words": "à la fois",
+                "weight": 1
+              },
+              {
+                "words": "simultanément",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "одновременно",
+                "weight": 1
+              },
+              {
+                "words": "единовременно",
+                "weight": 1
+              },
+              {
+                "words": "разом",
+                "weight": 1
+              },
+              {
+                "words": "синхронно",
+                "weight": 1
+              },
+              {
+                "words": "рядом,наряду с,одновременно",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "одночасно",
+                "weight": 1
+              },
+              {
+                "words": "водночас",
+                "weight": 1
+              },
+              {
+                "words": "разом",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "üllatuslikult (kiiresti, sel samal hetkel), ette nägematult, ette teatamata vms,(kiiresti ja) nii et ei osanud ette näha",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ühekorraga käis kõva pauk.",
+            "Pikalt kestnud suhet on raske ühekorraga lõpetada."
+          ],
+          "synonyms": [
+            "järsku",
+            "korraga",
+            "äkitselt",
+            "äkki",
+            "ühtäkki",
+            "ootamatult",
+            "üksäkki",
+            "hetkepealt,jalamaid,jalapealt,kohe,kohemaid,koheselt,korrapealt,minutipealt,otsekohe,otsemaid,otsemat teed,otseteed,paugupealt,paukselt,plaksupealt,raksupealt,ropsult,ropsupealt,sedamaid,sekundipealt,silmapilk,tunnipealt,viibimata,viivitamata,momentaanselt,momentselt,viibimatult,viivitamatult,sekundi pealt,momentaalselt,silmapilkselt,minuti pealt,krapsupealt"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "suddenly",
+                "weight": 1
+              },
+              {
+                "words": "unexpectedly",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "soudain",
+                "weight": 1
+              },
+              {
+                "words": "tout à coup",
+                "weight": 1
+              },
+              {
+                "words": "subitement",
+                "weight": 1
+              },
+              {
+                "words": "brusquement",
+                "weight": 1
+              },
+              {
+                "words": "tout de suite,immédiatement,aussitôt",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "вдруг",
+                "weight": 1
+              },
+              {
+                "words": "внезапно",
+                "weight": 1
+              },
+              {
+                "words": "непредвиденно",
+                "weight": 1
+              },
+              {
+                "words": "мгновенно",
+                "weight": 1
+              },
+              {
+                "words": "с ходу",
+                "weight": 1
+              },
+              {
+                "words": "неожиданно",
+                "weight": 1
+              },
+              {
+                "words": "нежданно",
+                "weight": 1
+              },
+              {
+                "words": "разом",
+                "weight": 1
+              },
+              {
+                "words": "откуда ни возьмись",
+                "weight": 1
+              },
+              {
+                "words": "нежданно-негаданно",
+                "weight": 1
+              },
+              {
+                "words": "немедленно,не теряя времени,без промедления,безотлагательно,в один миг,мгновенно,моментально,сию минуту,тут же,сразу,немедля,мигом,немедлительно,незамедлительно,сию же минуту,сию же секунду,сейчас же,с ходу,сию секунду,прямиком,спешно,срочно,в срочном порядке,неотлагательно,сразу же,тотчас,без замедления,одним пыхом,в одну минуту,вмиг,неотложно,в одночасье,моменталом,не откладывая,не раздумывая,не тратя времени,в одну секунду,тотчас же,щас",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "раптом",
+                "weight": 1
+              },
+              {
+                "words": "враз",
+                "weight": 1
+              },
+              {
+                "words": "нараз",
+                "weight": 1
+              },
+              {
+                "words": "раптово",
+                "weight": 1
+              },
+              {
+                "words": "непередбачено",
+                "weight": 1
+              },
+              {
+                "words": "несподівано",
+                "weight": 1
+              },
+              {
+                "words": "нагло",
+                "weight": 1
+              },
+              {
+                "words": "зненацька",
+                "weight": 1
+              },
+              {
+                "words": "відразу,зразу,зараз же,негайно",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(järjest) ühe hooga,nii, et ei teki pausi, ühe korraga",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta sõi kogu toidu ühekorraga ära."
+          ],
+          "synonyms": [
+            "korraga"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "en une seule fois",
+                "weight": 1
+              },
+              {
+                "words": "d'un seul coup",
+                "weight": 1
+              },
+              {
+                "words": "d'une seule traite",
+                "weight": 1
+              },
+              {
+                "words": "d'affilée",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "сразу",
+                "weight": 1
+              },
+              {
+                "words": "разом",
+                "weight": 1
+              },
+              {
+                "words": "с ходу",
+                "weight": 1
+              },
+              {
+                "words": "в один присест",
+                "weight": 1
+              },
+              {
+                "words": "за один присест",
+                "weight": 1
+              },
+              {
+                "words": "одним махом",
+                "weight": 1
+              },
+              {
+                "words": "с единого маху",
+                "weight": 1
+              },
+              {
+                "words": "зараз",
+                "weight": 1
+              },
+              {
+                "words": "враз",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зразу",
+                "weight": 1
+              },
+              {
+                "words": "відразу",
+                "weight": 1
+              },
+              {
+                "words": "зараз",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "rapsupealt",
+        "silmapilkselt",
+        "nagu ussist nõelatud",
+        "ühtäkki",
+        "järsku",
+        "pärast",
+        "silmapilk",
+        "silmapilk",
+        "nagu välgust rabatud",
+        "ühtaegu",
+        "raksupealt",
+        "viimati",
+        "üheaegselt",
+        "sünkroonselt",
+        "korrapealt",
+        "lõigatult",
+        "korraga",
+        "ühe naksuga",
+        "sõnapealt",
+        "rinnakuti",
+        "hetkelt",
+        "äkki",
+        "kohe",
+        "kohe",
+        "hetkepealt",
+        "hoobilt",
+        "rööpselt",
+        "momentaanselt",
+        "rööbiti",
+        "paralleelselt",
+        "kõrvuti",
+        "ühe ropsuga",
+        "ühe raksuga",
+        "samaaegselt",
+        "samaaegu",
+        "äkitselt",
+        "ühteaegu",
+        "ühe hoobiga",
+        "ühe rapsuga",
+        "kuidagiviisi",
+        "järk-järgult",
+        "mitmekaupa",
+        "ühekorra",
+        "ühekaupa"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ühekorraga",
+      "translations": [
+        "at a time"
+      ]
+    }
+  ]
+}

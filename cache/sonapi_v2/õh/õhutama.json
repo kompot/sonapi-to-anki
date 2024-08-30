@@ -1,0 +1,707 @@
+{
+  "requestedWord": "õhutama",
+  "estonianWord": "õhutama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "õhutama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "õhutamata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "õhutamas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "õhutamast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "õhutamaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "õhutatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "õhutada"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "õhutades"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "õhutav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "õhutatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "õhutanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "õhutanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "õhutatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "õhutatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "õhutan"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "õhutad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "õhutab"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "õhutame"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "õhutate"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "õhutavad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "õhuta"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "õhutatakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "õhutata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "õhutasin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "õhutasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "õhutas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "õhutasime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "õhutasite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "õhutasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "õhutati"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "õhutaksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "õhutaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "õhutaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "õhutaksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "õhutaksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "õhutaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "õhutataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "õhutanuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "õhutanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "õhutanuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "õhutanuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "õhutanuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "õhutanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "õhutatuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "õhutavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "õhutatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "õhutanuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "õhutatuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "õhuta"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "õhutagem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "õhutage"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "õhutagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "õhutatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ruumi (värske, puhta) õhuga varustama, õhku (juurde) andma või värskega asendama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Arst soovitas õhutada tuba."
+          ],
+          "synonyms": [
+            "tuulutama",
+            "õhustama",
+            "luhvtitama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "проветривать",
+                "weight": 1
+              },
+              {
+                "words": "проветрить",
+                "weight": 1
+              },
+              {
+                "words": "вентилировать",
+                "weight": 1
+              },
+              {
+                "words": "провентилировать",
+                "weight": 1
+              },
+              {
+                "words": "свежить воздух",
+                "weight": 1
+              },
+              {
+                "words": "освежать воздух",
+                "weight": 1
+              },
+              {
+                "words": "освежить воздух",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tuld, leeki ergutama, hrl peale puhudes, õhku andes",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Tuul õhutab tuld."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "раздувать",
+                "weight": 1
+              },
+              {
+                "words": "раздуть",
+                "weight": 1
+              },
+              {
+                "words": "разжигать",
+                "weight": 1
+              },
+              {
+                "words": "разжечь",
+                "weight": 1
+              },
+              {
+                "words": "воспламенять",
+                "weight": 1
+              },
+              {
+                "words": "воспламенить",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "pinnast, vett, veini vm ainet õhuga varustama, et selle omadusi parandada",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Muru õhutada on lihtne: rohukamara sisse tehakse augud.",
+            "Enne serveerimist tuleks veini 0,5 tundi õhutada.",
+            "Isaskoha õhutab pesas olevat marja rinnauimede liigutamise abil.",
+            "Kuidas õhutada radiaatorit?"
+          ],
+          "synonyms": [
+            "aereerima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "аэрировать",
+                "weight": 1
+              },
+              {
+                "words": "вентилировать",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingile (halvale, vaenulikule) tegevusele sundima, kellegi tundeid, meeli üles ärritama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Minu jumal ei ole see, kes õhutab vägivalda.",
+            "Ärge õhutage hüsteeriat!",
+            "Vihkamisele õhutav avaldus.",
+            "Ei maksa õhutada viha koolide vahel."
+          ],
+          "synonyms": [
+            "tagant õhutama",
+            "kihutama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "подстрекнуть",
+                "weight": 1
+              },
+              {
+                "words": "подстрекать",
+                "weight": 1
+              },
+              {
+                "words": "разжигать",
+                "weight": 1
+              },
+              {
+                "words": "разжечь",
+                "weight": 1
+              },
+              {
+                "words": "подзадоривать",
+                "weight": 1
+              },
+              {
+                "words": "подзадорить",
+                "weight": 1
+              },
+              {
+                "words": "поджигать",
+                "weight": 1
+              },
+              {
+                "words": "поджечь",
+                "weight": 1
+              },
+              {
+                "words": "подбивать",
+                "weight": 1
+              },
+              {
+                "words": "подбить",
+                "weight": 1
+              },
+              {
+                "words": "агитировать,подстрекать,подстрекнуть,сагитировать",
+                "weight": 0.636
+              }
+            ]
+          }
+        },
+        {
+          "definition": "midagi (kasulikku, head) tegema innustama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Noori õhutati valimistel osalema.",
+            "Inimesi õhutatakse sporti tegema."
+          ],
+          "synonyms": [
+            "üles kutsuma",
+            "kutsuma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "подбадривать",
+                "weight": 1
+              },
+              {
+                "words": "подбодрить",
+                "weight": 1
+              },
+              {
+                "words": "побуждать",
+                "weight": 1
+              },
+              {
+                "words": "побудить",
+                "weight": 1
+              },
+              {
+                "words": "ободрять",
+                "weight": 1
+              },
+              {
+                "words": "ободрить",
+                "weight": 1
+              },
+              {
+                "words": "толкать",
+                "weight": 1
+              },
+              {
+                "words": "толкнуть",
+                "weight": 1
+              },
+              {
+                "words": "заряжать",
+                "weight": 1
+              },
+              {
+                "words": "зарядить",
+                "weight": 1
+              },
+              {
+                "words": "обращаться с призывом,призывать,призвать",
+                "weight": 0.7
+              },
+              {
+                "words": "призывать,призвать",
+                "weight": 0.51
+              }
+            ],
+            "fra": [
+              {
+                "words": "appeler",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "закликати,закликати",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tuulutama",
+        "ventileerima",
+        "õssitama",
+        "ergutama",
+        "üles kruvima",
+        "kihutama",
+        "üles kruttima",
+        "sütitama",
+        "innustama",
+        "ässitama",
+        "üles kütma",
+        "kehutama",
+        "kannustama",
+        "agiteerima",
+        "hingestama",
+        "ärgitama",
+        "üles piitsutama",
+        "tiivustama",
+        "üles keerama",
+        "stimuleerima",
+        "animeerima",
+        "süütama",
+        "õli tulle valama",
+        "tagant kihutama",
+        "virgutama",
+        "üles puhuma",
+        "kõrva puhuma",
+        "propageerima",
+        "julgustama",
+        "luhvtitama",
+        "üles kihutama",
+        "õhustama",
+        "inspireerima",
+        "tagant tõukama",
+        "õrritama",
+        "nokkima",
+        "tõukama",
+        "kiusama",
+        "vaimustama",
+        "võõristama",
+        "tõhustama",
+        "kallutama",
+        "üldistama",
+        "hurjutama",
+        "tolereerima",
+        "eputama",
+        "nihutama",
+        "õlitama",
+        "tembutama",
+        "tümitama",
+        "ajendama",
+        "käputama",
+        "survestama",
+        "poputama",
+        "mustama",
+        "vibutama",
+        "kohutama",
+        "provotseerima",
+        "kaagutama",
+        "kõmmutama",
+        "vahutama",
+        "põristama",
+        "saboteerima",
+        "viibutama",
+        "ärritama",
+        "targutama",
+        "kokutama",
+        "kritiseerima",
+        "mõnitama",
+        "pahandama",
+        "raputama",
+        "õigustama",
+        "keelitama",
+        "kõigutama",
+        "ruttama",
+        "eksitama",
+        "pareerima",
+        "upitama",
+        "võimendama",
+        "vallandama",
+        "utsitama",
+        "hirmutama",
+        "rõhutama",
+        "peibutama",
+        "tulitama",
+        "vihastama",
+        "näägutama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "õhutama",
+      "translations": [
+        "agitate",
+        "egg on",
+        "fan",
+        "foment",
+        "fuel",
+        "incite",
+        "instigate",
+        "ventilate"
+      ]
+    }
+  ]
+}

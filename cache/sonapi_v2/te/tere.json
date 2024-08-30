@@ -1,0 +1,398 @@
+{
+  "requestedWord": "tere",
+  "estonianWord": "tere",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tere"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tervitussõna, mida kasutatakse kohtumisel või kellegi poole pöördumisel,sõna, mida sa ütled, kui sa kellegagi kohtud",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "No tere, Juhan.",
+            "Tere, mina olen Katrin."
+          ],
+          "synonyms": [
+            "tervist",
+            "terekest",
+            "tervitus",
+            "tere"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "hello",
+                "weight": 1
+              },
+              {
+                "words": "hi",
+                "weight": 1
+              },
+              {
+                "words": "greetings",
+                "weight": 0.9
+              },
+              {
+                "words": "hello",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "bonjour",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "здравствуйте",
+                "weight": 1
+              },
+              {
+                "words": "здравствуй",
+                "weight": 1
+              },
+              {
+                "words": "здрасьте",
+                "weight": 1
+              },
+              {
+                "words": "привет",
+                "weight": 1
+              },
+              {
+                "words": "здорово",
+                "weight": 1
+              },
+              {
+                "words": "салют",
+                "weight": 1
+              },
+              {
+                "words": "привет",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "привіт!",
+                "weight": 1
+              },
+              {
+                "words": "добрий день!",
+                "weight": 1
+              },
+              {
+                "words": "здрастуйте",
+                "weight": 1
+              },
+              {
+                "words": "здрастуй",
+                "weight": 1
+              },
+              {
+                "words": "здорові були",
+                "weight": 1
+              },
+              {
+                "words": "здоров",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jätku leivale",
+        "tervist",
+        "jätku tarvis",
+        "jätku leiba",
+        "terekest",
+        "tervitus",
+        "teretus",
+        "küssa",
+        "tsau",
+        "hei",
+        "teretuttav"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "tere"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "tere"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "teret"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "teresse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "teres"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "terest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "terele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "terel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "terelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "tereks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "tereni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "terena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "tereta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "terega"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "tered"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "terede"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "teresid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "teredesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "teredes"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "teredest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "teredele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "teredel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "teredelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "teredeks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "teredeni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "teredena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "teredeta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "teredega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tervitussõna „tere”,teretus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tiiu tõmbas tereks ulatatud käe kähku tagasi."
+          ],
+          "synonyms": [
+            "tervitus",
+            "tere,terekest,tervist"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "hello",
+                "weight": 1
+              },
+              {
+                "words": "greetings",
+                "weight": 0.9
+              },
+              {
+                "words": "hello,hi",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "привет",
+                "weight": 0.9
+              },
+              {
+                "words": "привет,здравствуйте,здорово,здрасьте,здравствуй,салют",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "bonjour",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "добрий день!,здрастуйте,здрастуй,здорові були,здоров,привіт!",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jätku leivale",
+        "tervist",
+        "jätku tarvis",
+        "jätku leiba",
+        "terekest",
+        "tervitus",
+        "teretus",
+        "tsau",
+        "hei",
+        "teretuttav"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tere",
+      "translations": [
+        "aloha",
+        "hallo",
+        "hello",
+        "hi",
+        "how do you do"
+      ]
+    }
+  ]
+}

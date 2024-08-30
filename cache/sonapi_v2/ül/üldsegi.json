@@ -1,0 +1,178 @@
+{
+  "requestedWord": "üldsegi",
+  "estonianWord": "üldsegi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "üldsegi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(aitab väidet rõhutada),mingilgi määral",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Igapäevaselt joon ma üldsegi pätikohvi."
+          ],
+          "synonyms": [
+            "üldse",
+            "ülepea",
+            "üleüldse"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "вообще",
+                "weight": 1
+              },
+              {
+                "words": "вовсе",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "взагалі",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vähimalgi määral, sugugi,mitte vähimalgi määral",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Idee pole üldsegi uus.",
+            "Ta polnud üldsegi pettunud."
+          ],
+          "synonyms": [
+            "üldse",
+            "üleüldse",
+            "keegi",
+            "sugu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "совсем",
+                "weight": 1
+              },
+              {
+                "words": "вообще",
+                "weight": 1
+              },
+              {
+                "words": "совершенно",
+                "weight": 1
+              },
+              {
+                "words": "вовсе",
+                "weight": 1
+              },
+              {
+                "words": "вообще-то",
+                "weight": 1
+              },
+              {
+                "words": "отнюдь",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зовсім",
+                "weight": 1
+              },
+              {
+                "words": "взагалі",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hoopiski",
+        "mitte essugi",
+        "mitte üks raas",
+        "mitte raasugi",
+        "mitte persetki",
+        "mitte üks kriips",
+        "mitte üks noh",
+        "tühjagi",
+        "kriipsuvõrragi",
+        "nehkugi",
+        "mitte mõhkugi",
+        "õhkagi",
+        "mitte kuraditki",
+        "mitte üks põrm",
+        "üldse",
+        "karvaväärtki",
+        "sugugi",
+        "teps mitte",
+        "mitte põrmugi",
+        "pole",
+        "tõepoolest",
+        "miskitpidi",
+        "kuigi",
+        "tõesti",
+        "see",
+        "aga",
+        "aga",
+        "siiski",
+        "miskitmoodi",
+        "muidugi",
+        "absoluutselt",
+        "pigem",
+        "kuidagi",
+        "kunagi",
+        "mitte",
+        "mitte",
+        "isegi",
+        "enam",
+        "enam",
+        "küll",
+        "küll",
+        "pooltki",
+        "väga",
+        "tegelikult",
+        "kaugeltki",
+        "teps",
+        "ikkagi",
+        "päris",
+        "niiväga",
+        "vist",
+        "vist",
+        "lihtsalt",
+        "alati"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "üldsegi",
+      "translations": [
+        "by no means"
+      ]
+    }
+  ]
+}

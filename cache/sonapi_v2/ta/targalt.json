@@ -1,0 +1,127 @@
+{
+  "requestedWord": "targalt",
+  "estonianWord": "targalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "targalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "arukust, mõistlikkust ilmutades,teatud olukorras õigesti ja otstarbekalt,tarkusega, tarkust ilmutades",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Targalt investeerides tuleb rikkus sama vääramatult kui vanadus.",
+            "Väsinud inimene ei otsusta, kõnele ega tegutse targalt.",
+            "Kuningas valitses riiki targalt."
+          ],
+          "synonyms": [
+            "targasti",
+            "arukalt",
+            "mõistlikult",
+            "targu",
+            "nupukalt,nutikalt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "умно",
+                "weight": 1
+              },
+              {
+                "words": "мудро",
+                "weight": 1
+              },
+              {
+                "words": "толково",
+                "weight": 1
+              },
+              {
+                "words": "с умом",
+                "weight": 1
+              },
+              {
+                "words": "разумно",
+                "weight": 0.8005
+              },
+              {
+                "words": "разумно",
+                "weight": 0.782
+              },
+              {
+                "words": "благоразумно,умудрённо,прозорливо,предусмотрительно,дальновидно,мудро,с умом",
+                "weight": 0.7507
+              },
+              {
+                "words": "оборотливо,ловко,догадливо,сообразительно,понятливо,сметливо,смекалисто,мозговито,находчиво,изворотливо",
+                "weight": 0.476
+              }
+            ],
+            "ukr": [
+              {
+                "words": "розумно",
+                "weight": 1
+              },
+              {
+                "words": "мудро",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "targu",
+        "arukalt",
+        "mõistlikult",
+        "arukas",
+        "mõistlik",
+        "taibukas",
+        "taibukalt",
+        "läbimõeldult",
+        "hoolikalt",
+        "vagalt",
+        "säästlikult",
+        "ökonoomselt",
+        "targemini",
+        "kannatlikult",
+        "säästvalt",
+        "targemalt",
+        "optimaalselt",
+        "oskuslikult",
+        "jätkusuutlikult",
+        "targim",
+        "kasulikult",
+        "nutikalt",
+        "virgalt",
+        "vastutustundlikult",
+        "efektiivselt",
+        "otstarbekalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "targalt",
+      "translations": [
+        "sagely",
+        "wisely"
+      ]
+    }
+  ]
+}

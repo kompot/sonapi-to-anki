@@ -1,0 +1,180 @@
+{
+  "requestedWord": "igatahes",
+  "estonianWord": "igatahes",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "igatahes"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(öeldavat kinnitades:) igal juhul, täiesti kindlasti,igal juhul, kindlasti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Igatahes jäin ma üritusega rahule.",
+            "Nüüd on igatahes selge, et vastuväited ei pea paika.",
+            "Mina lähen nüüd igatahes koju.",
+            "Kas tuled kaasa? – Igatahes!"
+          ],
+          "synonyms": [
+            "absoluutselt",
+            "igastahes",
+            "igal juhul,ilmtingimata,kahtlemata,kahtlematult,kindlalt,kindlasti,tingimata,kaheldamatult"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "anyway",
+                "weight": 1
+              },
+              {
+                "words": "anyhow",
+                "weight": 1
+              },
+              {
+                "words": "you bet",
+                "weight": 1
+              },
+              {
+                "words": "in any case",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "конечно",
+                "weight": 1
+              },
+              {
+                "words": "в любом случае",
+                "weight": 1
+              },
+              {
+                "words": "во всяком случае",
+                "weight": 1
+              },
+              {
+                "words": "как бы то ни было",
+                "weight": 1
+              },
+              {
+                "words": "бесспорно,без всякого сомнения,конечно,определённо,безусловно,непременно,обязательно,несомненно,без сомнения,неоспоримо,наверняка,во что бы то ни стало,что бы там ни было,в любом случае,факт",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звичайно",
+                "weight": 1
+              },
+              {
+                "words": "у будь-якому разі",
+                "weight": 1
+              },
+              {
+                "words": "в усякому разі",
+                "weight": 1
+              },
+              {
+                "words": "хай там як",
+                "weight": 1
+              },
+              {
+                "words": "безумовно,безперечно,неодмінно,обовʼязково,конче,безсумнівно,певна річ,без сумніву,у будь-якому разі,звичайно",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "incontestablement,indubitablement,sans aucun doute,sûrement,certainement",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "surmkindlalt",
+        "iga hinna eest",
+        "saagu mis saab",
+        "nagunii",
+        "sadagu taevast või pussnuge",
+        "ikka",
+        "küll",
+        "küll",
+        "kas või malk pooleks",
+        "iga kell",
+        "kindlasti",
+        "raudkindlalt",
+        "niikuinii",
+        "ammugi",
+        "maksku mis maksab",
+        "endastmõistetavalt",
+        "kindla peale",
+        "tingimata",
+        "kahtlemata",
+        "iga naks",
+        "kahtlematult",
+        "iga toll",
+        "raudselt",
+        "sadagu või pussnuge",
+        "ilmtingimata",
+        "igal juhul",
+        "eks",
+        "eks",
+        "eks",
+        "tõepoolest",
+        "minulik",
+        "kuigi",
+        "sedapidi",
+        "tõesti",
+        "see",
+        "aga",
+        "aga",
+        "siiski",
+        "ilmselt",
+        "muidugi",
+        "loomulikult",
+        "igati",
+        "muidugist",
+        "ikkagi",
+        "kah",
+        "päris",
+        "igatpidi",
+        "igatepidi",
+        "vist",
+        "vist",
+        "nüüd",
+        "täitsa",
+        "täitsa",
+        "siis"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "igatahes",
+      "translations": [
+        "anyhow",
+        "anyway",
+        "at any rate",
+        "you bet"
+      ]
+    }
+  ]
+}

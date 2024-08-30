@@ -1,0 +1,135 @@
+{
+  "requestedWord": "vaimselt",
+  "estonianWord": "vaimselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vaimselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "psüühika seisukohalt, mõistuse ja hinge suhtes, kehalisele vastanduva poolest,mõistuse ja hinge suhtes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tegu on vaimselt haige tütarlapsega.",
+            "Tunnen end nii vaimselt kui ka füüsiliselt reipana.",
+            "Kadri on oma klassikaaslastest vaimselt üle.",
+            "Töö oli vaimselt väga väsitav."
+          ],
+          "synonyms": [
+            "psüühiliselt",
+            "hingeliselt"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "mentally",
+                "weight": 1
+              },
+              {
+                "words": "spiritually",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "intellectuellement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "умственно",
+                "weight": 1
+              },
+              {
+                "words": "интеллектуально",
+                "weight": 1
+              },
+              {
+                "words": "психически",
+                "weight": 1
+              },
+              {
+                "words": "душевно",
+                "weight": 1
+              },
+              {
+                "words": "духовно",
+                "weight": 1
+              },
+              {
+                "words": "психически,душевно,психологически",
+                "weight": 0.783
+              },
+              {
+                "words": "душевно,духовно,задушевно",
+                "weight": 0.76
+              }
+            ],
+            "ukr": [
+              {
+                "words": "розумово",
+                "weight": 1
+              },
+              {
+                "words": "інтелектуально",
+                "weight": 1
+              },
+              {
+                "words": "психічно",
+                "weight": 1
+              },
+              {
+                "words": "духовно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hingeliselt",
+        "psüühiliselt",
+        "füüsiliselt",
+        "füsioloogiliselt",
+        "tervendavalt",
+        "kehaliselt",
+        "psühholoogiliselt",
+        "emotsionaalselt",
+        "haiglaselt",
+        "intiimselt",
+        "sotsiaalselt",
+        "poliitiliselt",
+        "pedagoogiliselt",
+        "puhtfüüsiliselt",
+        "vaimsem",
+        "viimselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vaimselt",
+      "translations": [
+        "mentally",
+        "spiritually"
+      ]
+    }
+  ]
+}

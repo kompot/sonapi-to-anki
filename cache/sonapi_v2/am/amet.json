@@ -1,0 +1,627 @@
+{
+  "requestedWord": "amet",
+  "estonianWord": "amet",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "amet"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "ameti"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "ametit"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "ametisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "ametis"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "ametist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "ametile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "ametil"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "ametilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "ametiks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "ametini"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "ametina"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "ametita"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "ametiga"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "ametid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "ametite"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "ameteid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "ametitesse,ameteisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "ametites,ameteis"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "ametitest,ameteist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "ametitele,ameteile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "ametitel,ameteil"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "ametitelt,ameteilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "ametiteks,ameteiks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "ametiteni"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "ametitena"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "ametiteta"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "ametitega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ülesanded, mida keegi oma töökohal täidab ja mille eest ta tasu saab, tasustatav töö,töökoht või elukutse,elukutse,töökoht",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Isa viibib oma ameti tõttu tihti välismaal.",
+            "Ema on ametilt õpetaja.",
+            "President nimetas ametisse kolm kohtunikku.",
+            "Ta on ameti poolest rätsep."
+          ],
+          "synonyms": [
+            "professioon",
+            "tööpost",
+            "kutseala",
+            "ametikoht,koht,ametipost,post",
+            "tool",
+            "leivaamet",
+            "teenistus",
+            "kutse,elukutse",
+            "töökoht",
+            "teenistuskoht",
+            "ülesanne",
+            "töö"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "должность",
+                "weight": 1
+              },
+              {
+                "words": "служба",
+                "weight": 1
+              },
+              {
+                "words": "профессия",
+                "weight": 1
+              },
+              {
+                "words": "профессия",
+                "weight": 0.9
+              },
+              {
+                "words": "рабочее место,работа",
+                "weight": 0.9
+              },
+              {
+                "words": "специальность,профессия",
+                "weight": 0.9
+              },
+              {
+                "words": "пост,служебный пост,служба,служебное место,должность,место",
+                "weight": 0.9
+              },
+              {
+                "words": "кресло,пост",
+                "weight": 0.9
+              },
+              {
+                "words": "основная работа",
+                "weight": 0.9
+              },
+              {
+                "words": "место работы,должность,служба,работа",
+                "weight": 0.9
+              },
+              {
+                "words": "специальность,квалификация,профессия",
+                "weight": 0.9
+              },
+              {
+                "words": "место,должность,служба,работа",
+                "weight": 0.9
+              },
+              {
+                "words": "поручение,задание,задача",
+                "weight": 0.9
+              },
+              {
+                "words": "работа",
+                "weight": 0.85
+              }
+            ],
+            "ukr": [
+              {
+                "words": "посада",
+                "weight": 1
+              },
+              {
+                "words": "служба",
+                "weight": 1
+              },
+              {
+                "words": "професія",
+                "weight": 1
+              },
+              {
+                "words": "посада",
+                "weight": 0.9
+              },
+              {
+                "words": "посада,служба,місце роботи,робота",
+                "weight": 0.9
+              },
+              {
+                "words": "фах,спеціальність,професія",
+                "weight": 0.9
+              },
+              {
+                "words": "праця,робота,служба,посада",
+                "weight": 0.9
+              },
+              {
+                "words": "доручення,завдання",
+                "weight": 0.9
+              },
+              {
+                "words": "робота",
+                "weight": 0.85
+              }
+            ],
+            "fra": [
+              {
+                "words": "poste",
+                "weight": 0.9
+              },
+              {
+                "words": "travail",
+                "weight": 0.9
+              },
+              {
+                "words": "métier,profession",
+                "weight": 0.9
+              },
+              {
+                "words": "poste,emploi",
+                "weight": 0.9
+              },
+              {
+                "words": "tâche",
+                "weight": 0.9
+              },
+              {
+                "words": "travail",
+                "weight": 0.85
+              }
+            ],
+            "eng": [
+              {
+                "words": "profession",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(mingi tegevuse, töö kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Õde on ametis peo ettevalmistamisega."
+          ],
+          "synonyms": [
+            "tegevus",
+            "toiming",
+            "talitus",
+            "tegutsemine",
+            "kunst",
+            "asi",
+            "tegelus",
+            "tegemine",
+            "töö",
+            "funktsioon"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "занятие",
+                "weight": 1
+              },
+              {
+                "words": "работа",
+                "weight": 1
+              },
+              {
+                "words": "действие,деятельность,занятие,дело",
+                "weight": 0.85
+              },
+              {
+                "words": "деятельность,акция,дело,действие,заботы,хлопоты,поступок",
+                "weight": 0.85
+              },
+              {
+                "words": "служба",
+                "weight": 0.9
+              },
+              {
+                "words": "деятельность,действия",
+                "weight": 0.9
+              },
+              {
+                "words": "умение,искусство,мастерство",
+                "weight": 0.7
+              },
+              {
+                "words": "дело",
+                "weight": 0.9
+              },
+              {
+                "words": "работа,дело,деятельность,занятие",
+                "weight": 0.9
+              },
+              {
+                "words": "работа",
+                "weight": 0.85
+              },
+              {
+                "words": "функция",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "activité",
+                "weight": 0.85
+              },
+              {
+                "words": "acte",
+                "weight": 0.85
+              },
+              {
+                "words": "action",
+                "weight": 0.9
+              },
+              {
+                "words": "affaire",
+                "weight": 0.9
+              },
+              {
+                "words": "fonction",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "заняття,робота,діяльність",
+                "weight": 0.85
+              },
+              {
+                "words": "діяльність,діло,справа,дія",
+                "weight": 0.85
+              },
+              {
+                "words": "діяльність,дії",
+                "weight": 0.9
+              },
+              {
+                "words": "робота,справа,діло",
+                "weight": 0.9
+              },
+              {
+                "words": "заняття,робота,справа",
+                "weight": 0.9
+              },
+              {
+                "words": "функція",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "art",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ministeeriumist madalama staatusega, mingi ala haldamist juhtiv riigiasutus,teatud riigiasutus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Veeteede Amet."
+          ],
+          "synonyms": [
+            "riigiamet",
+            "inspektsioon,järelevalveasutus",
+            "riigiasutus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "департамент",
+                "weight": 1
+              },
+              {
+                "words": "ведомство",
+                "weight": 1
+              },
+              {
+                "words": "управление",
+                "weight": 1
+              },
+              {
+                "words": "государственный департамент",
+                "weight": 1
+              },
+              {
+                "words": "учреждение надзора,надзорное учреждение,инспекция",
+                "weight": 0.7
+              },
+              {
+                "words": "государственное учреждение,госучреждение",
+                "weight": 0.643
+              }
+            ],
+            "ukr": [
+              {
+                "words": "департамент",
+                "weight": 1
+              },
+              {
+                "words": "державна установа",
+                "weight": 0.643
+              }
+            ],
+            "fra": [
+              {
+                "words": "établissement public,organisme public",
+                "weight": 0.643
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tööots",
+        "operatsioon",
+        "koht",
+        "tööpost",
+        "toiming",
+        "tegevus",
+        "teenistus",
+        "harjumus",
+        "professioon",
+        "tegelus",
+        "sinekuur",
+        "leivateenistus",
+        "ametikoht",
+        "post",
+        "talitus",
+        "komme",
+        "tegemine",
+        "direktoritool",
+        "leivaamet",
+        "funktsioon",
+        "mäng",
+        "soe koht",
+        "elukutse",
+        "tegutsemine",
+        "tool",
+        "töökoht",
+        "tsunft",
+        "töö",
+        "ülesanne",
+        "gild",
+        "leib",
+        "ala",
+        "ametiaste",
+        "teenistuskoht",
+        "kutseala",
+        "kutse",
+        "tööturuamet",
+        "rahandusamet",
+        "haridusamet",
+        "riigiamet",
+        "auamet",
+        "tööhõiveamet",
+        "ametkond",
+        "õpetajaamet",
+        "terviseamet",
+        "konsuliamet",
+        "arstiamet",
+        "kinnistusamet",
+        "aukraad",
+        "käsitööndus",
+        "ala",
+        "leivakannikas",
+        "menetlus",
+        "riigipirukas",
+        "post",
+        "post",
+        "post",
+        "marjamaa",
+        "uusus",
+        "viis",
+        "viis",
+        "viis",
+        "asi",
+        "tava",
+        "rohumaa",
+        "tool",
+        "voom",
+        "mood",
+        "mood",
+        "sants",
+        "kild",
+        "rutiin",
+        "teenistusaste",
+        "auaste",
+        "käsitöö",
+        "ametimees",
+        "seisus",
+        "Terviseamet"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "amet",
+      "translations": [
+        "incumbency",
+        "job",
+        "occupation"
+      ]
+    }
+  ]
+}

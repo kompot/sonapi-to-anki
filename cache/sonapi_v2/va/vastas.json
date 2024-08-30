@@ -1,0 +1,148 @@
+{
+  "requestedWord": "vastas",
+  "estonianWord": "vastas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vastas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "asendilt esiküljega kellegi või millegi esikülje poole, millegagi kohakuti (nt asetuselt üle tee),otse kellegi või millegi ees, otse teisel pool",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Isa tavatses lauas ema vastas istuda.",
+            "Kirjanike Maja on otse Niguliste kiriku vastas.",
+            "Pood on siinsamas vastas üle tänava.",
+            "Ta istus lauas otse minu vastas.",
+            "Apteek asub hotelli vastas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "en face",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "напротив",
+                "weight": 1
+              },
+              {
+                "words": "против",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "напроти",
+                "weight": 1
+              },
+              {
+                "words": "навпроти",
+                "weight": 1
+              },
+              {
+                "words": "проти",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vastasseisu, opositsiooni väljendavana",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            ".. arhitektide vastas ei seisnud mitte niivõrd bürokraatia, mitte niivõrd loodus, kuivõrd elanikud ise oma konservatiivsuses."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "millegagi või kellegagi vahetus kokkupuutes, millegi või kellegi ligi",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Ahju vastas on hea seista."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "rongi, bussi vm ühissõidukiga tulijat peatuses ootamas,kedagi saabumisel kohtamas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Maal sai igal õhtul bussi vastas käidud.",
+            "Käisin lennujaamas külalistel vastas.",
+            "Käisin õhtuse bussi vastas.",
+            "käisin rongi vastas."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "kohastikku",
+        "kohakuti",
+        "vastu",
+        "eitavalt",
+        "jaatavalt",
+        "vastasnõlv",
+        "vastaja",
+        "vastasrind"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vastas",
+      "translations": [
+        "facing",
+        "vis-a-vis"
+      ]
+    }
+  ]
+}

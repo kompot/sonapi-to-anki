@@ -1,0 +1,387 @@
+{
+  "requestedWord": "vähem",
+  "estonianWord": "vähem",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vähem"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(omaduse, koguse vms kohta:) millegagi võrreldes väiksemal hulgal või määral,võrdlus sõnast <eki-foreign>vähe</eki-foreign>: väiksemal hulgal või määral",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tänane mäng pole vähem tähtis.",
+            "Soola panen toidule pigem vähem kui rohkem.",
+            "Mees teenib vähem kui tema naine."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "moins",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "меньше",
+                "weight": 1
+              },
+              {
+                "words": "менее",
+                "weight": 1
+              },
+              {
+                "words": "в меньшей степени",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "менше",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vähe",
+        "kõige",
+        "veidi",
+        "sellevõrra",
+        "enam",
+        "enam",
+        "isegi",
+        "märgatavamalt",
+        "natuke",
+        "palju",
+        "märksa",
+        "kui",
+        "tavaliselt",
+        "vähe",
+        "natuke",
+        "palju",
+        "kui",
+        "rohkem",
+        "rohkem",
+        "veelgi",
+        "tunduvalt",
+        "pisut",
+        "olulisemalt",
+        "oluliselt"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "vähem"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "vähema"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "vähemat"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "vähemasse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "vähemas"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "vähemast"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "vähemale"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "vähemal"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "vähemalt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "vähemaks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "vähemani"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "vähemana"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "vähemata"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "vähemaga"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "vähemad"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "vähemate"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "vähemaid"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "vähematesse,vähemaisse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "vähemates,vähemais"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "vähematest,vähemaist"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "vähematele,vähemaile"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "vähematel,vähemail"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "vähematelt,vähemailt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "vähemateks,vähemaiks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "vähemateni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "vähematena"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "vähemateta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "vähematega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(hulgalt, koguselt) väiksem",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Veinis ja viskis on samuti flavonoide, kuid vähemal määral kui tees.",
+            "Peamine, et asjad vähema vaevaga aetud saaks."
+          ],
+          "synonyms": [
+            "väikesem,väiksem,tillem"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "меньший",
+                "weight": 1
+              },
+              {
+                "words": "малейший",
+                "weight": 1
+              },
+              {
+                "words": "меньше",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "plus petit",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "менший",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "smaller,littler",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "väiksem hulk, kogus, väärtus vms",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Suured ajasid vähemaid taga."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "меньшее",
+                "weight": 1
+              },
+              {
+                "words": "малое",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tillem",
+        "väiksem",
+        "natuke",
+        "sellevõrra",
+        "rohkem",
+        "kui",
+        "kui",
+        "olulisemalt",
+        "oluliselt",
+        "veelgi",
+        "tunduvalt",
+        "tavaliselt",
+        "märksa",
+        "pisut",
+        "palju",
+        "palju",
+        "märgatavamalt",
+        "isegi",
+        "natuke",
+        "enam",
+        "veidi",
+        "kõige",
+        "vähe",
+        "vähe",
+        "rohkem",
+        "enam"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vähem",
+      "translations": [
+        "fewer",
+        "less (loendamatu nimisõnaga)"
+      ]
+    }
+  ]
+}

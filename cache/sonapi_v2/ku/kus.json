@@ -1,0 +1,286 @@
+{
+  "requestedWord": "kus",
+  "estonianWord": "kus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kus"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "küsiv-siduv sõna: missuguses kohas,mis kohas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kus sa elad?",
+            "Kus ta on?",
+            "Ma ei saanud aru, kus viibin.",
+            "Ma ei tea, kus ta on."
+          ],
+          "synonyms": [
+            "kuskohal",
+            "kuskohas"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "où",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "где",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "де",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb ebamäärast kohta osutavates väljendites",
+          "partOfSpeech": [],
+          "examples": [
+            "Ta ööbib sageli, kus juhtub.",
+            "Nad rändavad Indias või jumal teab kus.",
+            "Ükskõik kus maailma otsas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "где",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kuhu",
+          "partOfSpeech": [],
+          "examples": [
+            "Ja kus sa siis sedasi lähed?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "ну и куда",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(siduv ajasõna:) millal, kui,millal, kui",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "See oli hetk, kus ma esimest korda tõsisemalt kõhklesin.",
+            "Nüüd, kus ma jälle siin olen.",
+            "Tuleb aeg, kus sa oma otsust kahetsed."
+          ],
+          "synonyms": [
+            "mil"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "où",
+                "weight": 1
+              },
+              {
+                "words": "quand",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "когда",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "коли",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rõhutab kõneleja suhtumist, tundetooni, hrl imestust, üllatust, ka pahandamist, halvakspanu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kus mehele tuli alles vunk sisse!",
+            "Kus sa sellega!",
+            "Kus (ka) asi, millega uhkustada!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "ну и",
+                "weight": 1
+              },
+              {
+                "words": "тоже мне",
+                "weight": 1
+              },
+              {
+                "words": "вот",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rõhutab eitavat arvamust või hinnangut",
+          "partOfSpeech": [],
+          "examples": [
+            "Kus ma seda võisin teada!",
+            "Pean minema, kus ma pääsen."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "откуда",
+                "weight": 1
+              },
+              {
+                "words": "куда",
+                "weight": 1
+              },
+              {
+                "words": "куда уж",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kuskohas",
+        "kuskohal",
+        "kust",
+        "kuhu",
+        "kustkohast",
+        "seal",
+        "ning",
+        "samuti",
+        "kuidas",
+        "kuigi",
+        "sest",
+        "kuna",
+        "kuna",
+        "mis",
+        "mistõttu",
+        "kustkaudu",
+        "siis",
+        "mil",
+        "kuid",
+        "aga",
+        "aga",
+        "järelmatš"
+      ]
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "Piiblis mainitud maa, oletatavasti sama mis Etioopia",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [
+            "Kuus",
+            "Kuusimaa"
+          ],
+          "translations": {
+            "deu": [
+              {
+                "words": "Kusch",
+                "weight": 1
+              }
+            ],
+            "eng": [
+              {
+                "words": "Cush",
+                "weight": 1
+              },
+              {
+                "words": "land of Cush",
+                "weight": 1
+              },
+              {
+                "words": "Kush",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "pays de Koush",
+                "weight": 1
+              },
+              {
+                "words": "pays de Kouch",
+                "weight": 1
+              }
+            ],
+            "heb": [
+              {
+                "words": "כּוּשׁ (Kush)",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "Куш",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kus",
+      "translations": [
+        "where",
+        "wherein"
+      ]
+    }
+  ]
+}

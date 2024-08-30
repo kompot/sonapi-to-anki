@@ -1,0 +1,94 @@
+{
+  "requestedWord": "rikki",
+  "estonianWord": "rikki",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "rikki"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "korrast ära olekusse, mitte (korralikult) töötavaks või toimivaks,seadmete, masinate kohta: selliseks, mis enam ei tööta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pardel läks rikki.",
+            "Kivi otsa võib auto päris rikki sõita.",
+            "Lift läks rikki."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "сломан",
+                "weight": 1
+              },
+              {
+                "words": "поломан",
+                "weight": 1
+              },
+              {
+                "words": "испорчен",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зламаний",
+                "weight": 1
+              },
+              {
+                "words": "зломлений",
+                "weight": 1
+              },
+              {
+                "words": "поламаний",
+                "weight": 1
+              },
+              {
+                "words": "зіпсований",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "katki minema",
+        "korrast ära",
+        "töökorras",
+        "laaduma",
+        "läinud",
+        "kaduma",
+        "untsu",
+        "söelaev",
+        "katki",
+        "kikki",
+        "kaotsi",
+        "rikkis",
+        "tõrkuma",
+        "nässu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "rikki",
+      "translations": []
+    }
+  ]
+}

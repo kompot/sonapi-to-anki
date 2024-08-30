@@ -1,0 +1,303 @@
+{
+  "requestedWord": "laut",
+  "estonianWord": "laut",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22u",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "laut"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "lauda"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "lauta"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "lauta"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "laudasse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "laudas"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "laudast"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "laudale"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "laudal"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "laudalt"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "laudaks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "laudani"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "laudana"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "laudata"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "laudaga"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "laudad"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "lautade"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "lautu,lautasid"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "lautadesse,laudusse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "lautades,laudus"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "lautadest,laudust"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "lautadele,laudule"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "lautadel,laudul"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "lautadelt,laudult"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "lautadeks,lauduks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "lautadeni"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "lautadena"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "lautadeta"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "lautadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kariloomade pidamise hoone (või ruum),hoone või ruum koduloomade jaoks",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Talunikul on kolmkümmend lehma laudas.",
+            "Perenaine käib maja ja lauda vahet.",
+            "Noorkarjalaut.",
+            "Lambalaut.",
+            "Talvel on lehmad laudas."
+          ],
+          "synonyms": [
+            "laudik"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "étable",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "хлев",
+                "weight": 1
+              },
+              {
+                "words": "коровник",
+                "weight": 1
+              },
+              {
+                "words": "свинарник",
+                "weight": 1
+              },
+              {
+                "words": "овчарня",
+                "weight": 1
+              },
+              {
+                "words": "гусятня",
+                "weight": 1
+              },
+              {
+                "words": "закут,закута,хлевок,хлев",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "хлів",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ühislaut",
+        "väikelaut",
+        "veiselaut",
+        "vasikalaut",
+        "vabalaut",
+        "sõnnikulaut",
+        "suvelaut",
+        "suurlaut",
+        "robotlaut",
+        "põrsalaut",
+        "puhaslaut",
+        "piimakarjalaut",
+        "nuumalaut",
+        "mullikalaut",
+        "katselaut",
+        "hanelaut",
+        "tall",
+        "laudik",
+        "külmlaut",
+        "karjalaut",
+        "loomalaut",
+        "lehmalaut",
+        "sealaut",
+        "lüpsilaut",
+        "lambalaut",
+        "tall",
+        "hobusetall",
+        "härjatall",
+        "jääkelder",
+        "kelder",
+        "ait",
+        "tõllakuur",
+        "küün",
+        "vankrikuur",
+        "vinnkaev",
+        "heinaküün",
+        "kuur",
+        "kuur",
+        "puukuur",
+        "lauter",
+        "rehi",
+        "umlaut",
+        "koeralaut"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "laut",
+      "translations": [
+        "barn"
+      ]
+    }
+  ]
+}

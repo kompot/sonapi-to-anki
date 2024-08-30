@@ -1,0 +1,180 @@
+{
+  "requestedWord": "võib-olla",
+  "estonianWord": "võib-olla",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "võib-olla"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab oletatavale või loodetavale võimalusele, milles siiski ei olda päris kindel,näitab, et kõneleja ei ole päris kindel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Võib-olla nad tulevad ka kontserdile.",
+            "Olen võib-olla vanamoodne, aga harjunud silmast silma suhtlema.",
+            "Lähen suvel võib-olla välismaale puhkama.",
+            "Võib-olla on sul õigus."
+          ],
+          "synonyms": [
+            "vahest",
+            "vahest ehk",
+            "ehk",
+            "järsku",
+            "vast",
+            "vast ehk",
+            "võibolla",
+            "äkki",
+            "v-o",
+            "vo",
+            "vbl"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "perhaps",
+                "weight": 1
+              },
+              {
+                "words": "maybe",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "peut-être",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "возможно",
+                "weight": 1
+              },
+              {
+                "words": "вероятно",
+                "weight": 1
+              },
+              {
+                "words": "быть может",
+                "weight": 1
+              },
+              {
+                "words": "пожалуй",
+                "weight": 1
+              },
+              {
+                "words": "может",
+                "weight": 1
+              },
+              {
+                "words": "авось",
+                "weight": 1
+              },
+              {
+                "words": "м.б.",
+                "weight": 1
+              },
+              {
+                "words": "может быть",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "можливо",
+                "weight": 1
+              },
+              {
+                "words": "може",
+                "weight": 1
+              },
+              {
+                "words": "мабуть",
+                "weight": 1
+              },
+              {
+                "words": "либонь",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ehk",
+        "vahest",
+        "mine tea",
+        "vahest ehk",
+        "äkki",
+        "kui et",
+        "ainult et",
+        "tõepoolest",
+        "praegu",
+        "kuigi",
+        "tõesti",
+        "see",
+        "hoopis",
+        "kindlasti",
+        "kuid",
+        "aga",
+        "aga",
+        "siiski",
+        "natuke",
+        "natuke",
+        "ilmselt",
+        "muidugi",
+        "tõenäoliselt",
+        "arvatavasti",
+        "kuigipalju",
+        "küllap",
+        "kui",
+        "kui",
+        "üldse",
+        "seetõttu",
+        "mitte",
+        "mitte",
+        "isegi",
+        "sellepärast",
+        "küll",
+        "küll",
+        "ikka",
+        "pisut",
+        "tegelikult",
+        "oleks",
+        "ikkagi",
+        "just",
+        "vist",
+        "vist",
+        "lihtsalt",
+        "nüüd",
+        "siis",
+        "võibolla"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "võib-olla",
+      "translations": [
+        "maybe",
+        "perhaps"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "requestedWord": "näiliselt",
+  "estonianWord": "näiliselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "näiliselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mitte tegelikult, tegelikkusele mitte vastavat muljet jätvalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Näiliselt lihtne rike halvas kogu ettevõtte tegevuse.",
+            "Näiliselt ohutu failinime taga võib peituda viirus.",
+            "Näiliselt oli kõik korras."
+          ],
+          "synonyms": [
+            "näilikult"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "внешне",
+                "weight": 1
+              },
+              {
+                "words": "напоказ",
+                "weight": 1
+              },
+              {
+                "words": "на вид",
+                "weight": 1
+              },
+              {
+                "words": "с виду",
+                "weight": 1
+              },
+              {
+                "words": "для виду",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "väliselt",
+        "näivalt",
+        "petlikult",
+        "näilikult",
+        "pealtnäha",
+        "sisuliselt",
+        "ühiskondlikult",
+        "näiline",
+        "vormiliselt",
+        "esmapilgul",
+        "justkui",
+        "vaid",
+        "kummaliselt",
+        "nähtamatult",
+        "lihtsakoeliselt",
+        "stiihiliselt",
+        "mitte",
+        "mitte",
+        "ebaloogiliselt",
+        "üsna",
+        "küüniliselt",
+        "tegelikult",
+        "näilisus",
+        "tabamatult",
+        "keerukalt",
+        "näilik",
+        "suureliselt",
+        "kaootiliselt",
+        "lihtsalt",
+        "täiesti"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "näiliselt",
+      "translations": [
+        "apparently",
+        "assumingly"
+      ]
+    }
+  ]
+}

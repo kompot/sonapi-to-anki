@@ -1,0 +1,130 @@
+{
+  "requestedWord": "tulvil",
+  "estonianWord": "tulvil",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tulvil"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(osutab millegi rohkusele:) väga täis, üleni täis",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Jalakäijatest tulvil tänavad.",
+            "Olin tulvil energiat ja uusi ideid."
+          ],
+          "synonyms": [
+            "täis",
+            "tiine"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "переполненный",
+                "weight": 1
+              },
+              {
+                "words": "преисполненный",
+                "weight": 1
+              },
+              {
+                "words": "проникнутый",
+                "weight": 1
+              },
+              {
+                "words": "наполненный с избытком",
+                "weight": 1
+              },
+              {
+                "words": "заполненный с избытком",
+                "weight": 1
+              },
+              {
+                "words": "полный до отказа",
+                "weight": 1
+              },
+              {
+                "words": "полный до предела",
+                "weight": 1
+              },
+              {
+                "words": "набитый битком",
+                "weight": 1
+              },
+              {
+                "words": "полон",
+                "weight": 1
+              },
+              {
+                "words": "преисполнен",
+                "weight": 1
+              },
+              {
+                "words": "переполнен",
+                "weight": 1
+              },
+              {
+                "words": "переполненный,полный,заполненный,наполненный,исполненный",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "plein",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "повний,повен,заповнений,наповнений",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pilgeni",
+        "täistuubitud",
+        "tuubil",
+        "puupüsti täis",
+        "maani täis",
+        "tungil",
+        "pakil",
+        "otsast otsani",
+        "piripungil",
+        "täis",
+        "täis",
+        "tiine",
+        "pungil",
+        "täiskiilutud"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tulvil",
+      "translations": [
+        "brimful",
+        "brimfull",
+        "brimming"
+      ]
+    }
+  ]
+}

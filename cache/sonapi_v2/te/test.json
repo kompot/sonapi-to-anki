@@ -1,0 +1,843 @@
+{
+  "requestedWord": "test",
+  "estonianWord": "test",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "test"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "testi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "testi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "testi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "testisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "testis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "testist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "testile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "testil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "testilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "testiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "testini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "testina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "testita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "testiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "testid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "testide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "teste,testisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "testidesse,testesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "testides,testes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "testidest,testest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "testidele,testele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "testidel,testel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "testidelt,testelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "testideks,testeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "testideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "testidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "testideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "testidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "standardiseeritud ülesannete või küsimuste kogum, millega uuritakse ja hinnatakse inimese võimeid ja omadusi või teadmisi ja oskusi,selleks korraldatud üritus,kirjalikult või suuliselt esitatud küsimused, mille abil tehakse kindlaks, kas inimene tunneb teatud valdkonda",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Inglise keele test.",
+            "Test võtab aega umbes kolm tundi.",
+            "Keeletest.",
+            "Kutsesobivustest.",
+            "Eesti keele test kestab umbes kolm tundi."
+          ],
+          "synonyms": [
+            "testimine",
+            "katse"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "test",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "test",
+                "weight": 1
+              },
+              {
+                "words": "épreuves,examens",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "тест",
+                "weight": 1
+              },
+              {
+                "words": "тестирование",
+                "weight": 0.518
+              },
+              {
+                "words": "оценка,оценивание,норматив,тестирование",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тест",
+                "weight": 1
+              },
+              {
+                "words": "іспит,екзамен",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teataval meetodil läbi viidav katse, uuring või analüüs, mille käigus midagi välja selgitatakse, mõõdetakse, kontrollitakse või hinnatakse",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Testid näitasid, et ravim ei olnud piisavalt efektiivne.",
+            "Aidsitest.",
+            "Õlletest."
+          ],
+          "synonyms": [
+            "proovimine",
+            "katsetamine",
+            "degust,degusteerimine,degustatsioon",
+            "teim",
+            "analüüs",
+            "üritus,katsetus,katse,eksperiment",
+            "proov",
+            "uuring"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "test",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "тест",
+                "weight": 1
+              },
+              {
+                "words": "дегустация",
+                "weight": 0.7
+              },
+              {
+                "words": "проба,испытание",
+                "weight": 0.7
+              },
+              {
+                "words": "анализ",
+                "weight": 0.7
+              },
+              {
+                "words": "проба,опробование,испытание,заход,попытка,опыт,эксперимент",
+                "weight": 0.7
+              },
+              {
+                "words": "анализ,проба",
+                "weight": 0.7
+              },
+              {
+                "words": "обследование,исследование",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "tentative,essai,test",
+                "weight": 0.7
+              },
+              {
+                "words": "recherche,étude",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "проба,спроба,випробування",
+                "weight": 0.7
+              },
+              {
+                "words": "обстеження,огляд,дослідження",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hindamine",
+        "degusteerimine",
+        "degustatsioon",
+        "analüüs",
+        "teim",
+        "katsetamine",
+        "proovimine",
+        "uuring",
+        "katsetus",
+        "katse",
+        "proov",
+        "IQ-test",
+        "Pap-test",
+        "PAP-test",
+        "tester",
+        "DNA-test",
+        "testimine"
+      ]
+    },
+    {
+      "wordClasses": [
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "test"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "standardiseeritud ülesannete või küsimuste kogum, millega uuritakse ja hinnatakse inimese võimeid ja omadusi või teadmisi ja oskusi,selleks korraldatud üritus,kirjalikult või suuliselt esitatud küsimused, mille abil tehakse kindlaks, kas inimene tunneb teatud valdkonda",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "test",
+            "testimine",
+            "katse"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "test",
+                "weight": 1
+              },
+              {
+                "words": "épreuves,examens",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "тест",
+                "weight": 1
+              },
+              {
+                "words": "тестирование",
+                "weight": 0.518
+              },
+              {
+                "words": "оценка,оценивание,норматив,тестирование",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тест",
+                "weight": 1
+              },
+              {
+                "words": "іспит,екзамен",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teataval meetodil läbi viidav katse, uuring või analüüs, mille käigus midagi välja selgitatakse, mõõdetakse, kontrollitakse või hinnatakse",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [
+            "test",
+            "proovimine",
+            "katsetamine",
+            "degust,degusteerimine,degustatsioon",
+            "teim",
+            "analüüs",
+            "üritus,katsetus,katse,eksperiment",
+            "proov",
+            "uuring"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "тест",
+                "weight": 1
+              },
+              {
+                "words": "дегустация",
+                "weight": 0.7
+              },
+              {
+                "words": "проба,испытание",
+                "weight": 0.7
+              },
+              {
+                "words": "анализ",
+                "weight": 0.7
+              },
+              {
+                "words": "проба,опробование,испытание,заход,попытка,опыт,эксперимент",
+                "weight": 0.7
+              },
+              {
+                "words": "анализ,проба",
+                "weight": 0.7
+              },
+              {
+                "words": "обследование,исследование",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "tentative,essai,test",
+                "weight": 0.7
+              },
+              {
+                "words": "recherche,étude",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "проба,спроба,випробування",
+                "weight": 0.7
+              },
+              {
+                "words": "обстеження,огляд,дослідження",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kirjalik töö, millega kontrollitakse ja hinnatakse õpilaste teadmisi,kirjalik töö, millega kontrollitakse ja hinnatakse õpilaste teadmisi",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "kontrolltöö"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "test",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "контрольная работа",
+                "weight": 1
+              },
+              {
+                "words": "контрольная",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "контрольна робота",
+                "weight": 1
+              },
+              {
+                "words": "контрольна",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "testiga võimeid ja omadusi või teadmisi ja oskusi mõõtma, kellelegi testi tegema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "testima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "тестировать",
+                "weight": 1
+              },
+              {
+                "words": "протестировать",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "midagi uurima, katsetama või kontrollima (kasutuskõlblikkuse, nõuetele vastavuse või vigade kindlakstegemiseks)",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "testima",
+            "proovima",
+            "katsetama",
+            "kontrollima",
+            "piloteerima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "тестировать",
+                "weight": 1
+              },
+              {
+                "words": "протестировать",
+                "weight": 1
+              },
+              {
+                "words": "прикинуть,пробовать,попробовать,проверять,проверить,испробовать,испытать,испытывать,мерить,примерить,примерять,опробовать,прикидывать",
+                "weight": 0.556
+              },
+              {
+                "words": "экспериментировать,проводить опыты,производить опыты,ставить опыты,делать опыты,испытывать,испытать,провести опыты,поставить опыты,сделать опыты,произвести опыты",
+                "weight": 0.632
+              },
+              {
+                "words": "проконтролировать,контролировать,проверить,проверять",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "essayer,tester",
+                "weight": 0.556
+              },
+              {
+                "words": "vérifier,contrôler",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "приміряти,примірювати,міряти,перевірити,перевіряти,випробовувати,випробувати,попробувати,пробувати",
+                "weight": 0.556
+              },
+              {
+                "words": "випробовувати,випробувати,експериментувати",
+                "weight": 0.632
+              },
+              {
+                "words": "перевірити,перевіряти,проконтролювати,контролювати",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "püüe midagi teha, sooritada või saavutada,millegi katsetamine või proovimine,see, kui proovitakse midagi teha või saavutada",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "katsetus",
+            "katse",
+            "üritus",
+            "eksperiment",
+            "katsetamine",
+            "test",
+            "proov",
+            "proovimine",
+            "püüe,püüdlus,püüd"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "tentative",
+                "weight": 1
+              },
+              {
+                "words": "essai",
+                "weight": 1
+              },
+              {
+                "words": "essai",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "попытка",
+                "weight": 1
+              },
+              {
+                "words": "эксперимент",
+                "weight": 1
+              },
+              {
+                "words": "опыт",
+                "weight": 1
+              },
+              {
+                "words": "проба",
+                "weight": 1
+              },
+              {
+                "words": "опробование",
+                "weight": 1
+              },
+              {
+                "words": "испытание",
+                "weight": 1
+              },
+              {
+                "words": "заход",
+                "weight": 1
+              },
+              {
+                "words": "тест",
+                "weight": 0.7
+              },
+              {
+                "words": "опробование,попытка,испытание,проба",
+                "weight": 0.9
+              },
+              {
+                "words": "проба,попытка,примерка,опробование,пробирование,отведывание,проверка",
+                "weight": 0.9
+              },
+              {
+                "words": "старанье,стремления,устремления,усилие,попытка,стремление,старание,устремление,тяготение,тяга,стремленье,устремлённость",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "проба",
+                "weight": 1
+              },
+              {
+                "words": "спроба",
+                "weight": 1
+              },
+              {
+                "words": "випробування",
+                "weight": 1
+              },
+              {
+                "words": "проба,спроба,випробування",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "test",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kirjalik töö, millega kontrollitakse ja hinnatakse õpilaste teadmisi,kirjalik töö, millega kontrollitakse ja hinnatakse õpilaste teadmisi",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "kontrolltöö"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "test",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "контрольная работа",
+                "weight": 1
+              },
+              {
+                "words": "контрольная",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "контрольна робота",
+                "weight": 1
+              },
+              {
+                "words": "контрольна",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "standardiseeritud ülesannete või küsimuste kogum, millega uuritakse ja hinnatakse inimese võimeid ja omadusi või teadmisi ja oskusi,selleks korraldatud üritus,kirjalikult või suuliselt esitatud küsimused, mille abil tehakse kindlaks, kas inimene tunneb teatud valdkonda",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "test",
+            "testimine",
+            "katse"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "test",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "тест",
+                "weight": 1
+              },
+              {
+                "words": "тестирование",
+                "weight": 0.518
+              },
+              {
+                "words": "оценка,оценивание,норматив,тестирование",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тест",
+                "weight": 1
+              },
+              {
+                "words": "іспит,екзамен",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "épreuves,examens",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "test",
+      "translations": [
+        "test"
+      ]
+    }
+  ]
+}

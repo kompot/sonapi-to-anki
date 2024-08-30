@@ -1,0 +1,718 @@
+{
+  "requestedWord": "kükitama",
+  "estonianWord": "kükitama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "kükitama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "kükitamata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "kükitamas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "kükitamast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "kükitamaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "kükitatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "kükitada"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "kükitades"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "kükitav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "kükitatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "kükitanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "kükitanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "kükitatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "kükitatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "kükitan"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "kükitad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "kükitab"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "kükitame"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "kükitate"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "kükitavad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "kükita"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "kükitatakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "kükitata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "kükitasin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "kükitasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "kükitas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "kükitasime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "kükitasite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "kükitasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "kükitati"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "kükitaksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "kükitaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "kükitaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "kükitaksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "kükitaksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "kükitaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "kükitataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "kükitanuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "kükitanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "kükitanuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "kükitanuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "kükitanuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "kükitanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "kükitatuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "kükitavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "kükitatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "kükitanuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "kükitatuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "kükita"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "kükitagem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "kükitage"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "kükitagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "kükitatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kükakile laskuma või kükakil olema,ennast madalaks tegema nii, et jalad lähevad kõveraks",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Mõni kükitab iga lille ja putuka juures ja huvitub loodusest.",
+            "Ta kükitas ja vaatas kassi lähemalt."
+          ],
+          "synonyms": [
+            "kükkima",
+            "maha kükitama"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "squat",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "садиться на корточки",
+                "weight": 1
+              },
+              {
+                "words": "приседать на корточки",
+                "weight": 1
+              },
+              {
+                "words": "сидеть на корточках",
+                "weight": 1
+              },
+              {
+                "words": "приседать на корточки,делать присед,садиться на корточки,делать приседание,сделать присед,сделать приседание",
+                "weight": 0.9
+              },
+              {
+                "words": "садиться на корточки,приседать на корточки,сесть на корточки,присесть на корточки",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "присідати",
+                "weight": 1
+              },
+              {
+                "words": "присісти",
+                "weight": 1
+              },
+              {
+                "words": "сідати навпочіпки",
+                "weight": 1
+              },
+              {
+                "words": "сісти навпочіпки",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millelgi (hrl kõveras ebamugavalt) istuma",
+          "partOfSpeech": [],
+          "examples": [
+            "Ühes tühjas telgis sai seljakottide otsas kükitades öö tuulevarjus mööda saata."
+          ],
+          "synonyms": [
+            "kössitama,kössutama",
+            "konutama",
+            "kügelema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "жаться,сжиматься,сжаться,сидеть ссутулившись,сидеть съёжившись,съёжиться,ёжиться,стоять съёжившись,стоять ссутулившись",
+                "weight": 0.9
+              },
+              {
+                "words": "сиднем сидеть,сидмя сидеть,коптеть,киснуть,сидеть сгорбившись,сидеть ссутулившись,сидеть съёжившись,сидеть, поникнув головой,сидеть, понурив голову,сидеть понурившись,сидеть без дела,стоять без дела",
+                "weight": 0.9
+              },
+              {
+                "words": "ёрзать,елозить,стесняться,конфузиться",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "oma loomulikke tarbeid (kükkasendis) õiendama",
+          "partOfSpeech": [],
+          "examples": [
+            "Ma jäin haledalt kuuse all kükitades kohalikule mehele vahele."
+          ],
+          "synonyms": [
+            "asjal käima,õiendama",
+            "kakama,kakima",
+            "roojama,sittuma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "справлять нужду,справить нужду",
+                "weight": 0.9
+              },
+              {
+                "words": "какать,покакать",
+                "weight": 0.9
+              },
+              {
+                "words": "испражняться,пакостить,напакостить,гадить,нагадить,испражниться,срать,посрать,серить",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "faire caca",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "какати,покакати",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "poo,poop",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(loomade ja lindude istumise kohta)",
+          "partOfSpeech": [],
+          "examples": [
+            "Kukk kükitab õrrel."
+          ],
+          "synonyms": [
+            "istuma",
+            "istuma,sidima,sitsima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "высиживать,высидеть",
+                "weight": 0.569
+              },
+              {
+                "words": "сидеть,посидеть,садиться,сесть,усаживаться,усесться,посиживать",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "сидіти,посидіти,сідати,сісти",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "sit",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tegevusetult konutama, ühe koha peal olema või elama",
+          "partOfSpeech": [],
+          "examples": [
+            "Ta nutab päevad läbi, kükitab kodus ega taha kellegagi suhelda."
+          ],
+          "synonyms": [
+            "konutama",
+            "passima,vahtima",
+            "sidima,sitsima,istuma",
+            "molutama",
+            "kõlkuma",
+            "kõõluma",
+            "tölberdama,töllutama,töllama,töllerdama",
+            "lebotama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "коптеть,киснуть,сидеть сгорбившись,сидеть ссутулившись,сидеть съёжившись,сидеть, поникнув головой,сидеть, понурив голову,сидеть понурившись,сидеть без дела,стоять без дела,сиднем сидеть,сидмя сидеть",
+                "weight": 0.9
+              },
+              {
+                "words": "лодырничать,лентяйничать,бездельничать,болтаться,околачиваться без дела,шалопайничать",
+                "weight": 0.9
+              },
+              {
+                "words": "сидеть",
+                "weight": 0.569
+              },
+              {
+                "words": "считать ворон,ротозейничать,считать мух,считать галок,валять дурака",
+                "weight": 0.8313
+              },
+              {
+                "words": "слоняться,шататься,болтаться,путаться",
+                "weight": 0.8293
+              },
+              {
+                "words": "болтаться,шататься,слоняться",
+                "weight": 0.8387
+              },
+              {
+                "words": "ходить вразвалку,идти вразвалку,переваливаться,околачиваться,шататься,болтаться,таскаться,шляться,слоняться,путаться",
+                "weight": 0.9
+              },
+              {
+                "words": "валяться,проваляться,поваляться",
+                "weight": 0.682
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingis asukohas paiknema või seisma",
+          "partOfSpeech": [],
+          "examples": [
+            "Käänuliste uulitsate ääres kükitasid väikesed madalad majad."
+          ],
+          "synonyms": [
+            "paiknema",
+            "asunema,asetsema,asuma,asenema",
+            "kössitama,kössutama",
+            "losutama,lösutama,kossutama,lössutama,lossutama",
+            "konutama",
+            "ripendama",
+            "norutama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "расположиться,располагаться,находиться",
+                "weight": 0.9
+              },
+              {
+                "words": "находиться,располагаться,расположиться",
+                "weight": 0.9
+              },
+              {
+                "words": "разваливаться,валяться,разлечься,рассесться,развалиться",
+                "weight": 0.8457
+              },
+              {
+                "words": "стоять без дела",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "se trouver,être situé",
+                "weight": 0.9
+              },
+              {
+                "words": "se trouver,être situé",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "бути,розташовуватися,розміщатися,розміщуватися,стояти,лежати,міститися",
+                "weight": 0.9
+              },
+              {
+                "words": "розташовуватися,розташуватися",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kügelema",
+        "sidima",
+        "istuma",
+        "maha kükitama",
+        "kükkima",
+        "molutama",
+        "sitsima",
+        "vahtima",
+        "kõlkuma",
+        "olema",
+        "lösutama",
+        "passima",
+        "kõõluma",
+        "asuma",
+        "konutama",
+        "paiknema",
+        "töllerdama",
+        "ripendama",
+        "kössitama",
+        "asjal käima",
+        "asetsema",
+        "virelema",
+        "lebotama",
+        "norutama",
+        "kükki",
+        "kakima",
+        "tillerdama",
+        "maha panema",
+        "istutama",
+        "tölberdama",
+        "sital käima",
+        "tolknema",
+        "tolgendama",
+        "küürutama",
+        "sittuma",
+        "tilpnema",
+        "mulda panema",
+        "roojama",
+        "tilbendama",
+        "kakama",
+        "kukkuma",
+        "kukkuma",
+        "sirutama",
+        "perutama",
+        "sörkima",
+        "õlitama",
+        "kissitama",
+        "vilgutama",
+        "krambitama",
+        "kobrutama",
+        "käputama",
+        "mossitama",
+        "klõbistama",
+        "müttama",
+        "poputama",
+        "vibutama",
+        "teritama",
+        "põristama",
+        "pikutama",
+        "hüplema",
+        "trikitama",
+        "kepsutama",
+        "virutama",
+        "sikutama",
+        "silitama",
+        "kiigutama",
+        "paitama",
+        "sakutama",
+        "võdistama",
+        "krimpsutama",
+        "jõllitama",
+        "väristama",
+        "lonkima",
+        "õõtsuma",
+        "turritama",
+        "õõtsutama",
+        "lõõritama",
+        "lohistama",
+        "loperdama",
+        "libistama",
+        "peesitama",
+        "niietama",
+        "kärutama",
+        "plartsutama",
+        "põlvitama",
+        "kikitama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kükitama",
+      "translations": [
+        "crouch",
+        "hunker down",
+        "scrunch",
+        "squat",
+        "squat down"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "requestedWord": "siinkohal",
+  "estonianWord": "siinkohal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "siinkohal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(sedastades, kinnitades:) selle koha peal, selles asjas, selle (mainitud) asjaga seotult,selle koha peal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Olgu siinkohal meenutatud, et ..",
+            "Siinkohal võin muidugi eksida.",
+            "Esitan siinkohal mõned näited."
+          ],
+          "synonyms": [
+            "siinap"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "ici",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "здесь",
+                "weight": 1
+              },
+              {
+                "words": "на этом месте",
+                "weight": 1
+              },
+              {
+                "words": "тут",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тут",
+                "weight": 1
+              },
+              {
+                "words": "на цьому місці",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "siinsamas",
+        "siin",
+        "siin",
+        "mõistagi",
+        "tõesti",
+        "kindlasti",
+        "vaid",
+        "aga",
+        "aga",
+        "siiski",
+        "ilmselt",
+        "muidugi",
+        "eelkõige",
+        "seega",
+        "pigem",
+        "loomulikult",
+        "siinjuures",
+        "mitte",
+        "mitte",
+        "küll",
+        "küll",
+        "tegelikult",
+        "vast",
+        "ikkagi",
+        "just",
+        "vist",
+        "vist",
+        "siis",
+        "alati"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "siinkohal",
+      "translations": [
+        "at this point"
+      ]
+    }
+  ]
+}

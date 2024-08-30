@@ -1,0 +1,513 @@
+{
+  "requestedWord": "profiil",
+  "estonianWord": "profiil",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "profiil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "profiili"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "profiili"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "profiili"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "profiilisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "profiilis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "profiilist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "profiilile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "profiilil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "profiililt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "profiiliks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "profiilini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "profiilina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "profiilita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "profiiliga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "profiilid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "profiilide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "profiile,profiilisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "profiilidesse,profiilesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "profiilides,profiiles"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "profiilidest,profiilest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "profiilidele,profiilele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "profiilidel,profiilel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "profiilidelt,profiilelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "profiilideks,profiileks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "profiilideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "profiilidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "profiilideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "profiilidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi näo kujutis külgvaates",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Nägin teda profiilis.",
+            "Mehe profiil."
+          ],
+          "synonyms": [
+            "külgvaade"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "профиль",
+                "weight": 1
+              },
+              {
+                "words": "боковой фасад,профиль,вид сбоку",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "linna, looduse vm (kauge) kujutis piirjoonena, eemalt paistva servana",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Manhattani profiil on mingis mõttes sarnane sõnaga Manhattan."
+          ],
+          "synonyms": [
+            "siluett",
+            "kujutis"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "контур,очертание",
+                "weight": 0.7
+              },
+              {
+                "words": "отображение,изображение,образ,отражение",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "représentation",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зображення",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "eseme vm mõttelisel lõikamisel tasandiga saadud kujutis (lõikepind ja sellest tahapoole jääv, hrl joonisena)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Nelikantpalgi profiil."
+          ],
+          "synonyms": [
+            "lõige",
+            "läbilõige",
+            "ristlõige,põiklõige,ristläbilõige,ristprofiil"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "разрез",
+                "weight": 1
+              },
+              {
+                "words": "сечение,поперечное сечение,поперечный разрез,поперечник,поперечный профиль",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "maapinna reljeef, pinnavormide kuju,maastiku, aluspõhja või pinnakatte vertikaalse läbilõike kujutis",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Jooksuraja profiil on tasane."
+          ],
+          "synonyms": [
+            "pinnamood,pinnareljeef,reljeef"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "рельеф",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "valtsitud, pressitud vm viisil töödeldud materjali mitmesugune pinna- või ristlõikekuju,sellise kujuga liist, pind vms",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kõrge profiiliga rehvid.",
+            "Madala profiiliga rehvid.",
+            "Katuseprofiil."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "asutuse, inimese, eriala, arvutisüsteemi vms põhijoonte kirjeldus või iseloomustus (nt tegevusalad, oskused, eripärad), millegi põhijoonte kogum",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kitsa profiiliga eriala.",
+            "Ta on laia profiiliga remondimees ja leiutaja.",
+            "Sarnase profiiliga firma.",
+            "Perekonna sotsiaal-majanduslik profiil.",
+            "Ametiprofiil.",
+            "Isiksuseprofiil.",
+            "Kliendiprofiil."
+          ],
+          "synonyms": [
+            "kallak,suunitlus,orientatsioon",
+            "suund,suundumus",
+            "iseloom",
+            "iseloomustus",
+            "portree"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ориентация,курс,уклон,настроенность,установка,направленность,назначение,задача",
+                "weight": 0.9
+              },
+              {
+                "words": "направленность,линия,направление,тенденция,тренд",
+                "weight": 0.9
+              },
+              {
+                "words": "нрав,характер,природа,натура,норов",
+                "weight": 0.7
+              },
+              {
+                "words": "обрисовка,характеристика",
+                "weight": 0.7
+              },
+              {
+                "words": "портрет",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "sens",
+                "weight": 0.9
+              },
+              {
+                "words": "nature",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "напрямок,напрям",
+                "weight": 0.9
+              },
+              {
+                "words": "природа,характер",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "portrait",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ühismeedias vm:) kontaktandmed ja muu isikut iseloomustav info, mida keegi enda kohta avaldab",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Facebookis kujundas Robert oma profiili põneva eluga inimese omaks."
+          ],
+          "synonyms": [
+            "kasutajaprofiil"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "профиль пользователя",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "portree",
+        "iseloomustus",
+        "iseloom",
+        "reljeef",
+        "kujutis",
+        "siluett",
+        "orientatsioon",
+        "suunitlus",
+        "suund",
+        "ristläbilõige",
+        "trend",
+        "külgvaade",
+        "kallak",
+        "siht",
+        "ristlõige",
+        "sihitus",
+        "sihitus",
+        "tendents",
+        "suundumus",
+        "lõige",
+        "läbilõige",
+        "mullaprofiil",
+        "poolprofiil",
+        "rajaprofiil",
+        "kasutajaprofiil",
+        "pikiprofiil",
+        "profiilplekk",
+        "ristprofiil",
+        "lõhe",
+        "lõhe",
+        "pool",
+        "liitsiht",
+        "pool",
+        "lävend",
+        "lõhik",
+        "sälk",
+        "nekrofiil"
+      ]
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "profiil-"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(materjalide, ehitusdetailide kohta:) profiilitud, teatud kuju, ristlõiget omavaks töödeldud",
+          "partOfSpeech": [],
+          "examples": [
+            "Profiilplekk.",
+            "Profiilteras.",
+            "Profiilmaterjal.",
+            "Profiilliist."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "materjalide vms profiilimiseks kasutatav,(materjalide töötluse kohta:) profiili, teatavat kuju andev",
+          "partOfSpeech": [],
+          "examples": [
+            "Profiillihvpink.",
+            "Profiilfreesimine."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "profiil",
+      "translations": [
+        "half-face",
+        "half-face view",
+        "moulding",
+        "profile"
+      ]
+    }
+  ]
+}

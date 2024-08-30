@@ -1,0 +1,79 @@
+{
+  "requestedWord": "joonde",
+  "estonianWord": "joonde",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "joonde"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "korda, korraldatuks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Katsu oma eluke joonde sättida!",
+            "Tema vallandamine on viimane asi, mis asjad praegu joonde viiks.",
+            "Küll kõik läheb jälle joonde."
+          ],
+          "synonyms": [
+            "kombe,kombesse",
+            "jonksu,korda"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "в порядок",
+                "weight": 1
+              },
+              {
+                "words": "в порядок",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jutti",
+        "kombesse",
+        "korda",
+        "kombe",
+        "kombe",
+        "paika",
+        "saama",
+        "minema",
+        "minema",
+        "klapitama",
+        "lahenema",
+        "ära korraldama",
+        "korda minema",
+        "hakkama saama",
+        "joondu",
+        "superhästi",
+        "joonduma",
+        "sirgeselgne"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "joonde",
+      "translations": []
+    }
+  ]
+}

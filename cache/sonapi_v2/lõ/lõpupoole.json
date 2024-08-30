@@ -1,0 +1,64 @@
+{
+  "requestedWord": "lõpupoole",
+  "estonianWord": "lõpupoole",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "lõpupoole"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "aasta, nädala vm ajaühiku lõpus, tagumisel poolel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kevadisem ilm peaks saabuma aprilli lõpupoole."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "во второй половине",
+                "weight": 1
+              },
+              {
+                "words": "в конце",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "algul",
+        "lõpuaasta",
+        "alguses",
+        "keskel",
+        "lõpusilp",
+        "lõpupool",
+        "algupoole",
+        "lõpus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lõpupoole",
+      "translations": []
+    }
+  ]
+}

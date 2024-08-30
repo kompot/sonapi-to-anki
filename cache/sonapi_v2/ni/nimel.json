@@ -1,0 +1,120 @@
+{
+  "requestedWord": "nimel",
+  "estonianWord": "nimel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "nimel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingit eesmärki silmas pidades, millelegi pühendudes, millegi pärast",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Kunsti nimel on ennegi ohvreid toodud.",
+            "Kõik parema tuleviku nimel!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "во имя",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kedagi esindades, kellegi ülesandel, kellegi poolt,kedagi esindades, kellegi poolt",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Poliitikud armastavad ikka rääkida rahva nimel.",
+            "Tartu ülikooli nimel võtab sõna ..",
+            "Kooli nimel võttis sõna direktor."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "au nom de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "от имени",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "від імені",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millelegi või kellelegi apelleerides, toetudes",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Vannun oma au nimel, et ei valetanud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "именем",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pärast",
+        "jaoks",
+        "eest",
+        "huvides"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "nimel",
+      "translations": [
+        "behalf",
+        "by authority of",
+        "(kellegi) for the sake of",
+        "in nomine",
+        "in the name of",
+        "on behalf of"
+      ]
+    }
+  ]
+}

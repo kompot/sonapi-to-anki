@@ -1,0 +1,169 @@
+{
+  "requestedWord": "pungil",
+  "estonianWord": "pungil",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "pungil"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(millestki täidetuna) esile tungimas,ümaralt paisunud või paisutatud olekus",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Üllatusest pungil silmad.",
+            "Pungil purjed."
+          ],
+          "synonyms": [
+            "pungis",
+            "punnis",
+            "täis",
+            "punn"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "выпяченный",
+                "weight": 1
+              },
+              {
+                "words": "выпученный",
+                "weight": 1
+              },
+              {
+                "words": "оттопыренный",
+                "weight": 1
+              },
+              {
+                "words": "выпуклый",
+                "weight": 1
+              },
+              {
+                "words": "пухлый",
+                "weight": 1
+              },
+              {
+                "words": "сытый",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(rohkust, paljust väljendavalt:) midagi või kedagi täis, millestki või kellestki täitunud",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Metroo oli rahvast pungil täis.",
+            "Autodest pungil parkla.",
+            "Kui lava on pungil poeesiat, siis publikuni see sageli ei jõua."
+          ],
+          "synonyms": [
+            "täis",
+            "tiine"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "до отказа набитый",
+                "weight": 1
+              },
+              {
+                "words": "битком набитый",
+                "weight": 1
+              },
+              {
+                "words": "набитый",
+                "weight": 1
+              },
+              {
+                "words": "переполненный,полный,заполненный,наполненный,исполненный",
+                "weight": 0.757
+              }
+            ],
+            "fra": [
+              {
+                "words": "plein",
+                "weight": 0.757
+              }
+            ],
+            "ukr": [
+              {
+                "words": "повний,повен,заповнений,наповнений",
+                "weight": 0.757
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pruntis",
+        "pakil",
+        "otsast otsani",
+        "täis",
+        "täis",
+        "täiskiilutud",
+        "täistuubitud",
+        "puupüsti täis",
+        "torris",
+        "piripungil",
+        "pulkas",
+        "pilgeni",
+        "pullis",
+        "pungis",
+        "tiine",
+        "maani täis",
+        "punnis",
+        "tulvil",
+        "tungil",
+        "jõllis",
+        "tuubil",
+        "rabelema",
+        "lõõtsutama",
+        "vastutama",
+        "vaeva nägema",
+        "hingeldama",
+        "pungi",
+        "pungile"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pungil",
+      "translations": [
+        "bulging",
+        "chock",
+        "chock-a-block",
+        "chock-full"
+      ]
+    }
+  ]
+}

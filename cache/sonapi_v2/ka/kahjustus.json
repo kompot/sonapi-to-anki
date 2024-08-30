@@ -1,0 +1,300 @@
+{
+  "requestedWord": "kahjustus",
+  "estonianWord": "kahjustus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kahjustus"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kahjustuse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kahjustust"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "kahjustusse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kahjustusesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kahjustuses"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kahjustusest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kahjustusele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kahjustusel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kahjustuselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kahjustuseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kahjustuseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kahjustusena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kahjustuseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kahjustusega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kahjustused"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kahjustuste"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kahjustusi"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kahjustustesse,kahjustusisse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kahjustustes,kahjustusis"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kahjustustest,kahjustusist"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kahjustustele,kahjustusile"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kahjustustel,kahjustusil"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kahjustustelt,kahjustusilt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kahjustusteks,kahjustusiks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kahjustusteni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kahjustustena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kahjustusteta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kahjustustega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "halva, häda tekitamise või kannatada saamise tagajärg",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kesknärvisüsteemi traumaatiline kahjustus.",
+            "Tormikahjustus."
+          ],
+          "synonyms": [
+            "viga",
+            "viga",
+            "vigastus",
+            "rike"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "повреждение",
+                "weight": 1
+              },
+              {
+                "words": "поражение",
+                "weight": 1
+              },
+              {
+                "words": "изъян,недоделка,неполадка,дефект,неисправность,повреждение,огрех,недоработка",
+                "weight": 0.7
+              },
+              {
+                "words": "порок,недомогание,недуг,недостаток",
+                "weight": 0.7
+              },
+              {
+                "words": "поломка,ушиб,травма,поражение,ранение,повреждение,увечье",
+                "weight": 0.9
+              },
+              {
+                "words": "неполадка,неисправность,повреждение,нарушение,изъян,дефект",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "blessure,lésion",
+                "weight": 0.9
+              },
+              {
+                "words": "panne",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "забиття,травма,ушкодження,пошкодження,поранення,ураження,каліцтво",
+                "weight": 0.9
+              },
+              {
+                "words": "несправність,пошкодження,ушкодження",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "üraskikahjustus",
+        "veekahjustus",
+        "talvekahjustus",
+        "taimekahjustus",
+        "sünnikahjustus",
+        "rahekahjustus",
+        "põuakahjustus",
+        "põdrakahjustus",
+        "päikesekahjustus",
+        "putukkahjustus",
+        "putukakahjustus",
+        "nägemiskahjustus",
+        "niiskuskahjustus",
+        "mürakahjustus",
+        "metsakahjustus",
+        "lumekahjustus",
+        "keskkonnakahjustus",
+        "fotokahjustus",
+        "elektrikahjustus",
+        "ajukahjustus",
+        "kahju",
+        "vigastus",
+        "rike",
+        "tervisekahjustus",
+        "kiirguskahjustus",
+        "nahakahjustus",
+        "maksakahjustus",
+        "külmakahjustus",
+        "ulukikahjustus",
+        "kiirituskahjustus",
+        "kuulmiskahjustus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kahjustus",
+      "translations": [
+        "detriment",
+        "impairment"
+      ]
+    }
+  ]
+}

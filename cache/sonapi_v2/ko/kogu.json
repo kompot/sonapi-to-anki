@@ -1,0 +1,777 @@
+{
+  "requestedWord": "kogu",
+  "estonianWord": "kogu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kogu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "näitab, et kõnesolevat eset, kohta, ajavahemikku, isikute rühma või muud käsitletakse täies ulatuses, tervikuna,tervikuna, algusest lõpuni",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "See kogemus sai eeskujuks kogu maailmale.",
+            "Kogu suve väldanud müügikampaania.",
+            "Suursündmusele oli rahvast tulnud üle kogu Eesti.",
+            "Sõin kogu saia ära.",
+            "Õppisin kogu päeva.",
+            "Poliitilised otsused mõjutavad kogu ühiskonda."
+          ],
+          "synonyms": [
+            "terve",
+            "otsa",
+            "läbi",
+            "kõik",
+            "täis"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "tout",
+                "weight": 1
+              },
+              {
+                "words": "tout",
+                "weight": 0.9
+              },
+              {
+                "words": "pendant,tout",
+                "weight": 0.9
+              },
+              {
+                "words": "tout",
+                "weight": 0.9
+              },
+              {
+                "words": "tout",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "весь",
+                "weight": 1
+              },
+              {
+                "words": "целый",
+                "weight": 1
+              },
+              {
+                "words": "вся",
+                "weight": 1
+              },
+              {
+                "words": "всё",
+                "weight": 1
+              },
+              {
+                "words": "все",
+                "weight": 1
+              },
+              {
+                "words": "весь,всё",
+                "weight": 0.9
+              },
+              {
+                "words": "весь",
+                "weight": 0.9
+              },
+              {
+                "words": "всё",
+                "weight": 0.9
+              },
+              {
+                "words": "полный,всё,весь,вся",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "весь",
+                "weight": 1
+              },
+              {
+                "words": "вся",
+                "weight": 1
+              },
+              {
+                "words": "все",
+                "weight": 1
+              },
+              {
+                "words": "всі",
+                "weight": 1
+              },
+              {
+                "words": "цілий",
+                "weight": 1
+              },
+              {
+                "words": "весь,увесь,усе,все",
+                "weight": 0.9
+              },
+              {
+                "words": "весь,увесь",
+                "weight": 0.9
+              },
+              {
+                "words": "весь,все",
+                "weight": 0.9
+              },
+              {
+                "words": "повний,весь,вся,все",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kõik",
+        "ringi",
+        "läbi",
+        "otsa",
+        "terve",
+        "oma",
+        "oma",
+        "oma",
+        "meie",
+        "vältel",
+        "maailma",
+        "peaaegu",
+        "hoolekogu",
+        "figuur",
+        "kollektsioon",
+        "kont",
+        "kont",
+        "kehaehitus",
+        "komitee",
+        "füüsis",
+        "kogumik",
+        "kondikava",
+        "haabitus",
+        "kehakuju",
+        "kuju",
+        "keha",
+        "hulk",
+        "koosseis",
+        "kompleks",
+        "koguteos",
+        "lahmakas",
+        "koostis",
+        "kooskond",
+        "hiiglane",
+        "tervik",
+        "kogum",
+        "kokkutulek",
+        "kogunemine",
+        "kogur",
+        "tippaasta",
+        "põhikogu",
+        "kupatus",
+        "elu",
+        "koondrivi",
+        "ülejäänud",
+        "aeg",
+        "perioodikakogu"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kogu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kogu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kogu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "kokku"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kogusse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kogus"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kogust"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kogule"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kogul"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kogult"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "koguks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "koguni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "koguna"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "koguta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "koguga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kogud"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kogude"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kogusid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kogudesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kogudes"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kogudest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kogudele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kogudel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kogudelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kogudeks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kogudeni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kogudena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kogudeta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kogudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "hulk kindla eesmärgiga kogutud ning süstematiseeritud esemeid või ainestikku,hulk mingeid esemeid, mis on kogutud kindlal eesmärgil",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Raamatukogu vinüülplaatide kogu koosnes umbes 16 000 plaadist.",
+            "Mündikogu.",
+            "Kivikogu.",
+            "Mul on suur kogu Eesti marke.",
+            "Kõik vanad fotod jäävad muuseumi kogusse."
+          ],
+          "synonyms": [
+            "fond",
+            "kollektsioon",
+            "arhiiv",
+            "arhiiv"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "collection",
+                "weight": 1
+              },
+              {
+                "words": "collection",
+                "weight": 0.9
+              },
+              {
+                "words": "archives",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "фонд",
+                "weight": 1
+              },
+              {
+                "words": "коллекция",
+                "weight": 1
+              },
+              {
+                "words": "собрание",
+                "weight": 1
+              },
+              {
+                "words": "коллекция",
+                "weight": 0.9
+              },
+              {
+                "words": "архив",
+                "weight": 0.7
+              },
+              {
+                "words": "архив",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "колекція",
+                "weight": 1
+              },
+              {
+                "words": "зібрання",
+                "weight": 1
+              },
+              {
+                "words": "колекція",
+                "weight": 0.9
+              },
+              {
+                "words": "архів",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "collection",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "iseseisvaid kirjandustooteid, mitmesuguseid ülesandeid, seadustekste vms sisaldav koondteos,teos, mis sisaldab kirjutisi ühelt või mitmelt autorilt",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Erialaste tekstide kogu.",
+            "Luuletaja mitmes kogus on isamaalisi luuletusi.",
+            "Temalt ilmus juba kolmas kogu luuletusi."
+          ],
+          "synonyms": [
+            "kogumik,koguteos"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "recueil",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "сборник",
+                "weight": 1
+              },
+              {
+                "words": "собрание",
+                "weight": 1
+              },
+              {
+                "words": "свод",
+                "weight": 1
+              },
+              {
+                "words": "сборник",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "збірка",
+                "weight": 1
+              },
+              {
+                "words": "збірник",
+                "weight": 1
+              },
+              {
+                "words": "зібрання",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "keha välised piirjooned, keha üldine vorm",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mehe raske kogu.",
+            "Ta märkas enda kõrval naise kühmus kogu.",
+            "Naisekogu."
+          ],
+          "synonyms": [
+            "figuur",
+            "kuju",
+            "kehaehitus",
+            "kehakuju",
+            "vorm",
+            "joon",
+            "kont",
+            "habitus,haabitus",
+            "füüsis"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "фигура",
+                "weight": 1
+              },
+              {
+                "words": "телосложение",
+                "weight": 1
+              },
+              {
+                "words": "корпус",
+                "weight": 1
+              },
+              {
+                "words": "стать",
+                "weight": 1
+              },
+              {
+                "words": "силуэт",
+                "weight": 1
+              },
+              {
+                "words": "телосложение,склад,конституция,комплекция,стать",
+                "weight": 0.9
+              },
+              {
+                "words": "стать,стан,гипсовая фигура",
+                "weight": 0.9
+              },
+              {
+                "words": "формы",
+                "weight": 0.85
+              },
+              {
+                "words": "форма,черта",
+                "weight": 0.9
+              },
+              {
+                "words": "кость",
+                "weight": 0.9
+              },
+              {
+                "words": "габитус",
+                "weight": 0.9
+              },
+              {
+                "words": "физическая форма",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "paljudest liikmetest koosnev esindus- või juhtimisorgan",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Otsustusõigus jääb valijameeste kogule."
+          ],
+          "synonyms": [
+            "komitee"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "собрание",
+                "weight": 1
+              },
+              {
+                "words": "совет",
+                "weight": 1
+              },
+              {
+                "words": "комитет",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "comité",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "комітет",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teatud ebamäärane hulk inimesi, esemeid, nähtusi vms ühtse rühmana",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mulle tundub see jutt ilusate loosungite koguna.",
+            "Madalal hõljuvate tähtede kogu."
+          ],
+          "synonyms": [
+            "kogum",
+            "kogumik",
+            "hulk",
+            "kimp"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "скопление",
+                "weight": 1
+              },
+              {
+                "words": "масса",
+                "weight": 1
+              },
+              {
+                "words": "совокупность,комплекс,набор,сумма,скопление",
+                "weight": 0.9
+              },
+              {
+                "words": "колония,скопление",
+                "weight": 0.9
+              },
+              {
+                "words": "количество,множество,число,объём",
+                "weight": 0.9
+              },
+              {
+                "words": "вязанка,связка,пачка,узел",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "ensemble",
+                "weight": 0.9
+              },
+              {
+                "words": "quantité,nombre",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "набір,сукупність,комплекс",
+                "weight": 0.9
+              },
+              {
+                "words": "кількість,обсяг",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "arhiiv",
+        "hoolekogu",
+        "figuur",
+        "kollektsioon",
+        "kont",
+        "füüsis",
+        "komitee",
+        "kehaehitus",
+        "kogumik",
+        "läbi",
+        "otsa",
+        "terve",
+        "kondikava",
+        "haabitus",
+        "kehakuju",
+        "kuju",
+        "keha",
+        "hulk",
+        "koosseis",
+        "kompleks",
+        "koguteos",
+        "lahmakas",
+        "koostis",
+        "kooskond",
+        "tervik",
+        "kogum",
+        "kokkutulek",
+        "kogunemine",
+        "põhikogu",
+        "oma",
+        "kupatus",
+        "elu",
+        "perioodikakogu",
+        "kõik",
+        "kont",
+        "ringi",
+        "hiiglane",
+        "kogur",
+        "tippaasta",
+        "oma",
+        "oma",
+        "meie",
+        "ülejäänud",
+        "aeg",
+        "maailma",
+        "peaaegu",
+        "vältel",
+        "koondrivi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kogu",
+      "translations": [
+        "(üle) all over the place (maja",
+        "toa vm)",
+        "assemblage",
+        "caboodle",
+        "collection",
+        "entire",
+        "moot",
+        "total",
+        "whole"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "requestedWord": "vahekord",
+  "estonianWord": "vahekord",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22i",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "vahekord"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "vahekorra"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "vahekorda"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "vahekorda"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "vahekorrasse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "vahekorras"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "vahekorrast"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "vahekorrale"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "vahekorral"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "vahekorralt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "vahekorraks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "vahekorrani"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "vahekorrana"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "vahekorrata"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "vahekorraga"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "vahekorrad"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "vahekordade"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "vahekordi,vahekordasid"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "vahekordadesse,vahekorrisse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "vahekordades,vahekorris"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "vahekordadest,vahekorrist"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "vahekordadele,vahekorrile"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "vahekordadel,vahekorril"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "vahekordadelt,vahekorrilt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "vahekordadeks,vahekorriks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "vahekordadeni"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "vahekordadena"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "vahekordadeta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "vahekordadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "võrdlusel põhinev mõõdetavate suuruste, arvude, määrade omavaheline suhe,mingite arvude, nähtuste või olukordade omavaheline suhe",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Eesti lipu laiuse ja pikkuse vahekord on 7 : 11.",
+            "Sajuste ja kuivade päevade vahekord novembris oli esimeste kasuks.",
+            "Nõudluse ja pakkumise vahekord.",
+            "Pulber segatakse veega vahekorras 1 : 8.",
+            "Puhkus ja töö peavad olema õiges vahekorras."
+          ],
+          "synonyms": [
+            "suhe",
+            "proportsioon"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "rapport",
+                "weight": 1
+              },
+              {
+                "words": "rapport,relation",
+                "weight": 0.818
+              }
+            ],
+            "rus": [
+              {
+                "words": "отношение",
+                "weight": 1
+              },
+              {
+                "words": "соотношение",
+                "weight": 1
+              },
+              {
+                "words": "пропорция",
+                "weight": 1
+              },
+              {
+                "words": "соотношение,отношение,пропорция",
+                "weight": 0.818
+              },
+              {
+                "words": "соразмерность,пропорция",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "співвідношення",
+                "weight": 1
+              },
+              {
+                "words": "відношення,співвідношення,пропорція",
+                "weight": 0.818
+              }
+            ]
+          }
+        },
+        {
+          "definition": "üldisem seos nähtuste, olukordade vahel",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Elu ja kunsti vahekord looja loomingus."
+          ],
+          "synonyms": [
+            "seos,suhe"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "отношения",
+                "weight": 1
+              },
+              {
+                "words": "взаимоотношение",
+                "weight": 1
+              },
+              {
+                "words": "взаимосвязь",
+                "weight": 1
+              },
+              {
+                "words": "связь,соотношение,отношение",
+                "weight": 0.818
+              }
+            ],
+            "fra": [
+              {
+                "words": "rapport,lien",
+                "weight": 0.818
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звʼязок,відношення",
+                "weight": 0.818
+              }
+            ]
+          }
+        },
+        {
+          "definition": "läbisaamine, suhtlus inimeste, riikide, organisatsioonide vms vahel,suhe inimeste vahel",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Õde ja vend asusid vahekordi klaarima.",
+            "Kaupmeeste ja turvameeste vahekord muutus pingeliseks.",
+            "Iraani vahekord Afganistaniga on pinev.",
+            "Ülikool on välisüliõpilastega lepingulises vahekorras.",
+            "Tema vahekord töökaaslastega on väga ametlik."
+          ],
+          "synonyms": [
+            "suhe",
+            "läbisaamine",
+            "suhtlemine",
+            "kodurahu",
+            "kodurahu"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "relations",
+                "weight": 1
+              },
+              {
+                "words": "rapport,relation",
+                "weight": 0.818
+              },
+              {
+                "words": "communication",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "отношения",
+                "weight": 1
+              },
+              {
+                "words": "взаимоотношения",
+                "weight": 1
+              },
+              {
+                "words": "взаимосвязь",
+                "weight": 1
+              },
+              {
+                "words": "отношения,сношения,связь,взаимоотношения",
+                "weight": 0.818
+              },
+              {
+                "words": "взаимоотношения",
+                "weight": 0.9
+              },
+              {
+                "words": "общение",
+                "weight": 0.9
+              },
+              {
+                "words": "мир,спокойствие",
+                "weight": 0.9
+              },
+              {
+                "words": "семейный мир,семейный покой,мир и спокойствие в доме",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "відносини",
+                "weight": 1
+              },
+              {
+                "words": "стосунки",
+                "weight": 1
+              },
+              {
+                "words": "взаємини",
+                "weight": 1
+              },
+              {
+                "words": "взаємини,стосунки,відносини",
+                "weight": 0.818
+              },
+              {
+                "words": "спілкування",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "communication",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(armusuhte kohta)",
+          "partOfSpeech": [],
+          "examples": [
+            "Mees katkestas vahekorra nädal enne laulatust."
+          ],
+          "synonyms": [
+            "armuvahekord,armusuhe",
+            "romanss",
+            "armastuslugu",
+            "ühendus",
+            "afäär,armuafäär"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "отношения",
+                "weight": 1
+              },
+              {
+                "words": "любовная связь",
+                "weight": 0.7
+              },
+              {
+                "words": "роман",
+                "weight": 0.7
+              },
+              {
+                "words": "история любви,любовная история",
+                "weight": 0.7
+              },
+              {
+                "words": "интрижка,любовная афера",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "inimeste suguline ühinemine, suguline vahekord,inimeste suguline ühinemine seksimisel",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kui vanalt olid esmakordselt vahekorras?",
+            "Homoseksuaalne vahekord.",
+            "Kaitsmata vahekord."
+          ],
+          "synonyms": [
+            "suguühe",
+            "suguakt",
+            "koitus",
+            "coitus",
+            "seksuaalakt",
+            "seksuaalvahekord",
+            "intiimvahekord",
+            "suguvahekord",
+            "ühe",
+            "armuvahekord",
+            "ühendus",
+            "kepp,seks",
+            "nikk,nuss"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "rapport sexuel",
+                "weight": 1
+              },
+              {
+                "words": "sexe",
+                "weight": 0.513
+              }
+            ],
+            "rus": [
+              {
+                "words": "половой акт",
+                "weight": 1
+              },
+              {
+                "words": "совокупление",
+                "weight": 1
+              },
+              {
+                "words": "соитие",
+                "weight": 1
+              },
+              {
+                "words": "коитус",
+                "weight": 1
+              },
+              {
+                "words": "сношение",
+                "weight": 1
+              },
+              {
+                "words": "половые отношения",
+                "weight": 0.649
+              },
+              {
+                "words": "трах-тибидох,секс,трах,ебля,траханье",
+                "weight": 0.513
+              },
+              {
+                "words": "трах",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "статевий акт",
+                "weight": 1
+              },
+              {
+                "words": "секс",
+                "weight": 0.513
+              }
+            ],
+            "eng": [
+              {
+                "words": "sex",
+                "weight": 0.513
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "romanss",
+        "armastuslugu",
+        "armuafäär",
+        "afäär",
+        "armusuhe",
+        "arve",
+        "rehnung",
+        "kopulatsioon",
+        "majarahu",
+        "läbisaamine",
+        "sott",
+        "suhted",
+        "kodurahu",
+        "suhe",
+        "rehnutt",
+        "suguakt",
+        "suguühe",
+        "relatsioon",
+        "seksuaalvahekord",
+        "sugutus",
+        "suguvahekord",
+        "proportsioon",
+        "suhtlemine",
+        "suhtumine",
+        "korrelatsioon",
+        "vastavus",
+        "läbikäimine",
+        "seos",
+        "suhtlus",
+        "võimuvahekord",
+        "vahekoda",
+        "armuvahekord",
+        "alluvusvahekord",
+        "jõuvahekord",
+        "sott",
+        "vahek",
+        "vahekoht",
+        "vahekeel",
+        "rahekord"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vahekord",
+      "translations": [
+        "intercourse",
+        "relationship"
+      ]
+    }
+  ]
+}

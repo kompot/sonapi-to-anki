@@ -1,0 +1,96 @@
+{
+  "requestedWord": "purju",
+  "estonianWord": "purju",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "purju"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "alkoholijoobesse, ebakainesse olekusse,selliseks, et ei suuda joodud alkoholi tõttu enam selgelt mõelda või rääkida",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Heiti hakkab purju jääma.",
+            "Jõin ennast purju.",
+            "Ta jääb kiiresti purju."
+          ],
+          "synonyms": [
+            "täis"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "ivre",
+                "weight": 1
+              },
+              {
+                "words": "soûl",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "до опьянения",
+                "weight": 1
+              },
+              {
+                "words": "пьяный",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до спʼяніння",
+                "weight": 1
+              },
+              {
+                "words": "пʼяний",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "joobuma",
+        "joovastuma",
+        "purjus",
+        "purupurju",
+        "joobnu",
+        "joobnult",
+        "purjutama",
+        "purjakil",
+        "purjuspäi",
+        "poolpurjus",
+        "joomar",
+        "rüüpama",
+        "joobeaste",
+        "purjusolek",
+        "jooma",
+        "jooma"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "purju",
+      "translations": []
+    }
+  ]
+}

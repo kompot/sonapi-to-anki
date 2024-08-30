@@ -1,0 +1,164 @@
+{
+  "requestedWord": "niisiis",
+  "estonianWord": "niisiis",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "niisiis"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kokkuvõttena, järeldusena hrl eelnevast, sellest tulenevalt,järeldusena eelnevast, sellest tingitud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Niisiis, Tartu inimesed on Tallinnast vaadates viirastused.",
+            "Järgmine olin niisiis mina.",
+            "Kõik on kohal, niisiis alustame.",
+            "Niisiis on selge, et pidu ei toimu."
+          ],
+          "synonyms": [
+            "järelikult",
+            "seega",
+            "ergo"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "donc",
+                "weight": 1
+              },
+              {
+                "words": "par conséquent",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "следовательно",
+                "weight": 1
+              },
+              {
+                "words": "значит",
+                "weight": 1
+              },
+              {
+                "words": "поэтому",
+                "weight": 1
+              },
+              {
+                "words": "итак",
+                "weight": 1
+              },
+              {
+                "words": "таким образом",
+                "weight": 1
+              },
+              {
+                "words": "вследствие этого",
+                "weight": 1
+              },
+              {
+                "words": "по этой причине",
+                "weight": 1
+              },
+              {
+                "words": "стало быть",
+                "weight": 1
+              },
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "тем самым",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "отже",
+                "weight": 1
+              },
+              {
+                "words": "тому",
+                "weight": 1
+              },
+              {
+                "words": "тож",
+                "weight": 1
+              },
+              {
+                "words": "отож",
+                "weight": 1
+              },
+              {
+                "words": "значить",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "järelikult",
+        "siis",
+        "ergo",
+        "seega",
+        "õigupoolest",
+        "tõepoolest",
+        "see",
+        "justkui",
+        "kuivõrd",
+        "aga",
+        "aga",
+        "esiteks",
+        "siiski",
+        "nõnda",
+        "ilmselt",
+        "täpselt",
+        "muidugi",
+        "subjektiivsus",
+        "siin",
+        "siin",
+        "põhimõtteliselt",
+        "üldse",
+        "kolmandajärguline",
+        "sellepärast",
+        "küll",
+        "küll",
+        "kõigepealt",
+        "ikkagi",
+        "päris",
+        "niis",
+        "just",
+        "sest",
+        "vist",
+        "vist"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "niisiis",
+      "translations": [
+        "in consequence",
+        "thus"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "requestedWord": "paljajalu",
+  "estonianWord": "paljajalu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "paljajalu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "katmata jalgadega, ilma sukkade-sokkide ja jalatsiteta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pehmel murul oli mõnus käia paljajalu."
+          ],
+          "synonyms": [
+            "palja jalu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "босиком",
+                "weight": 1
+              },
+              {
+                "words": "босой",
+                "weight": 1
+              },
+              {
+                "words": "необуто",
+                "weight": 1
+              },
+              {
+                "words": "разуто",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "poolpaljalt",
+        "paljalt",
+        "sokkis",
+        "paljapäi",
+        "paljakäsi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "paljajalu",
+      "translations": [
+        "barefoot",
+        "barefooted"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "requestedWord": "toonitama",
+  "estonianWord": "toonitama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "toonitama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "toonitamata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "toonitamas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "toonitamast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "toonitamaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "toonitatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "toonitada"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "toonitades"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "toonitav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "toonitatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "toonitanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "toonitanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "toonitatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "toonitatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "toonitan"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "toonitad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "toonitab"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "toonitame"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "toonitate"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "toonitavad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "toonita"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "toonitatakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "toonitata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "toonitasin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "toonitasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "toonitas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "toonitasime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "toonitasite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "toonitasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "toonitati"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "toonitaksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "toonitaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "toonitaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "toonitaksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "toonitaksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "toonitaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "toonitataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "toonitanuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "toonitanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "toonitanuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "toonitanuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "toonitanuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "toonitanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "toonitatuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "toonitavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "toonitatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "toonitanuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "toonitatuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "toonita"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "toonitagem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "toonitage"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "toonitagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "toonitatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(kõneldes) olulist esile tõstma, olulise väitena ütlema,midagi eriti, rõhutatult esile tooma,olulist esile tooma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Esineja toonitas, et ta pole politoloog."
+          ],
+          "synonyms": [
+            "rõhutama",
+            "rõhku panema",
+            "alla kriipsutama",
+            "esile tooma,esile tõstma",
+            "välja tooma",
+            "mainima",
+            "kinnitama",
+            "märkima",
+            "tähendama"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "souligner",
+                "weight": 1
+              },
+              {
+                "words": "mettre l'accent sur",
+                "weight": 0.9
+              },
+              {
+                "words": "mettre en évidence,souligner",
+                "weight": 0.9
+              },
+              {
+                "words": "mettre en évidence",
+                "weight": 0.9
+              },
+              {
+                "words": "mentionner",
+                "weight": 0.503
+              },
+              {
+                "words": "mentionner,signaler",
+                "weight": 0.556
+              }
+            ],
+            "rus": [
+              {
+                "words": "подчёркивать",
+                "weight": 1
+              },
+              {
+                "words": "подчеркнуть",
+                "weight": 1
+              },
+              {
+                "words": "выделять",
+                "weight": 1
+              },
+              {
+                "words": "выделить",
+                "weight": 1
+              },
+              {
+                "words": "акцентировать",
+                "weight": 1
+              },
+              {
+                "words": "делать упор",
+                "weight": 1
+              },
+              {
+                "words": "сделать упор",
+                "weight": 1
+              },
+              {
+                "words": "уделить внимание,уделять внимание",
+                "weight": 0.9
+              },
+              {
+                "words": "подчёркивать,подчеркнуть",
+                "weight": 0.9
+              },
+              {
+                "words": "выделить,отмечать,отметить,подчёркивать,особо выделять,подчеркнуть,выделять",
+                "weight": 0.9
+              },
+              {
+                "words": "подчёркивать,подчеркнуть",
+                "weight": 0.9
+              },
+              {
+                "words": "называть,упоминать,назвать,сказать,упомянуть,говорить",
+                "weight": 0.503
+              },
+              {
+                "words": "уверить,уверять,утвердить,утверждать",
+                "weight": 0.599
+              },
+              {
+                "words": "отметить,заметить,замечать,отмечать",
+                "weight": 0.556
+              },
+              {
+                "words": "упомянуть,отмечать,отметить,замечать,заметить,упоминать",
+                "weight": 0.556
+              }
+            ],
+            "ukr": [
+              {
+                "words": "наголошувати",
+                "weight": 1
+              },
+              {
+                "words": "наголосити",
+                "weight": 1
+              },
+              {
+                "words": "акцентувати",
+                "weight": 1
+              },
+              {
+                "words": "приділити увагу,приділяти увагу",
+                "weight": 0.9
+              },
+              {
+                "words": "виділяти,виділити,відзначати,відзначити,підкреслювати,підкреслити,наголошувати,наголосити",
+                "weight": 0.9
+              },
+              {
+                "words": "наголосити,підкреслювати,підкреслити,наголошувати",
+                "weight": 0.9
+              },
+              {
+                "words": "згадати,називати,назвати,згадувати",
+                "weight": 0.503
+              },
+              {
+                "words": "відмічати,відмітити,зауважувати,зауважити,відзначати,відзначити",
+                "weight": 0.556
+              }
+            ],
+            "eng": [
+              {
+                "words": "mention",
+                "weight": 0.503
+              }
+            ]
+          }
+        },
+        {
+          "definition": "nähtavana (rohkem) esile tooma, midagi välja paista laskma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Punane vöö toonitas saledat pihta."
+          ],
+          "synonyms": [
+            "rõhutama",
+            "välja tooma",
+            "esile tõstma,esile tooma",
+            "rõhku panema",
+            "markeerima",
+            "aktsenteerima,aktsentueerima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "подчёркивать",
+                "weight": 1
+              },
+              {
+                "words": "подчеркнуть",
+                "weight": 1
+              },
+              {
+                "words": "оттенять",
+                "weight": 1
+              },
+              {
+                "words": "оттенить",
+                "weight": 1
+              },
+              {
+                "words": "выделять",
+                "weight": 1
+              },
+              {
+                "words": "выделить",
+                "weight": 1
+              },
+              {
+                "words": "подчёркивать,подчеркнуть",
+                "weight": 0.9
+              },
+              {
+                "words": "особо выделять,подчёркивать,подчеркнуть,выделять,выделить,отмечать,отметить",
+                "weight": 0.9
+              },
+              {
+                "words": "уделять внимание,уделить внимание",
+                "weight": 0.9
+              },
+              {
+                "words": "подчеркнуть,подчёркивать",
+                "weight": 0.9
+              },
+              {
+                "words": "делать упор,подчёркивать,сделать упор,подчеркнуть,выделять,выделить,акцентировать",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "mettre en évidence",
+                "weight": 0.9
+              },
+              {
+                "words": "mettre en évidence,souligner",
+                "weight": 0.9
+              },
+              {
+                "words": "mettre l'accent sur",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "наголосити,наголошувати,підкреслити,підкреслювати",
+                "weight": 0.9
+              },
+              {
+                "words": "відзначати,відзначити,підкреслювати,підкреслити,наголошувати,наголосити,виділяти,виділити",
+                "weight": 0.9
+              },
+              {
+                "words": "приділити увагу,приділяти увагу",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kergelt) värvima, millelegi värvivarjundit, värvingut andma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ripsmed värviti mustjashalliks, kulmud toonitati pruuniga."
+          ],
+          "synonyms": [
+            "toonima",
+            "varjundama",
+            "värvima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "тонировать",
+                "weight": 1
+              },
+              {
+                "words": "подкрашивать",
+                "weight": 1
+              },
+              {
+                "words": "подкрасить",
+                "weight": 1
+              },
+              {
+                "words": "оттенять",
+                "weight": 1
+              },
+              {
+                "words": "оттенить",
+                "weight": 1
+              },
+              {
+                "words": "подцветить",
+                "weight": 1
+              },
+              {
+                "words": "подцвечивать",
+                "weight": 1
+              },
+              {
+                "words": "подцвечивать,подцветить,оттенять,оттенить",
+                "weight": 0.9
+              },
+              {
+                "words": "красить,накрасить,накрашивать,краситься,накраситься,накрашиваться",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "малюватися,намалюватися,фарбуватися,нафарбуватися",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "värvima",
+        "välja tooma",
+        "esile tooma",
+        "markeerima",
+        "esile tõstma",
+        "alla kriipsutama",
+        "varjundama",
+        "puänteerima",
+        "rõhutama",
+        "nüansseerima",
+        "toonima",
+        "rõhku panema",
+        "kiitlema",
+        "eputama",
+        "lösutama",
+        "õlitama",
+        "kissitama",
+        "kütkestama",
+        "vanutama",
+        "käputama",
+        "veetlema",
+        "poputama",
+        "koogutama",
+        "sütitama",
+        "musitama",
+        "mustama",
+        "säiluma",
+        "kohutama",
+        "tänitama",
+        "viibutama",
+        "tumestama",
+        "ärritama",
+        "kokutama",
+        "nõutama",
+        "kekutama",
+        "kepsutama",
+        "paitama",
+        "teietama",
+        "ilustama",
+        "sakutama",
+        "jumestama",
+        "pareerima",
+        "minetama",
+        "norutama",
+        "küünitama",
+        "kätlema",
+        "sätendama",
+        "isutama",
+        "niietama",
+        "plartsutama",
+        "läkastama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "toonitama",
+      "translations": [
+        "accentuate",
+        "tone"
+      ]
+    }
+  ]
+}

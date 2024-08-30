@@ -1,0 +1,100 @@
+{
+  "requestedWord": "hulgast",
+  "estonianWord": "hulgast",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "hulgast"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingist rühmast, kellegi keskelt,kellegi juurest ära,mingist grupist, kellegi keskelt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Lahkusin vaikselt pidutsejate hulgast.",
+            "Kui Jaan hulgast maha arvata, siis jääb järele veel kaheksa meest.",
+            "Uus töötaja valiti mitme kandidaadi hulgast.",
+            "Leidsin vanade asjade hulgast ühe huvitava foto."
+          ],
+          "synonyms": [
+            "seast"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "parmi",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "из",
+                "weight": 1
+              },
+              {
+                "words": "от",
+                "weight": 1
+              },
+              {
+                "words": "среди",
+                "weight": 1
+              },
+              {
+                "words": "из числа",
+                "weight": 1
+              },
+              {
+                "words": "из среды",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з",
+                "weight": 1
+              },
+              {
+                "words": "з-поміж",
+                "weight": 1
+              },
+              {
+                "words": "з-посеред",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "seast",
+        "hulgas",
+        "seas"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "hulgast",
+      "translations": []
+    }
+  ]
+}

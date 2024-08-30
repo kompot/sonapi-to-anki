@@ -1,0 +1,90 @@
+{
+  "requestedWord": "spetsiaalselt",
+  "estonianWord": "spetsiaalselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "spetsiaalselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "täpselt selle sihiga, eraldi sellele tähelepanu pöörates,eraldi eesmärgiga, eraldi otstarbega",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Just spetsiaalselt vaatasin, et kas on midagi näha.",
+            "Ma pole võistlusteks spetsiaalselt valmistunud.",
+            "See hambapasta on mõeldud spetsiaalselt laste jaoks."
+          ],
+          "synonyms": [
+            "ekstra"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "spécialement",
+                "weight": 1
+              },
+              {
+                "words": "exprès",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "специально",
+                "weight": 1
+              },
+              {
+                "words": "специально,специальный,отдельный",
+                "weight": 0.89
+              }
+            ],
+            "ukr": [
+              {
+                "words": "спеціально",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "spets",
+        "ekstra",
+        "eraldi",
+        "spetsiaalne",
+        "puhuks",
+        "professionaalselt",
+        "just",
+        "spetsiifiliselt",
+        "vajalikult",
+        "tarbeks",
+        "spetsiaalsus",
+        "ekstra"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "spetsiaalselt",
+      "translations": [
+        "specially"
+      ]
+    }
+  ]
+}

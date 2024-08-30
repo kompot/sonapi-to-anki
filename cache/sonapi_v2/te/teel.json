@@ -1,0 +1,111 @@
+{
+  "requestedWord": "teel",
+  "estonianWord": "teel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "teel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi abil, midagi kasutades,millegi kaudu, vahendusel",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Saime infot telefoni teel otse sündmuskohalt.",
+            "Andmed on saadud kas vaatluse või katse teel.",
+            "Meile teatati sellest kirja teel.",
+            "Ostsin selle raamatu interneti teel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "par",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "путём",
+                "weight": 1
+              },
+              {
+                "words": "способом",
+                "weight": 1
+              },
+              {
+                "words": "посредством",
+                "weight": 1
+              },
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "по",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "шляхом",
+                "weight": 1
+              },
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "по",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kombel",
+        "viisil",
+        "kaudu",
+        "korras",
+        "korras",
+        "moel",
+        "moodi",
+        "abil",
+        "varal",
+        "najal",
+        "erateel"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "teel",
+      "translations": [
+        "by means of",
+        "by way of",
+        "en route",
+        "in your way",
+        "on the road",
+        "on the way",
+        "on the way to",
+        "on your way"
+      ]
+    }
+  ]
+}

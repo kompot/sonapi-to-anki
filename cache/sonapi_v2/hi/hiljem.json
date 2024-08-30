@@ -1,0 +1,351 @@
+{
+  "requestedWord": "hiljem",
+  "estonianWord": "hiljem",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "hiljem"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ajaliselt millegi järel, millalgi pärastpoole, tulevikus,mingi ajavahemiku möödudes, pärast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Personalivalikul tehtud vigu on hiljem raske parandada.",
+            "Ma mõistsin alles hiljem, et sul oli õigus.",
+            "Me kohtusime uuesti viis aastat hiljem."
+          ],
+          "synonyms": [
+            "hiljemini"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "later",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "plus tard",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "позже",
+                "weight": 1
+              },
+              {
+                "words": "позднее",
+                "weight": 1
+              },
+              {
+                "words": "впоследствии",
+                "weight": 1
+              },
+              {
+                "words": "спустя",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пізніше",
+                "weight": 1
+              },
+              {
+                "words": "згодом",
+                "weight": 1
+              },
+              {
+                "words": "потім",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sinnapoole",
+        "hiljemini",
+        "edaspidi",
+        "pärast",
+        "pärastpoole",
+        "tagantjärele",
+        "nädalajagu",
+        "algul",
+        "alguses",
+        "paar",
+        "paar",
+        "juba",
+        "tagasi",
+        "aga",
+        "aga",
+        "seejärel",
+        "siiski",
+        "aastakümme",
+        "veidi",
+        "kui",
+        "kui",
+        "isegi",
+        "aasta-kaks",
+        "korda",
+        "alles",
+        "lõpuks",
+        "mitu",
+        "sai",
+        "algselt",
+        "esialgu",
+        "varem",
+        "mõni",
+        "enne",
+        "enne",
+        "nüüd",
+        "siis",
+        "aasta-paar",
+        "poolteist"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "02",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "hiljem"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "hiljema"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "hiljemat"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "hiljemasse"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "hiljemas"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "hiljemast"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "hiljemale"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "hiljemal"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "hiljemalt"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "hiljemaks"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "hiljemani"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "hiljemana"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "hiljemata"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "hiljemaga"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "hiljemad"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "hiljemate"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "hiljemaid"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "hiljematesse,hiljemaisse"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "hiljemates,hiljemais"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "hiljematest,hiljemaist"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "hiljematele,hiljemaile"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "hiljematel,hiljemail"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "hiljematelt,hiljemailt"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "hiljemateks,hiljemaiks"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "hiljemateni"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "hiljematena"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "hiljemateta"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "hiljematega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "pärastine, edaspidine",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "See seadus kaotati ühe hiljema valitsuse algatusel.",
+            "Hiljemate arutluste käigus selgus mõndagi uut. "
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "последующий",
+                "weight": 1
+              },
+              {
+                "words": "дальнейший",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "hiljem",
+      "translations": [
+        "after",
+        "after-",
+        "afterward",
+        "afterwards",
+        "at a later time",
+        "l8er (< later)",
+        "later",
+        "presently"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "requestedWord": "täna",
+  "estonianWord": "täna",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "täna"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "käesoleval, tänasel päeval,käesoleval päeval",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Võib-olla hakkab täna sadama.",
+            "Mida me täna teeme?",
+            "Täna on kolmapäev."
+          ],
+          "synonyms": [
+            "tänapäev"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "today",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "aujourd'hui",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "сегодня",
+                "weight": 1
+              },
+              {
+                "words": "сегодня",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "сьогодні",
+                "weight": 1
+              },
+              {
+                "words": "нині",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "praegusajal, tänapäeval",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Täna teame teda kui tipp-poliitikut."
+          ],
+          "synonyms": [
+            "nüüd,praegu,prg"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "today",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "сегодня",
+                "weight": 1
+              },
+              {
+                "words": "теперь,сейчас,в настоящее время,ныне,нынче",
+                "weight": 0.7882
+              }
+            ],
+            "fra": [
+              {
+                "words": "maintenant",
+                "weight": 0.7882
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тепер,зараз",
+                "weight": 0.7882
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tänapäev",
+        "praegu",
+        "nüüd",
+        "ülehomme",
+        "eile",
+        "juba",
+        "üleeile",
+        "homme",
+        "üleülehomme",
+        "täna-homme",
+        "teisipäeval",
+        "südaöösel",
+        "homme"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "täna"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "täna"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "täna"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "tänasse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "tänas"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "tänast"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "tänale"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "tänal"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "tänalt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "tänaks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "tänani"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "tänana"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "tänata"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "tänaga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "tänad"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "tänade"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "tänasid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "tänadesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "tänades"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "tänadest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "tänadele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "tänadel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "tänadelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "tänadeks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "tänadeni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "tänadena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "tänadeta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "tänadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tänane päev",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Polnud eilset ega homset, vaid ainult täna."
+          ],
+          "synonyms": [
+            "tänane"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сегодня",
+                "weight": 1
+              },
+              {
+                "words": "сегодня",
+                "weight": 0.485
+              }
+            ],
+            "fra": [
+              {
+                "words": "aujourd'hui",
+                "weight": 0.485
+              }
+            ],
+            "ukr": [
+              {
+                "words": "сьогодні",
+                "weight": 0.485
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tänane",
+        "eile",
+        "homme",
+        "teisipäeval",
+        "südaöösel",
+        "juba",
+        "üleeile",
+        "homme",
+        "üleülehomme",
+        "täna-homme",
+        "ülehomme",
+        "nüüd",
+        "praegu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "täna",
+      "translations": [
+        "to-day",
+        "today"
+      ]
+    }
+  ]
+}

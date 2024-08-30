@@ -1,0 +1,215 @@
+{
+  "requestedWord": "esmalt",
+  "estonianWord": "esmalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "esmalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "alguses, esimese asjana,kõige esimese tegevuse või asjana, alguses",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Iga uus asi võetakse esmalt umbusaldusega vastu.",
+            "Ma lendasin esmalt Helsingisse ja sealt edasi Ameerikasse.",
+            "Esmalt lähme sööma, siis kinno.",
+            "Pese esmalt käed puhtaks."
+          ],
+          "synonyms": [
+            "enne",
+            "kõigepealt",
+            "esialgu,esipuhku",
+            "esialgu",
+            "algatuseks",
+            "alul,algul"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "first",
+                "weight": 1
+              },
+              {
+                "words": "firstly",
+                "weight": 1
+              },
+              {
+                "words": "first of all",
+                "weight": 1
+              },
+              {
+                "words": "in the beginning",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "d'abord",
+                "weight": 1
+              },
+              {
+                "words": "(tout) d'abord,au début",
+                "weight": 0.7928
+              },
+              {
+                "words": "au début,d'abord",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "сначала",
+                "weight": 1
+              },
+              {
+                "words": "прежде",
+                "weight": 1
+              },
+              {
+                "words": "прежде всего",
+                "weight": 1
+              },
+              {
+                "words": "в первую очередь",
+                "weight": 1
+              },
+              {
+                "words": "сперва",
+                "weight": 1
+              },
+              {
+                "words": "первоначально,пока,пока что,сперва,поначалу,на первых порах,в первое время,сначала,вначале",
+                "weight": 0.7928
+              },
+              {
+                "words": "сперва,вначале,сначала",
+                "weight": 0.7928
+              },
+              {
+                "words": "для начала",
+                "weight": 0.7
+              },
+              {
+                "words": "в начале,поначалу,на первых порах,в первое время,сначала,вначале",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "спочатку",
+                "weight": 1
+              },
+              {
+                "words": "насамперед",
+                "weight": 1
+              },
+              {
+                "words": "передусім",
+                "weight": 1
+              },
+              {
+                "words": "найперше",
+                "weight": 1
+              },
+              {
+                "words": "перш за все",
+                "weight": 1
+              },
+              {
+                "words": "у першу чергу",
+                "weight": 1
+              },
+              {
+                "words": "поки що,спершу,на початку,спочатку,поки",
+                "weight": 0.7928
+              },
+              {
+                "words": "спершу,на початку,спочатку",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "esialgselt",
+        "ennekõike",
+        "eelkõige",
+        "enne",
+        "enne",
+        "esiti",
+        "esijoones",
+        "algul",
+        "hakul",
+        "esmapilgul",
+        "esmajoones",
+        "esiteks",
+        "esimese hooga",
+        "algselt",
+        "esialgu",
+        "esiotsa",
+        "esimese jutiga",
+        "esimesel hoobil",
+        "eeskätt",
+        "alguses",
+        "esmajärjekorras",
+        "kõigepealt",
+        "alustuseks",
+        "koheselt",
+        "taas",
+        "esmakordselt",
+        "uuesti",
+        "juba",
+        "smalt",
+        "kindlasti",
+        "siiski",
+        "seejärel",
+        "ilmselt",
+        "kiirelt",
+        "hiljem",
+        "sealt",
+        "eelnevalt",
+        "viieselt",
+        "kiiresti",
+        "alles",
+        "ikkagi",
+        "konkreetselt",
+        "just",
+        "kohe",
+        "kohe",
+        "vajalikult",
+        "lihtsalt",
+        "nüüd",
+        "siis"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "esmalt",
+      "translations": [
+        "ab initio",
+        "at first",
+        "first",
+        "first of all",
+        "primarily"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "requestedWord": "hulgas",
+  "estonianWord": "hulgas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "hulgas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingis rühmas, kellegi keskel,kellegagi koos,mingis grupis, kellegi keskel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Debüütromaan osutus eriti populaarseks noorte hulgas.",
+            "Teda ei ole enam elavate hulgas.",
+            "Märkasin rahva hulgas üht tuttavat inimest.",
+            "Laulja on noorte hulgas väga populaarne."
+          ],
+          "synonyms": [
+            "seas"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "among",
+                "weight": 1
+              },
+              {
+                "words": "amongst",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "parmi",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "среди",
+                "weight": 1
+              },
+              {
+                "words": "в числе",
+                "weight": 1
+              },
+              {
+                "words": "в кругу",
+                "weight": 1
+              },
+              {
+                "words": "в ряду",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "между",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "серед",
+                "weight": 1
+              },
+              {
+                "words": "посеред",
+                "weight": 1
+              },
+              {
+                "words": "між",
+                "weight": 1
+              },
+              {
+                "words": "поміж",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millelegi lisaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Aina kased, mõni üksik kuusk hulgas.",
+            "Jahusegul oli kliisid hulgas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "среди",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "keskel",
+        "killas",
+        "sees",
+        "sees",
+        "seas",
+        "mestis",
+        "seltsis",
+        "kirjas",
+        "kambas",
+        "hulka",
+        "hulgake",
+        "sealhulgas",
+        "muu",
+        "muu",
+        "muu",
+        "muu",
+        "hulgasõna",
+        "seast",
+        "seasink",
+        "hulgakaupa",
+        "hulk",
+        "hulgast"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "hulgas",
+      "translations": [
+        "among",
+        "amongst",
+        "intra"
+      ]
+    }
+  ]
+}

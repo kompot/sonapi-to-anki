@@ -1,0 +1,159 @@
+{
+  "requestedWord": "kas",
+  "estonianWord": "kas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "alustab küsilauset, mis eeldab jaatavat või eitavat vm vastust,alustab küsimust, millele saab vastata <eki-foreign>jah</eki-foreign> või <eki-foreign>ei</eki-foreign>",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kas olete viimasel ajal raamatuid ostnud?",
+            "Kas unenäod on sulle tähtsad?",
+            "Kas väljas sajab?",
+            "Kas täna on külm ilm?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "est-ce que",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "разве",
+                "weight": 1
+              },
+              {
+                "words": "ли",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чи",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(suhtlusväljendi osana)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sina, kas tead, ära siin nääguta midagi."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "alustab lauset või lauseosa, mis on vormilt küsiv, aga väljendab ka mingit suhtumist (nt kahtlust, ebakindlust, imestust, pahameelt),kasutatakse küsimustes ja lausetes, mis näitavad eri võimalusi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tea, kas seda ülepea oli.",
+            "Eks siis ole näha, kas otsus oli õige või vale.",
+            "Iseasi, kas ma just seda ootasin.",
+            "Kas sa saad välja!",
+            "Kas sa tahad vett või mahla?",
+            "Küsi talt, kas ta süüa tahab või mitte."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "est-ce que",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "ли",
+                "weight": 1
+              },
+              {
+                "words": "же",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чи",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "’s",
+        "või",
+        "või",
+        "vahest",
+        "kui",
+        "kui",
+        "ehk",
+        "kuidas",
+        "missugune",
+        "tõesti",
+        "see",
+        "aga",
+        "aga",
+        "küsimus",
+        "äkki",
+        "miks",
+        "miks",
+        "kumbapidi",
+        "üldse",
+        "ikka",
+        "tegelikult",
+        "mingitmoodi",
+        "ikkagi",
+        "kumb",
+        "võimalik",
+        "nüüd",
+        "siis",
+        "millal",
+        "mingi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kas",
+      "translations": [
+        "if",
+        "whether"
+      ]
+    }
+  ]
+}

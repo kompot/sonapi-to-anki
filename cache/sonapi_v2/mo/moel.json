@@ -1,0 +1,83 @@
+{
+  "requestedWord": "moel",
+  "estonianWord": "moel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "moel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "koos eelneva sõnaga väljendab, kuidas või mismoodi miski toimub,(väljendab võrdlust eelneva nimisõnaga:) kellegi sarnaselt, nii nagu",
+          "partOfSpeech": [
+            {
+              "code": "vrm",
+              "value": "muutevorm (ambivorm, määramata)"
+            }
+          ],
+          "examples": [
+            "Ettepanekud olid kõik omal moel huvitavad.",
+            "Ta lubas asja parimal moel korda ajada.",
+            "Mikk käitus hüperaktiivse lapse moel, sest tal oli tundides igav."
+          ],
+          "synonyms": [
+            "kombel",
+            "viisil"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "образом",
+                "weight": 1
+              },
+              {
+                "words": "способом",
+                "weight": 1
+              },
+              {
+                "words": "манером",
+                "weight": 1
+              },
+              {
+                "words": "подобно",
+                "weight": 1
+              },
+              {
+                "words": "как",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kombel",
+        "viisil",
+        "kaudu",
+        "teel",
+        "korras",
+        "korras",
+        "moodi",
+        "juhul",
+        "lihtviisil",
+        "ajal"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "moel",
+      "translations": []
+    }
+  ]
+}

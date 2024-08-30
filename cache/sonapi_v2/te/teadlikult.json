@@ -1,0 +1,130 @@
+{
+  "requestedWord": "teadlikult",
+  "estonianWord": "teadlikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "teadlikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta esitas meile teadlikult valed andmed."
+          ],
+          "synonyms": [
+            "teadvalt",
+            "meelega,nimelt,nimme,sihilikult"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "volontairement",
+                "weight": 1
+              },
+              {
+                "words": "sciemment",
+                "weight": 1
+              },
+              {
+                "words": "exprès,volontairement",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "сознательно",
+                "weight": 1
+              },
+              {
+                "words": "осознанно",
+                "weight": 1
+              },
+              {
+                "words": "осмысленно",
+                "weight": 1
+              },
+              {
+                "words": "разумно,осмысленно,сознательно,осознанно",
+                "weight": 0.7793
+              },
+              {
+                "words": "назло,нарочито,преднамеренно,намеренно,умышленно,нарочно,специально",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "свідомо",
+                "weight": 1
+              },
+              {
+                "words": "навмисно,навмисне,умисно,умисне,з наміром,спеціально",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "on purpose",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tahtlikult",
+        "just",
+        "nimme",
+        "nimme",
+        "meelega",
+        "nimelt",
+        "vihuti",
+        "taotluslikult",
+        "teadvalt",
+        "sihilikult",
+        "kiuste",
+        "kiuste",
+        "teadlikum",
+        "teadmatult",
+        "sihiteadlikult",
+        "vastutustundlikult",
+        "iseteadlikult",
+        "teadlik",
+        "arukalt",
+        "teadlikumalt",
+        "alateadlikult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "teadlikult",
+      "translations": [
+        "by choice",
+        "by intention",
+        "consciously",
+        "knowingly",
+        "scienter",
+        "sensibly",
+        "with scienter"
+      ]
+    }
+  ]
+}

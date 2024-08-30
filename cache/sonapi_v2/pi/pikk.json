@@ -1,0 +1,667 @@
+{
+  "requestedWord": "pikk",
+  "estonianWord": "pikk",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22i",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "pikk"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "pika"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "pikka"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "pikka"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "pikasse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "pikas"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "pikast"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "pikale"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "pikal"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "pikalt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "pikaks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "pikani"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "pikana"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "pikata"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "pikaga"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "pikad"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "pikkade"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "pikki,pikkasid"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "pikkadesse,pikisse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "pikkades,pikis"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "pikkadest,pikist"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "pikkadele,pikile"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "pikkadel,pikil"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "pikkadelt,pikilt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "pikkadeks,pikiks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "pikkadeni"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "pikkadena"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "pikkadeta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "pikkadega"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "Pika"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "püst- või rõhtsuunas suhteliselt suure ulatusega,otspunktide vahel suure ulatusega,selline, mille ühest otsast teise otsani on suur vahemaa",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Tüdruk oli minust pool pead pikem.",
+            "Pikad püksid.",
+            "Järjekord pole pikk, aga liigub aeglaselt.",
+            "Võtsime ette pika teekonna.",
+            "Katrin on pikka kasvu.",
+            "Panin jalga pikad püksid.",
+            "Koduni on veel pikk tee.",
+            "Poes oli pikk järjekord."
+          ],
+          "synonyms": [
+            "pikakasvuline",
+            "suurekasvuline",
+            "ritvpikk",
+            "koljatlik",
+            "pikavõitu",
+            "hiigelpikk,hiiglapikk",
+            "vibalik,kõrendlik",
+            "pikkune",
+            "sihvakas",
+            "kõrge",
+            "kõrge"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "tall",
+                "weight": 1
+              },
+              {
+                "words": "long",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "long",
+                "weight": 1
+              },
+              {
+                "words": "élevé,haut",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "длинный",
+                "weight": 1
+              },
+              {
+                "words": "рослый,высокого роста,высокорослый,высокий",
+                "weight": 0.7955
+              },
+              {
+                "words": "рослый,великорослый,высокорослый,большого роста,крупный,высокого роста,высокий ростом",
+                "weight": 0.9
+              },
+              {
+                "words": "длиннющий,долговязый,высоченный,длиннущий",
+                "weight": 0.9
+              },
+              {
+                "words": "великанский",
+                "weight": 0.9
+              },
+              {
+                "words": "довольно длинный",
+                "weight": 0.501
+              },
+              {
+                "words": "чрезвычайно длинный,длиннющий,очень длинный",
+                "weight": 0.7
+              },
+              {
+                "words": "долговязый,длинный и тонкий",
+                "weight": 0.9
+              },
+              {
+                "words": "длинный",
+                "weight": 0.604
+              },
+              {
+                "words": "стройненький,осанистый,складный,статный,стройный",
+                "weight": 0.7
+              },
+              {
+                "words": "высокий",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "довгий",
+                "weight": 1
+              },
+              {
+                "words": "довгий",
+                "weight": 0.604
+              },
+              {
+                "words": "високий",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(teksti vms kohta:) alguse ja lõpu vahel suure ulatusega,suhteliselt paljude sõnadega väljendatud",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Enam pole moes pikki kirju kirjutada."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "long",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "длинный",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "pikakasvuline inimene",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Pikk oli väga vihane, aga paksuke üritas viisakas olla.",
+            "Jääb nii, nagu pikk ütles."
+          ],
+          "synonyms": [
+            "vibalik"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "высокий",
+                "weight": 1
+              },
+              {
+                "words": "рослый",
+                "weight": 1
+              },
+              {
+                "words": "жердина,жердь",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(koos arvulise suurusega:) teatava pikkusega,teatud pikkusega",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Noormees on ligi kaks meetrit pikk.",
+            "Käsikiri oli üle tuhande lehekülje pikk.",
+            "Järv on 100 kilomeetrit pikk ja 30 kilomeetrit lai."
+          ],
+          "synonyms": [
+            "mahukas"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "long",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "высокий",
+                "weight": 1
+              },
+              {
+                "words": "длинный",
+                "weight": 1
+              },
+              {
+                "words": "обширный,объёмистый,большой",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "високий",
+                "weight": 1
+              },
+              {
+                "words": "довгий",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "suhteliselt kaua kestev,sellisena tunduv,selline, mis kestab kaua aega",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Me pole pikka aega kohtunud.",
+            "Eva on olnud pikki aastaid minu perearst.",
+            "Tööpäevad on pikad ja pingelised.",
+            "Küll on ootamine pikk!",
+            "Jutt on liiga pikaks veninud.",
+            "Mees on pika mõtlemisega.",
+            "Kati on juba pikka aega töötu olnud."
+          ],
+          "synonyms": [
+            "pikaajalisem,pikaaegsem,pikemaaegne,pikemaajaline",
+            "kauakestev",
+            "kestev,püsiv",
+            "kauane",
+            "pikaaegne,pikaajaline",
+            "igavikupikkune,igavikpikk",
+            "pikavõitu",
+            "hiigelpikk,hiiglapikk",
+            "pikkune",
+            "ulatuslik",
+            "pikaldane,pikaline",
+            "kauamängiv",
+            "suur",
+            "prolongeeritud,pikatoimeline"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "long",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "long",
+                "weight": 1
+              },
+              {
+                "words": "de plus longue durée,à plus long terme,plus long",
+                "weight": 0.7
+              },
+              {
+                "words": "permanent",
+                "weight": 0.9
+              },
+              {
+                "words": "long,à long terme,de longue durée",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "долгий",
+                "weight": 1
+              },
+              {
+                "words": "длинный",
+                "weight": 1
+              },
+              {
+                "words": "продолжительный",
+                "weight": 1
+              },
+              {
+                "words": "длительный",
+                "weight": 1
+              },
+              {
+                "words": "долговременный",
+                "weight": 1
+              },
+              {
+                "words": "долгосрочнее,более длительный,продолжительный",
+                "weight": 0.7
+              },
+              {
+                "words": "длительный,продолжительный,долгий,долговечный",
+                "weight": 0.9
+              },
+              {
+                "words": "затяжной,стойкий,непрерывный,беспрестанный,непрестанный,длительный,продолжительный",
+                "weight": 0.9
+              },
+              {
+                "words": "давний,длительный,продолжительный,долгий",
+                "weight": 0.9
+              },
+              {
+                "words": "продолжительный,долголетний,затяжной,длительный,долгий,долговечный,долговременный,долгосрочный",
+                "weight": 0.9
+              },
+              {
+                "words": "длинный-предлинный,предлинный,нескончаемый",
+                "weight": 0.9
+              },
+              {
+                "words": "довольно длинный",
+                "weight": 0.501
+              },
+              {
+                "words": "очень длинный,длиннющий,чрезвычайно длинный",
+                "weight": 0.58
+              },
+              {
+                "words": "длительный,продолжительный",
+                "weight": 0.604
+              },
+              {
+                "words": "углублённый,основательный,обширный,пространный,широкий,фундаментальный,огромный,развёрнутый,длительный,продолжительный,глубокий,монументальный,масштабный,долговременный,всеобъемлющий,всеохватывающий,всеохватный",
+                "weight": 0.7
+              },
+              {
+                "words": "продолжительный,длительный,медлительный,затяжной",
+                "weight": 0.9
+              },
+              {
+                "words": "долгоиграющий",
+                "weight": 0.7
+              },
+              {
+                "words": "продолжительный,длительный,длинный,большой,долгий",
+                "weight": 0.7
+              },
+              {
+                "words": "пролонгированный,длительного действия",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "довгий",
+                "weight": 1
+              },
+              {
+                "words": "тривалий",
+                "weight": 1
+              },
+              {
+                "words": "протяжний",
+                "weight": 1
+              },
+              {
+                "words": "триваліший",
+                "weight": 0.7
+              },
+              {
+                "words": "безперервний,тривалий,постійний",
+                "weight": 0.9
+              },
+              {
+                "words": "довгочасний,тривалий,довготривалий,довготерміновий,довгостроковий,довгий,затяжний",
+                "weight": 0.9
+              },
+              {
+                "words": "довгий,тривалий",
+                "weight": 0.604
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kõrge",
+        "suur",
+        "mahukas",
+        "pikemaajaline",
+        "kauamängiv",
+        "ulatuslik",
+        "sihvakas",
+        "hiiglapikk",
+        "ülipikk",
+        "solakas",
+        "sorakas",
+        "kestev",
+        "kauaaegne",
+        "pikakasvuline",
+        "pikaaegne",
+        "suurekasvuline",
+        "aastatepikkune",
+        "igavikuline",
+        "kauane",
+        "ritvpikk",
+        "pikaajaline",
+        "maani",
+        "igavikupikkune",
+        "vilajas",
+        "igavikpikk",
+        "koljatlik",
+        "vibalik",
+        "kauge",
+        "sirakas",
+        "kauakestev",
+        "pikaldane",
+        "kogukas",
+        "neljakümnene",
+        "pikka",
+        "neljakümneaastane",
+        "pikavõitu",
+        "lühem",
+        "keeruline",
+        "tumedapäine",
+        "põnev",
+        "pikkune",
+        "pikakiuline",
+        "pikksaba",
+        "pikanokaline",
+        "käänuline",
+        "hiigelpikk",
+        "ühepikkune",
+        "pikkus",
+        "meetripikkune",
+        "kolmetahuline",
+        "kurviline",
+        "lai",
+        "keskpikk",
+        "lühike",
+        "poolpikk",
+        "lühikene",
+        "mitmeharuline",
+        "pikakoivaline",
+        "pikem",
+        "kõhnavõitu",
+        "imelühike",
+        "pikkloibvaal",
+        "vaevaline",
+        "väsitav",
+        "pikim",
+        "kuudepikkune"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pikk",
+      "translations": [
+        "in height",
+        "long",
+        "tall",
+        "vast"
+      ]
+    }
+  ]
+}

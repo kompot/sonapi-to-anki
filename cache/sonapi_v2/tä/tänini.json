@@ -1,0 +1,157 @@
+{
+  "requestedWord": "tänini",
+  "estonianWord": "tänini",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tänini"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "käesoleva ajani, tänaseni,käesoleva, praeguse ajani",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Olen tänini arvamusel, et .."
+          ],
+          "synonyms": [
+            "seni",
+            "seniajani",
+            "senimaani",
+            "senini",
+            "siiamaale",
+            "siiamaani",
+            "siiani",
+            "siiasaadik"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "jusque-là",
+                "weight": 1
+              },
+              {
+                "words": "jusqu'ici",
+                "weight": 1
+              },
+              {
+                "words": "jusqu'à présent",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "до сих пор",
+                "weight": 1
+              },
+              {
+                "words": "до сегодняшнего дня",
+                "weight": 1
+              },
+              {
+                "words": "до настоящего времени",
+                "weight": 1
+              },
+              {
+                "words": "поныне",
+                "weight": 1
+              },
+              {
+                "words": "до сего времени",
+                "weight": 1
+              },
+              {
+                "words": "по сей день",
+                "weight": 1
+              },
+              {
+                "words": "по сию пору",
+                "weight": 1
+              },
+              {
+                "words": "по сю пору",
+                "weight": 1
+              },
+              {
+                "words": "посейчас",
+                "weight": 1
+              },
+              {
+                "words": "доныне",
+                "weight": 1
+              },
+              {
+                "words": "доселе",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до цього часу",
+                "weight": 1
+              },
+              {
+                "words": "досі",
+                "weight": 1
+              },
+              {
+                "words": "дотепер",
+                "weight": 1
+              },
+              {
+                "words": "до цих пір",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "siiamaani",
+        "seniajani",
+        "seni",
+        "senimaani",
+        "siiani",
+        "senini",
+        "siiamaale",
+        "siiasaadik",
+        "praegu",
+        "kuid",
+        "siiski",
+        "põliselt",
+        "jätkuvalt",
+        "kahjuks",
+        "küll",
+        "küll",
+        "paljuski",
+        "tänaseks",
+        "siinmail",
+        "endiselt",
+        "üldiselt",
+        "paraku"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tänini",
+      "translations": [
+        "till now"
+      ]
+    }
+  ]
+}

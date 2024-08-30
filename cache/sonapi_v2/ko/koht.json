@@ -1,0 +1,912 @@
+{
+  "requestedWord": "koht",
+  "estonianWord": "koht",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22i",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "koht"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "koha"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kohta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "kohta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kohasse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kohas"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kohast"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kohale"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kohal"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kohalt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kohaks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kohani"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kohana"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kohata"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kohaga"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kohad"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kohtade"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kohti,kohtasid"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kohtadesse,kohisse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kohtades,kohis"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kohtadest,kohist"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kohtadele,kohile"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kohil,kohtadel"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kohtadelt,kohilt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kohtadeks,kohiks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kohtadeni"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kohtadena"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kohtadeta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kohtadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "maa-ala, piirkond üldiselt,mingi täpsem punkt või piirkond maastikul, looduses või linnaruumis (nt asukoht või toimumiskoht),asukoht üldiselt,piirkond",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Eestis on palju ilusaid kohti.",
+            "Otsisime telkimiseks sobivat kohta.",
+            "Hotell oli hea koha peal.",
+            "Kust kohast sa sõrmuse leidsid?",
+            "Suvituskoht.",
+            "Avalikus kohas ei tohi alkoholi juua.",
+            "Olin õigel ajal õiges kohas.",
+            "Kuhu kohta ma oma võtmed panin?",
+            "Kust kohast sa selle pluusi ostsid?"
+          ],
+          "synonyms": [
+            "paik",
+            "asukoht,asupaik",
+            "maa-ala,ala",
+            "piirkond,regioon",
+            "kant",
+            "ase",
+            "punkt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "endroit",
+                "weight": 1
+              },
+              {
+                "words": "lieu",
+                "weight": 1
+              },
+              {
+                "words": "emplacement",
+                "weight": 0.7
+              },
+              {
+                "words": "région,zone,territoire",
+                "weight": 0.7
+              },
+              {
+                "words": "région",
+                "weight": 0.7
+              },
+              {
+                "words": "région,environs",
+                "weight": 0.423
+              },
+              {
+                "words": "point",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "место",
+                "weight": 1
+              },
+              {
+                "words": "местность",
+                "weight": 1
+              },
+              {
+                "words": "край",
+                "weight": 1
+              },
+              {
+                "words": "сторона",
+                "weight": 1
+              },
+              {
+                "words": "месторасположение,местоположение,местонахождение,местопребывание",
+                "weight": 0.7
+              },
+              {
+                "words": "территория,местность,зона",
+                "weight": 0.7
+              },
+              {
+                "words": "область,район,край,регион",
+                "weight": 0.7
+              },
+              {
+                "words": "сторона,край,местность",
+                "weight": 0.423
+              },
+              {
+                "words": "место",
+                "weight": 0.85
+              },
+              {
+                "words": "точка",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "місце",
+                "weight": 1
+              },
+              {
+                "words": "місцевість",
+                "weight": 1
+              },
+              {
+                "words": "край",
+                "weight": 1
+              },
+              {
+                "words": "місцеположення,місце розташування,місце розміщення,місцеперебування,місцезнаходження",
+                "weight": 0.7
+              },
+              {
+                "words": "територія,місцевість",
+                "weight": 0.7
+              },
+              {
+                "words": "регіон,область,район,край",
+                "weight": 0.7
+              },
+              {
+                "words": "район,край,місцевість,сторона",
+                "weight": 0.423
+              },
+              {
+                "words": "точка,пункт",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(asutuse, maja, ruumi kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tavaliselt käin ma söömas mõnes väikses odavas kohas."
+          ],
+          "synonyms": [
+            "paik",
+            "maja",
+            "ruum",
+            "asutus",
+            "punkt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "место",
+                "weight": 1
+              },
+              {
+                "words": "дом",
+                "weight": 0.7
+              },
+              {
+                "words": "комната,помещение,покои",
+                "weight": 0.7
+              },
+              {
+                "words": "учреждение,заведение",
+                "weight": 0.7
+              },
+              {
+                "words": "точка,пункт",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "maison,établissement",
+                "weight": 0.7
+              },
+              {
+                "words": "pièce",
+                "weight": 0.7
+              },
+              {
+                "words": "établissement,institution",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "будинок",
+                "weight": 0.7
+              },
+              {
+                "words": "приміщення,помешкання,кімната",
+                "weight": 0.7
+              },
+              {
+                "words": "установа,заклад",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "room",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "talumajapidamine, eelkõige selle maa",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Koha päris perepoeg Jaan."
+          ],
+          "synonyms": [
+            "talukoht",
+            "talumajapidamine",
+            "talund",
+            "suits",
+            "talu,t"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "хутор",
+                "weight": 1
+              },
+              {
+                "words": "хозяйство",
+                "weight": 1
+              },
+              {
+                "words": "земельный надел,хуторская земля,усадебная земля,крестьянское хозяйство,хуторской надел,хутор,крестьянский двор,крестьянская усадьба,хуторское хозяйство",
+                "weight": 0.9
+              },
+              {
+                "words": "крестьянское хозяйство",
+                "weight": 0.9
+              },
+              {
+                "words": "ферма,крестьянский двор,крестьянская усадьба,хуторское хозяйство,крестьянское хозяйство,хутор",
+                "weight": 0.9
+              },
+              {
+                "words": "двор,хозяйство,дом,дым",
+                "weight": 0.9
+              },
+              {
+                "words": "хутор,крестьянский двор,крестьянская усадьба,хуторское хозяйство,крестьянское хозяйство",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "ferme",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "хутір",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "keha, eseme vms kitsam piirkond,millegi (näiteks keha, teksti või ruumi) kitsam piirkond",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Käed veritsesid mitmest kohast.",
+            "Nimmekoht.",
+            "Sõdur sai kahest kohast haavata.",
+            "Raamat jäi huvitava koha pealt pooleli.",
+            "Kõik kohad on tolmu täis."
+          ],
+          "synonyms": [
+            "paik",
+            "plats",
+            "koht"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "endroit",
+                "weight": 1
+              },
+              {
+                "words": "endroit",
+                "weight": 0.7933
+              }
+            ],
+            "rus": [
+              {
+                "words": "место",
+                "weight": 1
+              },
+              {
+                "words": "место,площадка",
+                "weight": 0.9
+              },
+              {
+                "words": "место",
+                "weight": 0.7933
+              }
+            ],
+            "ukr": [
+              {
+                "words": "місце",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osa, lõik tekstis või teoses",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Raamat jäi põneva koha peal pooleli."
+          ],
+          "synonyms": [
+            "koht,paik",
+            "plats"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "endroit",
+                "weight": 1
+              },
+              {
+                "words": "endroit",
+                "weight": 0.7933
+              }
+            ],
+            "rus": [
+              {
+                "words": "место",
+                "weight": 1
+              },
+              {
+                "words": "место",
+                "weight": 0.7933
+              },
+              {
+                "words": "место,площадка",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "місце",
+                "weight": 0.7933
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kindel ettenähtud iste, istekoht,võimalus mingis asutuses, ruumis viibida või seal milleski osaleda,ruumis olev kindel, ettenähtud paik, kus istuda või viibida",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kolmandas reas on üks vaba koht.",
+            "Hotellis polnud vabu kohti.",
+            "Konkurss oli 5 õpilast ühele kohale.",
+            "Kas see koht on vaba?",
+            "Viisakas on bussis vanemale inimesele kohta pakkuda.",
+            "Panin hotellis koha kinni."
+          ],
+          "synonyms": [
+            "istekoht",
+            "plats",
+            "iste",
+            "ase"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "place",
+                "weight": 1
+              },
+              {
+                "words": "place (assise)",
+                "weight": 0.9
+              },
+              {
+                "words": "siège",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "место",
+                "weight": 1
+              },
+              {
+                "words": "место для сидения,сидячее место",
+                "weight": 0.9
+              },
+              {
+                "words": "место",
+                "weight": 0.9
+              },
+              {
+                "words": "место,сиденье",
+                "weight": 0.9
+              },
+              {
+                "words": "место",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "місце",
+                "weight": 1
+              },
+              {
+                "words": "сидяче місце,місце для сидіння",
+                "weight": 0.9
+              },
+              {
+                "words": "сидіння,місце",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "seat",
+                "weight": 0.9
+              },
+              {
+                "words": "seat",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "asutuse, organisatsiooni vms struktuuris ettenähtud töökoht,tähtis töökoht, näiteks riigiasutuses",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Allumatuse pärast kaotas kindral koha.",
+            "Linda kandideerib saatejuhi kohale.",
+            "Töötan poole kohaga.",
+            "Ministrikoht.",
+            "Konservatiivid said parlamendis üle poole kohtadest."
+          ],
+          "synonyms": [
+            "ametikoht",
+            "post",
+            "ametipost",
+            "töökoht",
+            "amet",
+            "tool",
+            "teenistuskoht",
+            "tööpost",
+            "positsioon"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "poste",
+                "weight": 1
+              },
+              {
+                "words": "poste,emploi",
+                "weight": 0.7927
+              }
+            ],
+            "rus": [
+              {
+                "words": "должность",
+                "weight": 1
+              },
+              {
+                "words": "пост",
+                "weight": 1
+              },
+              {
+                "words": "место",
+                "weight": 1
+              },
+              {
+                "words": "служба",
+                "weight": 1
+              },
+              {
+                "words": "служебное место",
+                "weight": 1
+              },
+              {
+                "words": "служебный пост",
+                "weight": 1
+              },
+              {
+                "words": "место,должность,служба,работа",
+                "weight": 0.7927
+              },
+              {
+                "words": "должность,служба,профессия",
+                "weight": 0.9
+              },
+              {
+                "words": "кресло,пост",
+                "weight": 0.9
+              },
+              {
+                "words": "работа,рабочее место",
+                "weight": 0.9
+              },
+              {
+                "words": "положение,позиция",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "посада",
+                "weight": 1
+              },
+              {
+                "words": "посада,служба,робота,праця",
+                "weight": 0.7927
+              },
+              {
+                "words": "посада,служба,професія",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "seisund, positsioon, eriti mingis järjestuses,positsioon",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "10.-12. klasside voorus esimest kohta välja ei antud.",
+            "Teisele kohale jõudis Rootsi võistkond.",
+            "Eesti koht korruptsioonitajumise tabelis langes.",
+            "Jõevähil on väga tähtis koht veekogu ökosüsteemis.",
+            "Perekond on minu elus väga tähtsal kohal.",
+            "Ta sai võistlusel viimase koha."
+          ],
+          "synonyms": [
+            "asend,positsioon,seisund,staatus",
+            "asend",
+            "ruum"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "place",
+                "weight": 1
+              },
+              {
+                "words": "position",
+                "weight": 0.9
+              },
+              {
+                "words": "position",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "место",
+                "weight": 1
+              },
+              {
+                "words": "положение",
+                "weight": 1
+              },
+              {
+                "words": "позиция",
+                "weight": 1
+              },
+              {
+                "words": "положение,позиция,состояние,статус",
+                "weight": 0.9
+              },
+              {
+                "words": "место,положение,расположение,позиция",
+                "weight": 0.9
+              },
+              {
+                "words": "место",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "місце",
+                "weight": 1
+              },
+              {
+                "words": "позиція,положення,становище,стан,статус",
+                "weight": 0.9
+              },
+              {
+                "words": "положення,розташування,місце,позиція",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "asutus",
+        "ruum",
+        "tööpost",
+        "amet",
+        "seisund",
+        "juhtkoht",
+        "sinekuur",
+        "ametikoht",
+        "post",
+        "direktoritool",
+        "soe koht",
+        "plats",
+        "esirind",
+        "paik",
+        "istekoht",
+        "positsioon",
+        "tool",
+        "töökoht",
+        "talund",
+        "talumajapidamine",
+        "asend",
+        "suits",
+        "iste",
+        "ase",
+        "riigipirukas",
+        "sabaalune",
+        "rantšo",
+        "tagumik",
+        "taguots",
+        "istmik",
+        "talumajand",
+        "post",
+        "post",
+        "post",
+        "tagaots",
+        "perse",
+        "pepu",
+        "istumine",
+        "pee",
+        "tuss",
+        "marjamaa",
+        "plats",
+        "plats",
+        "talukoht",
+        "paik",
+        "tussu",
+        "rohumaa",
+        "tool",
+        "tagument",
+        "esiplaanile",
+        "talu",
+        "esiplaan",
+        "ahter",
+        "farm",
+        "iste",
+        "latter",
+        "aed",
+        "vahesein",
+        "aedik",
+        "tara",
+        "suht-koht",
+        "laagrikoht",
+        "turukoht",
+        "vahekoht",
+        "põhikoht",
+        "tugikoht",
+        "maakoht"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "koht",
+      "translations": [
+        "place",
+        "placing",
+        "seat",
+        "site",
+        "stead"
+      ]
+    }
+  ]
+}

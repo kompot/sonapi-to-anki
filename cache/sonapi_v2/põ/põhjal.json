@@ -1,0 +1,123 @@
+{
+  "requestedWord": "põhjal",
+  "estonianWord": "põhjal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "põhjal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi alusel, millestki lähtudes",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Tihti kujuneb inimeste arvamus esimese mulje põhjal.",
+            "Kas ta teeb valiku selle põhjal, kes paremat palka maksab?",
+            "Esialgse info põhjal on raske vastata."
+          ],
+          "synonyms": [
+            "järgi",
+            "põhiselt",
+            "järele",
+            "alusel,baasil",
+            "najal",
+            "kaupa,viisi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "sur la base de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "по",
+                "weight": 1
+              },
+              {
+                "words": "согласно",
+                "weight": 1
+              },
+              {
+                "words": "в соответствии",
+                "weight": 1
+              },
+              {
+                "words": "на основании",
+                "weight": 1
+              },
+              {
+                "words": "на основе",
+                "weight": 1
+              },
+              {
+                "words": "на базе",
+                "weight": 1
+              },
+              {
+                "words": "на базе,на основании,на основе",
+                "weight": 0.7
+              },
+              {
+                "words": "на основании",
+                "weight": 0.7
+              },
+              {
+                "words": "по",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на основі",
+                "weight": 1
+              },
+              {
+                "words": "на підставі",
+                "weight": 1
+              },
+              {
+                "words": "на підставі,на основі",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "järgi",
+        "pidi",
+        "najal",
+        "alusel",
+        "tulemusel",
+        "tõttu",
+        "käigus",
+        "kohaselt",
+        "tulemusena",
+        "puhul"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "põhjal",
+      "translations": []
+    }
+  ]
+}

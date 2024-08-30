@@ -1,0 +1,1016 @@
+{
+  "requestedWord": "täis",
+  "estonianWord": "täis",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "täis"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "midagi nii palju sisaldav(aks), kui kuhugi (anumasse, ruumi vm) mahub,kellegagi või millegagi täidetud, nii et ei ole vaba ruumi",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Korv on seeni täis.",
+            "Täis klaas.",
+            "Rong sai juba Tallinnas puupüsti täis.",
+            "Silmad valgusid vett täis.",
+            "Buss on rahvast täis.",
+            "Tulin metsast täis korviga."
+          ],
+          "synonyms": [
+            "tulvil",
+            "pakil",
+            "täiskiilutud,puupüsti täis,tungil täis,tuubil,täistuubitud,tuubil täis",
+            "triikis",
+            "umbes",
+            "pilgeni",
+            "triiki",
+            "tungil",
+            "pilgel",
+            "ääretasa",
+            "piripardani",
+            "piripungil",
+            "ääreni",
+            "tiine",
+            "pungil"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "plein",
+                "weight": 1
+              },
+              {
+                "words": "bouché",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "полный",
+                "weight": 1
+              },
+              {
+                "words": "заполненный",
+                "weight": 1
+              },
+              {
+                "words": "наполненный",
+                "weight": 1
+              },
+              {
+                "words": "исполненный",
+                "weight": 1
+              },
+              {
+                "words": "переполненный",
+                "weight": 1
+              },
+              {
+                "words": "преисполнен,полон,набитый битком,полный до предела,полный до отказа,заполненный с избытком,наполненный с избытком,проникнутый,преисполненный,переполненный,переполнен",
+                "weight": 0.9
+              },
+              {
+                "words": "набит,переполнен",
+                "weight": 0.9
+              },
+              {
+                "words": "до отказа,хоть отбавляй,набитый,набитый до отказа,битком набитый,до отказа набитый,полный до краёв,напичканный,битком",
+                "weight": 0.9
+              },
+              {
+                "words": "забившийся,засорённый,забитый,заторенный,закупоренный",
+                "weight": 0.9
+              },
+              {
+                "words": "битком",
+                "weight": 0.8057
+              },
+              {
+                "words": "вровень с краями,доверху,полный до краёв",
+                "weight": 0.9
+              },
+              {
+                "words": "набитый до отказа,битком набитый,полный до отказа",
+                "weight": 0.9
+              },
+              {
+                "words": "с верхом,до краёв,до отказа,доверху,до самого верха",
+                "weight": 0.9
+              },
+              {
+                "words": "доверху,вровень с краями,до краёв,до самого верха,вровень с краем",
+                "weight": 0.9
+              },
+              {
+                "words": "набитый,до отказа набитый,битком набитый",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "повний",
+                "weight": 1
+              },
+              {
+                "words": "повен",
+                "weight": 1
+              },
+              {
+                "words": "заповнений",
+                "weight": 1
+              },
+              {
+                "words": "наповнений",
+                "weight": 1
+              },
+              {
+                "words": "забитий",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "küllastuseni söönud või söönuks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sõin kõhu täis."
+          ],
+          "synonyms": [
+            "pungil,pungis,punnis",
+            "pungile,punni,pungi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сытый",
+                "weight": 1
+              },
+              {
+                "words": "выпяченный,пухлый,выпуклый,оттопыренный,выпученный",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "küllastuseni alkoholi joonud või joonuks, purjus või purju,purju,purjus",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Priit on täis mis täis.",
+            "Ta jäi täitsa täis.",
+            "Mart jõi ennast täis.",
+            "Mees on täis."
+          ],
+          "synonyms": [
+            "purju",
+            "joomane,purjus,viinane,viinastunud,aurune,ebakaine,joobnud,joogine",
+            "auru all,jokkis,jommis,napsus,sakkis,sopsus,svipsis,švipsis,tongis,vintis,jõmmis,krillis,purjakil,pommis",
+            "tuuris",
+            "juua täis",
+            "täis nagu sikk,käpp on maas,maani täis,täis nagu pinal,täis nagu siga,täis nagu sitikas,täis nagu tarakan,täis nagu tatikas,täis nagu templielevant,täis nagu tina,täis nagu tinavile,täis nagu tint,purupurjus,purujommis,porujommis,limalakku täis",
+            "lakku täis",
+            "samm sees",
+            "pehme",
+            "vindine,nokastunud,napsine,nokastanud,jokine,napsune,vinene"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "soûl",
+                "weight": 1
+              },
+              {
+                "words": "ivre",
+                "weight": 0.7
+              },
+              {
+                "words": "ivre,soûl",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "пьяный",
+                "weight": 1
+              },
+              {
+                "words": "до опьянения",
+                "weight": 0.7
+              },
+              {
+                "words": "нетрезвый,хмельной,под мухой,под хмельком,пьяный,опьянелый,выпивший,бухой,опьяневший",
+                "weight": 0.9
+              },
+              {
+                "words": "под мухой,пьяный,хмельной,подвыпивший,захмелевший,под хмельком,окосевший,опьянелый,выпивший,выпивши,во хмелю,навеселе,под градусом,в подпитии,подшофе,пьяненький,под парами,как зюзя",
+                "weight": 0.9
+              },
+              {
+                "words": "под мухой,навеселе",
+                "weight": 0.9
+              },
+              {
+                "words": "пьяный в стельку,пьяный в дым,пьяный как сапожник,пьяный в доску,пьяный в лоск,пьяный вдребезги,пьяный вдрызг,пьяный как змий,пьяный как зюзя,мертвецки пьяный,пьяным-пьяный,пьяный в дугаря,пьяный в дугу,пьяный в дупель",
+                "weight": 0.9
+              },
+              {
+                "words": "в доску пьяный,пьяный как зюзя,в стельку пьяный",
+                "weight": 0.9
+              },
+              {
+                "words": "хмель гуляет в голове,хмель бродит в голове",
+                "weight": 0.9
+              },
+              {
+                "words": "подвыпивший,пьяненький,захмелевший,окосевший,пьяный,хмельной,навеселе,под градусом,под мухой,подшофе,под хмельком,выпивши,в подпитии,выпивший,опьянелый,под парами,как зюзя,во хмелю",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пʼяний",
+                "weight": 1
+              },
+              {
+                "words": "до спʼяніння",
+                "weight": 0.7
+              },
+              {
+                "words": "пʼяний,нетверезий",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegagi tihedalt, üleni kaetud või täidetud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Taevas on tähti täis.",
+            "Kortse täis nägu.",
+            "Koolihoov oli kilkeid täis."
+          ],
+          "synonyms": [
+            "kaetud",
+            "täidetud"
+          ],
+          "translations": {}
+        },
+        {
+          "definition": "mingi emotsiooni või seisundi võimuses või võimusesse",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Olin ähmi täis.",
+            "Mõtteid täis pea."
+          ],
+          "synonyms": [
+            "raske"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "тяжёлый",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "väljendab teatud piirini, normini, suuruseni jõudmist,osutab küllastuse saabumisele",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Olen juba viiskümmend täis.",
+            "Kas oled janu täis joonud?"
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "ajaliselt otsas, läbi, möödas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Eile sai õnnetusest nädal täis.",
+            "Aeg on täis, andke tööd ära!"
+          ],
+          "synonyms": [
+            "möödas",
+            "otsas",
+            "läbi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "прошёл,миновал,позади,за плечами",
+                "weight": 0.7
+              },
+              {
+                "words": "окончиться,закончиться,кончиться",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "passé,fini",
+                "weight": 0.7
+              },
+              {
+                "words": "passé,fini",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "позаду,за плечима,пройти,минути",
+                "weight": 0.7
+              },
+              {
+                "words": "скінчитися,закінчитися,кінчитися",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "raske",
+        "mööda",
+        "täidetud",
+        "kaetud",
+        "ääreni",
+        "punni",
+        "punnis",
+        "purju",
+        "otsas",
+        "läbi",
+        "möödas",
+        "tongis",
+        "ümmargune",
+        "tuuris",
+        "purupurjus",
+        "timmis",
+        "piripardani",
+        "kandiline",
+        "ääretasa",
+        "purujommis",
+        "pakil",
+        "otsast otsani",
+        "porujommis",
+        "täiskiilutud",
+        "joogine",
+        "joomane",
+        "kinni",
+        "auru all",
+        "täistuubitud",
+        "puupüsti täis",
+        "vintis",
+        "triikis",
+        "piripungil",
+        "pehme",
+        "jommis",
+        "purjus",
+        "umbes",
+        "umbes",
+        "pilgeni",
+        "juua täis",
+        "tuubil",
+        "svipsis",
+        "sopsus",
+        "pilditu",
+        "nokastanud",
+        "tiine",
+        "vindine",
+        "maani täis",
+        "napsine",
+        "krillis",
+        "ebakaine",
+        "lakku täis",
+        "sakkis",
+        "triiki",
+        "joobnud",
+        "silmini",
+        "pommis",
+        "tulvil",
+        "tungil",
+        "pilgel",
+        "samm sees",
+        "jõmmis",
+        "pungil",
+        "jokkis",
+        "viinane",
+        "piserdama",
+        "üle",
+        "peale raputama",
+        "üle riputama",
+        "viskama",
+        "kinni kleepima",
+        "laiali",
+        "lappima",
+        "kinni toppima",
+        "üle külvama",
+        "kinni müürima",
+        "kokku korjama",
+        "teotama",
+        "välja sülitama",
+        "mustama",
+        "lastima",
+        "lööma",
+        "prahtima",
+        "kinni ajama",
+        "koormama",
+        "täiuslikult",
+        "valmis",
+        "laduma",
+        "kinni mätsima",
+        "täielikult",
+        "vilistama",
+        "laiali laotama",
+        "pätsima",
+        "peale kleepima",
+        "ümber kasvama",
+        "sülgama",
+        "persetäis",
+        "peatäis",
+        "koormatäis",
+        "ämbritäis",
+        "kamalutäis",
+        "pajatäis",
+        "keretäis",
+        "pihutäis",
+        "topsitäis",
+        "kannutäis",
+        "pudelitäis",
+        "paagitäis",
+        "sületäis",
+        "autotäis",
+        "korvitäis",
+        "pangetäis",
+        "purgitäis",
+        "ahjutäis",
+        "saalitäis",
+        "maotäis",
+        "vaagnatäis",
+        "peotäis",
+        "lauatäis",
+        "näputäis",
+        "pooltäis",
+        "meretäis",
+        "salvetäis",
+        "noaotsatäis",
+        "tünnitäis",
+        "sisse",
+        "peale",
+        "kastitäis",
+        "maha",
+        "tuuris"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "14",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "täis"
+        },
+        {
+          "inflectionType": "14",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "täie"
+        },
+        {
+          "inflectionType": "14",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "täit"
+        },
+        {
+          "inflectionType": "14",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "täide"
+        },
+        {
+          "inflectionType": "14",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "täiesse"
+        },
+        {
+          "inflectionType": "14",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "täies"
+        },
+        {
+          "inflectionType": "14",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "täiest"
+        },
+        {
+          "inflectionType": "14",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "täiele"
+        },
+        {
+          "inflectionType": "14",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "täiel"
+        },
+        {
+          "inflectionType": "14",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "täielt"
+        },
+        {
+          "inflectionType": "14",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "täieks"
+        },
+        {
+          "inflectionType": "14",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "täieni"
+        },
+        {
+          "inflectionType": "14",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "täiena"
+        },
+        {
+          "inflectionType": "14",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "täieta"
+        },
+        {
+          "inflectionType": "14",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "täiega"
+        },
+        {
+          "inflectionType": "14",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "täied"
+        },
+        {
+          "inflectionType": "14",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "täite"
+        },
+        {
+          "inflectionType": "14",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "täisi"
+        },
+        {
+          "inflectionType": "14",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "täitesse,täisisse"
+        },
+        {
+          "inflectionType": "14",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "täites,täisis"
+        },
+        {
+          "inflectionType": "14",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "täitest,täisist"
+        },
+        {
+          "inflectionType": "14",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "täitele,täisile"
+        },
+        {
+          "inflectionType": "14",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "täitel,täisil"
+        },
+        {
+          "inflectionType": "14",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "täitelt,täisilt"
+        },
+        {
+          "inflectionType": "14",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "täiteks,täisiks"
+        },
+        {
+          "inflectionType": "14",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "täiteni"
+        },
+        {
+          "inflectionType": "14",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "täitena"
+        },
+        {
+          "inflectionType": "14",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "täiteta"
+        },
+        {
+          "inflectionType": "14",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "täitega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kogu, terve,täielik",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Ta lebas täies riides voodis.",
+            "On ta ikka täie aruga?",
+            "Talle pole vaja täit palka maksta.",
+            "Ülesanne nõudis õpilastelt täit tähelepanu."
+          ],
+          "synonyms": [
+            "kogu,terve",
+            "puhtakujuline,täielik"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "tout",
+                "weight": 1
+              },
+              {
+                "words": "tout",
+                "weight": 0.7
+              },
+              {
+                "words": "total,absolu",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "полный",
+                "weight": 1
+              },
+              {
+                "words": "весь",
+                "weight": 1
+              },
+              {
+                "words": "вся",
+                "weight": 1
+              },
+              {
+                "words": "всё",
+                "weight": 1
+              },
+              {
+                "words": "всё,вся,все,весь,целый",
+                "weight": 0.7
+              },
+              {
+                "words": "абсолютный,полный",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "повний",
+                "weight": 1
+              },
+              {
+                "words": "весь",
+                "weight": 1
+              },
+              {
+                "words": "вся",
+                "weight": 1
+              },
+              {
+                "words": "все",
+                "weight": 1
+              },
+              {
+                "words": "весь,вся,все,всі,цілий",
+                "weight": 0.7
+              },
+              {
+                "words": "повний",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "väljendab millegi suurt intensiivsust, hoogsust, tagasihoidmatust vms",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Poiss karjus täie häälega.",
+            "Pidu on täies hoos."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "mingit nõu, ruumi vm täitev, kuhugi mahtuv kogus (inimesi, ainet, asju vm),(sellega mõõtes) teatav kogus või hulk",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tõtt on selles jutus ainult linnunoka täis.",
+            "Kastitäis.",
+            "Tassitäis.",
+            "Kohvritäis.",
+            "Pitsitäis."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(löögi, hoobi kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Suurem äigas vähemale ühe täie mööda kukalt."
+          ],
+          "synonyms": [
+            "löök",
+            "hoop,kiilakas"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "удар",
+                "weight": 1
+              },
+              {
+                "words": "удар",
+                "weight": 0.7
+              },
+              {
+                "words": "удар",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "coup",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "удар",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "täielik",
+        "kogu",
+        "hoop",
+        "löök",
+        "ümmargune",
+        "tuuris",
+        "timmis",
+        "piripardani",
+        "kandiline",
+        "ääretasa",
+        "pakil",
+        "otsast otsani",
+        "täiskiilutud",
+        "kinni",
+        "täistuubitud",
+        "puupüsti täis",
+        "triikis",
+        "piripungil",
+        "umbes",
+        "umbes",
+        "pilgeni",
+        "tuubil",
+        "tiine",
+        "triiki",
+        "pilgel",
+        "pungil",
+        "laiali",
+        "valmis",
+        "sisse",
+        "peale",
+        "kastitäis",
+        "persetäis",
+        "peatäis",
+        "koormatäis",
+        "ämbritäis",
+        "kamalutäis",
+        "pajatäis",
+        "keretäis",
+        "pihutäis",
+        "topsitäis",
+        "kannutäis",
+        "pudelitäis",
+        "paagitäis",
+        "sületäis",
+        "autotäis",
+        "korvitäis",
+        "pangetäis",
+        "purgitäis",
+        "ahjutäis",
+        "saalitäis",
+        "maotäis",
+        "vaagnatäis",
+        "peotäis",
+        "lauatäis",
+        "näputäis",
+        "pooltäis",
+        "meretäis",
+        "salvetäis",
+        "noaotsatäis",
+        "tünnitäis",
+        "tongis",
+        "tuuris",
+        "purupurjus",
+        "purujommis",
+        "porujommis",
+        "joogine",
+        "joomane",
+        "auru all",
+        "vintis",
+        "jommis",
+        "purjus",
+        "pehme",
+        "juua täis",
+        "svipsis",
+        "sopsus",
+        "nokastanud",
+        "vindine",
+        "maani täis",
+        "napsine",
+        "ebakaine",
+        "lakku täis",
+        "sakkis",
+        "joobnud",
+        "silmini",
+        "pommis",
+        "tulvil",
+        "tungil",
+        "samm sees",
+        "krillis",
+        "jõmmis",
+        "jokkis",
+        "pilditu",
+        "viinane",
+        "viskama",
+        "üle riputama",
+        "kinni kleepima",
+        "peale raputama",
+        "lappima",
+        "kinni toppima",
+        "üle külvama",
+        "kinni müürima",
+        "kokku korjama",
+        "teotama",
+        "välja sülitama",
+        "mustama",
+        "lastima",
+        "lööma",
+        "maha",
+        "kinni ajama",
+        "koormama",
+        "prahtima",
+        "täiuslikult",
+        "piserdama",
+        "üle",
+        "laduma",
+        "kinni mätsima",
+        "täielikult",
+        "vilistama",
+        "laiali laotama",
+        "pätsima",
+        "peale kleepima",
+        "ümber kasvama",
+        "sülgama",
+        "kogu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "täis",
+      "translations": [
+        "(juua) fap",
+        "filled",
+        "filled with",
+        "fraught",
+        "full",
+        "full of",
+        "undivided",
+        "whole"
+      ]
+    }
+  ]
+}

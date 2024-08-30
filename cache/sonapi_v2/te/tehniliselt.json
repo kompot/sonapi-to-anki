@@ -1,0 +1,83 @@
+{
+  "requestedWord": "tehniliselt",
+  "estonianWord": "tehniliselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tehniliselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tehnika seisukohast, ülesehituse, sooritusvõtete vms poolest",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Seade on tehniliselt vananenud.",
+            "Tehniliselt korras kaubik.",
+            "Tehniliselt keeruline tants."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "технически",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teatavaid (formaalseid) näitajaid arvesse võttes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kell on üle kesköö, tehniliselt on saabunud uus päev.",
+            "Sa võid öelda, et tehniliselt võttes on see naine inetu, aga tema stiil, sarm ja head maneerid muudavad ta atraktiivseks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "технически",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "keeruliselt",
+        "taktiliselt",
+        "visuaalselt",
+        "tehnilis-majanduslik",
+        "kunstiliselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tehniliselt",
+      "translations": [
+        "technically"
+      ]
+    }
+  ]
+}

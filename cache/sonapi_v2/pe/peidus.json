@@ -1,0 +1,84 @@
+{
+  "requestedWord": "peidus",
+  "estonianWord": "peidus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "peidus"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "peidukohas,peidetud, varjatud olekus, peidetuna, varjatuna,millegi eest kaitseks varjul",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Laps on laua all peidus.",
+            "Bravuursuse taga oli peidus lahke loomus.",
+            "Päike on pilve peidus."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(leidumise, sisaldumise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Siinsetes mägedes on peidus terve Mendelejevi tabel."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "jooksus",
+        "redus",
+        "paos",
+        "peitma",
+        "varjama",
+        "redutama",
+        "peituma",
+        "peidik",
+        "peiduurgas",
+        "peidupaik",
+        "peitu",
+        "peidukoht",
+        "peiduline",
+        "peidust",
+        "peitus",
+        "taga",
+        "peidukas"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "peidus",
+      "translations": [
+        "in hiding"
+      ]
+    }
+  ]
+}

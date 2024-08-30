@@ -1,0 +1,111 @@
+{
+  "requestedWord": "eemalt",
+  "estonianWord": "eemalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eemalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teatava vahemaa tagant, mitte lähedalt,(veidi) kaugemalt,teatud vahemaa tagant,kaugemalt, kaugelt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mina ligi ei läinud, vaatasin eemalt.",
+            "Eemalt kostis muusikat.",
+            "Märkasin sõpru juba eemalt.",
+            "Eemalt paistab meri."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "from afar",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "de loin",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "издалека",
+                "weight": 1
+              },
+              {
+                "words": "издали",
+                "weight": 1
+              },
+              {
+                "words": "со стороны",
+                "weight": 1
+              },
+              {
+                "words": "издалёка",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "здалека",
+                "weight": 1
+              },
+              {
+                "words": "здалеку",
+                "weight": 1
+              },
+              {
+                "words": "віддалік",
+                "weight": 1
+              },
+              {
+                "words": "здаля",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tagantpoolt",
+        "taamalt",
+        "kaugemalt",
+        "kaugel",
+        "kaudselt",
+        "eemale",
+        "kaugele",
+        "eemal",
+        "kaugelt",
+        "ülevaltpoolt",
+        "eemalseisja",
+        "eemaletõukav"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "eemalt",
+      "translations": [
+        "from afar"
+      ]
+    }
+  ]
+}

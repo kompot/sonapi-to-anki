@@ -1,0 +1,420 @@
+{
+  "requestedWord": "tagant",
+  "estonianWord": "tagant",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tagant"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selja, tagakülje poolt, tagaküljelt,tagumisest otsast,sellest kohast või suunast, mis jääb selja poole",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Tagant läheneb mootorratas.",
+            "Tuul oli tagant.",
+            "Miks sul püksid tagant mustad on?",
+            "Sügas kassi kõrva tagant.",
+            "Olin järjekorras tagant kolmas.",
+            "Tagant lähenes meile mootorratas.",
+            "Su pluus on tagant must.",
+            "Lühike mees ei näinud teiste tagant lavale.",
+            "Ta ehmatas mind selja tagant."
+          ],
+          "synonyms": [
+            "takka"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "par derrière",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "из-за",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "сзади",
+                "weight": 1
+              },
+              {
+                "words": "вслед",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з-за",
+                "weight": 1
+              },
+              {
+                "words": "із-за",
+                "weight": 1
+              },
+              {
+                "words": "з-поза",
+                "weight": 1
+              },
+              {
+                "words": "ззаду",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millestki teiselt poolt (ja selle varjust),sealtpoolt mingit piiri,millegi teiselt poolt (nii, et see enam ei varja)",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Õhtul ilmus hiir kapi tagant nähtavale.",
+            "Ta on pärit Peipsi tagant.",
+            "Päike tuli pilve tagant välja.",
+            "Maja tagant jooksis välja suur koer.",
+            "Koer jookseb karbi tagant välja."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "de derrière",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "из-за",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з-за",
+                "weight": 1
+              },
+              {
+                "words": "із-за",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tagumiselt poolelt või osalt küljest (ära)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Nõelal tuli niit tagant ära.",
+            "Tõmbas juhtme kitarri tagant välja."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "teatud vahemaa kauguselt,kordudes teatud vahemaa järel",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Palverändurid on tulnud kauge maa tagant.",
+            "Punane katus püüab pilku juba kilomeetri tagant.",
+            "Sipelgapesi võis leida iga paari meetri tagant.",
+            "Matkal tegime peatuse iga paari kilomeetri tagant."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajaliselt:) pärast teatud aja möödumist, mingi aja järel,kordudes teatud ajavahemiku järel",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Miks sa mind alles nüüd, nii pika aja tagant üles otsisid?",
+            "Bussid käivad iga veerand tunni tagant.",
+            "Ta vahetab iga mõne aja tagant oma kallimaid.",
+            "Ostan iga kolme aasta tagant uue telefoni."
+          ],
+          "synonyms": [
+            "takka"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "спустя",
+                "weight": 1
+              },
+              {
+                "words": "по истечении",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "по",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajaliselt:) teatud kauguselt minevikust",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Aastasadade tagant pärinev komme."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "osutab esemele või tegevusele, mille juurest (tegevusest) eemaldutakse,mingi eseme juurest eemale",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Mees viidi haiglasse otse kirjutuslaua tagant.",
+            "Poissi ei saa kuidagi klaveri tagant ära.",
+            "Alatasa tuli töö tagant üles karata ja vaadata, mida laps seekord tahab.",
+            "Poissi ei saa kuidagi arvuti tagant ära."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "из-за",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з-за",
+                "weight": 1
+              },
+              {
+                "words": "із-за",
+                "weight": 1
+              },
+              {
+                "words": "від",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab asjaolule, olukorrale, nähtusele, mille varjust miski (või keegi) esile tuleb",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Naiseliku leebuse tagant aimub jõudu.",
+            "Peilib inimeste käitumise tagant nende iseloomujooni."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "osutab isikule, kellelt tema teadmata midagi võetakse või omastatakse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Isa tagant auto võtnud koolipoiss tegi ränga avarii.",
+            "Aga teadagi .. kes ei varasta mõisa tagant, varastab oma laste tagant."
+          ],
+          "synonyms": [
+            "järelt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "у",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab isikule, pärast kelle tegevust midagi korrastatakse,osutab inimesele, kelle tegevuse pärast on vaja midagi korda teha",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Sõbranna kurdab, et muudkui käi ja korista laste tagant."
+          ],
+          "synonyms": [
+            "järelt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "derrière",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ühendites aitab rõhutada kellegi toetamist-soodustamist või sundimist-ergutamist",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "takka"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "следом",
+                "weight": 1
+              },
+              {
+                "words": "под",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pealt",
+        "takka",
+        "järelt",
+        "pärast",
+        "järel",
+        "järel",
+        "tagantlaetav",
+        "tagantpoolt",
+        "otsaeest",
+        "tagantselja",
+        "natukese",
+        "tagantkäe",
+        "taga",
+        "taganttõukaja",
+        "tagantkätt",
+        "seljatagant",
+        "tagantvaade"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tagant",
+      "translations": []
+    }
+  ]
+}

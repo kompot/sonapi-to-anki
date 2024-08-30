@@ -1,0 +1,218 @@
+{
+  "requestedWord": "millalgi",
+  "estonianWord": "millalgi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "millalgi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingil ajal, kunagi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Filmisime millalgi jaanuarikuus.",
+            "Kindlasti heidan millalgi pilgu peale.",
+            "Alguse sai kõik juba millalgi varem.",
+            "Nad abiellusid millalgi eelmisel aastal."
+          ],
+          "synonyms": [
+            "ükspäev,kord,ükskord,kunagi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "когда-то",
+                "weight": 1
+              },
+              {
+                "words": "когда-нибудь",
+                "weight": 1
+              },
+              {
+                "words": "когда-либо",
+                "weight": 1
+              },
+              {
+                "words": "некогда,однажды,как-то раз,когда-то,когда-нибудь,когда-либо,как-то,как-нибудь",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "колись",
+                "weight": 1
+              },
+              {
+                "words": "якось",
+                "weight": 1
+              },
+              {
+                "words": "коли-небудь",
+                "weight": 1
+              },
+              {
+                "words": "колись,коли-небудь,якось,одного разу,один раз,якось раз",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "un jour,une fois",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mitte kunagi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nii ilusat purjekat ei olnud ta millalgi näinud."
+          ],
+          "synonyms": [
+            "eal,eales,ealeski,elades,eladeski,iial,iialgi,kunagi,mitte kunagi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "никогда",
+                "weight": 1
+              },
+              {
+                "words": "вовек",
+                "weight": 1
+              },
+              {
+                "words": "вовеки",
+                "weight": 1
+              },
+              {
+                "words": "ввек",
+                "weight": 1
+              },
+              {
+                "words": "отроду",
+                "weight": 1
+              },
+              {
+                "words": "век,никогда,вовек,вовеки,ни в жизнь,ввек,отроду,сроду,отродясь",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "jamais",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ніколи",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "never",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hingest",
+        "üksvahe",
+        "omal ajal",
+        "eluilmaski",
+        "elades",
+        "eluski",
+        "ilmas",
+        "korra",
+        "ükspäev",
+        "eladeski",
+        "eales",
+        "millaski",
+        "vahepeal",
+        "iialgi",
+        "iganes",
+        "ealeski",
+        "ükskord",
+        "ilmaski",
+        "eluilmas",
+        "ühekorra",
+        "hingestki",
+        "kunagi",
+        "iial",
+        "eal",
+        "tagasiulatuvalt",
+        "ammu",
+        "algul",
+        "alguses",
+        "uuesti",
+        "juba",
+        "kindlasti",
+        "lõpus",
+        "siiski",
+        "aga",
+        "aga",
+        "jälle",
+        "ilmselt",
+        "tõenäoliselt",
+        "hiljem",
+        "äkki",
+        "arvatavasti",
+        "täna-homme",
+        "isegi",
+        "veel",
+        "küll",
+        "küll",
+        "kusagil",
+        "ikka",
+        "tulevikus",
+        "alles",
+        "kuskil",
+        "ikkagi",
+        "kohe",
+        "kohe",
+        "varsti",
+        "vist",
+        "vist",
+        "võib-olla",
+        "nüüd",
+        "siis",
+        "aasta-paar",
+        "millal"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "millalgi",
+      "translations": [
+        "sometime"
+      ]
+    }
+  ]
+}

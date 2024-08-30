@@ -1,0 +1,255 @@
+{
+  "requestedWord": "ehk",
+  "estonianWord": "ehk",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ehk"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab oletatavale või loodetavale võimalusele, milles siiski ei olda päris kindel,näitab, et kõneleja ei ole päris kindel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ehk on tal õiguski.",
+            "See asi annab ehk veel korraldada.",
+            "Ehk homme on ilusam ilm.",
+            "Küsi Mari käest, ehk tema teab."
+          ],
+          "synonyms": [
+            "vahest",
+            "vahest ehk",
+            "järsku",
+            "vast",
+            "vast ehk",
+            "võib-olla",
+            "võibolla",
+            "äkki",
+            "v-o",
+            "vo",
+            "vbl"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "perhaps",
+                "weight": 1
+              },
+              {
+                "words": "maybe",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "peut-être",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "возможно",
+                "weight": 1
+              },
+              {
+                "words": "вероятно",
+                "weight": 1
+              },
+              {
+                "words": "быть может",
+                "weight": 1
+              },
+              {
+                "words": "пожалуй",
+                "weight": 1
+              },
+              {
+                "words": "может",
+                "weight": 1
+              },
+              {
+                "words": "авось",
+                "weight": 1
+              },
+              {
+                "words": "м.б.",
+                "weight": 1
+              },
+              {
+                "words": "может быть",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "можливо",
+                "weight": 1
+              },
+              {
+                "words": "може",
+                "weight": 1
+              },
+              {
+                "words": "мабуть",
+                "weight": 1
+              },
+              {
+                "words": "либонь",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tagasihoidlikus kõnetluses, eriti mingit soovi või palvet esitades)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ehk saad mulle natuke raha laenata?",
+            "Kas sul on ehk mõni minut aega?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "может быть",
+                "weight": 1
+              },
+              {
+                "words": "может",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "seob üht ja sama mõistet tähistavaid või sama tähendust selgitavaid sõnu,seob sõnu või väljendeid, millel on sama tähendus",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Diameeter ehk läbimõõt.",
+            "Kalender ehk varasema nimetusega tähtraamat.",
+            "Möödunud aastal tarnis firma 40 535 veoautot ehk 58% vähem kui ülemöödunud aastal.",
+            "Puhkus lõpeb järgmisel pühapäeval ehk nädala pärast."
+          ],
+          "synonyms": [
+            "elik",
+            "e",
+            "või,v"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "или",
+                "weight": 1
+              },
+              {
+                "words": "то есть",
+                "weight": 1
+              },
+              {
+                "words": "иными словами",
+                "weight": 1
+              },
+              {
+                "words": "то бишь",
+                "weight": 1
+              },
+              {
+                "words": "или,иль",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "або",
+                "weight": 1
+              },
+              {
+                "words": "тобто",
+                "weight": 1
+              },
+              {
+                "words": "або,чи",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "ou",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "or",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "elik",
+        "vahest",
+        "võib-olla",
+        "mine tea",
+        "kas",
+        "äkki",
+        "ikkagi",
+        "mingi",
+        "kõige",
+        "ilmselt",
+        "hektoliiter",
+        "lühemalt",
+        "kümnekroonine",
+        "viiekroonine",
+        "n-ö",
+        "tähendab",
+        "nn",
+        "tegelikult",
+        "teisisõnu",
+        "pigem",
+        "siis",
+        "sessiilne",
+        "aga",
+        "aga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ehk",
+      "translations": [
+        "maybe",
+        "mayhap",
+        "mayhaps",
+        "peradventure",
+        "perhaps"
+      ]
+    }
+  ]
+}

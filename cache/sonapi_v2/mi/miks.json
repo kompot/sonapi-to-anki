@@ -1,0 +1,716 @@
+{
+  "requestedWord": "miks",
+  "estonianWord": "miks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "miks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "küsiv-siduv sõna: mis põhjusel,mis põhjusel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Miks sul on piinlik?",
+            "Miks te ei istu?",
+            "Miks nii morn, Linda?",
+            "Tean täpselt, miks sa seda tegid.",
+            "Tema leiab alati tuhat põhjust, miks pole võimalik aidata.",
+            "Miks sa koolist puudusid?",
+            "Ma ei tea, miks teda tööl ei ole."
+          ],
+          "synonyms": [
+            "milleks",
+            "mispärast"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "why",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "pourquoi",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "почему",
+                "weight": 1
+              },
+              {
+                "words": "зачем",
+                "weight": 1
+              },
+              {
+                "words": "отчего",
+                "weight": 1
+              },
+              {
+                "words": "из-за чего",
+                "weight": 1
+              },
+              {
+                "words": "по какой причине",
+                "weight": 1
+              },
+              {
+                "words": "чего",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чому",
+                "weight": 1
+              },
+              {
+                "words": "чого",
+                "weight": 1
+              },
+              {
+                "words": "для чого",
+                "weight": 1
+              },
+              {
+                "words": "навіщо",
+                "weight": 1
+              },
+              {
+                "words": "нащо",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(lausetes, mis väljendavad kahetsust, etteheidet või parastust)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Miks ma küll sellise ala valisin!",
+            "Miks ta siis sündis valel ajal ja vales kohas!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "why",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "почему",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "väljendab mööndust, nõusolekut, võimalikkust vms",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Miks mitte minna, kui kutsutakse.",
+            "Kas Juhanit tead? – No miks ei tea!",
+            "Miks ei tohi, kõike tohib.",
+            "Asja võib arutada küll, miks mitte."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "why",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "почему бы нет",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "väljendab asjaolu ebamäärasust",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ei tea miks seisab rohuplatsil tohutu skulptuur.",
+            "Kes teab miks see poiss nii kangekaelne on."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "why",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "почему-то",
+                "weight": 1
+              },
+              {
+                "words": "отчего-то",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mistarvis",
+        "misjaoks",
+        "milleks",
+        "mispärast",
+        "miseest",
+        "mistõttu",
+        "ikkagi",
+        "kas",
+        "millal",
+        "kuidas",
+        "just",
+        "mismoodi",
+        "sellepärast",
+        "sest",
+        "see",
+        "siis",
+        "üldse",
+        "peapõhjus",
+        "aga",
+        "aga",
+        "põhjus"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "miks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "miksi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "miksi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "miksi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "miksisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "miksis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "miksist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "miksile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "miksil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "miksilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "miksiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "miksini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "miksina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "miksita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "miksiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "miksid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "mikside"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "mikse,miksisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "miksidesse,miksesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "miksides,mikses"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "miksidest,miksest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "miksidele,miksele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "miksidel,miksel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "miksidelt,mikselt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "miksideks,mikseks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "miksideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "miksidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "miksideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "miksidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mikseriga töödeldud muusikapala",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Baaris mängitakse enamasti mingeid mikse."
+          ],
+          "synonyms": [
+            "remiks"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "микс",
+                "weight": 1
+              },
+              {
+                "words": "ремикс",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(millegi muu kokku segatu, segustatu kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "segu",
+            "segu,mikstuur"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "состав,раствор,меланж,смесь,замес,смеска",
+                "weight": 0.7
+              },
+              {
+                "words": "помесь,смесь,мешанина",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "mélange",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "суміш",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "remiks",
+        "mikstuur",
+        "segu",
+        "mistarvis",
+        "misjaoks",
+        "milleks",
+        "mispärast",
+        "miseest",
+        "mistõttu",
+        "ikkagi",
+        "kas",
+        "millal",
+        "kuidas",
+        "just",
+        "mismoodi",
+        "sellepärast",
+        "sest",
+        "see",
+        "siis",
+        "üldse",
+        "peapõhjus",
+        "aga",
+        "aga",
+        "põhjus"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "miks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "miksi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "miksi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "miksi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "miksisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "miksis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "miksist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "miksile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "miksil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "miksilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "miksiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "miksini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "miksina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "miksita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "miksiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "miksid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "mikside"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "mikse,miksisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "miksidesse,miksesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "miksides,mikses"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "miksidest,miksest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "miksidele,miksele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "miksidel,miksel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "miksidelt,mikselt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "miksideks,mikseks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "miksideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "miksidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "miksideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "miksidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "küsimus „miks”",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Lapsel jätkub mikse lõpmatuseni."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "почему",
+                "weight": 1
+              },
+              {
+                "words": "отчего",
+                "weight": 1
+              },
+              {
+                "words": "зачем",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "miks",
+      "translations": [
+        "why",
+        "whyfor"
+      ]
+    }
+  ]
+}

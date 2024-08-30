@@ -1,0 +1,511 @@
+{
+  "requestedWord": "soo",
+  "estonianWord": "soo",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "soo"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kinnitab otsusele jõudmist, nendingut millegi lõpetatuse kohta,kasuta siis, kui tahad midagi kinnitada",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "Soo, tänaseks aitab."
+          ],
+          "synonyms": [
+            "nii",
+            "nõnda",
+            "soh",
+            "sooh",
+            "nonii"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "что ж",
+                "weight": 1
+              },
+              {
+                "words": "итак",
+                "weight": 1
+              },
+              {
+                "words": "ну-с",
+                "weight": 1
+              },
+              {
+                "words": "стало быть",
+                "weight": 1
+              },
+              {
+                "words": "ладно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "так",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "väljendab millegi teatavaksvõttu, taipamist, üllatust, kahtlust",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "Soo, ja see on dokumentaalfilm!",
+            "Ta on sinuga ühevanune. – Soo."
+          ],
+          "synonyms": [
+            "soo-oh",
+            "sooh",
+            "soh",
+            "aa",
+            "so-soo"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ах вот оно как",
+                "weight": 1
+              },
+              {
+                "words": "ах вот оно что",
+                "weight": 1
+              },
+              {
+                "words": "ах так",
+                "weight": 1
+              },
+              {
+                "words": "да-да",
+                "weight": 1
+              },
+              {
+                "words": "так-так",
+                "weight": 1
+              },
+              {
+                "words": "ага",
+                "weight": 1
+              },
+              {
+                "words": "ах да",
+                "weight": 1
+              },
+              {
+                "words": "неужели",
+                "weight": 1
+              },
+              {
+                "words": "да?",
+                "weight": 1
+              },
+              {
+                "words": "разве",
+                "weight": 1
+              },
+              {
+                "words": "ого",
+                "weight": 1
+              },
+              {
+                "words": "да ну",
+                "weight": 1
+              },
+              {
+                "words": "а",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "nii",
+        "nõnda",
+        "soo-oh",
+        "noo",
+        "nõndaks",
+        "nõndapsi",
+        "tohoo",
+        "ennäe",
+        "soh",
+        "nõndap",
+        "mülgas",
+        "muda",
+        "raba",
+        "raba",
+        "fibromüalgia",
+        "fibromüoom",
+        "allikasoo",
+        "vibromassaaž",
+        "puisraba",
+        "rabasoo",
+        "turbaraba",
+        "sooala",
+        "laukaraba"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "26i",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "soo"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "soo"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "sood"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "sohu"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "soosse"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "soos"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "soost"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "soole"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "sool"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "soolt"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "sooks"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "sooni"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "soona"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "soota"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "sooga"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "sood"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "soode,soode"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "soid,soosid"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "soodesse,soodesse,soisse"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "soodes,soodes,sois"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "soodest,soodest,soist"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "soodele,soodele,soile"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "soodel,soodel,soil"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "soodelt,soodelt,soilt"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "soodeks,soodeks,soiks"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "soodeni,soodeni"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "soodena,soodena"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "soodeta,soodeta"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "soodega,soodega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "samblane ja turbane kidura taimekasvuga märg maa-ala,pehme ja märja maapinnaga ala",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Eestis on tunduvalt rohkem soid, rabasid ja puutumata metsatukki kui Lääne-Euroopas.",
+            "Soos kasvab palju jõhvikaid."
+          ],
+          "synonyms": [
+            "kõrgraba,kõrgsoo,raba"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "swamp",
+                "weight": 1
+              },
+              {
+                "words": "bog",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "marais",
+                "weight": 1
+              },
+              {
+                "words": "tourbière",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "болото",
+                "weight": 1
+              },
+              {
+                "words": "трясина",
+                "weight": 1
+              },
+              {
+                "words": "топь",
+                "weight": 1
+              },
+              {
+                "words": "верховое болото,верховой торфяник,верховик,болотина,болото",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "болото",
+                "weight": 1
+              },
+              {
+                "words": "болото",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ebakindlate, muutuvate vaadetega poliitikute kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Opositsiooni ja koalitsiooni vahel on end mugavalt sisse seadnud paarikümneliikmeline parlamendi soo."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "болото",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "болото",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "õõtssoo",
+        "turbasoo",
+        "tundrasoo",
+        "tarnasoo",
+        "soolasoo",
+        "siirdesoo",
+        "samblasoo",
+        "rohusoo",
+        "puissoo",
+        "pilliroosoo",
+        "mätassoo",
+        "mädasoo",
+        "metsasoo",
+        "marjasoo",
+        "mangroovsoo",
+        "madalsoo",
+        "luhasoo",
+        "lehtsamblasoo",
+        "lammisoo",
+        "lagesoo",
+        "kõrgsoo",
+        "kõdusoo",
+        "jõhvikasoo",
+        "mülgas",
+        "muda",
+        "raba",
+        "allikasoo",
+        "puisraba",
+        "rabasoo",
+        "turbaraba",
+        "sooala",
+        "laukaraba",
+        "nii",
+        "nõnda",
+        "soo-oh",
+        "noo",
+        "nõndaks",
+        "nõndapsi",
+        "tohoo",
+        "ennäe",
+        "soh",
+        "nõndap",
+        "raba",
+        "fibromüalgia",
+        "fibromüoom",
+        "vibromassaaž"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "soo",
+      "translations": [
+        "mire",
+        "slough (er ülek)",
+        "swamp"
+      ]
+    }
+  ]
+}

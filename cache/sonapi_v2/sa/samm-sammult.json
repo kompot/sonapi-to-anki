@@ -1,0 +1,111 @@
+{
+  "requestedWord": "samm-sammult",
+  "estonianWord": "samm-sammult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "samm-sammult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "aegamööda, vähehaaval",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõrgrõhuala libiseb samm-sammult Läänemere maade poole."
+          ],
+          "synonyms": [
+            "sammhaaval",
+            "sammukaupa",
+            "sammu kaupa"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "постепенно",
+                "weight": 1
+              },
+              {
+                "words": "понемногу",
+                "weight": 1
+              },
+              {
+                "words": "мало-помалу",
+                "weight": 1
+              },
+              {
+                "words": "помаленьку",
+                "weight": 1
+              },
+              {
+                "words": "шаг за шагом",
+                "weight": 1
+              },
+              {
+                "words": "по шажочку",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "samm korraga, samm sammu järel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Priit lähenes samm-sammult küla esimestele majadele."
+          ],
+          "synonyms": [
+            "sammhaaval",
+            "sammukaupa",
+            "sammu kaupa"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "шаг за шагом",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sammhaaval",
+        "sammukaupa",
+        "toll-tollilt",
+        "vähehaaval",
+        "tollhaaval",
+        "sammuke",
+        "teosammul",
+        "sammuma",
+        "sammuvõrra",
+        "sammsammuline"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "samm-sammult",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "requestedWord": "prantsuse",
+  "estonianWord": "prantsuse",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "prantsuse"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "Prantsuse"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "prantslaste või prantsuse keelega seotud,prantslastega seotud",
+          "partOfSpeech": [
+            {
+              "code": "adjg",
+              "value": "omastavaline täiend, genitiivatribuut, täiendsõna"
+            }
+          ],
+          "examples": [
+            "Kas tead mõnd prantsuse laenu eesti keeles?"
+          ],
+          "synonyms": [
+            "prantsus"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "French",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "français",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "французский",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "французький",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "Prantsuse"
+      ]
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "Prantsuse"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Prantsusmaaga seotud",
+          "partOfSpeech": [
+            {
+              "code": "adjg",
+              "value": "omastavaline täiend, genitiivatribuut, täiendsõna"
+            }
+          ],
+          "examples": [
+            "Ostsime Prantsuse konjaki."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "французский",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "prantsuse",
+        "Prantsusmaa"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "prantsuse",
+      "translations": [
+        "French",
+        "Gallic"
+      ]
+    }
+  ]
+}

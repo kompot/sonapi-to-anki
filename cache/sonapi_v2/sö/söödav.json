@@ -1,0 +1,521 @@
+{
+  "requestedWord": "söödav",
+  "estonianWord": "söödav",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "söödav"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "söödava"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "söödavat"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "söödavasse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "söödavas"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "söödavast"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "söödavale"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "söödaval"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "söödavalt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "söödavaks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "söödavani"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "söödavana"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "söödavata"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "söödavaga"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "söödavad"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "söödavate"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "söödavaid"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "söödavatesse,söödavaisse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "söödavais,söödavates"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "söödavatest,söödavaist"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "söödavatele,söödavaile"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "söödavatel,söödavail"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "söödavatelt,söödavailt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "söödavateks,söödavaiks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "söödavateni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "söödavatena"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "söödavateta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "söödavatega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selline, mis kõlbab süüa",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            },
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Ojasilm ei ole söödav kala.",
+            "Söödavad seened."
+          ],
+          "synonyms": [
+            "söömiskõlblik,söögikõlblik",
+            "toidukõlblik"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "съедобный",
+                "weight": 1
+              },
+              {
+                "words": "годный для пищи,съедобный,пригодный в пищу",
+                "weight": 0.9
+              },
+              {
+                "words": "съедобный,пригодный в пищу",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(hinnanguna toidule:) keskpärane, ei märkimisväärselt halb ega hea",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Täitsa söödav sardell."
+          ],
+          "synonyms": [
+            "keskpärane",
+            "keskmine",
+            "vastuvõetav",
+            "söömiskõlblik,söögikõlblik",
+            "kõlbulik,kõlblik,kõlvuline"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ничем не выдающийся,дюжинный,ординарный,ничем не примечательный,ничем не выделяющийся,заурядный,посредственный,средний",
+                "weight": 0.7
+              },
+              {
+                "words": "средний",
+                "weight": 0.7
+              },
+              {
+                "words": "сносный,приемлемый,годный,подходящий",
+                "weight": 0.7
+              },
+              {
+                "words": "пригодный в пищу,годный для пищи,съедобный",
+                "weight": 0.9
+              },
+              {
+                "words": "годный,пригодный,подходящий",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "moyen",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "середній",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(hinnanguna:) sobiv, kõlblik",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Õpetusiva olgu lastele söödavaks ja arusaadavaks tehtud."
+          ],
+          "synonyms": [
+            "kõlblik,kõlbulik,kõlvuline",
+            "vastuvõetav",
+            "sobilik,sobiv",
+            "kohane",
+            "paras"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "годный,подходящий,пригодный",
+                "weight": 0.7
+              },
+              {
+                "words": "приемлемый,годный,подходящий,сносный",
+                "weight": 0.7
+              },
+              {
+                "words": "подобающий,уместный,удобный,подходящий,пригодный,приличествующий",
+                "weight": 0.7
+              },
+              {
+                "words": "подобающий,подходящий,удобный,уместный,приличествующий",
+                "weight": 0.7
+              },
+              {
+                "words": "соответствующий,подходящий",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "adapté,adéquat,approprié",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "підхожий,доречний,придатний,пригожий",
+                "weight": 0.7
+              },
+              {
+                "words": "слушний,підхожий,відповідний,вигідний",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "söögikraam, söök",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Oli matkale liiga vähe söödavat kaasa võtnud."
+          ],
+          "synonyms": [
+            "toit,söök",
+            "söömakraam,moon,söögikraam,söögimoon,toidukraam,toidumoon",
+            "hea ja parem,hea-parem",
+            "suupärane,söögipoolis,söömine,toidupala,toidupoolis,söömapoolis,närimine,leivapoolis,nosimine,suupoolis",
+            "hambaalune",
+            "kõhuvari",
+            "ihupide",
+            "toiduaine",
+            "hingepide,kehakinnitus",
+            "kost",
+            "vari,sööm,kõhutäide,ninaalune,ninaesine,toidus",
+            "roog,pala"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "съестное",
+                "weight": 1
+              },
+              {
+                "words": "еда,харчи,снедь,пища,трапеза,яство,кушанье,блюдо,съестное",
+                "weight": 0.9
+              },
+              {
+                "words": "продукты питания,съестное,пища,снедь,припасы,еда,провизия,продовольствие,провиант,съестные припасы,пищевой продукт,запасы пищевых продуктов",
+                "weight": 0.7
+              },
+              {
+                "words": "съестное,пища,снедь,еда,хлеб,блюдо,жратва,кушанье,кормёжка",
+                "weight": 0.9
+              },
+              {
+                "words": "перекус",
+                "weight": 0.9
+              },
+              {
+                "words": "подкрепление,лёгкая закуска",
+                "weight": 0.9
+              },
+              {
+                "words": "предмет питания,продукт питания,пищевой продукт,съестное",
+                "weight": 0.7
+              },
+              {
+                "words": "еда,подкрепление,закуска,съестное",
+                "weight": 0.9
+              },
+              {
+                "words": "еда,пища,съестное",
+                "weight": 0.9
+              },
+              {
+                "words": "пропитание,съестное,пища,питьё,еда,харчи,корм",
+                "weight": 0.9
+              },
+              {
+                "words": "кушанье,блюдо,еда",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "nourriture",
+                "weight": 0.9
+              },
+              {
+                "words": "aliment",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "страва,харчі,їжа,їда",
+                "weight": 0.9
+              },
+              {
+                "words": "харчі,харчовий продукт,продукт харчування",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "food",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "toiduaine",
+        "toidukraam",
+        "söögikraam",
+        "toidukõlblik",
+        "paras",
+        "kohane",
+        "kõlbulik",
+        "sobiv",
+        "kõlblik",
+        "vastuvõetav",
+        "keskmine",
+        "keskpärane",
+        "söök",
+        "hea ja parem",
+        "jumalaand",
+        "toidus",
+        "kost",
+        "söögikõlblik",
+        "toidupoolis",
+        "kõhutäide",
+        "hambaalune",
+        "jumalavili",
+        "hingepide",
+        "toidulaud",
+        "närimine",
+        "vari",
+        "vari",
+        "kõhuvari",
+        "ihutoit",
+        "söömapoolis",
+        "hea-parem",
+        "leivapoolis",
+        "suupoolis",
+        "kõrvane",
+        "ninaesine",
+        "lobi",
+        "lobi",
+        "söögipoolis",
+        "suupiste",
+        "kehakinnitus",
+        "kartulikõrvane",
+        "ihupide",
+        "leivakõrvane",
+        "ninaalune",
+        "roog",
+        "roog",
+        "ihutoidus",
+        "söömiskõlblik",
+        "toit",
+        "söödamaja",
+        "söödagaleega",
+        "söödakapsas",
+        "söödamatu",
+        "söödavus",
+        "toortoit",
+        "söödik",
+        "söödapeet",
+        "mittesöödav",
+        "maitsev",
+        "söödajuurvili",
+        "söödakultuur",
+        "lihakvili",
+        "söödavaru",
+        "söödataim",
+        "söödal",
+        "söödahernes",
+        "söödavili"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "söödav",
+      "translations": [
+        "comestible",
+        "edible",
+        "esculent"
+      ]
+    }
+  ]
+}

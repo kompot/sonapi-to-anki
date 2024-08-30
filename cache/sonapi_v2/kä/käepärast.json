@@ -1,0 +1,145 @@
+{
+  "requestedWord": "käepärast",
+  "estonianWord": "käepärast",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "käepärast"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "otsekohe olemas, osta, võtta või kasutada",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Looduses käies tasub fotokat igaks juhuks käepärast hoida.",
+            "Mul ei olnud parajat raha käepärast.",
+            "Temal on vabandus alati käepärast.",
+            "Külmkapis on toit kenasti käepärast.",
+            "Banaane polnud käepärast võtta, aga ilma nendetagi tuli kook maitsev."
+          ],
+          "synonyms": [
+            "saadaval",
+            "saada",
+            "valmis",
+            "kättesaadav",
+            "varnast võtta",
+            "käes",
+            "vaba",
+            "vaba"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "иметься",
+                "weight": 1
+              },
+              {
+                "words": "в наличии",
+                "weight": 1
+              },
+              {
+                "words": "можно получить",
+                "weight": 1
+              },
+              {
+                "words": "под рукой",
+                "weight": 1
+              },
+              {
+                "words": "наготове",
+                "weight": 1
+              },
+              {
+                "words": "готов,приготовлен,подготовлен",
+                "weight": 0.9
+              },
+              {
+                "words": "доступный,достижимый,досягаемый",
+                "weight": 0.7
+              },
+              {
+                "words": "у,в руках,на руках,в наличии",
+                "weight": 0.9
+              },
+              {
+                "words": "свободный",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "accessible,disponible",
+                "weight": 0.7
+              },
+              {
+                "words": "disponible,libre",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "доступний,приступний",
+                "weight": 0.7
+              },
+              {
+                "words": "в руках,у,в",
+                "weight": 0.9
+              },
+              {
+                "words": "вільний",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "silmapiiril",
+        "käes",
+        "valmis",
+        "saada",
+        "käeulatuses",
+        "saadaval",
+        "varnast võtta",
+        "käe-jala juures",
+        "mugav",
+        "kaasas",
+        "vaja",
+        "vajalik",
+        "tarvis",
+        "käepäraselt",
+        "moepärast",
+        "käepärasus",
+        "käepärane",
+        "hõlpsalt",
+        "varuvariant"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "käepärast",
+      "translations": [
+        "at hand",
+        "near at hand",
+        "on hand",
+        "to hand"
+      ]
+    }
+  ]
+}

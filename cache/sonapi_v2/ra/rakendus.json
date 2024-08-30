@@ -1,0 +1,457 @@
+{
+  "requestedWord": "rakendus",
+  "estonianWord": "rakendus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "rakendus"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "rakenduse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "rakendust"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "rakendusse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "rakendusesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "rakenduses"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "rakendusest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "rakendusele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "rakendusel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "rakenduselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "rakenduseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "rakenduseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "rakendusena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "rakenduseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "rakendusega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "rakendused"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "rakenduste"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "rakendusi"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "rakendustesse,rakendusisse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "rakendustes,rakendusis"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "rakendustest,rakendusist"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "rakendustele,rakendusile"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "rakendustel,rakendusil"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "rakendustelt,rakendusilt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "rakendusteks,rakendusiks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "rakendusteni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "rakendustena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "rakendusteta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "rakendustega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "terviklik tarkvaraprogramm, mille abil nutiseadmes (nt telefonis, tahvelarvutis, nutikellas) saab traadita sidevõrgus täita kindlat ülesannet (nt mõõta pulssi, kuulata muusikat, õppida keelt, osta-müüa kaupu)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kinokavade ja piletiostu rakendus.",
+            "Parkimise rakendus.",
+            "Mobiilipanga soodustuste rakenduses saab lihtsalt sooritada erinevaid otsinguid.",
+            "Kaardirakendus."
+          ],
+          "synonyms": [
+            "äpp",
+            "mobiilirakendus",
+            "mobiiliäpp",
+            "nutirakendus",
+            "aplikatsioon"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "приложение",
+                "weight": 1
+              },
+              {
+                "words": "мобильное приложение",
+                "weight": 1
+              },
+              {
+                "words": "прикладная программа",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "terviklik tarkvaraprogramm, mille abil hrl arvutis saab täita kindlat ülesannet (nt koostada slaide, luua videokonverentsi)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ta on puutunud kokku selliste videokonverentsi rakendustega nagu Zoom ja Google Meet.",
+            "Kuidas Windows Store poes rakenduse eest maksmine käib?"
+          ],
+          "synonyms": [
+            "rakendusprogramm",
+            "aplikatsioon"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "application",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "приложение",
+                "weight": 1
+              },
+              {
+                "words": "приложуха",
+                "weight": 1
+              },
+              {
+                "words": "прикладная программа",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi kasutuselevõtt, (tegelik) kasutamine,kasutuses, tegevuses olemine",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Küllap leiaks rahale parema rakenduse.",
+            "Mees otsis endale rakendust."
+          ],
+          "synonyms": [
+            "tarvitus",
+            "rakendamine",
+            "tarvituselevõtt",
+            "kasutuselevõtt,kasutuselevõtmine",
+            "tarvitamine",
+            "kasutamine",
+            "kasutus",
+            "pruuk",
+            "praktika",
+            "tegevus",
+            "praktika"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "применение",
+                "weight": 1
+              },
+              {
+                "words": "использование",
+                "weight": 1
+              },
+              {
+                "words": "приложение",
+                "weight": 1
+              },
+              {
+                "words": "внедрение",
+                "weight": 1
+              },
+              {
+                "words": "осваивание",
+                "weight": 1
+              },
+              {
+                "words": "освоение",
+                "weight": 1
+              },
+              {
+                "words": "обиход,употребление,применение,пользование,потребление,использование",
+                "weight": 0.9
+              },
+              {
+                "words": "применение",
+                "weight": 0.9
+              },
+              {
+                "words": "освоение,внедрение",
+                "weight": 0.9
+              },
+              {
+                "words": "освоение,осваивание,внедрение",
+                "weight": 0.9
+              },
+              {
+                "words": "применение,пользование,употребление",
+                "weight": 0.9
+              },
+              {
+                "words": "применение,использование",
+                "weight": 0.9
+              },
+              {
+                "words": "использование,эксплуатация,пользование,применение,употребление",
+                "weight": 0.9
+              },
+              {
+                "words": "употребление,обиход",
+                "weight": 0.9
+              },
+              {
+                "words": "практика",
+                "weight": 0.9
+              },
+              {
+                "words": "деятельность,занятие,дело,действие",
+                "weight": 0.7
+              },
+              {
+                "words": "практика",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "emploi,utilisation,usage",
+                "weight": 0.9
+              },
+              {
+                "words": "usage,utilisation",
+                "weight": 0.9
+              },
+              {
+                "words": "activité",
+                "weight": 0.7
+              },
+              {
+                "words": "pratique",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "використання,застосування",
+                "weight": 0.9
+              },
+              {
+                "words": "використання,застосування,користування,вживання,експлуатація",
+                "weight": 0.9
+              },
+              {
+                "words": "заняття,робота,діяльність",
+                "weight": 0.7
+              },
+              {
+                "words": "практика",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kangakudumises:) kanga niietust, tallamist ja sidust kirjeldav skeem",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tegin kanga rakenduse ise valmis.",
+            "Õpiti lugema kanga rakendust."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "заправка",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tegevus",
+        "hobuseriistad",
+        "praktika",
+        "rakmed",
+        "kasutus",
+        "kasutus",
+        "tarvitus",
+        "pruuk",
+        "elluviimine",
+        "lisamine",
+        "tarvitamine",
+        "kasutuselevõtt",
+        "rakendamine",
+        "kasutamine",
+        "tarvituselevõtt",
+        "nutirakendus",
+        "veebirakendus",
+        "rakendusprogramm",
+        "rakendusteadus",
+        "rakendussäte",
+        "mobiilirakendus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "rakendus",
+      "translations": [
+        "app (= application)",
+        "application",
+        "implementation"
+      ]
+    }
+  ]
+}

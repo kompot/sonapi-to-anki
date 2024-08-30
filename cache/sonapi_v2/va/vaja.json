@@ -1,0 +1,87 @@
+{
+  "requestedWord": "vaja",
+  "estonianWord": "vaja",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vaja"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "näitab vajadust millegi järele, osutab, et midagi või kedagi (puudu olevat) soovitakse kasutusele võtta, käiku rakendada,näitab vajadust kellegi või millegi järele või vajadust midagi teha",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mul läheb autot täna endal vaja.",
+            "Tallinna on väga vaja suurt konverentsikeskust.",
+            "Kas sul läheb abi vaja?",
+            "Mul on uut rahakotti vaja.",
+            "Meil oli vaja maale sõita."
+          ],
+          "synonyms": [
+            "tarvis"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "нужно",
+                "weight": 1
+              },
+              {
+                "words": "необходимо",
+                "weight": 1
+              },
+              {
+                "words": "надо",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "треба",
+                "weight": 1
+              },
+              {
+                "words": "потрібно",
+                "weight": 1
+              },
+              {
+                "words": "необхідно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "minema",
+        "minema",
+        "vajama",
+        "võimalik",
+        "vajalik",
+        "vajalikult",
+        "tarvis"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vaja",
+      "translations": []
+    }
+  ]
+}

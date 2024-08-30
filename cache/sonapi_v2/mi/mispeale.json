@@ -1,0 +1,79 @@
+{
+  "requestedWord": "mispeale",
+  "estonianWord": "mispeale",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "mispeale"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mis põhjusel, mille tõttu, mille peale,mille järel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Keegi kutsus politsei, mispeale mees põgenes.",
+            "Ma seletasin, milles asi, mispeale ta ütles, et meil pole mingeid imerohte.",
+            "Hädaohu korral häälitseb ta valjusti, mispeale emaslind hiilib kohe pesast eemale ja tõuseb lendu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "отчего",
+                "weight": 1
+              },
+              {
+                "words": "на что",
+                "weight": 1
+              },
+              {
+                "words": "из-за чего",
+                "weight": 1
+              },
+              {
+                "words": "после чего",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "solvunult",
+        "peale",
+        "mispidi",
+        "sellepeale",
+        "paugupealt",
+        "seepeale",
+        "nördinult",
+        "naerma",
+        "ise",
+        "ise",
+        "ise",
+        "siis",
+        "kisama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "mispeale",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "requestedWord": "just",
+  "estonianWord": "just",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "just"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "praegusel hetkel või pisut varem,praegusel hetkel või pisut varem",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Just hakkas sadama.",
+            "Olin just magama jäänud, kui helises telefon.",
+            "Olin just magama jäänud, kui telefon helises.",
+            "Jõudsin just koju."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "только что",
+                "weight": 1
+              },
+              {
+                "words": "буквально сейчас",
+                "weight": 1
+              },
+              {
+                "words": "как раз",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тільки що",
+                "weight": 1
+              },
+              {
+                "words": "щойно",
+                "weight": 1
+              },
+              {
+                "words": "саме",
+                "weight": 1
+              },
+              {
+                "words": "якраз",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(rõhutav üldlaiend, kinnitab, rõhutab väidet:) täiesti, igas mõttes,just, täiesti, igas mõttes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Just seda olen ma kogu aeg rääkinud.",
+            "Just lapsest olen kõige rohkem puudust tundnud.",
+            "Sageli tulevad just joostes kõige paremad ideed.",
+            "Film lõppes just nii, nagu ma arvasin.",
+            "Miks peab sellega tegelema just praegu?"
+          ],
+          "synonyms": [
+            "nimelt",
+            "täpselt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "précisément",
+                "weight": 1
+              },
+              {
+                "words": "justement",
+                "weight": 1
+              },
+              {
+                "words": "exactement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "именно",
+                "weight": 1
+              },
+              {
+                "words": "собственно",
+                "weight": 1
+              },
+              {
+                "words": "как раз",
+                "weight": 1
+              },
+              {
+                "words": "в точности",
+                "weight": 1
+              },
+              {
+                "words": "точно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "саме",
+                "weight": 1
+              },
+              {
+                "words": "якраз",
+                "weight": 1
+              },
+              {
+                "words": "власне",
+                "weight": 1
+              },
+              {
+                "words": "точно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(väljendab kinnitust, mööndust, nõusolekut:) jah muidugi, nii tõepoolest,näitab, et oled nõus, kiidad midagi heaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kas sa tahad öelda, et ta valetab? – Just.",
+            "On parem, kui me tööga üle ei pinguta. – Just."
+          ],
+          "synonyms": [
+            "jajaa",
+            "jajah",
+            "küll"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "да-да",
+                "weight": 1
+              },
+              {
+                "words": "да",
+                "weight": 1
+              },
+              {
+                "words": "конечно",
+                "weight": 1
+              },
+              {
+                "words": "точно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "так-так",
+                "weight": 1
+              },
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "звичайно",
+                "weight": 1
+              },
+              {
+                "words": "еге",
+                "weight": 1
+              },
+              {
+                "words": "авжеж",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "pehmendab öeldavat, vähendab väite või soovi kategoorilisust",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta pole just kõige targem.",
+            "Seda just öelda ei saaks.",
+            "Näljas me pole just olnud.",
+            "Eks ma tule, kui just peab."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "разве только",
+                "weight": 1
+              },
+              {
+                "words": "разве что",
+                "weight": 1
+              },
+              {
+                "words": "коль уж",
+                "weight": 1
+              },
+              {
+                "words": "коли уж",
+                "weight": 1
+              },
+              {
+                "words": "не из",
+                "weight": 1
+              },
+              {
+                "words": "не то, чтобы",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tahtlikult",
+        "justament",
+        "hiljaaegu",
+        "hiljuti",
+        "ennest",
+        "nüüdsama",
+        "teadlikult",
+        "vahetult",
+        "operatiivselt",
+        "nimelt",
+        "teadvalt",
+        "alles",
+        "ju",
+        "otse",
+        "otse",
+        "täpselt",
+        "otseselt",
+        "ennist",
+        "ammuks",
+        "vihuti",
+        "taotluslikult",
+        "äsja",
+        "’p",
+        "parajasti",
+        "vastselt",
+        "nimme",
+        "nimme",
+        "meelega",
+        "otseteed",
+        "sihilikult",
+        "kiuste",
+        "kiuste",
+        "jah",
+        "mhmh",
+        "jaa-ah",
+        "jaah",
+        "kõige",
+        "tõepoolest",
+        "praegu",
+        "kuigi",
+        "tõesti",
+        "see",
+        "õige",
+        "õige",
+        "hoopis",
+        "juba",
+        "kindlasti",
+        "aga",
+        "aga",
+        "siiski",
+        "ilmselt",
+        "ennekõike",
+        "muidugi",
+        "eelkõige",
+        "pigem",
+        "loomulikult",
+        "üldse",
+        "seetõttu",
+        "mitte",
+        "mitte",
+        "isegi",
+        "seepärast",
+        "sellepärast",
+        "küll",
+        "küll",
+        "eriti",
+        "tegelikult",
+        "ikkagi",
+        "tihti",
+        "sest",
+        "kuna",
+        "kuna",
+        "eriliselt",
+        "justnimelt",
+        "siis",
+        "alati",
+        "väga",
+        "nii"
+      ]
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "väga vähe aega tagasi, natukese aja eest,väga vähe aega tagasi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "alles",
+            "nüüdsama",
+            "vast",
+            "äsja"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "recently",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "juste",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "недавно",
+                "weight": 1
+              },
+              {
+                "words": "совсем недавно",
+                "weight": 1
+              },
+              {
+                "words": "на днях",
+                "weight": 1
+              },
+              {
+                "words": "только",
+                "weight": 1
+              },
+              {
+                "words": "только что",
+                "weight": 1
+              },
+              {
+                "words": "только-только",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "недавно",
+                "weight": 1
+              },
+              {
+                "words": "зовсім недавно",
+                "weight": 1
+              },
+              {
+                "words": "тільки що",
+                "weight": 1
+              },
+              {
+                "words": "щойно",
+                "weight": 1
+              },
+              {
+                "words": "цими днями",
+                "weight": 1
+              },
+              {
+                "words": "на днях",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "just",
+      "translations": [
+        "fresh",
+        "just",
+        "specifically"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "requestedWord": "paremalt",
+  "estonianWord": "paremalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "paremalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "keha keskjoonest südamest teiselt poolt,parema käe suunast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pildil paremalt: president Toomas Hendrik Ilves, proua Ieva Ilves.",
+            "Buss sai löögi paremalt lähenenud sõiduautolt."
+          ],
+          "synonyms": [
+            "paremalt poolt",
+            "hüvakult"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "à droite",
+                "weight": 1
+              },
+              {
+                "words": "de droite",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "справа",
+                "weight": 1
+              },
+              {
+                "words": "с правой стороны",
+                "weight": 1
+              },
+              {
+                "words": "справа,с правой стороны",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "праворуч",
+                "weight": 1
+              },
+              {
+                "words": "справа",
+                "weight": 1
+              },
+              {
+                "words": "з правого боку",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hüvakult",
+        "paremal",
+        "paremale",
+        "vasakhaak",
+        "pahemalt",
+        "vasakul",
+        "vasemalt",
+        "vasakule",
+        "vasakult",
+        "kiiremalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "paremalt",
+      "translations": []
+    }
+  ]
+}

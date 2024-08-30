@@ -1,0 +1,106 @@
+{
+  "requestedWord": "üheskoos",
+  "estonianWord": "üheskoos",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "üheskoos"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(rõhutavalt:) (mitmekesi, hulgakesi) koos, ühiselt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pingutame üheskoos võidu nimel.",
+            "Tulnuks üheskoos maha istuda ja otsustada."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вместе",
+                "weight": 1
+              },
+              {
+                "words": "совместно",
+                "weight": 1
+              },
+              {
+                "words": "сообща",
+                "weight": 1
+              },
+              {
+                "words": "заодно",
+                "weight": 1
+              },
+              {
+                "words": "скопом",
+                "weight": 1
+              },
+              {
+                "words": "огулом",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pundis",
+        "ühiselt",
+        "koos",
+        "koos",
+        "õlg õla kõrval",
+        "mestis",
+        "seltsis",
+        "kollektiivselt",
+        "käsikäes",
+        "kambas",
+        "üksmeelselt",
+        "ühiselu",
+        "kokku",
+        "tegusalt",
+        "kolmekesi",
+        "üksinda",
+        "toredalt",
+        "toimekalt",
+        "lahedasti",
+        "üksi",
+        "läbi",
+        "mitmekesi",
+        "organiseeritult",
+        "nõndasama",
+        "toredasti",
+        "kahekesi",
+        "omakeskis"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "üheskoos",
+      "translations": [
+        "in a body",
+        "in concert",
+        "in concert with",
+        "jointly",
+        "solidarily"
+      ]
+    }
+  ]
+}

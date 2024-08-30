@@ -1,0 +1,71 @@
+{
+  "requestedWord": "noorelt",
+  "estonianWord": "noorelt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "noorelt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "noorena, noores eas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Väga noorelt sõlmitud abielu.",
+            "Ema suri noorelt.",
+            "Te tulite poliitikasse üsna noorelt, mõni aasta pärast keskkooli lõppu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в молодом возрасте",
+                "weight": 1
+              },
+              {
+                "words": "молодым",
+                "weight": 1
+              },
+              {
+                "words": "в молодости",
+                "weight": 1
+              },
+              {
+                "words": "смолоду",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "noorukeselt",
+        "noores põlves",
+        "värskelt",
+        "varakult",
+        "nooremalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "noorelt",
+      "translations": []
+    }
+  ]
+}

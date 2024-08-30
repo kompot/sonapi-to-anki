@@ -1,0 +1,114 @@
+{
+  "requestedWord": "jalgsi",
+  "estonianWord": "jalgsi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "jalgsi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kõndides, liiklusvahendit kasutamata,kõndides, mitte sõidukiga",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Bensiin sai otsa ja nii tuli jalgsi edasi minna.",
+            "Läksin jalgsi tööle.",
+            "Kas me lähme jalgsi või bussiga?"
+          ],
+          "synonyms": [
+            "jala",
+            "omal jalal",
+            "kondimootoriga"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "on foot",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "à pied",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "пешком",
+                "weight": 1
+              },
+              {
+                "words": "пешечком",
+                "weight": 1
+              },
+              {
+                "words": "пешочком",
+                "weight": 1
+              },
+              {
+                "words": "самостоятельно,на своих ногах",
+                "weight": 0.9
+              },
+              {
+                "words": "на своих двоих,пехтурой",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пішки",
+                "weight": 1
+              },
+              {
+                "words": "пішака",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jalgsirännak",
+        "kondimootoriga",
+        "jalamatk",
+        "jalgsimatk",
+        "jala",
+        "omal jalal",
+        "jalarännak",
+        "matk",
+        "kand ja varvas",
+        "rännak",
+        "jalgsild",
+        "jalgrada",
+        "kõndimine",
+        "jalgsiretk"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "jalgsi",
+      "translations": [
+        "by foot",
+        "on foot",
+        "peripatetically"
+      ]
+    }
+  ]
+}

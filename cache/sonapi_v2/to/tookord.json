@@ -1,0 +1,84 @@
+{
+  "requestedWord": "tookord",
+  "estonianWord": "tookord",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tookord"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tol korral (või ajal), teatud varasemal korral",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tookord ei mõistetud kedagi hukka."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в тот раз",
+                "weight": 1
+              },
+              {
+                "words": "тогда",
+                "weight": 1
+              },
+              {
+                "words": "в то время",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "seekord",
+        "sellal",
+        "sedaaegu",
+        "siis",
+        "tollal",
+        "ikkagi",
+        "päris",
+        "isegi",
+        "tookordne",
+        "veel",
+        "ilmselt",
+        "küll",
+        "küll",
+        "üldse",
+        "siiani",
+        "vist",
+        "vist",
+        "esiti",
+        "oleks",
+        "kunagi",
+        "toona",
+        "aga",
+        "aga",
+        "siiski"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tookord",
+      "translations": []
+    }
+  ]
+}

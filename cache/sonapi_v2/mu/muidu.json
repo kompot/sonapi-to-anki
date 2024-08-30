@@ -1,0 +1,387 @@
+{
+  "requestedWord": "muidu",
+  "estonianWord": "muidu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "muidu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "muul juhul, vastasel juhul,osutab, mis võib juhtuda, kui miski jääb toimumata või tegemata",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pole mõtet kundesid välja visata – kust muidu raha tuleb.",
+            "Tuleb rohkem nõuda, muidu asjad paremaks ei lähe.",
+            "Hakkame minema, muidu jääme hiljaks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "sinon",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в противном случае",
+                "weight": 1
+              },
+              {
+                "words": "иначе",
+                "weight": 1
+              },
+              {
+                "words": "а не то",
+                "weight": 1
+              },
+              {
+                "words": "а то",
+                "weight": 1
+              },
+              {
+                "words": "не то",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "інакше",
+                "weight": 1
+              },
+              {
+                "words": "а то",
+                "weight": 1
+              },
+              {
+                "words": "у противному разі",
+                "weight": 1
+              },
+              {
+                "words": "бо",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "muus osas, muus suhtes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Alumisel korrusel elas nende muidu viisaka maja ainuke joodik.",
+            "Enesetunne on muidu hea, ainult selg teeb vahel häda.",
+            "Mis muidu uudist?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в общем",
+                "weight": 1
+              },
+              {
+                "words": "вообще",
+                "weight": 1
+              },
+              {
+                "words": "вообще-то",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teisiti, muul viisil",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ott ei saanud muidu, kui hakkas naerma.",
+            "Hästi läheb, kuidas muidu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "по-иному",
+                "weight": 1
+              },
+              {
+                "words": "по-другому",
+                "weight": 1
+              },
+              {
+                "words": "иным образом",
+                "weight": 1
+              },
+              {
+                "words": "иначе",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "muul ajal, tavaliselt,tavaliselt, harilikult",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Uku ema sõnul poiss muidu nii julge ei ole kui laval.",
+            "Üritan puhata ja teha neid asju, milleks muidu aega ei jää.",
+            "Buss sõitis täna kiiremini kui muidu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "d'habitude",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "обычно",
+                "weight": 1
+              },
+              {
+                "words": "в другое время",
+                "weight": 1
+              },
+              {
+                "words": "в иное время",
+                "weight": 1
+              },
+              {
+                "words": "иначе",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звичайно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ilma raha maksmata,tasuta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tule volbriööd tähistama, sissepääs täiesti muidu!",
+            "Saime suurepärase majutuse vanalinnas peaaegu muidu."
+          ],
+          "synonyms": [
+            "tasuta",
+            "priilt",
+            "ilma",
+            "kauba peale,pealekauba",
+            "niisama",
+            "jumala muidu,jumalamuidu",
+            "gratis",
+            "maksuta"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "gratuitement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "бесплатно",
+                "weight": 1
+              },
+              {
+                "words": "задаром",
+                "weight": 1
+              },
+              {
+                "words": "даром",
+                "weight": 1
+              },
+              {
+                "words": "безвозмездно",
+                "weight": 1
+              },
+              {
+                "words": "за так",
+                "weight": 1
+              },
+              {
+                "words": "на дармовщинку",
+                "weight": 1
+              },
+              {
+                "words": "вдобавок,сверх,в придачу,в дополнение к",
+                "weight": 0.7
+              },
+              {
+                "words": "ни за грош,за бесценок,задаром,совсем даром",
+                "weight": 0.9
+              },
+              {
+                "words": "гратис",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "безкоштовно",
+                "weight": 1
+              },
+              {
+                "words": "безплатно",
+                "weight": 1
+              },
+              {
+                "words": "задурно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(lihtsalt) niisama, ilma erilise põhjuseta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tulin muidu korraks läbi.",
+            "Kõik raamatusõbrad ja muidu huvilised on lahkesti oodatud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "просто так",
+                "weight": 1
+              },
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "просто",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "priilt",
+        "vaba",
+        "maksuta",
+        "keskeltläbi",
+        "ilma",
+        "gratis",
+        "isemoodi",
+        "jumalamuidu",
+        "üldjuhul",
+        "teisipidi",
+        "teisiti",
+        "linnulennult",
+        "reeglina",
+        "tasuta",
+        "laias laastus",
+        "jämedates joontes",
+        "niisama",
+        "erinevalt",
+        "hea mehe poolest",
+        "vastasel juhul",
+        "teistviisi",
+        "tavaliselt",
+        "suurtes joontes",
+        "üldiselt",
+        "teistmoodi",
+        "linnulennul",
+        "naaviisi",
+        "naapidi",
+        "alias",
+        "alias",
+        "harilikult",
+        "üldjoontes",
+        "omamoodi",
+        "naa",
+        "teisisõnu",
+        "vastasel korral",
+        "miskitpidi",
+        "sedapidi",
+        "tõesti",
+        "kindlasti",
+        "aga",
+        "aga",
+        "miskitmoodi",
+        "muidugi",
+        "kuidagipidi",
+        "nagunii",
+        "loomulikult",
+        "üldse",
+        "kuidagi",
+        "isegi",
+        "ikka",
+        "küll",
+        "küll",
+        "oleks",
+        "ikkagi",
+        "päris",
+        "sest",
+        "vist",
+        "vist",
+        "lihtsalt",
+        "täitsa",
+        "täitsa",
+        "siis",
+        "väga",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "muidu",
+      "translations": [
+        "else",
+        "otherwise"
+      ]
+    }
+  ]
+}

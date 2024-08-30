@@ -1,0 +1,123 @@
+{
+  "requestedWord": "jaoks",
+  "estonianWord": "jaoks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "jaoks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab, kelle või mille huvides, kasuks, vajaduseks midagi tehakse, mis otstarbel miski toimub või on olemas,osutab, kelle või mille huvides või kasuks midagi tehakse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Võta minu jaoks vihmavari kaasa.",
+            "Ta ei leidnud oma pere jaoks üldse aega.",
+            "Selle töö jaoks on spetsialisti vaja.",
+            "Reisi jaoks raha ei jätkunud.",
+            "Pere jaoks tuleb aega leida.",
+            "Ma kogun puhkuse jaoks raha."
+          ],
+          "synonyms": [
+            "tarbeks",
+            "tarvis"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "pour",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "для",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "для",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab isikule või olendile, kellel on teatud kindel suhtumine millessegi,osutab inimesele, kellel on teatud kindel suhtumine millessegi",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Minu jaoks oled sa nüüdsest õhk.",
+            "Laste jaoks pole tööl ja mängul selget piiri.",
+            "Võllas! See oli tema jaoks kõige valusam sõna.",
+            "Minu jaoks on töö väga oluline.",
+            "Vatikani jaoks on oluline ka paavsti visiit Bulgaariasse."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "pour",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "для",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "для",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "päralt",
+        "kasuks",
+        "tarvis",
+        "heaks",
+        "huvides",
+        "tarbeks",
+        "pärast",
+        "nimel",
+        "sellejaoks",
+        "meelest",
+        "misjaoks",
+        "seasink",
+        "puhul",
+        "juures"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "jaoks",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "requestedWord": "pikalt",
+  "estonianWord": "pikalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "pikalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(suhteliselt) pikka aega, kaua kestvalt,(mingi teema käsitlemise kohta:) põhjalikult, üksikasjalikult,selliselt, et kestab pikka aega",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Laps oli pikalt haige.",
+            "Oleme seda teemat juba pikalt arutanud.",
+            "Katrin rääkis pikalt oma uuest töökohast.",
+            "Ta oli pikalt haige.",
+            "Kui pikalt sa puhkad?"
+          ],
+          "synonyms": [
+            "kaua"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "longtemps",
+                "weight": 1
+              },
+              {
+                "words": "longuement",
+                "weight": 1
+              },
+              {
+                "words": "longtemps",
+                "weight": 0.825
+              }
+            ],
+            "rus": [
+              {
+                "words": "долго",
+                "weight": 1
+              },
+              {
+                "words": "длительно",
+                "weight": 1
+              },
+              {
+                "words": "длинно",
+                "weight": 1
+              },
+              {
+                "words": "продолжительно,долго,долгое время,в течение долгого времени,битый час",
+                "weight": 0.825
+              }
+            ],
+            "ukr": [
+              {
+                "words": "довго",
+                "weight": 1
+              },
+              {
+                "words": "довго",
+                "weight": 0.825
+              }
+            ],
+            "eng": [
+              {
+                "words": "long",
+                "weight": 0.825
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kaugele, esile ulatuvalt,suures, pikas ulatuses",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sirutasin jalad pikalt välja.",
+            "Koht on ilus ja seal on pikalt liivaranda."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "paljusõnaliselt",
+        "sõnaohtralt",
+        "jalg-jalalt",
+        "tasa",
+        "aegamisi",
+        "jupp aega",
+        "kaugele",
+        "aegamööda",
+        "tasapisi",
+        "vaikselt",
+        "tasaselt",
+        "kaua",
+        "härgamisi",
+        "pikalt-laialt",
+        "tasapikka",
+        "pikaldaselt",
+        "teosammul",
+        "pikka",
+        "laisalt",
+        "pikkamisi",
+        "pikkamööda",
+        "aegapidi",
+        "ajapikku",
+        "lõpmatuseni",
+        "aeglaselt",
+        "tasakesi",
+        "loiult",
+        "tasakesti",
+        "aegluubis",
+        "mõnusasti",
+        "tempokalt",
+        "põhjalikult",
+        "kannatamatult",
+        "korralikult",
+        "juba",
+        "pikemalt",
+        "tülikalt",
+        "surmkindlalt",
+        "peatumatult",
+        "kannatlikult",
+        "hästi",
+        "üldse",
+        "veel",
+        "vaevarikkalt",
+        "südikalt",
+        "ikka",
+        "võikalt",
+        "tihti",
+        "päris",
+        "väga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pikalt",
+      "translations": [
+        "at length",
+        "in extenso"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "requestedWord": "katoliku",
+  "estonianWord": "katoliku",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "katoliku"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "katoliku usu ja kirikuga, katoliiklastega seotud,seotud kristliku religiooni suunaga, mis on levinud Lääne- ja Lõuna-Euroopas. Katoliku kiriku kõrgeim juht on paavst",
+          "partOfSpeech": [
+            {
+              "code": "adjg",
+              "value": "omastavaline täiend, genitiivatribuut, täiendsõna"
+            }
+          ],
+          "examples": [
+            "Luges katoliku pühakute tehtud imetegudest.",
+            "Kardinal on üks katoliku vaimulikke."
+          ],
+          "synonyms": [
+            "katoliiklik",
+            "roomakatoliku"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "catholique",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "католический",
+                "weight": 1
+              },
+              {
+                "words": "римско-католический",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "католицький",
+                "weight": 1
+              },
+              {
+                "words": "римо-католицький",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "katoliku kirik",
+        "katolikuusuline",
+        "katoliiklik",
+        "kreekakatoliku",
+        "roomakatoliku",
+        "katolikoss",
+        "luteri"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "katoliku",
+      "translations": [
+        "Catholic"
+      ]
+    }
+  ]
+}

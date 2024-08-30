@@ -1,0 +1,662 @@
+{
+  "requestedWord": "õpetaja",
+  "estonianWord": "õpetaja",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "1",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "õpetaja"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "õpetaja"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "õpetajat"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "õpetajasse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "õpetajas"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "õpetajast"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "õpetajale"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "õpetajal"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "õpetajalt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "õpetajaks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "õpetajani"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "õpetajana"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "õpetajata"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "õpetajaga"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "õpetajad"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "õpetajate"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "õpetajaid"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "õpetajatesse,õpetajaisse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "õpetajates,õpetajais"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "õpetajatest,õpetajaist"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "õpetajatele,õpetajaile"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "õpetajatel,õpetajail"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "õpetajatelt,õpetajailt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "õpetajateks,õpetajaiks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "õpetajateni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "õpetajatena"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "õpetajateta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "õpetajatega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "eriharidusega inimene, kes õpetab lapsi koolis,inimene, kelle töö on õpetada",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ajalooõpetaja.",
+            "Gümnaasiumiõpetaja.",
+            "Ta töötab Sõle gümnaasiumis eesti keele õpetajana.",
+            "Õpetaja parandas õpilaste kontrolltöid."
+          ],
+          "synonyms": [
+            "kooliõpetaja",
+            "koolmeister",
+            "õp",
+            "pedagoog",
+            "koolimees",
+            "meesõpetaja",
+            "õpetajanna,naisõpetaja",
+            "kasvataja",
+            "koolipapa",
+            "koolipreili",
+            "õps,õpa",
+            "haridustöötaja",
+            "harija"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "teacher",
+                "weight": 1
+              },
+              {
+                "words": "pedagogue",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "enseignant",
+                "weight": 1
+              },
+              {
+                "words": "enseignante",
+                "weight": 1
+              },
+              {
+                "words": "enseignant,enseignante",
+                "weight": 0.9
+              },
+              {
+                "words": "éducateur,éducatrice",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "учитель",
+                "weight": 1
+              },
+              {
+                "words": "учительница",
+                "weight": 1
+              },
+              {
+                "words": "педагог",
+                "weight": 1
+              },
+              {
+                "words": "преподаватель",
+                "weight": 1
+              },
+              {
+                "words": "преподавательница",
+                "weight": 1
+              },
+              {
+                "words": "преп.",
+                "weight": 1
+              },
+              {
+                "words": "педагог",
+                "weight": 0.9
+              },
+              {
+                "words": "педагог",
+                "weight": 0.9
+              },
+              {
+                "words": "учитель,преподаватель",
+                "weight": 0.847
+              },
+              {
+                "words": "преподавательница,учительница",
+                "weight": 0.9
+              },
+              {
+                "words": "наставник,наставница,воспитатель,воспитательница",
+                "weight": 0.9
+              },
+              {
+                "words": "учитель",
+                "weight": 0.9
+              },
+              {
+                "words": "молодая учительница",
+                "weight": 0.9
+              },
+              {
+                "words": "училка",
+                "weight": 0.9
+              },
+              {
+                "words": "труженик народного образования,труженик просвещения,работник народного образования,работник просвещения",
+                "weight": 0.7
+              },
+              {
+                "words": "учитель,просветитель",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "учитель",
+                "weight": 1
+              },
+              {
+                "words": "учителька",
+                "weight": 1
+              },
+              {
+                "words": "педагог",
+                "weight": 0.9
+              },
+              {
+                "words": "наставниця,вихователь,вихователька,наставник",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "eriharidusega inimene, kes õpetab ja kasvatab lapsi koolieelses lasteasutuses (ka ametinimetusena)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "lasteaiaõpetaja",
+            "lasteaednik,lasteaiakasvataja",
+            "kasvataja"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "учитель",
+                "weight": 1
+              },
+              {
+                "words": "воспитатель,воспитательница,воспитатель детского сада",
+                "weight": 0.686
+              },
+              {
+                "words": "наставник,наставница,воспитатель,воспитательница",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "éducateur,éducatrice",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вихователь,наставник,наставниця,вихователька",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tiitlina, pöördumissõnana)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Õpetaja Lepp on praegu tunnis.",
+            "Õpetaja, palun välja."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(üldisemalt:) see, kes teadmisi jagab ja õpetust annab,autoriteet, eeskujunäitaja",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ema ja isa on lapse esimesed õpetajad."
+          ],
+          "synonyms": [
+            "koolitaja",
+            "suunanäitaja,teenäitaja",
+            "teejuht",
+            "mentor",
+            "guru",
+            "autoriteet",
+            "suur juht ja õpetaja"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "наставник",
+                "weight": 1
+              },
+              {
+                "words": "наставница",
+                "weight": 1
+              },
+              {
+                "words": "лектор,обучающий",
+                "weight": 0.9
+              },
+              {
+                "words": "указатель направления",
+                "weight": 0.9
+              },
+              {
+                "words": "наставник,наставница",
+                "weight": 0.9
+              },
+              {
+                "words": "ментор",
+                "weight": 0.7
+              },
+              {
+                "words": "гуру",
+                "weight": 0.7
+              },
+              {
+                "words": "авторитет",
+                "weight": 0.7
+              },
+              {
+                "words": "великий наставник и учитель",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "лекторка,лектор",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "luteri vm protestantliku koguduse vaimulik juht,inimene, kelle töö on luteri kirikus jumalateenistusi pidada ja muid toiminguid läbi viia",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Rahu koguduse õpetaja.",
+            "Esimene eesti soost õpetaja Otepääl oli Jakob Hurt.",
+            "Ta on Jaani koguduse õpetaja."
+          ],
+          "synonyms": [
+            "pastor",
+            "kirikhärra",
+            "kirikisand",
+            "kiriksand",
+            "kirikuhärra",
+            "kirikuõpetaja",
+            "koguduseõpetaja",
+            "pastorihärra,õpetajahärra",
+            "hingekarjane,karjane",
+            "vaimulik",
+            "preester"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "pasteur",
+                "weight": 1
+              },
+              {
+                "words": "prêtre",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "пастор",
+                "weight": 1
+              },
+              {
+                "words": "пастырь",
+                "weight": 1
+              },
+              {
+                "words": "вероучитель",
+                "weight": 1
+              },
+              {
+                "words": "пастырь,пастор",
+                "weight": 0.811
+              },
+              {
+                "words": "пастух,священник,пастырь",
+                "weight": 0.75
+              },
+              {
+                "words": "духовное лицо,священник,священнослужитель,духовник,церковнослужитель,клирик",
+                "weight": 0.7
+              },
+              {
+                "words": "священник,иерей",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пастор",
+                "weight": 1
+              },
+              {
+                "words": "священник",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "autoriteet",
+        "ülemõpetaja",
+        "võõrkeeleõpetaja",
+        "võimlemisõpetaja",
+        "viiuliõpetaja",
+        "vanemõpetaja",
+        "usuõpetaja",
+        "tugiõpetaja",
+        "tantsuõpetaja",
+        "sõjandusõpetaja",
+        "sõiduõpetaja",
+        "suur juht ja õpetaja",
+        "rahvakooliõpetaja",
+        "muusikaõpetaja",
+        "maaõpetaja",
+        "maakooliõpetaja",
+        "lemmikõpetaja",
+        "lauluõpetaja",
+        "käsitööõpetaja",
+        "korrapidajaõpetaja",
+        "koguduseõpetaja",
+        "koduõpetaja",
+        "klaveriõpetaja",
+        "keskkoolilõpetaja",
+        "keemiaõpetaja",
+        "kaasõpetaja",
+        "joonistusõpetaja",
+        "joogaõpetaja",
+        "hooldusõpetaja",
+        "gümnaasiumiõpetaja",
+        "füüsikaõpetaja",
+        "eraõpetaja",
+        "emeriitõpetaja",
+        "bioloogiaõpetaja",
+        "algkooliõpetaja",
+        "algklassiõpetaja",
+        "mentor",
+        "maa sool",
+        "haridustöötaja",
+        "guru",
+        "teenäitaja",
+        "koolimees",
+        "juhtoinas",
+        "koolipapa",
+        "juht",
+        "juht",
+        "koolmeister",
+        "kirikisand",
+        "peamees",
+        "õpetajanna",
+        "kooliõpetaja",
+        "koolipreili",
+        "pealik",
+        "papp",
+        "isa",
+        "boss",
+        "hingearst",
+        "füürer",
+        "kirikhärra",
+        "teejuht",
+        "pastor",
+        "preester",
+        "eestseisja",
+        "õpetajaskond",
+        "lipukandja",
+        "pastorihärra",
+        "koolitaja",
+        "instruktor",
+        "hingekarjane",
+        "pedagoog",
+        "kiriksand",
+        "liider",
+        "õpetajatepere",
+        "naisõpetaja",
+        "meesõpetaja",
+        "eestvedaja",
+        "kirikuõpetaja",
+        "pihiisa",
+        "pea",
+        "pea",
+        "õps",
+        "juhendaja",
+        "õpetama",
+        "hooldaja",
+        "kasvataja",
+        "õppejõud",
+        "kodundusõpetaja",
+        "keeleõpetaja",
+        "koolijuht",
+        "lasteaiaõpetaja",
+        "aineõpetaja",
+        "geograafiaõpetaja",
+        "matemaatikaõpetaja",
+        "asendusõpetaja",
+        "rändõpetaja",
+        "abiõpetaja",
+        "kirjandusõpetaja",
+        "klassiõpetaja",
+        "emakeeleõpetaja",
+        "arvutiõpetaja",
+        "esik",
+        "juht",
+        "hegemoon",
+        "papp",
+        "papp",
+        "ninamees",
+        "pea",
+        "pea"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "õpetaja",
+      "translations": [
+        "educator",
+        "mentor",
+        "pedagogue",
+        "(van) schoolmistress",
+        "teacher",
+        "tutor"
+      ]
+    }
+  ]
+}

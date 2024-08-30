@@ -1,0 +1,98 @@
+{
+  "requestedWord": "kõikjalt",
+  "estonianWord": "kõikjalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kõikjalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "igast kohast, kõikidest kohtadest,kõikidest kohtadest, igast kohast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Teda oli kõikjalt otsitud.",
+            "Osavõtjaid oodatakse kõikjalt.",
+            "Teda otsiti kõikjalt.",
+            "Lumi on kõikjalt sulanud."
+          ],
+          "synonyms": [
+            "igalt poolt"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "everywhere",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "(de) partout",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "отовсюду",
+                "weight": 1
+              },
+              {
+                "words": "из разных мест",
+                "weight": 1
+              },
+              {
+                "words": "со всех сторон",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звідусіль",
+                "weight": 1
+              },
+              {
+                "words": "звідусюди",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mujalt",
+        "lehvikjalt",
+        "sealt",
+        "usjalt",
+        "peaaegu",
+        "kõikjale",
+        "kiirjalt",
+        "kõikjal",
+        "kusagilt",
+        "teadjalt",
+        "sealtpoolt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kõikjalt",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "requestedWord": "peagi",
+  "estonianWord": "peagi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "peagi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "natukese aja pärast,lühikese aja pärast, üsna ruttu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Juhus viis neid peagi taas kokku.",
+            "Ära muretse, kõik saab peagi korda.",
+            "Peeter leidis peagi uue kallima.",
+            "Ta jääb peagi pensionile."
+          ],
+          "synonyms": [
+            "varsti",
+            "lähemal ajal,ligemal ajal"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "soon",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "bientôt",
+                "weight": 1
+              },
+              {
+                "words": "prochainement",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "вскоре",
+                "weight": 1
+              },
+              {
+                "words": "в скором времени",
+                "weight": 1
+              },
+              {
+                "words": "скоро",
+                "weight": 1
+              },
+              {
+                "words": "очень скоро",
+                "weight": 1
+              },
+              {
+                "words": "в ближайшее время,в скором времени,в недалёком будущем,вскоре",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "скоро",
+                "weight": 1
+              },
+              {
+                "words": "швидко",
+                "weight": 1
+              },
+              {
+                "words": "незабаром",
+                "weight": 1
+              },
+              {
+                "words": "найближчим часом,незабаром,невдовзі",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kohe",
+        "kohe",
+        "peatselt",
+        "lähemal ajal",
+        "varsti",
+        "pea",
+        "pea",
+        "pea",
+        "pea",
+        "täna-homme",
+        "nüüd-nüüd",
+        "lähemal",
+        "lähipäevil",
+        "ometi",
+        "taas",
+        "uuesti",
+        "juba",
+        "kindlasti",
+        "lõplikult",
+        "kibekiiresti",
+        "siiski",
+        "aga",
+        "aga",
+        "loodetavasti",
+        "jälle",
+        "ilmselt",
+        "kiirelt",
+        "tõenäoliselt",
+        "ootamatult",
+        "ruttu-ruttu",
+        "tasapisi",
+        "ruttu",
+        "sealt",
+        "veel",
+        "enam",
+        "enam",
+        "ikka",
+        "küll",
+        "küll",
+        "viimaks",
+        "kiiresti",
+        "tegelikult",
+        "alles",
+        "lõpuks",
+        "ikkagi",
+        "endiselt",
+        "nüüd",
+        "üha",
+        "aegapidi",
+        "kibekiirelt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "peagi",
+      "translations": [
+        "anon",
+        "in a moment",
+        "shortly",
+        "soon"
+      ]
+    }
+  ]
+}

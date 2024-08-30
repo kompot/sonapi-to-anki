@@ -1,0 +1,123 @@
+{
+  "requestedWord": "elevil",
+  "estonianWord": "elevil",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "elevil"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "rõõmsalt ärevil või erutatud, kõrgendatud meeleolus",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Lapsed olid rõõmsalt elevil.",
+            "Elevil naised hakkasid end meikima."
+          ],
+          "synonyms": [
+            "erevil,erutatud,pinevil,ärevil",
+            "kihkvel,kihevil",
+            "põnevil",
+            "õhevil",
+            "elev",
+            "kehevil,kehkvel",
+            "ootusärev",
+            "puhevil"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "оживлённо",
+                "weight": 1
+              },
+              {
+                "words": "в приподнятом настроении",
+                "weight": 1
+              },
+              {
+                "words": "в возбуждении",
+                "weight": 1
+              },
+              {
+                "words": "возбуждённый,встревоженный,в смятении,взволнованный,в тревоге",
+                "weight": 0.89
+              },
+              {
+                "words": "в возбуждённом ожидании,в взволнованном ожидании,в душевном волнении,в душевном возбуждении,в душевном напряжении,напряжённо,в духовном напряжении,в духовном волнении",
+                "weight": 0.89
+              },
+              {
+                "words": "в возбуждённом настроении",
+                "weight": 0.89
+              },
+              {
+                "words": "оживлённый,приподнятый,возбуждённый,бодрый",
+                "weight": 0.89
+              },
+              {
+                "words": "напыщенно,важно",
+                "weight": 0.498
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kihevil",
+        "ootlik",
+        "kõhevil",
+        "põnevil",
+        "erutatud",
+        "elev",
+        "äraootav",
+        "kihkvel",
+        "ärevil",
+        "kohevil",
+        "kehkvel",
+        "ootusärev",
+        "õhevil",
+        "hajevil",
+        "üliõnnelik",
+        "meel",
+        "kiisuke",
+        "puhevil",
+        "rõõmus",
+        "kurb",
+        "meeletult",
+        "pinevil",
+        "irevil",
+        "rõõmsasti",
+        "elevus",
+        "elevile",
+        "kärsitult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "elevil",
+      "translations": [
+        "elated"
+      ]
+    }
+  ]
+}

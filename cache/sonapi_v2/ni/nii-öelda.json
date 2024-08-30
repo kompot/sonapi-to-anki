@@ -1,0 +1,99 @@
+{
+  "requestedWord": "nii-öelda",
+  "estonianWord": "nii-öelda",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "nii-öelda"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nagu (tavaliselt) öeldakse",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõige lihtsam oleks nii-öelda kaduda ja teha hoopis uus firma."
+          ],
+          "synonyms": [
+            "niiöelda",
+            "n-ö",
+            "nö",
+            "niiütelda",
+            "nii-ütelda",
+            "nõnda-öelda",
+            "nõnda-ütelda",
+            "nõndaöelda",
+            "nõndaütelda"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "так сказать",
+                "weight": 1
+              },
+              {
+                "words": "если можно так выразиться",
+                "weight": 1
+              },
+              {
+                "words": "т. с.",
+                "weight": 1
+              },
+              {
+                "words": "как говорится",
+                "weight": 1
+              },
+              {
+                "words": "как принято говорить",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sisuliselt",
+        "ikkagi",
+        "mingi",
+        "mingitpidi",
+        "ilmselt",
+        "enamasti",
+        "n-ö",
+        "omamoodi",
+        "justkui",
+        "lihtsalt",
+        "lihtsakoeliselt",
+        "niiöelda",
+        "pigem",
+        "vaid",
+        "mingitmoodi",
+        "täiesti",
+        "sisseharjunud"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "nii-öelda",
+      "translations": [
+        "soi-disant",
+        "sorta (= sort of a)",
+        "sort of"
+      ]
+    }
+  ]
+}

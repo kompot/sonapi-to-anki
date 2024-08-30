@@ -1,0 +1,136 @@
+{
+  "requestedWord": "allapoole",
+  "estonianWord": "allapoole",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "allapoole"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "koha, asendi poolest madalamale, suunaga ülevalt alla,madalamale, suunaga ülevalt alla",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Seelik ulatub allapoole põlvi.",
+            "Mööda nägu nirisesid allapoole higijoad.",
+            "Vesi voolas mööda tänavat allapoole.",
+            "Ma kolin kolm korrust allapoole."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вниз",
+                "weight": 1
+              },
+              {
+                "words": "книзу",
+                "weight": 1
+              },
+              {
+                "words": "ниже",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вниз",
+                "weight": 1
+              },
+              {
+                "words": "униз",
+                "weight": 1
+              },
+              {
+                "words": "донизу",
+                "weight": 1
+              },
+              {
+                "words": "нижче",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "määralt, tasemelt madalamale",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Pere sissetulek jäi allapoole vaesuspiiri.",
+            "Kaheksandast kohast allapoole langeda ei tahaks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "ниже",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "alatsi",
+        "allapidi",
+        "alaspidi",
+        "alaspäi",
+        "alla",
+        "alla",
+        "ülevalpool",
+        "ülespoole",
+        "liuglema",
+        "siiapoole",
+        "pealepoole",
+        "kaugemale",
+        "ülevaltpoolt",
+        "tahapoole",
+        "madalamale",
+        "pealpool",
+        "nihkuma",
+        "kõrgemale",
+        "ettepoole",
+        "kuhugipoole",
+        "sissepoole",
+        "sinnapoole"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "allapoole",
+      "translations": [
+        "downward",
+        "downwards"
+      ]
+    }
+  ]
+}

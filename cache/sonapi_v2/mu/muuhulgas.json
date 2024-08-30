@@ -1,0 +1,167 @@
+{
+  "requestedWord": "muuhulgas",
+  "estonianWord": "muuhulgas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "muuhulgas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(osutab, et midagi mainitakse kõrvalepõikena, vahemärkusena),kasuta siis, kui tahad öelda midagi, mis pole eelmise teemaga seotud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Küsisin muuhulgas, kas me tohime lifti kasutada.",
+            "Olgu muuhulgas öeldud, et .."
+          ],
+          "synonyms": [
+            "muide",
+            "muuseas",
+            "ms",
+            "mh",
+            "muu seas"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "d'ailleurs",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "кстати",
+                "weight": 1
+              },
+              {
+                "words": "впрочем",
+                "weight": 1
+              },
+              {
+                "words": "между прочим",
+                "weight": 1
+              },
+              {
+                "words": "к слову сказать",
+                "weight": 1
+              },
+              {
+                "words": "к слову молвить",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до речі",
+                "weight": 1
+              },
+              {
+                "words": "між іншим",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ühena paljude asjade seas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Müüki alustame kohe, sest muuhulgas tuleb vara rendipindadelt ära viia.",
+            "ID-kaardi lugejaga saab muuhulgas kontrollida oma pensionikonto andmeid."
+          ],
+          "synonyms": [
+            "muu hulgas",
+            "mh"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "между прочим",
+                "weight": 1
+              },
+              {
+                "words": "вскользь",
+                "weight": 1
+              },
+              {
+                "words": "мимоходом",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "à propos",
+        "muide",
+        "muuseas",
+        "eeskätt",
+        "ning",
+        "peamiselt",
+        "tõepoolest",
+        "esmakordselt",
+        "peaasjalikult",
+        "kindlasti",
+        "ulatuslikult",
+        "sageli",
+        "siiski",
+        "aga",
+        "aga",
+        "põhiliselt",
+        "ilmselt",
+        "muidugi",
+        "eelkõige",
+        "hulgaliselt",
+        "kujukalt",
+        "loomulikult",
+        "tohutult",
+        "samuti",
+        "palju",
+        "palju",
+        "võikalt",
+        "ühtlasi",
+        "kus",
+        "tihti",
+        "sealhulgas",
+        "näiteks",
+        "seejuures",
+        "arvukalt",
+        "lisaks",
+        "hulgas",
+        "väga",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "muuhulgas",
+      "translations": [
+        "among other things",
+        "for one",
+        "for one thing",
+        "inter alia"
+      ]
+    }
+  ]
+}

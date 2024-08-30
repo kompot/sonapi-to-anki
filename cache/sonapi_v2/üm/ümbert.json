@@ -1,0 +1,127 @@
+{
+  "requestedWord": "ümbert",
+  "estonianWord": "ümbert",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ümbert"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(kätega) midagi või kedagi ümbritsema või ümbritsemas,ümberringi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Noored hoidsid teineteise ümbert kinni.",
+            "Laps haaras emal ümbert kaela kinni.",
+            "Tamm on nii jäme, et isegi kolm meest ei ulatu tal ümbert kinni võtma."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "osutab midagi või kedagi ümbritsevale alale",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Vahelagi süttis korstna ümbert."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вокруг",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "midagi või kedagi ümbritsemast ära",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Hammas lagunes plommi ümbert ära.",
+            "Rebis pakil paberi ümbert."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "kaarega liikumisega mööda, ringina teisele poole",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Suurtest lompidest tuli ümbert minna."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вокруг",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lambert",
+        "ümbertringi",
+        "seest",
+        "tihkelt",
+        "liigliha",
+        "ära",
+        "ära"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ümbert",
+      "translations": []
+    }
+  ]
+}

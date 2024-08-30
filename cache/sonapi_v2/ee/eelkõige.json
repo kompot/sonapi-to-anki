@@ -1,0 +1,212 @@
+{
+  "requestedWord": "eelkõige",
+  "estonianWord": "eelkõige",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eelkõige"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(sisuliselt, tähtsuselt) esimese asjana, enne muud, eriliselt (just),toob esile kõige tähtsama: peamiselt, eriti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Woolf oli eelkõige romaanikirjanik.",
+            "Lavastus on mõeldud eelkõige lastele.",
+            "Jurist peab olema eelkõige aus."
+          ],
+          "synonyms": [
+            "eeskätt",
+            "eestkätt",
+            "ennekõike",
+            "esijoones",
+            "esmajoones",
+            "ennekõige",
+            "esmajärjekorras",
+            "peaasjalikult,peamiselt,pms,põhiliselt,põhimiselt",
+            "eriti,iseäranis,eri"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "first and foremost",
+                "weight": 1
+              },
+              {
+                "words": "especially",
+                "weight": 0.768
+              }
+            ],
+            "fra": [
+              {
+                "words": "surtout",
+                "weight": 1
+              },
+              {
+                "words": "principalement",
+                "weight": 1
+              },
+              {
+                "words": "avant tout",
+                "weight": 1
+              },
+              {
+                "words": "principalement",
+                "weight": 0.7897
+              },
+              {
+                "words": "surtout",
+                "weight": 0.768
+              }
+            ],
+            "rus": [
+              {
+                "words": "прежде всего",
+                "weight": 1
+              },
+              {
+                "words": "в первую очередь",
+                "weight": 1
+              },
+              {
+                "words": "главным образом",
+                "weight": 1
+              },
+              {
+                "words": "преимущественно",
+                "weight": 1
+              },
+              {
+                "words": "по преимуществу",
+                "weight": 1
+              },
+              {
+                "words": "первым делом",
+                "weight": 1
+              },
+              {
+                "words": "первым долгом",
+                "weight": 1
+              },
+              {
+                "words": "перво-наперво",
+                "weight": 1
+              },
+              {
+                "words": "в первую очередь,первым делом,первым долгом",
+                "weight": 0.9
+              },
+              {
+                "words": "в основном,прежде всего,главным образом,преимущественно,по преимуществу,коренным образом,в осн.",
+                "weight": 0.7897
+              },
+              {
+                "words": "особо,в особенности,наипаче,особенно,в частности",
+                "weight": 0.768
+              }
+            ],
+            "ukr": [
+              {
+                "words": "насамперед",
+                "weight": 1
+              },
+              {
+                "words": "передусім",
+                "weight": 1
+              },
+              {
+                "words": "найперше",
+                "weight": 1
+              },
+              {
+                "words": "перш за все",
+                "weight": 1
+              },
+              {
+                "words": "переважно,в основному,здебільшого,головним чином,головно",
+                "weight": 0.7897
+              },
+              {
+                "words": "особливо,зокрема",
+                "weight": 0.768
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "esmalt",
+        "põhimiselt",
+        "eeskätt",
+        "ennekõike",
+        "põhiliselt",
+        "peamiselt",
+        "esmajärjekorras",
+        "eriti",
+        "esmajoones",
+        "enamasti",
+        "kõige enam",
+        "peaasjalikult",
+        "kõigepealt",
+        "esijoones",
+        "esiteks",
+        "alguseks",
+        "üksnes",
+        "hoopis",
+        "kindlasti",
+        "siiski",
+        "ilmselt",
+        "jätkuvalt",
+        "otseselt",
+        "pigem",
+        "seetõttu",
+        "mitte",
+        "mitte",
+        "tuntud",
+        "samuti",
+        "oluliselt",
+        "ikkagi",
+        "tihti",
+        "muuhulgas",
+        "paljuski",
+        "suuresti",
+        "enim",
+        "enim",
+        "just",
+        "ainult",
+        "suureliselt",
+        "üldiselt",
+        "valdavalt",
+        "niivõrd",
+        "väga",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "eelkõige",
+      "translations": [
+        "above all",
+        "first and foremost",
+        "first of all",
+        "foremost"
+      ]
+    }
+  ]
+}

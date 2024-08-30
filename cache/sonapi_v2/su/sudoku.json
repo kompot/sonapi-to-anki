@@ -1,0 +1,456 @@
+{
+  "requestedWord": "sudoku",
+  "estonianWord": "sudoku",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "1",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "sudoku"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "sudoku"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "sudokut"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "sudokusse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "sudokus"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "sudokust"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "sudokule"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "sudokul"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "sudokult"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "sudokuks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "sudokuni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "sudokuna"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "sudokuta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "sudokuga"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "sudokud"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "sudokute"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "sudokuid"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "sudokutesse,sudokuisse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "sudokutes,sudokuis"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "sudokutest,sudokuist"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "sudokutele,sudokuile"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "sudokutel,sudokuil"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "sudokutelt,sudokuilt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "sudokuiks,sudokuteks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "sudokuteni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "sudokutena"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "sudokuteta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "sudokutega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "loogikale tuginev Jaapani päritolu numbrimäng",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kerge sudoku.",
+            "Raske sudoku."
+          ],
+          "synonyms": [
+            "sūdoku"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "судоку",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(keerulise, aega ja mõistatamist nõudva olukorra kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Sõbrale uuselamurajooni küllaminek võib olla paras sudoku."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "головоломка",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ristsõna",
+        "matemaatikaülesanne",
+        "lahendamine"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "01",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "sūdoku"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "sūdoku"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "sūdoku't"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "sūdoku"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "sūdoku'sse"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "sūdoku's"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "sūdoku'st"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "sūdoku'le"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "sūdoku'l"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "sūdoku'lt"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "sūdoku'ks"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "sūdoku'ni"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "sūdoku'na"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "sūdoku'ta"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "sūdoku'ga"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "sūdoku'd"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "sūdoku'te"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "sūdoku'id"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "sūdoku'tesse,sūdoku'isse"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "sūdoku'tes,sūdoku'is"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "sūdoku'test,sūdoku'ist"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "sūdoku'tele,sūdoku'ile"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "sūdoku'tel,sūdoku'il"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "sūdoku'telt,sūdoku'ilt"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "sūdoku'teks,sūdoku'iks"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "sūdoku'teni"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "sūdoku'tena"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "sūdoku'teta"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "sūdoku'tega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "loogikale tuginev Jaapani päritolu numbrimäng",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Lahendasime <eki-foreign>sūdoku</eki-foreign>'t ja tekstülesandeid."
+          ],
+          "synonyms": [
+            "sudoku"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "судоку",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sudoku",
+      "translations": [
+        "sudoku (teat loogiline mõistatusülesanne)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "requestedWord": "käest",
+  "estonianWord": "käest",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "käest"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi valdusest, omandusest, kasutusest (ära),valdusest, kasutusest (ära)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Kartsin, et meil võetakse auto käest.",
+            "Pärast lahutust läks maja mehe käest naise kätte.",
+            "Võit libises käest.",
+            "Pärast lahutust pidi mees maja käest ära andma."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "из рук",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              },
+              {
+                "words": "от",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з рук",
+                "weight": 1
+              },
+              {
+                "words": "від",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingi otstarbega seotult ära kadumas, (liiga kiiresti) otsa lõppemas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Aeg kaob käest."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "mingist allikast, kelleltki, mingist lähtekohast,osutab isikule, kellelt keegi midagi küsib, palub või saab",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Käsk tuli ülemuse käest.",
+            "Küsi arsti käest nõu.",
+            "Sai koerte käest pureda.",
+            "Ajaleht palus lugejate käest vabandust.",
+            "Küsi arsti käest nõu.",
+            "Laenasin sõbra käest raha.",
+            "Võtme saad valvuri käest."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "от",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              },
+              {
+                "words": "від",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingist seisukorrast (ära), kellegi või millegi mõju alt, meelevallast,kehvast olukorrast või mingi mõju alt (ära)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Arstidel õnnestus haige surma käest päästa.",
+            "Läksin kõrvetava kuumuse käest varju.",
+            "Minu käest ei ole sul pääsu.",
+            "Kass pääses koerte käest.",
+            "Läksime päikese käest varju."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "от",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "від",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "maha pillama",
+        "pillama",
+        "maha",
+        "kätte",
+        "käes",
+        "otsaette",
+        "najalt",
+        "ära",
+        "ära",
+        "volilt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "käest",
+      "translations": []
+    }
+  ]
+}

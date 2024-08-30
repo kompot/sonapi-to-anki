@@ -1,0 +1,63 @@
+{
+  "requestedWord": "sõnutsi",
+  "estonianWord": "sõnutsi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sõnutsi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nii, nagu keegi ütleb, kellegi sõnul",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Oma sõnutsi ei oska ta pealinnas iseseisvalt liikudagi.",
+            "Reinu sõnutsi on seal mõnus boheemlik õhkkond."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "со слов",
+                "weight": 1
+              },
+              {
+                "words": "по словам",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "väitel",
+        "arvates",
+        "juhataja",
+        "mahitusel",
+        "sõnuti",
+        "sõnul"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sõnutsi",
+      "translations": []
+    }
+  ]
+}

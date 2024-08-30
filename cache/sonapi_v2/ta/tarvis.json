@@ -1,0 +1,141 @@
+{
+  "requestedWord": "tarvis",
+  "estonianWord": "tarvis",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tarvis"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab, kelle või mille huvides, kasuks, vajaduseks midagi tehakse, mis otstarbel miski toimub või on olemas,osutab, kelle või mille huvides või kasuks midagi tehakse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Laulupeo tarvis kirjutatud kantaat.",
+            "Kuvöös enneaegsete laste tarvis."
+          ],
+          "synonyms": [
+            "jaoks",
+            "tarbeks"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "pour",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "для",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "для",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "näitab vajadust millegi järele, osutab, et midagi või kedagi (puudu olevat) soovitakse kasutusele võtta, käiku rakendada,näitab vajadust kellegi või millegi järele või vajadust midagi teha",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sõnumist arusaamiseks on tarvis tunda ühist kultuurikonteksti.",
+            "Kui lillevarred venivad, läheb tarvis tugikeppe.",
+            "Advokaati pole mul seni tarvis tulnud.",
+            "Mul on tarvis täna varem ära minna.",
+            "Õpi inglise keel selgeks, seda läheb sul hiljem tarvis."
+          ],
+          "synonyms": [
+            "vaja"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "нужно",
+                "weight": 1
+              },
+              {
+                "words": "необходимо",
+                "weight": 1
+              },
+              {
+                "words": "надо",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "треба",
+                "weight": 1
+              },
+              {
+                "words": "потрібно",
+                "weight": 1
+              },
+              {
+                "words": "необхідно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jätku leivale",
+        "tervist",
+        "kasuks",
+        "jätku tarvis",
+        "tere",
+        "tere",
+        "terekest",
+        "tervitus",
+        "jaoks",
+        "servus",
+        "jätku leiba",
+        "tarbeks",
+        "pärast",
+        "heaks",
+        "tarvilikult",
+        "mistarvis",
+        "tarvidus",
+        "vaja",
+        "vajalik",
+        "võimalik",
+        "tarviline",
+        "vajalikult",
+        "seetarvis",
+        "üldse"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tarvis",
+      "translations": []
+    }
+  ]
+}

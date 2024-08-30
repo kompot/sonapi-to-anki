@@ -1,0 +1,155 @@
+{
+  "requestedWord": "kuis",
+  "estonianWord": "kuis",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kuis"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "esineb millegi toimumise viisi, olukorra vms täpsustamisel otseses või kaudselt väljendatud küsimuses ning täpsustava lauseosa alguses,mis moel, mis viisil",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kuis läheb?",
+            "Kuis nii?",
+            "Omaette küsimus on, kuis seda kõike tõlgendada.",
+            "Vaadaku ise, kuis hakkama saavad."
+          ],
+          "synonyms": [
+            "kuidas",
+            "kuda",
+            "mis moel,mil viisil,kuidasmoodi,mismoodi,mispidi,mil moel,mis viisil,mil kombel,mis kombel,kuidamoodi,kuidaviisi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "comment",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "как",
+                "weight": 1
+              },
+              {
+                "words": "каким образом,как,как именно,каким путём",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "як",
+                "weight": 1
+              },
+              {
+                "words": "як,яким чином,яким побитом",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(nii) nagu, (selliselt) nagu,(niimoodi) nagu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Teen, kuis jõuan. ",
+            "Pingutasin kuis jaksasin.",
+            "Ta valetab kuis oskab."
+          ],
+          "synonyms": [
+            "kuidas"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "comme",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "как",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "як",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tunde, olukorra vm intensiivsuse kohta): kui väga",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Oo, kuis seal kõik lõhnas!"
+          ],
+          "synonyms": [
+            "kuidas"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "как",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kuipalju",
+        "kuidas",
+        "mismoodi",
+        "kuidasmoodi",
+        "niipalju kui",
+        "kui",
+        "kui",
+        "kuivõrd",
+        "niivõrd kui",
+        "säält",
+        "sihukene",
+        "nigu",
+        "nõnna",
+        "sääl",
+        "õkva",
+        "tuust"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kuis",
+      "translations": []
+    }
+  ]
+}

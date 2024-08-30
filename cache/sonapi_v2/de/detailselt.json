@@ -1,0 +1,123 @@
+{
+  "requestedWord": "detailselt",
+  "estonianWord": "detailselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "detailselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "väga täpselt, põhjalikult, peensusteni, üksikasjades",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta ei suutnud juhtunut detailselt kirjeldada."
+          ],
+          "synonyms": [
+            "üksikasjalikult",
+            "üksikasjaliselt",
+            "ammendavalt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "en détail",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "подробно",
+                "weight": 1
+              },
+              {
+                "words": "основательно",
+                "weight": 1
+              },
+              {
+                "words": "детально",
+                "weight": 1
+              },
+              {
+                "words": "обстоятельно",
+                "weight": 1
+              },
+              {
+                "words": "исчерпывающе",
+                "weight": 1
+              },
+              {
+                "words": "досконально",
+                "weight": 1
+              },
+              {
+                "words": "исчерпывающе,подробно,всесторонне,полностью",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ammendavalt",
+        "üksikasjaliselt",
+        "jalg-jalalt",
+        "risti-rästi",
+        "sügavuti",
+        "risti ja põiki",
+        "peenelt",
+        "risti-põiki",
+        "pulk-pulgalt",
+        "radikaalselt",
+        "risti ja rästi",
+        "näpp-näpult",
+        "süviti",
+        "pulkhaaval",
+        "kardinaalselt",
+        "üksipulgi",
+        "täht-tähelt",
+        "põhjalikult",
+        "igakülgselt",
+        "punkt-punktilt",
+        "sügavalt",
+        "süvitsi",
+        "sügavasti",
+        "rida-realt",
+        "üksikasjalikult",
+        "punkthaaval",
+        "korrektselt",
+        "huvitavalt",
+        "keerukalt",
+        "arusaadavalt",
+        "täpselt",
+        "detailsus",
+        "värvikalt",
+        "näitlikult",
+        "võimalikult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "detailselt",
+      "translations": [
+        "intricately"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "requestedWord": "käendaja",
+  "estonianWord": "käendaja",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "1",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "käendaja"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "käendaja"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "käendajat"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "käendajasse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "käendajas"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "käendajast"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "käendajale"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "käendajal"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "käendajalt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "käendajaks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "käendajani"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "käendajana"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "käendajata"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "käendajaga"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "käendajad"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "käendajate"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "käendajaid"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "käendajatesse,käendajaisse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "käendajates,käendajais"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "käendajatest,käendajaist"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "käendajatele,käendajaile"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "käendajatel,käendajail"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "käendajatelt,käendajailt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "käendajateks,käendajaiks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "käendajateni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "käendajatena"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "käendajateta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "käendajatega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi kohustusi tagav isik, käenduse andja",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kiirlaenu saab ilma käendajata."
+          ],
+          "synonyms": [
+            "käemees",
+            "käsinik"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "поручитель",
+                "weight": 1
+              },
+              {
+                "words": "поручительница",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "käsinik",
+        "käemees",
+        "garant",
+        "tagaja",
+        "võlausaldaja",
+        "laenusaaja",
+        "pantija",
+        "hüpoteegipidaja",
+        "käendus",
+        "laenuvõtja"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "käendaja",
+      "translations": [
+        "bondsman",
+        "guarantor",
+        "surety",
+        "underwriter"
+      ]
+    }
+  ]
+}

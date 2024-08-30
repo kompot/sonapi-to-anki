@@ -1,0 +1,431 @@
+{
+  "requestedWord": "järk",
+  "estonianWord": "järk",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "järk"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "järgu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "järku"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "järku"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "järgusse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "järgus"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "järgust"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "järgule"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "järgul"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "järgult"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "järguks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "järguni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "järguna"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "järguta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "järguga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "järgud"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "järkude"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "järke,järkusid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "järkudesse,järgesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "järkudes,järges"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "järkudest,järgest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "järkudele,järgele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "järkudel,järgel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "järkudelt,järgelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "järkudeks,järgeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "järkudeni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "järkudena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "järkudeta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "järkudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teatav (järjestikune) osa mingis süsteemis või protsessis",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Praegu on kõik läbirääkimiste järgus.",
+            "Raseduse viimane järk.",
+            "Haiguse peiteline järk pärast nakatumist kestab 1 nädala.",
+            "Haigla esimese järgu ehitus.",
+            "Riigivapi II järgu teenetemärk.",
+            "Arengujärk.",
+            "Valmimisjärk.",
+            "Kujunemisjärk."
+          ],
+          "synonyms": [
+            "tase,aste",
+            "voor,ring",
+            "faas",
+            "etapp",
+            "staadium",
+            "punkt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "этап",
+                "weight": 1
+              },
+              {
+                "words": "стадия",
+                "weight": 1
+              },
+              {
+                "words": "фаза",
+                "weight": 1
+              },
+              {
+                "words": "уровень,степень,ступень",
+                "weight": 0.9
+              },
+              {
+                "words": "раунд,тур,круг",
+                "weight": 0.7
+              },
+              {
+                "words": "фазис,фаза",
+                "weight": 0.7
+              },
+              {
+                "words": "этап",
+                "weight": 0.7557
+              },
+              {
+                "words": "стадия",
+                "weight": 0.9
+              },
+              {
+                "words": "пункт,точка",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "niveau,degré",
+                "weight": 0.9
+              },
+              {
+                "words": "tour",
+                "weight": 0.7
+              },
+              {
+                "words": "étape",
+                "weight": 0.7557
+              }
+            ],
+            "ukr": [
+              {
+                "words": "рівень,ступінь",
+                "weight": 0.9
+              },
+              {
+                "words": "раунд,тур",
+                "weight": 0.7
+              },
+              {
+                "words": "фаза",
+                "weight": 0.7
+              },
+              {
+                "words": "етап",
+                "weight": 0.7557
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teatav (nõutud, väljateenitud) kvalifikatsioon või hinnang (nt auaste)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Vanemõpetaja järk.",
+            "Filmis mängivad Hiina esimese järgu staarid."
+          ],
+          "synonyms": [
+            "sort",
+            "sort",
+            "kategooria",
+            "klass",
+            "kvalifikatsioon"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "категория",
+                "weight": 1
+              },
+              {
+                "words": "степень",
+                "weight": 1
+              },
+              {
+                "words": "ранг",
+                "weight": 1
+              },
+              {
+                "words": "разряд",
+                "weight": 1
+              },
+              {
+                "words": "сорт",
+                "weight": 0.7
+              },
+              {
+                "words": "разряд,категория",
+                "weight": 0.9
+              },
+              {
+                "words": "класс",
+                "weight": 0.9
+              },
+              {
+                "words": "квалификация",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "catégorie,qualité",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "сорт,ґатунок",
+                "weight": 0.7
+              },
+              {
+                "words": "категорія,розряд",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "üleminekujärk",
+        "vanusejärk",
+        "valmimisjärk",
+        "vaibejärk",
+        "tariifijärk",
+        "suurusjärk",
+        "saamisjärk",
+        "röövikujärk",
+        "peitejärk",
+        "oskusjärk",
+        "nukujärk",
+        "noortejärk",
+        "murrangujärk",
+        "meistrijärk",
+        "loomisjärk",
+        "küpsusjärk",
+        "kvalifikatsioonijärk",
+        "kujunemisjärk",
+        "kasvujärk",
+        "ettevalmistusjärk",
+        "algusjärk",
+        "ajajärk",
+        "kvalifikatsioon",
+        "sort",
+        "faas",
+        "voor",
+        "kriitiline punkt",
+        "vahelüli",
+        "vaheetapp",
+        "klass",
+        "kategooria",
+        "etapp",
+        "staadium",
+        "punkt",
+        "aste",
+        "ametiaste",
+        "määr",
+        "tase",
+        "liik",
+        "aukraad",
+        "ajavahemik",
+        "algjärk",
+        "noorjärk",
+        "kõrgusjärk",
+        "algfaas",
+        "ehitusjärk",
+        "ladejärk",
+        "ametijärk",
+        "vastsejärk",
+        "lõppjärk",
+        "arengujärk",
+        "spordijärk",
+        "elujärk",
+        "aste",
+        "punkt",
+        "liik",
+        "kuupvõrrand",
+        "nullkoht",
+        "juurvõrrand"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "järk",
+      "translations": [
+        "rank"
+      ]
+    }
+  ]
+}

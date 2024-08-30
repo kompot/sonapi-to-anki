@@ -1,0 +1,322 @@
+{
+  "requestedWord": "oja",
+  "estonianWord": "oja",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "oja"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "oja"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "oja"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "ojja"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "ojasse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "ojas"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "ojast"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "ojale"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "ojal"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "ojalt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "ojaks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "ojani"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "ojana"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "ojata"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "ojaga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "ojad"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "ojade"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "ojasid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "ojadesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "ojades"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "ojadest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "ojadele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "ojadel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "ojadelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "ojadeks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "ojadeni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "ojadena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "ojadeta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "ojadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "jõest väiksem voolava veega veekogu,väike kitsas jõgi",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Järvest välja viiva oja kaldale on ehitatud väike vesiveski.",
+            "Oja voolab järve."
+          ],
+          "synonyms": [
+            "nire",
+            "ojanire",
+            "j,jõgi"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "stream",
+                "weight": 1
+              },
+              {
+                "words": "river",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "ruisseau",
+                "weight": 1
+              },
+              {
+                "words": "rivière,fleuve",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "ручей",
+                "weight": 1
+              },
+              {
+                "words": "ручей,ручеёк",
+                "weight": 0.9
+              },
+              {
+                "words": "ручеёк,мелкий ручей",
+                "weight": 0.9
+              },
+              {
+                "words": "река,речка",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "струмок",
+                "weight": 1
+              },
+              {
+                "words": "потік",
+                "weight": 1
+              },
+              {
+                "words": "річка,ріка",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kindla sängita ajutine veevool,vee vm vedeliku nire",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Sadas nõnda palju, et raeplatsile tekkisid ojad.",
+            "Vihmapiiskade ojad aknal.",
+            "Soe veri nirises ojana haavast."
+          ],
+          "synonyms": [
+            "nire,nõre"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ручей",
+                "weight": 1
+              },
+              {
+                "words": "струя,струйка",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "umboja",
+        "salaoja",
+        "rabaoja",
+        "mägioja",
+        "mäestikuoja",
+        "jõgi",
+        "ojanire",
+        "soon",
+        "nire",
+        "konnaoja",
+        "ojatire",
+        "torukraav",
+        "peakraav",
+        "allikaoja",
+        "kraav",
+        "ojasäng",
+        "soonik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "oja",
+      "translations": [
+        "brook",
+        "creek",
+        "ditch",
+        "ria"
+      ]
+    }
+  ]
+}

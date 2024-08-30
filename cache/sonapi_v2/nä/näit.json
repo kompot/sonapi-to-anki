@@ -1,0 +1,287 @@
+{
+  "requestedWord": "näit",
+  "estonianWord": "näit",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "näit"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "näidu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "näitu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "näitu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "näidusse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "näidus"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "näidust"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "näidule"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "näidul"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "näidult"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "näiduks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "näiduni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "näiduna"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "näiduta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "näiduga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "näidud"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "näitude"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "näite,näitusid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "näitudesse,näidesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "näitudes,näides"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "näitudest,näidest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "näitudele,näidele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "näitudel,näidel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "näitudelt,näidelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "näitudeks,näideks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "näitudeni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "näitudena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "näitudeta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "näitudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingi suuruse arvulise väärtuse esitus mõõteriista ekraanil, näidikul vm,vastav arvuline väärtus,aparaadil olevad numbrid, mis näitavad, kui palju midagi (näiteks vett või elektrit) on kulunud",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Elektriarvesti näit.",
+            "Tervel inimesel jääb veresuhkru näit 3,3 ja 5,5 vahele."
+          ],
+          "synonyms": [
+            "näitarv",
+            "indikaator",
+            "numbernäit,numbrinäit",
+            "parameeter"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "indication",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "показатель",
+                "weight": 1
+              },
+              {
+                "words": "показание",
+                "weight": 1
+              },
+              {
+                "words": "измеритель,показатель",
+                "weight": 0.9
+              },
+              {
+                "words": "индикатор",
+                "weight": 0.75
+              },
+              {
+                "words": "цифровой показатель",
+                "weight": 0.7
+              },
+              {
+                "words": "параметр",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "показання",
+                "weight": 1
+              },
+              {
+                "words": "індикатор",
+                "weight": 0.75
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "karakteristik",
+        "mõõdik",
+        "osuti",
+        "näitarv",
+        "näitur",
+        "näidik",
+        "indikaator",
+        "indeks",
+        "näitaja",
+        "viit",
+        "numbernäit",
+        "leekpunkt",
+        "monoodia",
+        "vereanalüüs",
+        "temperatuur",
+        "õhutemperatuur",
+        "numbrinäit",
+        "voodialune",
+        "prosoodia",
+        "kehatemperatuur",
+        "netokaal",
+        "vereproov",
+        "veresuhkur"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "näit",
+      "translations": [
+        "indication"
+      ]
+    }
+  ]
+}

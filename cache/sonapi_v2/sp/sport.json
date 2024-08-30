@@ -1,0 +1,475 @@
+{
+  "requestedWord": "sport",
+  "estonianWord": "sport",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "sport"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "spordi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "sporti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "sporti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "spordisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "spordis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "spordist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "spordile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "spordil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "spordilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "spordiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "spordini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "spordina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "spordita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "spordiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "spordid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "sportide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "sporte,sportisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "sportidesse,spordesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "sportides,spordes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "sportidest,spordest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "sportidele,spordele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "sportidel,spordel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "sportidelt,spordelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "sportideks,spordeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "sportideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "sportidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "sportideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "sportidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "füüsilist pingutust nõudev mänguline või võistluslik kehaline tegevus, sportimine,tegevus, mis nõuab füüsilist pingutust ja milles võisteldakse",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Armastan sporti.",
+            "Mõõdukas sport tuleb alati kasuks.",
+            "Suurt sporti ei tehta igavesti.",
+            "Noortesport.",
+            "Koolisport.",
+            "Üliõpilassport.",
+            "Tegelesin spordiga juba põhikoolis."
+          ],
+          "synonyms": [
+            "sportimine",
+            "sporditegevus"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "sport",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "спорт",
+                "weight": 1
+              },
+              {
+                "words": "занятие спортом",
+                "weight": 0.594
+              },
+              {
+                "words": "спортивная деятельность,деятельность в области спорта",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "спорт",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "spordiala,spordiala",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kõige odavam sport olevat kabe.",
+            "Maadlussport.",
+            "Mootorrattasport."
+          ],
+          "synonyms": [
+            "ala",
+            "spordiala"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "discipline",
+                "weight": 1
+              },
+              {
+                "words": "sport,discipline",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "спорт",
+                "weight": 1
+              },
+              {
+                "words": "вид спорта",
+                "weight": 1
+              },
+              {
+                "words": "вид спорта",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "спорт",
+                "weight": 1
+              },
+              {
+                "words": "вид спорту",
+                "weight": 1
+              },
+              {
+                "words": "вид спорту",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "äärmussport",
+        "õngesport",
+        "võitlussport",
+        "vehklemissport",
+        "veesport",
+        "veemotosport",
+        "veemootorisport",
+        "ultrasport",
+        "ujumissport",
+        "töölissport",
+        "tänavasport",
+        "tõstesport",
+        "tuletõrjesport",
+        "tugitoolisport",
+        "traavisport",
+        "tervisesport",
+        "tegevsport",
+        "tantsusport",
+        "sõudesport",
+        "suusahüppesport",
+        "suur sport",
+        "spinningusport",
+        "seiklussport",
+        "seeniorsport",
+        "saavutussport",
+        "rekordisport",
+        "rallisport",
+        "rakendisport",
+        "raiesport",
+        "purjesport",
+        "purilennusport",
+        "puhas sport",
+        "parasport",
+        "orienteerumissport",
+        "mõttesport",
+        "mudellennusport",
+        "mudelisport",
+        "mootorisport",
+        "matkasport",
+        "massisport",
+        "malesport",
+        "maadlussport",
+        "lennusport",
+        "laskesport",
+        "langevarjusport",
+        "koolisport",
+        "koerasport",
+        "kelgusport",
+        "kardisport",
+        "kalasport",
+        "jääsport",
+        "jahisport",
+        "invasport",
+        "ekstreemsport",
+        "amatöörsport",
+        "ajusport",
+        "sporditegevus",
+        "e-sport",
+        "jalgrattasport",
+        "suusasport",
+        "rattasport",
+        "harrastussport",
+        "vibusport",
+        "motosport",
+        "sportkeegel",
+        "ratsasport",
+        "profisport",
+        "uisusport",
+        "võistlussport",
+        "rahvasport",
+        "mootorrattasport",
+        "sportimine",
+        "tippsport",
+        "talisport",
+        "tehnikasport",
+        "autosport"
+      ]
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "sportliku tegevuse liik, kus võisteldakse kindlate reeglite järgi (nt jalgpall, ujumine, tennis),sportliku tegevuse liik, näiteks jalgpall, ujumine, tennis",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "spordiala",
+            "ala,sport"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "discipline",
+                "weight": 1
+              },
+              {
+                "words": "discipline",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "вид спорта",
+                "weight": 1
+              },
+              {
+                "words": "спорт,вид спорта",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вид спорту",
+                "weight": 1
+              },
+              {
+                "words": "спорт,вид спорту",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "füüsilist pingutust nõudev mänguline või võistluslik kehaline tegevus, sportimine,tegevus, mis nõuab füüsilist pingutust ja milles võisteldakse",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "sport",
+            "sportimine",
+            "sporditegevus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "спорт",
+                "weight": 1
+              },
+              {
+                "words": "занятие спортом",
+                "weight": 0.594
+              },
+              {
+                "words": "спортивная деятельность,деятельность в области спорта",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "спорт",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sport",
+      "translations": [
+        "sport"
+      ]
+    }
+  ]
+}

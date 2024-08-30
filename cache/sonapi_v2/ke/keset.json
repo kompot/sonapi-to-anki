@@ -1,0 +1,155 @@
+{
+  "requestedWord": "keset",
+  "estonianWord": "keset",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "keset"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi keskosas, keskpunktis või keskel,mingi koha keskmises osas",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Keset tuba oli suur laud.",
+            "Kõndisime keset teed.",
+            "Ujuja oli jõudnud juba keset jõge.",
+            "Tundis end keset rahvamurdu väga üksildasena.",
+            "Kaubamaja asub keset linna.",
+            "Ära kõnni keset teed!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "au milieu de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "посреди",
+                "weight": 1
+              },
+              {
+                "words": "посередине",
+                "weight": 1
+              },
+              {
+                "words": "посредине",
+                "weight": 1
+              },
+              {
+                "words": "в центре",
+                "weight": 1
+              },
+              {
+                "words": "среди",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "посередині",
+                "weight": 1
+              },
+              {
+                "words": "серед",
+                "weight": 1
+              },
+              {
+                "words": "посеред",
+                "weight": 1
+              },
+              {
+                "words": "в середині",
+                "weight": 1
+              },
+              {
+                "words": "в центрі",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi toimumise keskpaiku, kestes või ajal,mingi ajavahemiku keskmises osas, millegi ajal",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Ma ei taha sind tülitada keset kõige kibedamat tööaega.",
+            "Keset vaikust kostsid selgesti kellegi sammud.",
+            "Keset koosolekut helises telefon.",
+            "Ärkasin keset ööd."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "au milieu de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "посреди",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "посередині",
+                "weight": 1
+              },
+              {
+                "words": "серед",
+                "weight": 1
+              },
+              {
+                "words": "посеред",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kesk",
+        "kesk",
+        "ajaliselt",
+        "keskel",
+        "keskpaiku",
+        "teispool"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "keset",
+      "translations": [
+        "amid",
+        "amid-",
+        "amidst"
+      ]
+    }
+  ]
+}

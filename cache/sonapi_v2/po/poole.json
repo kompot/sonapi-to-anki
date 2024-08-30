@@ -1,0 +1,677 @@
+{
+  "requestedWord": "poole",
+  "estonianWord": "poole",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "poole"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingisse suunda või kohta,mingis suunas, mingisse kohta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Aknad on tänava poole.",
+            "Auto kaldus paremale poole.",
+            "Rahvas taandus kahele poole.",
+            "Kutsed saadeti mitmele poole.",
+            "Tüdruk jooksis teisele poole teed.",
+            "Auto pööras vasakule poole.",
+            "Tartu jääb Tallinnast lõuna poole.",
+            "Poiss vaatas tüdruku poole."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "vers",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в сторону",
+                "weight": 1
+              },
+              {
+                "words": "по направлению к",
+                "weight": 1
+              },
+              {
+                "words": "в направлении к",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на",
+                "weight": 1
+              },
+              {
+                "words": "у напрямі до",
+                "weight": 1
+              },
+              {
+                "words": "у напрямку до",
+                "weight": 1
+              },
+              {
+                "words": "у бік",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajalise suuna väljendamisel)",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Jälle üks päev surma poole.",
+            "Uinus alles hommiku poole ööd."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "под",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi juurde (elu‑, asu‑ või töökohta),kellegi juurde, tavaliselt kellegi elukohta",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Ootan sind homme enda poole.",
+            "Jäin ööseks sõbranna poole."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "chez",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "к",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kasutatakse pöördumise adressaadi väljendamisel",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Pöördus oma küsimusega konsultandi poole."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "kasutatakse kellegi või millegi toetamise või pooldamise väljendamisel",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Tütar hoidis ema poole.",
+            "Jooksis vaenlase poole üle."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "hulga",
+        "hoopiski",
+        "silmapaistvalt",
+        "tublisti",
+        "tükkis",
+        "tükkis",
+        "hoopistükkis",
+        "suunas",
+        "oluliselt",
+        "hoopis",
+        "silmnähtavalt",
+        "palju",
+        "palju",
+        "tajutavalt",
+        "tuntavalt",
+        "märgatavalt",
+        "tükk maad",
+        "märksa",
+        "kaugelt",
+        "tunduvalt",
+        "tulema",
+        "tulema",
+        "tulema",
+        "peale",
+        "kallale",
+        "kõndima",
+        "sammuma",
+        "läbi",
+        "otsa",
+        "pool",
+        "pool",
+        "pealt",
+        "kokkupoole",
+        "pealepoole",
+        "kuhupoole",
+        "kuhugipoole",
+        "siiapoole"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "5",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "poole"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "poolme"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "poolet"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "poolmesse"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "poolmes"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "poolmest"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "poolmele"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "poolmel"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "poolmelt"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "poolmeks"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "poolmeni"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "poolmena"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "poolmeta"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "poolmega"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "poolmed"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "poolmete"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "poolmeid"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "poolmetesse,poolmeisse"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "poolmetes,poolmeis"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "poolmetest,poolmeist"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "poolmetele,poolmeile"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "poolmetel,poolmeil"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "poolmetelt,poolmeilt"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "poolmeteks,poolmeiks"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "poolmeteni"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "poolmetena"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "poolmeteta"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "poolmetega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "üks kokkukäivatest pooltest",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Hernekauna poolmed."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "створка",
+                "weight": 1
+              },
+              {
+                "words": "половинка",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "poolik",
+        "hulga",
+        "tükkis",
+        "tükkis",
+        "palju",
+        "palju",
+        "peale",
+        "otsa",
+        "pool",
+        "pool",
+        "hoopiski",
+        "silmapaistvalt",
+        "tublisti",
+        "hoopistükkis",
+        "suunas",
+        "oluliselt",
+        "silmnähtavalt",
+        "hoopis",
+        "tajutavalt",
+        "tuntavalt",
+        "märgatavalt",
+        "tükk maad",
+        "kaugelt",
+        "märksa",
+        "tunduvalt",
+        "tulema",
+        "tulema",
+        "tulema",
+        "kallale",
+        "kõndima",
+        "sammuma",
+        "läbi",
+        "pealt",
+        "kokkupoole",
+        "kuhupoole",
+        "siiapoole",
+        "kuhugipoole",
+        "pealepoole"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "Poole"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "Poole"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "Poolet"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "Poole"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "Poolesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "Pooles"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "Poolest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "Poolele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "Poolel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "Poolelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "Pooleks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "Pooleni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "Poolena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "Pooleta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "Poolega"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "Pooled"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "Poolede"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "Poolesid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "Pooledesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "Pooledes"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "Pooledest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "Pooledele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "Pooledel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "Pooledelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "Pooledeks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "Pooledeni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "Pooledena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "Pooledeta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "Pooledega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "küla Tartu maakonnas Elva vallas (Nõo kihelkonnas)",
+          "partOfSpeech": [
+            {
+              "code": "prop",
+              "value": "pärisnimi, prooprium"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "poole",
+      "translations": [
+        "toward",
+        "towards",
+        "valve"
+      ]
+    }
+  ]
+}

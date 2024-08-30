@@ -1,0 +1,383 @@
+{
+  "requestedWord": "erandlik",
+  "estonianWord": "erandlik",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "25",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "erandlik"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "erandliku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "erandlikku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "erandlikku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "erandlikusse"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "erandlikus"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "erandlikust"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "erandlikule"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "erandlikul"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "erandlikult"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "erandlikuks"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "erandlikuni"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "erandlikuna"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "erandlikuta"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "erandlikuga"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "erandlikud"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "erandlike,erandlikkude"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "erandlikke,erandlikkusid"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "erandlikesse,erandlikkudesse"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "erandlikes,erandlikkudes"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "erandlikest,erandlikkudest"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "erandlikele,erandlikkudele"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "erandlikel,erandlikkudel"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "erandlikelt,erandlikkudelt"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "erandlikeks,erandlikkudeks"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "erandlikeni,erandlikkudeni"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "erandlikena,erandlikkudena"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "erandliketa,erandlikkudeta"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "erandlikega,erandlikkudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "üldisest või normaalsest kõrvalekalduv või erinev, teistega mittesarnane,ebatavaline, erakordne",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Tegemist on mõneti erandliku juhtumiga.",
+            "Sel aastal oli üsna erandlik suvi."
+          ],
+          "synonyms": [
+            "fenomenaalne",
+            "eksklusiivne,eksklusiiv",
+            "harv",
+            "oma",
+            "erakordne",
+            "ebaharilik,ebatavaline,tavapäratu,tavatu",
+            "ainuline,ainulaadne,unikaalne,ainupärane",
+            "haruldane,harvanähtav",
+            "rariteetne",
+            "harukordne",
+            "erilaadiline,erilaadne,eriline,eripärane,erisugune,iselaadne,isesugune,omapärane,omasugune,isepärane",
+            "kordumatu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "исключительный",
+                "weight": 1
+              },
+              {
+                "words": "необыкновенный",
+                "weight": 1
+              },
+              {
+                "words": "необычайный",
+                "weight": 1
+              },
+              {
+                "words": "особенный",
+                "weight": 1
+              },
+              {
+                "words": "неординарный",
+                "weight": 1
+              },
+              {
+                "words": "редкостный,феноменальный,чрезвычайный,необычайный,исключительный,редкий",
+                "weight": 0.9
+              },
+              {
+                "words": "исключающий,исключительный",
+                "weight": 0.7
+              },
+              {
+                "words": "редкий",
+                "weight": 0.9
+              },
+              {
+                "words": "свой",
+                "weight": 0.7
+              },
+              {
+                "words": "из ряда вон выходящий,особенный,незаурядный,экстраординарный,недюжинный,чрезвычайный,необычайный,необычный,необыкновенный,исключительный",
+                "weight": 0.7707
+              },
+              {
+                "words": "нетипичный,необыкновенный,необычный,необычайный,особенный,незаурядный,недюжинный,небывалый",
+                "weight": 0.9
+              },
+              {
+                "words": "редкий,редкостный,самобытный,уникальный,исключительный,неповторимый,единственный в своём роде",
+                "weight": 0.9
+              },
+              {
+                "words": "необычайный,необычный,исключительный,необыкновенный,недюжинный,феноменальный,редкостный,редкий,изумительный",
+                "weight": 0.9
+              },
+              {
+                "words": "раритетный",
+                "weight": 0.9
+              },
+              {
+                "words": "феноменальный,необычайный,исключительный,редкостный,поразительный,недюжинный,необыкновенный,уникальный,редкий",
+                "weight": 0.9
+              },
+              {
+                "words": "самобытный,оригинальный,своеобразный,странный,причудливый,необычный,особенный,индивидуальный,разный,различный,особый,специфический,специфичный,чудной,своеобычный",
+                "weight": 0.7617
+              },
+              {
+                "words": "неподражаемый,единственный в своём роде,неповторимый,исключительный,единственный и неповторимый",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "рідкісний",
+                "weight": 0.9
+              },
+              {
+                "words": "свій",
+                "weight": 0.7
+              },
+              {
+                "words": "незвичайний,особливий,непересічний,неабиякий,нетиповий",
+                "weight": 0.9
+              },
+              {
+                "words": "рідкісний,незвичайний",
+                "weight": 0.9
+              },
+              {
+                "words": "своєрідний,специфічний,особливий,незвичайний,оригінальний,самобутній",
+                "weight": 0.7617
+              }
+            ],
+            "fra": [
+              {
+                "words": "inhabituel",
+                "weight": 0.9
+              },
+              {
+                "words": "particulier,spécifique",
+                "weight": 0.7617
+              }
+            ],
+            "eng": [
+              {
+                "words": "unusual",
+                "weight": 0.9
+              },
+              {
+                "words": "rare",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ainukordne",
+        "ebatavaline",
+        "kordumatu",
+        "ainupärane",
+        "haruldane",
+        "fenomenaalne",
+        "ainulaadne",
+        "rariteetne",
+        "erakordne",
+        "singulaarne",
+        "harv",
+        "unikaalne",
+        "eri",
+        "harukordne",
+        "ainuline",
+        "eriline",
+        "loomulik",
+        "snobistlik",
+        "täieline",
+        "keeriseline",
+        "erandlikult",
+        "ebaesteetiline",
+        "ebardlik",
+        "mitmemõtteline",
+        "iseloomulik",
+        "erandlikkus",
+        "paljuõieline",
+        "ebatüüpiline",
+        "alandlik",
+        "vastandlik",
+        "teistlaadne",
+        "ebarealistlik",
+        "järeleandlik",
+        "ainumõeldav",
+        "visandlik",
+        "erand",
+        "raskepärane",
+        "selgepilguline",
+        "sõnamurdlik",
+        "fatalistlik",
+        "erandnähtus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "erandlik",
+      "translations": [
+        "exceptional"
+      ]
+    }
+  ]
+}

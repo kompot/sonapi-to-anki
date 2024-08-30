@@ -1,0 +1,106 @@
+{
+  "requestedWord": "süüdi",
+  "estonianWord": "süüdi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "süüdi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "olek, kus keegi on teinud mingi süüteo vm kahjuliku teo,kui sa oled <eki-highlight>süüdi</eki-highlight>, siis sa oled teinud midagi halba, näiteks rikkunud seadust",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Leo tunnistas ennast eeluurimisel täielikult süüdi.",
+            "Liiklusõnnetuses oli süüdi autojuht.",
+            "Lapsed võivad end vanemate abielu purunemise pärast süüdi tunda.",
+            "Kui ravimid kallid, on süüdi valitsus.",
+            "Kes avariis süüdi oli?",
+            "Mina pole milleski süüdi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "coupable",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "виновен",
+                "weight": 1
+              },
+              {
+                "words": "виноват",
+                "weight": 1
+              },
+              {
+                "words": "повинен",
+                "weight": 1
+              },
+              {
+                "words": "виновный",
+                "weight": 1
+              },
+              {
+                "words": "виноватый",
+                "weight": 1
+              },
+              {
+                "words": "повинный",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "винний",
+                "weight": 1
+              },
+              {
+                "words": "винен",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "süüdistama",
+        "süüdlane",
+        "süüdimõistetu",
+        "süüdistatu",
+        "süüd",
+        "süüdivus",
+        "süüdimatus",
+        "süüdistamine",
+        "süüdiv",
+        "süüdistatav"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "süüdi",
+      "translations": [
+        "at fault",
+        "guilty"
+      ]
+    }
+  ]
+}

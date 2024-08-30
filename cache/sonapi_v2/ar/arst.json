@@ -1,0 +1,744 @@
+{
+  "requestedWord": "arst",
+  "estonianWord": "arst",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "arst"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "arsti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "arsti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "arsti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "arstisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "arstis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "arstist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "arstile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "arstil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "arstilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "arstiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "arstini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "arstina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "arstita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "arstiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "arstid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "arstide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "arste,arstisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "arstidesse,arstesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "arstides,arstes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "arstidest,arstest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "arstidele,arstele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "arstidel,arstel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "arstidelt,arstelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "arstideks,arsteks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "arstideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "arstidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "arstideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "arstidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kõrgema meditsiinilise haridusega inimene, kellele on antud õigus haigeid uurida ja ravi määrata,arst (kasutatakse sageli arsti perekonnanime ees),inimene, kelle töö on haigeid ravida",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Läksin arsti juurde.",
+            "Arst pani diagnoosi ja kirjutas retsepti.",
+            "Külaarst.",
+            "Lähen homme polikliinikusse arsti juurde.",
+            "Arst võtab patsiente vastu igal hommikul."
+          ],
+          "synonyms": [
+            "doktor",
+            "dr",
+            "dr.",
+            "tohter",
+            "arst",
+            "eskulaap",
+            "meedik",
+            "tohtrihärra",
+            "raviarst"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "doctor",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "docteur",
+                "weight": 1
+              },
+              {
+                "words": "médecin",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "врач",
+                "weight": 1
+              },
+              {
+                "words": "доктор",
+                "weight": 1
+              },
+              {
+                "words": "лекарь",
+                "weight": 1
+              },
+              {
+                "words": "д-р",
+                "weight": 1
+              },
+              {
+                "words": "эскулап",
+                "weight": 0.9
+              },
+              {
+                "words": "медик",
+                "weight": 0.9
+              },
+              {
+                "words": "доктор",
+                "weight": 0.9
+              },
+              {
+                "words": "лечащий врач",
+                "weight": 0.738
+              }
+            ],
+            "ukr": [
+              {
+                "words": "лікар",
+                "weight": 1
+              },
+              {
+                "words": "доктор",
+                "weight": 1
+              },
+              {
+                "words": "д-р",
+                "weight": 1
+              },
+              {
+                "words": "лікар",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "inimene, kes kasutab looduslikke raviviise, vahel ka üleloomulikke võimeid",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Loodusrahvastel oli nõid ühtlasi ka arst."
+          ],
+          "synonyms": [
+            "tohter",
+            "tark"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "прорицатель,предсказатель,предсказательница,прорицательница,знахарь,знахарка,ворожея,колдун,колдунья",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "dr",
+        "ülemarst",
+        "vanemarst",
+        "valvearst",
+        "töötervishoiuarst",
+        "tegevarst",
+        "taastusraviarst",
+        "taastusarst",
+        "sünnitusabiarst",
+        "sõjaväearst",
+        "sanitaararst",
+        "rahvaarst",
+        "perekonnaarst",
+        "peaarst",
+        "palatiarst",
+        "narkoarst",
+        "meestearst",
+        "maa-arst",
+        "loomaarst",
+        "laevaarst",
+        "kõrvaarst",
+        "kreisiarst",
+        "kooliarst",
+        "kohtuarst",
+        "kiirabiarst",
+        "jaoskonnaarst",
+        "iluraviarst",
+        "ihuarst",
+        "hulluarst",
+        "hambaarst",
+        "haiglaarst",
+        "haavaarst",
+        "dieetarst",
+        "dieediarst",
+        "desinfektsiooniarst",
+        "meedik",
+        "tohter",
+        "tohtrihärra",
+        "eskulaap",
+        "doktor",
+        "joodijüri",
+        "arstiteadlane",
+        "naisarst",
+        "raviarst",
+        "sisearst",
+        "günekoloog",
+        "kurguarst",
+        "eraarst",
+        "reumatoloog",
+        "eriarst",
+        "lastearst",
+        "meesarst",
+        "nahaarst",
+        "närviarst",
+        "unearst",
+        "vähiarst",
+        "südamearst",
+        "õuearst",
+        "hingearst",
+        "imearst",
+        "kopsuarst",
+        "üldarst",
+        "naistearst",
+        "tervishoiuarst",
+        "silmaarst",
+        "spordiarst",
+        "perearst",
+        "narkoosiarst",
+        "kõrva-nina-kurguarst"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "arst"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "arsti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "arsti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "arsti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "arstisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "arstis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "arstist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "arstile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "arstil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "arstilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "arstiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "arstini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "arstina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "arstita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "arstiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "arstid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "arstide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "arste,arstisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "arstidesse,arstesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "arstides,arstes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "arstidest,arstest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "arstidele,arstele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "arstidel,arstel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "arstidelt,arstelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "arstideks,arsteks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "arstideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "arstidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "arstideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "arstidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kõrgema meditsiinilise haridusega inimene, kellele on antud õigus haigeid uurida ja ravi määrata,arst (kasutatakse sageli arsti perekonnanime ees),inimene, kelle töö on haigeid ravida",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Läksin arsti juurde.",
+            "Arst pani diagnoosi ja kirjutas retsepti.",
+            "Külaarst.",
+            "Lähen homme polikliinikusse arsti juurde.",
+            "Arst võtab patsiente vastu igal hommikul."
+          ],
+          "synonyms": [
+            "doktor",
+            "dr",
+            "dr.",
+            "arst",
+            "tohter",
+            "eskulaap",
+            "meedik",
+            "tohtrihärra",
+            "raviarst"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "doctor",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "docteur",
+                "weight": 1
+              },
+              {
+                "words": "médecin",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "врач",
+                "weight": 1
+              },
+              {
+                "words": "доктор",
+                "weight": 1
+              },
+              {
+                "words": "лекарь",
+                "weight": 1
+              },
+              {
+                "words": "д-р",
+                "weight": 1
+              },
+              {
+                "words": "эскулап",
+                "weight": 0.9
+              },
+              {
+                "words": "медик",
+                "weight": 0.9
+              },
+              {
+                "words": "доктор",
+                "weight": 0.9
+              },
+              {
+                "words": "лечащий врач",
+                "weight": 0.738
+              }
+            ],
+            "ukr": [
+              {
+                "words": "лікар",
+                "weight": 1
+              },
+              {
+                "words": "доктор",
+                "weight": 1
+              },
+              {
+                "words": "д-р",
+                "weight": 1
+              },
+              {
+                "words": "лікар",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "dr",
+        "ülemarst",
+        "vanemarst",
+        "valvearst",
+        "töötervishoiuarst",
+        "tegevarst",
+        "taastusraviarst",
+        "taastusarst",
+        "sünnitusabiarst",
+        "sõjaväearst",
+        "sanitaararst",
+        "rahvaarst",
+        "perekonnaarst",
+        "peaarst",
+        "palatiarst",
+        "narkoarst",
+        "meestearst",
+        "maa-arst",
+        "loomaarst",
+        "laevaarst",
+        "kõrvaarst",
+        "kreisiarst",
+        "kooliarst",
+        "kohtuarst",
+        "kiirabiarst",
+        "jaoskonnaarst",
+        "iluraviarst",
+        "ihuarst",
+        "hulluarst",
+        "hambaarst",
+        "haiglaarst",
+        "haavaarst",
+        "dieetarst",
+        "dieediarst",
+        "desinfektsiooniarst",
+        "meedik",
+        "tohter",
+        "tohtrihärra",
+        "eskulaap",
+        "doktor",
+        "joodijüri",
+        "arstiteadlane",
+        "naisarst",
+        "raviarst",
+        "sisearst",
+        "günekoloog",
+        "kurguarst",
+        "eraarst",
+        "reumatoloog",
+        "eriarst",
+        "lastearst",
+        "meesarst",
+        "nahaarst",
+        "närviarst",
+        "unearst",
+        "vähiarst",
+        "südamearst",
+        "õuearst",
+        "hingearst",
+        "imearst",
+        "kopsuarst",
+        "üldarst",
+        "naistearst",
+        "tervishoiuarst",
+        "silmaarst",
+        "spordiarst",
+        "perearst",
+        "narkoosiarst",
+        "kõrva-nina-kurguarst"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "arst",
+      "translations": [
+        "(haigla juures elav) house physician",
+        "M.D.",
+        "medico"
+      ]
+    }
+  ]
+}

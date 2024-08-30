@@ -1,0 +1,544 @@
+{
+  "requestedWord": "või",
+  "estonianWord": "või",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "või"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "seob sisu poolest vastanduvaid, üksteist välistavaid, teist võimalust väljendavaid sõnu ja lauseosi,seob sõnu ja lausete osasid, mis näitavad eri võimalusi",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Olla või mitte olla.",
+            "Kas kohvi või teed?",
+            "Varem või hiljem lahkuvad lapsed kodust.",
+            "Kas te maksate sularahas või ülekandega?",
+            "Kas sa soovid teed või kohvi?",
+            "Kas maksate pangakaardiga või sularahas?",
+            "Sõidan nädalaks või paariks maale."
+          ],
+          "synonyms": [
+            "v",
+            "ehk,elik,e"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "or",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "ou",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "или",
+                "weight": 1
+              },
+              {
+                "words": "иль",
+                "weight": 1
+              },
+              {
+                "words": "или,то есть,иными словами,то бишь",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "або",
+                "weight": 1
+              },
+              {
+                "words": "чи",
+                "weight": 1
+              },
+              {
+                "words": "або,тобто",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "alustab lauset, kui see on mõeldud eelneva lause jätkuks",
+          "partOfSpeech": [],
+          "examples": [
+            "Maasikad. Tänan, ei! Või siiski?"
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(viitab võimalikule tagajärjele:) vastasel juhul",
+          "partOfSpeech": [],
+          "examples": [
+            "Palun vastake, või ma ei suuda kauem kannatada!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "иначе",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(alustab parandust:) see tähendab, täpsemalt",
+          "partOfSpeech": [],
+          "examples": [
+            "Rongiga ei saa, või õigemini osaliselt saab, aga algul tuleb ikka bussiga sõita."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "rõhutab ja väljendab kahtlust, imestust, halvakspanu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "разве",
+                "weight": 1
+              },
+              {
+                "words": "неужели",
+                "weight": 1
+              },
+              {
+                "words": "вот как",
+                "weight": 1
+              },
+              {
+                "words": "неужто",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb küsimusena jutustava lause lõpus",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Nalja teed või?",
+            "Tõesti või?",
+            "Ei tea, kas tuleb vihma ka või?",
+            "Ootasid kaua või?"
+          ],
+          "synonyms": [
+            "vä"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "что ли",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kas tõesti, ega ometi, vaevalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Või sa ise targem oled!",
+            "Või teie hakkate maja ehitama?"
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "väljendab ebamäärasust, hrl lause lõpus esineva ühendina <eki-foreign>või nii</eki-foreign>",
+          "partOfSpeech": [],
+          "examples": [
+            "Katsu see asi ära klaarida või nii."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "или как",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(sageli piltlikes väljendites:) rõhutab, väljendab hinnangut",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Mine või vihast lõhki!",
+            "Tema juttu kuula või söömata."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(väljendab kinnitust:) kuidas teisiti, aga muidugi",
+          "partOfSpeech": [],
+          "examples": [
+            "Või veel, seda ma ju ootasingi!",
+            "Vapustav? – Või veel!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "ещё бы",
+                "weight": 1
+              },
+              {
+                "words": "как же",
+                "weight": 1
+              },
+              {
+                "words": "вот ещё",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "’s",
+        "kas",
+        "mitte",
+        "mitte",
+        "tahes",
+        "muu",
+        "kasvõi",
+        "vms",
+        "mingi",
+        "muu",
+        "muu",
+        "muu",
+        "muul",
+        "muul"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "26",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "või"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "või"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "võid"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "võisse"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "võis"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "võist"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "võile"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "võil"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "võilt"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "võiks"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "võini"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "võina"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "võita"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "võiga"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "võid"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "võide"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "võisid"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "võidesse"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "võides"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "võidest"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "võidele"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "võidel"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "võidelt"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "võideks"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "võideni"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "võidena"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "võideta"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "võidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "peamiselt lehmapiima koorest valmistatud toiduaine,piimast valmistatud pehme kollane toiduaine, mida saab määrida leivale ja millega saab küpsetada ning praadida",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Määrib koogivormi võiga.",
+            "Ostsin poest paki võid.",
+            "Lisa tainasse 150 grammi võid."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "butter",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "beurre",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "масло",
+                "weight": 1
+              },
+              {
+                "words": "сливочное масло",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "масло",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ürdivõi",
+        "vadakuvõi",
+        "tillivõi",
+        "taluvõi",
+        "sulavõi",
+        "soolavõi",
+        "šokolaadivõi",
+        "shea-või",
+        "rõõsakoorevõi",
+        "pähklivõi",
+        "pakivõi",
+        "munavõi",
+        "meiereivõi",
+        "maitsevõi",
+        "maapähklivõi",
+        "lauavõi",
+        "küüslauguvõi",
+        "kookosvõi",
+        "kiluvõi",
+        "kakaovõi",
+        "heeringavõi",
+        "hapukoorevõi",
+        "’s",
+        "kas",
+        "mitte",
+        "mitte",
+        "muul",
+        "muul",
+        "tahes",
+        "muu",
+        "muu",
+        "muu",
+        "muu",
+        "kasvõi",
+        "vms",
+        "mingi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "või",
+      "translations": [
+        "butter",
+        "or"
+      ]
+    }
+  ]
+}

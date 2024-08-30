@@ -1,0 +1,691 @@
+{
+  "requestedWord": "kõvasti",
+  "estonianWord": "kõvasti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kõvasti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "suurel määral, väga palju,suurel määral, palju",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Maailm on kõvasti muutunud.",
+            "Sõin kõhu kõvasti täis.",
+            "Verd tuli kõvasti.",
+            "Huhh, pabistamist oli kõvasti!",
+            "Mehed tegid kõvasti tööd."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "a lot",
+                "weight": 1
+              },
+              {
+                "words": "hard",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "beaucoup",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "сильно",
+                "weight": 1
+              },
+              {
+                "words": "значительно",
+                "weight": 1
+              },
+              {
+                "words": "порядком",
+                "weight": 1
+              },
+              {
+                "words": "изрядно",
+                "weight": 1
+              },
+              {
+                "words": "здорово",
+                "weight": 1
+              },
+              {
+                "words": "навалом",
+                "weight": 1
+              },
+              {
+                "words": "полно",
+                "weight": 1
+              },
+              {
+                "words": "полным-полно",
+                "weight": 1
+              },
+              {
+                "words": "видимо-невидимо",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "дуже",
+                "weight": 1
+              },
+              {
+                "words": "сильно",
+                "weight": 1
+              },
+              {
+                "words": "чимало",
+                "weight": 1
+              },
+              {
+                "words": "значно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "suure jõuga, jõuliselt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Puhusin nii kõvasti, et tuli kustus ära.",
+            "Ta tutistas mind kõvasti."
+          ],
+          "synonyms": [
+            "tugevalt",
+            "tugevasti"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "fort",
+                "weight": 1
+              },
+              {
+                "words": "fortement",
+                "weight": 1
+              },
+              {
+                "words": "vigoureusement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "сильно",
+                "weight": 1
+              },
+              {
+                "words": "мощно",
+                "weight": 1
+              },
+              {
+                "words": "крепко",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "valju häälega, nii, et on kuulda",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ära nii kõvasti kilka!",
+            "Raadio mängib liiga kõvasti."
+          ],
+          "synonyms": [
+            "valjult",
+            "validalt",
+            "valju",
+            "valjusti",
+            "valjuhäälselt"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "loudly",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "fort",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "громко",
+                "weight": 1
+              },
+              {
+                "words": "громогласно",
+                "weight": 1
+              },
+              {
+                "words": "звучно",
+                "weight": 1
+              },
+              {
+                "words": "оглушительно",
+                "weight": 1
+              },
+              {
+                "words": "вслух",
+                "weight": 1
+              },
+              {
+                "words": "громогласно,громозвучно",
+                "weight": 0.613
+              }
+            ],
+            "ukr": [
+              {
+                "words": "голосно",
+                "weight": 1
+              },
+              {
+                "words": "гучно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tihedalt (kinni või küljes), nii, et ei saa kergesti lahti,nii, et ei lähe kergesti lahti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Uks on kõvasti kinni.",
+            "Laev istub madalikul kõvasti kinni."
+          ],
+          "synonyms": [
+            "kindlalt",
+            "tugevalt",
+            "tugevasti"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "firmly",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "solidement",
+                "weight": 1
+              },
+              {
+                "words": "fermement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "крепко",
+                "weight": 1
+              },
+              {
+                "words": "прочно",
+                "weight": 1
+              },
+              {
+                "words": "плотно",
+                "weight": 1
+              },
+              {
+                "words": "твёрдо",
+                "weight": 1
+              },
+              {
+                "words": "сильно",
+                "weight": 1
+              },
+              {
+                "words": "надёжно",
+                "weight": 1
+              },
+              {
+                "words": "основательно",
+                "weight": 1
+              },
+              {
+                "words": "туго",
+                "weight": 1
+              },
+              {
+                "words": "наглухо",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "міцно",
+                "weight": 1
+              },
+              {
+                "words": "надійно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ligikaudse hulga suurust rõhutades:) mitte vähem kui, vähemalt (kui mitte rohkemgi),mitte vähem kui",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sinna on kõvasti viisteist kilomeetrit."
+          ],
+          "synonyms": [
+            "tublisti",
+            "oma",
+            "vähemalt",
+            "vähemasti",
+            "üks"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "at least",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "au moins",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "по меньшей мере",
+                "weight": 1
+              },
+              {
+                "words": "не меньше чем",
+                "weight": 1
+              },
+              {
+                "words": "не менее чем",
+                "weight": 1
+              },
+              {
+                "words": "по крайней мере",
+                "weight": 1
+              },
+              {
+                "words": "целых",
+                "weight": 1
+              },
+              {
+                "words": "добрых",
+                "weight": 1
+              },
+              {
+                "words": "с,примерно,приблизительно,почти",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "щонайменше",
+                "weight": 1
+              },
+              {
+                "words": "принаймні",
+                "weight": 1
+              },
+              {
+                "words": "не менше ніж",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "soojalt",
+        "nõnda",
+        "valjusti",
+        "nõrkemiseni",
+        "hiiglama",
+        "üliagar",
+        "krõbedalt",
+        "lolli moodi",
+        "sindri",
+        "puruvaene",
+        "pööraselt",
+        "haruharva",
+        "küll ja küll",
+        "lollisti",
+        "häbemata",
+        "hullupööra",
+        "nagu muda",
+        "kurjalt",
+        "ilmatuma",
+        "ilmatuma",
+        "maailma",
+        "süle ja seljaga",
+        "silmipimestavalt",
+        "raskesti",
+        "nii et seda nägu",
+        "väljapaistvalt",
+        "rohkesti",
+        "raudkülm",
+        "mõõtmatult",
+        "rääkimata",
+        "hämmastavalt",
+        "maailmama",
+        "ebaloomulikult",
+        "igavesti",
+        "imearmas",
+        "jäledasti",
+        "hästi",
+        "hädasti",
+        "ääretult",
+        "pururumal",
+        "ennekuulmatu",
+        "uskumata",
+        "mehiselt",
+        "väga",
+        "tugevalt",
+        "päratult",
+        "raudkõva",
+        "maruvihane",
+        "ohtralt",
+        "raskelt",
+        "äraarvamata",
+        "kaunikesti",
+        "rängasti",
+        "tosin",
+        "arvutult",
+        "pinguli",
+        "õudselt",
+        "piiritult",
+        "maru",
+        "maru",
+        "maru",
+        "haledasti",
+        "kibedasti",
+        "kuhjaga",
+        "jõletu",
+        "jõletu",
+        "ropult",
+        "täie rinnaga",
+        "harutihti",
+        "kuradi",
+        "kõigutamatult",
+        "perglima",
+        "tulikuum",
+        "suurihääli",
+        "tuhat",
+        "erakordselt",
+        "põhjatult",
+        "neetult",
+        "hirmsasti",
+        "hirmuäratavalt",
+        "äraütlemata",
+        "pingul",
+        "muinasjutuliselt",
+        "hulgi",
+        "kamaluga",
+        "mehemoodi",
+        "koletu",
+        "koletu",
+        "tapvalt",
+        "surmani",
+        "hirmpalju",
+        "trammis",
+        "arutult",
+        "verivärske",
+        "mustmiljon",
+        "metsikult",
+        "häbematult",
+        "koledasti",
+        "vägevalt",
+        "õige",
+        "õige",
+        "lõpmata",
+        "tublisti",
+        "vankumatult",
+        "nagu Vändrast saelaudu",
+        "harukordselt",
+        "jube",
+        "jube",
+        "koletult",
+        "paganlikult",
+        "äärmiselt",
+        "suurelt",
+        "hiigla",
+        "kuratlikult",
+        "laialt",
+        "põrgukära",
+        "küllaga",
+        "murdu",
+        "ebatavaliselt",
+        "suuresti",
+        "musttuhat",
+        "lõpmatult",
+        "hirmus",
+        "hirmus",
+        "krampis",
+        "võimsalt",
+        "häälekalt",
+        "ilmatu",
+        "ilmatu",
+        "piinavalt",
+        "karm",
+        "karm",
+        "nii et tapab",
+        "viisi",
+        "nagu seeni pärast vihma",
+        "kuradima",
+        "kindlalt",
+        "raha nagu raba",
+        "piripingul",
+        "pikisilmi",
+        "haruldaselt",
+        "hoia ja keela",
+        "jalaga segada",
+        "kuramuse",
+        "hullult",
+        "hulganisti",
+        "kole",
+        "kole",
+        "puupaljas",
+        "karmilt",
+        "igavene",
+        "nagu kirjusid koeri",
+        "jõle",
+        "jõle",
+        "põhjatu",
+        "põhjatu",
+        "karedalt",
+        "paksult",
+        "püstirikas",
+        "hiiglasuur",
+        "otsatult",
+        "priskesti",
+        "seamoodi",
+        "sindrima",
+        "nii",
+        "täiel rinnal",
+        "püstirumal",
+        "kibesoolane",
+        "tõhusalt",
+        "vägevasti",
+        "kõrgesti",
+        "pururikas",
+        "nagu liiva mere ääres",
+        "kibehapu",
+        "paganama",
+        "tuline",
+        "rängalt",
+        "välkkiire",
+        "ohtrasti",
+        "valjult",
+        "pagana",
+        "ropusti",
+        "rangelt",
+        "ülimalt",
+        "ebanormaalselt",
+        "tugevasti",
+        "kuuldavalt",
+        "enneolematult",
+        "huntnäljane",
+        "ärarääkimata",
+        "trimmis",
+        "tohutult",
+        "maailmatu",
+        "maailmatu",
+        "vääramatult",
+        "ebaharilikult",
+        "palju",
+        "palju",
+        "kenakesti",
+        "määratult",
+        "priskelt",
+        "hoia alt",
+        "jubedasti",
+        "seletamatult",
+        "põrgukuumus",
+        "täie rauaga",
+        "ütlemata",
+        "kurjasti",
+        "hullumoodi",
+        "igivana",
+        "põletavalt",
+        "uskumatult",
+        "röögatult",
+        "põrgulikult",
+        "arvukalt",
+        "surmigav",
+        "küll ja veel",
+        "maailmatuma",
+        "maailmatuma",
+        "kõrvulukustavalt",
+        "kuradimoodi",
+        "imekerge",
+        "verinoor",
+        "meeletult",
+        "kohutavalt",
+        "ränkraske",
+        "porilaisk",
+        "hullusti",
+        "hiiglamoodi",
+        "üliväga",
+        "üüratult",
+        "päratu",
+        "päratu",
+        "valjuhäälselt",
+        "armetult",
+        "põrguma",
+        "kangesti",
+        "kolossaalselt",
+        "jubedalt",
+        "põhjalikult",
+        "pingsalt",
+        "täbar",
+        "vihaselt",
+        "pingeliselt",
+        "halb",
+        "jõuliselt",
+        "tigedalt",
+        "kehvasti",
+        "halvasti",
+        "täbaralt",
+        "intensiivselt",
+        "korralikult",
+        "väheke",
+        "väheke",
+        "märkimisväärselt",
+        "vähe",
+        "vähe",
+        "natuke",
+        "natuke",
+        "veidi",
+        "veidike",
+        "veidike",
+        "jälle",
+        "tõsiselt",
+        "tunduvalt",
+        "rohkem",
+        "rohkem",
+        "kuidagi",
+        "üksjagu",
+        "natukene",
+        "natukene",
+        "tobedalt",
+        "ikka",
+        "pisut",
+        "oluliselt",
+        "omajagu",
+        "tublilt",
+        "kõvasi",
+        "lihtsalt",
+        "täiega"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kõvasti",
+      "translations": [
+        "a great deal",
+        "a lot",
+        "bad",
+        "by a long shot",
+        "far and away",
+        "fast",
+        "good deal",
+        "hard",
+        "heavily",
+        "stiffener"
+      ]
+    }
+  ]
+}

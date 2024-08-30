@@ -1,0 +1,808 @@
+{
+  "requestedWord": "jääma",
+  "estonianWord": "jääma",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "37i",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "jääma"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "jäämata"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "jäämas"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "jäämast"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "jäämaks"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "jäädama"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "jääda"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "jäädes"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "jääv"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "jäädav"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "jäänud"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "jäänud"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "jäädud"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "jäädud"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "jään"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "jääd"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "jääb"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "jääme"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "jääte"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "jäävad"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "jää"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "jäädakse"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "jääda"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "jäin"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "jäid"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "jäi"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "jäime"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "jäite"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "jäid"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "jäädi"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "jääksin"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "jääksid"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "jääks"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "jääksime"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "jääksite"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "jääksid"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "jäädaks"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "jäänuksin"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "jäänuksid"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "jäänuks"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "jäänuksime"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "jäänuksite"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "jäänuksid"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "jääduks"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "jäävat"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "jäädavat"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "jäänuvat"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "jääduvat"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "jää"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "jäägem"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "jääge"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "jäägu"
+        },
+        {
+          "inflectionType": "37i",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "jäädagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingis paigas, seisundis või olukorras püsima, sealt mitte lahkuma,mingist kohast mitte lahkuma, seal olema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ema ja isa läksid teatrisse, lapsed jäid koju.",
+            "Teest paremale jääb kirik.",
+            "Näitus jääb avatuks aprilli lõpuni.",
+            "Mure jäi hinge.",
+            "Jäin oma otsuse juurde.",
+            "Jäägu see jutt meie vahele.",
+            "Lapsed jäid üksinda koju.",
+            "Jäin ööseks sõbra juurde."
+          ],
+          "synonyms": [
+            "maha jääma",
+            "püsima",
+            "olema",
+            "külge jääma",
+            "külge hakkama",
+            "külge kleepuma",
+            "nakkuma",
+            "maanduma",
+            "mattuma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "оставаться",
+                "weight": 1
+              },
+              {
+                "words": "остаться",
+                "weight": 1
+              },
+              {
+                "words": "остаться,оставаться",
+                "weight": 0.7
+              },
+              {
+                "words": "остаться,удерживаться,держаться,простоять,сидеться,стоять,простаивать,удержаться,оставаться",
+                "weight": 0.707
+              },
+              {
+                "words": "быть",
+                "weight": 0.573
+              },
+              {
+                "words": "прилипнуть,приклеиваться,приклеиться,прилипать",
+                "weight": 0.7
+              },
+              {
+                "words": "приставать,прилипать,передаваться,передаться,заражать,заразить,пристать",
+                "weight": 0.9
+              },
+              {
+                "words": "прилипать,сцепиться,сцепляться,прилипнуть",
+                "weight": 0.9
+              },
+              {
+                "words": "оказываться,попадать,оказаться",
+                "weight": 0.7
+              },
+              {
+                "words": "завалить,заваливать,покрыться,покрываться,утонуть,потонуть,тонуть,окутаться,окутываться",
+                "weight": 0.521
+              }
+            ],
+            "ukr": [
+              {
+                "words": "залишатися",
+                "weight": 1
+              },
+              {
+                "words": "залишитися",
+                "weight": 1
+              },
+              {
+                "words": "лишатися",
+                "weight": 1
+              },
+              {
+                "words": "лишитися",
+                "weight": 1
+              },
+              {
+                "words": "держатися,триматися,сидітися,стояти,бути,залишитися,залишатися,утриматися,утримуватися",
+                "weight": 0.707
+              },
+              {
+                "words": "бути",
+                "weight": 0.573
+              }
+            ],
+            "fra": [
+              {
+                "words": "rester",
+                "weight": 0.707
+              },
+              {
+                "words": "être",
+                "weight": 0.573
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(lahkumistervitusega seotud väljendites)",
+          "partOfSpeech": [],
+          "examples": [
+            "Jääge terveks!",
+            "Jääme nägemiseni!"
+          ],
+          "synonyms": [
+            "olema"
+          ],
+          "translations": {}
+        },
+        {
+          "definition": "mingisuguseks muutuma, kellekski, millekski saama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Sa oled väga kõhnaks jäänud.",
+            "Tuul jääb vaiksemaks.",
+            "Püüdsin rahulikuks jääda."
+          ],
+          "synonyms": [
+            "saama",
+            "muutuma",
+            "olema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "стать",
+                "weight": 1
+              },
+              {
+                "words": "становиться",
+                "weight": 1
+              },
+              {
+                "words": "становиться,стать,превращаться,преобразовываться,обращаться,превратиться,обратиться,преобразоваться,преображаться,преобразиться,меняться,измениться,перемениться,переменяться,делаться,сделаться,изменяться",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "changer",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "мінятися,змінюватися,змінитися,перемінятися,перемінитися,ставати,стати",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingisse olukorda, seisundisse või tegevusse siirduma või sattuma,mingisse olukorda või seisundisse sattuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ei oska juua, jääb kergesti purju.",
+            "Saame hakkama, nälga ei jää.",
+            "Laps jäi jälle haigeks.",
+            "Lõpuks jäi süüdi kõrvaline inimene.",
+            "Jäin alles hommikul magama.",
+            "Mu sõber jäi töötuks.",
+            "Ta jäi noorelt leseks.",
+            "Laps jäi magama.",
+            "Soojad ilmad ei jäänud kauaks püsima.",
+            "Kell jäi seisma.",
+            "Mul jäi üks töö lõpetamata."
+          ],
+          "synonyms": [
+            "langema",
+            "siirduma",
+            "sattuma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "становиться",
+                "weight": 1
+              },
+              {
+                "words": "стать",
+                "weight": 1
+              },
+              {
+                "words": "оставаться",
+                "weight": 1
+              },
+              {
+                "words": "остаться",
+                "weight": 1
+              },
+              {
+                "words": "попадать,впадать,впасть,попадаться,попасться,попасть",
+                "weight": 0.7
+              },
+              {
+                "words": "попадать,попасть,впадать,впасть",
+                "weight": 0.514
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ставати",
+                "weight": 1
+              },
+              {
+                "words": "стати",
+                "weight": 1
+              },
+              {
+                "words": "залишатися",
+                "weight": 1
+              },
+              {
+                "words": "залишитися",
+                "weight": 1
+              },
+              {
+                "words": "лишитися",
+                "weight": 1
+              },
+              {
+                "words": "попадатися,попастися,потрапляти,потрапити,удаватися,удатися",
+                "weight": 0.7
+              },
+              {
+                "words": "потрапляти,опинятися,опинитися,попадати,попасти,потрапити",
+                "weight": 0.514
+              }
+            ]
+          }
+        },
+        {
+          "definition": "võistlustel vm mingit kohta saavutama (hrl muud kui esimest)",
+          "partOfSpeech": [],
+          "examples": [
+            "Jäime võistlustel viimaseks.",
+            "Raimond jäi napilt teiseks."
+          ],
+          "synonyms": [
+            "saavutama",
+            "mahtuma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "добиться,достичь,завоёвывать,завоевать,достигать,достигнуть,добиваться,одерживать,одержать,возыметь,обретать,обрести",
+                "weight": 0.7
+              },
+              {
+                "words": "помещаться,поместиться",
+                "weight": 0.523
+              }
+            ],
+            "ukr": [
+              {
+                "words": "здобути,досягти,досягнути,здобувати,досягати",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "jätkuvalt olemas olema, (endisest) säilinud, alles või üle olema,alles, üle või järel olema,säilima",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Koolivaheajani on jäänud paar nädalat.",
+            "Vaagnale oli jäänud üksik võileib.",
+            "Mulle jäi päev järelemõtlemiseks.",
+            "Uuest töötajast on jäänud hea mulje.",
+            "Punasest veinist olid linale jäänud inetud plekid.",
+            "Kannu on veel natuke kohvi jäänud.",
+            "Temast jäi hea mulje."
+          ],
+          "synonyms": [
+            "alles jääma",
+            "järele jääma,üle jääma",
+            "püsima",
+            "kestma",
+            "säilima,säiluma",
+            "tekkima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "оставаться",
+                "weight": 1
+              },
+              {
+                "words": "остаться",
+                "weight": 1
+              },
+              {
+                "words": "оставаться,остаться,сохраняться,сохраниться",
+                "weight": 0.7
+              },
+              {
+                "words": "оставаться,остаться,сохраняться,сохраниться,уцелеть",
+                "weight": 0.7
+              },
+              {
+                "words": "остаться,держаться,оставаться,сохраняться,сохраниться,длиться,удерживаться,удержаться,устаиваться,устояться,продлиться",
+                "weight": 0.707
+              },
+              {
+                "words": "удерживаться,удержаться,держаться",
+                "weight": 0.531
+              },
+              {
+                "words": "уцелеть,удерживаться,удержаться,сохраняться,сохраниться",
+                "weight": 0.9
+              },
+              {
+                "words": "появляться,происходить,возникать,зарождаться,зародиться,появиться,возникнуть,образовываться,образоваться,произойти",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "залишатися",
+                "weight": 1
+              },
+              {
+                "words": "залишитися",
+                "weight": 1
+              },
+              {
+                "words": "лишатися",
+                "weight": 1
+              },
+              {
+                "words": "лишитися",
+                "weight": 1
+              },
+              {
+                "words": "зберігатися,зберегтися,залишатися,залишитися",
+                "weight": 0.7
+              },
+              {
+                "words": "залишатися,залишитися,зберігатися,зберегтися,уціліти",
+                "weight": 0.7
+              },
+              {
+                "words": "триматися,держатися,тривати,зберігатися,зберегтися,залишатися,залишитися",
+                "weight": 0.707
+              },
+              {
+                "words": "зберігатися,зберегтися,уціліти",
+                "weight": 0.9
+              },
+              {
+                "words": "виникати,поставати,виникнути,постати,зароджуватися,зародитися",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "rester",
+                "weight": 0.7
+              },
+              {
+                "words": "durer,persister",
+                "weight": 0.707
+              },
+              {
+                "words": "se conserver",
+                "weight": 0.9
+              },
+              {
+                "words": "apparaître",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "saavutama",
+        "külge jääma",
+        "alles olema",
+        "alles jääma",
+        "tekkima",
+        "muutuma",
+        "saama",
+        "nakkuma",
+        "külge hakkama",
+        "külge kleepuma",
+        "säilima",
+        "püsima",
+        "olema",
+        "mattuma",
+        "konutama",
+        "siirduma",
+        "sattuma",
+        "mahtuma",
+        "longu",
+        "lonti",
+        "maha jääma",
+        "järele jääma",
+        "kiinduma",
+        "kokku leppima",
+        "kaduma",
+        "kokku kasvama",
+        "ahenema",
+        "längu",
+        "kinni",
+        "närtsima",
+        "külge kasvama",
+        "kokku rääkima",
+        "närbuma",
+        "kitsenema",
+        "vähenema",
+        "minema",
+        "minema",
+        "kahanema",
+        "külge",
+        "võlgu olema",
+        "laenama",
+        "tarduma",
+        "kinni hakkama",
+        "alal",
+        "kangestuma",
+        "jäämass",
+        "kalduma",
+        "jätma",
+        "ootama",
+        "minetama",
+        "tulema",
+        "tulema",
+        "tulema",
+        "toppama",
+        "kestma",
+        "säiluma",
+        "jäämine",
+        "vinduma"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "jääma",
+      "translations": [
+        "come down with",
+        "go down with (haigestuma)",
+        "remain",
+        "stay"
+      ]
+    }
+  ]
+}

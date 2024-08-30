@@ -1,0 +1,336 @@
+{
+  "requestedWord": "juures",
+  "estonianWord": "juures",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "juures"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi või millegi vahetus läheduses, hästi lähedal,(millegi) lähedal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Õpetaja seisis akna juures.",
+            "Ma olin juures, kui see juhtus.",
+            "Ma olin juures, kui õnnetus juhtus.",
+            "Naine seisis akna juures.",
+            "Koer istub peremehe juures."
+          ],
+          "synonyms": [
+            "kõrval"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "près de",
+                "weight": 1
+              },
+              {
+                "words": "à côté de",
+                "weight": 0.8343
+              }
+            ],
+            "rus": [
+              {
+                "words": "у",
+                "weight": 1
+              },
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "возле",
+                "weight": 1
+              },
+              {
+                "words": "рядом",
+                "weight": 1
+              },
+              {
+                "words": "рядом с",
+                "weight": 1
+              },
+              {
+                "words": "поблизости",
+                "weight": 1
+              },
+              {
+                "words": "подле",
+                "weight": 1
+              },
+              {
+                "words": "вблизи",
+                "weight": 1
+              },
+              {
+                "words": "около,у,возле,подле,вблизи,поблизости,рядом,рядом с",
+                "weight": 0.8343
+              }
+            ],
+            "ukr": [
+              {
+                "words": "поряд з",
+                "weight": 1
+              },
+              {
+                "words": "поруч",
+                "weight": 1
+              },
+              {
+                "words": "коло",
+                "weight": 1
+              },
+              {
+                "words": "біля",
+                "weight": 1
+              },
+              {
+                "words": "поблизу",
+                "weight": 1
+              },
+              {
+                "words": "близько",
+                "weight": 1
+              },
+              {
+                "words": "поряд з,поруч,коло,біля,поблизу,близько",
+                "weight": 0.8343
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi asu-, elu- või töökohas,kellegi jutul või vastuvõtul, kellegi pool,kellegi elukohas,kellegi töökohas või vastuvõtul",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Ta käis eile minu juures.",
+            "Kai toimetab midagi lauda juures.",
+            "Hetkel olen juuksuri juures.",
+            "Ööbisin sõbranna juures.",
+            "Ta on praegu hambaarsti juures."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "chez",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "у",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "у",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab asutusele või organisatsioonile, mille alluvusse või koosseisu miski või keegi kuulub",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Muuseumi juures tegutseb kodu-uurijate ring."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "при",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab elusolendile, esemele, nähtusele vms, kelle või mille suhtes midagi nenditakse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Mulle ei meeldi see joon tema juures.",
+            "Vanamees ei ole enam päris mõistuse juures.",
+            "Ta on täie tervise juures.",
+            "Mis sind selle loo juures häirib?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "при",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab asjaolule, millega seoses miski toimub",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Sellise tempo juures jääme kindlasti hiljaks.",
+            "Isa hingeldas vähimagi füüsilise pingutuse juures.",
+            "Olin innuga asja juures."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "при",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millelegi lisaks, peale selle,lisaks (olemas)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Kõigi oma toimetuste juures jõuab ta veel lugedagi.",
+            "Huviliste arv suureneb, täna on jälle mitu uut inimest juures.",
+            "Toidul on mingi imelik maitse juures."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "при",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "при",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ligi",
+        "ajaliselt",
+        "külje all",
+        "kõrval",
+        "kõrval",
+        "lähedal",
+        "ruumiliselt",
+        "ligidal",
+        "kiviviske kaugusel",
+        "käegakatsutav",
+        "man",
+        "kohe",
+        "kohe",
+        "kukil",
+        "käeulatuses",
+        "nina ees",
+        "siinsamas",
+        "küljes",
+        "nina all",
+        "ligilähedal",
+        "käe-jala juures",
+        "kiviga visata",
+        "kõrvale",
+        "ümber",
+        "ees",
+        "all",
+        "ääres",
+        "taga",
+        "juurde",
+        "vahel",
+        "jaoks",
+        "juurekava",
+        "juurest",
+        "puhul"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "juures",
+      "translations": [
+        "(kellegi) chez"
+      ]
+    }
+  ]
+}

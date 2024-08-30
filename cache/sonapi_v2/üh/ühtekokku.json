@@ -1,0 +1,143 @@
+{
+  "requestedWord": "ühtekokku",
+  "estonianWord": "ühtekokku",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ühtekokku"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "koguhulgana, kogusummana, kokku,kokku",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ühtekokku kestis tseremoonia üle nelja tunni."
+          ],
+          "synonyms": [
+            "üldse"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "всего",
+                "weight": 1
+              },
+              {
+                "words": "итого",
+                "weight": 1
+              },
+              {
+                "words": "в итоге",
+                "weight": 1
+              },
+              {
+                "words": "в общем",
+                "weight": 1
+              },
+              {
+                "words": "в общей сложности",
+                "weight": 1
+              },
+              {
+                "words": "в совокупности",
+                "weight": 1
+              },
+              {
+                "words": "всё вместе взятое",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "всього",
+                "weight": 1
+              },
+              {
+                "words": "загалом",
+                "weight": 1
+              },
+              {
+                "words": "разом",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kokku, hunnikusse",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Riisusime lehed ühtekokku."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в кучу",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kokku",
+        "üleüldse",
+        "üldse",
+        "keskmiselt",
+        "kümme",
+        "tervelt",
+        "neli",
+        "ligemale",
+        "poolsada",
+        "nelisada",
+        "umbes",
+        "umbes",
+        "kaheksa",
+        "tänavu",
+        "vähemalt",
+        "ligikaudu",
+        "üheksa",
+        "poolesajas",
+        "kolm",
+        "seitse",
+        "koguni",
+        "lausa",
+        "mitu",
+        "kaks",
+        "peaaegu",
+        "ligi",
+        "kahesajas",
+        "üle"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ühtekokku",
+      "translations": [
+        "in all"
+      ]
+    }
+  ]
+}

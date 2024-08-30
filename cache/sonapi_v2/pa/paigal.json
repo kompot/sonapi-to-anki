@@ -1,0 +1,94 @@
+{
+  "requestedWord": "paigal",
+  "estonianWord": "paigal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "paigal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ühe ja sama koha peal, liikumatult,ühe ja sama koha peal, nii et ei liigu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Aeg ei seisa paigal.",
+            "Ole paigal, kuni ma su juukseid lõikan.",
+            "Kassipoeg on nii energiline ega püsi üldse paigal."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на месте",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на місці",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "seismise koha pealt, hoojooksuta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Paigalt kaugushüpe."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "с места",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kasutult",
+        "kindlalt",
+        "tammuma",
+        "püsi",
+        "liikumatult",
+        "paigalpüsimine",
+        "seisang",
+        "püstiasend",
+        "paigale",
+        "paigalt",
+        "paigalsamm"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "paigal",
+      "translations": [
+        "put"
+      ]
+    }
+  ]
+}

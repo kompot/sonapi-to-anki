@@ -1,0 +1,154 @@
+{
+  "requestedWord": "milleks",
+  "estonianWord": "milleks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "milleks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "küsiv-siduv sõna: mis põhjusel,mis põhjusel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Milleks selline pikk tähtaeg?",
+            "Milleks see vajalik on?"
+          ],
+          "synonyms": [
+            "miks",
+            "mispärast"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "why",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "pourquoi",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "почему",
+                "weight": 1
+              },
+              {
+                "words": "зачем",
+                "weight": 1
+              },
+              {
+                "words": "отчего",
+                "weight": 1
+              },
+              {
+                "words": "из-за чего",
+                "weight": 1
+              },
+              {
+                "words": "по какой причине",
+                "weight": 1
+              },
+              {
+                "words": "чего",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чому",
+                "weight": 1
+              },
+              {
+                "words": "чого",
+                "weight": 1
+              },
+              {
+                "words": "для чого",
+                "weight": 1
+              },
+              {
+                "words": "навіщо",
+                "weight": 1
+              },
+              {
+                "words": "нащо",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(lausetes, mis väljendavad eitavat või taunivat hinnangut)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Milleks osta, kui saab ka laenutada."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "зачем",
+                "weight": 1
+              },
+              {
+                "words": "для чего",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mistarvis",
+        "misjaoks",
+        "miks",
+        "miks",
+        "mispärast",
+        "miseest",
+        "kas",
+        "õigupoolest",
+        "vaja",
+        "see",
+        "mis",
+        "tarvis",
+        "tegelikult",
+        "siis",
+        "üldse",
+        "aga",
+        "aga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "milleks",
+      "translations": [
+        "whyfor"
+      ]
+    }
+  ]
+}

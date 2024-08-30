@@ -1,0 +1,93 @@
+{
+  "requestedWord": "paiku",
+  "estonianWord": "paiku",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "paiku"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingi ajahetke kandis, ligikaudu mingil ajal,osutab, mis ajal umbes mingi tegevus toimub",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Ärkasin kella üheksa paiku.",
+            "Lund sadas jõulude paiku vähe.",
+            "Jõuan koju kella kuue paiku."
+          ],
+          "synonyms": [
+            "mail"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "vers",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "примерно",
+                "weight": 1
+              },
+              {
+                "words": "приблизительно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "близько",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ligikaudu mingis vanuses",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Oma 15. eluaasta paiku oli ta juba Soomes, Eestist ära."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "keskpaiku",
+        "südaöö",
+        "kesköö"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "paiku",
+      "translations": []
+    }
+  ]
+}

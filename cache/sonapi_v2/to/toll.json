@@ -1,0 +1,734 @@
+{
+  "requestedWord": "toll",
+  "estonianWord": "toll",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "toll"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "tolli"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "tolli"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "tolli"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "tollisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "tollis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "tollist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "tollile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "tollil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "tollilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "tolliks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "tollini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "tollina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "tollita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "tolliga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "tollid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "tollide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "tolle,tollisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "tollidesse,tollesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "tollides,tolles"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "tollidest,tollest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "tollidele,tollele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "tollidel,tollel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "tollidelt,tollelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "tollideks,tolleks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "tollideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "tollidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "tollideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "tollidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "riigipiiri ületavalt kaubalt võetav maks",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Sisseveetavale rukkile hakkavad kehtima tollid.",
+            "Läbiveotoll."
+          ],
+          "synonyms": [
+            "tollilõiv",
+            "tollimaks"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "duty",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "таможенная пошлина",
+                "weight": 1
+              },
+              {
+                "words": "таможенный сбор",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellelegi minev osa millestki",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Vahendaja sai pakkide pealt kena tolli."
+          ],
+          "synonyms": [
+            "vaheltkasu,vahekasu",
+            "kasu",
+            "osa"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "навар",
+                "weight": 1
+              },
+              {
+                "words": "комиссия,прибыль,лихва,барыш,навар,нажива,выгода",
+                "weight": 0.9
+              },
+              {
+                "words": "расчёт,польза,выгода,доход,выигрыш",
+                "weight": 0.7
+              },
+              {
+                "words": "доля,часть",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "profit,bénéfice",
+                "weight": 0.7
+              },
+              {
+                "words": "partie",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вигода,дохід,виграш,користь",
+                "weight": 0.7
+              },
+              {
+                "words": "пай,доля,частка,частина",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tolliasutus, tollipunkt,selle töötajad, hrl need, kes kontrollivad riigipiiri ületavat kaupa ja pagasit,asutus, mille töötajad kontrollivad kaupa ja pagasit, mis ületab kahe riigi vahelist piiri,selle asutuse töötajad",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Hiljuti täitus mul kümme aastat tollis töötamist.",
+            "Narva toll otsustas vaguni Venemaale tagasi saata.",
+            "Ta võeti tollis vahele.",
+            "Toll avastas suure koguse ebaseaduslikke sigarette."
+          ],
+          "synonyms": [
+            "tolliasutus",
+            "tollipunkt",
+            "tollihoone",
+            "tollimaja",
+            "tolliinspektor",
+            "tollikontroll",
+            "tollikontroll",
+            "tolliametnik"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "customs",
+                "weight": 1
+              },
+              {
+                "words": "customs officer",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "douane",
+                "weight": 1
+              },
+              {
+                "words": "douanière,douanier",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "таможня",
+                "weight": 1
+              },
+              {
+                "words": "таможенное ведомство",
+                "weight": 1
+              },
+              {
+                "words": "таможенный досмотр",
+                "weight": 1
+              },
+              {
+                "words": "таможенники",
+                "weight": 1
+              },
+              {
+                "words": "работники таможни",
+                "weight": 1
+              },
+              {
+                "words": "таможенное учреждение,таможня",
+                "weight": 0.528
+              },
+              {
+                "words": "пункт таможни,таможенный пункт",
+                "weight": 0.7
+              },
+              {
+                "words": "таможня,здание таможни,таможенное здание",
+                "weight": 0.7
+              },
+              {
+                "words": "здание таможни,таможня",
+                "weight": 0.75
+              },
+              {
+                "words": "таможенный инспектор,таможенник",
+                "weight": 0.7
+              },
+              {
+                "words": "таможенный контроль",
+                "weight": 0.7
+              },
+              {
+                "words": "досмотрщик,досмотрщица,таможенный контроль",
+                "weight": 0.7
+              },
+              {
+                "words": "досмотрщик,таможенный чиновник,служащий таможни,таможенный досмотрщик,таможенник,таможенница,досмотрщица",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "митниця",
+                "weight": 1
+              },
+              {
+                "words": "митник",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "matti võtma",
+        "matti saama",
+        "osa",
+        "väljaveotoll",
+        "viljatoll",
+        "veskitoll",
+        "transiiditoll",
+        "topelttoll",
+        "soolatoll",
+        "sisseveotoll",
+        "sisetoll",
+        "keelutoll",
+        "kaitsetoll",
+        "imporditoll",
+        "eksporditoll",
+        "eelistustoll",
+        "tollipunkt",
+        "tolliinspektor",
+        "tollihoone",
+        "matt",
+        "tollilõiv",
+        "kasu",
+        "mant",
+        "mant",
+        "tolliametnik",
+        "tölner",
+        "tollimaks",
+        "vaheltkasu",
+        "vahekasu",
+        "tolliamet",
+        "tollimaja",
+        "maks",
+        "lõiv",
+        "tolliliit",
+        "tollipulk",
+        "tolliasutus",
+        "tolline",
+        "tolliväärtus",
+        "tollikontroll",
+        "tollivaba",
+        "tollivõlg",
+        "tolliladu",
+        "tollipiir",
+        "matt",
+        "matt",
+        "matt",
+        "matt",
+        "matt",
+        "stoll",
+        "mant",
+        "maks"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "toll"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "tolli"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "tolli"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "tolli"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "tollisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "tollis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "tollist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "tollile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "tollil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "tollilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "tolliks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "tollini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "tollina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "tollita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "tolliga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "tollid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "tollide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "tolle,tollisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "tollidesse,tollesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "tollides,tolles"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "tollidest,tollest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "tollidele,tollele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "tollidel,tollel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "tollidelt,tollelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "tollideks,tolleks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "tollideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "tollidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "tollideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "tollidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "pikkusühik Inglise mõõdustikus (2,54 cm),Eestis endisaegne pikkusühik (umbes 2,5 cm)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "дюйм",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mitte vähimalgi määral, üldse (mitte)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Seadust pole tolligi rikutud."
+          ],
+          "synonyms": [
+            "millimeeter",
+            "gramm",
+            "juuksekarva võrra,karvavõrd,kriipsuvõrra,karvavõrdki,kriipsuvõrragi,küünevõrdki,küünevõrragi,küüneväärtki,küüneväärt,küünevõrd,karvavõrragi,kriipsuvõrdki,kriipsuvõrd,karvavõrra"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ничуть",
+                "weight": 1
+              },
+              {
+                "words": "нисколько",
+                "weight": 1
+              },
+              {
+                "words": "нисколько,ничуть,ни в какой мере,ни в коей мере,ни в какой степени,ни на волос,ни на йоту,ни чуточки,ни капельки,ни вот столько",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "millimeeter",
+        "gramm",
+        "raas",
+        "kübe",
+        "tolline",
+        "matt",
+        "matt",
+        "matt",
+        "matt",
+        "matt",
+        "matt",
+        "tollilõiv",
+        "kasu",
+        "mant",
+        "mant",
+        "mant",
+        "tolliametnik",
+        "tölner",
+        "tollimaks",
+        "vaheltkasu",
+        "vahekasu",
+        "tolliamet",
+        "tollimaja",
+        "maks",
+        "maks",
+        "lõiv",
+        "tolliliit",
+        "tollipulk",
+        "stoll",
+        "tolliasutus",
+        "tolliväärtus",
+        "tollikontroll",
+        "tollivaba",
+        "tollivõlg",
+        "tolliladu",
+        "tollipiir"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "toll",
+      "translations": [
+        "custom",
+        "customs",
+        "inch (2",
+        "54 cm",
+        "1/12 jalga)",
+        "tariff",
+        "toll"
+      ]
+    }
+  ]
+}

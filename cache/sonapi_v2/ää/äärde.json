@@ -1,0 +1,119 @@
+{
+  "requestedWord": "äärde",
+  "estonianWord": "äärde",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "äärde"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi vahetusse lähedusse, juurde või kõrvale,millegi vahetusse lähedusse, juurde või kõrvale",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Läheme aega viitmata baarileti äärde.",
+            "Auto jäi tee äärde seisma.",
+            "Koer jookseb tee äärde."
+          ],
+          "synonyms": [
+            "veerde"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "au bord de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "к",
+                "weight": 1
+              },
+              {
+                "words": "близ",
+                "weight": 1
+              },
+              {
+                "words": "вблизи",
+                "weight": 1
+              },
+              {
+                "words": "возле",
+                "weight": 1
+              },
+              {
+                "words": "недалеко от",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              },
+              {
+                "words": "около",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до",
+                "weight": 1
+              },
+              {
+                "words": "поблизу",
+                "weight": 1
+              },
+              {
+                "words": "близько",
+                "weight": 1
+              },
+              {
+                "words": "коло",
+                "weight": 1
+              },
+              {
+                "words": "біля",
+                "weight": 1
+              },
+              {
+                "words": "край",
+                "weight": 1
+              },
+              {
+                "words": "недалеко від",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "veerde",
+        "äärest",
+        "ääres"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "äärde",
+      "translations": []
+    }
+  ]
+}

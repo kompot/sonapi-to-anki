@@ -1,0 +1,273 @@
+{
+  "requestedWord": "sassis",
+  "estonianWord": "sassis",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sassis"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "segamini, korratus olekus",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Juuksed olid väga sassis.",
+            "Veidi sassis soeng."
+          ],
+          "synonyms": [
+            "sasine",
+            "sagris,sakris,sagrine",
+            "pusas",
+            "tuustis,pulstis,tortis",
+            "korrast ära",
+            "sarvis",
+            "pilla-palla",
+            "rigadi-rägadi,riga-räga",
+            "sampsus",
+            "puseriti",
+            "lohakil",
+            "segi,segamini",
+            "korratu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "растрёпанный",
+                "weight": 1
+              },
+              {
+                "words": "спутанный",
+                "weight": 1
+              },
+              {
+                "words": "перепутанный",
+                "weight": 1
+              },
+              {
+                "words": "взлохмаченный",
+                "weight": 1
+              },
+              {
+                "words": "спутанный,косматый,лохматый,всклокоченный,взлохмаченный,растрёпанный,запутанный",
+                "weight": 0.9
+              },
+              {
+                "words": "растрёпанный,кудлатый,нечёсаный,трёпаный,клочковатый,косматый,лохматый,взлохмаченный",
+                "weight": 0.9
+              },
+              {
+                "words": "запутанный,спутанный",
+                "weight": 0.9
+              },
+              {
+                "words": "всклокоченный,лохматый,косматый,клочковатый,свалявшийся,в клочьях,кудлатый,кудластый",
+                "weight": 0.9
+              },
+              {
+                "words": "не в порядке",
+                "weight": 0.9
+              },
+              {
+                "words": "как попало,вразброс,вверх ногами,вверх дном,в беспорядке",
+                "weight": 0.9
+              },
+              {
+                "words": "вперемешку,в беспорядке,вверх дном,вверх тормашками",
+                "weight": 0.9
+              },
+              {
+                "words": "беспорядочно,как попало,в беспорядке",
+                "weight": 0.9
+              },
+              {
+                "words": "разбросанно,запущенно",
+                "weight": 0.7
+              },
+              {
+                "words": "в беспорядке,вверх дном,вразброс",
+                "weight": 0.9
+              },
+              {
+                "words": "неприбранный,неряшливый,небрежный,неаккуратный,неубранный",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "en désordre",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "безладно,без ладу,без порядку,догори ногами",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(suhete vms kohta:) normaalsest olukorrast väljas, mittesoovitud olukorras",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Direktori ning tema kauni naise peresuhted on sassis.",
+            "Klaarisime sassis suhteid."
+          ],
+          "synonyms": [
+            "korrast ära",
+            "tuksus,tuksis",
+            "nurjas,vussis",
+            "metsas"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "не в порядке",
+                "weight": 0.9
+              },
+              {
+                "words": "сломан,испорчен",
+                "weight": 0.574
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(oskamatusest, eksimisest tuleneva ebasoovitava olukorra või tulemuse kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kui oluline ja vähem oluline on sassis, siis on raske veenda ka otsustajaid heldemalt raha jagama."
+          ],
+          "synonyms": [
+            "pahempidi,pahupidi",
+            "nagu puder ja kapsad",
+            "läbisegamini,läbisegi,segiläbi",
+            "metsas",
+            "sassi,segamini,segi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "наоборот,вверх дном,шиворот-навыворот",
+                "weight": 0.9
+              },
+              {
+                "words": "вразброс,вразнобой,вразбивку,беспорядочно,вперемешку,наперебой,вперебой",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lohakil",
+        "metsas",
+        "läbisegi",
+        "sasipäine",
+        "klutine",
+        "pahempidi",
+        "tortis",
+        "laiali",
+        "risti-rästi",
+        "puseriti",
+        "laabakil",
+        "pulstis",
+        "pilla-palla",
+        "nagu puder ja kapsad",
+        "pahupidi",
+        "takune",
+        "ui-ai",
+        "salkus",
+        "tokerdama",
+        "segamini",
+        "sakris",
+        "tuustis",
+        "sahmus",
+        "sagris",
+        "takkus",
+        "sampsus",
+        "segi",
+        "korralage",
+        "sega-soga",
+        "kahlus",
+        "pusas",
+        "sasine",
+        "korratu",
+        "riga-räga",
+        "laokil",
+        "sarvis",
+        "sasikarvaline",
+        "sagrine",
+        "korrast ära",
+        "segane",
+        "kissis",
+        "jubedalt",
+        "lössis",
+        "koguaeg",
+        "koguaeg",
+        "krussis",
+        "vussis",
+        "suht",
+        "mossis",
+        "kössis",
+        "sassi",
+        "tuksis",
+        "totaalselt",
+        "torssis"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sassis",
+      "translations": [
+        "disheveled (juuksed < lad capillus",
+        "ka riietus)",
+        "dishevelled",
+        "messy",
+        "mussy",
+        "rumpled (voodi)",
+        "tangly",
+        "tousled",
+        "woolly"
+      ]
+    }
+  ]
+}

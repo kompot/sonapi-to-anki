@@ -1,0 +1,557 @@
+{
+  "requestedWord": "hakkima",
+  "estonianWord": "hakkima",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "hakin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "hakid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "hakib"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "hakime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "hakite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "hakivad"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "haki"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "hakitakse"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "hakita"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "hakkisin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "hakkisid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "hakkis"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "hakkisime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "hakkisite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "hakkisid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "hakiti"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "hakiksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "hakiksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "hakiks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "hakiksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "hakiksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "hakiksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "hakitaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "hakkinuksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "hakkinuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "hakkinuks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "hakkinuksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "hakkinuksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "hakkinuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "hakituks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "hakkivat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "hakitavat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "hakkinuvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "hakituvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "haki"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "hakkigem"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "hakkige"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "hakkigu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "hakitagu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "hakkima"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "hakkimata"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "hakkimas"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "hakkimast"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "hakkimaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "hakitama"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "hakkida"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "hakkides"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "hakkiv"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "hakitav"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "hakkinud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "hakkinud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "hakitud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "hakitud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "toiduaineid väikesteks tükkideks lõikama,toitu noaga väikesteks tükkideks lõikama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ta võttis rohelisi sibulapealseid ja hakkis need peeneks.",
+            "Hakkisin porgandid ja lisasin need supile.",
+            "Seened tuleb salati jaoks peeneks hakkida."
+          ],
+          "synonyms": [
+            "hekseldama",
+            "peenendama,peenestama",
+            "tükeldama"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "chop up",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "hacher",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "шинковать",
+                "weight": 1
+              },
+              {
+                "words": "нашинковать",
+                "weight": 1
+              },
+              {
+                "words": "крошить",
+                "weight": 1
+              },
+              {
+                "words": "раскрошить",
+                "weight": 1
+              },
+              {
+                "words": "рубить",
+                "weight": 1
+              },
+              {
+                "words": "разрубить",
+                "weight": 1
+              },
+              {
+                "words": "измельчать",
+                "weight": 1
+              },
+              {
+                "words": "измельчить",
+                "weight": 1
+              },
+              {
+                "words": "сечь",
+                "weight": 1
+              },
+              {
+                "words": "рубить,сечь,резать",
+                "weight": 0.9
+              },
+              {
+                "words": "молоть,размалывать,размолоть,дробить,раздробить,раздроблять,измельчать,измельчить,размельчать,размельчить,мельчить,издроблять,издробить",
+                "weight": 0.9
+              },
+              {
+                "words": "изрубать,изрубить,нарезать,нарезать,разрезать,разрезать,измельчать,измельчить",
+                "weight": 0.8003
+              }
+            ],
+            "ukr": [
+              {
+                "words": "кришити",
+                "weight": 1
+              },
+              {
+                "words": "накришити",
+                "weight": 1
+              },
+              {
+                "words": "покришити",
+                "weight": 1
+              },
+              {
+                "words": "шаткувати",
+                "weight": 1
+              },
+              {
+                "words": "пошаткувати",
+                "weight": 1
+              },
+              {
+                "words": "сікти",
+                "weight": 1
+              },
+              {
+                "words": "посікти",
+                "weight": 1
+              },
+              {
+                "words": "подрібнювати",
+                "weight": 1
+              },
+              {
+                "words": "подрібнити",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ebaühtlaselt, lühikeste juppide kaupa toimuma, katkestusi sisse tegema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Sõnumit saata oli võimatu, sest levi hakkis.",
+            "Kui pilt ei hangu ega heli ei haki, on antenniga üldiselt korras."
+          ],
+          "synonyms": [
+            "jampsima,jukerdama,jupsima,tembutama,trikitama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "шалить,капризничать,пошаливать,барахлить",
+                "weight": 0.605
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hekseldama",
+        "peenestama",
+        "tükeldama",
+        "jukerdama",
+        "poetama",
+        "sebima",
+        "leekima",
+        "leekima",
+        "sörkima",
+        "mekkima",
+        "pulbriks tegema",
+        "raasutama",
+        "murendama",
+        "pudendama",
+        "pudistama",
+        "röstima",
+        "pookima",
+        "pookima",
+        "röökima",
+        "õlitama",
+        "surkima",
+        "ohkima",
+        "häkkima",
+        "kruttima",
+        "nuuskima",
+        "klõbistama",
+        "nokkima",
+        "tükkima",
+        "krõbistama",
+        "torkima",
+        "rokkima",
+        "tibutama",
+        "nöökima",
+        "mähkima",
+        "näpistama",
+        "praadima",
+        "pleekima",
+        "praakima",
+        "krõmpsuma",
+        "kelkima",
+        "koukima",
+        "sorkima",
+        "hautama",
+        "vehkima",
+        "öökima",
+        "puskima",
+        "klopsima",
+        "näppima",
+        "nühkima",
+        "timmima",
+        "lükkima",
+        "lakkima",
+        "lokkima",
+        "kibelema",
+        "pakkima",
+        "kükkima",
+        "dokkima",
+        "rookima",
+        "soiguma",
+        "haakima",
+        "tikkima",
+        "solkima",
+        "plinkima",
+        "lonkima"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "hakkima",
+      "translations": [
+        "chop suey",
+        "chop up",
+        "hack",
+        "mince"
+      ]
+    }
+  ]
+}

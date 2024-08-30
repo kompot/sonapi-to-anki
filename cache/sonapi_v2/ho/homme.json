@@ -1,0 +1,630 @@
+{
+  "requestedWord": "homme",
+  "estonianWord": "homme",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "homme"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "käesolevale, tänasele päevale järgneval päeval,tänasele päevale järgneval päeval",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Homme algab kool.",
+            "Homme on neljapäev.",
+            "Homme sõidame reisile.",
+            "Homme sõidame maale."
+          ],
+          "synonyms": [
+            "hommepäev"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "tomorrow",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "demain",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "завтра",
+                "weight": 1
+              },
+              {
+                "words": "назавтра",
+                "weight": 1
+              },
+              {
+                "words": "завтра же",
+                "weight": 0.667
+              }
+            ],
+            "ukr": [
+              {
+                "words": "завтра",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "lähemas tulevikus",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Täna-homme nii keerulist olukorda ei lahenda."
+          ],
+          "synonyms": [
+            "lähemal ajal,ligemal ajal",
+            "nõndapea,niipea",
+            "lähipäevil",
+            "täna-homme"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "завтра",
+                "weight": 1
+              },
+              {
+                "words": "в ближайшее время,в скором времени,в недалёком будущем,вскоре",
+                "weight": 0.7
+              },
+              {
+                "words": "не так скоро",
+                "weight": 0.7
+              },
+              {
+                "words": "на днях,в ближайшие дни",
+                "weight": 0.511
+              },
+              {
+                "words": "сегодня-завтра,на днях,не сегодня завтра",
+                "weight": 0.732
+              }
+            ],
+            "fra": [
+              {
+                "words": "prochainement",
+                "weight": 0.7
+              },
+              {
+                "words": "de sitôt",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "найближчим часом,незабаром,невдовзі",
+                "weight": 0.7
+              },
+              {
+                "words": "не так швидко",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "niipea",
+        "ligemal ajal",
+        "lähipäevil",
+        "ülehomme",
+        "täna",
+        "südaöösel",
+        "eile",
+        "hommepäev",
+        "üleülehomme",
+        "täna-homme",
+        "homne",
+        "tulevik",
+        "täna"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "01",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "homme"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "homme"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "hommet"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "hommesse"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "hommes"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "hommest"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "hommele"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "hommel"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "hommelt"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "hommeks"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "hommeni"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "hommena"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "hommeta"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "hommega"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "hommed"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "hommete"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "hommeid"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "hommetesse,hommeisse"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "hommetes,hommeis"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "hommetest,hommeist"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "hommetele,hommeile"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "hommetel,hommeil"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "hommetelt,hommeilt"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "hommeteks,hommeiks"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "hommeteni"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "hommetena"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "hommeteta"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "hommetega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "homne päev,lähem tulevik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ärkad üles ja avastad, et homme on käes.",
+            "Mees lubas remondiga homme peale hakata, aga seda hommet pole veel tulnud."
+          ],
+          "synonyms": [
+            "homne",
+            "tulevik"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "завтра",
+                "weight": 1
+              },
+              {
+                "words": "завтрашний день,завтра",
+                "weight": 0.9
+              },
+              {
+                "words": "будущее,грядущее,будущность",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "demain",
+                "weight": 0.9
+              },
+              {
+                "words": "avenir",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "завтра,завтрашній день",
+                "weight": 0.9
+              },
+              {
+                "words": "майбутнє,майбутність",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "future",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "homne",
+        "tulevik",
+        "ülehomme",
+        "lähipäevil",
+        "täna",
+        "südaöösel",
+        "hommepäev",
+        "üleülehomme",
+        "täna-homme",
+        "täna",
+        "eile"
+      ]
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "mis tahes soost või vanusest isik (nt mees, naine, laps), ühiskonna liige, liigi <eki-foreign>Homo sapiens</eki-foreign> esindaja,mees, naine või laps",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "inimene",
+            "inimesepoeg",
+            "in",
+            "inimolend",
+            "inimeseloom,inimloom",
+            "surelik",
+            "inimeselaps",
+            "inimlaps",
+            "hingeline,hing",
+            "nägu",
+            "lihtsurelik",
+            "jumala loom,jumalaloom",
+            "põrmulaps",
+            "loom",
+            "isik"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "être humain",
+                "weight": 1
+              },
+              {
+                "words": "humain",
+                "weight": 1
+              },
+              {
+                "words": "personne",
+                "weight": 1
+              },
+              {
+                "words": "individu,personne",
+                "weight": 0.741
+              }
+            ],
+            "rus": [
+              {
+                "words": "человек",
+                "weight": 1
+              },
+              {
+                "words": "ч.",
+                "weight": 1
+              },
+              {
+                "words": "чел.",
+                "weight": 1
+              },
+              {
+                "words": "чел-к",
+                "weight": 1
+              },
+              {
+                "words": "человеческое существо,человек",
+                "weight": 0.791
+              },
+              {
+                "words": "человек,тварь,существо,человечина",
+                "weight": 0.7953
+              },
+              {
+                "words": "смертный",
+                "weight": 0.9
+              },
+              {
+                "words": "дитя человеческое",
+                "weight": 0.9
+              },
+              {
+                "words": "сын человеческий",
+                "weight": 0.8193
+              },
+              {
+                "words": "живая душа,душа,живое существо",
+                "weight": 0.9
+              },
+              {
+                "words": "человек,тип",
+                "weight": 0.9
+              },
+              {
+                "words": "простой смертный",
+                "weight": 0.9
+              },
+              {
+                "words": "божья тварь",
+                "weight": 0.9
+              },
+              {
+                "words": "животное,скотина",
+                "weight": 0.9
+              },
+              {
+                "words": "лицо,персона,особа,личность",
+                "weight": 0.741
+              }
+            ],
+            "ukr": [
+              {
+                "words": "людина",
+                "weight": 1
+              },
+              {
+                "words": "персона,особа",
+                "weight": 0.741
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(hrl täiskasvanud) meessoost inimene,täiskasvanud meessoost inimene",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "mees",
+            "meeshing,meesisik,meesterahvas",
+            "isane",
+            "vend,vennas",
+            "mehepoeg",
+            "püksikandja,pükstekandja",
+            "mehetükk",
+            "täismees",
+            "aadam",
+            "hr,härra"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "мужчина",
+                "weight": 1
+              },
+              {
+                "words": "мужик",
+                "weight": 1
+              },
+              {
+                "words": "мужчина",
+                "weight": 0.9
+              },
+              {
+                "words": "самец",
+                "weight": 0.9
+              },
+              {
+                "words": "брат,дружочек,дружище,братец,голубчик,братан,браток,дружок,малый,братишка,братик",
+                "weight": 0.7
+              },
+              {
+                "words": "сын,муж",
+                "weight": 0.8067
+              },
+              {
+                "words": "мужчина,мужик",
+                "weight": 0.9
+              },
+              {
+                "words": "настоящий мужчина,взрослый мужчина",
+                "weight": 0.606
+              },
+              {
+                "words": "Адам",
+                "weight": 0.7
+              },
+              {
+                "words": "г-н,господин",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чоловік",
+                "weight": 1
+              },
+              {
+                "words": "пан,добродій",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "monsieur",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "gentleman,mister",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "homme",
+      "translations": [
+        "manana",
+        "tomorrow"
+      ]
+    }
+  ]
+}

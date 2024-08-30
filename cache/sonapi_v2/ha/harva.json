@@ -1,0 +1,142 @@
+{
+  "requestedWord": "harva",
+  "estonianWord": "harva",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "harva"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "pika vaheaja järel,üksikutel juhtudel,pikema ajavahemiku järel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pidudel tantsib ta harva.",
+            "Harva mõtleme sellele, et ..",
+            "Näen teda viimasel ajal harva.",
+            "Juulis sadas vihma väga harva."
+          ],
+          "synonyms": [
+            "harvalt",
+            "harvasti",
+            "aeg-ajalt,hooti,kohati,mõnikord,paiguti,puhuti,taoti,teinekord,tükati,vahel,vahest,vahetevahel,sekka"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "rarely",
+                "weight": 1
+              },
+              {
+                "words": "occasionally,sometimes,once in a while,now and again,every so often,every now and then,from time to time",
+                "weight": 0.709
+              }
+            ],
+            "fra": [
+              {
+                "words": "rarement",
+                "weight": 1
+              },
+              {
+                "words": "de temps en temps,par moments,parfois",
+                "weight": 0.709
+              }
+            ],
+            "rus": [
+              {
+                "words": "редко",
+                "weight": 1
+              },
+              {
+                "words": "изредка",
+                "weight": 1
+              },
+              {
+                "words": "иногда",
+                "weight": 1
+              },
+              {
+                "words": "нечасто",
+                "weight": 1
+              },
+              {
+                "words": "время от времени,по временам,временами,иногда,порой,урывками,кое-когда,от случая к случаю,другой раз,эпизодически,иной раз,подчас",
+                "weight": 0.709
+              }
+            ],
+            "ukr": [
+              {
+                "words": "рідко",
+                "weight": 1
+              },
+              {
+                "words": "нечасто",
+                "weight": 1
+              },
+              {
+                "words": "зрідка",
+                "weight": 1
+              },
+              {
+                "words": "іноді",
+                "weight": 1
+              },
+              {
+                "words": "іноді,інколи,часом,час від часу,деколи",
+                "weight": 0.709
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "haruharva",
+        "mõnikord",
+        "aeg-ajalt",
+        "tihti",
+        "vähe",
+        "vähe",
+        "sagedasti",
+        "harvanähtavalt",
+        "alatihti",
+        "enamasti",
+        "harvanähtav",
+        "imeharva",
+        "tavaliselt",
+        "üldiselt",
+        "väga",
+        "harv",
+        "sagedamini",
+        "harvem",
+        "sageli",
+        "harvalt",
+        "harvemini"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "harva",
+      "translations": [
+        "infrequently",
+        "rarely",
+        "seldom"
+      ]
+    }
+  ]
+}

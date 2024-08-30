@@ -1,0 +1,95 @@
+{
+  "requestedWord": "sõltuvalt",
+  "estonianWord": "sõltuvalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sõltuvalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "olenedes millestki, teatud asjaolusid arvesse võttes,millestki lähtudes, millegi järgi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Olukorrast sõltuvalt võib lahendus olla erinev.",
+            "Üliõpilaspilet maksab sõltuvalt ülikoolist umbes 2-3 eurot.",
+            "Valin muusikat sõltuvalt meeleolust.",
+            "Ta saab palka tulemustest sõltuvalt."
+          ],
+          "synonyms": [
+            "olenevalt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "en fonction de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в зависимости",
+                "weight": 1
+              },
+              {
+                "words": "согласно",
+                "weight": 1
+              },
+              {
+                "words": "в соответствии",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "залежно від",
+                "weight": 1
+              },
+              {
+                "words": "згідно з",
+                "weight": 1
+              },
+              {
+                "words": "відповідно до",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "olenevalt",
+        "olenema",
+        "olenevus",
+        "sõltumata",
+        "lähtuvalt",
+        "olenematult",
+        "olenemata",
+        "olenematu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sõltuvalt",
+      "translations": [
+        "pending"
+      ]
+    }
+  ]
+}

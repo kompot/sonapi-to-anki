@@ -1,0 +1,659 @@
+{
+  "requestedWord": "eks",
+  "estonianWord": "eks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(rõhutava sõnana:) esineb lausetes, mis väljendavad nentimist, oletust või soovitust,kinnitab või toob esile seda, mida lauses öeldakse",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Eks ta ole.",
+            "Eks elu näita.",
+            "Eks inimesi on igasuguseid.",
+            "Eks pead katsetama, mis Sulle sobib.",
+            "Eks iga algus on raske.",
+            "Eks tee ise, kui paremini oskad."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "ведь",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "так",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(rõhutava sõnana:) esineb lausetes, mis väljendavad pahameelt või imestust",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Eks katsu veel vastu hakata!",
+            "Eks näe imet!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вот так",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(esineb küsimustes, millele oodatakse jaatavat vastust, nõustumist),kasutatakse küsimustes, millele eeldatakse jaatavat vastust",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Helista mulle, eks?",
+            "Ootame ta ära, eks.",
+            "Tuled siis homme külla, eks?",
+            "See on sinu koer, eks ole?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "right",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "n'est-ce pas",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "не так ли",
+                "weight": 1
+              },
+              {
+                "words": "не правда ли",
+                "weight": 1
+              },
+              {
+                "words": "так ведь",
+                "weight": 1
+              },
+              {
+                "words": "да",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чи не так",
+                "weight": 1
+              },
+              {
+                "words": "хіба не так",
+                "weight": 1
+              },
+              {
+                "words": "правда ж",
+                "weight": 1
+              },
+              {
+                "words": "чи ж не правда",
+                "weight": 1
+              },
+              {
+                "words": "так же ж",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "noh",
+        "jah",
+        "kah",
+        "muidugi",
+        "ikka",
+        "küll",
+        "vist",
+        "vist",
+        "see",
+        "siis",
+        "võibolla",
+        "aga",
+        "sittagi",
+        "imeasi",
+        "krehvtine",
+        "sihukene",
+        "küll",
+        "nojah",
+        "sest",
+        "vot",
+        "aga"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "eks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "eksi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "eksi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "eksi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "eksisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "eksis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "eksist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "eksile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "eksil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "eksilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "eksiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "eksini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "eksina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "eksita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "eksiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "eksid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "ekside"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "ekse,eksisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "eksidesse,eksesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "eksides,ekses"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "eksidest,eksest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "eksidele,eksele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "eksidel,eksel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "eksidelt,ekselt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "eksideks,ekseks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "eksideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "eksidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "eksideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "eksidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "endine abikaasa või elukaaslane",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Olin veendunud, et kohtumine eksiga ei tekita enam mingeid emotsioone.",
+            "Nagu peaaegu kõigil täiskasvanutel, on minulgi eksid."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "бывший",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sittagi",
+        "noh",
+        "jah",
+        "kah",
+        "imeasi",
+        "krehvtine",
+        "sihukene",
+        "muidugi",
+        "ikka",
+        "küll",
+        "küll",
+        "nojah",
+        "sest",
+        "vot",
+        "vist",
+        "vist",
+        "see",
+        "siis",
+        "võibolla",
+        "aga",
+        "aga"
+      ]
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "üksikese, hrl hulgana, loendatava kogumina paljude samasuguste hulgast (nt trükitoodete kohta)",
+          "partOfSpeech": [],
+          "examples": [
+            "Õppeaasta jooksul saadi teavikuid juurde 1299 eks, maha kanti 77 eks."
+          ],
+          "synonyms": [
+            "eksemplar",
+            "üksikese",
+            "tk,tükk"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "экземпляр",
+                "weight": 1
+              },
+              {
+                "words": "экз",
+                "weight": 1
+              },
+              {
+                "words": "единичная вещь",
+                "weight": 0.9
+              },
+              {
+                "words": "штука,шт.",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "екземпляр",
+                "weight": 1
+              },
+              {
+                "words": "примірник",
+                "weight": 1
+              },
+              {
+                "words": "штука",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "pièce",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "varasemasse, möödunud aega kuuluv, ennemini (keegi) olnud, kellenagi töötanud vms,varem olnud,kunagi ammu olnud",
+          "partOfSpeech": [],
+          "examples": [
+            "Eksabikaasa.",
+            "Eksmaailmameister."
+          ],
+          "synonyms": [
+            "endine",
+            "kunagine",
+            "kauge",
+            "vana",
+            "varem",
+            "endisaegne,omaaegne",
+            "ammune",
+            "tookordne,tollane,tolleaegne,toonane",
+            "eel,eelnev",
+            "ennistine",
+            "möödunud,läinud",
+            "tunane",
+            "varasem,varajasem"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "ancien",
+                "weight": 1
+              },
+              {
+                "words": "lointain,éloigné",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "экс",
+                "weight": 1
+              },
+              {
+                "words": "бывший",
+                "weight": 1
+              },
+              {
+                "words": "прежний",
+                "weight": 1
+              },
+              {
+                "words": "прошлый",
+                "weight": 1
+              },
+              {
+                "words": "давний",
+                "weight": 1
+              },
+              {
+                "words": "былой",
+                "weight": 1
+              },
+              {
+                "words": "далёкий",
+                "weight": 0.7
+              },
+              {
+                "words": "бывший,старый,прежний",
+                "weight": 0.7
+              },
+              {
+                "words": "прежний,прошлый",
+                "weight": 0.7
+              },
+              {
+                "words": "прежний,старинный,древний,былой,старый",
+                "weight": 0.782
+              },
+              {
+                "words": "давнишний,давний",
+                "weight": 0.6605
+              },
+              {
+                "words": "давний,прежний,бывший,недавний,тогдашний,прошлый",
+                "weight": 0.9
+              },
+              {
+                "words": "предыдущий,предшествующий",
+                "weight": 0.9
+              },
+              {
+                "words": "прежний",
+                "weight": 0.9
+              },
+              {
+                "words": "ушедший,прошедший,былой,бывший,прошлый,прежний",
+                "weight": 0.9
+              },
+              {
+                "words": "тогдашний",
+                "weight": 0.7
+              },
+              {
+                "words": "более ранний,прежний",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "колишній",
+                "weight": 1
+              },
+              {
+                "words": "минулий",
+                "weight": 1
+              },
+              {
+                "words": "давній",
+                "weight": 1
+              },
+              {
+                "words": "далекий",
+                "weight": 0.7
+              },
+              {
+                "words": "старий,минулий,колишній",
+                "weight": 0.7
+              },
+              {
+                "words": "колишній,минулий",
+                "weight": 0.9
+              },
+              {
+                "words": "колишній,давніший",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "old",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "välja-, ära-",
+          "partOfSpeech": [],
+          "examples": [
+            "Eksmatrikuleerima.",
+            "Eksport."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "endine",
+        "noh",
+        "jah",
+        "kah",
+        "imeasi",
+        "krehvtine",
+        "sihukene",
+        "muidugi",
+        "ikka",
+        "küll",
+        "küll",
+        "nojah",
+        "sest",
+        "vot",
+        "vist",
+        "vist",
+        "see",
+        "sittagi",
+        "siis",
+        "võibolla",
+        "aga",
+        "aga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "eks",
+      "translations": [
+        "isn't it"
+      ]
+    }
+  ]
+}

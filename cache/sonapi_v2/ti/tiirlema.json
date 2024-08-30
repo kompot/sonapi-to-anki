@@ -1,0 +1,581 @@
+{
+  "requestedWord": "tiirlema",
+  "estonianWord": "tiirlema",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "30",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "tiirlema"
+        },
+        {
+          "inflectionType": "30",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "tiirlemata"
+        },
+        {
+          "inflectionType": "30",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "tiirlemas"
+        },
+        {
+          "inflectionType": "30",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "tiirlemast"
+        },
+        {
+          "inflectionType": "30",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "tiirlemaks"
+        },
+        {
+          "inflectionType": "30",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "tiireldama"
+        },
+        {
+          "inflectionType": "30",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "tiirelda"
+        },
+        {
+          "inflectionType": "30",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "tiireldes"
+        },
+        {
+          "inflectionType": "30",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "tiirlev"
+        },
+        {
+          "inflectionType": "30",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "tiireldav"
+        },
+        {
+          "inflectionType": "30",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "tiirelnud"
+        },
+        {
+          "inflectionType": "30",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "tiirelnud"
+        },
+        {
+          "inflectionType": "30",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "tiireldud"
+        },
+        {
+          "inflectionType": "30",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "tiireldud"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "tiirlen"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "tiirled"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "tiirleb"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "tiirleme"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "tiirlete"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "tiirlevad"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "tiirle"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "tiireldakse"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "tiirelda"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "tiirlesin"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "tiirlesid"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "tiirles"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "tiirlesime"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "tiirlesite"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "tiirlesid"
+        },
+        {
+          "inflectionType": "30",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "tiireldi"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "tiirleksin"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "tiirleksid"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "tiirleks"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "tiirleksime"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "tiirleksite"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "tiirleksid"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "tiireldaks"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "tiirelnuksin"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "tiirelnuksid"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "tiirelnuks"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "tiirelnuksime"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "tiirelnuksite"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "tiirelnuksid"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "tiirelduks"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "tiirlevat"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "tiireldavat"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "tiirelnuvat"
+        },
+        {
+          "inflectionType": "30",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "tiirelduvat"
+        },
+        {
+          "inflectionType": "30",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "tiirle"
+        },
+        {
+          "inflectionType": "30",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "tiirelgem"
+        },
+        {
+          "inflectionType": "30",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "tiirelge"
+        },
+        {
+          "inflectionType": "30",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "tiirelgu"
+        },
+        {
+          "inflectionType": "30",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "tiireldagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kehast väljaspool asuva keskpunkti (või telje) ümber liikuma, tiire tegema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Maa tiirleb ümber Päikese."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "крутиться",
+                "weight": 1
+              },
+              {
+                "words": "вращаться",
+                "weight": 1
+              },
+              {
+                "words": "вертеться",
+                "weight": 1
+              },
+              {
+                "words": "кружить",
+                "weight": 1
+              },
+              {
+                "words": "кружиться",
+                "weight": 1
+              },
+              {
+                "words": "двигаться по кругу",
+                "weight": 1
+              },
+              {
+                "words": "увиваться",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ümber oma telje pöörlema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Rattad tiirlesid ühe koha peal.",
+            "Karussell tiirles aina kiiremini."
+          ],
+          "synonyms": [
+            "keerlema,pöörlema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "вращаться",
+                "weight": 1
+              },
+              {
+                "words": "обращаться",
+                "weight": 1
+              },
+              {
+                "words": "ворочаться,вертеться,вихриться,вращаться,кружиться,крутиться,крутануться",
+                "weight": 0.837
+              }
+            ],
+            "fra": [
+              {
+                "words": "tourner",
+                "weight": 0.837
+              }
+            ],
+            "ukr": [
+              {
+                "words": "крутитися,обертатися,вертітися",
+                "weight": 0.837
+              }
+            ]
+          }
+        },
+        {
+          "definition": "keereldes, loogeldes, siia-sinna (ringikujuliselt) liikuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Õhus tiirleb lumehelbeid.",
+            "Kass tiirleb jalus.",
+            "Poisikesed tiirlesid majade vahel."
+          ],
+          "synonyms": [
+            "keerlema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "кружиться",
+                "weight": 1
+              },
+              {
+                "words": "крутиться",
+                "weight": 1
+              },
+              {
+                "words": "крутиться,вертеться,виться,извиваться",
+                "weight": 0.837
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(mõtete, jutu, elu kohta:) sama asjaga seotult mitmes suunas liikuma, üha (rahutult, lahendust otsides) asja juurde tagasi tulles,jutu, mõtete või elu kohta: kellegagi või millegagi tihedalt seotud olema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Peas tiirlevad rahutud mõtted.",
+            "Jutt tiirles ainult raha ümber."
+          ],
+          "synonyms": [
+            "keerlema",
+            "pöörlema",
+            "ringi keerlema,ringlema",
+            "ringi tormama"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "tourner",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "крутиться",
+                "weight": 1
+              },
+              {
+                "words": "вертеться",
+                "weight": 1
+              },
+              {
+                "words": "вращаться",
+                "weight": 1
+              },
+              {
+                "words": "кружиться",
+                "weight": 1
+              },
+              {
+                "words": "циркулировать,ходить,бытовать",
+                "weight": 0.7857
+              }
+            ],
+            "ukr": [
+              {
+                "words": "крутитися",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab, et poolehoiu võitmiseks pööratakse kellelegi kestvalt tähelepanu",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ilusate naiste ümber tiirleb palju austajaid."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "tuuritama",
+        "vurritama",
+        "keerlema",
+        "tiirutama",
+        "keerutama",
+        "roteerima",
+        "piirlema",
+        "kiibitsema",
+        "sülemlema",
+        "askeldama",
+        "saalima",
+        "kihama",
+        "kohtlema",
+        "keerduma",
+        "ringi tiirutama",
+        "käibima",
+        "seegama",
+        "pöörlema",
+        "ümber käima",
+        "peret heitma",
+        "väntama",
+        "ringlema",
+        "sagima",
+        "pöörama",
+        "käsitsema",
+        "sebima",
+        "kõlkuma",
+        "pööritama",
+        "lõõritama",
+        "tuulduma",
+        "sirutuma",
+        "tiirlemisperiood",
+        "põrkama",
+        "tukslema",
+        "tiirlemiskiirus",
+        "tõuklema",
+        "põrnitsema",
+        "vilgutama",
+        "paiskuma",
+        "väänlema",
+        "tõukuma",
+        "kraaksuma"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tiirlema",
+      "translations": [
+        "circle",
+        "circle around",
+        "circle round",
+        "spin"
+      ]
+    }
+  ]
+}

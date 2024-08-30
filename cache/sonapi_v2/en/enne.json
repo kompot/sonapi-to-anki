@@ -1,0 +1,742 @@
+{
+  "requestedWord": "enne",
+  "estonianWord": "enne",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "enne"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "enne praegust või teatavat aega, varasemal ajal, millalgi minevikus,varasemal ajal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Olen enne hakkama saanud, saan pärast ka.",
+            "Sellist asja polnud keegi enne näinud.",
+            "Katsume enne pimedat koju jõuda.",
+            "Kus sa enne töötasid?",
+            "Mart jõudis tööle enne mind.",
+            "Kohtume enne lõunat.",
+            "Enne tormi oli ilm vaikne."
+          ],
+          "synonyms": [
+            "ennem",
+            "ennemalt",
+            "ennemini",
+            "varem",
+            "varemalt",
+            "varemini",
+            "tuna",
+            "varasemalt"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "earlier",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "avant",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "раньше",
+                "weight": 1
+              },
+              {
+                "words": "прежде",
+                "weight": 1
+              },
+              {
+                "words": "ранее",
+                "weight": 1
+              },
+              {
+                "words": "перед",
+                "weight": 1
+              },
+              {
+                "words": "до",
+                "weight": 1
+              },
+              {
+                "words": "недавно",
+                "weight": 0.9
+              },
+              {
+                "words": "ранее,раньше",
+                "weight": 0.618
+              }
+            ],
+            "ukr": [
+              {
+                "words": "раніше",
+                "weight": 1
+              },
+              {
+                "words": "перше",
+                "weight": 1
+              },
+              {
+                "words": "до",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "alguses, esimese asjana,kõige esimese tegevuse või asjana, alguses",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Enne mõtle asi läbi, siis otsusta.",
+            "Enne töö, siis lõbu.",
+            "Enne mõtle, siis ütle.",
+            "Ma ei saa praegu reisile minna, pean enne raha koguma."
+          ],
+          "synonyms": [
+            "esmalt",
+            "kõigepealt",
+            "esialgu,esipuhku",
+            "esialgu",
+            "algatuseks",
+            "alul,algul"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "first",
+                "weight": 1
+              },
+              {
+                "words": "firstly",
+                "weight": 1
+              },
+              {
+                "words": "first of all",
+                "weight": 1
+              },
+              {
+                "words": "in the beginning",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "d'abord",
+                "weight": 1
+              },
+              {
+                "words": "(tout) d'abord,au début",
+                "weight": 0.7928
+              },
+              {
+                "words": "au début,d'abord",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "сначала",
+                "weight": 1
+              },
+              {
+                "words": "прежде",
+                "weight": 1
+              },
+              {
+                "words": "прежде всего",
+                "weight": 1
+              },
+              {
+                "words": "в первую очередь",
+                "weight": 1
+              },
+              {
+                "words": "сперва",
+                "weight": 1
+              },
+              {
+                "words": "первоначально,пока,пока что,сперва,поначалу,на первых порах,в первое время,сначала,вначале",
+                "weight": 0.7928
+              },
+              {
+                "words": "сперва,вначале,сначала",
+                "weight": 0.7928
+              },
+              {
+                "words": "для начала",
+                "weight": 0.7
+              },
+              {
+                "words": "в начале,поначалу,на первых порах,в первое время,сначала,вначале",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "спочатку",
+                "weight": 1
+              },
+              {
+                "words": "насамперед",
+                "weight": 1
+              },
+              {
+                "words": "передусім",
+                "weight": 1
+              },
+              {
+                "words": "найперше",
+                "weight": 1
+              },
+              {
+                "words": "перш за все",
+                "weight": 1
+              },
+              {
+                "words": "у першу чергу",
+                "weight": 1
+              },
+              {
+                "words": "поки що,спершу,на початку,спочатку,поки",
+                "weight": 0.7928
+              },
+              {
+                "words": "спершу,на початку,спочатку",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ruumiliselt millestki eespool,liikumisel: millegi ees,varem, kui sa millenigi jõuad",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Enne silda keerab maanteelt rada paremale.",
+            "Enne silda pööra paremale."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "avant",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "до",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "перед",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(valiku puhul:) midagi eelistades, millegi poole kaldudes,kasuta siis, kui tahad näidata, kumba sa kahest võimalusest eelistad",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Enne suren nälga, kui liha söön."
+          ],
+          "synonyms": [
+            "enam",
+            "parem",
+            "pigem",
+            "pigemini",
+            "rohkem"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "more",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "plutôt",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "лучше",
+                "weight": 1
+              },
+              {
+                "words": "больше",
+                "weight": 1
+              },
+              {
+                "words": "скорее",
+                "weight": 1
+              },
+              {
+                "words": "вернее",
+                "weight": 1
+              },
+              {
+                "words": "скорей",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ліпше",
+                "weight": 1
+              },
+              {
+                "words": "краще",
+                "weight": 1
+              },
+              {
+                "words": "більше",
+                "weight": 1
+              },
+              {
+                "words": "більш",
+                "weight": 1
+              },
+              {
+                "words": "швидше",
+                "weight": 1
+              },
+              {
+                "words": "скоріше",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ette",
+        "esialgselt",
+        "omal ajal",
+        "alla",
+        "tuna",
+        "ennemalt",
+        "varem",
+        "esiti",
+        "pigem",
+        "ennest",
+        "algul",
+        "esmalt",
+        "hakul",
+        "esmapilgul",
+        "eelnevalt",
+        "eel",
+        "esiteks",
+        "esimese hooga",
+        "ennemini",
+        "ennist",
+        "algselt",
+        "varemini",
+        "esialgu",
+        "esiotsa",
+        "pigemini",
+        "parem",
+        "rohkem",
+        "ennakult",
+        "eeli",
+        "esimese jutiga",
+        "esimesel hoobil",
+        "enam",
+        "enam",
+        "meelsamini",
+        "alguses",
+        "varemalt",
+        "ennem",
+        "toona",
+        "vahetult",
+        "peale",
+        "kohe",
+        "hiljem",
+        "pärast",
+        "juba",
+        "alles",
+        "sümptom",
+        "tunnistus",
+        "ettetähendus",
+        "tunnismärk",
+        "tunnus",
+        "märk",
+        "tundemärk",
+        "päev-paar",
+        "alla",
+        "tähis",
+        "parem",
+        "rohkem",
+        "hõng",
+        "oomen",
+        "kohe",
+        "paar",
+        "paar"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "6",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "enne"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "ende"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "ennet"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "endesse"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "endes"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "endest"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "endele"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "endel"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "endelt"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "endeks"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "endeni"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "endena"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "endeta"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "endega"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "ended"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "ennete"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "endeid"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "ennetesse,endeisse"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "ennetes,endeis"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "ennetest,endeist"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "ennetele,endeile"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "ennetel,endeil"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "ennetelt,endeilt"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "enneteks,endeiks"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "enneteni"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "ennetena"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "enneteta"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "ennetega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "seik, nähtus või märk, mida arvatakse midagi ennustavat,viide millegi lähedusele, saabumisele",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Missugused ended toovad halba?",
+            "Septembrikuist äikest peetakse sooja sügise endeks."
+          ],
+          "synonyms": [
+            "ettetähendus",
+            "oomen",
+            "märk"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "предзнаменование",
+                "weight": 1
+              },
+              {
+                "words": "примета",
+                "weight": 1
+              },
+              {
+                "words": "предвестник",
+                "weight": 1
+              },
+              {
+                "words": "предвестие",
+                "weight": 1
+              },
+              {
+                "words": "знамение",
+                "weight": 1
+              },
+              {
+                "words": "признак,знак",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "signe",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "знак,ознака",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sümptom",
+        "tunnistus",
+        "ettetähendus",
+        "tunnismärk",
+        "tähis",
+        "märk",
+        "tunnus",
+        "tundemärk",
+        "hõng",
+        "oomen",
+        "ette",
+        "omal ajal",
+        "alla",
+        "alla",
+        "tuna",
+        "ennemalt",
+        "varem",
+        "esiti",
+        "pigem",
+        "ennest",
+        "algul",
+        "esmalt",
+        "hakul",
+        "esmapilgul",
+        "eelnevalt",
+        "eel",
+        "esiteks",
+        "esimese hooga",
+        "ennemini",
+        "ennist",
+        "algselt",
+        "varemini",
+        "esialgu",
+        "esiotsa",
+        "pigemini",
+        "parem",
+        "parem",
+        "rohkem",
+        "rohkem",
+        "ennakult",
+        "eeli",
+        "esimese jutiga",
+        "esimesel hoobil",
+        "enam",
+        "enam",
+        "meelsamini",
+        "alguses",
+        "ennem",
+        "varemalt",
+        "toona",
+        "vahetult",
+        "peale",
+        "kohe",
+        "kohe",
+        "hiljem",
+        "pärast",
+        "päev-paar",
+        "paar",
+        "juba",
+        "alles",
+        "paar",
+        "esialgselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "enne",
+      "translations": [
+        "ante-",
+        "augury",
+        "before",
+        "earlier",
+        "(ajaliselt) ere",
+        "omen",
+        "portent",
+        "prior to",
+        "short of the (sihtmärki)"
+      ]
+    }
+  ]
+}

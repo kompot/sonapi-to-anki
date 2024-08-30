@@ -1,0 +1,192 @@
+{
+  "requestedWord": "tavaliselt",
+  "estonianWord": "tavaliselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tavaliselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "suuremal osal juhtudest, enamasti,kõige sagedamini, nii nagu on üldine",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sel hooajal siin tavaliselt sajab.",
+            "Võõrliigid tavaliselt ohustavad kohalikku loomastikku.",
+            "Lähen pärast tööd tavaliselt otse koju."
+          ],
+          "synonyms": [
+            "harilikult",
+            "hrl",
+            "tav"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "habituellement",
+                "weight": 1
+              },
+              {
+                "words": "d'habitude",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "обычно",
+                "weight": 1
+              },
+              {
+                "words": "обыкновенно",
+                "weight": 1
+              },
+              {
+                "words": "большей частью",
+                "weight": 1
+              },
+              {
+                "words": "чаще всего",
+                "weight": 1
+              },
+              {
+                "words": "обыч.",
+                "weight": 1
+              },
+              {
+                "words": "обычн.",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звичайно",
+                "weight": 1
+              },
+              {
+                "words": "зазвичай",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teistest omataolistest eristumata",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta käib väga tavaliselt riides."
+          ],
+          "synonyms": [
+            "harilikult"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "обычно",
+                "weight": 1
+              },
+              {
+                "words": "обыкновенно",
+                "weight": 1
+              },
+              {
+                "words": "обыденно",
+                "weight": 1
+              },
+              {
+                "words": "просто",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "argiselt",
+        "harilikult",
+        "muidu",
+        "igapäevaselt",
+        "argipäevaselt",
+        "üldjuhul",
+        "üldiselt",
+        "proosaliselt",
+        "reeglina",
+        "tavaline",
+        "lihtsalt",
+        "harilik",
+        "normaalselt",
+        "alatihti",
+        "see",
+        "harva",
+        "vaid",
+        "sageli",
+        "tüüpiliselt",
+        "siiski",
+        "aga",
+        "aga",
+        "tõenäoliselt",
+        "nad",
+        "kui",
+        "kui",
+        "suhteliselt",
+        "pigem",
+        "tavapäraselt",
+        "loomulikult",
+        "rohkem",
+        "rohkem",
+        "isegi",
+        "samuti",
+        "ikka",
+        "küll",
+        "küll",
+        "enamasti",
+        "üsna",
+        "mõnikord",
+        "eriti",
+        "palju",
+        "palju",
+        "tegelikult",
+        "tihti",
+        "ikkagi",
+        "vähem",
+        "vähem",
+        "ainult",
+        "suureliselt",
+        "umbestäpselt",
+        "alati",
+        "väga",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tavaliselt",
+      "translations": [
+        "by and large",
+        "commonly",
+        "ordinarily",
+        "usually"
+      ]
+    }
+  ]
+}

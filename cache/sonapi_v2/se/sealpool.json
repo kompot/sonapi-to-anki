@@ -1,0 +1,95 @@
+{
+  "requestedWord": "sealpool",
+  "estonianWord": "sealpool",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sealpool"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingis kohas (kaugemal), (kuskil) seal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Siinpool uuriti tartlasi, sealpool stockholmlasi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в той стороне",
+                "weight": 1
+              },
+              {
+                "words": "на той стороне",
+                "weight": 1
+              },
+              {
+                "words": "по ту сторону",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi või kellegi suhtes teisel pool",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Ma elan nüüd sealpool jõge."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "по ту сторону",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ülevalpool",
+        "teispool",
+        "päevapool",
+        "ülalpool",
+        "sealpoolne",
+        "teinepool",
+        "siin",
+        "siin",
+        "kuspool",
+        "siinpool",
+        "pealpool",
+        "mööda",
+        "sealtpoolt",
+        "esipool"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sealpool",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "requestedWord": "varal",
+  "estonianWord": "varal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "varal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi abil, toel",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Selgitan oma mõtet järgmise näite varal."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "посредством",
+                "weight": 1
+              },
+              {
+                "words": "при помощи",
+                "weight": 1
+              },
+              {
+                "words": "с помощью",
+                "weight": 1
+              },
+              {
+                "words": "при посредстве",
+                "weight": 1
+              },
+              {
+                "words": "на основе",
+                "weight": 1
+              },
+              {
+                "words": "по",
+                "weight": 1
+              },
+              {
+                "words": "со",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "toel",
+        "väel",
+        "jõul",
+        "abil",
+        "vahendusel",
+        "najal",
+        "toetusel",
+        "kaudu",
+        "teel",
+        "varalaegas",
+        "vara",
+        "vara",
+        "vara",
+        "vara",
+        "varaline",
+        "põhjal"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "varal",
+      "translations": [
+        "by way of"
+      ]
+    }
+  ]
+}

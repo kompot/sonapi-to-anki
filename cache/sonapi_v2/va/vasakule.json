@@ -1,0 +1,99 @@
+{
+  "requestedWord": "vasakule",
+  "estonianWord": "vasakule",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vasakule"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "keha keskjoonest südame poole, vasaku käe poole või suunas,vasaku käe poole või suunas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pöörasime vasakule.",
+            "Pööra ristmikult vasakule."
+          ],
+          "synonyms": [
+            "pahemale",
+            "vasemale",
+            "vasakule poole"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "à gauche",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "влево",
+                "weight": 1
+              },
+              {
+                "words": "налево",
+                "weight": 1
+              },
+              {
+                "words": "в левую сторону",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ліворуч",
+                "weight": 1
+              },
+              {
+                "words": "наліво",
+                "weight": 1
+              },
+              {
+                "words": "вліво",
+                "weight": 1
+              },
+              {
+                "words": "у лівий бік",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vasakul",
+        "paremale",
+        "paremalt",
+        "vasakult",
+        "pahemale",
+        "vasemale",
+        "sinnapoole"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vasakule",
+      "translations": [
+        "haw",
+        "left"
+      ]
+    }
+  ]
+}

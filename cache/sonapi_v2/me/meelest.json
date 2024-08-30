@@ -1,0 +1,94 @@
+{
+  "requestedWord": "meelest",
+  "estonianWord": "meelest",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "meelest"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi arvamusel põhinedes, kellegi arvates,kellegi arvates",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Minu meelest pole sul õigus.",
+            "Minu meelest on tal õigus.",
+            "Mari meelest on see kleit ilus."
+          ],
+          "synonyms": [
+            "arust"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "selon",
+                "weight": 1
+              },
+              {
+                "words": "d'après",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "по мнению",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на думку",
+                "weight": 1
+              },
+              {
+                "words": "на погляд",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "arust",
+        "arvates",
+        "silmis",
+        "päris",
+        "muidugi",
+        "küll",
+        "küll",
+        "ikka",
+        "tõesti",
+        "vist",
+        "vist",
+        "jaoks",
+        "see",
+        "muidu",
+        "tegelikult",
+        "vast",
+        "aga",
+        "aga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "meelest",
+      "translations": []
+    }
+  ]
+}

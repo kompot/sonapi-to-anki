@@ -1,0 +1,386 @@
+{
+  "requestedWord": "menu",
+  "estonianWord": "menu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "menu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "menu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "menu"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "menusse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "menus"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "menust"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "menule"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "menul"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "menult"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "menuks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "menuni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "menuna"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "menuta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "menuga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "menud"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "menude"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "menusid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "menudesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "menudes"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "menudest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "menudele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "menudel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "menudelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "menudeks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "menudeni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "menudena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "menudeta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "menudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kordaminek, edu,(rahva, publiku) soosing",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Filmi saatis tohutu menu.",
+            "Raamat sai ootamatu menu osaliseks.",
+            "Menu põhjuseks oli osav reklaam."
+          ],
+          "synonyms": [
+            "edu",
+            "soosing",
+            "minek",
+            "populaarsus",
+            "furoor"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "успех",
+                "weight": 1
+              },
+              {
+                "words": "удача",
+                "weight": 1
+              },
+              {
+                "words": "фурор",
+                "weight": 1
+              },
+              {
+                "words": "успех,удача",
+                "weight": 0.769
+              },
+              {
+                "words": "милость,расположение,покровительство,фавор,благосклонность,благоволение",
+                "weight": 0.7
+              },
+              {
+                "words": "успех,спрос",
+                "weight": 0.7
+              },
+              {
+                "words": "популярность",
+                "weight": 0.9
+              },
+              {
+                "words": "фурор",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "succès",
+                "weight": 0.769
+              },
+              {
+                "words": "popularité",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "успіх,удача",
+                "weight": 0.769
+              },
+              {
+                "words": "популярність",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "success",
+                "weight": 0.769
+              },
+              {
+                "words": "popularity",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vaatajamenu",
+        "lööki olema",
+        "soosing",
+        "minek",
+        "populaarsus",
+        "edu",
+        "furoor",
+        "löök",
+        "tunnustus",
+        "menulavastus",
+        "menuk",
+        "menukas",
+        "menusari",
+        "menulugu",
+        "menukus",
+        "publikumenu",
+        "lõikus",
+        "õnn",
+        "hea",
+        "täisedu"
+      ]
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "restoranis, kohvikus vm pakutavate toitude (ja jookide) nimekiri käikude kaupa,leht, millel toitude ja jookide valik kirjas on",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "söögikaart",
+            "menüü",
+            "toidukaart",
+            "menüükaart"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "carte",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "меню",
+                "weight": 1
+              },
+              {
+                "words": "подбор кушаний",
+                "weight": 1
+              },
+              {
+                "words": "подбор блюд",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "меню",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "arvuti-, teleri-, mobiili- vm ekraanil esitatav valikuvõimaluste loend, millest kasutaja saab valida käivitatava toimingu,ekraanil esitatav loetelu, kust saab valida mitmesuguseid toiminguid, tavaliselt arvutis või mobiiltelefonis",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [
+            "menüü",
+            "menüüriba"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "меню",
+                "weight": 1
+              },
+              {
+                "words": "строка меню",
+                "weight": 0.699
+              }
+            ],
+            "ukr": [
+              {
+                "words": "меню",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "menu",
+      "translations": [
+        "fame"
+      ]
+    }
+  ]
+}

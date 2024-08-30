@@ -1,0 +1,477 @@
+{
+  "requestedWord": "taga",
+  "estonianWord": "taga",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "taga"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selja, tagakülje pool (teatud kaugusel), tagumisest küljest tagapool,tagaosas, tagaküljel,selles kohas või suunas, mis jääb selja poole,lõpus olevas või viimases osas",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Meie oleme viimased, taga ei ole enam kedagi tulemas.",
+            "Laps kõnnib isa taga.",
+            "Sel autol on mootor taga.",
+            "Kes seal taga seisab?",
+            "Mulle meeldib kinos taga istuda.",
+            "Bussis istus minu taga üks imelik mees."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "derrière",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "позади",
+                "weight": 1
+              },
+              {
+                "words": "сзади",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "позаду",
+                "weight": 1
+              },
+              {
+                "words": "ззаду",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millestki teisel pool (ja selle varjus), sealpool mingit piiri,millestki teisel pool (nii, et miski varjab)",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Päike on pilve taga.",
+            "Maja taga on parkla.",
+            "Koer on karbi taga peidus.",
+            "Pood on siin lähedal nurga taga.",
+            "Suvi polaarjoone taga."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "derrière",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "позади",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "позад",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "поза",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tagumisele poolele, osale kinnitatud, tagumisel poolel, osal küljes (oma otstarvet täitmas)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kirvel on õunapuust vars taga.",
+            "Nõelal on niit taga."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "teatud vahemaa kaugusel",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Hotell asus paari kilomeetri taga.",
+            "Tänavatel olid iga saja sammu taga valvurid väljas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ajaliselt möödas, seljataga,teatud kaugusel minevikus (ka vööndiaegadega seoses) või tulevikus",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Taga on magamata öö.",
+            "Tal on poissmehepõlv juba aastate taga.",
+            "Sügise algus on paari nädala taga.",
+            "New Yorgis on aeg seitse tundi meist taga."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "позади",
+                "weight": 1
+              },
+              {
+                "words": "в прошлом",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tasemelt, saavutustelt kaugemal tagapool, halvemal positsioonil,tasemelt või saavutustelt halvemal positsioonil",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "E-valdkonnas on nad Eestist taga.",
+            "Poolaja lõpuks oli Pärnu meeskond suurelt taga.",
+            "Meie meeskond on kolme punktiga taga."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "позади",
+                "weight": 1
+              },
+              {
+                "words": "сзади",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "позаду",
+                "weight": 1
+              },
+              {
+                "words": "ззаду",
+                "weight": 1
+              },
+              {
+                "words": "позад",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kella näidu kohta:) õigest ajast maha jäänud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kell on paar minutit taga."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "osutab esemele, vahendile, mille juures või kallal ollakse tegevuses,osutab esemele, mille juures või millega midagi tehakse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Pikad töötunnid arvuti taga.",
+            "Veetsime õhtu veiniklaasi taga.",
+            "Eksamite eel tuli poole ööni raamatu taga istuda.",
+            "Laps istub laua taga ja joonistab."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab millegi tõhusa olemasolule,toetamas, toeks",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Otsib meest, kel varandus taga.",
+            "Sul vägev kere taga, seepärast jaksad.",
+            "Seal olid suured rahad taga.",
+            "Ta teadis, et tema taga on rahvas."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "osutab nähtusele või asjaolule, mille peidus, varjus miski on",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Suurte sõnade taga oli tunda kõlksuvat tühjust.",
+            "Mustlaste hookuspookus, pole seal taga midagi.",
+            "Skandaali taga on isiklik viha ja vaen.",
+            "Miks ta nii kergesti nõustus, kas selle taga on midagi?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab mingile takistavale, pidurdavale põhjusele, mille tõttu miski ei saa toimuda",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Asi seisab bürokraatia taga.",
+            "Ehitustööd ootavad raha taga."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "tulemuseks, tagajärjeks,(kiiresti) järgnemas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tass kukkus maha ja kohe killud taga.",
+            "Sai sellise lataka vastu nina, et veri taga.",
+            "Luiged lähevad, lumi taga."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "osutab kellegi eeskujul toimimisele",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nagu vanemad ees, nii lapsed taga."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "sundimas, kannustamas, hoogu andmas (kiirustamist, millegagi kiire-olemist või ergutamist märkivana)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Selle asjaga on kiire taga.",
+            "Kogu aeg on rutt taga.",
+            "Mis parata, kui sundijad taga!",
+            "Mehel oli kõva naisevõtuvalu taga."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "järjest, üha, veel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Taga külmemaks läheb.",
+            "Taga hullem asi on."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "всё",
+                "weight": 1
+              },
+              {
+                "words": "только и",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ühtesoodu",
+        "pealegi",
+        "aina",
+        "järel",
+        "järel",
+        "muudkui",
+        "ühtejärge",
+        "ikka",
+        "päras",
+        "aiva",
+        "aiva",
+        "üha",
+        "puksiiris",
+        "järjest",
+        "korrast",
+        "slepis",
+        "keelt peksma",
+        "lõksutama",
+        "ees",
+        "möödas",
+        "kõrval",
+        "kõrval",
+        "all",
+        "ääres",
+        "lähedal",
+        "tahapoole",
+        "kihutama",
+        "taha",
+        "tagapool",
+        "seljataga",
+        "klatšima",
+        "keelt kandma",
+        "seljataha",
+        "juures",
+        "tagant",
+        "tagaõu",
+        "peal",
+        "sees",
+        "sees",
+        "tagaotsas"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "taga",
+      "translations": [
+        "after",
+        "astern",
+        "back of",
+        "behind",
+        "behind the eight ball",
+        "beyond",
+        "rear"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "requestedWord": "radar",
+  "estonianWord": "radar",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "radar"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "radari"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "radarit"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "radarisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "radaris"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "radarist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "radarile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "radaril"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "radarilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "radariks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "radarini"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "radarina"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "radarita"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "radariga"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "radarid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "radarite"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "radareid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "radaritesse,radareisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "radarites,radareis"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "radaritest,radareist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "radaritele,radareile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "radaritel,radareil"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "radaritelt,radareilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "radariteks,radareiks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "radariteni"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "radaritena"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "radariteta"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "radaritega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "raadiolainete abil objekte avastav ja jälgiv seade",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Lumesadu on radaril alati sinakas või roheline."
+          ],
+          "synonyms": [
+            "raadiolokaator"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "радар",
+                "weight": 1
+              },
+              {
+                "words": "радиолокатор",
+                "weight": 1
+              },
+              {
+                "words": "радиолокационная станция",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "liikuva objekti kiirust mõõtev seade, mida kasutatakse nt liikluse kontrollimiseks",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Politseinik salvestas radaril tema kiiruse näidu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "радар",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sekundaarradar",
+        "primaarradar",
+        "passiivradar",
+        "maaradar",
+        "avastusradar",
+        "aktiivradar",
+        "raadiolokaator",
+        "radarijaam",
+        "georadar",
+        "radarisüsteem"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "radar",
+      "translations": [
+        "radar"
+      ]
+    }
+  ]
+}

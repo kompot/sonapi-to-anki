@@ -1,0 +1,281 @@
+{
+  "requestedWord": "maaletooja",
+  "estonianWord": "maaletooja",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "1",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "maaletooja"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "maaletooja"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "maaletoojat"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "maaletoojasse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "maaletoojas"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "maaletoojast"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "maaletoojale"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "maaletoojal"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "maaletoojalt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "maaletoojaks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "maaletoojani"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "maaletoojana"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "maaletoojata"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "maaletoojaga"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "maaletoojad"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "maaletoojate"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "maaletoojaid"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "maaletoojatesse,maaletoojaisse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "maaletoojates,maaletoojais"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "maaletoojatest,maaletoojaist"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "maaletoojatele,maaletoojaile"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "maaletoojatel,maaletoojail"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "maaletoojatelt,maaletoojailt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "maaletoojateks,maaletoojaiks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "maaletoojateni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "maaletoojatena"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "maaletoojateta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "maaletoojatega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kaupade sisseveoga tegelev asutus või isik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Premium Motors on Hummeri ametlik maaletooja."
+          ],
+          "synonyms": [
+            "importöör",
+            "importija",
+            "sissevedaja"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "импортёр",
+                "weight": 1
+              },
+              {
+                "words": "поставщик",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "імпортер",
+                "weight": 1
+              },
+              {
+                "words": "постачальник",
+                "weight": 1
+              },
+              {
+                "words": "постачальниця",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(mingi uuenduse juurutaja kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Üliõpilased kirjeldasid eelmist rektorit kui akadeemilise vabaduse maaletoojat."
+          ],
+          "synonyms": [
+            "tooja",
+            "juurutaja"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "несущий,приносящий",
+                "weight": 0.537
+              },
+              {
+                "words": "внедритель",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "juurutaja",
+        "edasimüüja",
+        "müügiesindaja",
+        "tooja",
+        "hulgimüüja",
+        "turustaja",
+        "tootja",
+        "valmistaja",
+        "ainuesindaja"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "maaletooja",
+      "translations": [
+        "importer"
+      ]
+    }
+  ]
+}

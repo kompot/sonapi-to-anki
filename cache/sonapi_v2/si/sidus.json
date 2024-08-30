@@ -1,0 +1,527 @@
+{
+  "requestedWord": "sidus",
+  "estonianWord": "sidus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "sidus"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "sidusa"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "sidusat"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "sidusasse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "sidusas"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "sidusast"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "sidusale"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "sidusal"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "sidusalt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "sidusaks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "sidusani"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "sidusana"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "sidusata"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "sidusaga"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "sidusad"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "sidusate"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "sidusaid"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "sidusatesse,sidusaisse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "sidusates,sidusais"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "sidusatest,sidusaist"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "sidusatele,sidusaile"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "sidusatel,sidusail"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "sidusatelt,sidusailt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "sidusateks,sidusaiks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "sidusateni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "sidusatena"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "sidusateta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "sidusatega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tähenduselt, mõttelt tihedalt seotud, loogiliselt, sisuliselt kokkukuuluv",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Olles teadvusekaotuse äärel, võib inimene ajada täiesti sidusat juttu.",
+            "Sidus graaf."
+          ],
+          "synonyms": [
+            "koherentne",
+            "loogiline"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "связный",
+                "weight": 1
+              },
+              {
+                "words": "логический,логичный",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "logique",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "логічний",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "logical",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(aine, materjali kohta:) tihedalt, tihkelt seotud",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Sidus liiv."
+          ],
+          "synonyms": [
+            "nidus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "компактный",
+                "weight": 1
+              },
+              {
+                "words": "плотный",
+                "weight": 1
+              },
+              {
+                "words": "связный",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "nidus",
+        "loogiline",
+        "järjekindel",
+        "kitsidus",
+        "sidusus",
+        "siduma"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "9",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "sidus"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "siduse"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "sidust"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "sidusesse"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "siduses"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "sidusest"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "sidusele"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "sidusel"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "siduselt"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "siduseks"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "siduseni"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "sidusena"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "siduseta"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "sidusega"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "sidused"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "siduste"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "siduseid"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "sidustesse,siduseisse"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "sidustes,siduseis"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "sidustest,siduseist"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "sidustele,siduseile"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "sidustel,siduseil"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "sidustelt,siduseilt"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "sidusteks,siduseiks"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "sidusteni"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "sidustena"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "sidusteta"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "sidustega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kanga lõime- ja koelõngade põimumise kord,silmuste ühendumise viis trikool",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Õhuke labase sidusega kardinakangas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "переплетение",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "nidus",
+        "loogiline",
+        "järjekindel",
+        "kitsidus",
+        "sidusus",
+        "siduma"
+      ]
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sidus-"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(informaatikas:) pidevalt süsteemi või võrgu külge ühendatud ja kohese infovahetusega",
+          "partOfSpeech": [],
+          "examples": [
+            "Sidusandmebaas.",
+            "Sidusteenus.",
+            "Sidusrežiim."
+          ],
+          "synonyms": [
+            "online"
+          ],
+          "translations": {}
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sidus",
+      "translations": [
+        "coherent",
+        "cohesive"
+      ]
+    }
+  ]
+}

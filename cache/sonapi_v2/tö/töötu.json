@@ -1,0 +1,322 @@
+{
+  "requestedWord": "töötu",
+  "estonianWord": "töötu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "1",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "töötu"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "töötu"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "töötut"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "töötusse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "töötus"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "töötust"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "töötule"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "töötul"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "töötult"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "töötuks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "töötuni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "töötuna"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "töötuta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "töötuga"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "töötud"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "töötute"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "töötuid"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "töötutesse,töötuisse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "töötutes,töötuis"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "töötutest,töötuist"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "töötutele,töötuile"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "töötutel,töötuil"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "töötutelt,töötuilt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "töötuteks,töötuiks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "töötuteni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "töötutena"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "töötuteta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "töötutega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "inimene, kes on töövõimeline ja soovib tööd teha, ent on tööta,inimene, kellel ei ole tööd",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Töötute arv kahaneb.",
+            "Aastaga on töötute arv vähenenud."
+          ],
+          "synonyms": [
+            "töötatööline"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "unemployed",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "chômeur",
+                "weight": 1
+              },
+              {
+                "words": "chômeuse",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "безработный",
+                "weight": 1
+              },
+              {
+                "words": "безработная",
+                "weight": 1
+              },
+              {
+                "words": "без работы",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "безробітний",
+                "weight": 1
+              },
+              {
+                "words": "безробітна",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ilma tööta",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Töötu naine."
+          ],
+          "synonyms": [
+            "tööta"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "sans travail",
+                "weight": 1
+              },
+              {
+                "words": "sans emploi",
+                "weight": 1
+              },
+              {
+                "words": "au chômage",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "безработный",
+                "weight": 1
+              },
+              {
+                "words": "безработная",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "безробітний",
+                "weight": 1
+              },
+              {
+                "words": "безробітна",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tööta",
+        "tööturuamet",
+        "töötuskindlustus",
+        "tööotsija",
+        "töötuskindlustushüvitis",
+        "töötus",
+        "töötukassa",
+        "töötunked",
+        "töötulu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "töötu",
+      "translations": [
+        "at leisure",
+        "jobless",
+        "out of work",
+        "unemployed"
+      ]
+    }
+  ]
+}

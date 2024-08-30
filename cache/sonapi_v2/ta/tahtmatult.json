@@ -1,0 +1,149 @@
+{
+  "requestedWord": "tahtmatult",
+  "estonianWord": "tahtmatult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tahtmatult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tahtmisest sõltumatult, tahtele allumatult,ettekavatsematult, mitte meelega",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tüdruk punastas tahtmatult.",
+            "Kuulsin jutuajamist tahtmatult pealt."
+          ],
+          "synonyms": [
+            "juhtumisi,juhuslikult"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "непроизвольно",
+                "weight": 1
+              },
+              {
+                "words": "самопроизвольно",
+                "weight": 1
+              },
+              {
+                "words": "ненамеренно",
+                "weight": 1
+              },
+              {
+                "words": "непреднамеренно",
+                "weight": 1
+              },
+              {
+                "words": "спонтанно",
+                "weight": 1
+              },
+              {
+                "words": "неумышленно",
+                "weight": 1
+              },
+              {
+                "words": "невольно",
+                "weight": 1
+              },
+              {
+                "words": "нечаянно",
+                "weight": 1
+              },
+              {
+                "words": "без намерения",
+                "weight": 1
+              },
+              {
+                "words": "невзначай",
+                "weight": 1
+              },
+              {
+                "words": "ненароком",
+                "weight": 1
+              },
+              {
+                "words": "ненароком,случайно,нечаянно,невзначай,по случаю",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "par hasard,fortuitement",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "випадково",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "accidentally,randomly",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ekslikult",
+        "teadmatult",
+        "eksikombel",
+        "kogemata",
+        "juhuslikult",
+        "vastu tahtmist",
+        "iseenesest",
+        "tähelepandamatult",
+        "tahes-tahtmatult",
+        "paratamatult",
+        "teadlikult",
+        "süüdimatult",
+        "tahtmatu",
+        "vastupandamatult",
+        "alateadlikult",
+        "kartmatult",
+        "märkamatult",
+        "mõtlematult",
+        "tahtmatus",
+        "unustamatult",
+        "arusaamatult",
+        "pahaaimamatult",
+        "pahatahtlikult",
+        "ettearvamatult",
+        "õigustamatult",
+        "tahtlikult",
+        "instinktiivselt",
+        "tahes-tahtmata",
+        "näotult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tahtmatult",
+      "translations": [
+        "inadvertently",
+        "uncontrollably"
+      ]
+    }
+  ]
+}

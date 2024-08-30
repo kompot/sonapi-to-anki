@@ -1,0 +1,205 @@
+{
+  "requestedWord": "jälle",
+  "estonianWord": "jälle",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "jälle"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(teatud aja järel) uut puhku,näitab, et samasugune tegevus või olukord on juba varem toimunud või olnud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Muistne komme tuleb jälle ausse tõsta.",
+            "Nojah, ütles mees jälle.",
+            "Homme peab jälle tööle minema.",
+            "Täna on jälle ilus ilm."
+          ],
+          "synonyms": [
+            "jällegi",
+            "taas",
+            "uuesti",
+            "taaskord,taas kord,taaskordselt",
+            "veelkord,veel kord"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "again",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "de nouveau",
+                "weight": 1
+              },
+              {
+                "words": "encore",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "снова",
+                "weight": 1
+              },
+              {
+                "words": "вновь",
+                "weight": 1
+              },
+              {
+                "words": "заново",
+                "weight": 1
+              },
+              {
+                "words": "опять",
+                "weight": 1
+              },
+              {
+                "words": "снова,в очередной раз,вновь,повторно",
+                "weight": 0.606
+              },
+              {
+                "words": "ещё раз",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "знову",
+                "weight": 1
+              },
+              {
+                "words": "знов",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(vastanduses:) nagu vastukaaluks, omakorda",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kord läks aega kauem, teinekord jälle vähem."
+          ],
+          "synonyms": [
+            "jällegi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "опять же",
+                "weight": 1
+              },
+              {
+                "words": "зато",
+                "weight": 1
+              },
+              {
+                "words": "в свою очередь",
+                "weight": 1
+              },
+              {
+                "words": "напротив",
+                "weight": 1
+              },
+              {
+                "words": "однако",
+                "weight": 1
+              },
+              {
+                "words": "тем не менее",
+                "weight": 1
+              },
+              {
+                "words": "всё-таки",
+                "weight": 1
+              },
+              {
+                "words": "опять-таки",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "aga",
+        "aga",
+        "see-eest",
+        "taas",
+        "selle-eest",
+        "remilitariseerima",
+        "uuesti",
+        "sellevastu",
+        "seevastu",
+        "teistkordselt",
+        "taaslooma",
+        "ent",
+        "jällegi",
+        "kuid",
+        "järjekordselt",
+        "otsast",
+        "tõesti",
+        "juba",
+        "korraks",
+        "miskitmoodi",
+        "natuke",
+        "natuke",
+        "natukehaaval",
+        "natukene",
+        "natukene",
+        "veel",
+        "rõõmsasti",
+        "seekord",
+        "ikka",
+        "vahepeal",
+        "küll",
+        "küll",
+        "taaskord",
+        "lõpuks",
+        "hirmsalt",
+        "ikkagi",
+        "kohe",
+        "kohe",
+        "varsti",
+        "vist",
+        "vist",
+        "nüüd",
+        "lihtsalt",
+        "siis",
+        "natukesehaaval"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "jälle",
+      "translations": [
+        "again"
+      ]
+    }
+  ]
+}

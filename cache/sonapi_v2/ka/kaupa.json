@@ -1,0 +1,109 @@
+{
+  "requestedWord": "kaupa",
+  "estonianWord": "kaupa",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kaupa"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "üks osa, üksus korraga, iga osa, üksus eraldi",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Teip on apteekides müügil meetri kaupa.",
+            "Laen tuleb tasuda osade kaupa."
+          ],
+          "synonyms": [
+            "viisi",
+            "järgi,põhjal,põhiselt,järele"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "по",
+                "weight": 1
+              },
+              {
+                "words": "согласно,в соответствии,на основании,на основе,на базе,по",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "sur la base de",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на основі,на підставі",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(rõhutab millegi rohkust või ajalist pikkust:) (pikem) rida teatud võrdseid üksusi järjest",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Istub tundide kaupa raamatukogus.",
+            "Inimesi oli tulnud sadade kaupa.",
+            "Lepingus on lehekülgede kaupa kohustusi."
+          ],
+          "synonyms": [
+            "viisi"
+          ],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "osakaupa",
+        "mitmekaupa",
+        "kahekaupa",
+        "reakaupa",
+        "kuuekaupa",
+        "neljakaupa",
+        "tükikaupa",
+        "viiekaupa",
+        "mõnekaupa",
+        "kolmekaupa",
+        "jupikaupa",
+        "rühmakaupa",
+        "ühekaupa",
+        "üheksakaupa",
+        "karjakaupa",
+        "jaokaupa",
+        "hulgakaupa",
+        "kaheksakaupa",
+        "kümnekaupa"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kaupa",
+      "translations": []
+    }
+  ]
+}

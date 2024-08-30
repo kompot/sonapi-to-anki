@@ -1,0 +1,200 @@
+{
+  "requestedWord": "samas",
+  "estonianWord": "samas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "samas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(eelnevale vastandudes või seda täiendades:) samal ajal ka,samal ajal ka",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Diskreetne ja samas tähelepanelik teenindamine.",
+            "Teater on iidne, kuid samas üürike kunst.",
+            "Koer on suur, kuid samas väga sõbralik."
+          ],
+          "synonyms": [
+            "ühtlasi",
+            "üksiti"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "at the same time",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "en même temps",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "одновременно",
+                "weight": 1
+              },
+              {
+                "words": "заодно",
+                "weight": 1
+              },
+              {
+                "words": "в то же время",
+                "weight": 1
+              },
+              {
+                "words": "вместе с тем",
+                "weight": 1
+              },
+              {
+                "words": "попутно",
+                "weight": 1
+              },
+              {
+                "words": "походя",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "водночас",
+                "weight": 1
+              },
+              {
+                "words": "одночасно",
+                "weight": 1
+              },
+              {
+                "words": "разом із тим",
+                "weight": 1
+              },
+              {
+                "words": "також",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kohe seejärel, vahetult pärast millegi toimumist",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Uinusin natukeseks, et samas ärgata.",
+            "Samas kargas põõsast välja rebane."
+          ],
+          "synonyms": [
+            "sealsamas"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сразу же",
+                "weight": 1
+              },
+              {
+                "words": "тут же",
+                "weight": 1
+              },
+              {
+                "words": "тотчас же",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "selles samas, juba mainitud kohas,seal, selles samas kohas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pool tundi enne südaööd algab samas vabaõhuetendus."
+          ],
+          "synonyms": [
+            "sealsamas"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "au même endroit",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "там же",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "там же",
+                "weight": 1
+              },
+              {
+                "words": "там само",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "siitsamast",
+        "kohe",
+        "kohe",
+        "samaaegselt",
+        "üksiti",
+        "siinsamas",
+        "ühtlasi",
+        "sealsamas",
+        "isegi",
+        "nii",
+        "samuti",
+        "ühes",
+        "kuigi",
+        "sama",
+        "sama",
+        "mõttes",
+        "kuid",
+        "aga",
+        "aga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "samas",
+      "translations": [
+        "ibid",
+        "ibidem"
+      ]
+    }
+  ]
+}

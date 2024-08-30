@@ -1,0 +1,186 @@
+{
+  "requestedWord": "esmajoones",
+  "estonianWord": "esmajoones",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "esmajoones"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(sisuliselt, tähtsuselt) esimese asjana, enne muud, eriliselt (just),toob esile kõige tähtsama: peamiselt, eriti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Valgre oli esmajoones laulude looja.",
+            "Rist on esmajoones võidumärk."
+          ],
+          "synonyms": [
+            "eelkõige",
+            "eeskätt",
+            "eestkätt",
+            "ennekõike",
+            "esijoones",
+            "ennekõige",
+            "esmajärjekorras",
+            "peaasjalikult,peamiselt,pms,põhiliselt,põhimiselt",
+            "eriti,iseäranis,eri"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "first and foremost",
+                "weight": 1
+              },
+              {
+                "words": "especially",
+                "weight": 0.768
+              }
+            ],
+            "fra": [
+              {
+                "words": "surtout",
+                "weight": 1
+              },
+              {
+                "words": "principalement",
+                "weight": 1
+              },
+              {
+                "words": "avant tout",
+                "weight": 1
+              },
+              {
+                "words": "principalement",
+                "weight": 0.7897
+              },
+              {
+                "words": "surtout",
+                "weight": 0.768
+              }
+            ],
+            "rus": [
+              {
+                "words": "прежде всего",
+                "weight": 1
+              },
+              {
+                "words": "в первую очередь",
+                "weight": 1
+              },
+              {
+                "words": "главным образом",
+                "weight": 1
+              },
+              {
+                "words": "преимущественно",
+                "weight": 1
+              },
+              {
+                "words": "по преимуществу",
+                "weight": 1
+              },
+              {
+                "words": "первым делом",
+                "weight": 1
+              },
+              {
+                "words": "первым долгом",
+                "weight": 1
+              },
+              {
+                "words": "перво-наперво",
+                "weight": 1
+              },
+              {
+                "words": "в первую очередь,первым делом,первым долгом",
+                "weight": 0.9
+              },
+              {
+                "words": "в основном,прежде всего,главным образом,преимущественно,по преимуществу,коренным образом,в осн.",
+                "weight": 0.7897
+              },
+              {
+                "words": "особо,в особенности,наипаче,особенно,в частности",
+                "weight": 0.768
+              }
+            ],
+            "ukr": [
+              {
+                "words": "насамперед",
+                "weight": 1
+              },
+              {
+                "words": "передусім",
+                "weight": 1
+              },
+              {
+                "words": "найперше",
+                "weight": 1
+              },
+              {
+                "words": "перш за все",
+                "weight": 1
+              },
+              {
+                "words": "переважно,в основному,здебільшого,головним чином,головно",
+                "weight": 0.7897
+              },
+              {
+                "words": "особливо,зокрема",
+                "weight": 0.768
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "esmalt",
+        "põhimiselt",
+        "eeskätt",
+        "ennekõike",
+        "põhiliselt",
+        "peamiselt",
+        "esmajärjekorras",
+        "eriti",
+        "eelkõige",
+        "enamasti",
+        "kõige enam",
+        "peaasjalikult",
+        "kõigepealt",
+        "esijoones",
+        "euroopalikult",
+        "subjektiivselt",
+        "just",
+        "andekalt",
+        "pigem",
+        "žanriliselt",
+        "sageli"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "esmajoones",
+      "translations": [
+        "first and last",
+        "in the first place",
+        "primely"
+      ]
+    }
+  ]
+}

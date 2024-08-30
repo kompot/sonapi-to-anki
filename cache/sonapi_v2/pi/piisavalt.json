@@ -1,0 +1,155 @@
+{
+  "requestedWord": "piisavalt",
+  "estonianWord": "piisavalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "piisavalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nii palju kui (millekski) vaja, vajalikul määral, võrdlemisi palju,nii palju kui vaja",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Meil on piisavalt aega, et asi kohapeal ära klaarida.",
+            "Mul oli piisavalt aega, et töö valmis saada."
+          ],
+          "synonyms": [
+            "küllalt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "suffisamment",
+                "weight": 1
+              },
+              {
+                "words": "assez",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "достаточно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "досить",
+                "weight": 1
+              },
+              {
+                "words": "достатньо",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "võrdlemisi, üsna, küllaltki",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Enesetunne on parem, aga endiselt piisavalt halb."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "довольно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "voli pärast",
+        "volilt",
+        "kuhjaga",
+        "küllaldaselt",
+        "tarvilikult",
+        "maa ja ilm",
+        "küll ja küll",
+        "priipärast",
+        "küll",
+        "küll",
+        "loalt",
+        "lahedasti",
+        "küllalt",
+        "küllaga",
+        "priilt",
+        "maailm",
+        "ohtralt",
+        "üsna",
+        "puudulikult",
+        "kaunis",
+        "kaunis",
+        "pole",
+        "põhjendamatult",
+        "erakordselt",
+        "korralikult",
+        "tõesti",
+        "äärmiselt",
+        "küllaltki",
+        "liialt",
+        "niigi",
+        "siiski",
+        "vähe",
+        "vähe",
+        "suhteliselt",
+        "hästi",
+        "mõistlikult",
+        "veel",
+        "ikka",
+        "eriti",
+        "palju",
+        "palju",
+        "sedavõrd",
+        "üpris",
+        "üllalt",
+        "ebapiisavalt",
+        "päris",
+        "piisav",
+        "vajalikult",
+        "liiga",
+        "liiga",
+        "liiga",
+        "lihtsalt",
+        "alati",
+        "võimalikult",
+        "väga",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "piisavalt",
+      "translations": [
+        "enough",
+        "sufficiently"
+      ]
+    }
+  ]
+}

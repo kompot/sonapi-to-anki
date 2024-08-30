@@ -1,0 +1,55 @@
+{
+  "requestedWord": "nähtaval",
+  "estonianWord": "nähtaval",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "nähtaval"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "näha, paistmas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kui üks õis ära õitseb, siis on uus pung juba nähtaval."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "mittenähtav",
+        "ettenähtavalt",
+        "nähtavam",
+        "nähtavale",
+        "nähtavalt",
+        "nähtav"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "nähtaval",
+      "translations": [
+        "at sight",
+        "in view",
+        "on sight"
+      ]
+    }
+  ]
+}

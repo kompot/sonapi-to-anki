@@ -1,0 +1,439 @@
+{
+  "requestedWord": "vaikselt",
+  "estonianWord": "vaikselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vaikselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vaikse häälega, nii, et on vaevu kuulda,nii, et ei ole eriti hästi kuulda",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mees oigas vaikselt enda ette.",
+            "Keegi koputas vaikselt uksele.",
+            "Laps nuttis vaikselt."
+          ],
+          "synonyms": [
+            "tasakesi",
+            "tasaselt",
+            "tasa",
+            "tasakesti"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "doucement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "тихо",
+                "weight": 1
+              },
+              {
+                "words": "еле слышно",
+                "weight": 1
+              },
+              {
+                "words": "негромко",
+                "weight": 1
+              },
+              {
+                "words": "бесшумно",
+                "weight": 1
+              },
+              {
+                "words": "беззвучно",
+                "weight": 1
+              },
+              {
+                "words": "мягко",
+                "weight": 1
+              },
+              {
+                "words": "слабо",
+                "weight": 1
+              },
+              {
+                "words": "тихонечко",
+                "weight": 1
+              },
+              {
+                "words": "тихонько",
+                "weight": 1
+              },
+              {
+                "words": "чуть слышно",
+                "weight": 1
+              },
+              {
+                "words": "едва слышно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тихо",
+                "weight": 1
+              },
+              {
+                "words": "стиха",
+                "weight": 1
+              },
+              {
+                "words": "тихенько",
+                "weight": 1
+              },
+              {
+                "words": "неголосно",
+                "weight": 1
+              },
+              {
+                "words": "впівголоса",
+                "weight": 1
+              },
+              {
+                "words": "ледве чути",
+                "weight": 1
+              },
+              {
+                "words": "ледве чутно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "häält tegemata, ilma kärata, nii, et ei kuule ega märka",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Igaüks töötab vaikselt oma nurgas."
+          ],
+          "synonyms": [
+            "käratult",
+            "tasa",
+            "tasakesi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "тихо",
+                "weight": 1
+              },
+              {
+                "words": "беззвучно",
+                "weight": 1
+              },
+              {
+                "words": "бесшумно",
+                "weight": 1
+              },
+              {
+                "words": "безмолвно",
+                "weight": 1
+              },
+              {
+                "words": "неслышно",
+                "weight": 1
+              },
+              {
+                "words": "без шума",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ilma kellelegi tüli tegemata, rahumeelselt,nii, et ei liiguta ennast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mindi lahku vaikselt, ilma riiuta.",
+            "Istun vaikselt, kuulan muusikat.",
+            "Haige pidi vaikselt lamama."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "tranquillement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "тихо",
+                "weight": 1
+              },
+              {
+                "words": "спокойно",
+                "weight": 1
+              },
+              {
+                "words": "покорно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тихо",
+                "weight": 1
+              },
+              {
+                "words": "спокійно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vähehaaval, tasapisi, väikeste osade kaupa,aeglaselt, mitte kohe",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Hakkasin vaikselt treenima.",
+            "Asjad arenevad vaikselt.",
+            "Ilm läheb vaikselt külmemaks."
+          ],
+          "synonyms": [
+            "hiljukesi",
+            "natukehaaval",
+            "natukesehaaval",
+            "tasahaaval",
+            "tasahiljukesi",
+            "tasakesi",
+            "tasakesti",
+            "aeglaselt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "lentement",
+                "weight": 1
+              },
+              {
+                "words": "lentement",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "тихо",
+                "weight": 1
+              },
+              {
+                "words": "спокойно",
+                "weight": 1
+              },
+              {
+                "words": "постепенно",
+                "weight": 1
+              },
+              {
+                "words": "понемногу",
+                "weight": 1
+              },
+              {
+                "words": "медленно",
+                "weight": 1
+              },
+              {
+                "words": "не спеша",
+                "weight": 1
+              },
+              {
+                "words": "тихонько",
+                "weight": 1
+              },
+              {
+                "words": "потихоньку",
+                "weight": 1
+              },
+              {
+                "words": "помаленьку",
+                "weight": 1
+              },
+              {
+                "words": "мало-помалу",
+                "weight": 1
+              },
+              {
+                "words": "медленно,неторопливо,не спеша,потихоньку",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тихо",
+                "weight": 1
+              },
+              {
+                "words": "спокійно",
+                "weight": 1
+              },
+              {
+                "words": "поступово",
+                "weight": 1
+              },
+              {
+                "words": "повільно",
+                "weight": 1
+              },
+              {
+                "words": "поволі",
+                "weight": 1
+              },
+              {
+                "words": "помалу",
+                "weight": 1
+              },
+              {
+                "words": "помаленьку",
+                "weight": 1
+              },
+              {
+                "words": "не поспішаючи",
+                "weight": 1
+              },
+              {
+                "words": "повільно,неквапливо",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "slowly",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vagusi",
+        "hääletult",
+        "jalg-jalalt",
+        "tasa",
+        "aegamisi",
+        "vaguralt",
+        "tasahiljukesi",
+        "aegamööda",
+        "tasapisi",
+        "kuuldamatult",
+        "tasaselt",
+        "härgamisi",
+        "hiirvagusi",
+        "vakka",
+        "hiirvaikselt",
+        "vait",
+        "sumbunult",
+        "vagusalt",
+        "tasapikka",
+        "pikaldaselt",
+        "käratult",
+        "teosammul",
+        "hiirvait",
+        "kuulmatult",
+        "tasahilju",
+        "pikka",
+        "laisalt",
+        "pikalt",
+        "pikkamisi",
+        "kassisammul",
+        "pikkamööda",
+        "tummalt",
+        "summutatult",
+        "vaevukuuldavalt",
+        "aegapidi",
+        "haudvaikselt",
+        "vaiki",
+        "ajapikku",
+        "aeglaselt",
+        "tasakesi",
+        "loiult",
+        "kinnisui",
+        "tasakesti",
+        "vaikimisi",
+        "sõnatult",
+        "aegluubis",
+        "hiljukesi",
+        "hilju",
+        "mugav",
+        "vagur",
+        "salamahti",
+        "tasane",
+        "salaja",
+        "vaikne",
+        "salamisi",
+        "vagus",
+        "leplikult",
+        "rahulikult",
+        "salahilju",
+        "ehmunult",
+        "tempokalt",
+        "vilkalt",
+        "andunult",
+        "segamatult",
+        "kiirelt",
+        "hoogsalt",
+        "vaiksemalt",
+        "väsimatult",
+        "märkamatult",
+        "hirmunult",
+        "tasahaaval",
+        "kiiresti",
+        "vähehaaval",
+        "hirmsalt",
+        "väikselt",
+        "kärsitult",
+        "arglikult",
+        "otsatult",
+        "hardunult",
+        "kartlikult",
+        "tardunult",
+        "kibekiirelt",
+        "sihikindlalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vaikselt",
+      "translations": [
+        "quietly",
+        "silently"
+      ]
+    }
+  ]
+}

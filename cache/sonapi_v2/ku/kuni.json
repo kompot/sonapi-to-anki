@@ -1,0 +1,251 @@
+{
+  "requestedWord": "kuni",
+  "estonianWord": "kuni",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kuni"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selle ajani kui,nii kaua kui,selle ajani kui,nii kaua kui",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Tüdruk nuttis, kuni viha üle läks.",
+            "Kuni päike paistis, oli soe.",
+            "Nad vaidlesid niikaua, kuni kaubale said.",
+            "Käisin talle senikaua peale, kuni ta nõusse jäi.",
+            "Annab oodata, kuni sa ükskord taipad.",
+            "Oota siin, kuni ma tulen.",
+            "Kuni päike paistis, oli soe."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "пока",
+                "weight": 1
+              },
+              {
+                "words": "пока не",
+                "weight": 1
+              },
+              {
+                "words": "до тех пор, пока не",
+                "weight": 1
+              },
+              {
+                "words": "покуда",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "поки",
+                "weight": 1
+              },
+              {
+                "words": "поки не",
+                "weight": 1
+              },
+              {
+                "words": "доки",
+                "weight": 1
+              },
+              {
+                "words": "доти",
+                "weight": 1
+              },
+              {
+                "words": "до того часу поки",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "samal ajal kui, sel ajal kui",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kuni kaks varblast kaklesid, näppas kolmas tera endale."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "пока",
+                "weight": 1
+              },
+              {
+                "words": "в то время как",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab mingi nähtuse, olukorra küündivuse maksimumpiiri",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Ilm muutub kuni viis kraadi külmemaks.",
+            "Saal mahutab kuni 500 inimest.",
+            "Laenu antakse kuni aastaks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "до",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "seob sõnu või sõnaühendeid, mis märgivad millegi ulatuvuse piire,seob sõnu, mis näitavad millegi piire",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Paranemine võtab kolm kuni neli kuud.",
+            "Värvuselt on koha rohekas- kuni tumehall.",
+            "Ekskursioon kestab neli kuni viis tundi.",
+            "Mul läheb aega viis kuni kümme minutit."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "à",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "от... до",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "від... до",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab piiri, milleni miski toimub või esineb (võib ka ära jääda, ilma et lause tähendus muutuks),osutab piiri, milleni miski toimub või esineb",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Kuni silmapiirini valitseb ühtlane hallus.",
+            "Sadas kuni õhtuni.",
+            "Tantsiti kuni nõrkemiseni.",
+            "Kõik on kuni pisiasjadeni läbi mõeldud.",
+            "Järv on kuni kümme meetrit sügav.",
+            "Võistkonda kuuluvad kuni 7-aastased lapsed.",
+            "Lapsed jooksid kuni metsani.",
+            "Rääkisime kuni hommikuni."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "jusqu'à",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "до",
+                "weight": 1
+              },
+              {
+                "words": "вплоть до",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ajaliselt",
+        "saati",
+        "ruumiliselt",
+        "kauaks",
+        "seni kui",
+        "kuniks",
+        "niikaua kui",
+        "saadik",
+        "saadik",
+        "sel ajal kui",
+        "niikaua",
+        "vähemalt",
+        "ligi",
+        "ligikaudu",
+        "maksimaalselt",
+        "umbes",
+        "umbes",
+        "surmani",
+        "lõpuni",
+        "alates"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kuni",
+      "translations": [
+        "as far as",
+        "through",
+        "thru (= through)",
+        "till",
+        "until",
+        "up to"
+      ]
+    }
+  ]
+}

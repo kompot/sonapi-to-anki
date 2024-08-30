@@ -1,0 +1,76 @@
+{
+  "requestedWord": "väidetavasti",
+  "estonianWord": "väidetavasti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "väidetavasti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nii, nagu väidetakse, nagu kellegi meelest miski on olnud, toimunud vms",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Väidetavasti algas põleng varahommikul."
+          ],
+          "synonyms": [
+            "väidetavalt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "предположительно",
+                "weight": 1
+              },
+              {
+                "words": "якобы",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kuulukse",
+        "väidetavalt",
+        "öeldavasti",
+        "kuuldavasti",
+        "kuulu järgi",
+        "ilmselgelt",
+        "niivõrd-kuivõrd",
+        "seetõttu",
+        "ilmselt",
+        "tõepoolest",
+        "tõenäoliselt",
+        "arvatavasti",
+        "usutavasti",
+        "tegelikult",
+        "kardetavasti",
+        "argpükslikult",
+        "aga",
+        "aga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "väidetavasti",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "requestedWord": "väljas",
+  "estonianWord": "väljas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "väljas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "seest või alt väljaspool, pealispinnal või nähtaval",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Särk on pükstest väljas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "снаружи",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vabas õhus, mitte siseruumis,mingist kohast, piirkonnast kaugemal,õues, värskes õhus",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Väljas sajab.",
+            "Kes viitsib pubis istudes väljas suitsetamas käia?",
+            "Elab linnast väljas.",
+            "Väljas paistab päike.",
+            "Koer on väljas.",
+            "Treenida tuleb nii sees kui ka väljas.",
+            "Koer on väljas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "dehors",
+                "weight": 1
+              },
+              {
+                "words": "à l'extérieur",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "на улице",
+                "weight": 1
+              },
+              {
+                "words": "на открытом воздухе",
+                "weight": 1
+              },
+              {
+                "words": "на дворе",
+                "weight": 1
+              },
+              {
+                "words": "за пределами",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "вне",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на вулиці",
+                "weight": 1
+              },
+              {
+                "words": "надворі",
+                "weight": 1
+              },
+              {
+                "words": "на свіжому повітрі",
+                "weight": 1
+              },
+              {
+                "words": "поза домом",
+                "weight": 1
+              },
+              {
+                "words": "за межами",
+                "weight": 1
+              },
+              {
+                "words": "поза",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(avalikus kohas viibimise kohta:) mujal, kodust vm ära, eemal,mingist kohast või piirkonnast kaugemal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pühapäeviti sööme väljas.",
+            "Liinale meeldib sõbrannadega väljas käia.",
+            "Ta elab linnast väljas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "hors de",
+                "weight": 1
+              },
+              {
+                "words": "en dehors de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "за пределами",
+                "weight": 1
+              },
+              {
+                "words": "вне",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "поза",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "за межами",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "avalikult välja pandud või esitatud, (kõigile) nähtaval, ilmunud,(kõigile nähtavale kohale) välja pandud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mingit silti pole väljas.",
+            "Kunstnikul oli väljas hulk maastikumaale.",
+            "Kas uus seadus on juba väljas?",
+            "Muuseumis on väljas uus näitus."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "kohal, ettenähtud paigas, tööle või tegevusse asunud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Töötaja on pärast haigust esimest päeva väljas.",
+            "Kümme lumekoristusmasinat on korraga väljas.",
+            "Kas sääsed on juba väljas?"
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "osutab kuhugi jõudmisele, saabumisele",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Varsti olin metsa veeres väljas."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "osutab eesmärgile, millegi toetamisele",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta on alati tõe ja õiguse eest väljas."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "esineb hrl üllatust või meelepaha väljendavates hüüatustes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kus mul professor väljas!",
+            "Õige mul tita väljas, ei julge üksi koju jääda!"
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "esineb ühendites, mis osutavad millestki väljumisele või eemal-olekule, millegi lõppemisele,näitab, et keegi või miski ei ole tavalises seisundis",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Nüüd oleme kõige suuremast hädast väljas.",
+            "Organism on täiesti tasakaalust väljas.",
+            "Helistasime, aga ta oli levist väljas.",
+            "Võhm on väljas.",
+            "Püksiviigid olid vormist väljas.",
+            "Organism on tasakaalust väljas.",
+            "Mobiiltelefon oli levist väljas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вне",
+                "weight": 1
+              },
+              {
+                "words": "из",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "поза",
+                "weight": 1
+              },
+              {
+                "words": "з",
+                "weight": 1
+              },
+              {
+                "words": "із",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lageda taeva all",
+        "õues",
+        "vabas õhus",
+        "lahtise taeva all",
+        "väljastpoolt",
+        "väljaspool",
+        "väljast",
+        "sees",
+        "sees",
+        "poolnäljas",
+        "kottpime",
+        "vooljas"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "väljas",
+      "translations": [
+        "afield",
+        "in the open air",
+        "out",
+        "outside"
+      ]
+    }
+  ]
+}

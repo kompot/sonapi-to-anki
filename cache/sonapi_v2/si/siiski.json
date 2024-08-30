@@ -1,0 +1,201 @@
+{
+  "requestedWord": "siiski",
+  "estonianWord": "siiski",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "siiski"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sellegipoolest, kõigele vaatamata,kõigest hoolimata; sellest hoolimata",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Siiski olen veendunud, et miski ei kesta igavesti.",
+            "Kompromiss siiski saavutati.",
+            "Etendus siiski toimub.",
+            "Raamat oli huvitav, kuid mulle see siiski ei meeldinud."
+          ],
+          "synonyms": [
+            "ometi",
+            "ometigi",
+            "ikkagi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "quand même",
+                "weight": 1
+              },
+              {
+                "words": "tout de même",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "всё-таки",
+                "weight": 1
+              },
+              {
+                "words": "тем не менее",
+                "weight": 1
+              },
+              {
+                "words": "однако",
+                "weight": 1
+              },
+              {
+                "words": "всё же",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "все-таки",
+                "weight": 1
+              },
+              {
+                "words": "все ж таки",
+                "weight": 1
+              },
+              {
+                "words": "проте",
+                "weight": 1
+              },
+              {
+                "words": "однак",
+                "weight": 1
+              },
+              {
+                "words": "а втім",
+                "weight": 1
+              },
+              {
+                "words": "все ж",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ka siis",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Seda loodusnähtust esineb meil harva ja siiski enamasti väga ähmaselt."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "и тогда",
+                "weight": 1
+              },
+              {
+                "words": "и то",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ometigi",
+        "ikkagi",
+        "ei aita ei ussi- ega püssirohi",
+        "nii või teisiti",
+        "sellegipoolest",
+        "kõigest hoolimata",
+        "ometi",
+        "ikka",
+        "olgugi",
+        "kõigele vaatamata",
+        "tee või tina",
+        "sellegipärast",
+        "kummatigi",
+        "nuta või naera",
+        "pole",
+        "tõepoolest",
+        "praegu",
+        "kuigi",
+        "tõesti",
+        "see",
+        "kindlasti",
+        "vaid",
+        "kuid",
+        "aga",
+        "aga",
+        "ilmselt",
+        "jätkuvalt",
+        "muidugi",
+        "tõenäoliselt",
+        "seega",
+        "suhteliselt",
+        "pigem",
+        "üldse",
+        "loomulikult",
+        "kuidagi",
+        "mitte",
+        "mitte",
+        "isegi",
+        "veel",
+        "samuti",
+        "küll",
+        "küll",
+        "üsna",
+        "enamasti",
+        "eriti",
+        "tegelikult",
+        "päris",
+        "sugugi",
+        "õnneks",
+        "ainult",
+        "endiselt",
+        "esialgu",
+        "vist",
+        "vist",
+        "üldiselt",
+        "ent",
+        "nüüd",
+        "paraku",
+        "lihtsalt",
+        "siis",
+        "alati",
+        "väga",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "siiski",
+      "translations": [
+        "howbeit",
+        "however",
+        "nevertheless",
+        "withal",
+        "yet"
+      ]
+    }
+  ]
+}

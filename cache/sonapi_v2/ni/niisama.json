@@ -1,0 +1,314 @@
+{
+  "requestedWord": "niisama",
+  "estonianWord": "niisama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "niisama"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ilma erilise põhjuse või eesmärgita,ilma et keegi kasutaks,ilma erilise eesmärgi või põhjuseta,ilma et midagi teeks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mis mõtet on niisama raha kulutada?",
+            "Ämma käest saadud saapad jäid kappi niisama seisma.",
+            "Ütlesin seda lihtsalt niisama.",
+            "Ta istub päevad läbi niisama."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "просто так",
+                "weight": 1
+              },
+              {
+                "words": "так просто",
+                "weight": 1
+              },
+              {
+                "words": "да так",
+                "weight": 1
+              },
+              {
+                "words": "между прочим",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "просто так",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "midagi (erilist) ette võtmata või tegemata,nii nagu on, ilma et midagi muudaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ei saa ju seda lihtsalt niisama pealt vaadata.",
+            "Ilusad suured õunad, võib niisama süüa või kooki teha."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(vastu)tasuta, ilma rahata",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Miks ma peaks jope kuskilt ostma, kui sõbralt niisama saab."
+          ],
+          "synonyms": [
+            "ilma,muidu,priilt,tasuta",
+            "jumalamuidu,jumala muidu",
+            "gratis",
+            "maksuta"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "за так,безвозмездно,задаром,на дармовщинку,бесплатно,даром",
+                "weight": 0.7787
+              },
+              {
+                "words": "задаром,совсем даром,за бесценок,ни за грош",
+                "weight": 0.9
+              },
+              {
+                "words": "гратис",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "gratuitement",
+                "weight": 0.7787
+              }
+            ],
+            "ukr": [
+              {
+                "words": "безкоштовно,задурно,безплатно",
+                "weight": 0.7787
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(võrdlustes:) näitab, et mingi omaduse poolest on mõlemad ühesugused,võrdlustes: näitab, et mingi omaduse poolest on mõlemad ühesugused",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kasum on niisama suur kui eelmises kvartalis.",
+            "Lõpetasin kooli niisama hästi kui mu sõbranna.",
+            "Poeg on niisama pikk kui ta isagi."
+          ],
+          "synonyms": [
+            "sama"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "aussi",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "так же",
+                "weight": 1
+              },
+              {
+                "words": "такой же",
+                "weight": 1
+              },
+              {
+                "words": "столько же",
+                "weight": 1
+              },
+              {
+                "words": "столь же",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "такий самий",
+                "weight": 1
+              },
+              {
+                "words": "такий же",
+                "weight": 1
+              },
+              {
+                "words": "стільки же",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegagi või kellegagi võrreldes sama moodi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõik on niisama nagu vanasti."
+          ],
+          "synonyms": [
+            "niisamuti"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "так же",
+                "weight": 1
+              },
+              {
+                "words": "как и",
+                "weight": 1
+              },
+              {
+                "words": "а также",
+                "weight": 1
+              },
+              {
+                "words": "а так же и",
+                "weight": 1
+              },
+              {
+                "words": "таким же образом",
+                "weight": 1
+              },
+              {
+                "words": "равным образом",
+                "weight": 1
+              },
+              {
+                "words": "тоже",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(võrdluseta:) nii",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Seda meest niisama lihtsalt kaamera ette ei püüa."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "так",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "priilt",
+        "maksuta",
+        "ilma",
+        "gratis",
+        "naljapärast",
+        "samamoodi",
+        "naljalt",
+        "heast-paremast",
+        "jumalamuidu",
+        "nõndasama",
+        "naasama",
+        "naljatamisi",
+        "tasuta",
+        "muidu",
+        "samuti",
+        "ka",
+        "põhjusetult",
+        "kah",
+        "hea mehe poolest",
+        "naljameeli",
+        "naljaviluks",
+        "niisamuti",
+        "heast peast",
+        "asja ees, teist taga",
+        "miskitpidi",
+        "sinnapoolegi",
+        "piisavalt",
+        "niisamasugune",
+        "tibakene",
+        "tibakene",
+        "mõttetult",
+        "otstarbetult",
+        "toredasti",
+        "kisama",
+        "üldse",
+        "kuidagi",
+        "mitte",
+        "mitte",
+        "ikka",
+        "küll",
+        "küll",
+        "väga",
+        "päris",
+        "arutult",
+        "lahedasti",
+        "vist",
+        "vist",
+        "lihtsalt",
+        "täitsa",
+        "täitsa",
+        "alati",
+        "mõnusasti"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "niisama",
+      "translations": [
+        "just",
+        "merely"
+      ]
+    }
+  ]
+}

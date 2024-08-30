@@ -1,0 +1,332 @@
+{
+  "requestedWord": "valem",
+  "estonianWord": "valem",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "valem"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "valemi"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "valemit"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "valemisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "valemis"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "valemist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "valemile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "valemil"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "valemilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "valemiks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "valemini"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "valemina"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "valemita"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "valemiga"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "valemid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "valemite"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "valemeid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "valemitesse,valemeisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "valemites,valemeis"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "valemitest,valemeist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "valemitele,valemeile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "valemitel,valemeil"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "valemitelt,valemeilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "valemiteks,valemeiks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "valemiteni"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "valemitena"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "valemiteta"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "valemitega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(matemaatikas ja selle rakendustes:) matemaatiliste märkide abil esitatud eeskiri",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Teepikkuse arvutamise valem on s = vt.",
+            "Talli latri pindala saab arvutada järgmise valemi järgi: hobuse turjakõrgus korrutatuna 1,8, võetuna ruutu."
+          ],
+          "synonyms": [
+            "vormel"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "формула",
+                "weight": 1
+              },
+              {
+                "words": "формула",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "keemiliste elementide sümbolitest ja numbritest koosnev avaldis, millega märgitakse keemilise ühendi kvalitatiivset ja kvantitatiivset koostist",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "keemiavalem",
+            "keemiline valem",
+            "vormel"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "химическая формула",
+                "weight": 1
+              },
+              {
+                "words": "формула",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "moodus midagi teha, reegel, juhis",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mis valemiga sa õigeks ajaks kohale jõudsid?",
+            "Õnnevalem."
+          ],
+          "synonyms": [
+            "retsept",
+            "nipp,nõks,trikk",
+            "vormel"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "формула",
+                "weight": 1
+              },
+              {
+                "words": "готовый рецепт,верный способ достигнуть",
+                "weight": 0.7
+              },
+              {
+                "words": "приём,ухищрение,уловка,хитрость,трюк,хитрый приём,ухватка,подходец",
+                "weight": 0.7
+              },
+              {
+                "words": "формула",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "tour",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "трюк",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "trick",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "molekulvalem",
+        "molekulivalem",
+        "keemiline valem",
+        "keemiavalem",
+        "nipp",
+        "retsept",
+        "reegel",
+        "vormel",
+        "eeskiri",
+        "juhis",
+        "reeglistik",
+        "koodeks",
+        "ettekirjutus",
+        "norm",
+        "valmistõde",
+        "õievalem",
+        "binoomvalem",
+        "hambavalem",
+        "struktuurivalem",
+        "molekulaarvalem"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "valem",
+      "translations": [
+        "formula"
+      ]
+    }
+  ]
+}

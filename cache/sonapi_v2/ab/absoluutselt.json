@@ -1,0 +1,355 @@
+{
+  "requestedWord": "absoluutselt",
+  "estonianWord": "absoluutselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "absoluutselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "täiel määral, kogu ulatuses",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "See on absoluutselt tõsi.",
+            "Metsavend riskib absoluutselt kõigega."
+          ],
+          "synonyms": [
+            "üleni",
+            "läbini",
+            "läbinisti",
+            "täienisti",
+            "päriselt",
+            "täielikult",
+            "täiesti",
+            "totaalselt",
+            "tervenisti",
+            "täieliselt",
+            "terveni",
+            "viimne,viimane",
+            "päris",
+            "juuksejuurteni"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "entièrement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "совсем",
+                "weight": 1
+              },
+              {
+                "words": "окончательно",
+                "weight": 1
+              },
+              {
+                "words": "совершенно",
+                "weight": 1
+              },
+              {
+                "words": "абсолютно",
+                "weight": 1
+              },
+              {
+                "words": "тотально",
+                "weight": 1
+              },
+              {
+                "words": "полностью",
+                "weight": 1
+              },
+              {
+                "words": "целиком",
+                "weight": 1
+              },
+              {
+                "words": "сполна",
+                "weight": 1
+              },
+              {
+                "words": "всецело",
+                "weight": 1
+              },
+              {
+                "words": "сплошь",
+                "weight": 1
+              },
+              {
+                "words": "насквозь",
+                "weight": 1
+              },
+              {
+                "words": "всеобъемлюще",
+                "weight": 1
+              },
+              {
+                "words": "целиком и полностью",
+                "weight": 1
+              },
+              {
+                "words": "в полной мере",
+                "weight": 1
+              },
+              {
+                "words": "вконец",
+                "weight": 1
+              },
+              {
+                "words": "последний",
+                "weight": 0.7
+              },
+              {
+                "words": "совсем,совершенно",
+                "weight": 0.82
+              },
+              {
+                "words": "до корней волос",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "повністю",
+                "weight": 1
+              },
+              {
+                "words": "цілком",
+                "weight": 1
+              },
+              {
+                "words": "абсолютно",
+                "weight": 1
+              },
+              {
+                "words": "цілковито",
+                "weight": 1
+              },
+              {
+                "words": "зовсім",
+                "weight": 1
+              },
+              {
+                "words": "геть",
+                "weight": 1
+              },
+              {
+                "words": "цілком,досить,зовсім",
+                "weight": 0.82
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(mitte) sugugi, üldse (mitte)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Absoluutselt mitte, vastupidi.",
+            "Seal ei juhtunud absoluutselt mitte midagi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "абсолютно",
+                "weight": 1
+              },
+              {
+                "words": "совершенно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(öeldavat kinnitades:) igal juhul, täiesti kindlasti,igal juhul, kindlasti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kas tuled homme? – Absoluutselt."
+          ],
+          "synonyms": [
+            "igatahes",
+            "igastahes",
+            "igal juhul,ilmtingimata,kahtlemata,kahtlematult,kindlalt,kindlasti,tingimata,kaheldamatult"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "anyway",
+                "weight": 1
+              },
+              {
+                "words": "anyhow",
+                "weight": 1
+              },
+              {
+                "words": "you bet",
+                "weight": 1
+              },
+              {
+                "words": "in any case",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "конечно",
+                "weight": 1
+              },
+              {
+                "words": "в любом случае",
+                "weight": 1
+              },
+              {
+                "words": "во всяком случае",
+                "weight": 1
+              },
+              {
+                "words": "как бы то ни было",
+                "weight": 1
+              },
+              {
+                "words": "бесспорно,без всякого сомнения,конечно,определённо,безусловно,непременно,обязательно,несомненно,без сомнения,неоспоримо,наверняка,во что бы то ни стало,что бы там ни было,в любом случае,факт",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звичайно",
+                "weight": 1
+              },
+              {
+                "words": "у будь-якому разі",
+                "weight": 1
+              },
+              {
+                "words": "в усякому разі",
+                "weight": 1
+              },
+              {
+                "words": "хай там як",
+                "weight": 1
+              },
+              {
+                "words": "безумовно,безперечно,неодмінно,обовʼязково,конче,безсумнівно,певна річ,без сумніву,у будь-якому разі,звичайно",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "incontestablement,indubitablement,sans aucun doute,sûrement,certainement",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jäägitult",
+        "läbi-lõhki",
+        "tükkis",
+        "tükkis",
+        "jagamatult",
+        "kogu täiega",
+        "sula",
+        "sula",
+        "puht",
+        "puht",
+        "otsast otsani",
+        "täiesti",
+        "lõpuni",
+        "läbi ja läbi",
+        "totaalselt",
+        "tervelt",
+        "läbini",
+        "tervikuna",
+        "piiramatult",
+        "kompleksselt",
+        "läbinisti",
+        "terveni",
+        "tervenisti",
+        "luuni ja üdini",
+        "üdini",
+        "läbi ja lõhki",
+        "kõige täiega",
+        "üle kere",
+        "täielt",
+        "täies tükis",
+        "saba ja sarvedega",
+        "täielikult",
+        "terviklikult",
+        "sügavalt",
+        "pole",
+        "tõepoolest",
+        "tõesti",
+        "äärmiselt",
+        "aga",
+        "aga",
+        "siiski",
+        "praktiliselt",
+        "muidugi",
+        "põhimõtteliselt",
+        "tingimata",
+        "loomulikult",
+        "üldse",
+        "kuidagi",
+        "absoluuthälve",
+        "kunagi",
+        "mitte",
+        "mitte",
+        "kõik",
+        "tõeliselt",
+        "küll",
+        "küll",
+        "väga",
+        "tegelikult",
+        "kaugeltki",
+        "absoluutsus",
+        "üldsegi",
+        "peaaegu",
+        "päris",
+        "üldiselt",
+        "lihtsalt",
+        "alati",
+        "sugugi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "absoluutselt",
+      "translations": [
+        "absolutely",
+        "for fair"
+      ]
+    }
+  ]
+}

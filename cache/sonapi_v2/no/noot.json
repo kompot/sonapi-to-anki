@@ -1,0 +1,923 @@
+{
+  "requestedWord": "noot",
+  "estonianWord": "noot",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "noot"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "noodi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "nooti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "nooti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "noodisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "noodis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "noodist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "noodile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "noodil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "noodilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "noodiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "noodini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "noodina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "noodita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "noodiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "noodid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "nootide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "noote,nootisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "nootidesse,noodesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "nootides,noodes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "nootidest,noodest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "nootidele,noodele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "nootidel,noodel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "nootidelt,noodelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "nootideks,noodeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "nootideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "nootidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "nootideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "nootidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "helikõrgust ja -vältust tähistav noodikirja märk,teatava kõrguse ja kestusega heli",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ma pole kordagi orkestris valesid noote või möödalaskmisi kuulnud."
+          ],
+          "synonyms": [
+            "noodimärk"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "нота",
+                "weight": 1
+              },
+              {
+                "words": "нотка",
+                "weight": 1
+              },
+              {
+                "words": "нотный знак",
+                "weight": 0.494
+              }
+            ]
+          }
+        },
+        {
+          "definition": "sellised muusikalised märgid kogumina, noodikiri,sellises kirjas trükis (nt noodileht, noodiraamat)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Noodist laulda ma ei oska.",
+            "Ta ei tunne nootigi, aga laulab nagu ööbik.",
+            "Noote pole vaja, laulame peast."
+          ],
+          "synonyms": [
+            "noodikiri",
+            "noodiraamat"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "нотное письмо",
+                "weight": 1
+              },
+              {
+                "words": "нотация",
+                "weight": 1
+              },
+              {
+                "words": "нотное письмо,нотация",
+                "weight": 0.489
+              },
+              {
+                "words": "нотное издание",
+                "weight": 0.455
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tundetoon, tundevarjund",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ma ei tahaks pessimistliku noodiga lõpetada.",
+            "Kuulsin tema jutus ärevaid noote.",
+            "Murenoot.",
+            "Kahtlusenoot.",
+            "Pilkenoot."
+          ],
+          "synonyms": [
+            "noodike",
+            "toon",
+            "kõrvaltoon",
+            "alatoon,nüanss,varjund",
+            "värving"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "нота",
+                "weight": 1
+              },
+              {
+                "words": "нотка",
+                "weight": 1
+              },
+              {
+                "words": "нотка",
+                "weight": 0.9
+              },
+              {
+                "words": "тон",
+                "weight": 0.9
+              },
+              {
+                "words": "нотка,тональность,тон,оттенок",
+                "weight": 0.9
+              },
+              {
+                "words": "окраска",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "parfüümi, veini vms aroomi- või maitsevarjund",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Meeldivalt värske ja puuviljane kuiv vein, mille aroomis kerkivad esile lillelised noodid koos virsiku ja kuivatatud heina nüanssidega.",
+            "Veini maitses avalduvad esmalt pihlaka kergelt mõrkjad noodid, mida täiendab õuna mahlakus.",
+            "Magusapoolse parfüümi järellõhnas on mingi mõnusalt värske noot."
+          ],
+          "synonyms": [
+            "kõrvalmaik,kõrvalmaitse",
+            "nüanss,varjund"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "нота",
+                "weight": 1
+              },
+              {
+                "words": "нотка",
+                "weight": 1
+              },
+              {
+                "words": "привкус",
+                "weight": 0.9
+              },
+              {
+                "words": "оттенок,нотка,нюанс",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "uhkusenoot",
+        "tsitrusenoot",
+        "tervenoot",
+        "silpnoot",
+        "puuviljanoot",
+        "pilkenoot",
+        "pettumusnoot",
+        "pettumusenoot",
+        "neljandiknoot",
+        "murenoot",
+        "lõhnanoot",
+        "lillenoot",
+        "kuueteistkümnendiknoot",
+        "kaheksandiknoot",
+        "abinoot",
+        "kõrvalmaitse",
+        "häälevarjund",
+        "maik",
+        "toon",
+        "kõrvaltoon",
+        "varjund",
+        "kõrvalmaik",
+        "värving",
+        "nüanss",
+        "järelmaik",
+        "alatoon",
+        "värvivarjund",
+        "noodike",
+        "tämber",
+        "noodivars",
+        "oktav",
+        "noodiraamat",
+        "silp",
+        "noodimärk",
+        "veerandnoot",
+        "poolnoot",
+        "noodijoonestik",
+        "helistik",
+        "noodijoon",
+        "noodikirjandus",
+        "taktijoon",
+        "noodivõti",
+        "põhiheli",
+        "noodikiri",
+        "täisnoot",
+        "noodivältus",
+        "skertso",
+        "kõlav",
+        "kontrapunkt",
+        "duur",
+        "bemoll",
+        "akord",
+        "mi-bemoll",
+        "heliteos",
+        "bassihääl"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "noot"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "noodi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "nooti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "nooti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "noodisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "noodis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "noodist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "noodile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "noodil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "noodilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "noodiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "noodini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "noodina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "noodita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "noodiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "noodid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "nootide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "noote,nootisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "nootidesse,noodesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "nootides,noodes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "nootidest,noodest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "nootidele,noodele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "nootidel,noodel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "nootidelt,noodelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "nootideks,noodeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "nootideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "nootidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "nootideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "nootidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ühe riigi diplomaatiline kirjalik pöördumine teise riigi poole, hrl mingi probleemi korral",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Läti riik esitas Austria suursaadikule diplomaatilise noodi.",
+            "Ametlik noot."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "нота",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "protestinoot",
+        "verbaalnoot",
+        "kõrvalmaitse",
+        "häälevarjund",
+        "maik",
+        "toon",
+        "kõrvaltoon",
+        "varjund",
+        "kõrvalmaik",
+        "värving",
+        "nüanss",
+        "järelmaik",
+        "alatoon",
+        "värvivarjund",
+        "noodike",
+        "tämber",
+        "noodivars",
+        "oktav",
+        "noodiraamat",
+        "silp",
+        "skertso",
+        "noodimärk",
+        "veerandnoot",
+        "poolnoot",
+        "noodijoonestik",
+        "helistik",
+        "kõlav",
+        "kontrapunkt",
+        "noodijoon",
+        "noodikirjandus",
+        "taktijoon",
+        "noodivõti",
+        "duur",
+        "põhiheli",
+        "noodikiri",
+        "bemoll",
+        "akord",
+        "mi-bemoll",
+        "heliteos",
+        "bassihääl",
+        "täisnoot",
+        "noodivältus"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22i",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "noot"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "nooda"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "noota"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "noota"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "noodasse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "noodas"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "noodast"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "noodale"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "noodal"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "noodalt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "noodaks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "noodani"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "noodana"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "noodata"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "noodaga"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "noodad"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "nootade"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "nooti,nootasid"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "nootadesse,noodisse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "nootades,noodis"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "nootadest,noodist"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "nootadele,noodile"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "nootadel,noodil"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "nootadelt,noodilt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "nootadeks,noodiks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "nootadeni"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "nootadena"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "nootadeta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "nootadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "järelveetav võrgust kalapüünis, mis koosneb pikkadest tiibadest ja kotjast tihedasilmalisest tagaosast",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Räimenoot."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "невод",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "veonoot",
+        "tõmbenoot",
+        "traalnoot",
+        "talinoot",
+        "süvaveenoot",
+        "seisevnoot",
+        "seinnoot",
+        "põhjanoot",
+        "muttnoot",
+        "lestanoot",
+        "kilunoot",
+        "jõenoot",
+        "haardnoot",
+        "kõrvalmaitse",
+        "häälevarjund",
+        "maik",
+        "toon",
+        "kõrvaltoon",
+        "varjund",
+        "kõrvalmaik",
+        "värving",
+        "nüanss",
+        "järelmaik",
+        "alatoon",
+        "värvivarjund",
+        "noodike",
+        "tämber",
+        "noodivars",
+        "oktav",
+        "noodiraamat",
+        "silp",
+        "skertso",
+        "noodimärk",
+        "veerandnoot",
+        "poolnoot",
+        "noodijoonestik",
+        "helistik",
+        "kõlav",
+        "kontrapunkt",
+        "noodijoon",
+        "noodikirjandus",
+        "taktijoon",
+        "noodivõti",
+        "duur",
+        "põhiheli",
+        "noodikiri",
+        "bemoll",
+        "akord",
+        "mi-bemoll",
+        "heliteos",
+        "bassihääl",
+        "täisnoot",
+        "noodivältus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "noot",
+      "translations": [
+        "note",
+        "seine (kalapüügivahend)"
+      ]
+    }
+  ]
+}

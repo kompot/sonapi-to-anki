@@ -1,0 +1,193 @@
+{
+  "requestedWord": "seest",
+  "estonianWord": "seest",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "seest"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sisemusest, seestpoolt,kaetud, varjatud olekust,sees oleva külje poolt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Redis oli seest tühi.",
+            "Toit oli pealt leige, seest aga täiesti külm.",
+            "Päästjad otsivad rusukuhja seest ellujäänuid.",
+            "Tulge suitsu seest ära.",
+            "Saapad on seest karvased.",
+            "Koer hüppab karbi seest välja."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "изнутри",
+                "weight": 1
+              },
+              {
+                "words": "из",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зсередини",
+                "weight": 1
+              },
+              {
+                "words": "з",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(osutab inimesele, tema enesetundele või siseelule)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Teade võttis seest õõnsaks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "изнутри",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "siseruumi(de)st, majast,majast, toast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Seest kostis koera haukumist.",
+            "Seest kostab kõva kisa."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "à l'intérieur",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "изнутри",
+                "weight": 1
+              },
+              {
+                "words": "из дома",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зсередини",
+                "weight": 1
+              },
+              {
+                "words": "з дому",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millestki (välja, ära), kuskilt (välja, ära), hulgast, seast,mingist olukorrast, seisundist või millegi mõjust (välja),näitab, kust või millest midagi (ära) võetakse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Laul ei kostnud müra seest välja.",
+            "Tõmba juhe seina seest välja.",
+            "Laps leidis liiva seest mänguasja."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "dans",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "из",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "seestpoolt",
+        "roostes",
+        "pealt",
+        "seestütlev",
+        "otsaeest",
+        "sisemus",
+        "pealtpoolt",
+        "sees",
+        "sees",
+        "siiruviiruline",
+        "väljast",
+        "seespidi",
+        "õõnsalt",
+        "seesinane"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "seest",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "requestedWord": "sees",
+  "estonianWord": "sees",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sees"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sisemuses, seespool, pealispinnast sügavamal,millestki ümbritsetuna, mingil piiratud alal,näitab, kus või milles keegi või miski on",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Kannus oli vesi sees.",
+            "Mäed on paksu udu sees.",
+            "Vaasis on vesi sees.",
+            "Tassi sees on mahl.",
+            "Koer on karbi sees.",
+            "Karu elab paksu metsa sees."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "dans",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(osutab inimesele, tema kehale, enesetundele või siseelule)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Süda puperdab sees.",
+            "Haigel ei püsinud ükski toit sees.",
+            "Väike pabin on sees."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "внутри",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "siseruumis, majas, katuse all,majas, toas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Väljas on praegu soojem kui sees.",
+            "Lähme õue, ma ei saa enam sees olla.",
+            "Õpetaja otsustab, kas tund toimub väljas või sees.",
+            "Väljas on kevad, aga mina istun sees."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "à l'intérieur",
+                "weight": 1
+              },
+              {
+                "words": "dedans",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "внутри",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "усередині",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "koostises, hulgas, seas,(õppurite) koosseisus,mingi asutuse piires,arvestatuna millegi hulgas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Kas lepingus on selline punkt sees?",
+            "Vein oli piletihinna sees.",
+            "Olengi ülikoolis sees!",
+            "Kõik kulud on hinna sees."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "dans",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingi ajaühiku väldates või millegi toimumise ajal,osutab ajavahemikule või ajale, mil midagi tehakse või toimub",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Nädala sees jääb vaba aega väheks.",
+            "Võimalik, et abiellume uue aasta sees."
+          ],
+          "synonyms": [
+            "jooksul",
+            "kestel",
+            "vältel",
+            "ajal"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "during",
+                "weight": 1
+              },
+              {
+                "words": "during",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "pendant",
+                "weight": 1
+              },
+              {
+                "words": "durant",
+                "weight": 1
+              },
+              {
+                "words": "au cours de",
+                "weight": 1
+              },
+              {
+                "words": "pendant",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "в течение",
+                "weight": 1
+              },
+              {
+                "words": "в продолжение",
+                "weight": 1
+              },
+              {
+                "words": "на протяжении",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "за время",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "во время",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "протягом",
+                "weight": 1
+              },
+              {
+                "words": "під час",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kinnitab, fikseerib mingi olukorra, seisundi olemasolu, osutab selles viibimisele",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Tal on saatkonnas suhted sees.",
+            "Tarkust peeti au sees."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "hulgas",
+        "seestpoolt",
+        "seespool",
+        "seal",
+        "tagaõu",
+        "seest",
+        "peal",
+        "küljes",
+        "taga",
+        "otsas",
+        "seespidi",
+        "seesinane"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "sees"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "seesi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "seesi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "seesi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "seesisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "seesis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "seesist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "seesile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "seesil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "seesilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "seesiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "seesini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "seesina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "seesita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "seesiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "seesid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "seeside"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "seese,seesisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "seesidesse,seesesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "seesides,seeses"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "seesidest,seesest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "seesidele,seesele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "seesidel,seesel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "seesidelt,seeselt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "seesideks,seeseks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "seesideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "seesidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "seesideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "seesidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "pluusi või jaki vöökohast allapoole jääv osa, hrl rippuv, kaunistatud vm moel esile tõusev hõlm",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Villased seesidega kampsunid olid kas potisinised või hallid."
+          ],
+          "synonyms": [
+            "soos",
+            "puus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "баска",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hulgas",
+        "seestpoolt",
+        "seespool",
+        "seal",
+        "tagaõu",
+        "seest",
+        "peal",
+        "küljes",
+        "taga",
+        "otsas",
+        "seespidi",
+        "seesinane"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sees",
+      "translations": [
+        "indoors",
+        "intra",
+        "within"
+      ]
+    }
+  ]
+}

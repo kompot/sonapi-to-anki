@@ -1,0 +1,291 @@
+{
+  "requestedWord": "mentor",
+  "estonianWord": "mentor",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "mentor"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "mentori"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "mentorit"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "mentorisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "mentoris"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "mentorist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "mentorile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "mentoril"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "mentorilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "mentoriks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "mentorini"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "mentorina"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "mentorita"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "mentoriga"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "mentorid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "mentorite"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "mentoreid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "mentoritesse,mentoreisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "mentorites,mentoreis"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "mentoritest,mentoreist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "mentoritele,mentoreile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "mentoritel,mentoreil"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "mentoritelt,mentoreilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "mentoriteks,mentoreiks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "mentoriteni"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "mentoritena"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "mentoriteta"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "mentoritega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kogenud nõuandja, õpetaja, kasvataja",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Noored kriitikud õppisid mentori käe all artikli kirjutamist."
+          ],
+          "synonyms": [
+            "õpetaja",
+            "nõuandja",
+            "nõustaja",
+            "juhendaja,juh",
+            "konsultant,referent"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ментор",
+                "weight": 1
+              },
+              {
+                "words": "наставница,наставник",
+                "weight": 0.7
+              },
+              {
+                "words": "консультант,консультантка,советчик,советчица,советник,референт,референтка",
+                "weight": 0.9
+              },
+              {
+                "words": "советчик,советчица",
+                "weight": 0.447
+              },
+              {
+                "words": "инструктор,руководитель,руководительница,наставник,наставница,рук.",
+                "weight": 0.7
+              },
+              {
+                "words": "консультант,консультантка,референт,референтка",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ментор",
+                "weight": 1
+              },
+              {
+                "words": "порадник,порадниця,консультант,консультантка",
+                "weight": 0.447
+              },
+              {
+                "words": "керівниця,керівник,наставник,наставниця,інструктор,куратор",
+                "weight": 0.7
+              },
+              {
+                "words": "консультантка,референт,референтка,консультант",
+                "weight": 0.9
+              },
+              {
+                "words": "керівник,керівниця,наставник,наставниця,інструктор,куратор",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "conseillère,conseiller",
+                "weight": 0.447
+              },
+              {
+                "words": "consultant,consultante,conseiller,conseillère",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "juhendaja",
+        "nõunik",
+        "konsultant",
+        "referent",
+        "nõuandja",
+        "kogemusnõustaja",
+        "õpetaja",
+        "tugiisik",
+        "mentorlus",
+        "nõustaja",
+        "praktik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "mentor",
+      "translations": [
+        "mentor"
+      ]
+    }
+  ]
+}

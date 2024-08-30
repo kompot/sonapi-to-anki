@@ -1,0 +1,361 @@
+{
+  "requestedWord": "põlvkond",
+  "estonianWord": "põlvkond",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22i",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "põlvkond"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "põlvkonna"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "põlvkonda"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "põlvkonda"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "põlvkonnasse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "põlvkonnas"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "põlvkonnast"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "põlvkonnale"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "põlvkonnal"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "põlvkonnalt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "põlvkonnaks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "põlvkonnani"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "põlvkonnana"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "põlvkonnata"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "põlvkonnaga"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "põlvkonnad"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "põlvkondade"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "põlvkondi,põlvkondasid"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "põlvkondadesse,põlvkonnisse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "põlvkondades,põlvkonnis"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "põlvkondadest,põlvkonnist"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "põlvkondadele,põlvkonnile"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "põlvkondadel,põlvkonnil"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "põlvkondadelt,põlvkonnilt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "põlvkondadeks,põlvkonniks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "põlvkondadeni"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "põlvkondadena"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "põlvkondadeta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "põlvkondadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "samaaegselt elavad või elanud lähedase vanusega (ja lähedase tegevusala või elukogemusega) inimesed,kõik inimesed perekonnas, riigis või maailmas, kes on sündinud umbes samal ajal",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Sõjajärgne põlvkond.",
+            "Beebibuumi põlvkond.",
+            "Üles on kasvanud uus põlvkond muusikuid.",
+            "Internetipõlvkond.",
+            "Hipipõlvkond.",
+            "Korteris elas koos kolm põlvkonda.",
+            "Noorem põlvkond eelistab lugemise asemel arvutiga mängida."
+          ],
+          "synonyms": [
+            "generatsioon",
+            "sugupõlv",
+            "inimpõlvkond",
+            "põlv",
+            "inimpõlv",
+            "sugu",
+            "järelpõlv",
+            "rahvapõlv"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "generation",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "génération",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "поколение",
+                "weight": 1
+              },
+              {
+                "words": "генерация",
+                "weight": 1
+              },
+              {
+                "words": "колено",
+                "weight": 1
+              },
+              {
+                "words": "людское поколение,поколение",
+                "weight": 0.9
+              },
+              {
+                "words": "род",
+                "weight": 0.9
+              },
+              {
+                "words": "потомство,будущее поколение,потомки,последующее поколение",
+                "weight": 0.9
+              },
+              {
+                "words": "поколение",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "покоління",
+                "weight": 1
+              },
+              {
+                "words": "генерація",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ühest esivanemast põlvnevate sugulaste sama astme liikmed",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Võrumaa aasta isaks valiti Väino Leok, kelle perekonnast on kasvanud kolm põlvkonda motosportlasi."
+          ],
+          "synonyms": [
+            "generatsioon",
+            "sugupõlv",
+            "põlv"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "generation",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "поколение",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "покоління",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "omaette arengujärgu moodustavad tooted",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "3G ehk kolmanda põlvkonna mobiilside."
+          ],
+          "synonyms": [
+            "generatsioon",
+            "sugupõlv"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "поколение",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "inimpõlv",
+        "põlv",
+        "sugupõlv",
+        "sugu",
+        "generatsioon",
+        "järeltulija",
+        "järglane",
+        "järelpõlv",
+        "X-põlvkond",
+        "põlvkonnavahetus",
+        "Z-põlvkond",
+        "metsapõlvkond",
+        "Y-põlvkond",
+        "sugu",
+        "põlvkondadevaheline",
+        "põlvkondlik",
+        "põlv"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "põlvkond",
+      "translations": [
+        "generation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,791 @@
+{
+  "requestedWord": "keerutama",
+  "estonianWord": "keerutama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "keerutama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "keerutamata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "keerutamas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "keerutamast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "keerutamaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "keerutatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "keerutada"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "keerutades"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "keerutav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "keerutatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "keerutanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "keerutanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "keerutatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "keerutatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "keerutan"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "keerutad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "keerutab"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "keerutame"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "keerutate"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "keerutavad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "keeruta"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "keerutatakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "keerutata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "keerutasin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "keerutasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "keerutas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "keerutasime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "keerutasite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "keerutasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "keerutati"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "keerutaksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "keerutaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "keerutaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "keerutaksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "keerutaksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "keerutaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "keerutataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "keerutanuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "keerutanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "keerutanuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "keerutanuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "keerutanuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "keerutanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "keerutatuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "keerutavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "keerutatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "keerutanuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "keerutatuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "keeruta"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "keerutagem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "keerutage"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "keerutagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "keerutatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ringis või oma keskpunkti või telje ümber liikuma panema, keerlema panema, korduvalt keerama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Tuul keerutab metsateel värvilisi lehti.",
+            "Koer hakkas kohapeal ringiratast keerutama.",
+            "Tüdruk keerutas pastakat sõrmede vahel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "крутить",
+                "weight": 1
+              },
+              {
+                "words": "крутиться",
+                "weight": 1
+              },
+              {
+                "words": "кружить",
+                "weight": 1
+              },
+              {
+                "words": "кружиться",
+                "weight": 1
+              },
+              {
+                "words": "вертеть",
+                "weight": 1
+              },
+              {
+                "words": "вертеться",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "liikumisel ringe või keerde tegema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Buss muudkui keerutas metsa vahel.",
+            "Parketil keerutati valssi."
+          ],
+          "synonyms": [
+            "keerlema,pöörlema",
+            "keerlema",
+            "piirama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "кружиться",
+                "weight": 1
+              },
+              {
+                "words": "кружить",
+                "weight": 1
+              },
+              {
+                "words": "ворочаться,вертеться,вихриться,вращаться,кружиться,крутиться,крутануться",
+                "weight": 0.7837
+              },
+              {
+                "words": "крутиться,вертеться,виться,извиваться",
+                "weight": 0.7837
+              },
+              {
+                "words": "кружиться,крутиться,осаждать",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "tourner",
+                "weight": 0.7837
+              }
+            ],
+            "ukr": [
+              {
+                "words": "крутитися,обертатися,вертітися",
+                "weight": 0.7837
+              }
+            ]
+          }
+        },
+        {
+          "definition": "loogeldes ja keerde tehes paiknema",
+          "partOfSpeech": [],
+          "examples": [
+            "Matkarada keerutas jõe äärt pidi."
+          ],
+          "synonyms": [
+            "keerlema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "извиваться,виться",
+                "weight": 0.7837
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millestki pikalt-laialt või sama asja juurde üha tagasi tulles rääkima, juttu heietama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Koosolekul keerutati ühest ja teisest asjast, aga midagi ära ei otsustatud.",
+            "Keerutas pikalt-laialt, aga mida ta öelda tahtis?"
+          ],
+          "synonyms": [
+            "korrutama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "распространяться",
+                "weight": 1
+              },
+              {
+                "words": "растекаться",
+                "weight": 1
+              },
+              {
+                "words": "талдычить,твердить,долбить,повторять",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(jutuga) laveerima, millestki kõrvale põiklema, mitte otsekohene olema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Vähemalt ei hakanud ta keerutama ja vabandusi otsima."
+          ],
+          "synonyms": [
+            "vingerdama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "лавировать",
+                "weight": 1
+              },
+              {
+                "words": "выкручиваться",
+                "weight": 1
+              },
+              {
+                "words": "выкрутиться",
+                "weight": 1
+              },
+              {
+                "words": "юлить",
+                "weight": 1
+              },
+              {
+                "words": "увёртываться",
+                "weight": 1
+              },
+              {
+                "words": "увернуться",
+                "weight": 1
+              },
+              {
+                "words": "увиливать",
+                "weight": 1
+              },
+              {
+                "words": "увильнуть",
+                "weight": 1
+              },
+              {
+                "words": "отвиливать",
+                "weight": 1
+              },
+              {
+                "words": "отвильнуть",
+                "weight": 1
+              },
+              {
+                "words": "петлять",
+                "weight": 1
+              },
+              {
+                "words": "крутить",
+                "weight": 1
+              },
+              {
+                "words": "финтить",
+                "weight": 1
+              },
+              {
+                "words": "фокусничать",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "keerdu, rulli või rõngasse keerama või niiviisi midagi valmistama",
+          "partOfSpeech": [],
+          "examples": [
+            "Niinest keerutatud nöör.",
+            "Keeruta taignast pikad pulgad ja pane ahju.",
+            "Vanamees keerutas vuntsi ja muheles."
+          ],
+          "synonyms": [
+            "keerama,pöörama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "крутить",
+                "weight": 1
+              },
+              {
+                "words": "скручивать",
+                "weight": 1
+              },
+              {
+                "words": "скрутить",
+                "weight": 1
+              },
+              {
+                "words": "закручивать",
+                "weight": 1
+              },
+              {
+                "words": "закрутить",
+                "weight": 1
+              },
+              {
+                "words": "свернуть,скатывать,скатать,свёртывать,скручивать,скрутить,завёртывать,завернуть,обёртывать,обернуть,подгибать,подогнуть",
+                "weight": 0.7855
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vurritama",
+        "kihutama",
+        "äsama",
+        "piirlema",
+        "kõksama",
+        "laratama",
+        "plaksama",
+        "tuuritama",
+        "vett segama",
+        "rehmama",
+        "kerima",
+        "kõverdama",
+        "koksama",
+        "koputama",
+        "tinutama",
+        "tinutama",
+        "rapsama",
+        "sipsama",
+        "sihvama",
+        "ängama",
+        "andma",
+        "kõpsama",
+        "lohmama",
+        "jälgi segama",
+        "näpsama",
+        "mõõtma",
+        "tõmbama",
+        "lapsatama",
+        "sahmama",
+        "mämmutama",
+        "säpsama",
+        "läigatama",
+        "raksama",
+        "hööritama",
+        "tiirlema",
+        "siuhkama",
+        "kõrvetama",
+        "vastu tatti andma",
+        "kiiama",
+        "nämmutama",
+        "kostitama",
+        "rahmama",
+        "naksama",
+        "sirutama",
+        "ropsama",
+        "vopsama",
+        "heietama",
+        "kiibitsema",
+        "plartsatama",
+        "plaksima",
+        "laksatama",
+        "latsatama",
+        "lartsatama",
+        "kassi ja hiirt mängima",
+        "laksama",
+        "kõõrutama",
+        "põrutama",
+        "lööma",
+        "kähvama",
+        "napsama",
+        "kopsama",
+        "eksitama",
+        "kätt tõstma",
+        "äigama",
+        "peksma",
+        "põletama",
+        "pasunasse andma",
+        "tiirutama",
+        "pimesikku mängima",
+        "lõikama",
+        "rabama",
+        "keerama",
+        "korrutama",
+        "pööritama",
+        "vestlema",
+        "lajatama",
+        "läigitama",
+        "patsatama",
+        "peitust mängima",
+        "leierdama",
+        "näksama",
+        "riuklema",
+        "latsama",
+        "sähmama",
+        "virutama",
+        "valama",
+        "mäluma",
+        "patsama",
+        "kavaldama",
+        "plaksatama",
+        "kähmama",
+        "vastu lõugu andma",
+        "sähvama",
+        "ööbikuid kuulama saatma",
+        "platsatama",
+        "mäletsema",
+        "sapsama",
+        "ketrama",
+        "nihvama",
+        "kärutama",
+        "nähvama",
+        "kopsatama",
+        "keerlema",
+        "lahmama",
+        "rähmama",
+        "askeldama",
+        "vingerdama",
+        "lahti keerama",
+        "vähkrema",
+        "puiklema",
+        "lipitsema",
+        "liputama",
+        "keerduma",
+        "pöörlema",
+        "poolima",
+        "palmitsema",
+        "hiilima",
+        "kinni",
+        "pöörama",
+        "kõigutama",
+        "targutama",
+        "ühte",
+        "kaela määrima",
+        "kruvima",
+        "looklema",
+        "vibama",
+        "väänlema",
+        "targutlema",
+        "üles",
+        "siuglema",
+        "põimima",
+        "kangutama",
+        "laveerima",
+        "väntama",
+        "kõrvale hoidma",
+        "palmima",
+        "vänderdama",
+        "vigurdama",
+        "perutama",
+        "eputama",
+        "lösutama",
+        "kükitama",
+        "veeretama",
+        "vilgutama",
+        "kobrutama",
+        "ohkima",
+        "käputama",
+        "mossitama",
+        "laiutama",
+        "aerutama",
+        "poputama",
+        "sütitama",
+        "tibutama",
+        "rüütama",
+        "vibutama",
+        "mustama",
+        "teritama",
+        "kaagutama",
+        "põristama",
+        "erutama",
+        "küürutama",
+        "pikutama",
+        "müütama",
+        "paugutama",
+        "raputama",
+        "rullitama",
+        "naerutama",
+        "paitama",
+        "sikutama",
+        "kepsutama",
+        "krimpsutama",
+        "harutama",
+        "väristama",
+        "putitama",
+        "turritama",
+        "norutama",
+        "õõtsutama",
+        "upitama",
+        "murrutama",
+        "kaisutama",
+        "näägutama",
+        "plartsutama",
+        "lonkima"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "keerutama",
+      "translations": [
+        "talk in circles",
+        "twirl"
+      ]
+    }
+  ]
+}

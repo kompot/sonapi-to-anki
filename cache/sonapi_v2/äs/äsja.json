@@ -1,0 +1,140 @@
+{
+  "requestedWord": "äsja",
+  "estonianWord": "äsja",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "äsja"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "väga vähe aega tagasi, natukese aja eest,väga vähe aega tagasi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kolisin äsja uude korterisse.",
+            "Saabusin äsja reisilt.",
+            "Ansamblil ilmus äsja uus album."
+          ],
+          "synonyms": [
+            "alles",
+            "nüüdsama",
+            "vast"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "recently",
+                "weight": 1
+              },
+              {
+                "words": "just",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "juste",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "недавно",
+                "weight": 1
+              },
+              {
+                "words": "совсем недавно",
+                "weight": 1
+              },
+              {
+                "words": "на днях",
+                "weight": 1
+              },
+              {
+                "words": "только",
+                "weight": 1
+              },
+              {
+                "words": "только что",
+                "weight": 1
+              },
+              {
+                "words": "только-только",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "недавно",
+                "weight": 1
+              },
+              {
+                "words": "зовсім недавно",
+                "weight": 1
+              },
+              {
+                "words": "тільки що",
+                "weight": 1
+              },
+              {
+                "words": "щойно",
+                "weight": 1
+              },
+              {
+                "words": "цими днями",
+                "weight": 1
+              },
+              {
+                "words": "на днях",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "nüüdsama",
+        "just",
+        "ennist",
+        "ammuks",
+        "hiljaaegu",
+        "hiljuti",
+        "alles",
+        "parajasti",
+        "ennest",
+        "vastselt",
+        "toona",
+        "täna",
+        "täna",
+        "juba",
+        "värskelt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "äsja",
+      "translations": [
+        "fresh",
+        "freshly",
+        "just",
+        "recently"
+      ]
+    }
+  ]
+}

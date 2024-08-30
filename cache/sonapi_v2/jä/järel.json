@@ -1,0 +1,454 @@
+{
+  "requestedWord": "järel",
+  "estonianWord": "järel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "järel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(liikumisel) ruumiliselt kellegi või millegi taga,liikudes (kellegi või millegi) taga",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Ta sammus kohe minu järel.",
+            "Laps läks ees, koer joostes järel.",
+            "Eesel pidi tal pidevalt järel käima.",
+            "Koer kõndis mul järel.",
+            "Vedasin oma kohvrit järel.",
+            "Pardid ujusid üksteise järel reas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "derrière",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "сзади",
+                "weight": 1
+              },
+              {
+                "words": "позади",
+                "weight": 1
+              },
+              {
+                "words": "вслед за",
+                "weight": 1
+              },
+              {
+                "words": "следом за",
+                "weight": 1
+              },
+              {
+                "words": "следом",
+                "weight": 1
+              },
+              {
+                "words": "вслед",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вслід",
+                "weight": 1
+              },
+              {
+                "words": "услід",
+                "weight": 1
+              },
+              {
+                "words": "слідом",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "позаду",
+                "weight": 1
+              },
+              {
+                "words": "ззаду",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellestki või millestki hiljem või pärast mingit sündmust või millegi ajalist vältamist,kellestki hiljem,pärast mingit sündmust või ajavahemikku",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Nii paljude aastate järel ei mäleta kõike täpselt.",
+            "Mõne kilomeetri järel tegime väikese peatuse.",
+            "Üks ütles sõnad ees, teised kordasid järel.",
+            "Õpetaja ütles ees, lapsed kordasid järel.",
+            "Ta jätkas õpinguid aastase vaheaja järel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "après",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "вслед за",
+                "weight": 1
+              },
+              {
+                "words": "следом за",
+                "weight": 1
+              },
+              {
+                "words": "следом",
+                "weight": 1
+              },
+              {
+                "words": "затем",
+                "weight": 1
+              },
+              {
+                "words": "после",
+                "weight": 1
+              },
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "потом",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "услід",
+                "weight": 1
+              },
+              {
+                "words": "слідом",
+                "weight": 1
+              },
+              {
+                "words": "потім",
+                "weight": 1
+              },
+              {
+                "words": "після",
+                "weight": 1
+              },
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "відтак",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab tihedale ajalisele järgnevusele",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Auto auto järel vuras mööda."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "вслед за",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tasemelt, arengult, saavutustelt või mingis järjestuses kellestki või millestki tagapool",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Meie võistkond tuli Läti järel kolmandaks.",
+            "Ta oli koolis minust paar klassi järel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вслед за",
+                "weight": 1
+              },
+              {
+                "words": "следом за",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kellaosutite seisu kohta:) õigest ajast taga",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Su kell on järel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "отставать",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "midagi või kedagi kusagilt ära toomas, kätte saamas vms,kedagi või midagi kuskilt ära toomas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Käis koolis õpikute järel.",
+            "Hommikul viin lapsed lasteaeda, õhtul käin neil seal järel.",
+            "Täna käis isa lapsel lasteaias järel.",
+            "Käisin postkontoris paki järel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "по",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(endisest) säilinud, veel või endist viisi olemas,säilinud, (veel) olemas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tema tavapärasest elurõõmust oli vähe järel.",
+            "Mul on ainult paar eurot järel.",
+            "Pärast sõda olid lossist järel ainult varemed."
+          ],
+          "synonyms": [
+            "järgi",
+            "alles"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "осталось",
+                "weight": 1
+              },
+              {
+                "words": "сохранилось",
+                "weight": 1
+              },
+              {
+                "words": "в сохранности",
+                "weight": 1
+              },
+              {
+                "words": "цел",
+                "weight": 1
+              },
+              {
+                "words": "цела",
+                "weight": 1
+              },
+              {
+                "words": "цело",
+                "weight": 1
+              },
+              {
+                "words": "целы",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "залишилося",
+                "weight": 1
+              },
+              {
+                "words": "лишилося",
+                "weight": 1
+              },
+              {
+                "words": "в цілості",
+                "weight": 1
+              },
+              {
+                "words": "збереглося",
+                "weight": 1
+              },
+              {
+                "words": "цілий",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tulemuseks, tagajärjeks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Poiss näpistas nii et sinised plekid järel."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "kannul",
+        "maas",
+        "sabas",
+        "kuklas",
+        "takka",
+        "alles",
+        "alal",
+        "jälil",
+        "tagapool",
+        "päras",
+        "pärast",
+        "taga",
+        "puksiiris",
+        "järgi",
+        "tagant",
+        "slepis",
+        "möödas",
+        "tahapoole",
+        "taha",
+        "seljataga",
+        "seljataha",
+        "tulemusel",
+        "kõrval",
+        "kõrval",
+        "tõttu",
+        "käigus",
+        "alguses",
+        "lõpukorral",
+        "tulemusena",
+        "eel",
+        "tagajärjel",
+        "lõpus",
+        "puhul",
+        "jooksul",
+        "ajal"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "järel",
+      "translations": [
+        "after",
+        "behind",
+        "left",
+        "upon the heels of"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "requestedWord": "murd",
+  "estonianWord": "murd",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "murd"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "murru"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "murdu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "murdu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "murrusse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "murrus"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "murrust"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "murrule"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "murrul"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "murrult"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "murruks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "murruni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "murruna"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "murruta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "murruga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "murrud"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "murdude"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "murde,murdusid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "murdudesse,murresse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "murdudes,murres"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "murdudest,murrest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "murdudele,murrele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "murdudel,murrel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "murdudelt,murrelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "murdudeks,murreks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "murdudeni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "murdudena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "murdudeta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "murdudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "hrl luu murdumine või murdmine, vastav murdumise koht",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mehel diagnoositi vasaku käe ühe sõrme murd.",
+            "Röntgen näitab, et murd on kokku kasvanud.",
+            "Selgroomurd.",
+            "Jalaluumurd."
+          ],
+          "synonyms": [
+            "murre"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "перелом",
+                "weight": 1
+              },
+              {
+                "words": "излом",
+                "weight": 1
+              },
+              {
+                "words": "слом",
+                "weight": 1
+              },
+              {
+                "words": "разлом",
+                "weight": 1
+              },
+              {
+                "words": "облом",
+                "weight": 1
+              },
+              {
+                "words": "ломка",
+                "weight": 1
+              },
+              {
+                "words": "поломка",
+                "weight": 1
+              },
+              {
+                "words": "дробление",
+                "weight": 1
+              },
+              {
+                "words": "перелом,излом,надлом",
+                "weight": 0.85
+              }
+            ]
+          }
+        },
+        {
+          "definition": "arv, mida on võimalik esitada kahe täisarvu jagatisena <eki-foreign>a/b</eki-foreign> ja kus <eki-foreign>b</eki-foreign> ≠ 0 ning mille esitus koosneb lugejast ja nimetajast (nt 3/4)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Murru lugeja ja nimetaja."
+          ],
+          "synonyms": [
+            "harilik murd"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "дробь",
+                "weight": 1
+              },
+              {
+                "words": "простая дробь",
+                "weight": 1
+              },
+              {
+                "words": "обыкновенная дробь",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "inimeste, autode vm tohutu suur hulk",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Hiina müüril tungleb turistide murd."
+          ],
+          "synonyms": [
+            "rahvahulk",
+            "kari,salk,salkkond,summ,trobikond",
+            "inimkari",
+            "mass"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "толпа",
+                "weight": 1
+              },
+              {
+                "words": "скопление",
+                "weight": 1
+              },
+              {
+                "words": "поток",
+                "weight": 1
+              },
+              {
+                "words": "наплыв",
+                "weight": 1
+              },
+              {
+                "words": "уйма",
+                "weight": 1
+              },
+              {
+                "words": "скопище",
+                "weight": 1
+              },
+              {
+                "words": "масса народа,народище,людское сборище,толпа людей,толпа народа,множество народа",
+                "weight": 0.9
+              },
+              {
+                "words": "сомн,скопление,скопище,орава,стая,туча,рой,группа,гурьба,отряд,ватага,масса,куча,стадо,толпа",
+                "weight": 0.9
+              },
+              {
+                "words": "толпа,стадо",
+                "weight": 0.9
+              },
+              {
+                "words": "толпа,масса",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ehituskivide kaevandamise koht",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Paeplaadid on pärit Kostivere murrust."
+          ],
+          "synonyms": [
+            "kivimurd"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "каменоломня",
+                "weight": 1
+              },
+              {
+                "words": "карьер",
+                "weight": 1
+              },
+              {
+                "words": "каменный карьер",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "murdunud, murtud puud",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Metsaomanikud koristasid murdu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "валежник",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kõrge merelaine, mille ülemine osa (hari) järsult ettepoole alla murdub",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Karidelt kostab murdude kohinat."
+          ],
+          "synonyms": [
+            "murdlaine"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "прибойная волна",
+                "weight": 1
+              },
+              {
+                "words": "волна прибоя",
+                "weight": 1
+              },
+              {
+                "words": "бурун",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "rahvavool",
+        "rahvamass",
+        "inimmüür",
+        "rahvamurd",
+        "murre",
+        "murre",
+        "rahvatulv",
+        "inimkari",
+        "inimvoog",
+        "rahvajõuk",
+        "summ",
+        "summ",
+        "rahvaparv",
+        "rahvatung",
+        "inimkobar",
+        "inimvool",
+        "inimsumm",
+        "rahvahulk",
+        "inimmass",
+        "inimhulk",
+        "inimmeri",
+        "rahvasumm",
+        "rahvamüür",
+        "tirtsuparv",
+        "rahvapilv",
+        "mass",
+        "rahvamöll",
+        "inimmurd",
+        "rahvameri",
+        "inimjõgi",
+        "süvamurrang",
+        "murdekoht",
+        "purustus",
+        "karjäär",
+        "karjäär",
+        "purunemine",
+        "murrukoht",
+        "roie",
+        "murdejoon",
+        "murdejoon",
+        "kaarnaluu",
+        "jalaluumurd",
+        "rangluu",
+        "rebend",
+        "roideluu",
+        "ahelmurd",
+        "reieluupea",
+        "reieluumurd",
+        "reieluu",
+        "lihtmurd",
+        "murdjoon",
+        "ninaluu",
+        "murruline",
+        "luu",
+        "murdu",
+        "luumurd",
+        "sääreluu",
+        "liigmurd"
+      ]
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "murd-"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "märgib seost murdmise, murdumisega või katkemisega",
+          "partOfSpeech": [],
+          "examples": [
+            "Murdlaine.",
+            "Murdkelpkatus.",
+            "Murdjoon."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "murd",
+      "translations": [
+        "fraction"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "requestedWord": "sagedamini",
+  "estonianWord": "sagedamini",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sagedamini"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "väiksemate vaheaegade tagant, rohkematel juhtudel,väiksemate vaheaegade järel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Teda näeb sagedamini maad kaevates või kündes.",
+            "Rattal tuleb kumme sagedamini pumbata kui autol.",
+            "Naistel valutab pea sagedamini kui meestel."
+          ],
+          "synonyms": [
+            "tihedamini"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "plus souvent",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "чаще",
+                "weight": 1
+              },
+              {
+                "words": "почаще",
+                "weight": 1
+              },
+              {
+                "words": "более часто",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "частіше",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tihti",
+        "sagedam",
+        "kindlamini",
+        "sagedasti",
+        "rutemini",
+        "tihemini",
+        "rohkemini",
+        "hoolsamini",
+        "hõredamini",
+        "harva",
+        "harvem",
+        "tihedamini",
+        "avalikumalt",
+        "sageli",
+        "rohkem",
+        "rohkem",
+        "harvemini"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sagedamini",
+      "translations": []
+    }
+  ]
+}

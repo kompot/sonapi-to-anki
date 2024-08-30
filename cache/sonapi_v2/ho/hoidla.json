@@ -1,0 +1,296 @@
+{
+  "requestedWord": "hoidla",
+  "estonianWord": "hoidla",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "01",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "hoidla"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "hoidla"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "hoidlat"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "hoidlasse"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "hoidlas"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "hoidlast"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "hoidlale"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "hoidlal"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "hoidlalt"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "hoidlaks"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "hoidlani"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "hoidlana"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "hoidlata"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "hoidlaga"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "hoidlad"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "hoidlate"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "hoidlaid"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "hoidlatesse,hoidlaisse"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "hoidlates,hoidlais"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "hoidlatest,hoidlaist"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "hoidlatele,hoidlaile"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "hoidlatel,hoidlail"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "hoidlatelt,hoidlailt"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "hoidlateks,hoidlaiks"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "hoidlateni"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "hoidlatena"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "hoidlateta"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "hoidlatega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "hoone või ruum, ka rajatis millegi hoidmiseks või kestvaks säilitamiseks",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Radioaktiivsete jäätmete hoidla."
+          ],
+          "synonyms": [
+            "ladu",
+            "panila,hoiukoht,hoiupaik",
+            "hoiuruum"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "хранилище",
+                "weight": 1
+              },
+              {
+                "words": "запасник",
+                "weight": 1
+              },
+              {
+                "words": "хранилище,склад",
+                "weight": 0.85
+              },
+              {
+                "words": "место хранения",
+                "weight": 0.9
+              },
+              {
+                "words": "камера хранения,запасник,хранилище",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "dépôt,entrepôt",
+                "weight": 0.85
+              }
+            ],
+            "ukr": [
+              {
+                "words": "склад",
+                "weight": 0.85
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "õunahoidla",
+        "õlihoidla",
+        "väetisehoidla",
+        "veehoidla",
+        "tsemendihoidla",
+        "teraviljahoidla",
+        "põhuhoidla",
+        "puuviljahoidla",
+        "pagasihoidla",
+        "köögiviljahoidla",
+        "külmhoidla",
+        "kuivsilohoidla",
+        "jäähoidla",
+        "juustuhoidla",
+        "juurviljahoidla",
+        "heinahoidla",
+        "filmihoidla",
+        "bensiinihoidla",
+        "aedviljahoidla",
+        "hoiukoht",
+        "ladu",
+        "hoiuruum",
+        "baas",
+        "baas",
+        "ait",
+        "laoruum",
+        "gaasihoidla",
+        "kartulihoidla",
+        "kütusehoidla",
+        "seemnehoidla",
+        "fondihoidla",
+        "jäätmehoidla",
+        "söödahoidla",
+        "naftahoidla",
+        "silohoidla",
+        "virtsahoidla",
+        "viljahoidla",
+        "varahoidla",
+        "sõnnikuhoidla",
+        "raamatuhoidla",
+        "baaspind"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "hoidla",
+      "translations": [
+        "depot",
+        "repository"
+      ]
+    }
+  ]
+}

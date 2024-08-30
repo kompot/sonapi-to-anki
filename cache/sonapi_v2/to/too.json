@@ -1,0 +1,330 @@
+{
+  "requestedWord": "too",
+  "estonianWord": "too",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "00",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "too"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "tolle"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "toda"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "tollesse,tosse"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "tolles,tos"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "tollest,tost"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "tollele"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "tollel,tol"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "tollelt,tolt"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "tolleks"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "tolleni"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "tollena"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "tolleta"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "tollega"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "nood"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "nonde"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "noid"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "nondesse,noisse"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "nondes,nois"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "nondest,noist"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "nondele,noile"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "nondel,noil"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "nondelt,noilt"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "nondeks,noiks"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "nondeni"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "nondena"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "nondeta"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "nondega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(otsesel viitamisel ümbritsevale reaalsusele) osutab kaugemal asuvale inimesele, esemele või olukorrale",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Too seal pildil on minu õde.",
+            "Nood kaks annan ära, aga selle siin jätan endale.",
+            "Kes too tüüp oli?",
+            "Ikka meenuvad mulle nood südamlikud vestlused."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "тот",
+                "weight": 1
+              },
+              {
+                "words": "та",
+                "weight": 1
+              },
+              {
+                "words": "то",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "viitab (ammu) möödunud ajale",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Vanaisa oli tolle aja kohta haritud mees.",
+            "Noil aastail teadsime sellest kõigest veel vähe."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "тот",
+                "weight": 1
+              },
+              {
+                "words": "то",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "viitab inimesele, esemele, nähtusele või olukorrale, mida on eelnevalt juba mainitud või iseloomustatakse kontekstis lähemalt",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Küsis poja käest, kelleks too tahab saada.",
+            "Nooruses oli ta luuletanud, aga nood katsetused pole säilinud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "тот",
+                "weight": 1
+              },
+              {
+                "words": "этот",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "viitab millelegi umbmäärasele",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Rääkisid sellest ja tollest.",
+            ".. ja kodus kästi majapidajannal mind kogu aeg jooksutada: korista seda, puhasta toda .."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "тот-то",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "seesinane",
+        "sinane",
+        "see",
+        "seesamune",
+        "vaeseke",
+        "keegi",
+        "ilmselt",
+        "tõenäoliselt",
+        "võluvits",
+        "sest",
+        "kaasa",
+        "kaasa",
+        "kuigi",
+        "viiks",
+        "miski",
+        "tegelikult",
+        "kindlasti",
+        "selline",
+        "anna",
+        "oleks",
+        "aga",
+        "aga",
+        "siiski"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "too",
+      "translations": [
+        "yonder"
+      ]
+    }
+  ]
+}

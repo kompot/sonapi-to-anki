@@ -1,0 +1,79 @@
+{
+  "requestedWord": "ärkvel",
+  "estonianWord": "ärkvel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ärkvel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mitte uneseisundis, üleval, liikvel või jalul",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Olin pooleldi ärkvel ja pooleldi unes."
+          ],
+          "synonyms": [
+            "virge"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "бодрый,бодрствующий",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vaimuerksana",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Naine hoidis ärkvel usu iseendasse."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "jalul",
+        "virge",
+        "üleval",
+        "ärkvelolek",
+        "ärkvele",
+        "poolärkvel",
+        "krampis",
+        "magaja",
+        "poikvel"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ärkvel",
+      "translations": [
+        "astir"
+      ]
+    }
+  ]
+}

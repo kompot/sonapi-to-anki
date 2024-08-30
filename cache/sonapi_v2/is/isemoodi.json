@@ -1,0 +1,338 @@
+{
+  "requestedWord": "isemoodi",
+  "estonianWord": "isemoodi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "isemoodi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "omal erilisel viisil või kombel,erinevalt, teist moodi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta vaatas mind kuidagi isemoodi."
+          ],
+          "synonyms": [
+            "omamoodi",
+            "omaviisi",
+            "iseviisi",
+            "erinevalt",
+            "omapäraselt",
+            "iseäralikult",
+            "omalaadselt",
+            "uutmoodi,uut moodi",
+            "teistpidi,teistviisi,teist moodi,teist pidi,teist viisi,teistmoodi,teisiti,teisipidi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "à sa façon",
+                "weight": 1
+              },
+              {
+                "words": "à sa manière",
+                "weight": 1
+              },
+              {
+                "words": "différemment",
+                "weight": 1
+              },
+              {
+                "words": "autrement,différemment",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "по-своему",
+                "weight": 1
+              },
+              {
+                "words": "по-особому",
+                "weight": 1
+              },
+              {
+                "words": "иначе",
+                "weight": 1
+              },
+              {
+                "words": "по-иному",
+                "weight": 1
+              },
+              {
+                "words": "по-своему,на свой лад",
+                "weight": 0.9
+              },
+              {
+                "words": "по-различному,по-разному,по-своему",
+                "weight": 0.9
+              },
+              {
+                "words": "в отличие,по-разному,разно",
+                "weight": 0.9
+              },
+              {
+                "words": "своеобразно,по-особенному,оригинально",
+                "weight": 0.9
+              },
+              {
+                "words": "своеобычно,своеобразно,оригинально",
+                "weight": 0.531
+              },
+              {
+                "words": "нового типа,новомодный,нового образца,новой системы",
+                "weight": 0.441
+              },
+              {
+                "words": "в другую сторону,в обратную сторону,по-другому,иначе,по-иному,иным способом",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "по-своєму",
+                "weight": 1
+              },
+              {
+                "words": "інакше",
+                "weight": 1
+              },
+              {
+                "words": "по-іншому",
+                "weight": 1
+              },
+              {
+                "words": "на відміну від,по-різному",
+                "weight": 0.9
+              },
+              {
+                "words": "по-іншому,інакше",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "differently,unlike",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "eriline, omapärane, iseäralik",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Need õlled on hoopis isemoodi maitsega.",
+            "Meil on väga isemoodi perekond."
+          ],
+          "synonyms": [
+            "omamoodi",
+            "isevärklik,isevärki,iseäralik,iseäraline",
+            "veider,kummaline,imelik,imevärki",
+            "omalaadne,omalaadiline",
+            "algupärane,originaalne",
+            "kentsakas,pentsik",
+            "kurioosne",
+            "oma",
+            "ise,eri,erinev,erisugune,diferentne",
+            "eripärane,omasugune,isesugune,iselaadne,erisugune,eriline,erilaadne,omapärane,isepärane,erilaadiline",
+            "teistlaadi,teistlaadne,teiselaadne,teiselaadiline"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "своеобразный",
+                "weight": 1
+              },
+              {
+                "words": "особенный,своеобразный,странный,чудаковатый,причудливый,экстравагантный,эксцентрический,эксцентричный,особый,чудной,чудаческий,необычный",
+                "weight": 0.7
+              },
+              {
+                "words": "дурашливый,курьёзный,мудрёный,анекдотический,эксцентричный,чудаческий,своеобразный,диковинный,чудной,странный,необычный,прихотливый,причудливый,чудаковатый,анекдотичный,эксцентрический",
+                "weight": 0.504
+              },
+              {
+                "words": "оригинальный,своеобразный,своеобычный",
+                "weight": 0.476
+              },
+              {
+                "words": "оригинальный,своеобразный,необычный,нестандартный,неизбитый,самобытный",
+                "weight": 0.9
+              },
+              {
+                "words": "смешной,курьёзный,странный,причудливый,необычный,эксцентрический,эксцентричный,чудной,мудрёный",
+                "weight": 0.9
+              },
+              {
+                "words": "забавный,комический,странный,смешной,курьёзный",
+                "weight": 0.9
+              },
+              {
+                "words": "свой",
+                "weight": 0.7
+              },
+              {
+                "words": "отдельный,свой,разный,различный,различающийся,отличающийся",
+                "weight": 0.7
+              },
+              {
+                "words": "причудливый,странный,своеобразный,оригинальный,самобытный,необычный,специфичный,специфический,особый,различный,разный,индивидуальный,особенный,своеобычный,чудной",
+                "weight": 0.9
+              },
+              {
+                "words": "другого склада,иного склада,иной,другой",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "curieux,bizarre,étrange",
+                "weight": 0.504
+              },
+              {
+                "words": "différent",
+                "weight": 0.7
+              },
+              {
+                "words": "spécifique,particulier",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чудернацький,дивовижний,незвичайний,дивний,чудний,химерний",
+                "weight": 0.504
+              },
+              {
+                "words": "свій",
+                "weight": 0.7
+              },
+              {
+                "words": "різний,відмінний,неоднаковий,несхожий",
+                "weight": 0.7
+              },
+              {
+                "words": "специфічний,особливий,незвичайний,оригінальний,своєрідний,самобутній",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "funny,weird,bizarre,odd,strange",
+                "weight": 0.504
+              },
+              {
+                "words": "different",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ise",
+        "oma",
+        "kentsakas",
+        "ebaharilik",
+        "naljakas",
+        "erisugune",
+        "imelik",
+        "isesorti",
+        "iselaadi",
+        "omasugune",
+        "pentsik",
+        "iseäralik",
+        "teisipidi",
+        "iselaadne",
+        "erilaadne",
+        "teisiti",
+        "veider",
+        "eriilmeline",
+        "isepidi",
+        "muidu",
+        "teist moodi",
+        "kummaline",
+        "iseäraline",
+        "eripärane",
+        "kurioosne",
+        "originaalne",
+        "hirmnaljakas",
+        "erinevalt",
+        "eriskummaline",
+        "ekstsentriline",
+        "teistviisi",
+        "algupärane",
+        "groteskne",
+        "omalaadne",
+        "teistmoodi",
+        "isesugune",
+        "koomiline",
+        "isevärki",
+        "naaviisi",
+        "naapidi",
+        "isevärklik",
+        "alias",
+        "alias",
+        "omapärane",
+        "isepärane",
+        "omamoodi",
+        "naa",
+        "teisisõnu",
+        "eriline",
+        "nii ja naa",
+        "antsakas",
+        "huvitavalt",
+        "erinev",
+        "toredalt",
+        "sõnulseletamatult",
+        "miskitmoodi",
+        "armsalt",
+        "ühtemoodi",
+        "hullumoodi",
+        "lahedalt",
+        "lustlikult",
+        "moodi",
+        "uutmoodi",
+        "naamoodi",
+        "omapäraselt",
+        "kuidasmoodi",
+        "mingitmoodi",
+        "mehemoodi",
+        "nõndamoodi",
+        "sedamoodi",
+        "ühtmoodi",
+        "vahvalt",
+        "vanamoodi",
+        "pärdik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "isemoodi",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "requestedWord": "vahendusel",
+  "estonianWord": "vahendusel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vahendusel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi või kellegi kaudu või kaasabil,midagi kasutades, millegi kaudu",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Suhtleme sotsiaalmeedia vahendusel.",
+            "Nad hankisid piletid reisifirma vahendusel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "par",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "посредством",
+                "weight": 1
+              },
+              {
+                "words": "через",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за допомогою",
+                "weight": 1
+              },
+              {
+                "words": "через",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vahendus",
+        "vahendustegevus",
+        "kaudu",
+        "abil"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vahendusel",
+      "translations": [
+        "by the agency of",
+        "c/o (= care of)",
+        "care of"
+      ]
+    }
+  ]
+}

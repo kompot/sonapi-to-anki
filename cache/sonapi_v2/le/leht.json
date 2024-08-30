@@ -1,0 +1,651 @@
+{
+  "requestedWord": "leht",
+  "estonianWord": "leht",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22i",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "leht"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "lehe"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "lehte"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "lehte"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "lehesse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "lehes"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "lehest"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "lehele"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "lehel"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "lehelt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "leheks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "leheni"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "lehena"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "leheta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "lehega"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "lehed"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "lehtede"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "lehti,lehtesid"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "lehtedesse,lehisse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "lehtedes,lehis"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "lehtedest,lehist"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "lehtedele,lehile"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "lehtedel,lehil"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "lehtedelt,lehilt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "lehtedeks,lehiks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "lehtedeni"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "lehtedena"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "lehtedeta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "lehtedega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "hrl lame roheline taime osa, mis kinnitub varre või oksa külge,õhuke roheline osa taime küljes",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Nahkjate lehtedega rododendronid.",
+            "Tuul keerutab langenud lehti.",
+            "Sügisel langevad puudelt lehed."
+          ],
+          "synonyms": [
+            "taimeleht",
+            "puuleht"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "feuille",
+                "weight": 1
+              }
+            ],
+            "lat": [
+              {
+                "words": "folium",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "лист",
+                "weight": 1
+              },
+              {
+                "words": "листок",
+                "weight": 1
+              },
+              {
+                "words": "листик",
+                "weight": 1
+              },
+              {
+                "words": "лист растения",
+                "weight": 0.7
+              },
+              {
+                "words": "лист дерева",
+                "weight": 0.7967
+              }
+            ],
+            "ukr": [
+              {
+                "words": "лист",
+                "weight": 1
+              },
+              {
+                "words": "листок",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hrl ristkülikukujulisse formaati lõigatud paber, paberileht (puhas või tekstiga),selline raamatu vm koostisosa,üks puhas või tekstiga paber, ka raamatu sees",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Paberipakis on 500 lehte.",
+            "Ei viitsinud peatükki lõpuni lugeda ja keerasin lehte.",
+            "Vihikuleht.",
+            "Plokileht.",
+            "Rebisin märkmikust lehe välja."
+          ],
+          "synonyms": [
+            "paberileht",
+            "paber",
+            "külg,lehekülg,lk"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "feuille",
+                "weight": 1
+              },
+              {
+                "words": "page",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "лист",
+                "weight": 1
+              },
+              {
+                "words": "листок",
+                "weight": 1
+              },
+              {
+                "words": "листик",
+                "weight": 1
+              },
+              {
+                "words": "лист бумаги",
+                "weight": 0.7
+              },
+              {
+                "words": "бумага,лист",
+                "weight": 0.7
+              },
+              {
+                "words": "страница,стр.,с.",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "лист",
+                "weight": 1
+              },
+              {
+                "words": "листок",
+                "weight": 1
+              },
+              {
+                "words": "аркуш",
+                "weight": 1
+              },
+              {
+                "words": "сторінка",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "paper",
+                "weight": 0.7
+              },
+              {
+                "words": "page,pg.",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(mängukaardi kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kes teeb lehed?",
+            "Küll eile õhtul leht jooksis!"
+          ],
+          "synonyms": [
+            "kaart,mängukaart"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "игральная карта",
+                "weight": 1
+              },
+              {
+                "words": "карта,игральная карта",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "carte",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "карта",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "õhuke ristkülikukujuline tükk mingit materjali või ainet (nt metalli, klaasi, želatiini)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kullaleht.",
+            "Vineerleht.",
+            "Lainepapp on müügil rullis või lehtedena."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "лист",
+                "weight": 1
+              },
+              {
+                "words": "листок",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingi tööriista plaatjas, õhem ning laiem osa (hrl lõikeosa)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kirve laba ehk leht."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "полотно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "lühikese ajavahemiku järel (nt iga päev või kord nädalas) ilmuv, päevasündmusi käsitlev ning meelelahutust pakkuv väljaanne (paberil, veebis),väljaanne, mis ilmub enamasti iga päev ja kus on näiteks uudised, reklaamid ja pildid",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Pühapäeval lehed ei ilmu.",
+            "Panin kuulutuse lehte, et teen afropatse.",
+            "Ta loeb lehte.",
+            "Skandaalist kirjutasid kõik lehed."
+          ],
+          "synonyms": [
+            "ajaleht",
+            "seitung",
+            "häälekandja",
+            "tabloid",
+            "ajakirjandusväljaanne,meediaväljaanne",
+            "perioodikaväljaanne",
+            "väljaanne"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "newspaper",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "journal",
+                "weight": 1
+              },
+              {
+                "words": "publication",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "газета",
+                "weight": 1
+              },
+              {
+                "words": "орган печати",
+                "weight": 0.9
+              },
+              {
+                "words": "таблоидный формат",
+                "weight": 0.9
+              },
+              {
+                "words": "медийное издание,периодическое издание,издание СМИ",
+                "weight": 0.7
+              },
+              {
+                "words": "периодическое издание",
+                "weight": 0.7
+              },
+              {
+                "words": "публикация,выпуск,издание",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "газета",
+                "weight": 1
+              },
+              {
+                "words": "видання,публікація",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "veebi osa, mis on arvutiekraanil korraga näha,lehekülje mahus osa tekstifailist (tekstitöötluses),kindla aadressiga koht internetis",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Enne printimist ava lehe eelvaade."
+          ],
+          "synonyms": [
+            "lehekülg",
+            "internetilehekülg,veebikülg,veebilehekülg,veebileht",
+            "kodukas,kodulehekülg,koduleht",
+            "lehekülg"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "page",
+                "weight": 1
+              },
+              {
+                "words": "home page",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "site",
+                "weight": 1
+              },
+              {
+                "words": "site internet",
+                "weight": 1
+              },
+              {
+                "words": "site web",
+                "weight": 1
+              },
+              {
+                "words": "page web",
+                "weight": 1
+              },
+              {
+                "words": "page web",
+                "weight": 0.589
+              },
+              {
+                "words": "site internet,site web,site,page d'accueil",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "сайт",
+                "weight": 1
+              },
+              {
+                "words": "веб-страница",
+                "weight": 1
+              },
+              {
+                "words": "веб-страница",
+                "weight": 0.589
+              },
+              {
+                "words": "сайт,домашняя страница",
+                "weight": 0.7
+              },
+              {
+                "words": "страница",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "сайт",
+                "weight": 1
+              },
+              {
+                "words": "веб-сторінка",
+                "weight": 1
+              },
+              {
+                "words": "веб-сторінка",
+                "weight": 0.589
+              },
+              {
+                "words": "домашня сторінка,сайт",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tahvel",
+        "taimeleht",
+        "paber",
+        "paberileht",
+        "kaart",
+        "mängukaart",
+        "lehestik",
+        "hääletoru",
+        "seitung",
+        "lehestu",
+        "tabloid",
+        "lehis",
+        "häälekandja",
+        "puuleht",
+        "kõmuleht",
+        "tribüün",
+        "ajaleht",
+        "aruanne",
+        "andmik",
+        "reklaamleht",
+        "lehtjas",
+        "pildileht",
+        "pärisleht",
+        "palgeleht",
+        "sügisleht",
+        "kaapleht",
+        "liitleht",
+        "turdleht",
+        "uibuleht",
+        "märkleht",
+        "lihtleht",
+        "abileht",
+        "fotoleht"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "leht",
+      "translations": [
+        "blade",
+        "folio",
+        "leaf (puul)",
+        "petal (õiel)",
+        "sheet"
+      ]
+    }
+  ]
+}

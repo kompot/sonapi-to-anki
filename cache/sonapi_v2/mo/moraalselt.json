@@ -1,0 +1,60 @@
+{
+  "requestedWord": "moraalselt",
+  "estonianWord": "moraalselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "moraalselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "морально",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kõlbeliselt",
+        "ratsionaalselt",
+        "moraalsus",
+        "eetiliselt",
+        "ebamoraalselt",
+        "liberaalselt",
+        "psühholoogiliselt",
+        "emotsionaalselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "moraalselt",
+      "translations": [
+        "morally"
+      ]
+    }
+  ]
+}

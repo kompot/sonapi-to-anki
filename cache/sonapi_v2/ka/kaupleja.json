@@ -1,0 +1,272 @@
+{
+  "requestedWord": "kaupleja",
+  "estonianWord": "kaupleja",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "01",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kaupleja"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kaupleja"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kauplejat"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kauplejasse"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kauplejas"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kauplejast"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kauplejale"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kauplejal"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kauplejalt"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kauplejaks"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kauplejani"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kauplejana"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kauplejata"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kauplejaga"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kauplejad"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kauplejate"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kauplejaid"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kauplejatesse,kauplejaisse"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kauplejates,kauplejais"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kauplejatest,kauplejaist"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kauplejatele,kauplejaile"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kauplejatel,kauplejail"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kauplejatelt,kauplejailt"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kauplejateks,kauplejaiks"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kauplejateni"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kauplejatena"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kauplejateta"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kauplejatega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "kaupmees",
+            "müüja",
+            "müüja,poemüüja"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "торговец",
+                "weight": 1
+              },
+              {
+                "words": "торговка",
+                "weight": 1
+              },
+              {
+                "words": "коммерсант,торговец,купец",
+                "weight": 0.9
+              },
+              {
+                "words": "продавец",
+                "weight": 0.7
+              },
+              {
+                "words": "продавец,продавщица",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "продавець",
+                "weight": 0.7
+              },
+              {
+                "words": "продавець,продавчиня",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "vendeur,vendeuse",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "seller",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kaubahärra",
+        "kaubitseja",
+        "kaupmees",
+        "kaubasaks",
+        "tarbija",
+        "kauplema",
+        "kokkuostja",
+        "raamatukaupleja",
+        "otsemüüja",
+        "müüja"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kaupleja",
+      "translations": [
+        "trader"
+      ]
+    }
+  ]
+}

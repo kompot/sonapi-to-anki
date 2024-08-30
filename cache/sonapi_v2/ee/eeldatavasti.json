@@ -1,0 +1,137 @@
+{
+  "requestedWord": "eeldatavasti",
+  "estonianWord": "eeldatavasti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eeldatavasti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(kõigi) eelduste kohaselt, suure tõenäosusega",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Rongiliiklus taastatakse eeldatavasti hilisõhtuks.",
+            "Teda toetab eeldatavasti ligi 15 protsenti valijatest.",
+            "Eeldatavasti ei ole ma esimene, kes selle vastu huvi tunneb."
+          ],
+          "synonyms": [
+            "arvatavasti,ilmselt,ilmsesti,tõenäoliselt,vist,oletatavalt,tõenäoselt,oletatavasti"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "по всей видимости",
+                "weight": 1
+              },
+              {
+                "words": "предположительно",
+                "weight": 1
+              },
+              {
+                "words": "наверное",
+                "weight": 1
+              },
+              {
+                "words": "наверно",
+                "weight": 1
+              },
+              {
+                "words": "как можно предположить",
+                "weight": 1
+              },
+              {
+                "words": "по всей вероятности",
+                "weight": 1
+              },
+              {
+                "words": "видимо",
+                "weight": 1
+              },
+              {
+                "words": "по-видимому",
+                "weight": 1
+              },
+              {
+                "words": "видимо,вероятно,по-видимому,наверное,очевидно,заметно,явно,кажется,возможно,похоже,как можно предположить,судя по всему,скорее всего,надо думать,надо полагать,по всей видимости,наверно,предположительно,по всей вероятности,верно",
+                "weight": 0.7547
+              }
+            ],
+            "fra": [
+              {
+                "words": "probablement,sans doute",
+                "weight": 0.7547
+              }
+            ],
+            "ukr": [
+              {
+                "words": "мабуть,певно,напевно,очевидно,ймовірно",
+                "weight": 0.7547
+              }
+            ],
+            "eng": [
+              {
+                "words": "presumably,presumedly",
+                "weight": 0.7547
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vististi",
+        "tõenäoliselt",
+        "nähtavasti",
+        "ilmsesti",
+        "ilmselt",
+        "küllap",
+        "oletatavalt",
+        "arvatavasti",
+        "vist",
+        "vist",
+        "oletatavasti",
+        "usutavasti",
+        "kardetavasti",
+        "nagu näha",
+        "arvata",
+        "oodatavasti",
+        "umbkaudu",
+        "loodetavasti",
+        "aga",
+        "aga",
+        "paratamatult",
+        "tõenäolisemalt",
+        "üsna",
+        "üldiselt",
+        "juba",
+        "seega",
+        "oodatav",
+        "tegelikult",
+        "siiski"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "eeldatavasti",
+      "translations": [
+        "supposedly"
+      ]
+    }
+  ]
+}

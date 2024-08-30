@@ -1,0 +1,961 @@
+{
+  "requestedWord": "määrima",
+  "estonianWord": "määrima",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "määrin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "määrid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "määrib"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "määrime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "määrite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "määrivad"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "määri"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "määritakse"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "määrita"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "määrisin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "määrisid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "määris"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "määrisime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "määrisite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "määrisid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "määriti"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "määriksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "määriksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "määriks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "määriksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "määriksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "määriksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "määritaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "määrinuksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "määrinuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "määrinuks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "määrinuksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "määrinuksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "määrinuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "määrituks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "määrivat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "määritavat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "määrinuvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "määrituvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "määri"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "määrigem"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "määrige"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "määrigu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "määritagu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "määrima"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "määrimata"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "määrimas"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "määrimast"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "määrimaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "määritama"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "määrida"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "määrides"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "määriv"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "määritav"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "määrinud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "määrinud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "määritud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "määritud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(pehmet) ainet pinnale kandma ja laiali ajama või sisse hõõruma,hõõrdepindu määrdega katma,pehmet ainet millegi peale panema ja laiali ajama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Maapähklivõid võib määrida röstsaiale.",
+            "Määri ahjuvorm õli või margariiniga.",
+            "Tüdrukutel olid suusad valesti määritud.",
+            "Määrisin leivale võid.",
+            "Seda kreemi tuleb iga päev nahale määrida."
+          ],
+          "synonyms": [
+            "kokku määrima",
+            "kokku tegema",
+            "võidma",
+            "kandma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "мазать",
+                "weight": 1
+              },
+              {
+                "words": "намазывать",
+                "weight": 1
+              },
+              {
+                "words": "намазать",
+                "weight": 1
+              },
+              {
+                "words": "смазать",
+                "weight": 1
+              },
+              {
+                "words": "смазывать",
+                "weight": 1
+              },
+              {
+                "words": "помазать",
+                "weight": 1
+              },
+              {
+                "words": "помазывать",
+                "weight": 1
+              },
+              {
+                "words": "намазывать,намазать,наносить,нанести",
+                "weight": 0.9
+              },
+              {
+                "words": "смазать,мазать,намазать,намазывать,помазать,смазывать",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "мазати",
+                "weight": 1
+              },
+              {
+                "words": "помазати",
+                "weight": 1
+              },
+              {
+                "words": "мастити",
+                "weight": 1
+              },
+              {
+                "words": "помастити",
+                "weight": 1
+              },
+              {
+                "words": "намазувати",
+                "weight": 1
+              },
+              {
+                "words": "намазати",
+                "weight": 1
+              },
+              {
+                "words": "намащувати",
+                "weight": 1
+              },
+              {
+                "words": "намастити",
+                "weight": 1
+              },
+              {
+                "words": "змазувати",
+                "weight": 1
+              },
+              {
+                "words": "змазати",
+                "weight": 1
+              },
+              {
+                "words": "змащувати",
+                "weight": 1
+              },
+              {
+                "words": "змастити",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(altkäemaksu andmise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Õiget inimest tuleb määrida ja pole probleemi."
+          ],
+          "synonyms": [
+            "kinni maksma",
+            "ära ostma",
+            "korrumpeerima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "подмазывать",
+                "weight": 1
+              },
+              {
+                "words": "подмазать",
+                "weight": 1
+              },
+              {
+                "words": "замасливать",
+                "weight": 1
+              },
+              {
+                "words": "замаслить",
+                "weight": 1
+              },
+              {
+                "words": "подмасливать",
+                "weight": 1
+              },
+              {
+                "words": "подмаслить",
+                "weight": 1
+              },
+              {
+                "words": "умасливать",
+                "weight": 1
+              },
+              {
+                "words": "умаслить",
+                "weight": 1
+              },
+              {
+                "words": "подкупать,подкупить",
+                "weight": 0.9
+              },
+              {
+                "words": "купить,подкупить,покупать,подкупать",
+                "weight": 0.9
+              },
+              {
+                "words": "коррумпировать",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "määrdunuks, mustaks tegema,midagi mustaks tegema, nii et see pole enam puhas",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Šokolaad määris mu sõrmed.",
+            "Veinikeldris on suur oht riideid määrida.",
+            "Laps on oma pluusi ära määrinud."
+          ],
+          "synonyms": [
+            "ära määrima",
+            "kokku mäkerdama",
+            "möslama,mökerdama,mäkerdama",
+            "mustama",
+            "sittama",
+            "reenama",
+            "püretama,reostama",
+            "sodima",
+            "plätserdama",
+            "räpastama",
+            "kokku mätsima",
+            "pläkerdama",
+            "rikkuma"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "salir",
+                "weight": 1
+              },
+              {
+                "words": "abîmer,endommager",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "пачкать",
+                "weight": 1
+              },
+              {
+                "words": "запачкать",
+                "weight": 1
+              },
+              {
+                "words": "испачкать",
+                "weight": 1
+              },
+              {
+                "words": "грязнить",
+                "weight": 1
+              },
+              {
+                "words": "загрязнять",
+                "weight": 1
+              },
+              {
+                "words": "засаливать",
+                "weight": 1
+              },
+              {
+                "words": "засалить",
+                "weight": 1
+              },
+              {
+                "words": "замасливать",
+                "weight": 1
+              },
+              {
+                "words": "замаслить",
+                "weight": 1
+              },
+              {
+                "words": "выпачкать",
+                "weight": 1
+              },
+              {
+                "words": "мазать",
+                "weight": 1
+              },
+              {
+                "words": "измазывать",
+                "weight": 1
+              },
+              {
+                "words": "измазать",
+                "weight": 1
+              },
+              {
+                "words": "замазать",
+                "weight": 1
+              },
+              {
+                "words": "марать",
+                "weight": 1
+              },
+              {
+                "words": "замарать",
+                "weight": 1
+              },
+              {
+                "words": "вымарать",
+                "weight": 1
+              },
+              {
+                "words": "измарать",
+                "weight": 1
+              },
+              {
+                "words": "измызгивать",
+                "weight": 1
+              },
+              {
+                "words": "измызгать",
+                "weight": 1
+              },
+              {
+                "words": "измазюкать",
+                "weight": 1
+              },
+              {
+                "words": "изгаживать",
+                "weight": 1
+              },
+              {
+                "words": "изгадить",
+                "weight": 1
+              },
+              {
+                "words": "умасливать",
+                "weight": 1
+              },
+              {
+                "words": "умаслить",
+                "weight": 1
+              },
+              {
+                "words": "загрязнить",
+                "weight": 1
+              },
+              {
+                "words": "замазать,измазать,замазывать,измазывать",
+                "weight": 0.9
+              },
+              {
+                "words": "запачкать,мазать,намазать,намазывать,вымазывать,вымазать,измызгивать,измызгать,измазюкать,мазюкать,намазюкать,заляпать,измазать,пачкать,измазывать,заляпывать,испачкать",
+                "weight": 0.9
+              },
+              {
+                "words": "изгаживать,грязнить,загрязнять,пачкать,запачкать,испачкать,гадить,нагадить,изгадить,чернить,зачернить,засиживать,засидеть,обсиживать,обсидеть,обгаживать,обгадить",
+                "weight": 0.9
+              },
+              {
+                "words": "запоганивать,испакостить,загадить,загаживать,загрязнять,загрязнить,изгадить,изгаживать,гадить,пакостить,испоганить",
+                "weight": 0.9
+              },
+              {
+                "words": "измызгать,измызгивать,заляпать,заляпывать,вымазать,вымазывать,мазать,измазать,измазывать,запачкать,испачкать,пачкать,замарать,марать,измазюкать",
+                "weight": 0.9
+              },
+              {
+                "words": "повредить,повреждать,портить,испортить,изгаживать,изгадить,загубить,губить,погубить",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "бруднити",
+                "weight": 1
+              },
+              {
+                "words": "забруднювати",
+                "weight": 1
+              },
+              {
+                "words": "забруднити",
+                "weight": 1
+              },
+              {
+                "words": "мазати",
+                "weight": 1
+              },
+              {
+                "words": "мастити",
+                "weight": 1
+              },
+              {
+                "words": "замазувати",
+                "weight": 1
+              },
+              {
+                "words": "замазати",
+                "weight": 1
+              },
+              {
+                "words": "замащувати",
+                "weight": 1
+              },
+              {
+                "words": "замастити",
+                "weight": 1
+              },
+              {
+                "words": "псувати,зіпсувати",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mainet ebaeetilise teoga kahjustama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Advokatuurist pidavat lendama kõik, kes määrivad advokaadi nime.",
+            "Skandaal määrib Hiina sporti."
+          ],
+          "synonyms": [
+            "ära määrima",
+            "teotama",
+            "roojastama,rüvetama",
+            "rüvetama",
+            "täis pasandama",
+            "reenama",
+            "laimama,mustama",
+            "mudaga loopima,poriga loopima,poriga pilduma",
+            "insinueerima",
+            "tõrvama",
+            "rikkuma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "пятнать",
+                "weight": 1
+              },
+              {
+                "words": "запятнать",
+                "weight": 1
+              },
+              {
+                "words": "порочить",
+                "weight": 1
+              },
+              {
+                "words": "опорочить",
+                "weight": 1
+              },
+              {
+                "words": "пачкать",
+                "weight": 1
+              },
+              {
+                "words": "запачкать",
+                "weight": 1
+              },
+              {
+                "words": "грязнить",
+                "weight": 1
+              },
+              {
+                "words": "загрязнить",
+                "weight": 1
+              },
+              {
+                "words": "марать",
+                "weight": 1
+              },
+              {
+                "words": "замарать",
+                "weight": 1
+              },
+              {
+                "words": "осквернять,кощунствовать,очернять,бесчестить,обесчестить,обесчещивать,опорочить,порочить,оскорбить,оскорблять,опозорить,позорить,совершить святотатство,совершать святотатство,святотатствовать,опорочивать,осквернить,очернить,чернить,надругаться,глумиться",
+                "weight": 0.9
+              },
+              {
+                "words": "осквернить,поганить,осквернять,порочить,опорочить",
+                "weight": 0.9
+              },
+              {
+                "words": "осквернять,надругаться,загаживать,загадить,осквернить",
+                "weight": 0.9
+              },
+              {
+                "words": "оговорить,порочить,опорочить,наговаривать,наговорить,клеветать,наклеветать,оклеветать,возводить клевету,чернить,очернить,кляузничать,шельмовать,ошельмовать,возводить поклёп,возводить напраслину,очернять,обесславливать,обесславить,оболгать,оговаривать,охаивать,охаять,оплёвывать,оплевать,возвести клевету,возвести поклёп,возвести напраслину,поносить",
+                "weight": 0.9
+              },
+              {
+                "words": "полить грязью,обливать грязью,облить грязью,поливать грязью",
+                "weight": 0.9
+              },
+              {
+                "words": "инсинуировать",
+                "weight": 0.9
+              },
+              {
+                "words": "порочить,опорочить,чернить,очернить,шельмовать,выставлять в неблаговидном свете,представлять в неблаговидном свете,выставить в неблаговидном свете,представить в неблаговидном свете",
+                "weight": 0.9
+              },
+              {
+                "words": "повреждать,портить,повредить,погубить,губить,испортить,изгаживать,изгадить,загубить",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "endommager,abîmer",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "псувати,зіпсувати",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(väga vähese vereerituse kohta tupest)",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Arst ütles, et pärast proovi võtmist võib määrima hakata."
+          ],
+          "synonyms": [
+            "veritsema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "мазать",
+                "weight": 1
+              },
+              {
+                "words": "кровоточить",
+                "weight": 0.56
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "rikkuma",
+        "kokku mäkerdama",
+        "teotama",
+        "poriga pilduma",
+        "mustama",
+        "võitama",
+        "kreemitama",
+        "salvima",
+        "korrumpeerima",
+        "täis pasandama",
+        "sittama",
+        "reenama",
+        "kokku määrima",
+        "insinueerima",
+        "pintseldama",
+        "reostama",
+        "võidma",
+        "sodima",
+        "tõrvama",
+        "plätserdama",
+        "ära ostma",
+        "räpastama",
+        "kokku mätsima",
+        "salvitama",
+        "rüvetama",
+        "pläkerdama",
+        "möslama",
+        "veritsema",
+        "viskama",
+        "poriga loopima",
+        "pistma",
+        "kinni maksma",
+        "mudaga loopima",
+        "partsama",
+        "kokku tegema",
+        "õlitama",
+        "ropastama",
+        "püretama",
+        "laimama",
+        "mätserdama",
+        "plötserdama",
+        "võõpama",
+        "soperdama",
+        "kokku kirjutama",
+        "kinni mätsima",
+        "mäkerdama",
+        "kritseldama",
+        "kipitama",
+        "väärima",
+        "nuuskima",
+        "torkima",
+        "leotama",
+        "punnitama",
+        "käärima",
+        "käärima",
+        "doseerima",
+        "masseerima",
+        "lakkuma",
+        "nühkima",
+        "lakkima",
+        "rullima",
+        "tilgutama",
+        "määrduma",
+        "kõrvetama",
+        "raseerima",
+        "punetama",
+        "lürpima",
+        "vahustama",
+        "määris",
+        "määrimine",
+        "lonkima"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "määrima",
+      "translations": [
+        "befoul",
+        "begrim",
+        "defile",
+        "dinge",
+        "dirty",
+        "grease",
+        "(kedagi) grease your palm",
+        "grime",
+        "imbrue",
+        "lubricate",
+        "mackle (nt topeltkujutis trükises)",
+        "slather (võid paksult leivale)",
+        "smear",
+        "stain",
+        "sully"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "requestedWord": "sinna",
+  "estonianWord": "sinna",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sinna"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab kaugemal, kõnelejast eemal olevale kohale, kuhu keegi või miski suundub või ulatub,sinust kaugemal, eemal olevasse kohta (millele sa viitad)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kavatsen millalgi sinna minna.",
+            "Sinna on veel terve aasta!",
+            "Mine tagasi sinna, kust tulid!",
+            "Ära sinna tänavale üksi mine!",
+            "Sinna on veel kakskümmend kilomeetrit."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "là",
+                "weight": 1
+              },
+              {
+                "words": "y",
+                "weight": 1
+              },
+              {
+                "words": "là-bas",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "туда",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "туди",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab varem mainitud, teada olevale (või mainitavale) kohale, kuhu keegi või miski suundub või suunatakse,osutab eelnevas jutus märgitud kohale, kuhu keegi või miski suunatakse või läheb",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nad saatsid ta hotelli ja jätsid ta sinna.",
+            "See on hea kool, sinna ma tahan oma lapse õppima panna."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "là",
+                "weight": 1
+              },
+              {
+                "words": "y",
+                "weight": 1
+              },
+              {
+                "words": "là-bas",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "туда",
+                "weight": 1
+              },
+              {
+                "words": "там",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "туди",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab asjaolule, mida järgnevas või eelnevas täpsustatakse või täiendatakse",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Peab ikka minema sinna, kus su publik on.",
+            "Viisin oma dokumendid sinna, kuhu vaja.",
+            "Helista sinna, kust sa selle ostsid."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "туда",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(täpsustab, rõhutab osutatavat:) (just, nimelt) see",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sinna erakonda ma ei astu.",
+            "Sinna lehtlasse nüüd istusimegi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "туда",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(osutab millelegi, millele miski lisandub:) sellele lisaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mees joonistas ja jutustas sinna juurde."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(osutab ajale, aja kulumisele või mõõtmisele:) selle jaoks, selleni",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Aknad tahavad pesta – sinna läheb mitu tundi.",
+            "Millal on jõulud? – Sinna on veel kaks kuud."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "osutab eelnevast ilmnevale või kohe mainitavale olukorrale või (paratamatule) asjade seisule",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mis see sinna puutub?",
+            "Sinna pole midagi parata."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "siiasamasse",
+        "sinna-tänna",
+        "sinnasamasse",
+        "sinnajuurde",
+        "siia",
+        "sinnapoolegi",
+        "kuhugile",
+        "sinnasamma",
+        "kuhugi",
+        "kuhu",
+        "juurde",
+        "sisse",
+        "kuskile"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sinna",
+      "translations": [
+        "there",
+        "thereinto",
+        "thither"
+      ]
+    }
+  ]
+}

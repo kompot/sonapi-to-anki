@@ -1,0 +1,134 @@
+{
+  "requestedWord": "omaenese",
+  "estonianWord": "omaenese",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "omaenese"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "viitab (tugevasti) kuulumisele tegevuse tegijale, tegijale kui millegi lähtele või omanikule,näitab ja rõhutab seda, et keegi või miski kuulub tegijale endale",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Hakkasin kuulma omaenese hingetõmbeid.",
+            "Me maadleme omaenese maaniate ja luuludega."
+          ],
+          "synonyms": [
+            "iseenda",
+            "iseenese",
+            "iseoma",
+            "omaenda",
+            "enda,enese,oma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "свой",
+                "weight": 1
+              },
+              {
+                "words": "собственный",
+                "weight": 1
+              },
+              {
+                "words": "свой собственный",
+                "weight": 1
+              },
+              {
+                "words": "себя,свой",
+                "weight": 0.7753
+              }
+            ],
+            "ukr": [
+              {
+                "words": "свій",
+                "weight": 1
+              },
+              {
+                "words": "власний",
+                "weight": 1
+              },
+              {
+                "words": "свій,своя,своє,себе",
+                "weight": 0.7753
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rõhutab seda, et tegevus on (sihikindlalt) suunatud tegijale endale, mingis rollis olijale,näitab ja rõhutab seda, et tegevus on suunatud tegijale endale",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Võin seda vanduda omaenese nimel."
+          ],
+          "synonyms": [
+            "iseenda",
+            "iseenese",
+            "omaenda",
+            "oma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "самого себя",
+                "weight": 1
+              },
+              {
+                "words": "себя",
+                "weight": 0.7753
+              }
+            ],
+            "ukr": [
+              {
+                "words": "самого себе",
+                "weight": 1
+              },
+              {
+                "words": "себе",
+                "weight": 0.7753
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "enda",
+        "iseoma",
+        "oma",
+        "omaenda",
+        "enese",
+        "iseenda",
+        "iseenese",
+        "oma",
+        "oma"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "omaenese",
+      "translations": []
+    }
+  ]
+}

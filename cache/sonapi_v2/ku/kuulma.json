@@ -1,0 +1,702 @@
+{
+  "requestedWord": "kuulma",
+  "estonianWord": "kuulma",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "33",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "kuulen"
+        },
+        {
+          "inflectionType": "33",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "kuuled"
+        },
+        {
+          "inflectionType": "33",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "kuuleb"
+        },
+        {
+          "inflectionType": "33",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "kuuleme"
+        },
+        {
+          "inflectionType": "33",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "kuulete"
+        },
+        {
+          "inflectionType": "33",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "kuulevad"
+        },
+        {
+          "inflectionType": "33",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "kuule"
+        },
+        {
+          "inflectionType": "33",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "kuuldakse"
+        },
+        {
+          "inflectionType": "33",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "kuulda"
+        },
+        {
+          "inflectionType": "33",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "kuulsin"
+        },
+        {
+          "inflectionType": "33",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "kuulsid"
+        },
+        {
+          "inflectionType": "33",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "kuulis"
+        },
+        {
+          "inflectionType": "33",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "kuulsime"
+        },
+        {
+          "inflectionType": "33",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "kuulsite"
+        },
+        {
+          "inflectionType": "33",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "kuulsid"
+        },
+        {
+          "inflectionType": "33",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "kuuldi"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "kuuleksin"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "kuuleksid"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "kuuleks"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "kuuleksime"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "kuuleksite"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "kuuleksid"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "kuuldaks"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "kuulnuksin"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "kuulnuksid"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "kuulnuks"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "kuulnuksime"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "kuulnuksite"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "kuulnuksid"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "kuulduks"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "kuulvat"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "kuuldavat"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "kuulnuvat"
+        },
+        {
+          "inflectionType": "33",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "kuulduvat"
+        },
+        {
+          "inflectionType": "33",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "kuule"
+        },
+        {
+          "inflectionType": "33",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "kuulgem"
+        },
+        {
+          "inflectionType": "33",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "kuulge"
+        },
+        {
+          "inflectionType": "33",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "kuulgu"
+        },
+        {
+          "inflectionType": "33",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "kuuldagu"
+        },
+        {
+          "inflectionType": "33",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "kuulma"
+        },
+        {
+          "inflectionType": "33",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "kuulmata"
+        },
+        {
+          "inflectionType": "33",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "kuulmas"
+        },
+        {
+          "inflectionType": "33",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "kuulmast"
+        },
+        {
+          "inflectionType": "33",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "kuulmaks"
+        },
+        {
+          "inflectionType": "33",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "kuuldama"
+        },
+        {
+          "inflectionType": "33",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "kuulda"
+        },
+        {
+          "inflectionType": "33",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "kuuldes"
+        },
+        {
+          "inflectionType": "33",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "kuulev"
+        },
+        {
+          "inflectionType": "33",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "kuuldav"
+        },
+        {
+          "inflectionType": "33",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "kuulnud"
+        },
+        {
+          "inflectionType": "33",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "kuulnud"
+        },
+        {
+          "inflectionType": "33",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "kuuldud"
+        },
+        {
+          "inflectionType": "33",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "kuuldud"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "ei kuule"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "hääli, helisid kõrvaga tajuma ja eristama,kõrvade abil ümbrust tajuma, millestki teadlikuks saama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Räägi valjemini, vanaisa ei kuule hästi.",
+            "Ootamatult kuulsin koputust uksele.",
+            "Polnud midagi kahtlast näha ega kuulda.",
+            "Ma ei kuulnud, palun korda oma küsimust.",
+            "Kuulsime kellegi naeru."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "hear",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "entendre",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "слышать",
+                "weight": 1
+              },
+              {
+                "words": "услышать",
+                "weight": 1
+              },
+              {
+                "words": "расслышать",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чути",
+                "weight": 1
+              },
+              {
+                "words": "почути",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi jutust või kirjalikust allikast teada saama,teada saama, näiteks teiste jutust",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kas olete juba uudist kuulnud?",
+            "Kuulsin, et oled uue töökoha leidnud.",
+            "Me pole temast juba ammu midagi kuulnud.",
+            "Sõbranna kirjast kuulsin, et ta kavatseb abielluda.",
+            "Kas sa uudist kuulsid?",
+            "Ma pole temast ammu midagi kuulnud.",
+            "Kuulsin, et sa sõidad Inglismaale."
+          ],
+          "synonyms": [
+            "teada saama",
+            "haisu ninna saama",
+            "kõrvu puutuma"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "hear",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "слышать",
+                "weight": 1
+              },
+              {
+                "words": "услышать",
+                "weight": 1
+              },
+              {
+                "words": "узнавать,узнать",
+                "weight": 0.9
+              },
+              {
+                "words": "разнюхивать,разнюхать,вынюхивать,вынюхать,пронюхивать,пронюхать,унюхать",
+                "weight": 0.9
+              },
+              {
+                "words": "дойти до ушей,доходить до ушей,дойти до слуха,доходить до слуха",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чути",
+                "weight": 1
+              },
+              {
+                "words": "почути",
+                "weight": 1
+              },
+              {
+                "words": "довідатися,довідуватися,дізнатися,дізнаватися",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "apprendre",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi õpetust, nõuannet, käsku arvestama ning sellele vastavalt toimima,kuuletuma,kellegi nõuannet või käsku arvestama ja selle järgi tegutsema",
+          "partOfSpeech": [],
+          "examples": [
+            "Kuule mu nõu ja mine magama.",
+            "Poissi peab ähvardama, kui muidu ei kuule.",
+            "Võtaks ta ometi kedagi kuulda!",
+            "Ma pole temast ammu midagi kuulnud.",
+            "Kuulsin, et sa sõidad Inglismaale."
+          ],
+          "synonyms": [
+            "kuulama",
+            "sõna kuulama",
+            "arvestama,arvesse võtma,rehkendama",
+            "silmas pidama",
+            "hoolima",
+            "järgima",
+            "kuulda võtma",
+            "kuuletuma",
+            "alluma",
+            "alistuma"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "listen",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "écouter",
+                "weight": 1
+              },
+              {
+                "words": "obéir",
+                "weight": 0.9
+              },
+              {
+                "words": "prendre en compte,tenir compte",
+                "weight": 0.9
+              },
+              {
+                "words": "faire attention,se soucier",
+                "weight": 0.9
+              },
+              {
+                "words": "suivre,respecter",
+                "weight": 0.7
+              },
+              {
+                "words": "obéir,se plier,se soumettre",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "слушать",
+                "weight": 1
+              },
+              {
+                "words": "послушать",
+                "weight": 1
+              },
+              {
+                "words": "слушаться",
+                "weight": 1
+              },
+              {
+                "words": "послушаться",
+                "weight": 1
+              },
+              {
+                "words": "вслушиваться",
+                "weight": 1
+              },
+              {
+                "words": "вслушаться",
+                "weight": 1
+              },
+              {
+                "words": "прислушиваться",
+                "weight": 1
+              },
+              {
+                "words": "прислушаться",
+                "weight": 1
+              },
+              {
+                "words": "послушаться,слушаться",
+                "weight": 0.9
+              },
+              {
+                "words": "учитывать,принимать в расчёт,учитываться,учесть,просчитать,просчитывать,расчесть,принимать во внимание,обдумать,обдумывать,рассчитать,рассчитывать,посчитаться,считаться",
+                "weight": 0.9
+              },
+              {
+                "words": "иметь в виду",
+                "weight": 0.9
+              },
+              {
+                "words": "считаться,посчитаться,обращать внимание",
+                "weight": 0.9
+              },
+              {
+                "words": "соблюсти,соблюдать,придерживаться,следовать,последовать,действовать сообразно",
+                "weight": 0.7
+              },
+              {
+                "words": "послушать,слушать,прислушаться,прислушиваться",
+                "weight": 0.7
+              },
+              {
+                "words": "слушаться,повиноваться,послушаться",
+                "weight": 0.9
+              },
+              {
+                "words": "подчиняться,покориться,покоряться,повиноваться,подчиниться",
+                "weight": 0.9
+              },
+              {
+                "words": "подчиняться,повиноваться,подчиниться",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "слухати",
+                "weight": 1
+              },
+              {
+                "words": "послухати",
+                "weight": 1
+              },
+              {
+                "words": "слухатися",
+                "weight": 1
+              },
+              {
+                "words": "послухатися",
+                "weight": 1
+              },
+              {
+                "words": "послухатися,слухатися",
+                "weight": 0.9
+              },
+              {
+                "words": "зважати,врахувати,враховувати,зважити",
+                "weight": 0.9
+              },
+              {
+                "words": "мати на увазі",
+                "weight": 0.9
+              },
+              {
+                "words": "зважати,зважити,звертати увагу,дбати",
+                "weight": 0.9
+              },
+              {
+                "words": "дотримуватися,дотриматися,наслідувати",
+                "weight": 0.7
+              },
+              {
+                "words": "підкоритися,коритися,скоритися,скорятися,підкорятися",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hüüatustes väljendab imestust, üllatust, tõrjuvat suhtumist vms",
+          "partOfSpeech": [],
+          "examples": [
+            "Kas sa kuuled, või tema läheb ära välismaale!",
+            "Kuule nüüd juttu, ei ma usu!"
+          ],
+          "synonyms": [
+            "vaatama",
+            "nägema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "смотри-ка,смотрите,глядите,ишь",
+                "weight": 0.7
+              },
+              {
+                "words": "смотреть,видеть",
+                "weight": 0.5
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vaatama",
+        "vahi",
+        "kuulda võtma",
+        "kuulda olema",
+        "kõrvu puutuma",
+        "teada saama",
+        "seletama",
+        "nägema",
+        "kuulama",
+        "kuuldel",
+        "kuulatama",
+        "haisu ninna saama",
+        "kuulmatu",
+        "helistama",
+        "karjuma",
+        "kuulmatult",
+        "norskama",
+        "lugema",
+        "laulma",
+        "kõnelema",
+        "kuulmetõri",
+        "sosistama",
+        "kajama",
+        "kostuma",
+        "kostuma",
+        "kuulmata",
+        "kostma"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kuulma",
+      "translations": [
+        "hear",
+        "(millegi kohta",
+        "millestki) hear of"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "requestedWord": "arvelt",
+  "estonianWord": "arvelt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "arvelt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi või millegi kulul, seda ära kasutades",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "See aeg tuleb võtta pere arvelt.",
+            "Vabaneva raha arvelt saaks ehitada mitu lasteaeda."
+          ],
+          "synonyms": [
+            "arvel"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "за счёт",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "nimestikust, registrist",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Auto on arvelt maha võetud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "с учёта",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "säästueelarve",
+        "sääst",
+        "pealt",
+        "arvel",
+        "vaheltkasu",
+        "kokkuhoid",
+        "arvelevõtt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "arvelt",
+      "translations": []
+    }
+  ]
+}

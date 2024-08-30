@@ -1,0 +1,188 @@
+{
+  "requestedWord": "kahjuks",
+  "estonianWord": "kahjuks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kahjuks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "märgib kahetsevat suhtumist, kahjutunnet mingi soovimatu, ebameeldiva, paratamatu asjaolu puhul,kasuta siis, kui tahad osutada, et sul on kahju, kurb meel millegi pärast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kodukanti satun kahjuks harva.",
+            "Kahjuks ei vasta see jutt tõele.",
+            "Uurimine kahjuks venib.",
+            "Kahjuks pole mul aega.",
+            "Ma ei oska sind kahjuks aidata.",
+            "Kas see on tõsi? – Kahjuks küll."
+          ],
+          "synonyms": [
+            "paraku",
+            "kahetsetavasti",
+            "õnnetuseks"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "unfortunately",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "malheureusement",
+                "weight": 1
+              },
+              {
+                "words": "hélas",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "к сожалению",
+                "weight": 1
+              },
+              {
+                "words": "жаль",
+                "weight": 1
+              },
+              {
+                "words": "жалко",
+                "weight": 1
+              },
+              {
+                "words": "увы",
+                "weight": 1
+              },
+              {
+                "words": "к несчастью",
+                "weight": 1
+              },
+              {
+                "words": "на несчастье",
+                "weight": 1
+              },
+              {
+                "words": "на беду",
+                "weight": 1
+              },
+              {
+                "words": "на горе",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на жаль",
+                "weight": 1
+              },
+              {
+                "words": "на нещастя",
+                "weight": 1
+              },
+              {
+                "words": "на біду",
+                "weight": 1
+              },
+              {
+                "words": "на лихо",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi, millegi suhtes ebasoodsalt või halvasti",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Mäng lõppes 3:0 meie meeste kahjuks.",
+            "Faktid räägivad tema kahjuks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "не в пользу",
+                "weight": 1
+              },
+              {
+                "words": "в ущерб",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "õnnetuseks",
+        "paraku",
+        "kahetsetavasti",
+        "kuigi",
+        "tõesti",
+        "kindlasti",
+        "siiski",
+        "ilmselt",
+        "pole",
+        "kuid",
+        "aga",
+        "aga",
+        "hetkel",
+        "muidugi",
+        "siiani",
+        "seega",
+        "üldse",
+        "kuidagi",
+        "veel",
+        "seekord",
+        "küll",
+        "küll",
+        "ikka",
+        "pooltki",
+        "tegelikult",
+        "ükski",
+        "ikkagi",
+        "tihti",
+        "päris",
+        "õnneks",
+        "kuna",
+        "kuna",
+        "vist",
+        "vist",
+        "väga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kahjuks",
+      "translations": [
+        "alas",
+        "regrettably",
+        "unfortunately"
+      ]
+    }
+  ]
+}

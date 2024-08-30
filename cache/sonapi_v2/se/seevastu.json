@@ -1,0 +1,128 @@
+{
+  "requestedWord": "seevastu",
+  "estonianWord": "seevastu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "seevastu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nagu vastukaaluks, tasakaalustuseks, hüvituseks millelegi eespool mainitule,vastupidi eespool mainitud asjaolule",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Laudu-toole on külluses, külastajaid seevastu vähevõitu.",
+            "Jaanuar oli külm, veebruar seevastu üllatavalt soe.",
+            "Mehel oli peol lõbus, naisel seevastu igav."
+          ],
+          "synonyms": [
+            "see-eest",
+            "selle-eest",
+            "sellevastu"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "par contre",
+                "weight": 1
+              },
+              {
+                "words": "en revanche",
+                "weight": 1
+              },
+              {
+                "words": "au contraire",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "зато",
+                "weight": 1
+              },
+              {
+                "words": "напротив",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зате",
+                "weight": 1
+              },
+              {
+                "words": "проте",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "aga",
+        "aga",
+        "see-eest",
+        "jälle",
+        "selle-eest",
+        "sellevastu",
+        "ent",
+        "jällegi",
+        "kuid",
+        "sellepärast",
+        "pehmeloomuline",
+        "kes",
+        "kuigi",
+        "ehkki",
+        "mis",
+        "sõnulseletamatult",
+        "seevõrd",
+        "seevõrra",
+        "vaid",
+        "sageli",
+        "siiski",
+        "sõnul",
+        "tavaliselt",
+        "suhteliselt",
+        "pigem",
+        "seetõttu",
+        "samuti",
+        "küll",
+        "küll",
+        "üsna",
+        "enamasti",
+        "koguni",
+        "seevald",
+        "sugugi",
+        "sest",
+        "kuna",
+        "kuna",
+        "üldiselt",
+        "niivõrd",
+        "väga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "seevastu",
+      "translations": [
+        "on the contrary"
+      ]
+    }
+  ]
+}

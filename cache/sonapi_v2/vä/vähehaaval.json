@@ -1,0 +1,154 @@
+{
+  "requestedWord": "vähehaaval",
+  "estonianWord": "vähehaaval",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vähehaaval"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "otsekui märkamatult, väikeste osade kaupa, mitte kohe või korraga",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Hirm kasvas vähehaaval."
+          ],
+          "synonyms": [
+            "tasapisi",
+            "pisitasa",
+            "veidihaaval",
+            "aeglaselt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "понемногу",
+                "weight": 1
+              },
+              {
+                "words": "мало-помалу",
+                "weight": 1
+              },
+              {
+                "words": "понемножку",
+                "weight": 1
+              },
+              {
+                "words": "помаленьку",
+                "weight": 1
+              },
+              {
+                "words": "помалости",
+                "weight": 1
+              },
+              {
+                "words": "потихоньку",
+                "weight": 1
+              },
+              {
+                "words": "полегоньку",
+                "weight": 1
+              },
+              {
+                "words": "помалу",
+                "weight": 1
+              },
+              {
+                "words": "медленно,неторопливо,не спеша,потихоньку",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "lentement",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "повільно,неквапливо",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "slowly",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "aegamisi",
+        "terakaupa",
+        "tasahiljukesi",
+        "aegamööda",
+        "kild-killult",
+        "tilkhaaval",
+        "tasapisi",
+        "järk-järgult",
+        "toll-tollilt",
+        "tasahaaval",
+        "sammhaaval",
+        "sammukaupa",
+        "tasahilju",
+        "raashaaval",
+        "pisitasa",
+        "piskuhaaval",
+        "terahaaval",
+        "tollhaaval",
+        "aegapidi",
+        "natukesehaaval",
+        "kildhaaval",
+        "jupphaaval",
+        "tilgakaupa",
+        "samm-sammult",
+        "hiljukesi",
+        "pikkamisi",
+        "pikkamööda",
+        "lonkshaaval",
+        "vaikselt",
+        "taastuma",
+        "pikapeale",
+        "natukehaaval",
+        "pidevalt",
+        "ajapikku",
+        "aina",
+        "aeglaselt",
+        "ükshaaval",
+        "tähthaaval",
+        "kiiresti",
+        "tükkhaaval",
+        "haaval",
+        "kosuma",
+        "üha"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vähehaaval",
+      "translations": [
+        "a little at a time",
+        "in dribs and drabs",
+        "little by little"
+      ]
+    }
+  ]
+}

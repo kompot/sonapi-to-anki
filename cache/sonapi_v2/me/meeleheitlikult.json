@@ -1,0 +1,81 @@
+{
+  "requestedWord": "meeleheitlikult",
+  "estonianWord": "meeleheitlikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "meeleheitlikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "отчаянно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "розпачливо",
+                "weight": 1
+              },
+              {
+                "words": "відчайдушно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hullupööra",
+        "hullumoodi",
+        "meeletult",
+        "ahastavalt",
+        "lootusetult",
+        "põikpäiselt",
+        "jõuetult",
+        "hirmuhigi",
+        "tundetult",
+        "alatihti",
+        "häbitult",
+        "meeleheitlik",
+        "armetult",
+        "kangekaelselt",
+        "meelehärm",
+        "hirmunult",
+        "tulutult",
+        "vaguralt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "meeleheitlikult",
+      "translations": [
+        "despairingly",
+        "desperately"
+      ]
+    }
+  ]
+}

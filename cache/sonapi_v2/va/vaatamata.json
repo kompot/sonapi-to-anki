@@ -1,0 +1,135 @@
+{
+  "requestedWord": "vaatamata",
+  "estonianWord": "vaatamata",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vaatamata"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millelegi vastupidi, midagi trotsides, millelegi mitte tähelepanu pöörates,millelegi vastupidi,millelegi mitte tähelepanu pöörates",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Vastlatrall käis ilmale vaatamata.",
+            "Talveunele vaatamata võivad karud oma murdjaloomust näidata.",
+            "Halvale ilmale vaatamata läksin jooksma.",
+            "Vaatamata kõigele jäime sõpradeks."
+          ],
+          "synonyms": [
+            "hoolimata",
+            "olenemata,sõltumata,olenematult",
+            "ehkki,ehk küll,kuigi,olgu et,olgugi et,olgu peale,olgu pealegi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "malgré",
+                "weight": 1
+              },
+              {
+                "words": "en dépit de",
+                "weight": 1
+              },
+              {
+                "words": "bien que,même si",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "несмотря на",
+                "weight": 1
+              },
+              {
+                "words": "не обращая внимания",
+                "weight": 1
+              },
+              {
+                "words": "невзирая на",
+                "weight": 1
+              },
+              {
+                "words": "вопреки",
+                "weight": 1
+              },
+              {
+                "words": "несмотря на то что",
+                "weight": 1
+              },
+              {
+                "words": "независимо,безотносительно,вне зависимости от,независимо от,несмотря на",
+                "weight": 0.9
+              },
+              {
+                "words": "несмотря на,хотя,хоть,несмотря на то что,хотя и",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "незважаючи на",
+                "weight": 1
+              },
+              {
+                "words": "невважаючи на",
+                "weight": 1
+              },
+              {
+                "words": "попри",
+                "weight": 1
+              },
+              {
+                "words": "хоч,хоч і,хоча й,незважаючи на те, що,дарма що,хоча",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "although,albeit",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vastu",
+        "hoolimata"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vaatamata",
+      "translations": [
+        "despite",
+        "in spite of",
+        "in the face of",
+        "mauger",
+        "maugre (millelegi)",
+        "(sellele) notwithstanding",
+        "regardless"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,977 @@
+{
+  "requestedWord": "seisma",
+  "estonianWord": "seisma",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "32",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "seisan"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "seisad"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "seisab"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "seisame"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "seisate"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "seisavad"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "seisa"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "seistakse"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "seista"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "seisin"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "seisid"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "seisis"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "seisime"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "seisite"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "seisid"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "seisti"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "seisaksin"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "seisaksid"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "seisaks"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "seisaksime"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "seisaksite"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "seisaksid"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "seistaks"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "seisnuksin"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "seisnuksid"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "seisnuks"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "seisnuksime"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "seisnuksite"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "seisnuksid"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "seistuks"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "seisvat"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "seistavat"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "seisnuvat"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "seistuvat"
+        },
+        {
+          "inflectionType": "32",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "seisa"
+        },
+        {
+          "inflectionType": "32",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "seiskem"
+        },
+        {
+          "inflectionType": "32",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "seiske"
+        },
+        {
+          "inflectionType": "32",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "seisku"
+        },
+        {
+          "inflectionType": "32",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "seistagu"
+        },
+        {
+          "inflectionType": "32",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "seisma"
+        },
+        {
+          "inflectionType": "32",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "seismata"
+        },
+        {
+          "inflectionType": "32",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "seismas"
+        },
+        {
+          "inflectionType": "32",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "seismast"
+        },
+        {
+          "inflectionType": "32",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "seismaks"
+        },
+        {
+          "inflectionType": "32",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "seistama"
+        },
+        {
+          "inflectionType": "32",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "seista"
+        },
+        {
+          "inflectionType": "32",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "seistes"
+        },
+        {
+          "inflectionType": "32",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "seisev"
+        },
+        {
+          "inflectionType": "32",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "seistav"
+        },
+        {
+          "inflectionType": "32",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "seisnud"
+        },
+        {
+          "inflectionType": "32",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "seisnud"
+        },
+        {
+          "inflectionType": "32",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "seistud"
+        },
+        {
+          "inflectionType": "32",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "seistud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(inimeste, loomade kohta:) püstiasendis hrl jalgadele toetudes ühe koha peal paigal olema,jalgadel püsti olema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Poiss seisis purskkaevu juures ja ootas.",
+            "Hobune jäi oja ette seisma.",
+            "Ma ei oska pea peal seista.",
+            "Pidin bussis terve tee seisma."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "se tenir (debout)",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "стоять",
+                "weight": 1
+              },
+              {
+                "words": "постоять",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "стояти",
+                "weight": 1
+              },
+              {
+                "words": "постояти",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(esemete, hoonete vms kohta:) jalgadele vm toetudes püstiasendis olema, sel viisil asetsema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Akna all seisab laud, selle kõrval voodi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "стоять",
+                "weight": 1
+              },
+              {
+                "words": "находиться",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(peenise kohta:) jäigastunud, erutunud (püsti)asendis olema, suguühteks võimeline olema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Mida teha, kui mehel ei seisa?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "стоять",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(pikemat aega) teatavas olukorras, seisundis viibima",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Patsient seisab aastaid plaanilise lõikuse järjekorras.",
+            "Rahvusena seisame surmaga silmitsi.",
+            "Ülemuste juures seisab ta heas kirjas."
+          ],
+          "synonyms": [
+            "püsima",
+            "sitsima,sidima,istuma",
+            "rippuma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "стоять",
+                "weight": 1
+              },
+              {
+                "words": "держаться",
+                "weight": 1
+              },
+              {
+                "words": "удерживаться",
+                "weight": 1
+              },
+              {
+                "words": "держаться,удерживаться,оставаться,остаться,удержаться,простаивать,стоять,сидеться,простоять",
+                "weight": 0.7952
+              },
+              {
+                "words": "сидеть",
+                "weight": 0.7
+              },
+              {
+                "words": "висеть",
+                "weight": 0.75
+              }
+            ],
+            "fra": [
+              {
+                "words": "rester",
+                "weight": 0.7952
+              }
+            ],
+            "ukr": [
+              {
+                "words": "триматися,держатися,утримуватися,утриматися,залишатися,залишитися,бути,стояти,сидітися",
+                "weight": 0.7952
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tulevase tegevuse, olukorra kohta)",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Suurem töö seisab veel ees.",
+            "Neil seisab ees ränk võitlus."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "kellegi või millegi eest kaitsvalt välja astuma või vastutama,kedagi või midagi kaitsma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Omanik seisis omaenda huvide eest.",
+            "Ta ei oska enda eest seista."
+          ],
+          "synonyms": [
+            "kostma",
+            "kaitsema,kaitsma",
+            "kaitsma,kaitsema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "стоять",
+                "weight": 1
+              },
+              {
+                "words": "постоять",
+                "weight": 1
+              },
+              {
+                "words": "заступаться",
+                "weight": 1
+              },
+              {
+                "words": "заступиться",
+                "weight": 1
+              },
+              {
+                "words": "замолвить словечко,замолвить слово,похлопотать,походатайствовать,хлопотать,ходатайствовать",
+                "weight": 0.7
+              },
+              {
+                "words": "защищать,защитить,отстаивать,отстоять",
+                "weight": 0.9
+              },
+              {
+                "words": "защитить,защищать",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "стояти",
+                "weight": 1
+              },
+              {
+                "words": "постояти",
+                "weight": 1
+              },
+              {
+                "words": "заступатися",
+                "weight": 1
+              },
+              {
+                "words": "заступитися",
+                "weight": 1
+              },
+              {
+                "words": "захищати,захистити,обстоювати,обстояти",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "défendre",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "olulisel kujul esinema või avalduma, (tegelikult) olema,avalduma, olema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Asi seisab selles, et ..",
+            "Õnn ei seisa rikkuses."
+          ],
+          "synonyms": [
+            "seisnema",
+            "avalduma,väljenduma",
+            "peituma",
+            "olema",
+            "nähtuma",
+            "ilmnema",
+            "olelema,eksisteerima",
+            "kujutama",
+            "ära rippuma,olenema,rippuma,sõltuma"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "consister",
+                "weight": 1
+              },
+              {
+                "words": "résider",
+                "weight": 1
+              },
+              {
+                "words": "se manifester",
+                "weight": 0.606
+              },
+              {
+                "words": "être",
+                "weight": 0.543
+              },
+              {
+                "words": "exister",
+                "weight": 0.544
+              },
+              {
+                "words": "constituer",
+                "weight": 0.7
+              },
+              {
+                "words": "dépendre",
+                "weight": 0.75
+              }
+            ],
+            "rus": [
+              {
+                "words": "стоять",
+                "weight": 1
+              },
+              {
+                "words": "состоять",
+                "weight": 1
+              },
+              {
+                "words": "заключаться",
+                "weight": 1
+              },
+              {
+                "words": "сводиться",
+                "weight": 1
+              },
+              {
+                "words": "свестись",
+                "weight": 1
+              },
+              {
+                "words": "крыться",
+                "weight": 1
+              },
+              {
+                "words": "проявляться,выражаться,проявиться,выразиться,изображаться,изобразиться",
+                "weight": 0.606
+              },
+              {
+                "words": "заключаться,крыться,таиться",
+                "weight": 0.795
+              },
+              {
+                "words": "существовать,бывать,быть",
+                "weight": 0.543
+              },
+              {
+                "words": "явствовать,последовать,следовать,вытекать",
+                "weight": 0.596
+              },
+              {
+                "words": "обрисоваться,отмечаться,стать очевидным,выискиваться,выискаться,оказываться,оказаться,выявляться,выявиться,всплыть наружу,обнаружиться,открыться,проявиться,обнаруживаться,открываться,проявляться,обозначаться,обозначиться,намечаться,наметиться,обрисовываться",
+                "weight": 0.554
+              },
+              {
+                "words": "бытовать,существовать",
+                "weight": 0.544
+              },
+              {
+                "words": "являть из себя,являть собой,представить из себя,представить собой,представлять из себя,представлять собой,являться",
+                "weight": 0.7
+              },
+              {
+                "words": "находиться в зависимости,зависеть",
+                "weight": 0.75
+              }
+            ],
+            "ukr": [
+              {
+                "words": "полягати",
+                "weight": 1
+              },
+              {
+                "words": "бути",
+                "weight": 1
+              },
+              {
+                "words": "виявлятися,виявитися,проявлятися,проявитися",
+                "weight": 0.606
+              },
+              {
+                "words": "таїтися,критися,полягати",
+                "weight": 0.795
+              },
+              {
+                "words": "бути,існувати",
+                "weight": 0.543
+              },
+              {
+                "words": "виявлятися,виявитися",
+                "weight": 0.554
+              },
+              {
+                "words": "існувати",
+                "weight": 0.544
+              },
+              {
+                "words": "бути,являти собою",
+                "weight": 0.7
+              },
+              {
+                "words": "залежати",
+                "weight": 0.75
+              }
+            ],
+            "eng": [
+              {
+                "words": "exist",
+                "weight": 0.544
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kuskil (pikemat aega) asetsema, mingis asendis või seisundis asuma, mingil viisil paigal olema,paiknema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Uksel seisab mingi silt.",
+            "Aken seisis pärani.",
+            "Hooned seisavad tühjana.",
+            "Toas seisavad virnas riidehunnikud.",
+            "Laud seisab akna all."
+          ],
+          "synonyms": [
+            "rippuma"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "se trouver",
+                "weight": 1
+              },
+              {
+                "words": "être",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "стоять",
+                "weight": 1
+              },
+              {
+                "words": "висеть,виснуть,зависать,зависнуть",
+                "weight": 0.75
+              }
+            ],
+            "ukr": [
+              {
+                "words": "стояти",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "harjumuspärases, teada olevas kohas paiknema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Reha seisab laudas."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "mingis dokumendis kirja pandud, kirjalikult väljendatud olema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ülevaates seisab, et ..",
+            "Tegemist on hea tahte aktiga, seisis avalduses."
+          ],
+          "synonyms": [
+            "kirjas olema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "написан,написана,написано,написаны",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "être écrit",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "написано",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "muutumatus asendis või (heas) seisundis püsima, mingil kujul vastu pidama, alal hoiduma või säilima",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kartul ei seisa üle talve.",
+            "Põrand seisab puhas.",
+            "Raha seisab pangas."
+          ],
+          "synonyms": [
+            "säilima",
+            "toetuma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сохраняться,храниться,сохраниться",
+                "weight": 0.9
+              },
+              {
+                "words": "опираться,покоиться",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зберігатися,зберегтися",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ühel kohal paigal olema, mitte (edasi) liikuma või tegutsema,ühel kohal olema, mitte liikuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Buss rohkem seisis kui sõitis, linn oli täiesti umbes.",
+            "Võõras jäi ukseavasse seisma.",
+            "Liiklus pandi seisma.",
+            "Buss läks katki ja jäi seisma.",
+            "Teisel pool teed seisis vaba takso.",
+            "Kell on seisma jäänud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "стоять",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "стояти",
+                "weight": 1
+              },
+              {
+                "words": "зупинитися",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "arengus, tegevuses paigal olema, mitte edenema või toimima,tegevuseta, kasutamata või kasutu olema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Tootmine seisab, ruumid on maha jäetud.",
+            "Müü auto ära, mis ta niisama seisab.",
+            "Uus seltsimaja jõude ei seisa."
+          ],
+          "synonyms": [
+            "puhkama"
+          ],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "hallitama",
+        "roostetama",
+        "elama",
+        "pidama",
+        "pidama",
+        "toppama",
+        "seisnema",
+        "säilima",
+        "tolmuma",
+        "laagerdama",
+        "püsima",
+        "kolletuma",
+        "kirjas olema",
+        "hapnema",
+        "stoppama",
+        "peituma",
+        "ripnema",
+        "hõljuma",
+        "olema",
+        "figureerima",
+        "seisatama",
+        "meeles olema",
+        "rippuma",
+        "osutama",
+        "seiskuma",
+        "meelde jääma",
+        "vastu panema",
+        "hakkama",
+        "tõrkuma",
+        "istuma",
+        "näppama",
+        "kasutult",
+        "ootama",
+        "passima",
+        "jääma",
+        "ootele",
+        "vedelema",
+        "püsti",
+        "püsti",
+        "seisku",
+        "rappuma",
+        "peatuma",
+        "kappama",
+        "seiskama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "seisma",
+      "translations": [
+        "stand",
+        "(tegevusetult) stand around"
+      ]
+    }
+  ]
+}

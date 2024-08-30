@@ -1,0 +1,81 @@
+{
+  "requestedWord": "kohapeal",
+  "estonianWord": "kohapeal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kohapeal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vahetult millegi sündmus- või tegevuskohas,äsja mainitud kohas, sealsamas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kohapeal selgus, et ..",
+            "Lugemismaterjal on kohapeal kasutamiseks.",
+            "Kohapeal küpsetatud pirukad.",
+            "Lähme uurime asja kohapeal.",
+            "Kannatanule anti kohapeal esmaabi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "sur place",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "на месте",
+                "weight": 1
+              },
+              {
+                "words": "на местах",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на місці",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kohapealne",
+        "eelnevalt",
+        "võimalik",
+        "kohapealt",
+        "kohapeale"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kohapeal",
+      "translations": [
+        "on sight",
+        "on-site",
+        "on spot"
+      ]
+    }
+  ]
+}

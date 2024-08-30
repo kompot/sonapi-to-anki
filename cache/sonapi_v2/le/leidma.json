@@ -1,0 +1,961 @@
+{
+  "requestedWord": "leidma",
+  "estonianWord": "leidma",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "34",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "leian"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "leiad"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "leiab"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "leiame"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "leiate"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "leiavad"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "leia"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "leitakse"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "leita"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "leidsin"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "leidsid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "leidis"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "leidsime"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "leidsite"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "leidsid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "leiti"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "leiaksin"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "leiaksid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "leiaks"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "leiaksime"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "leiaksite"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "leiaksid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "leitaks"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "leidnuksin"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "leidnuksid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "leidnuks"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "leidnuksime"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "leidnuksite"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "leidnuksid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "leituks"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "leidvat"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "leitavat"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "leidnuvat"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "leituvat"
+        },
+        {
+          "inflectionType": "34",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "leia"
+        },
+        {
+          "inflectionType": "34",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "leidkem"
+        },
+        {
+          "inflectionType": "34",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "leidke"
+        },
+        {
+          "inflectionType": "34",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "leidku"
+        },
+        {
+          "inflectionType": "34",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "leitagu"
+        },
+        {
+          "inflectionType": "34",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "leidma"
+        },
+        {
+          "inflectionType": "34",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "leidmata"
+        },
+        {
+          "inflectionType": "34",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "leidmas"
+        },
+        {
+          "inflectionType": "34",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "leidmast"
+        },
+        {
+          "inflectionType": "34",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "leidmaks"
+        },
+        {
+          "inflectionType": "34",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "leitama"
+        },
+        {
+          "inflectionType": "34",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "leida"
+        },
+        {
+          "inflectionType": "34",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "leides"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "leidev"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "leitav"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "leidnud"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "leidnud"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "leitud"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "leitud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "otsides või juhuslikult märkama või kätte saama,otsimise tulemusena või juhuslikult teada saama, kus keegi või miski asub",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Viige linnupoeg tagasi sinna, kust te ta leidsite.",
+            "On vähe lootust teda elusana leida.",
+            "Ma ei leia oma rahakotti.",
+            "Leidsin sahtlist vana foto."
+          ],
+          "synonyms": [
+            "kätte leidma,üles leidma,üles noppima",
+            "kätte saama",
+            "üles otsima",
+            "eest leidma"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "trouver",
+                "weight": 1
+              },
+              {
+                "words": "retrouver",
+                "weight": 0.9
+              },
+              {
+                "words": "attraper",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "находить",
+                "weight": 1
+              },
+              {
+                "words": "найти",
+                "weight": 1
+              },
+              {
+                "words": "обнаруживать",
+                "weight": 1
+              },
+              {
+                "words": "обнаружить",
+                "weight": 1
+              },
+              {
+                "words": "находить,найти,откопать",
+                "weight": 0.9
+              },
+              {
+                "words": "поймать",
+                "weight": 0.9
+              },
+              {
+                "words": "отыскать,находить,разыскать,выискать",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "знаходити",
+                "weight": 1
+              },
+              {
+                "words": "знайти",
+                "weight": 1
+              },
+              {
+                "words": "знаходити,знайти",
+                "weight": 0.9
+              },
+              {
+                "words": "спіймати,піймати",
+                "weight": 0.9
+              },
+              {
+                "words": "розшукати,відшукати,віднайти,знайти",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kuskil millegi või kellegi olemasolu avastama (nt seoses maavarade, säilmete, loomaliikidega)",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Arktikas leiti naftat.",
+            "Aafrika Sarvelt on leitud 5000 aasta vanuseid kaljujooniseid."
+          ],
+          "synonyms": [
+            "avastama",
+            "eest leidma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "открывать,открыть,обнаруживать,обнаружить",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "découvrir",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "відкривати,відкрити,виявляти,виявити",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "discover",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(seoses asjaolude, olukordadega:) nägema või tõsiasjana sedastama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Naastes leidsin, et külalised on lahkunud.",
+            "Ma ei leia nende vahel mingit sarnasust."
+          ],
+          "synonyms": [
+            "märkama",
+            "avastama",
+            "tuvastama",
+            "tähele panema",
+            "silmama",
+            "nägema",
+            "täheldama",
+            "hoomama",
+            "määrama,kindlaks tegema,kindlaks määrama",
+            "järele uurima,selgitama,välja selgitama,välja uurima,järgi uurima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "подметить,подмечать,заметить,замечать,углядеть,усмотреть,усматривать,увидеть,приметить,примечать",
+                "weight": 0.9
+              },
+              {
+                "words": "обнаруживать,обнаружить",
+                "weight": 0.9
+              },
+              {
+                "words": "определять,определить,распознавать,распознать,устанавливать,установить,опознавать,опознать",
+                "weight": 0.9
+              },
+              {
+                "words": "подмечать,примечать,замечать,обращать внимание,заметить,подметить,приметить",
+                "weight": 0.9
+              },
+              {
+                "words": "завидеть,углядеть,усмотреть,усматривать,увидеть,заметить,замечать",
+                "weight": 0.9
+              },
+              {
+                "words": "видеть",
+                "weight": 0.9
+              },
+              {
+                "words": "встречаться,примечать,подмечать,приметить,подметить,отмечаться,заметить,попадаться,замечать,наблюдаться",
+                "weight": 0.9
+              },
+              {
+                "words": "примечать,приметить,подметить,подмечать,заметить,замечать",
+                "weight": 0.7667
+              },
+              {
+                "words": "определить,определять,устанавливать,установить",
+                "weight": 0.9
+              },
+              {
+                "words": "выведывать,разведать,разведывать,разузнать,разузнавать,узнать,узнавать,устанавливать,выяснить,выяснять,установить,выявлять,выявить,допытаться,допытываться,выведать",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "apercevoir,remarquer",
+                "weight": 0.9
+              },
+              {
+                "words": "découvrir",
+                "weight": 0.9
+              },
+              {
+                "words": "remarquer",
+                "weight": 0.9
+              },
+              {
+                "words": "identifier,déterminer",
+                "weight": 0.9
+              },
+              {
+                "words": "se renseigner",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зауважувати,зауважити,примітити,примічати,помітити,помічати",
+                "weight": 0.9
+              },
+              {
+                "words": "виявити,виявляти",
+                "weight": 0.9
+              },
+              {
+                "words": "встановлювати,встановити,визначати,визначити,розпізнавати,розпізнати,упізнавати,упізнати",
+                "weight": 0.9
+              },
+              {
+                "words": "помітити,звертати увагу,помічати",
+                "weight": 0.9
+              },
+              {
+                "words": "встановити,встановлювати,визначити,визначати",
+                "weight": 0.9
+              },
+              {
+                "words": "вияснити,виясняти,встановити,встановлювати,визначити,зʼясувати,визначати,зʼясовувати",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "notice",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(osaks) saama,taotletud olukorrani jõudma,saama või saavutama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kahtlused leidsid kinnitust.",
+            "Ta leidis lohutust iseendale kirjade saatmises.",
+            "Kõik, mis ei leia kasutust, hävib.",
+            "Minu ettepanek ei leidnud toetajaid.",
+            "Me ei leidnud probleemile lahendust."
+          ],
+          "synonyms": [
+            "saama",
+            "saavutama",
+            "olema"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "trouver",
+                "weight": 1
+              },
+              {
+                "words": "avoir",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "находить",
+                "weight": 1
+              },
+              {
+                "words": "найти",
+                "weight": 1
+              },
+              {
+                "words": "доставать,приобретать,приобрести,получить,получать,достать",
+                "weight": 0.8003
+              },
+              {
+                "words": "обретать,обрести,добиться,достичь,завоёвывать,завоевать,достигать,достигнуть,добиваться,одерживать,одержать,возыметь",
+                "weight": 0.7
+              },
+              {
+                "words": "есть,иметься",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "знаходити",
+                "weight": 1
+              },
+              {
+                "words": "знайти",
+                "weight": 1
+              },
+              {
+                "words": "здобути,досягати,досягти,досягнути,здобувати",
+                "weight": 0.7
+              },
+              {
+                "words": "є,бути",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(rahalise või ajalise võimaluse saamise, tekitamise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Puudu olev summa leiti valla eelarvest.",
+            "Raske on lugemiseks aega leida."
+          ],
+          "synonyms": [
+            "saama",
+            "võtma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "доставать,достать,получать,получить,приобрести,приобретать",
+                "weight": 0.8003
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mõtlemise, uurimise, arvutamise teel millenigi jõudma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Probleemile leiti lahendus.",
+            "Tuleb leida võimalus, kuidas olukorda parandada.",
+            "Teadlased on leidnud tõendeid, et ..",
+            "Leia ristküliku pindala."
+          ],
+          "synonyms": [
+            "arvestama,rehkendama,arvutama",
+            "järele uurima,selgitama,välja selgitama,välja uurima,järgi uurima",
+            "saama",
+            "diagnoosima",
+            "kindlaks tegema,määrama,kindlaks määrama",
+            "tuvastama",
+            "tõestama",
+            "nuputama",
+            "mõistatama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "исчислить,считать,высчитывать,подсчитывать,вычислять,сосчитать,высчитать,вычислить,подсчитать,рассчитывать,рассчитать,исчислять",
+                "weight": 0.7
+              },
+              {
+                "words": "разузнать,выявлять,выявить,устанавливать,установить,выяснять,выяснить,узнавать,узнать,разузнавать,разведывать,разведать,выведывать,выведать,допытываться,допытаться",
+                "weight": 0.9
+              },
+              {
+                "words": "получаться",
+                "weight": 0.8003
+              },
+              {
+                "words": "диагностировать,ставить диагноз",
+                "weight": 0.9
+              },
+              {
+                "words": "определить,установить,устанавливать,определять",
+                "weight": 0.9
+              },
+              {
+                "words": "определять,определить,распознавать,распознать,устанавливать,установить,опознавать,опознать",
+                "weight": 0.9
+              },
+              {
+                "words": "подтвердить,доказать,установить,устанавливать,доказывать,подтверждать",
+                "weight": 0.9
+              },
+              {
+                "words": "обдумывать,скумекать,мозговать,кумекать,придумать,обмозговать,обдумать,выдумать,выдумывать,обмозговывать,придумывать",
+                "weight": 0.511
+              }
+            ],
+            "fra": [
+              {
+                "words": "calculer",
+                "weight": 0.7
+              },
+              {
+                "words": "se renseigner",
+                "weight": 0.9
+              },
+              {
+                "words": "déterminer,identifier",
+                "weight": 0.9
+              },
+              {
+                "words": "prouver",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "обчислити,підрахувати,полічити,лічити,порахувати,обчислювати,підраховувати,рахувати",
+                "weight": 0.7
+              },
+              {
+                "words": "зʼясовувати,зʼясувати,визначати,визначити,встановлювати,встановити,виясняти,вияснити",
+                "weight": 0.9
+              },
+              {
+                "words": "визначати,визначити,встановлювати,встановити",
+                "weight": 0.9
+              },
+              {
+                "words": "встановлювати,встановити,визначати,визначити,розпізнавати,розпізнати,упізнавати,упізнати",
+                "weight": 0.9
+              },
+              {
+                "words": "довести,підтверджувати,підтвердити,доводити",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "compute,calculate",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "arvama, arvamusel olema,kasutatakse oma arvamusest või kogemusest rääkides",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Peaarst leiab, et ta võib teha, mida tahab.",
+            "Kas te ei leia, et mu naine laulab hästi?",
+            "Ma ei leia selles loos midagi imelikku.",
+            "Leian, et sa peaksid parema töökoha otsima."
+          ],
+          "synonyms": [
+            "arvama",
+            "konstateerima,nentima,sedastama",
+            "järeldama",
+            "mõtlema",
+            "nägema",
+            "otsustama"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "trouver",
+                "weight": 1
+              },
+              {
+                "words": "penser,croire",
+                "weight": 0.7
+              },
+              {
+                "words": "décider",
+                "weight": 0.502
+              }
+            ],
+            "rus": [
+              {
+                "words": "находить",
+                "weight": 1
+              },
+              {
+                "words": "найти",
+                "weight": 1
+              },
+              {
+                "words": "считать,счесть,принимать,принять,относить,отнести",
+                "weight": 0.7
+              },
+              {
+                "words": "признать,отмечать,отметить,устанавливать,установить,замечать,заметить,утверждать,утвердить,констатировать,признавать",
+                "weight": 0.9
+              },
+              {
+                "words": "прийти к выводу,сделать умозаключение,вывести заключение,сделать заключение,прийти к заключению,делать умозаключение,умозаключить,умозаключать,приходить к заключению,выводить заключение,делать заключение,сделать вывод,заключить,заключать,приходить к выводу,делать вывод",
+                "weight": 0.9
+              },
+              {
+                "words": "раздумывать,думать,помыслить,размышлять,мыслить",
+                "weight": 0.7
+              },
+              {
+                "words": "понимать,понять,осознавать,осознать,увидеть,видеть",
+                "weight": 0.9
+              },
+              {
+                "words": "принимать решение,принять решение,решить,решать",
+                "weight": 0.502
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вважати",
+                "weight": 1
+              },
+              {
+                "words": "вважати,думати,гадати",
+                "weight": 0.7
+              },
+              {
+                "words": "побачити,бачити",
+                "weight": 0.9
+              },
+              {
+                "words": "вирішувати,ухвалити рішення,ухвалювати рішення,вирішити",
+                "weight": 0.502
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mõtlema",
+        "võtma",
+        "olema",
+        "saavutama",
+        "arvama",
+        "saama",
+        "hoomama",
+        "kätte leidma",
+        "diagnoosima",
+        "tähele panema",
+        "kindlaks määrama",
+        "välja selgitama",
+        "silmama",
+        "nägema",
+        "tõestama",
+        "täheldama",
+        "märkama",
+        "järeldama",
+        "nentima",
+        "tuvastama",
+        "üles otsima",
+        "eest leidma",
+        "otsustama",
+        "otsima",
+        "leiduma",
+        "nuputama",
+        "mõistatama",
+        "kahe silma vahele jääma",
+        "klattima",
+        "sirgeks rääkima",
+        "üles leidma",
+        "kätte saama",
+        "silma hakkama",
+        "klaarima",
+        "silmapaari vahele jääma",
+        "kindlaks tegema",
+        "silma jääma",
+        "selgitama",
+        "lahtisest uksest sisse murdma",
+        "avastama",
+        "trööstima",
+        "troostima",
+        "lohutuma",
+        "tulema",
+        "tulema",
+        "tulema",
+        "defineerima",
+        "elustama",
+        "teadvustama",
+        "sõnastama",
+        "tõstatama",
+        "vajama",
+        "innustama",
+        "jaguma",
+        "tasakaalustama",
+        "aega viitma",
+        "ärgitama",
+        "valima",
+        "ruttama",
+        "minetama",
+        "tegema",
+        "tunnetama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "leidma",
+      "translations": [
+        "discover",
+        "find",
+        "run down"
+      ]
+    }
+  ]
+}

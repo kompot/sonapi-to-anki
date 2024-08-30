@@ -1,0 +1,441 @@
+{
+  "requestedWord": "mürgine",
+  "estonianWord": "mürgine",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "10",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "mürgine"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "mürgise"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "mürgist"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "mürgisesse"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "mürgises"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "mürgisest"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "mürgisele"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "mürgisel"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "mürgiselt"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "mürgiseks"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "mürgiseni"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "mürgisena"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "mürgiseta"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "mürgisega"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "mürgised"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "mürgiste"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "mürgiseid"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "mürgistesse,mürgiseisse"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "mürgistes,mürgiseis"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "mürgistest,mürgiseist"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "mürgistele,mürgiseile"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "mürgistel,mürgiseil"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "mürgistelt,mürgiseilt"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "mürgisteks,mürgiseiks"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "mürgisteni"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "mürgistena"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "mürgisteta"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "mürgistega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "elule või tervisele ohtlik, mürgina toimiv või mürkaineid sisaldav,selline, mis toimib mürgina",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Elavhõbe on mürgine aine.",
+            "Mürgised taimed.",
+            "See seen on väga mürgine."
+          ],
+          "synonyms": [
+            "toksiline",
+            "kihvtine"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ядовитый",
+                "weight": 1
+              },
+              {
+                "words": "токсичный",
+                "weight": 1
+              },
+              {
+                "words": "токсический",
+                "weight": 1
+              },
+              {
+                "words": "ядовитый,язвительный",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "отруйний",
+                "weight": 1
+              },
+              {
+                "words": "токсичний",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(madude, putukate vms kohta:) mürginäärmetega, mürki eritav",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Õnneks polnud tegu mürgise maoga.",
+            "Mürgised konnad."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "ядовитый",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vaimsele tervisele halvasti mõjuv, seda kahjustav",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Mürgine suhe hävitab su enesehinnangu ja enesekindluse.",
+            "Osakonnas valitseb mürgine õhustik."
+          ],
+          "synonyms": [
+            "toksiline"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ядовитый",
+                "weight": 1
+              },
+              {
+                "words": "токсичный",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(õelate, tigedate väljaütlemiste kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Lasin mürgise märkuse kõrvust mööda.",
+            "Miks sa nii mürgine oled?"
+          ],
+          "synonyms": [
+            "terav",
+            "solvav",
+            "õel",
+            "teravasõnaline",
+            "teravkeelne",
+            "salvav,sapine,sapikas",
+            "kihvtine",
+            "lõikav",
+            "torkav",
+            "karvane",
+            "tige,pahatahtlik,pahasoovlik,kuri",
+            "pilges,irooniline,pilklik",
+            "sardooniline"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ядовитый",
+                "weight": 1
+              },
+              {
+                "words": "саркастичный,саркастический,язвительный,едкий,колкий,острый,резкий",
+                "weight": 0.9
+              },
+              {
+                "words": "обидный,оскорбительный",
+                "weight": 0.9
+              },
+              {
+                "words": "злобный,злодейский,зловредный,коварный,озлобленный,ядовитый,язвительный,злой,злонравный",
+                "weight": 0.9
+              },
+              {
+                "words": "колкий,язвительный,ядовитый,злобный,остроязычный",
+                "weight": 0.9
+              },
+              {
+                "words": "едкий,язвительный,ядовитый,жёлчный,желчный,ехидный",
+                "weight": 0.9
+              },
+              {
+                "words": "ядовитый,язвительный",
+                "weight": 0.9
+              },
+              {
+                "words": "режущий",
+                "weight": 0.9
+              },
+              {
+                "words": "неприветливый,резкий,грубый,колючий,колкий,недружелюбный",
+                "weight": 0.9
+              },
+              {
+                "words": "недоброжелательный,злонамеренный,зловредный,неблагожелательный,зложелательный,злостный,дурной,неблагосклонный,недобрый,недружелюбный",
+                "weight": 0.9
+              },
+              {
+                "words": "иронический,насмешливый,ироничный,язвительный",
+                "weight": 0.7
+              },
+              {
+                "words": "язвительный,сардонический",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "sévère",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "дошкульний,різкий,гострий",
+                "weight": 0.9
+              },
+              {
+                "words": "іронічний",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "torkav",
+        "teravasõnaline",
+        "kidaline",
+        "tige",
+        "terav",
+        "kibe",
+        "kuri",
+        "õel",
+        "karune",
+        "karvane",
+        "vahe",
+        "vahe",
+        "teravkeelne",
+        "õrjetu",
+        "solvav",
+        "kihvt",
+        "sapikas",
+        "sapikas",
+        "toksiline",
+        "jõnk",
+        "tõre",
+        "salvav",
+        "sapine",
+        "okkaline",
+        "lõikav",
+        "kihvtine",
+        "virulentne",
+        "mürgikapp",
+        "mürgisus",
+        "mürgitu",
+        "mürgisüst",
+        "mürgiseen",
+        "mürgiseim",
+        "mürgisem",
+        "mürgikogus",
+        "ülimürgine",
+        "mürgiampull",
+        "mürgiselt",
+        "mürginääre",
+        "mürgistus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "mürgine",
+      "translations": [
+        "deleterious",
+        "mephitic",
+        "poisonous",
+        "toxic",
+        "veneficial",
+        "venomous",
+        "vitriolic"
+      ]
+    }
+  ]
+}

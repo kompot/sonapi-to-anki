@@ -1,0 +1,136 @@
+{
+  "requestedWord": "avalikult",
+  "estonianWord": "avalikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "avalikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kõigi, paljude inimeste nähes või kuuldes, mitte varjates või salamisi,inimeste nähes või kuuldes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mõlemat meest kohustati avalikult vabandama.",
+            "Ta on üks esimesi, kes avalikult tunnistas oma homoseksuaalsust.",
+            "Kõigest ei ole vaja avalikult rääkida."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "publicly",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "publiquement",
+                "weight": 1
+              },
+              {
+                "words": "en public",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "публично",
+                "weight": 1
+              },
+              {
+                "words": "гласно",
+                "weight": 1
+              },
+              {
+                "words": "открыто",
+                "weight": 1
+              },
+              {
+                "words": "в открытую",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "публічно",
+                "weight": 1
+              },
+              {
+                "words": "відкрито",
+                "weight": 1
+              },
+              {
+                "words": "прилюдно",
+                "weight": 1
+              },
+              {
+                "words": "гласно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "käsi südamel",
+        "päise päeva ajal",
+        "avalalt",
+        "kätt südamele pannes",
+        "suisa",
+        "usaldavalt",
+        "otsekoheselt",
+        "avameeli",
+        "varjamatult",
+        "päevavalgel",
+        "avameelselt",
+        "ütlema",
+        "suisasui",
+        "siiralt",
+        "otse",
+        "otse",
+        "puhtast südamest",
+        "avaldama",
+        "teatavaks tegema",
+        "teatama",
+        "lausa",
+        "avalikkus",
+        "avalik",
+        "ametlikult",
+        "ilmalikult",
+        "silmakirjalikult",
+        "häbitult",
+        "neid",
+        "avalikumalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "avalikult",
+      "translations": [
+        "avowedly",
+        "in public",
+        "openly",
+        "ostensibly",
+        "overtly",
+        "publicly"
+      ]
+    }
+  ]
+}

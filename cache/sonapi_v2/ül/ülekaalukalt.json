@@ -1,0 +1,86 @@
+{
+  "requestedWord": "ülekaalukalt",
+  "estonianWord": "ülekaalukalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ülekaalukalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(teistega võrreldes) millegi valdav-olekuga, teistest üle olemisega, suure üleolekuga",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Andrus võitis ülekaalukalt.",
+            "See arvuti oli ostjate seas ülekaalukalt populaarseim."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "преимущественно",
+                "weight": 1
+              },
+              {
+                "words": "по преимуществу",
+                "weight": 1
+              },
+              {
+                "words": "с большим перевесом",
+                "weight": 1
+              },
+              {
+                "words": "большей частью",
+                "weight": 1
+              },
+              {
+                "words": "в основном",
+                "weight": 1
+              },
+              {
+                "words": "главным образом",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "suurelt",
+        "tublisti",
+        "tugevasti",
+        "ülekaalukas",
+        "kaalukauss",
+        "kaalukadu",
+        "kaalukalt",
+        "tasakaalukalt",
+        "ülivõimsalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ülekaalukalt",
+      "translations": [
+        "in force",
+        "overwhelmingly",
+        "prevailingly"
+      ]
+    }
+  ]
+}

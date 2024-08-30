@@ -1,0 +1,103 @@
+{
+  "requestedWord": "tähelepanelikult",
+  "estonianWord": "tähelepanelikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tähelepanelikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kuulake tähelepanelikult!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "carefully",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "attentivement",
+                "weight": 1
+              },
+              {
+                "words": "avec attention",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "внимательно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "уважно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "teravalt",
+        "teraselt",
+        "üksisilmi",
+        "keskendunult",
+        "valvsalt",
+        "ainiti",
+        "keskendatult",
+        "pingsalt",
+        "puurivalt",
+        "kuulama",
+        "hoolikalt",
+        "ettevaatlikult",
+        "hoolitsevalt",
+        "hoolsalt",
+        "säästvalt",
+        "murelikult",
+        "hoolsasti",
+        "hoolega",
+        "tähelepanelik",
+        "jälgima",
+        "hoolikamalt",
+        "tähelepanelikkus",
+        "tähelepanelikum",
+        "jälgilt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tähelepanelikult",
+      "translations": [
+        "attentively",
+        "carefully",
+        "handsomely",
+        "intently"
+      ]
+    }
+  ]
+}

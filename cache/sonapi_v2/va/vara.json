@@ -1,0 +1,1120 @@
+{
+  "requestedWord": "vara",
+  "estonianWord": "vara",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vara"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "varasel kellaajal, päeva alguses,varajasel ajal, päeva alguses",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Lennuk läheb nii vara, et peame väga vara ärkama.",
+            "Buss väljub väga vara.",
+            "Kõige varem tõuseb ema."
+          ],
+          "synonyms": [
+            "varakult"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "early",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "tôt",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "рано",
+                "weight": 1
+              },
+              {
+                "words": "раненько",
+                "weight": 1
+              },
+              {
+                "words": "ранёхонько",
+                "weight": 1
+              },
+              {
+                "words": "спозаранку",
+                "weight": 1
+              },
+              {
+                "words": "спозаранок",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "рано",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "enne tavalist, määratud või eeldatavat aega,enne tavalist või õiget aega",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Miks sa nii vara peolt ära läksid?",
+            "Läksin õhtul vara magama.",
+            "Ta tuli liiga vara.",
+            "Kontsert algas tund aega varem."
+          ],
+          "synonyms": [
+            "varakult"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "early",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "tôt",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "рано",
+                "weight": 1
+              },
+              {
+                "words": "преждевременно",
+                "weight": 1
+              },
+              {
+                "words": "прежде времени",
+                "weight": 1
+              },
+              {
+                "words": "раньше времени",
+                "weight": 1
+              },
+              {
+                "words": "рановато",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "рано",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kullamäed",
+        "varandus",
+        "kuldvillak",
+        "kõnd",
+        "kõnd",
+        "varanatuke",
+        "piimajõed ja pudrumäed",
+        "hüüs",
+        "mammon",
+        "nodi",
+        "hüvis",
+        "rikkus",
+        "seinakass",
+        "üldisemalt",
+        "kapital",
+        "vararaud",
+        "kass",
+        "omandus",
+        "omand",
+        "pärandvara",
+        "põhivara",
+        "pankrotivara",
+        "varalaegas",
+        "lahusvara",
+        "ühisvara",
+        "varakahju",
+        "tervikvara",
+        "varaait",
+        "kallisvara",
+        "kinnisvara",
+        "vallasvara",
+        "varatu",
+        "käibevara"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "vara"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "vara"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "vara"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "varra"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "varasse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "varas"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "varast"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "varale"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "varal"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "varalt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "varaks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "varani"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "varana"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "varata"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "varaga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "varad"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "varade"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "varasid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "varadesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "varades"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "varadest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "varadele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "varadel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "varadelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "varadeks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "varadeni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "varadena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "varadeta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "varadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellelegi kuuluvad asjad ja rahas hinnatavad õigused ning kohustused,(laiemalt:) miski väärtust omav, väärtuslik,kellegi omandiks olevad asjad ja muu väärtuslik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ära himusta oma ligimese vara.",
+            "Suguseltsi varadest ei pärinud ta midagi.",
+            "Konfiskeeritud vara hoiti laos.",
+            "Abielu jooksul kogutud vara kuulub mõlemale abikaasale."
+          ],
+          "synonyms": [
+            "rikkus",
+            "aare",
+            "omand",
+            "omandus",
+            "kallisvara",
+            "varanatuke",
+            "kapital",
+            "nodi",
+            "mammon",
+            "hüüs",
+            "varandus",
+            "väärtus"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "bien",
+                "weight": 1
+              },
+              {
+                "words": "propriété",
+                "weight": 0.9
+              },
+              {
+                "words": "valeur",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "имущество",
+                "weight": 1
+              },
+              {
+                "words": "состояние",
+                "weight": 1
+              },
+              {
+                "words": "достояние",
+                "weight": 1
+              },
+              {
+                "words": "добро",
+                "weight": 1
+              },
+              {
+                "words": "состояние,богатства,имущество,клад,сокровища",
+                "weight": 0.9
+              },
+              {
+                "words": "клад,сокровище",
+                "weight": 0.7
+              },
+              {
+                "words": "собственность",
+                "weight": 0.9
+              },
+              {
+                "words": "собственность",
+                "weight": 0.9
+              },
+              {
+                "words": "малое добро,нехитрое имущество",
+                "weight": 0.9
+              },
+              {
+                "words": "капитал",
+                "weight": 0.9
+              },
+              {
+                "words": "богатство,деньга",
+                "weight": 0.9
+              },
+              {
+                "words": "мамон,богатство,мамона",
+                "weight": 0.9
+              },
+              {
+                "words": "добро,имущество",
+                "weight": 0.9
+              },
+              {
+                "words": "добро,достояние,имущество,состояние",
+                "weight": 0.7967
+              },
+              {
+                "words": "ценность",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "майно",
+                "weight": 1
+              },
+              {
+                "words": "власність",
+                "weight": 1
+              },
+              {
+                "words": "добро",
+                "weight": 1
+              },
+              {
+                "words": "власність",
+                "weight": 0.9
+              },
+              {
+                "words": "капітал",
+                "weight": 0.9
+              },
+              {
+                "words": "цінності",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(muu kui ainelise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tervis on kõige kallim vara."
+          ],
+          "synonyms": [
+            "aare,rikkus,varandus",
+            "kapital",
+            "väärtus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "богатство",
+                "weight": 1
+              },
+              {
+                "words": "сокровище",
+                "weight": 1
+              },
+              {
+                "words": "клад,сокровище,богатство,достояние,сокровищница,кладезь",
+                "weight": 0.9
+              },
+              {
+                "words": "капитал",
+                "weight": 0.9
+              },
+              {
+                "words": "ценность",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "капітал",
+                "weight": 0.9
+              },
+              {
+                "words": "цінності",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "valeur",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "väärisvara",
+        "vanavara",
+        "vaimuvara",
+        "trofeevara",
+        "tarkvara",
+        "tarkusevara",
+        "tarbevara",
+        "tagavara",
+        "riistvara",
+        "riigivara",
+        "raudvara",
+        "peitvara",
+        "näitevara",
+        "netovara",
+        "maavara",
+        "maapõuevara",
+        "lunavara",
+        "lugemisvara",
+        "loodusvara",
+        "linnavara",
+        "lauluvara",
+        "kunstivara",
+        "kultuurivara",
+        "kirjavara",
+        "kattevara",
+        "kaasavara",
+        "jutuvara",
+        "jaotvara",
+        "jaosvara",
+        "inimvara",
+        "infovara",
+        "harjutusvara",
+        "finantsvara",
+        "alusvara",
+        "abieluvara",
+        "aare",
+        "kullamäed",
+        "varandus",
+        "kuldvillak",
+        "varanatuke",
+        "piimajõed ja pudrumäed",
+        "hüüs",
+        "mammon",
+        "nodi",
+        "rikkus",
+        "kapital",
+        "omandus",
+        "omand",
+        "pärandvara",
+        "põhivara",
+        "pankrotivara",
+        "varalaegas",
+        "lahusvara",
+        "ühisvara",
+        "varakahju",
+        "tervikvara",
+        "varaait",
+        "kallisvara",
+        "kinnisvara",
+        "vallasvara",
+        "varatu",
+        "käibevara",
+        "kõnd",
+        "kõnd",
+        "hüvis",
+        "seinakass",
+        "üldisemalt",
+        "vararaud",
+        "kass"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "vara"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "vara"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "vara"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "varra"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "varasse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "varas"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "varast"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "varale"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "varal"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "varalt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "varaks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "varani"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "varana"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "varata"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "varaga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "varad"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "varade"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "varasid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "varadesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "varades"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "varadest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "varadele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "varadel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "varadelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "varadeks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "varadeni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "varadena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "varadeta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "varadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "palkmaja ehitusel kasutatav kahe konksuga riist seinapalkidele joonte märkimiseks või renni sisse raiumiseks",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "seinakass",
+            "vararaud",
+            "kiskraud"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "отволока",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vararauaga palgi sisse pikuti raiutud lame renn",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Palk toetub varaga alumisele palgile."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "паз",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "seinakass",
+        "vararaud",
+        "kullamäed",
+        "varandus",
+        "kuldvillak",
+        "kõnd",
+        "kõnd",
+        "varanatuke",
+        "piimajõed ja pudrumäed",
+        "hüüs",
+        "mammon",
+        "nodi",
+        "hüvis",
+        "rikkus",
+        "üldisemalt",
+        "kapital",
+        "omandus",
+        "omand",
+        "pärandvara",
+        "põhivara",
+        "pankrotivara",
+        "varalaegas",
+        "lahusvara",
+        "ühisvara",
+        "varakahju",
+        "tervikvara",
+        "varaait",
+        "kallisvara",
+        "kinnisvara",
+        "vallasvara",
+        "varatu",
+        "käibevara",
+        "kass"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "vara"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "vara"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "vara"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "varra"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "varasse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "varas"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "varast"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "varale"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "varal"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "varalt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "varaks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "varani"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "varana"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "varata"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "varaga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "varad"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "varade"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "varasid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "varadesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "varades"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "varadest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "varadele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "varadel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "varadelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "varadeks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "varadeni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "varadena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "varadeta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "varadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "paadi või purjeka parrast kõrgendav ja suurema lainetuse eest kaitsev lisaplank (või plangud)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "liigparras"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "набои",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "küla Tartu maakonnas Peipsiääre vallas (Maarja-Magdaleena kihelkonnas)",
+          "partOfSpeech": [
+            {
+              "code": "prop",
+              "value": "pärisnimi, prooprium"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vara",
+      "translations": [
+        "asset",
+        "chattel",
+        "early",
+        "estate",
+        "property",
+        "thrift"
+      ]
+    }
+  ]
+}

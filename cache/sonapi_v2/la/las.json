@@ -1,0 +1,160 @@
+{
+  "requestedWord": "las",
+  "estonianWord": "las",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "las"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab millegi võimaldamisele, esineb palvet, leebemat käsku, kohustatust märkivates konstruktsioonides,sõna, mida sa kasutad palve, soovi või sõbraliku käsu esitamisel",
+          "partOfSpeech": [
+            {
+              "code": "vrm",
+              "value": "muutevorm (ambivorm, määramata)"
+            }
+          ],
+          "examples": [
+            "Las ma mõtlen natuke.",
+            "Ärge segage, las nad teevad.",
+            "Las mina maksan.",
+            "Las see jutt jääb meie vahele.",
+            "Las koerad hauguvad, karavan läheb edasi.",
+            "Minevik las jääb minevikuks.",
+            "Las ma puhkan natuke.",
+            "Las laps mängib.",
+            "Hea küll, las ta teeb nii, nagu tahab."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "let",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "пусть",
+                "weight": 1
+              },
+              {
+                "words": "давай",
+                "weight": 1
+              },
+              {
+                "words": "пускай",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "хай",
+                "weight": 1
+              },
+              {
+                "words": "нехай",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(möönvalt)",
+          "partOfSpeech": [
+            {
+              "code": "vrm",
+              "value": "muutevorm (ambivorm, määramata)"
+            }
+          ],
+          "examples": [
+            "Las ta räägib mis tahab, küll ta ükskord ära tüdineb.",
+            "Las imestab, miks ma nii vara magama läksin."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "пусть",
+                "weight": 1
+              },
+              {
+                "words": "пускай",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajalises seoses umbkaudu tähenduses 'oota/oodake, kuni')",
+          "partOfSpeech": [
+            {
+              "code": "vrm",
+              "value": "muutevorm (ambivorm, määramata)"
+            }
+          ],
+          "examples": [
+            "Las tütar lõpetab kooli, eks siis näe."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "пусть",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(juhtudel, kus kõneleja suunab käsu või palve kolmandale isikule või kus kõneleja on kolmandalt isikult saadud käsu või palve vahendaja)",
+          "partOfSpeech": [
+            {
+              "code": "vrm",
+              "value": "muutevorm (ambivorm, määramata)"
+            }
+          ],
+          "examples": [
+            "Las kaks meest peavad ümbrust silmas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "пусть",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "eks",
+        "eks",
+        "eks",
+        "noh",
+        "sorri",
+        "nojah",
+        "idiootne",
+        "kuda"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "las",
+      "translations": []
+    }
+  ]
+}

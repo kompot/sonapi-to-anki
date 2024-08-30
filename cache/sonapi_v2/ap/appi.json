@@ -1,0 +1,154 @@
+{
+  "requestedWord": "appi",
+  "estonianWord": "appi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "appi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellelegi töös, tegevuses või ohu korral abiks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Iga džentelemen tuleks daamile sellises olukorras appi.",
+            "Appi tuli õnnelik juhus.",
+            "Appi kutsuti päästekomando.",
+            "Tule mulle appi diivanit tõstma!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "au secours",
+                "weight": 1
+              },
+              {
+                "words": "à l’aide",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "на помощь",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на допомогу",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hädasolija hüüe, millega antakse märku, et on kiiresti abi vaja,kasuta siis, kui on ohtlik olukord ja kiiresti abi vaja",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "Keegi hüüab appi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "au secours",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "на помощь!",
+                "weight": 1
+              },
+              {
+                "words": "помогите!",
+                "weight": 1
+              },
+              {
+                "words": "караул",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "рятуйте!",
+                "weight": 1
+              },
+              {
+                "words": "пробі!",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(aitab rõhutada ehmatust, hämmastust, mõistmatust vm tunnet)",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "Moment oli tunne, et appi, ma jään auto alla.",
+            "Appi kui rumal. "
+          ],
+          "synonyms": [
+            "appike",
+            "appikene",
+            "karauul"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "караул",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "abi",
+        "appikarje",
+        "appikutse",
+        "appikene",
+        "abistama",
+        "appihüüd",
+        "appike",
+        "abi",
+        "kasutama",
+        "rakendama",
+        "ruttama",
+        "tõttama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "appi",
+      "translations": []
+    }
+  ]
+}

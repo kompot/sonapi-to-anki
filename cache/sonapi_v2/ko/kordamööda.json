@@ -1,0 +1,153 @@
+{
+  "requestedWord": "kordamööda",
+  "estonianWord": "kordamööda",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kordamööda"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "järjekorras, mitte korraga, enne üks, siis teine,teineteise järel, enne üks ja pärast teine",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mees rääkis kordamööda minu ja oma emaga.",
+            "Eestis elas naine kordamööda oma ema, õdede ja vendade pool.",
+            "Käisime kordamööda teda haiglas vaatamas.",
+            "Palun rääkige kordamööda!"
+          ],
+          "synonyms": [
+            "kordamisi",
+            "järgemööda"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "in turn",
+                "weight": 1
+              },
+              {
+                "words": "by turns",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "tour à tour",
+                "weight": 1
+              },
+              {
+                "words": "à tour de rôle",
+                "weight": 1
+              },
+              {
+                "words": "l'un après l'autre",
+                "weight": 1
+              },
+              {
+                "words": "l'une après l'autre",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "поочерёдно",
+                "weight": 1
+              },
+              {
+                "words": "попеременно",
+                "weight": 1
+              },
+              {
+                "words": "по очереди",
+                "weight": 1
+              },
+              {
+                "words": "по порядку",
+                "weight": 1
+              },
+              {
+                "words": "в порядке очерёдности",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "по черзі",
+                "weight": 1
+              },
+              {
+                "words": "почергово",
+                "weight": 1
+              },
+              {
+                "words": "навперемінно",
+                "weight": 1
+              },
+              {
+                "words": "по порядку",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vahelduvalt",
+        "järjekorras",
+        "vaheldumisi",
+        "korrastikku",
+        "järgepidi",
+        "kordamisi",
+        "järgemööda",
+        "korrast",
+        "mokkamööda",
+        "üksteise",
+        "ühekaupa",
+        "selgapidi",
+        "mitmekaupa",
+        "mitmekesi",
+        "pikkamööda",
+        "aegamööda",
+        "sedamööda",
+        "kümnekaupa",
+        "pidevalt",
+        "omavahel",
+        "kahekaupa",
+        "neljakaupa",
+        "ükshaaval",
+        "kildhaaval",
+        "korraga",
+        "kolmekaupa",
+        "läbi",
+        "kordama",
+        "kontimööda"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kordamööda",
+      "translations": [
+        "by turns",
+        "every one in his turn",
+        "in turn"
+      ]
+    }
+  ]
+}

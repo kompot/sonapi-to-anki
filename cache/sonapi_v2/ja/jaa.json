@@ -1,0 +1,347 @@
+{
+  "requestedWord": "jaa",
+  "estonianWord": "jaa",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "jaa"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "jaatussõna, mis osutab nõusolekule, kinnitab väidet või tugevdab selle jaatamist,küll, tõepoolest,sõna, mis väljendab nõusolekut või kinnitab väidet, soovi vms",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Jaa, mina olen poolt.",
+            "Oh jaa.",
+            "Kas tuled kaasa? – Jaa, muidugi."
+          ],
+          "synonyms": [
+            "jah",
+            "jep",
+            "jepp"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "oui",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "да",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "так",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jah",
+        "jaa-jaa",
+        "jajah",
+        "nojah",
+        "ahjaa",
+        "nojaa",
+        "noh",
+        "küssa",
+        "pohhui",
+        "nõnna",
+        "nämm-nämm",
+        "nämm-nämm",
+        "miuke",
+        "hahaa",
+        "tegelt",
+        "sittagi",
+        "hehee",
+        "nooh",
+        "kah",
+        "vot",
+        "jee"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "26",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "jaa"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "jaa"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "jaad"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "jaasse"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "jaas"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "jaast"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "jaale"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "jaal"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "jaalt"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "jaaks"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "jaani"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "jaana"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "jaata"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "jaaga"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "jaad"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "jaade"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "jaasid"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "jaadesse"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "jaades"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "jaadest"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "jaadele"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "jaadel"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "jaadelt"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "jaadeks"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "jaadeni"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "jaadena"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "jaadeta"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "jaadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nõusolek millekski, jaatav, positiivne otsus,jaatav otsus, nõusolek",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "jaa-sõna",
+            "jah-sõna",
+            "jaasõna",
+            "jah",
+            "luba",
+            "õnnistamine,õnnistus",
+            "nõusolek"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "да",
+                "weight": 1
+              },
+              {
+                "words": "согласие",
+                "weight": 1
+              },
+              {
+                "words": "утвердительный ответ",
+                "weight": 1
+              },
+              {
+                "words": "разрешение,пропуск",
+                "weight": 0.9
+              },
+              {
+                "words": "одобрение,согласие,разрешение,благословение",
+                "weight": 0.7
+              },
+              {
+                "words": "согласие",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "дозвіл",
+                "weight": 0.9
+              },
+              {
+                "words": "згода",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "accord",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "jaatav, positiivne otsus, nõusolek (nt milleski osalemiseks, millegi tegemiseks)",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "jaa",
+      "translations": [
+        "aye"
+      ]
+    }
+  ]
+}

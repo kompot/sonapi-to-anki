@@ -1,0 +1,415 @@
+{
+  "requestedWord": "kesk",
+  "estonianWord": "kesk",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kesk"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi keskel, keset midagi",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Jättis auto suvalise koha peal kesk teed seisma.",
+            "Maja asus kesk soid ja rabasid."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "среди",
+                "weight": 1
+              },
+              {
+                "words": "посредине",
+                "weight": 1
+              },
+              {
+                "words": "посреди",
+                "weight": 1
+              },
+              {
+                "words": "в середине",
+                "weight": 1
+              },
+              {
+                "words": "средь",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajaliselt:) millegi toimumise ajal, keskpaiku",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Kesk vaikust kõlas röögatus."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "среди",
+                "weight": 1
+              },
+              {
+                "words": "посредине",
+                "weight": 1
+              },
+              {
+                "words": "посреди",
+                "weight": 1
+              },
+              {
+                "words": "средь",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "keskel",
+        "keskpaiku",
+        "keset",
+        "keski",
+        "ajaliselt",
+        "keskvõrre",
+        "tuisupea",
+        "keskkeha",
+        "keska"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kesk"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "keski"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "keski"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "keski"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "keskisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "keskis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "keskist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "keskile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "keskil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "keskilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "keskiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "keskini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "keskina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "keskita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "keskiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "keskid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "keskide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "keske,keskisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "keskidesse,keskesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "keskides,keskes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "keskidest,keskest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "keskidele,keskele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "keskidel,keskel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "keskidelt,keskelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "keskideks,keskeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "keskideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "keskidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "keskideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "keskidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Eestis 1991. aastal asutatud erakond nimega Eesti Keskerakond",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ta visati keskist välja."
+          ],
+          "synonyms": [
+            "keskerakond"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "Центристская партия",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "1991. aastal loodud Eesti Keskerakonna liige",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Minu arvates saaksid sotsid ja keskid head koostööd teha, oleks tugev valitsus."
+          ],
+          "synonyms": [
+            "keskerakondlane",
+            "kesik"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "центрист",
+                "weight": 1
+              },
+              {
+                "words": "центристка",
+                "weight": 1
+              },
+              {
+                "words": "член Центристкой партии",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kesk"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingis suhtes (nt asendilt, ajaliselt, seisundilt) keskmine",
+          "partOfSpeech": [],
+          "examples": [
+            "Kesksuvi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "середина",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teiste suhtes juhtival kohal, tähtsuselt peamine või tsentraalne",
+          "partOfSpeech": [],
+          "examples": [
+            "Keskraamatukogu."
+          ],
+          "synonyms": [
+            "keskne,tuumne"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "центральный",
+                "weight": 1
+              },
+              {
+                "words": "основной,главный,центральный,ведущий",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "keskne",
+        "ajaliselt",
+        "tuisupea",
+        "keskkeha",
+        "keskvõrre",
+        "keska",
+        "keski",
+        "keskpaiku",
+        "keskel",
+        "keset"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kesk",
+      "translations": []
+    }
+  ]
+}

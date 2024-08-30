@@ -1,0 +1,341 @@
+{
+  "requestedWord": "audit",
+  "estonianWord": "audit",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "audit"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "auditi"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "auditit"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "auditisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "auditis"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "auditist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "auditile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "auditil"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "auditilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "auditiks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "auditini"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "auditina"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "auditita"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "auditiga"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "auditid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "auditite"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "auditeid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "audititesse,auditeisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "auditites,auditeis"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "audititest,auditeist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "audititele,auditeile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "audititel,auditeil"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "audititelt,auditeilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "audititeks,auditeiks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "audititeni"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "audititena"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "audititeta"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "audititega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ettevõtte majandustegevuse süstemaatiline ja sõltumatu kontroll",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Riigikontrolli audit tuvastas mõningaid puudusi ministeeriumi rahakasutuses."
+          ],
+          "synonyms": [
+            "audiitorkontroll",
+            "auditeerimine"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "audit",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "аудит",
+                "weight": 1
+              },
+              {
+                "words": "аудиторская проверка",
+                "weight": 1
+              },
+              {
+                "words": "аудиторский контроль",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi põhjalik analüüs, hetkeseisu hindav ülevaatus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tehniline audit on soovitatav kindlasti tellida enne uue maja ostmist.",
+            "Veebilehe audit.",
+            "Tegin veelkord oma tarbimises väiksemat sorti auditi ja kevadest alates väldin teadlikult plasti."
+          ],
+          "synonyms": [
+            "ülevaatus",
+            "kontroll",
+            "analüüs"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "аудит",
+                "weight": 1
+              },
+              {
+                "words": "проверка,контроль",
+                "weight": 0.7
+              },
+              {
+                "words": "анализ",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "contrôle,vérification",
+                "weight": 0.7
+              },
+              {
+                "words": "analyse",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "контроль,перевірка",
+                "weight": 0.7
+              },
+              {
+                "words": "аналіз",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "analysis",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kontroll",
+        "analüüs",
+        "ülevaatus",
+        "audiitorkontroll",
+        "siseaudit",
+        "energiaaudit",
+        "auditiivne"
+      ]
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "ettevõtte majandustegevuse süstemaatiline ja sõltumatu kontroll",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [
+            "audit",
+            "audiitorkontroll",
+            "auditeerimine"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "аудит",
+                "weight": 1
+              },
+              {
+                "words": "аудиторская проверка",
+                "weight": 1
+              },
+              {
+                "words": "аудиторский контроль",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "audit",
+      "translations": [
+        "audit",
+        "auditing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "requestedWord": "vahelt",
+  "estonianWord": "vahelt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vahelt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab kellegi või millegi lähtumisele, eraldumisele mingist ruumilisest vahemikust,kahe inimese või asja vaheliselt kohalt või vahelisest kohast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Raamatu vahelt kukkus välja rahatäht.",
+            "Kuu piilus pilve vahelt.",
+            "Õpikus on paar lehte vahelt kadunud.",
+            "Jooksin inimeste vahelt läbi.",
+            "Leidsin raamatu vahelt raha."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "entre",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "из",
+                "weight": 1
+              },
+              {
+                "words": "между",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з",
+                "weight": 1
+              },
+              {
+                "words": "з-поміж",
+                "weight": 1
+              },
+              {
+                "words": "між",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "koha väljendamisel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Teksad on jalge vahelt katki.",
+            "Pane uks vahelt kinni!"
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(ajaliselt:) kahe ajamomendi, sündmuse, tegevuse vahelisest ajast",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Mõnikord jääb toimetuste vahelt aega ka niisama istumiseks."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "seoses inimestevaheliste suhetega",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Vimm vendade vahelt ei kadunud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "между",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "läbi",
+        "vahetsi",
+        "vahel",
+        "vahele",
+        "vaheltharimine",
+        "pealt",
+        "sealt",
+        "vahelagi",
+        "alt",
+        "alt",
+        "vaheltkasu",
+        "vaheltlõige",
+        "juurest"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vahelt",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "requestedWord": "sõnama",
+  "estonianWord": "sõnama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "sõnan"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "sõnad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "sõnab"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "sõname"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "sõnate"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "sõnavad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "sõna"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "sõnatakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "sõnata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "sõnasin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "sõnasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "sõnas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "sõnasime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "sõnasite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "sõnasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "sõnati"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "sõnaksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "sõnaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "sõnaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "sõnaksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "sõnaksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "sõnaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "sõnataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "sõnanuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "sõnanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "sõnanuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "sõnanuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "sõnanuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "sõnanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "sõnatuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "sõnavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "sõnatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "sõnanuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "sõnatuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "sõna"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "sõnagem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "sõnage"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "sõnagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "sõnatagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "sõnama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "sõnamata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "sõnamas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "sõnamast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "sõnamaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "sõnatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "sõnada"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "sõnades"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "sõnav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "sõnatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "sõnanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "sõnanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "sõnatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "sõnatud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "midagi ütlema,ütlema (kasutatakse enamasti kirjalikus tekstis)",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Laulja sõnab, et kontsert toimub igal juhul.",
+            "„Ma pean nüüd tagasi minema,” sõnas neiu nipsakalt.",
+            "„Ma olen sinuga nõus,” sõnas Karmen."
+          ],
+          "synonyms": [
+            "lausuma",
+            "ütlema",
+            "märkima",
+            "tähendama",
+            "kostma",
+            "mainima",
+            "paotama",
+            "nimetama",
+            "teatama",
+            "pillama",
+            "suskama,sorkama,pistma,torkama"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "dire",
+                "weight": 1
+              },
+              {
+                "words": "dire",
+                "weight": 0.9
+              },
+              {
+                "words": "mentionner,signaler",
+                "weight": 0.9
+              },
+              {
+                "words": "mentionner",
+                "weight": 0.7
+              },
+              {
+                "words": "annoncer",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "говорить",
+                "weight": 1
+              },
+              {
+                "words": "сказать",
+                "weight": 1
+              },
+              {
+                "words": "произносить",
+                "weight": 1
+              },
+              {
+                "words": "произнести",
+                "weight": 1
+              },
+              {
+                "words": "проговорить",
+                "weight": 1
+              },
+              {
+                "words": "заметить",
+                "weight": 1
+              },
+              {
+                "words": "изрекать",
+                "weight": 1
+              },
+              {
+                "words": "изречь",
+                "weight": 1
+              },
+              {
+                "words": "молвить",
+                "weight": 1
+              },
+              {
+                "words": "промолвить",
+                "weight": 1
+              },
+              {
+                "words": "проговорить,сказать,промолвить,произнести,заметить",
+                "weight": 0.9
+              },
+              {
+                "words": "замечать,отмечать,отметить,заметить",
+                "weight": 0.9
+              },
+              {
+                "words": "отмечать,отметить,замечать,заметить,упомянуть,упоминать",
+                "weight": 0.9
+              },
+              {
+                "words": "отзываться,отозваться,откликаться,откликнуться,отвечать,ответить",
+                "weight": 0.9
+              },
+              {
+                "words": "называть,упоминать,назвать,сказать,упомянуть,говорить",
+                "weight": 0.7
+              },
+              {
+                "words": "сказать,обронить,произносить,произнести,обмолвиться,говорить,молвить",
+                "weight": 0.9
+              },
+              {
+                "words": "называть,упомянуть,упоминать,назвать",
+                "weight": 0.9
+              },
+              {
+                "words": "объявлять,докладывать,доложить,информировать,проинформировать,осведомлять,осведомить,сообщать,сообщить,извещать,известить,оповещать,оповестить,объявить,сообщаться",
+                "weight": 0.9
+              },
+              {
+                "words": "проронить,обронить",
+                "weight": 0.9
+              },
+              {
+                "words": "шпынять,кольнуть,укалывать,уколоть,колоть,ввернуть",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "казати",
+                "weight": 1
+              },
+              {
+                "words": "сказати",
+                "weight": 1
+              },
+              {
+                "words": "мовити",
+                "weight": 1
+              },
+              {
+                "words": "промовляти",
+                "weight": 1
+              },
+              {
+                "words": "промовити",
+                "weight": 1
+              },
+              {
+                "words": "промовити,сказати",
+                "weight": 0.9
+              },
+              {
+                "words": "відмітити,зауважити,відзначати,відзначити,відмічати,зауважувати",
+                "weight": 0.9
+              },
+              {
+                "words": "назвати,згадувати,згадати,називати",
+                "weight": 0.7
+              },
+              {
+                "words": "сповіщати,повідомляти,повідомити,сповістити,оповіщати,оповістити,доповідати,доповісти",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "tell,say",
+                "weight": 0.9
+              },
+              {
+                "words": "mention",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "nentima",
+        "kohmama",
+        "näpsama",
+        "iitsatama",
+        "tähendama",
+        "sähvima",
+        "kähvatama",
+        "pahvama",
+        "nähvatama",
+        "kostma",
+        "lajatama",
+        "sekka pistma",
+        "raiuma",
+        "rohmama",
+        "piiksatama",
+        "paotama",
+        "kähistama",
+        "vahele torkama",
+        "rehmama",
+        "pistma",
+        "kädistama",
+        "nimetama",
+        "näkku paiskama",
+        "pahvatama",
+        "kiitma",
+        "sähmama",
+        "ühmama",
+        "sisistama",
+        "teatama",
+        "poetama",
+        "kähmama",
+        "habisema",
+        "märkima",
+        "kähvama",
+        "iitsama",
+        "partsama",
+        "napsama",
+        "rapsama",
+        "torkama",
+        "kärtsatama",
+        "lausuma",
+        "sähvama",
+        "mühatama",
+        "kostitama",
+        "käristama",
+        "rahmama",
+        "turtsatama",
+        "prahvatama",
+        "ütlema",
+        "puksama",
+        "kraaksatama",
+        "põristama",
+        "nipsama",
+        "partsatama",
+        "nihvama",
+        "vahele pistma",
+        "sõnu suhu panema",
+        "nähvama",
+        "purskama",
+        "mainima",
+        "lahmama",
+        "suhistama",
+        "suskama",
+        "käratama",
+        "paiskama",
+        "lõikama",
+        "kõssama",
+        "piuksuma",
+        "piuksatama",
+        "tonksama",
+        "sahkama",
+        "kahmama",
+        "sahmama",
+        "mekutama",
+        "hammustama",
+        "mökutama",
+        "toksama",
+        "arbuma"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sõnama",
+      "translations": []
+    }
+  ]
+}

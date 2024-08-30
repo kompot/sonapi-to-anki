@@ -1,0 +1,508 @@
+{
+  "requestedWord": "ema",
+  "estonianWord": "ema",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "ema"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "ema"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "ema"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "emasse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "emas"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "emast"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "emale"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "emal"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "emalt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "emaks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "emani"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "emana"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "emata"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "emaga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "emad"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "emade"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "emasid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "emadesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "emades"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "emadest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "emadele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "emadel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "emadelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "emadeks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "emadeni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "emadena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "emadeta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "emadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "naissoost vanem, naine oma lapse või laste suhtes,naine, kellel on laps või lapsed",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kolme lapse ema.",
+            "Kellena su ema ja isa töötavad?"
+          ],
+          "synonyms": [
+            "emps",
+            "mamps",
+            "muti",
+            "mamma",
+            "emme,emm",
+            "vanem,lapsevanem",
+            "memm,memme"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "mother",
+                "weight": 1
+              },
+              {
+                "words": "mummy,mommy,mum,mom",
+                "weight": 0.9
+              },
+              {
+                "words": "parent",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "mère",
+                "weight": 1
+              },
+              {
+                "words": "maman",
+                "weight": 0.9
+              },
+              {
+                "words": "parent",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "мать",
+                "weight": 1
+              },
+              {
+                "words": "мама",
+                "weight": 1
+              },
+              {
+                "words": "мамаша",
+                "weight": 1
+              },
+              {
+                "words": "матушка",
+                "weight": 1
+              },
+              {
+                "words": "маман",
+                "weight": 1
+              },
+              {
+                "words": "маманя",
+                "weight": 1
+              },
+              {
+                "words": "матка",
+                "weight": 1
+              },
+              {
+                "words": "родительница",
+                "weight": 1
+              },
+              {
+                "words": "мамуся,мамуля,мама",
+                "weight": 0.9
+              },
+              {
+                "words": "мама,мамочка",
+                "weight": 0.9
+              },
+              {
+                "words": "родитель",
+                "weight": 0.9
+              },
+              {
+                "words": "мама,мамаша,бабушка,матушка",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "мати",
+                "weight": 1
+              },
+              {
+                "words": "мама",
+                "weight": 1
+              },
+              {
+                "words": "матінка,матуся,мама",
+                "weight": 0.9
+              },
+              {
+                "words": "батько,мати",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "emane loom oma otseste järglaste suhtes",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kassipoegade ema.",
+            "Linnuema."
+          ],
+          "synonyms": [
+            "emaloom,emasloom",
+            "emane"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "мать",
+                "weight": 1
+              },
+              {
+                "words": "самка,матка",
+                "weight": 0.7
+              },
+              {
+                "words": "самка,женская особь",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "femelle",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "самиця,самка",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingil alal eeskuju, juhatust andev naine,millegi naissoost algataja, looja või esindaja",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Vaimne ema.",
+            "Eesti teatrikunsti ema Lydia Koidula."
+          ],
+          "synonyms": [
+            "matriarh"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "мать",
+                "weight": 1
+              },
+              {
+                "words": "матриарх",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kõrgem (katoliku) naisvaimulik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ema Teresa lõi oma eluajal Indias heategevusmisjoni ordu, mis aitas vaeseid ja haigeid inimesi.",
+            "Püha ema vananevat, aga kaunilt karmi nägu raamib sünge nunnatanu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "мать",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "puulaeva või -paadi põhja pikisuunas läbiv tala, mille külge kinnitub paadi või laeva sõrestik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tema kiilu, üsna väikest nagu kõigil Põhjala laevadel, kutsuti emapuuks või lihtsalt emaks."
+          ],
+          "synonyms": [
+            "andur",
+            "emapuu",
+            "laevaema",
+            "põhjapuu",
+            "kiil"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "киль",
+                "weight": 1
+              },
+              {
+                "words": "днищевый стрингер",
+                "weight": 1
+              },
+              {
+                "words": "днищевый стрингер,киль",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "emasloom",
+        "matriarh",
+        "põhjapuu",
+        "laevaema",
+        "emapuu",
+        "emane",
+        "emps",
+        "mamma",
+        "põhjapanija",
+        "mamps",
+        "memm",
+        "pioneer",
+        "demiurg",
+        "emm",
+        "looja",
+        "looja",
+        "algataja",
+        "eit",
+        "emme",
+        "muti",
+        "alusepanija",
+        "rajaleidja",
+        "teerajaja",
+        "lapsevanem",
+        "mammi",
+        "amm",
+        "emalik",
+        "kasuema",
+        "vanaema",
+        "pereema",
+        "emaema",
+        "vanavanaema",
+        "mutter",
+        "tütar",
+        "laps",
+        "tädi",
+        "naine",
+        "pere",
+        "vanaisa",
+        "õde",
+        "lesknaine",
+        "issi",
+        "vanatädi",
+        "poja",
+        "lapsesuu",
+        "emaisa",
+        "täditütar",
+        "poisipõnn",
+        "isa",
+        "lapseke",
+        "süürlanna",
+        "vennanaine",
+        "abikaasa",
+        "mampsel"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ema",
+      "translations": [
+        "Ma",
+        "momma",
+        "mommy",
+        "mother"
+      ]
+    }
+  ]
+}

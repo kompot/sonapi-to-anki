@@ -1,0 +1,129 @@
+{
+  "requestedWord": "seas",
+  "estonianWord": "seas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "seas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingis rühmas, kellegi keskel,kellegagi koos,mingis grupis, kellegi keskel",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Ta oli omavanuste seas võitmatu.",
+            "Sportautode seas domineeris Ferrari.",
+            "Kinkide seas hakkas silma üks luulekogu.",
+            "Elab ikka inimeste seas ja mitte metsaloomade keskel ..",
+            "Tema loengud on üliõpilaste seas väga hinnatud.",
+            "Euroopa riikide seas on Eesti üks väiksemaid."
+          ],
+          "synonyms": [
+            "hulgas"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "among",
+                "weight": 1
+              },
+              {
+                "words": "amongst",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "parmi",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "среди",
+                "weight": 1
+              },
+              {
+                "words": "в числе",
+                "weight": 1
+              },
+              {
+                "words": "в кругу",
+                "weight": 1
+              },
+              {
+                "words": "в ряду",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "между",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "серед",
+                "weight": 1
+              },
+              {
+                "words": "посеред",
+                "weight": 1
+              },
+              {
+                "words": "між",
+                "weight": 1
+              },
+              {
+                "words": "поміж",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "keskel",
+        "killas",
+        "mestis",
+        "kirjas",
+        "seltsis",
+        "hulgas",
+        "kambas",
+        "hulka",
+        "seast",
+        "seasink",
+        "hulgast"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "seas",
+      "translations": [
+        "amidst",
+        "among",
+        "amongst",
+        "inter"
+      ]
+    }
+  ]
+}

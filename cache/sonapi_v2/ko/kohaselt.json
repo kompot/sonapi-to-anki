@@ -1,0 +1,172 @@
+{
+  "requestedWord": "kohaselt",
+  "estonianWord": "kohaselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kohaselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegagi kooskõlas, millelegi vastavalt või sobivalt, millestki lähtudes,millestki lähtudes, millegagi kooskõlas, millegi järgi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Seda tehti igivana kombe kohaselt.",
+            "Esialgse plaani kohaselt pidi siia tulema kaubanduskeskus.",
+            "Et saatkonnalaevale kohaselt sadamasse purjetada, tuli paar tundi tõusuvett oodata.",
+            "Kõik toimus kokkuleppe kohaselt.",
+            "Esialgse plaani kohaselt pidi hoone valmima sel aastal."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "selon",
+                "weight": 1
+              },
+              {
+                "words": "d'après",
+                "weight": 1
+              },
+              {
+                "words": "conformément à",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "по",
+                "weight": 1
+              },
+              {
+                "words": "согласно",
+                "weight": 1
+              },
+              {
+                "words": "соответственно",
+                "weight": 1
+              },
+              {
+                "words": "сообразно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "згідно з",
+                "weight": 1
+              },
+              {
+                "words": "відповідно до",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingi allika, arvamuse vms põhjal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Vanade kreeklaste uskumuste kohaselt elasid jumalad Olümposel.",
+            "Tema oletuse kohaselt võis see juhtuda umbes nii."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "соответственно",
+                "weight": 1
+              },
+              {
+                "words": "сообразно",
+                "weight": 1
+              },
+              {
+                "words": "согласно",
+                "weight": 1
+              },
+              {
+                "words": "в соответствии",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sündsalt",
+        "inimese moodi",
+        "vastavalt",
+        "sobilikult",
+        "mööda",
+        "kombekohaselt",
+        "sobivalt",
+        "järgi",
+        "mõistlikult",
+        "koheselt",
+        "vormikohaselt",
+        "tavakohaselt",
+        "kavakohaselt",
+        "seisusekohaselt",
+        "päevakohaselt",
+        "seadusekohaselt",
+        "jõukohaselt",
+        "alusel",
+        "otstarbekohaselt",
+        "tõttu",
+        "ajakohaselt",
+        "põhjal",
+        "ebakohaselt",
+        "asjakohaselt",
+        "käigus",
+        "tulemusena",
+        "võimetekohaselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kohaselt",
+      "translations": [
+        "according",
+        "according to",
+        "becomingly",
+        "befittingly",
+        "in pursuance of",
+        "pursuant to"
+      ]
+    }
+  ]
+}

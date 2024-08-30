@@ -1,0 +1,134 @@
+{
+  "requestedWord": "osaliselt",
+  "estonianWord": "osaliselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "osaliselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingil määral, mitte terviklikult või täielikult,mingis osas, osadena,mitte täielikult, aga mingil määral",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Osaliselt vastab see ehk ka tõele.",
+            "Mälestused on udused ning osaliselt ka kustunud.",
+            "Õnnetus oli osaliselt minu süü.",
+            "Liiklus on osaliselt piiratud."
+          ],
+          "synonyms": [
+            "osalt",
+            "ositi",
+            "tükati",
+            "jaoti",
+            "osati",
+            "pool"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "en partie",
+                "weight": 1
+              },
+              {
+                "words": "partiellement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "частично",
+                "weight": 1
+              },
+              {
+                "words": "отчасти",
+                "weight": 1
+              },
+              {
+                "words": "частью",
+                "weight": 1
+              },
+              {
+                "words": "местами",
+                "weight": 1
+              },
+              {
+                "words": "по частям",
+                "weight": 1
+              },
+              {
+                "words": "частями",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "частково",
+                "weight": 1
+              },
+              {
+                "words": "почасти",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pooliti",
+        "osalt",
+        "ositi",
+        "jaolt",
+        "pooleldi",
+        "jaoti",
+        "jaoti",
+        "sisuliselt",
+        "lõplikult",
+        "siiski",
+        "kapitaalselt",
+        "kahjumlikult",
+        "ilmselt",
+        "tõenäoliselt",
+        "samuti",
+        "tervikuna",
+        "täielikult",
+        "ajutiselt",
+        "peaaegu",
+        "tervenisti",
+        "täieliselt",
+        "suuresti",
+        "täielikumalt",
+        "suureliselt",
+        "valdavalt",
+        "täiesti"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "osaliselt",
+      "translations": [
+        "half",
+        "in part",
+        "partially",
+        "partly",
+        "semi-"
+      ]
+    }
+  ]
+}

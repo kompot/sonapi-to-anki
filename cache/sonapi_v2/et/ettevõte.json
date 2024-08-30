@@ -1,0 +1,477 @@
+{
+  "requestedWord": "ettevõte",
+  "estonianWord": "ettevõte",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "06",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "ettevõte"
+        },
+        {
+          "inflectionType": "06",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "ettevõtte"
+        },
+        {
+          "inflectionType": "06",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "ettevõtet"
+        },
+        {
+          "inflectionType": "06",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "06",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "ettevõttesse"
+        },
+        {
+          "inflectionType": "06",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "ettevõttes"
+        },
+        {
+          "inflectionType": "06",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "ettevõttest"
+        },
+        {
+          "inflectionType": "06",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "ettevõttele"
+        },
+        {
+          "inflectionType": "06",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "ettevõttel"
+        },
+        {
+          "inflectionType": "06",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "ettevõttelt"
+        },
+        {
+          "inflectionType": "06",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "ettevõtteks"
+        },
+        {
+          "inflectionType": "06",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "ettevõtteni"
+        },
+        {
+          "inflectionType": "06",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "ettevõttena"
+        },
+        {
+          "inflectionType": "06",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "ettevõtteta"
+        },
+        {
+          "inflectionType": "06",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "ettevõttega"
+        },
+        {
+          "inflectionType": "06",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "ettevõtted"
+        },
+        {
+          "inflectionType": "06",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "ettevõtete"
+        },
+        {
+          "inflectionType": "06",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "ettevõtteid"
+        },
+        {
+          "inflectionType": "06",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "ettevõtetesse,ettevõtteisse"
+        },
+        {
+          "inflectionType": "06",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "ettevõtetes,ettevõtteis"
+        },
+        {
+          "inflectionType": "06",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "ettevõtetest,ettevõtteist"
+        },
+        {
+          "inflectionType": "06",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "ettevõtetele,ettevõtteile"
+        },
+        {
+          "inflectionType": "06",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "ettevõtetel,ettevõtteil"
+        },
+        {
+          "inflectionType": "06",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "ettevõtetelt,ettevõtteilt"
+        },
+        {
+          "inflectionType": "06",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "ettevõteteks,ettevõtteiks"
+        },
+        {
+          "inflectionType": "06",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "ettevõteteni"
+        },
+        {
+          "inflectionType": "06",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "ettevõtetena"
+        },
+        {
+          "inflectionType": "06",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "ettevõteteta"
+        },
+        {
+          "inflectionType": "06",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "ettevõtetega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mis tahes majandusharus tegutsev iseseisev majandusüksus,organisatsioon, mis toodab või müüb kaupu või osutab raha eest teenuseid",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Monopoolne ettevõte.",
+            "Ettevõte läks pankrotti.",
+            "Töötan ettevõttes, mis tegeleb autode remondiga.",
+            "Kellele see ettevõte kuulub?"
+          ],
+          "synonyms": [
+            "firma",
+            "äri",
+            "kompanii",
+            "tööstusettevõte,tööstus",
+            "käitis"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "entreprise",
+                "weight": 1
+              },
+              {
+                "words": "société",
+                "weight": 1
+              },
+              {
+                "words": "compagnie",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "фирма",
+                "weight": 1
+              },
+              {
+                "words": "предприятие",
+                "weight": 1
+              },
+              {
+                "words": "бизнес,дело",
+                "weight": 0.511
+              },
+              {
+                "words": "компания",
+                "weight": 0.7
+              },
+              {
+                "words": "промышленное предприятие,промпредприятие",
+                "weight": 0.7
+              },
+              {
+                "words": "предприятие",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "фірма",
+                "weight": 1
+              },
+              {
+                "words": "підприємство",
+                "weight": 1
+              },
+              {
+                "words": "компанія",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingil kindlal eesmärgil tegutsemine, käsile võetud tegu, üritus,see, kui sa üritad midagi teha",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mälestuste kirjutamine on riskantne ettevõte – võib eksida ajaloolise tõe vastu, mälu ei ole kuigi usaldatav järjehoidja jne."
+          ],
+          "synonyms": [
+            "ettevõtmine",
+            "sündmus,üritus",
+            "aktsioon",
+            "toiming",
+            "algatus",
+            "tegemine",
+            "tegevus",
+            "initsiatiiv"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "мероприятие",
+                "weight": 1
+              },
+              {
+                "words": "предприятие",
+                "weight": 1
+              },
+              {
+                "words": "дело",
+                "weight": 1
+              },
+              {
+                "words": "начинание,мероприятие,предприятие",
+                "weight": 0.8202
+              },
+              {
+                "words": "акция,действие",
+                "weight": 0.9
+              },
+              {
+                "words": "заботы,деятельность,хлопоты,акция,дело,действие,поступок",
+                "weight": 0.9
+              },
+              {
+                "words": "начинание,инициатива",
+                "weight": 0.9
+              },
+              {
+                "words": "деятельность,работа,занятие,дело",
+                "weight": 0.7
+              },
+              {
+                "words": "занятие,деятельность,действие,дело",
+                "weight": 0.7
+              },
+              {
+                "words": "почин,инициатива",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "справа",
+                "weight": 1
+              },
+              {
+                "words": "починання",
+                "weight": 1
+              },
+              {
+                "words": "захід",
+                "weight": 1
+              },
+              {
+                "words": "починання,захід",
+                "weight": 0.8202
+              },
+              {
+                "words": "дія,акція",
+                "weight": 0.9
+              },
+              {
+                "words": "діяльність,діло,справа,дія",
+                "weight": 0.9
+              },
+              {
+                "words": "починання,почин,ініціатива",
+                "weight": 0.9
+              },
+              {
+                "words": "заняття,робота,справа",
+                "weight": 0.7
+              },
+              {
+                "words": "діяльність,робота,заняття",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "événement",
+                "weight": 0.8202
+              },
+              {
+                "words": "acte",
+                "weight": 0.9
+              },
+              {
+                "words": "initiative",
+                "weight": 0.9
+              },
+              {
+                "words": "activité",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "event",
+                "weight": 0.8202
+              },
+              {
+                "words": "initiative",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "õmblusettevõte",
+        "ühisettevõte",
+        "välisettevõte",
+        "veondusettevõte",
+        "variettevõte",
+        "tütarettevõte",
+        "transpordiettevõte",
+        "toitlustusettevõte",
+        "telekomiettevõte",
+        "teenindusettevõte",
+        "sponsorettevõte",
+        "spin-off-ettevõte",
+        "sidusettevõte",
+        "šeffettevõte",
+        "riigiettevõte",
+        "remondiettevõte",
+        "rasketööstusettevõte",
+        "põllumajandusettevõte",
+        "pisiettevõte",
+        "munitsipaalettevõte",
+        "majutusettevõte",
+        "loomeettevõte",
+        "liisinguettevõte",
+        "liisingettevõte",
+        "laevandusettevõte",
+        "kääbusettevõte",
+        "kommunaalettevõte",
+        "kergetööstusettevõte",
+        "kaubandusettevõte",
+        "jäätmekäitlusettevõte",
+        "inkubaatoriettevõte",
+        "hargettevõte",
+        "gasellettevõte",
+        "eraettevõte",
+        "ehitusettevõte",
+        "aktsiaettevõte",
+        "algatus",
+        "üritus",
+        "käitis",
+        "initsiatiiv",
+        "aktsioon",
+        "eestvedamine",
+        "ettevõtmine",
+        "firma",
+        "omaalgatus",
+        "äri",
+        "toiming",
+        "tootmisettevõte",
+        "emaettevõte",
+        "väikeettevõte",
+        "abiettevõte",
+        "partnerettevõte",
+        "suurettevõte",
+        "börsiettevõte",
+        "mikroettevõte",
+        "sõsarettevõte",
+        "pereettevõte",
+        "iduettevõte",
+        "äriettevõte",
+        "veoettevõte",
+        "kontsern",
+        "tööstusettevõte",
+        "rendiettevõte",
+        "allettevõte"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ettevõte",
+      "translations": [
+        "company",
+        "enterprise",
+        "organisation"
+      ]
+    }
+  ]
+}

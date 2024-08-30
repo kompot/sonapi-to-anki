@@ -1,0 +1,110 @@
+{
+  "requestedWord": "asemele",
+  "estonianWord": "asemele",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "asemele"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi muu või kellegi teise asendajaks, samale kohale,osutab, et keegi või miski tuleb kellegi või millegi kohale",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Vanade puumajade asemele ehitati moodsad kõrghooned.",
+            "Sisalikul kasvab murdunud saba asemele uus.",
+            "Kui tema ära läheb, siis pole kedagi asemele võtta.",
+            "Endise töötaja asemele otsitakse uut.",
+            "Vanade majade asemele ehitatakse uued."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "instead",
+                "weight": 1
+              },
+              {
+                "words": "instead of",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "à la place",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вместо",
+                "weight": 1
+              },
+              {
+                "words": "взамен",
+                "weight": 1
+              },
+              {
+                "words": "на место",
+                "weight": 1
+              },
+              {
+                "words": "на месте",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "замість",
+                "weight": 1
+              },
+              {
+                "words": "натомість",
+                "weight": 1
+              },
+              {
+                "words": "на місце",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "asuma",
+        "asendama",
+        "astuma",
+        "kohale tulema",
+        "vastu",
+        "kõrvale",
+        "asemel",
+        "juurde"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "asemele",
+      "translations": []
+    }
+  ]
+}

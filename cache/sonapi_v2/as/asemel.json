@@ -1,0 +1,129 @@
+{
+  "requestedWord": "asemel",
+  "estonianWord": "asemel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "asemel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi muu või kellegi teise asendajana, samas funktsioonis,osutab, et mingit tegevust või olukorda asendab mingi muu tegevus või olukord,osutab, et keegi või miski asendab kedagi või midagi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Parema jala asemel oli tal protees.",
+            "Tegi allkirja asemel kolm risti.",
+            "Mine sina täna minu asemel.",
+            "Ma ei tea, mis ma tema asemel oleksin teinud.",
+            "Kui üks väsis, oli kohe teine asemel.",
+            "Mida sina minu asemel teeksid?",
+            "Võtsime kassi asemel koera.",
+            "Õppimise asemel läksid poisid kinno.",
+            "Kasu asemel saadi kahju.",
+            "Ausa ülestunnistamise asemel hakkas ta teisi süüdistama."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "instead",
+                "weight": 1
+              },
+              {
+                "words": "instead of",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вместо",
+                "weight": 1
+              },
+              {
+                "words": "взамен",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "заместо",
+                "weight": 1
+              },
+              {
+                "words": "на место",
+                "weight": 1
+              },
+              {
+                "words": "на месте",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "замість",
+                "weight": 1
+              },
+              {
+                "words": "натомість",
+                "weight": 1
+              },
+              {
+                "words": "на місці",
+                "weight": 1
+              },
+              {
+                "words": "на місце",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ette",
+        "eest",
+        "pähe",
+        "pähe",
+        "kõrval",
+        "kõrval",
+        "puhul",
+        "asemele"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "asemel",
+      "translations": [
+        "in exchange",
+        "in lieu of",
+        "in place of",
+        "instead of",
+        "interchangeably",
+        "(kellegi) in your place",
+        "pro"
+      ]
+    }
+  ]
+}

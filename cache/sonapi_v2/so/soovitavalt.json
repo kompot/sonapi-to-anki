@@ -1,0 +1,61 @@
+{
+  "requestedWord": "soovitavalt",
+  "estonianWord": "soovitavalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "soovitavalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab mingile eelistusele, soovita(ta)vale tingimusele, tunnusele vms, mis pole samas kohustuslik",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Eeldame sel ametikohal kõrgharidust, soovitavalt akadeemilist kõrgharidust.",
+            "Palavuse vastu nii kodus kui kontoris aitab hea joogivesi, soovitavalt jääga.",
+            "Jälle on moes tukad, soovitavalt hakitud ja astmelised."
+          ],
+          "synonyms": [
+            "soovitatavalt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "желательно",
+                "weight": 1
+              },
+              {
+                "words": "предпочтительно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "soovitavalt",
+      "translations": [
+        "desirably"
+      ]
+    }
+  ]
+}

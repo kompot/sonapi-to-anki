@@ -1,0 +1,329 @@
+{
+  "requestedWord": "eel",
+  "estonianWord": "eel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vahetult enne,aja kohta: vahetult enne",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Õhtu eel.",
+            "Valimiste eel.",
+            "Õhtu eel läks taevas selgeks.",
+            "Pruut oli pulmade eel närviline.",
+            "Pühade eel on lühem tööpäev."
+          ],
+          "synonyms": [
+            "eeli"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "avant",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "перед",
+                "weight": 1
+              },
+              {
+                "words": "накануне",
+                "weight": 1
+              },
+              {
+                "words": "под",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "перед",
+                "weight": 1
+              },
+              {
+                "words": "під",
+                "weight": 1
+              },
+              {
+                "words": "напередодні",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lõpuõhtu",
+        "käigus",
+        "alguses",
+        "eelõhtu",
+        "lõpus",
+        "puhul",
+        "ajal",
+        "järel",
+        "järel"
+      ]
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eel-"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(vahetult) enne käesolevat olnud, tehtud, toimunud vms, eelmine või varasem",
+          "partOfSpeech": [],
+          "examples": [
+            "Eelinfo.",
+            "Eeltingimus.",
+            "Eeltöö.",
+            "Eelvaade.",
+            "Eeluurimine."
+          ],
+          "synonyms": [
+            "eelnev",
+            "eelne",
+            "varem",
+            "eks,endine,kunagine",
+            "eelnenud",
+            "läinud,minev,minevane,möödunud,eelmine",
+            "varasem,varajasem"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "предшествующий",
+                "weight": 1
+              },
+              {
+                "words": "предыдущий",
+                "weight": 1
+              },
+              {
+                "words": "пред,предшествовавший,бывший до,до,до",
+                "weight": 0.546
+              },
+              {
+                "words": "прежний,прошлый",
+                "weight": 0.9
+              },
+              {
+                "words": "былой,прошлый,экс,бывший,прежний,давний",
+                "weight": 0.9
+              },
+              {
+                "words": "предыдущий,прошлый,минувший,прошедший,истекший,прежний,предшествующий",
+                "weight": 0.9
+              },
+              {
+                "words": "более ранний,прежний",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "ancien",
+                "weight": 0.9
+              },
+              {
+                "words": "précédent,d'avant,dernier",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "колишній,минулий,давній",
+                "weight": 0.9
+              },
+              {
+                "words": "попередній,колишній,минулий",
+                "weight": 0.9
+              },
+              {
+                "words": "колишній,давніший",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millestki toimuvast, tehtavast varem",
+          "partOfSpeech": [],
+          "examples": [
+            "Eelregistreerima.",
+            "Eelküpsetama.",
+            "Eelidandama."
+          ],
+          "synonyms": [
+            "eelnevalt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "предварительно",
+                "weight": 1
+              },
+              {
+                "words": "заранее",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tekstis, tegevuses) eelnevalt, varem, enne teatavat asja,(tekstis) varem",
+          "partOfSpeech": [],
+          "examples": [
+            "Eelnimetatud.",
+            "Eelmainitud.",
+            "Eeltoodu."
+          ],
+          "synonyms": [
+            "eelpool",
+            "eespool",
+            "ülal,ülalpool,ülevalpool"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "précédemment",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "выше",
+                "weight": 1
+              },
+              {
+                "words": "ранее",
+                "weight": 1
+              },
+              {
+                "words": "выше,ранее",
+                "weight": 0.511
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вище",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "madujas peene soomusega vääriskala,madu meenutav kala",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "mereuss",
+            "angerjas"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "anguille",
+                "weight": 1
+              }
+            ],
+            "lat": [
+              {
+                "words": "Anguilla anguilla",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "угорь",
+                "weight": 1
+              },
+              {
+                "words": "речной угорь",
+                "weight": 1
+              },
+              {
+                "words": "европейский угорь",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вугор",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "angerjaliha toiduna",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "angerjas"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "угорь",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "eel",
+      "translations": []
+    }
+  ]
+}

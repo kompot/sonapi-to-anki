@@ -1,0 +1,127 @@
+{
+  "requestedWord": "küljes",
+  "estonianWord": "küljes",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "küljes"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millelegi kinnitatuna,milleski, kuskil kinni",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Küünlad on kuuse küljes.",
+            "Räästa küljes rippus vaskkell.",
+            "Puu küljes on veel mõned lehed.",
+            "Katuse küljes rippusid ohtlikud jääpurikad."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "haardega, hoidega kelleski, milleski kinni,millelegi väga lähedal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Laps rippus nagu takjas küljes.",
+            "Auto auto küljes kinni.",
+            "Tal on kodukoht väga südame küljes.",
+            "mu süda on kodu küljes."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "seisundis, millega kaasneb midagi halvaks peetavat",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tal on viinaviga küljes.",
+            "Kogu eluks märk küljes."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(haige-oleku kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mis haigus tal küljes on?"
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "juures",
+        "man",
+        "ääres",
+        "all",
+        "külge",
+        "küljeti",
+        "sees",
+        "sees",
+        "otsas",
+        "tagaotsas",
+        "küljeuks",
+        "põlveotsas"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "küljes",
+      "translations": []
+    }
+  ]
+}

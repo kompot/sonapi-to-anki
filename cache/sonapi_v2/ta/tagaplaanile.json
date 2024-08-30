@@ -1,0 +1,74 @@
+{
+  "requestedWord": "tagaplaanile",
+  "estonianWord": "tagaplaanile",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tagaplaanile"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teisejärgulisele, vähemtähtsale kohale või positsioonile",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tõbede ennetamine on jäänud tagaplaanile.",
+            "Hobusekasvatus jäi tagaplaanile, minetas oma tähtsuse."
+          ],
+          "synonyms": [
+            "tahaplaanile",
+            "vari"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "на задний план",
+                "weight": 1
+              },
+              {
+                "words": "тень",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kõrvale",
+        "eemale",
+        "tagaplaanil",
+        "soiku",
+        "esiplaanile",
+        "tagapoolne",
+        "tagapool",
+        "tahaplaanile",
+        "unarusse",
+        "tagaplaan",
+        "unarule",
+        "käekõrvale",
+        "seljataha",
+        "paigale"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tagaplaanile",
+      "translations": []
+    }
+  ]
+}

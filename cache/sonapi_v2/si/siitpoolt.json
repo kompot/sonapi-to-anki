@@ -1,0 +1,95 @@
+{
+  "requestedWord": "siitpoolt",
+  "estonianWord": "siitpoolt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "siitpoolt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(kuskilt) siit,siit kandist, siit suunast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Siitpoolt läheb tee Tallinnasse."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "с этой стороны",
+                "weight": 1
+              },
+              {
+                "words": "отсюда",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi või kellegi suhtes samal pool",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Siitpoolt kallast käimiseks pole head teed."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "с этой стороны",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "siitkandist",
+        "siit",
+        "tagantpoolt",
+        "eestpoolt",
+        "sealt",
+        "siitkaudu",
+        "pealtpoolt",
+        "ülevaltpoolt",
+        "ülaltpoolt",
+        "siitsamast",
+        "siitmaalt",
+        "siitpeale",
+        "muidugist",
+        "siit-sealt",
+        "siitmailt",
+        "sealtpoolt",
+        "altpoolt",
+        "kustpoolt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "siitpoolt",
+      "translations": []
+    }
+  ]
+}

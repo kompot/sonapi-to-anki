@@ -1,0 +1,123 @@
+{
+  "requestedWord": "vabandust",
+  "estonianWord": "vabandust",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vabandust"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "viisakussõna, mida kasutatakse viisakal pöördumisel või vabandamisel,sõna, mida sa kasutad, kui tahad viisakalt midagi küsida või teatada või kui soovid, et keegi sulle midagi andestaks",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "Vabandust, kas te väljute?",
+            "Vabandust, ma ajasin jälle kõik segamini!",
+            "Vabandust, et hilinesin!",
+            "Vabandust, kas te teate, kus siin lähedal mõni pood on?"
+          ],
+          "synonyms": [
+            "vabandage",
+            "andestust",
+            "andke andeks",
+            "andestage",
+            "sorri",
+            "pardonks",
+            "pardon",
+            "sorry"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "sorry",
+                "weight": 1
+              },
+              {
+                "words": "I'm sorry",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "excusez-moi",
+                "weight": 1
+              },
+              {
+                "words": "pardon",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "извините",
+                "weight": 1
+              },
+              {
+                "words": "простите",
+                "weight": 1
+              },
+              {
+                "words": "пардон",
+                "weight": 1
+              },
+              {
+                "words": "извиняюсь",
+                "weight": 1
+              },
+              {
+                "words": "сорри",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "перепрошую",
+                "weight": 1
+              },
+              {
+                "words": "вибачте",
+                "weight": 1
+              },
+              {
+                "words": "пробачте",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pardon",
+        "pardonks",
+        "anna",
+        "vabandus",
+        "vabandatav",
+        "vabandama",
+        "vabandavalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vabandust",
+      "translations": [
+        "oops"
+      ]
+    }
+  ]
+}

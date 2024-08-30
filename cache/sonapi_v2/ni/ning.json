@@ -1,0 +1,171 @@
+{
+  "requestedWord": "ning",
+  "estonianWord": "ning",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ning"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(ühendavalt:) seob sisu poolest samaväärseid, võrreldavaid või loetletavaid sõnu, lauseosi või lauseid,seob sisu poolest võrdseid, võrreldavaid või üksteist täiendavaid sõnu ja lausete osi",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Nõuti korda ning viisakust.",
+            "Võiksime veiniklaasi taga kohtuda ning maailma asjad paika panna.",
+            "Jõudsin kohale ja asusin kohe talitama ning toimetama.",
+            "Mul on vaja su aadressi ning telefoninumbrit.",
+            "Läksin oma tuppa ning üritasin magama jääda.",
+            "Külalisi oli Euroopast ja Aasiast ning ka Ameerikast."
+          ],
+          "synonyms": [
+            "ja"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "and",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "и",
+                "weight": 1
+              },
+              {
+                "words": "а также",
+                "weight": 1
+              },
+              {
+                "words": "да",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "і",
+                "weight": 1
+              },
+              {
+                "words": "й",
+                "weight": 1
+              },
+              {
+                "words": "та",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "arvu ja määra märkimisel seob suuremat ja väiksemat koostisosa",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Viies albumitäis muusikat valmis kolme ning poole nädalaga."
+          ],
+          "synonyms": [
+            "ja"
+          ],
+          "translations": {}
+        },
+        {
+          "definition": "ja ühtlasi",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Nüüd tuleb kolmas ning viimane küsimus."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "seob sisu poolest vastanduvaid lauseosi",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Miks just nii ning mitte teisiti?"
+          ],
+          "synonyms": [
+            "ja"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "а",
+                "weight": 1
+              },
+              {
+                "words": "но",
+                "weight": 1
+              },
+              {
+                "words": "однако",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ja",
+        "kui",
+        "kui",
+        "seetõttu",
+        "kes",
+        "seeläbi",
+        "samuti",
+        "kus",
+        "kuigi",
+        "sest",
+        "kuna",
+        "kuna",
+        "mis",
+        "ent",
+        "mistõttu",
+        "seega",
+        "siis",
+        "kusjuures",
+        "ühtlasi",
+        "kuid",
+        "aga",
+        "aga",
+        "sealjuures"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ning",
+      "translations": []
+    }
+  ]
+}

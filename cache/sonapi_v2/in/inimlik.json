@@ -1,0 +1,451 @@
+{
+  "requestedWord": "inimlik",
+  "estonianWord": "inimlik",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "25",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "inimlik"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "inimliku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "inimlikku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "inimlikku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "inimlikusse"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "inimlikus"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "inimlikust"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "inimlikule"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "inimlikul"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "inimlikult"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "inimlikuks"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "inimlikuni"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "inimlikuna"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "inimlikuta"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "inimlikuga"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "inimlikud"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "inimlike,inimlikkude"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "inimlikke,inimlikkusid"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "inimlikesse,inimlikkudesse"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "inimlikes,inimlikkudes"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "inimlikest,inimlikkudest"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "inimlikele,inimlikkudele"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "inimlikel,inimlikkudel"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "inimlikelt,inimlikkudelt"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "inimlikeks,inimlikkudeks"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "inimlikeni,inimlikkudeni"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "inimlikena,inimlikkudena"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "inimliketa,inimlikkudeta"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "inimlikega,inimlikkudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "inimesele omane või loomupärane, eriti nõrkuste kohta,inimesele omane, inimesega seotud",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Jeesus Kristusel on kaks loomust, jumalik ja inimlik.",
+            "Hirm valu ees on igati loomulik ja inimlik nähtus.",
+            "Eksimine on inimlik.",
+            "Kas õnnetuse põhjustas tehniline viga või inimlik eksitus?"
+          ],
+          "synonyms": [
+            "üldinimlik",
+            "puhtinimlik",
+            "loomulik,loomupärane"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "humain",
+                "weight": 1
+              },
+              {
+                "words": "naturel",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "человеческий",
+                "weight": 1
+              },
+              {
+                "words": "людской",
+                "weight": 1
+              },
+              {
+                "words": "общечеловеческий",
+                "weight": 0.89
+              },
+              {
+                "words": "чисто человеческий",
+                "weight": 0.89
+              },
+              {
+                "words": "естественный",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "людський",
+                "weight": 1
+              },
+              {
+                "words": "людський",
+                "weight": 1
+              },
+              {
+                "words": "природний",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "inimväärikust austav, julmust ning asjatut rangust vältiv,lahke ja õiglane, mitte karm ega julm",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Töötajad on väga inimlikud ja suhtuvad patsientidesse väga hästi.",
+            "Siiras, inimlik lähedus."
+          ],
+          "synonyms": [
+            "humaanne",
+            "armuline",
+            "kristlik",
+            "inimsõbralik",
+            "leebe",
+            "õiglane"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "humain",
+                "weight": 1
+              },
+              {
+                "words": "chrétien",
+                "weight": 0.9
+              },
+              {
+                "words": "juste",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "гуманный",
+                "weight": 1
+              },
+              {
+                "words": "человечный",
+                "weight": 1
+              },
+              {
+                "words": "человеческий",
+                "weight": 1
+              },
+              {
+                "words": "человеколюбивый",
+                "weight": 1
+              },
+              {
+                "words": "благосклонный,милостивый",
+                "weight": 0.9
+              },
+              {
+                "words": "христианский",
+                "weight": 0.9
+              },
+              {
+                "words": "человеколюбивый",
+                "weight": 0.9
+              },
+              {
+                "words": "снисходительный,кроткий,нежный,лёгкий,покладистый,мягкий,скромный,незлобивый,ласковый",
+                "weight": 0.9
+              },
+              {
+                "words": "честный,правдивый,беспристрастный,справедливый,правдолюбивый,правый,правосудный,праведный",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "людяний",
+                "weight": 1
+              },
+              {
+                "words": "гуманний",
+                "weight": 1
+              },
+              {
+                "words": "християнський",
+                "weight": 0.9
+              },
+              {
+                "words": "справедливий,чесний",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "Christian",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(inimesele) vastuvõetav, normaalne, mugav vms",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Riietusruumid on inimlikes mõõtmetes.",
+            "Tähtajad peaksid olema inimlikud."
+          ],
+          "synonyms": [
+            "inimväärne,inimvääriline",
+            "vastuvõetav",
+            "talutav",
+            "normaalne"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "человеческий",
+                "weight": 1
+              },
+              {
+                "words": "нормальный",
+                "weight": 1
+              },
+              {
+                "words": "человечный,человеческий,достойный человека",
+                "weight": 0.89
+              },
+              {
+                "words": "приемлемый,сносный,подходящий,годный",
+                "weight": 0.9
+              },
+              {
+                "words": "сносный,терпимый,приемлемый,переносимый",
+                "weight": 0.9
+              },
+              {
+                "words": "нормальный",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "normal",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "нормальний",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "loomulik",
+        "kristlik",
+        "normaalne",
+        "vastuvõetav",
+        "talutav",
+        "üldinimlik",
+        "puhtinimlik",
+        "humaanne",
+        "inimväärne",
+        "inimsõbralik",
+        "",
+        "loomupärane",
+        "üldinimlikult",
+        "ebainimlik",
+        "inimlikum",
+        "ebainimlikkus",
+        "eluline",
+        "inimlikkus",
+        "inimlikult",
+        "egoistlik",
+        "loomalik",
+        "üleinimlik",
+        "üliinimlik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "inimlik",
+      "translations": [
+        "human",
+        "human-centered"
+      ]
+    }
+  ]
+}

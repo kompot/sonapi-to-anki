@@ -1,0 +1,115 @@
+{
+  "requestedWord": "seeläbi",
+  "estonianWord": "seeläbi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "seeläbi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sel põhjusel, selle tõttu,millegi vahendusel või abil,selle läbi, nii",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ehk muutub seeläbi õhk puhtamaks.",
+            "Võid seeläbi leida isegi uue armastuse.",
+            "Lülitan arvuti ööseks välja, et seeläbi säästa elektrit."
+          ],
+          "synonyms": [
+            "miska,mistõttu"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "ainsi",
+                "weight": 1
+              },
+              {
+                "words": "c'est pourquoi,c'est la raison pour laquelle",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "поэтому",
+                "weight": 1
+              },
+              {
+                "words": "оттого",
+                "weight": 1
+              },
+              {
+                "words": "почему,отчего,вследствие чего,из-за чего",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тому",
+                "weight": 1
+              },
+              {
+                "words": "через те",
+                "weight": 1
+              },
+              {
+                "words": "того",
+                "weight": 1
+              },
+              {
+                "words": "чому,чого,через що,внаслідок чого",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "misläbi",
+        "seetõttu",
+        "seepärast",
+        "sellepärast",
+        "seekaudu",
+        "sestap",
+        "mistõttu",
+        "toopärast",
+        "loomulikumalt",
+        "ning",
+        "samuti",
+        "paremini",
+        "oluliselt",
+        "niiviisi",
+        "vajalikult",
+        "seega",
+        "märkimisväärselt",
+        "ühtlasi",
+        "sedakaudu",
+        "veelgi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "seeläbi",
+      "translations": [
+        "hence",
+        "thereby"
+      ]
+    }
+  ]
+}

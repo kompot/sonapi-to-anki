@@ -1,0 +1,591 @@
+{
+  "requestedWord": "määr",
+  "estonianWord": "määr",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22i",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "määr"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "määra"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "määra"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "määra"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "määrasse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "määras"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "määrast"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "määrale"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "määral"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "määralt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "määraks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "määrani"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "määrana"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "määrata"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "määraga"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "määrad"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "määrade"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "määri,määrasid"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "määradesse,määrisse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "määrades,määris"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "määradest,määrist"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "määradele,määrile"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "määradel,määril"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "määradelt,määrilt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "määradeks,määriks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "määradeni"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "määradena"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "määradeta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "määradega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(mitmesugustes hulka, kogust, ulatust väljendavates ühendites)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "See ei huvita mind vähimalgi määral.",
+            "Kompaktlambid sisaldavad vähesel määral elavhõbedat.",
+            "Mingil määral on sul ju õiguski.",
+            "Plaan õnnestus täiel määral."
+          ],
+          "synonyms": [
+            "kogus,kvantum",
+            "ulatus",
+            "hulk",
+            "mõõde"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "степень",
+                "weight": 1
+              },
+              {
+                "words": "мера",
+                "weight": 1
+              },
+              {
+                "words": "объём,количество,партия",
+                "weight": 0.9
+              },
+              {
+                "words": "диапазон,дистанция,расстояние,объём,протяжённость,протяжение",
+                "weight": 0.9
+              },
+              {
+                "words": "количество,множество,число,объём",
+                "weight": 0.9
+              },
+              {
+                "words": "размеры,масштаб",
+                "weight": 0.75
+              }
+            ],
+            "ukr": [
+              {
+                "words": "міра",
+                "weight": 1
+              },
+              {
+                "words": "величина",
+                "weight": 1
+              },
+              {
+                "words": "обсяг",
+                "weight": 1
+              },
+              {
+                "words": "розмір",
+                "weight": 1
+              },
+              {
+                "words": "кількість,обсяг,партія",
+                "weight": 0.9
+              },
+              {
+                "words": "розмір,дистанція,протяжність,обсяг,довжина,величина,відстань",
+                "weight": 0.9
+              },
+              {
+                "words": "кількість,обсяг",
+                "weight": 0.9
+              },
+              {
+                "words": "масштаб,обсяг,розмір",
+                "weight": 0.75
+              }
+            ],
+            "fra": [
+              {
+                "words": "quantité",
+                "weight": 0.9
+              },
+              {
+                "words": "quantité,nombre",
+                "weight": 0.9
+              },
+              {
+                "words": "dimension",
+                "weight": 0.75
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi hulk või tase,hulk, kogus,tase",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Töötasu viidi vastavusse vastutuse määraga.",
+            "Joogi valitseb oma mõtteid sellise määrani, et tal neid enam ei olegi.",
+            "Töötuse määr on langenud.",
+            "Ma olen sinuga mingil määral nõus."
+          ],
+          "synonyms": [
+            "kvantum,kogus",
+            "aste,nivoo,tase",
+            "sisaldus",
+            "jagu",
+            "hulk",
+            "suurus",
+            "suurus",
+            "mõõt",
+            "kontsentratsioon"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "мера",
+                "weight": 1
+              },
+              {
+                "words": "размер",
+                "weight": 1
+              },
+              {
+                "words": "степень",
+                "weight": 1
+              },
+              {
+                "words": "партия,количество,объём",
+                "weight": 0.7
+              },
+              {
+                "words": "ступень,степень,уровень",
+                "weight": 0.9
+              },
+              {
+                "words": "содержание",
+                "weight": 0.7
+              },
+              {
+                "words": "на,со,около,с",
+                "weight": 0.9
+              },
+              {
+                "words": "объём,число,множество,количество",
+                "weight": 0.9
+              },
+              {
+                "words": "численность,площадь,размер,величина,объём",
+                "weight": 0.75
+              },
+              {
+                "words": "охват,предел,граница",
+                "weight": 0.75
+              },
+              {
+                "words": "мера",
+                "weight": 0.85
+              },
+              {
+                "words": "концентрация",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "міра",
+                "weight": 1
+              },
+              {
+                "words": "розмір",
+                "weight": 1
+              },
+              {
+                "words": "рівень",
+                "weight": 1
+              },
+              {
+                "words": "ступінь",
+                "weight": 1
+              },
+              {
+                "words": "партія,обсяг,кількість",
+                "weight": 0.7
+              },
+              {
+                "words": "рівень,ступінь",
+                "weight": 0.9
+              },
+              {
+                "words": "близько,з,із,зі,на",
+                "weight": 0.9
+              },
+              {
+                "words": "обсяг,кількість",
+                "weight": 0.9
+              },
+              {
+                "words": "величина,розмір",
+                "weight": 0.75
+              },
+              {
+                "words": "концентрація",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "quantité",
+                "weight": 0.7
+              },
+              {
+                "words": "niveau",
+                "weight": 0.9
+              },
+              {
+                "words": "nombre,quantité",
+                "weight": 0.9
+              },
+              {
+                "words": "taille",
+                "weight": 0.75
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi, hrl mingi tasu või maksu kindlaksmääratud suurus,mingi tasu või maksu kindlaks määratud suurus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Omafinantseeringu määr.",
+            "Maamaksu määr.",
+            "Aktsiisimäär.",
+            "Pensionimäär.",
+            "Riikliku pensioni määr oleneb sellest, kui kaua sa oled töötanud.",
+            "Kehtestati uued toetuse määrad."
+          ],
+          "synonyms": [
+            "ulatus",
+            "piirnorm",
+            "limiit",
+            "norm",
+            "tariif,taks,tasumäär"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "montant",
+                "weight": 1
+              },
+              {
+                "words": "norme",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "ставка",
+                "weight": 1
+              },
+              {
+                "words": "тариф",
+                "weight": 1
+              },
+              {
+                "words": "норма",
+                "weight": 1
+              },
+              {
+                "words": "такса",
+                "weight": 1
+              },
+              {
+                "words": "объём,диапазон,дистанция,расстояние,протяжение,протяжённость",
+                "weight": 0.9
+              },
+              {
+                "words": "лимит,предельная норма,предельный норматив",
+                "weight": 0.9
+              },
+              {
+                "words": "предельная норма,лимит",
+                "weight": 0.9
+              },
+              {
+                "words": "норма",
+                "weight": 0.9
+              },
+              {
+                "words": "такса,тариф,ставка",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ставка",
+                "weight": 1
+              },
+              {
+                "words": "тариф",
+                "weight": 1
+              },
+              {
+                "words": "норма",
+                "weight": 1
+              },
+              {
+                "words": "розмір,дистанція,протяжність,обсяг,довжина,відстань,величина",
+                "weight": 0.9
+              },
+              {
+                "words": "ліміт,гранична норма",
+                "weight": 0.9
+              },
+              {
+                "words": "норма",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sisaldus",
+        "kõrgus",
+        "kogus",
+        "hulk",
+        "pind",
+        "pind",
+        "tasand",
+        "kvantum",
+        "kähr",
+        "paika",
+        "mäger",
+        "pajuk",
+        "jagu",
+        "aste",
+        "aste",
+        "normatiiv",
+        "tase",
+        "taks",
+        "taks",
+        "toidunorm",
+        "nivoo",
+        "mõõt",
+        "piirnorm",
+        "järg",
+        "järg",
+        "limiit",
+        "norm",
+        "lõõg",
+        "summa",
+        "arvväärtus",
+        "suurus",
+        "suurus",
+        "ulatus",
+        "järk",
+        "mõõde",
+        "maksimaalmäär",
+        "karistusmäär",
+        "trahvimäär",
+        "ülemmäär",
+        "alammäär",
+        "kimäär",
+        "protsendimäär",
+        "maksumäär",
+        "piirmäär",
+        "tasumäär",
+        "miinimummäär",
+        "maksimummäär",
+        "osamäär",
+        "palgamäär",
+        "nullmäär",
+        "tegelik kõrgus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "määr",
+      "translations": [
+        "degree",
+        "extent",
+        "margin",
+        "quantum",
+        "rate"
+      ]
+    }
+  ]
+}

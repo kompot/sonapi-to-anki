@@ -1,0 +1,184 @@
+{
+  "requestedWord": "moodi",
+  "estonianWord": "moodi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "moodi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi, millegi sarnane või sarnaselt,kellegagi või millegagi sarnane",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Terjeri moodi koer.",
+            "Nad nägid välja palverändurite moodi.",
+            "Jaan on oma isa moodi.",
+            "Eesti keel kõlab soome keele moodi."
+          ],
+          "synonyms": [
+            "sugune",
+            "sarnane",
+            "taoline",
+            "vurhvi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "comme",
+                "weight": 1
+              },
+              {
+                "words": "semblable à",
+                "weight": 1
+              },
+              {
+                "words": "semblable",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "подобно",
+                "weight": 1
+              },
+              {
+                "words": "наподобие",
+                "weight": 1
+              },
+              {
+                "words": "похожий",
+                "weight": 1
+              },
+              {
+                "words": "такой же",
+                "weight": 1
+              },
+              {
+                "words": "аналогичный,похожий,подобный,сходный,схожий",
+                "weight": 0.7
+              },
+              {
+                "words": "подобный,наподобие,такой же,схожий,сходный,похожий",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "подібно",
+                "weight": 1
+              },
+              {
+                "words": "як",
+                "weight": 1
+              },
+              {
+                "words": "подібний",
+                "weight": 1
+              },
+              {
+                "words": "схожий",
+                "weight": 1
+              },
+              {
+                "words": "такий самий",
+                "weight": 1
+              },
+              {
+                "words": "подібний,схожий",
+                "weight": 0.7
+              },
+              {
+                "words": "на взір,на подобу,подібний,схожий,на зразок",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teatud viisil, teatud kombel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõik jätkus vana moodi.",
+            "Gibraltarile saab kolme moodi: laevaga, lennukiga ja maad mööda.",
+            "Me mõtleme üsna ühte moodi."
+          ],
+          "synonyms": [
+            "viisi"
+          ],
+          "translations": {}
+        },
+        {
+          "definition": "esineb millegi rohkust või intensiivsust väljendavates ühendites",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tüdrukul oli tuba hirmsat moodi sassis.",
+            "Tal vedas roppu moodi."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "taoline",
+        "sarnane",
+        "sugune",
+        "kombel",
+        "viisil",
+        "kaudu",
+        "teel",
+        "korras",
+        "korras",
+        "moel",
+        "nägu olema",
+        "miskitmoodi",
+        "naamoodi",
+        "suurrätt",
+        "hullumoodi",
+        "nõndamoodi",
+        "sedamoodi",
+        "uutmoodi",
+        "teistmoodi",
+        "kuidasmoodi",
+        "mingitmoodi",
+        "mehemoodi",
+        "vanamoodi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "moodi",
+      "translations": [
+        "a la",
+        "à la",
+        "à la mode"
+      ]
+    }
+  ]
+}

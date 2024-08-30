@@ -1,0 +1,68 @@
+{
+  "requestedWord": "liikvel",
+  "estonianWord": "liikvel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "liikvel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(ringi) liikumas,levimas, ringlemas, ringluses",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Hundid on taas liikvel.",
+            "Praegu on liikvel mingi vastik viirus.",
+            "Levisid kuuldused, et Tallinnas on liikvel võltsitud raha."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в движении",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "käigus",
+        "levinud",
+        "poolärkvel",
+        "liikvele",
+        "liikva",
+        "poikvel",
+        "üsna",
+        "haruldaselt",
+        "kõikjal",
+        "liikvor"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "liikvel",
+      "translations": [
+        "abroad",
+        "afoot",
+        "astir"
+      ]
+    }
+  ]
+}

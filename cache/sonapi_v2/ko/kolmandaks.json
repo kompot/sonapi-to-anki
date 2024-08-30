@@ -1,0 +1,82 @@
+{
+  "requestedWord": "kolmandaks",
+  "estonianWord": "kolmandaks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kolmandaks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(asjaolude loetlemisel:) kolmandana,(asjaolude loetlemisel:) kolmandana, pärast teist",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ja kolmandaks – ega minu nõusolekut ei küsinud keegi.",
+            "Ja kolmandaks – minu nõusolekut ei küsinud keegi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "thirdly",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "troisièmement",
+                "weight": 1
+              },
+              {
+                "words": "en troisième lieu",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в-третьих",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "по-третє",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "viiendaks",
+        "teiseks",
+        "kuuendaks",
+        "neljandaks",
+        "esimeseks"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kolmandaks",
+      "translations": [
+        "thirdly"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,620 @@
+{
+  "requestedWord": "otse",
+  "estonianWord": "otse",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "otse"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(liikumisega, kulgemisega seoses:) sirgjooneliselt mingis suunas, sellest kõrvale kaldumata,(asendi kohta:) mitte viltu,sirgelt (liikumise suunas)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kuus kilomeetrit sõitke otse, seejärel keerake paremale.",
+            "Kas lips on otse?",
+            "Sõida algul otse, siis pööra vasakule.",
+            "Suits tõusis otse üles."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "droit",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "прямо",
+                "weight": 1
+              },
+              {
+                "words": "по прямой",
+                "weight": 1
+              },
+              {
+                "words": "напрямик",
+                "weight": 1
+              },
+              {
+                "words": "напрямую",
+                "weight": 1
+              },
+              {
+                "words": "прямиком",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "прямо",
+                "weight": 1
+              },
+              {
+                "words": "навпростець",
+                "weight": 1
+              },
+              {
+                "words": "напрямки",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "keerutamata, midagi varjamata, otsekoheselt,nii, et sa midagi ei varja või ütlemata ei jäta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ütle otse, kui sulle miski ei meeldi.",
+            "Mehed pidavat asjadest aru saama siis, kui neist räägitakse otse.",
+            "Ütle otse välja, mida sa tahad.",
+            "Vabandust, et ma nii otse küsisin."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "franchement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "прямо",
+                "weight": 1
+              },
+              {
+                "words": "откровенно",
+                "weight": 1
+              },
+              {
+                "words": "открыто",
+                "weight": 1
+              },
+              {
+                "words": "начистоту",
+                "weight": 1
+              },
+              {
+                "words": "попросту",
+                "weight": 1
+              },
+              {
+                "words": "без задних мыслей",
+                "weight": 1
+              },
+              {
+                "words": "искренне",
+                "weight": 1
+              },
+              {
+                "words": "искренно",
+                "weight": 1
+              },
+              {
+                "words": "по чесноку",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "прямо",
+                "weight": 1
+              },
+              {
+                "words": "відверто",
+                "weight": 1
+              },
+              {
+                "words": "щиро",
+                "weight": 1
+              },
+              {
+                "words": "начистоту",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vahetult, ilma vaheastme vm vahepealseta,väljendab vahetut lähedust,vahetus läheduses",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ortopeedi juurde otse ei pääse, enne tuleb perearstilt saatekiri võtta.",
+            "Jõmmid kulistasid viskit otse pudelist.",
+            "Tulen otse trennist.",
+            "Auto peatus otse maja ees.",
+            "Suvila asub otse mere ääres."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "directement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "прямо",
+                "weight": 1
+              },
+              {
+                "words": "как раз",
+                "weight": 1
+              },
+              {
+                "words": "именно",
+                "weight": 1
+              },
+              {
+                "words": "непосредственно",
+                "weight": 1
+              },
+              {
+                "words": "напрямую",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "прямо",
+                "weight": 1
+              },
+              {
+                "words": "якраз",
+                "weight": 1
+              },
+              {
+                "words": "саме",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rõhutab millegi täit määra, toob esile ootamatuse nüansi: lausa, päris",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Arvud näitavad otse vastupidist."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "прямо",
+                "weight": 1
+              },
+              {
+                "words": "просто",
+                "weight": 1
+              },
+              {
+                "words": "впрямь",
+                "weight": 1
+              },
+              {
+                "words": "положительно",
+                "weight": 1
+              },
+              {
+                "words": "совсем",
+                "weight": 1
+              },
+              {
+                "words": "совершенно",
+                "weight": 1
+              },
+              {
+                "words": "прямо-таки",
+                "weight": 1
+              },
+              {
+                "words": "сплошь",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "päris",
+        "otsesui",
+        "justament",
+        "just",
+        "otsene",
+        "otsesõnu",
+        "avameelne",
+        "täitsa",
+        "täitsa",
+        "avameelselt",
+        "otsesõnaline",
+        "selgelt",
+        "sirgjooneliselt",
+        "noolsirgelt",
+        "vahetult",
+        "sirge",
+        "operatiivselt",
+        "varjamatult",
+        "otsesõnaliselt",
+        "otsekohene",
+        "täpselt",
+        "otseselt",
+        "otsekoheselt",
+        "sirgjooneline",
+        "kohe",
+        "kohe",
+        "päevavalgel",
+        "ütlema",
+        "lihtsalt",
+        "suisasui",
+        "päise päeva ajal",
+        "suisa",
+        "sirgelt",
+        "avalikult",
+        "otseteed",
+        "lausa",
+        "otseütleja",
+        "otsejooneline",
+        "jalamaid",
+        "jalapealt",
+        "joonelt",
+        "otsejoones",
+        "sedamaid",
+        "viivitamata",
+        "silmapilk",
+        "silmapilk",
+        "otsem",
+        "otsemaid",
+        "otsemini",
+        "otseuks",
+        "sealt",
+        "ainult",
+        "otsetuli",
+        "otsemalt",
+        "läbi",
+        "kiirjalt",
+        "otsegu",
+        "otsejooneliselt",
+        "loomulikult"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "otse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "otse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "otset"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "otsesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "otses"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "otsest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "otsele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "otsel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "otselt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "otseks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "otseni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "otsena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "otseta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "otsega"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "otsed"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "otsede"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "otsesid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "otsedesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "otsedes"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "otsedest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "otsedele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "otsedel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "otsedelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "otsedeks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "otsedeni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "otsedena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "otsedeta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "otsedega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selline, mis on sirges asendis, kulgeb suunast kõrvale kaldumata",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Sättisin lipsu otseks.",
+            "Rooli auto otseks.",
+            "Minna tahaksime muidugi võimalikult otset teed."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "прямой",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "päris",
+        "otsesui",
+        "justament",
+        "just",
+        "otsene",
+        "otsesõnu",
+        "avameelne",
+        "täitsa",
+        "täitsa",
+        "avameelselt",
+        "otsesõnaline",
+        "selgelt",
+        "sirgjooneliselt",
+        "noolsirgelt",
+        "vahetult",
+        "sirge",
+        "operatiivselt",
+        "varjamatult",
+        "otsesõnaliselt",
+        "otsekohene",
+        "täpselt",
+        "otseselt",
+        "otsekoheselt",
+        "sirgjooneline",
+        "kohe",
+        "kohe",
+        "päevavalgel",
+        "ütlema",
+        "lihtsalt",
+        "suisasui",
+        "päise päeva ajal",
+        "suisa",
+        "sirgelt",
+        "avalikult",
+        "otseteed",
+        "lausa",
+        "otseütleja",
+        "otsejooneline",
+        "jalamaid",
+        "jalapealt",
+        "joonelt",
+        "otsejoones",
+        "sedamaid",
+        "viivitamata",
+        "silmapilk",
+        "silmapilk",
+        "otsem",
+        "otsemaid",
+        "otsemini",
+        "otseuks",
+        "sealt",
+        "ainult",
+        "otsetuli",
+        "otsemalt",
+        "läbi",
+        "kiirjalt",
+        "otsegu",
+        "otsejooneliselt",
+        "loomulikult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "otse",
+      "translations": [
+        "direct",
+        "directly",
+        "due",
+        "flat-out",
+        "flush",
+        "full",
+        "head-on",
+        "right",
+        "right off (kusagilt)",
+        "smack-dab",
+        "squarely (keset)",
+        "straight"
+      ]
+    }
+  ]
+}

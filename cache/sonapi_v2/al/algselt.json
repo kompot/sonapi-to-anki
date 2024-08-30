@@ -1,0 +1,159 @@
+{
+  "requestedWord": "algselt",
+  "estonianWord": "algselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "algselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "alguses, kõige varasemal kujul",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Algselt tähistas jaanipäev kevadiste põllutööde ja noorte lõbutsemisaja lõppu.",
+            "Ei ole teada, mida see sõna algselt tähendas.",
+            "Algselt oli lossil kolm torni."
+          ],
+          "synonyms": [
+            "algul,alul"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "initially",
+                "weight": 1
+              },
+              {
+                "words": "originally",
+                "weight": 1
+              },
+              {
+                "words": "in the beginning",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "initialement",
+                "weight": 1
+              },
+              {
+                "words": "à l'origine",
+                "weight": 1
+              },
+              {
+                "words": "au départ",
+                "weight": 1
+              },
+              {
+                "words": "d'abord,au début",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "первоначально",
+                "weight": 1
+              },
+              {
+                "words": "изначально",
+                "weight": 1
+              },
+              {
+                "words": "вначале,сначала,в первое время,на первых порах,поначалу,в начале",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "спочатку",
+                "weight": 1
+              },
+              {
+                "words": "первинно",
+                "weight": 1
+              },
+              {
+                "words": "первісно",
+                "weight": 1
+              },
+              {
+                "words": "спочатку,на початку,спершу",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "algul",
+        "esialgselt",
+        "esmalt",
+        "esimese hooga",
+        "esimesel hoobil",
+        "esimese jutiga",
+        "hakul",
+        "esmapilgul",
+        "alguses",
+        "esialgu",
+        "esiotsa",
+        "enne",
+        "enne",
+        "esiti",
+        "esiteks",
+        "sisuliselt",
+        "peamiselt",
+        "kuigi",
+        "see",
+        "juba",
+        "siiski",
+        "aga",
+        "aga",
+        "ilmselgelt",
+        "ilmselt",
+        "põhiliselt",
+        "varasemalt",
+        "tõenäoliselt",
+        "ametlikult",
+        "hiljem",
+        "arvatavasti",
+        "tavaliselt",
+        "algupäraselt",
+        "samuti",
+        "pidi",
+        "küll",
+        "küll",
+        "enamasti",
+        "tegelikult",
+        "toona",
+        "üldiselt",
+        "varem"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "algselt",
+      "translations": [
+        "initially",
+        "originally"
+      ]
+    }
+  ]
+}

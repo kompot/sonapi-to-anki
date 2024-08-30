@@ -1,0 +1,51 @@
+{
+  "requestedWord": "vajaka",
+  "estonianWord": "vajaka",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vajaka"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "näitab, et midagi on puudu: vähem kui vaja või üldse mitte olemas või kohal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Taimedel on siin soojust vajaka.",
+            "Ta on tubli, aga kogemustest jääb vajaka.",
+            "Midagi on treeningutel vajaka jäänud."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "puudu",
+        "oskamatusest",
+        "vajakajäämine",
+        "paraku"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vajaka",
+      "translations": []
+    }
+  ]
+}

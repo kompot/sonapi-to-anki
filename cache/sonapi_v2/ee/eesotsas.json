@@ -1,0 +1,93 @@
+{
+  "requestedWord": "eesotsas",
+  "estonianWord": "eesotsas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eesotsas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "esimesena või esimeste hulgas,juhi positsioonil olevana,(tähtsuse poolest) esimesena või esimeste hulgas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Valitsus eesotsas peaministriga.",
+            "Mõlemad kandidaadid on kogenud juhid, kes võiksid haigekassa eesotsas edukad olla.",
+            "Ta on nimekirja eesotsas.",
+            "Raimond on ettevõtte eesotsas olnud juba 10 aastat."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "at the head",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "во главе",
+                "weight": 1
+              },
+              {
+                "words": "впереди",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на чолі",
+                "weight": 1
+              },
+              {
+                "words": "спереду",
+                "weight": 1
+              },
+              {
+                "words": "попереду",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ees",
+        "eespool",
+        "suurtiivalised",
+        "juhtgrupp",
+        "eesots",
+        "tagaotsas",
+        "sarnastiivalised"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "eesotsas",
+      "translations": [
+        "at the head",
+        "(kellegagi) headed by"
+      ]
+    }
+  ]
+}

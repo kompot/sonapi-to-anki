@@ -1,0 +1,87 @@
+{
+  "requestedWord": "kahevahel",
+  "estonianWord": "kahevahel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kahevahel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "otsustamisvõimetus, kõhklevas, nõutus olukorras",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ma olen nii kahevahel ja ei suuda kuidagi otsustada."
+          ],
+          "synonyms": [
+            "kahkvel"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "в нерешительности",
+                "weight": 1
+              },
+              {
+                "words": "в сомнении",
+                "weight": 1
+              },
+              {
+                "words": "перед выбором",
+                "weight": 1
+              },
+              {
+                "words": "колеблясь,в нерешительности,в нерешимости,сомневаясь",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kahkvel",
+        "plää",
+        "nõutu",
+        "kõhkvel",
+        "vahel",
+        "miskitmoodi",
+        "jõuetult",
+        "kahtpidi",
+        "kahevaguniline",
+        "ikka",
+        "vähekene",
+        "vähekene",
+        "kahevahele",
+        "vahetevahel",
+        "kahevaatuseline",
+        "kaheveeruline"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kahevahel",
+      "translations": [
+        "hesitant",
+        "hesitatingly",
+        "in a quandary",
+        "in dubio"
+      ]
+    }
+  ]
+}

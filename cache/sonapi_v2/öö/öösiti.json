@@ -1,0 +1,112 @@
+{
+  "requestedWord": "öösiti",
+  "estonianWord": "öösiti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "öösiti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "öistel aegadel, öödel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Haige sonis öösiti.",
+            "Öösiti on siin väga külm.",
+            "Ta käib sageli öösiti tööl."
+          ],
+          "synonyms": [
+            "öiti",
+            "öösel,öösi"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "at nights",
+                "weight": 1
+              },
+              {
+                "words": "at night",
+                "weight": 0.638
+              }
+            ],
+            "fra": [
+              {
+                "words": "la nuit",
+                "weight": 1
+              },
+              {
+                "words": "dans la nuit,la nuit",
+                "weight": 0.638
+              }
+            ],
+            "rus": [
+              {
+                "words": "ночью",
+                "weight": 1
+              },
+              {
+                "words": "ночами",
+                "weight": 1
+              },
+              {
+                "words": "по ночам",
+                "weight": 1
+              },
+              {
+                "words": "ночью,ночами,по ночам",
+                "weight": 0.638
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вночі",
+                "weight": 1
+              },
+              {
+                "words": "ночами",
+                "weight": 1
+              },
+              {
+                "words": "вночі",
+                "weight": 0.638
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "öiti",
+        "öösel",
+        "öösi",
+        "magama",
+        "varahommikuti",
+        "hommikuti",
+        "õhtuti",
+        "päeviti",
+        "hilisõhtuti"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "öösiti",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "requestedWord": "õigeaegselt",
+  "estonianWord": "õigeaegselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "õigeaegselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "своевременно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ajaldi",
+        "nagu tellitult",
+        "ajaldasa",
+        "tähtaegselt",
+        "ajalt",
+        "õigeaegsus",
+        "enneaegselt",
+        "korrektselt",
+        "mitteõigeaegne",
+        "pärale",
+        "operatiivselt",
+        "korralikult",
+        "ennetähtaegselt",
+        "täielikult",
+        "viivitamata",
+        "varakult",
+        "vajalikult",
+        "viivitamatult",
+        "puudulikult",
+        "kiiresti",
+        "hilinenult",
+        "õigeaegne",
+        "kibekiiresti",
+        "nõuetekohaselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "õigeaegselt",
+      "translations": [
+        "in time",
+        "on schedule",
+        "on time"
+      ]
+    }
+  ]
+}

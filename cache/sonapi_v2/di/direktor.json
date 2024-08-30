@@ -1,0 +1,380 @@
+{
+  "requestedWord": "direktor",
+  "estonianWord": "direktor",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "direktor"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "direktori"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "direktorit"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "direktorisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "direktoris"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "direktorist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "direktorile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "direktoril"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "direktorilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "direktoriks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "direktorini"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "direktorina"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "direktorita"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "direktoriga"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "direktorid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "direktorite"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "direktoreid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "direktoritesse,direktoreisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "direktorites,direktoreis"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "direktoritest,direktoreist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "direktoritele,direktoreile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "direktoritel,direktoreil"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "direktoritelt,direktoreilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "direktoriteks,direktoreiks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "direktoriteni"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "direktoritena"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "direktoriteta"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "direktoritega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "asutuse või ettevõtte juht,asutuse või ettevõtte juhataja",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Koolidirektor.",
+            "Pangadirektor.",
+            "Kes sai teatri uueks direktoriks?"
+          ],
+          "synonyms": [
+            "dir",
+            "juhataja,juh",
+            "rektor",
+            "juht"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "director",
+                "weight": 1
+              },
+              {
+                "words": "rector",
+                "weight": 0.7
+              },
+              {
+                "words": "chief",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "directeur",
+                "weight": 1
+              },
+              {
+                "words": "directrice",
+                "weight": 1
+              },
+              {
+                "words": "directrice,directeur",
+                "weight": 0.69
+              },
+              {
+                "words": "recteur,président d'université",
+                "weight": 0.7
+              },
+              {
+                "words": "responsable,chef,dirigeante,dirigeant",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "директор",
+                "weight": 1
+              },
+              {
+                "words": "директорша",
+                "weight": 1
+              },
+              {
+                "words": "д-р",
+                "weight": 1
+              },
+              {
+                "words": "дир.",
+                "weight": 1
+              },
+              {
+                "words": "заведующая,заведующий,руководитель,руководительница,зав,управляющий,зав.",
+                "weight": 0.69
+              },
+              {
+                "words": "ректор",
+                "weight": 0.7
+              },
+              {
+                "words": "командир,предводитель,глава,руководитель",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "директор",
+                "weight": 1
+              },
+              {
+                "words": "директорка",
+                "weight": 1
+              },
+              {
+                "words": "керівниця,керівник,завідувачка,завідувач",
+                "weight": 0.69
+              },
+              {
+                "words": "ректор",
+                "weight": 0.7
+              },
+              {
+                "words": "командир,голова,керівник",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "asutuse või ettevõtte teatava valdkonna juht",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Linnavalitsuse avalike suhete direktor.",
+            "Haldusdirektor.",
+            "Teadusdirektor.",
+            "Tootmisdirektor.",
+            "Meediadirektor."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "директор",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(suundantennil:) vastuvõtu/saatesuuna poole jääv seade",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Vastassuunalise kiirgusega direktoritega antenn."
+          ],
+          "synonyms": [
+            "suunur"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "директор",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "rektor",
+        "tegevdirektor",
+        "peadirektor",
+        "pangadirektor",
+        "koolidirektor",
+        "arendusdirektor",
+        "abidirektor",
+        "juht",
+        "haldusdirektor",
+        "tehnikadirektor",
+        "majandusdirektor",
+        "finantsdirektor",
+        "juhataja",
+        "õppedirektor",
+        "tootmisdirektor",
+        "teadusdirektor",
+        "kommertsdirektor",
+        "asedirektor",
+        "täitevdirektor"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "direktor",
+      "translations": [
+        "director",
+        "(kooli) headmaster",
+        "headteacher"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "requestedWord": "taamal",
+  "estonianWord": "taamal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "taamal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kaugemal, tagapool, eemal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tema vastas istus üks noorpaar, taamal ajasid juttu kaks õpetajajannat."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вдали",
+                "weight": 1
+              },
+              {
+                "words": "вдалеке",
+                "weight": 1
+              },
+              {
+                "words": "в отдалении",
+                "weight": 1
+              },
+              {
+                "words": "на отдалении",
+                "weight": 1
+              },
+              {
+                "words": "в стороне",
+                "weight": 1
+              },
+              {
+                "words": "подальше",
+                "weight": 1
+              },
+              {
+                "words": "там",
+                "weight": 1
+              },
+              {
+                "words": "поодаль",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "paremal",
+        "tagaplaanil",
+        "taamalt",
+        "vasemal",
+        "taamale",
+        "sirinal",
+        "esiplaanil",
+        "vasakul",
+        "kamal",
+        "rüsinal"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "taamal",
+      "translations": [
+        "at a distance",
+        "in the remote distance",
+        "yonder"
+      ]
+    }
+  ]
+}

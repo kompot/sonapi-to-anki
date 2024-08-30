@@ -1,0 +1,60 @@
+{
+  "requestedWord": "professionaalselt",
+  "estonianWord": "professionaalselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "professionaalselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "oskuslikult, head asjatundmist ilmutades",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "профессионально",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "asjatundlikult",
+        "spetsiaalselt",
+        "kvaliteetselt",
+        "professionaalsem",
+        "personaalselt",
+        "professionaalsus",
+        "professionaalne",
+        "professionaal"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "professionaalselt",
+      "translations": [
+        "professionally"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "requestedWord": "ühtekuuluvus",
+  "estonianWord": "ühtekuuluvus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "ühtekuuluvus"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "ühtekuuluvuse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "ühtekuuluvust"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "ühtekuuluvusse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "ühtekuuluvusesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "ühtekuuluvuses"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "ühtekuuluvusest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "ühtekuuluvusele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "ühtekuuluvusel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "ühtekuuluvuselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "ühtekuuluvuseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "ühtekuuluvuseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "ühtekuuluvusena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "ühtekuuluvuseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "ühtekuuluvusega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "-"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "omavahel tihedalt seotud olek",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Noorte pilgud kohtusid ja mõlemad tundsid seletamatut ühtekuuluvust."
+          ],
+          "synonyms": [
+            "kokkukuuluvus",
+            "ühtsus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "общность",
+                "weight": 1
+              },
+              {
+                "words": "единство",
+                "weight": 1
+              },
+              {
+                "words": "неразрывность",
+                "weight": 1
+              },
+              {
+                "words": "сплочённость",
+                "weight": 1
+              },
+              {
+                "words": "спаянность",
+                "weight": 1
+              },
+              {
+                "words": "единение",
+                "weight": 1
+              },
+              {
+                "words": "единение,единообразие,монолитность,общность,единство,сплочённость,спаянность,целостность,цельность",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "unity",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ühistunne",
+        "ühtekuuluvustunne",
+        "solidaarsus",
+        "monoliitsus",
+        "terviklus",
+        "ühtsus",
+        "kokkukuuluvus",
+        "ühtekuuluvuspoliitika",
+        "klassikuuluvus",
+        "kokkukuuluvustunne",
+        "võluvus",
+        "siduvus",
+        "ühtekuuluvusfond",
+        "žanrikuuluvus",
+        "rahvuskuuluvus",
+        "kuuluvus",
+        "lõimumine",
+        "jätkuvus",
+        "dokumendi terviklus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ühtekuuluvus",
+      "translations": [
+        "communion"
+      ]
+    }
+  ]
+}

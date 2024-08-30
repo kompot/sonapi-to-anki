@@ -1,0 +1,100 @@
+{
+  "requestedWord": "otsustavalt",
+  "estonianWord": "otsustavalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "otsustavalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kindlalt ja kõhklemata",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Valge Maja on sellised kuuldused otsustavalt ümber lükanud.",
+            "Tegutseda on vaja viivitamatult ja otsustavalt."
+          ],
+          "synonyms": [
+            "otsusekindlalt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "решительно",
+                "weight": 1
+              },
+              {
+                "words": "твёрдо",
+                "weight": 1
+              },
+              {
+                "words": "непоколебимо",
+                "weight": 1
+              },
+              {
+                "words": "категорично",
+                "weight": 1
+              },
+              {
+                "words": "с решимостью",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "otsusekindlalt",
+        "ultimatiivselt",
+        "resoluutselt",
+        "kategooriliselt",
+        "nõudvalt",
+        "kindlameelselt",
+        "järsult",
+        "püüdlikult",
+        "radikaalselt",
+        "lubamatult",
+        "siiski",
+        "kindlakäeliselt",
+        "äraootavalt",
+        "mõjusalt",
+        "julgustavalt",
+        "toetavalt",
+        "halvavalt",
+        "võikalt",
+        "käskivalt",
+        "jõuliselt",
+        "konservatiivselt",
+        "otsustavam"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "otsustavalt",
+      "translations": [
+        "crucially",
+        "decisively",
+        "determinedly",
+        "emphatically",
+        "resolutely",
+        "stoutly"
+      ]
+    }
+  ]
+}

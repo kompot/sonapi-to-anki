@@ -1,0 +1,623 @@
+{
+  "requestedWord": "sõna",
+  "estonianWord": "sõna",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17u",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "sõna"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "sõna"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "sõna"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "sõnna"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "sõnasse"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "sõnas"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "sõnast"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "sõnale"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "sõnal"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "sõnalt"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "sõnaks"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "sõnani"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "sõnana"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "sõnata"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "sõnaga"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "sõnad"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "sõnade"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "sõnu,sõnasid"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "sõnadesse,sõnusse"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "sõnades,sõnus"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "sõnadest,sõnust"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "sõnadele,sõnule"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "sõnadel,sõnul"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "sõnadelt,sõnult"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "sõnadeks,sõnuks"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "sõnadeni"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "sõnadena"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "sõnadeta"
+        },
+        {
+          "inflectionType": "17u",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "sõnadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "iseseisva tähendusega keeleüksus, mida kasutatakse oma mõtete väljendamiseks tekstis ja kõnes (nt <eki-foreign>maailm</eki-foreign>, <eki-foreign>alla kirjutama</eki-foreign>, <eki-foreign>Rootsi laud</eki-foreign>)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mis see sõna tähendab?",
+            "Tekstis oli palju võõrkeelseid sõnu.",
+            "Sõnade järjekord lauses.",
+            "Ühesilbiline sõna.",
+            "Lause koosneb sõnadest."
+          ],
+          "synonyms": [
+            "lekseem",
+            "sõnake"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "mot",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "слово",
+                "weight": 1
+              },
+              {
+                "words": "лексема",
+                "weight": 0.9
+              },
+              {
+                "words": "словечко",
+                "weight": 0.7515
+              }
+            ],
+            "ukr": [
+              {
+                "words": "слово",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(keele, keelekasutuse kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Trükitud sõna."
+          ],
+          "synonyms": [
+            "keel",
+            "keelekasutus,keeletarvitus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "слово",
+                "weight": 1
+              },
+              {
+                "words": "речь",
+                "weight": 1
+              },
+              {
+                "words": "язык",
+                "weight": 1
+              },
+              {
+                "words": "глагол",
+                "weight": 1
+              },
+              {
+                "words": "язык,речь",
+                "weight": 0.9
+              },
+              {
+                "words": "речеупотребление,использование языка,применение языка,употребление языка",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(rääkimise, kõnelemise kohta),rääkimise kohta",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ta ei öelnud ainsatki sõna.",
+            "Sõber tuletas mind hea sõnaga meelde.",
+            "Ütlesin paar kurja sõna.",
+            "Mobiilikõne katkes poolelt sõnalt.",
+            "Ta ei öelnud ainsatki sõna.",
+            "Palusin koosolekul sõna."
+          ],
+          "synonyms": [
+            "kõnelemine,rääkimine",
+            "suukulutamine",
+            "jutt",
+            "jutt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "mot",
+                "weight": 1
+              },
+              {
+                "words": "discussion,conversation",
+                "weight": 0.7
+              },
+              {
+                "words": "discours,propos,paroles",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "слово",
+                "weight": 1
+              },
+              {
+                "words": "разговор",
+                "weight": 0.9
+              },
+              {
+                "words": "разговор,беседа",
+                "weight": 0.7
+              },
+              {
+                "words": "разговор",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "слово",
+                "weight": 1
+              },
+              {
+                "words": "говоріння,розмова",
+                "weight": 0.9
+              },
+              {
+                "words": "розмова,бесіда",
+                "weight": 0.7
+              },
+              {
+                "words": "розмова",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "speaking",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "otsustav, määrav, kaalukas ütlus või seisukohavõtt millegi suhtes",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Härra jäi jonnakalt oma sõna juurde.",
+            "Kõva sõnaga mees."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "слово",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(Piiblis:) Jumala õpetused, käsud inimestele,piibel tervikuna, pühakiri",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Võtke kuulda Issanda sõna!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "Слово Божье",
+                "weight": 1
+              },
+              {
+                "words": "Священное Писание",
+                "weight": 1
+              },
+              {
+                "words": "Святое Писание",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(suuline) informatsioon, teadaanne või korraldus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tuleme kohe appi, niipea kui sõna saadate."
+          ],
+          "synonyms": [
+            "sõnum,teade",
+            "teadaanne",
+            "teadus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "весть",
+                "weight": 1
+              },
+              {
+                "words": "весточка",
+                "weight": 1
+              },
+              {
+                "words": "известие",
+                "weight": 1
+              },
+              {
+                "words": "сообщение",
+                "weight": 1
+              },
+              {
+                "words": "весть,весточка,известие,извещение,сводка,сообщение,уведомление,оповещение,справка,записка",
+                "weight": 0.9
+              },
+              {
+                "words": "уведомление,объявление,сообщение,извещение,оповещение",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "message",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "повідомлення,сповіщення,оповіщення,звістка,вістка,вість",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ausõna, tõotus millegi kinnitusena",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Meest sõnast, härga sarvest."
+          ],
+          "synonyms": [
+            "lubadus",
+            "mehesõna",
+            "ausõna",
+            "tõotus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "слово",
+                "weight": 1
+              },
+              {
+                "words": "обещание",
+                "weight": 1
+              },
+              {
+                "words": "слово,обещание,посул",
+                "weight": 0.9
+              },
+              {
+                "words": "мужское слово,слово мужчины",
+                "weight": 0.9
+              },
+              {
+                "words": "честное слово",
+                "weight": 0.9
+              },
+              {
+                "words": "клятва,обет,зарок,заверение,присяга",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "promesse",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "обіцянка,слово",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(infotehnoloogias:) sümbolite lõplik jada, millel on kindel tähendus või otstarve",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kahendsõna."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "keelekasutus",
+        "avaldus",
+        "bülletään",
+        "kõne",
+        "proklamatsioon",
+        "vaade",
+        "sõnadetegemine",
+        "seisukohavõtt",
+        "ütlus",
+        "sõnum",
+        "mehesõna",
+        "arvamus",
+        "arusaam",
+        "avalik arvamus",
+        "silp",
+        "hoiak",
+        "suukulutamine",
+        "seisukoht",
+        "teadaanne",
+        "nägemus",
+        "keelepaelad",
+        "väljend",
+        "teade",
+        "keel",
+        "tõotus",
+        "teadus",
+        "rääkimine",
+        "kommünikee",
+        "Hiiobi sõnum",
+        "rääkima",
+        "ausõna",
+        "kõnelemine",
+        "suupruukimine",
+        "sädin",
+        "teatis",
+        "lubadus",
+        "lausung",
+        "sõnake",
+        "vokaabel",
+        "lekseem",
+        "omasõna",
+        "oskussõna",
+        "tekstisõna",
+        "sõnapere",
+        "tüvisõna",
+        "sõnapaar",
+        "liitsõna",
+        "tähendussõna",
+        "võõrsõna",
+        "sõnatüvi",
+        "tähendamissõna",
+        "sõnaosa",
+        "lööksõna",
+        "hüüdsõna",
+        "laensõna",
+        "ei-sõna",
+        "sõnapruuk",
+        "sõnakuju",
+        "tabusõna",
+        "kõnetlussõna",
+        "uudissõna",
+        "juursõna",
+        "sõnaus",
+        "positsioon",
+        "hiiobisõnum",
+        "filosoofia"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sõna",
+      "translations": [
+        "mot",
+        "word",
+        "Word",
+        "word's"
+      ]
+    }
+  ]
+}

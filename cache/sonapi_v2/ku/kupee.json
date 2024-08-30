@@ -1,0 +1,294 @@
+{
+  "requestedWord": "kupee",
+  "estonianWord": "kupee",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "26i",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kupee"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kupee"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kupeed"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kupeesse"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kupees"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kupeest"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kupeele"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kupeel"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kupeelt"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kupeeks"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kupeeni"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kupeena"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kupeeta"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kupeega"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kupeed"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kupeede"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kupeid,kupeesid"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kupeedesse,kupeisse"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kupeedes,kupeis"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kupeedest,kupeist"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kupeedele,kupeile"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kupeedel,kupeil"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kupeedelt,kupeilt"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kupeedeks,kupeiks"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kupeedeni"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kupeedena"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kupeedeta"
+        },
+        {
+          "inflectionType": "26i",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kupeedega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "eraldatud osa vagunist, kus hrl lisaks istmetele on ka magamisasemed",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Meie reisiseltskonna kohad olid jagunenud kupeede kaupa kolme vaguni vahel.",
+            "Rongikupee.",
+            "Luksuskupee."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "купе",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "купе",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hrl kahe ukse ja kahe istmereaga stiilne auto, mille tagaosas on lisaiste",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "BMW kupee.",
+            "Sportkupee."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "купе",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "купе",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "endisaegne kinnine kaheistmeline tõld",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "купе",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "купе",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sedaan",
+        "esiveoline",
+        "nelikveoline",
+        "kupeevagun",
+        "sportauto",
+        "luukpära",
+        "väikeauto",
+        "kabriolett",
+        "ideeauto"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kupee",
+      "translations": [
+        "compartment",
+        "couchette",
+        "drawing room"
+      ]
+    }
+  ]
+}

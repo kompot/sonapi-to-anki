@@ -1,0 +1,149 @@
+{
+  "requestedWord": "kust",
+  "estonianWord": "kust",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kust"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "küsiv-siduv sõna: missugusest kohast, missugusest allikast või missugusel põhjusel,mis kohast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kust sa pärit oled?",
+            "Kust sa seda kuulnud oled?",
+            "Kust sa tead?",
+            "Kust lapsed tulevad?",
+            "Majas on köök, kust saab otse pööningule.",
+            "Mina ei tea, kust ma rõõmu võtan ..",
+            "Ma ei tea, kust ta selle raamatu ostis."
+          ],
+          "synonyms": [
+            "kuskohalt",
+            "kustkohalt",
+            "kustkohast",
+            "kuskohast"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "où",
+                "weight": 1
+              },
+              {
+                "words": "d'où",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "откуда",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звідки",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb ebamäärast kohta osutavates väljendites",
+          "partOfSpeech": [],
+          "examples": [
+            "Igaüks haarab kinni kes kust saab.",
+            "Võta see raha kust tahes.",
+            "Ava raamat ükskõik kust.",
+            "Teab kust hangitud informatsioon."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "откуда",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kõneleja suhtumist, eitavat arvamust või hinnangut rõhutav sõna",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kust küll sellised tulevad!",
+            "Kust mina seda tean?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "откуда",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kus",
+        "kustpoolt",
+        "kuhu",
+        "kustkohast",
+        "siit",
+        "kuidas",
+        "siitkaudu",
+        "sinna",
+        "mis",
+        "aga",
+        "aga",
+        "kustsaadik",
+        "seal",
+        "misjaoks",
+        "kusagilt",
+        "kustkaudu",
+        "kustmaalt",
+        "mujalt",
+        "sealtsamast",
+        "sealt",
+        "kuskohast",
+        "pärit",
+        "sealtpoolt",
+        "siis",
+        "millal",
+        "kuskilt",
+        "siitmailt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kust",
+      "translations": [
+        "whence"
+      ]
+    }
+  ]
+}

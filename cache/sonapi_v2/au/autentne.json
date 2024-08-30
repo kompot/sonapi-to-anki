@@ -1,0 +1,288 @@
+{
+  "requestedWord": "autentne",
+  "estonianWord": "autentne",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "autentne"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "autentse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "autentset"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "autentsesse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "autentses"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "autentsest"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "autentsele"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "autentsel"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "autentselt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "autentseks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "autentseni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "autentsena"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "autentseta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "autentsega"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "autentsed"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "autentsete"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "autentseid"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "autentsetesse,autentseisse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "autentsetes,autentseis"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "autentsetest,autentseist"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "autentsetele,autentseile"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "autentsetel,autentseil"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "autentsetelt,autentseilt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "autentseteks,autentseiks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "autentseteni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "autentsetena"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "autentseteta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "autentsetega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selline, mida saab täiesti usaldada, mis on ehtne ning mis põhineb algallikail",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Arhiivides on autentsed materjalid.",
+            "Autentne rahvariie tehti kodus kootud kangast."
+          ],
+          "synonyms": [
+            "eht,ehtne,tõeline",
+            "algupärane,originaalne",
+            "päris"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "аутентичный",
+                "weight": 1
+              },
+              {
+                "words": "аутентический",
+                "weight": 1
+              },
+              {
+                "words": "подлинный",
+                "weight": 1
+              },
+              {
+                "words": "подлинный,неподдельный,настоящий,истинный,доподлинный,действительный,натуральный",
+                "weight": 0.486
+              },
+              {
+                "words": "подлинный,оригинальный",
+                "weight": 0.89
+              },
+              {
+                "words": "подлинный,настоящий,истинный,действительный,натуральный",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "authentique,vrai",
+                "weight": 0.486
+              },
+              {
+                "words": "vrai,véritable",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "справжній,непідробний,щирий",
+                "weight": 0.486
+              },
+              {
+                "words": "справжній,реальний,істинний,дійсний",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "päris",
+        "algupärane",
+        "originaalne",
+        "väärtuslik",
+        "autentsus",
+        "selgepilguline",
+        "ajaloohõnguline",
+        "šarmantne",
+        "potentne",
+        "ambivalentne",
+        "deviantne",
+        "sukulentne",
+        "stiililine",
+        "pikantne",
+        "arrogantne",
+        "kaasaegne",
+        "ainuline",
+        "korpulentne",
+        "unikaalne"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "autentne",
+      "translations": [
+        "authentic",
+        "bona fide",
+        "bona-fide"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "requestedWord": "kannul",
+  "estonianWord": "kannul",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kannul"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "järgnedes või jälitades (vahetus läheduses) taga, järel,sabas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Mindi hanereas üksteise kannul.",
+            "Üks häda tuli teise kannul.",
+            "Lõpetasin Miku kannul teisena.",
+            "Ta käib sul nagu takjas kannul."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "следом",
+                "weight": 1
+              },
+              {
+                "words": "следом за",
+                "weight": 1
+              },
+              {
+                "words": "вслед за",
+                "weight": 1
+              },
+              {
+                "words": "по пятам",
+                "weight": 1
+              },
+              {
+                "words": "не отставая",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sabas",
+        "jälil",
+        "päras",
+        "järel",
+        "järel",
+        "kuklas",
+        "käpakil",
+        "mürinal",
+        "lohinal",
+        "kannupoiss",
+        "käpuli",
+        "kannutäis",
+        "vargsi",
+        "sirinal",
+        "kannule",
+        "jalul"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kannul",
+      "translations": [
+        "at heel",
+        "at your heels",
+        "upon the heels of"
+      ]
+    }
+  ]
+}

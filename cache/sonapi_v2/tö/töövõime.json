@@ -1,0 +1,302 @@
+{
+  "requestedWord": "töövõime",
+  "estonianWord": "töövõime",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "6",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "töövõime"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "töövõime"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "töövõimet"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "töövõimesse"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "töövõimes"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "töövõimest"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "töövõimele"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "töövõimel"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "töövõimelt"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "töövõimeks"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "töövõimeni"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "töövõimena"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "töövõimeta"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "töövõimega"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "-,-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "-"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "inimese suutlikkus teha tööd,institutsiooni suutlikkus tegutseda ja otsuseid vastu võtta",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Aivarit iseloomustab väga suur töövõime.",
+            "Mees kaotas õnnetuse tagajärjel täielikult töövõime.",
+            "Riigikogu töövõime oli pärsitud."
+          ],
+          "synonyms": [
+            "tööjõud"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "трудоспособность",
+                "weight": 1
+              },
+              {
+                "words": "работоспособность",
+                "weight": 1
+              },
+              {
+                "words": "силы",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "працездатність",
+                "weight": 1
+              },
+              {
+                "words": "робоча сила,сила",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "force de travail",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "elundi või elundkonna talitlusvõime",
+          "partOfSpeech": [],
+          "examples": [
+            "Lihaste töövõime."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "работоспособность",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "seadme võime täita ettenähtud ülesannet etteantud parameetritele vastavalt",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [
+            "ressurss"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "работоспособность",
+                "weight": 1
+              },
+              {
+                "words": "трудовой ресурс",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kasutegur",
+        "tootmisvõime",
+        "jõudlus",
+        "tõhusus",
+        "efektiivsus",
+        "tootlikkus",
+        "suutlikkus",
+        "töövõimetushüvitis",
+        "töövõimetus",
+        "töövõimeline",
+        "töövõimetu",
+        "koostöövõime",
+        "töövõimekaotus",
+        "töövõimetoetus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "töövõime",
+      "translations": [
+        "ability to work",
+        "energy",
+        "exergy"
+      ]
+    }
+  ]
+}

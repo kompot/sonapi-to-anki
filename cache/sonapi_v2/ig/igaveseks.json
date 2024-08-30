@@ -1,0 +1,96 @@
+{
+  "requestedWord": "igaveseks",
+  "estonianWord": "igaveseks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "igaveseks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "lõpmata pikaks, püsivaks ajaks, jäädavalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "See küsimus jääb mind igaveseks vaevama.",
+            "Paljud küsimused jäävad igaveseks vastuseta."
+          ],
+          "synonyms": [
+            "alatiseks"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "for good",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "навеки",
+                "weight": 1
+              },
+              {
+                "words": "навек",
+                "weight": 1
+              },
+              {
+                "words": "навечно",
+                "weight": 1
+              },
+              {
+                "words": "навсегда",
+                "weight": 1
+              },
+              {
+                "words": "насовсем",
+                "weight": 1
+              },
+              {
+                "words": "до скончания века",
+                "weight": 1
+              },
+              {
+                "words": "до скончания мира",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jäävalt",
+        "päriselt",
+        "jäädavalt",
+        "igavesti",
+        "alatiseks",
+        "päriseks",
+        "alati",
+        "natukeseks"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "igaveseks",
+      "translations": [
+        "forever",
+        "in perpetuity"
+      ]
+    }
+  ]
+}

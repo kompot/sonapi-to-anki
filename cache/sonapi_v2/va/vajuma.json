@@ -1,0 +1,805 @@
+{
+  "requestedWord": "vajuma",
+  "estonianWord": "vajuma",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "vajuma"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "vajumata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "vajumas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "vajumast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "vajumaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "vajutama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "vajuda"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "vajudes"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "vajuv"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "vajutav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "vajunud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "vajunud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "vajutud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "vajutud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "vajun,vaon"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "vajud,vaod"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "vajub,vaob"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "vajume,vaome"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "vajute,vaote"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "vajuvad,vaovad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "vaju,vao"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "vajutakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "vajuta"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "vajusin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "vajusid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "vajus"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "vajusime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "vajusite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "vajusid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "vajuti"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "vajuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "vajuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "vajuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "vajuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "vajuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "vajuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "vajutaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "vajunuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "vajunuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "vajunuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "vajunuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "vajunuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "vajunuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "vajutuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "vajuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "vajutavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "vajunuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "vajutuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "vaju"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "vajugem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "vajuge"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "vajugu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "vajutagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(aeglaselt, vähehaaval) allapoole, madalamale liikuma,millegi sisse langema,allapoole, madalamale langema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Laev on allapoole veepiiri vajunud.",
+            "Päike vajub metsa taha.",
+            "Jalad vajusid liiva sisse.",
+            "Lained tõusevad ja vajuvad.",
+            "Mees vajus läbi jää.",
+            "Laev vajus põhja."
+          ],
+          "synonyms": [
+            "laskuma",
+            "laskma,laskuma",
+            "langema",
+            "alanema",
+            "uppuma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "погружаться",
+                "weight": 1
+              },
+              {
+                "words": "погрузиться",
+                "weight": 1
+              },
+              {
+                "words": "опускаться",
+                "weight": 1
+              },
+              {
+                "words": "опуститься",
+                "weight": 1
+              },
+              {
+                "words": "увязать",
+                "weight": 1
+              },
+              {
+                "words": "увязнуть",
+                "weight": 1
+              },
+              {
+                "words": "оседать",
+                "weight": 1
+              },
+              {
+                "words": "осесть",
+                "weight": 1
+              },
+              {
+                "words": "садиться",
+                "weight": 1
+              },
+              {
+                "words": "сесть",
+                "weight": 1
+              },
+              {
+                "words": "садиться,сесть,спускаться,спуститься,опускаться,опуститься",
+                "weight": 0.7385
+              },
+              {
+                "words": "падать,упасть",
+                "weight": 0.8067
+              },
+              {
+                "words": "снижаться,снизиться,понижаться,понизиться,спадать,спасть",
+                "weight": 0.9
+              },
+              {
+                "words": "утопать",
+                "weight": 0.496
+              }
+            ],
+            "ukr": [
+              {
+                "words": "опускатися",
+                "weight": 1
+              },
+              {
+                "words": "опуститися",
+                "weight": 1
+              },
+              {
+                "words": "провалюватися",
+                "weight": 1
+              },
+              {
+                "words": "провалитися",
+                "weight": 1
+              },
+              {
+                "words": "грузнути",
+                "weight": 1
+              },
+              {
+                "words": "загрузати",
+                "weight": 1
+              },
+              {
+                "words": "загрузнути",
+                "weight": 1
+              },
+              {
+                "words": "занурюватися",
+                "weight": 1
+              },
+              {
+                "words": "зануритися",
+                "weight": 1
+              },
+              {
+                "words": "спуститися,опускатися,опуститися,сідати,сісти,спускатися",
+                "weight": 0.7385
+              }
+            ],
+            "fra": [
+              {
+                "words": "descendre",
+                "weight": 0.7385
+              }
+            ]
+          }
+        },
+        {
+          "definition": "püstiasendist vm normaalasendist kaldu, maha vm asendisse langema või laskuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Vana maja on hakanud viltu vajuma.",
+            "Naine vajus põlvili.",
+            "Suu vajub üllatusest ammuli.",
+            "Silm vajus looja."
+          ],
+          "synonyms": [
+            "kalduma",
+            "kalduma",
+            "kukkuma",
+            "kukkuma",
+            "murduma",
+            "laskuma,laskma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "опускаться",
+                "weight": 1
+              },
+              {
+                "words": "опуститься",
+                "weight": 1
+              },
+              {
+                "words": "клониться",
+                "weight": 1
+              },
+              {
+                "words": "валиться",
+                "weight": 1
+              },
+              {
+                "words": "склоняться",
+                "weight": 1
+              },
+              {
+                "words": "склониться",
+                "weight": 1
+              },
+              {
+                "words": "отклоняться,уклоняться,уклониться,отклониться",
+                "weight": 0.7
+              },
+              {
+                "words": "накрениться,крениться",
+                "weight": 0.7
+              },
+              {
+                "words": "падать,упасть",
+                "weight": 0.679
+              },
+              {
+                "words": "спускаться,спуститься,опускаться,опуститься,садиться,сесть",
+                "weight": 0.7385
+              }
+            ],
+            "ukr": [
+              {
+                "words": "відхилятися,відхилитися,ухилитися,нахилятися,нахилитися,ухилятися",
+                "weight": 0.7
+              },
+              {
+                "words": "упасти,падати",
+                "weight": 0.679
+              },
+              {
+                "words": "спускатися,спуститися,опускатися,опуститися,сідати,сісти",
+                "weight": 0.7385
+              }
+            ],
+            "fra": [
+              {
+                "words": "tomber",
+                "weight": 0.679
+              },
+              {
+                "words": "descendre",
+                "weight": 0.7385
+              }
+            ],
+            "eng": [
+              {
+                "words": "fall",
+                "weight": 0.679
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(hääle, tooni vaibumise või madaldumise kohta)",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [
+            "langema",
+            "madalduma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "понижаться",
+                "weight": 1
+              },
+              {
+                "words": "понизиться",
+                "weight": 1
+              },
+              {
+                "words": "понижаться,понизиться",
+                "weight": 0.8067
+              },
+              {
+                "words": "снижаться,снизиться,понижаться,понизиться",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "sattuma mingisse olekusse või meeleolusse",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Taat on mõttesse vajunud.",
+            "Lapsuke vajus unne.",
+            "Ta oli pingest väsinud ja vajus depressiooni."
+          ],
+          "synonyms": [
+            "libisema",
+            "laskuma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "впадать",
+                "weight": 1
+              },
+              {
+                "words": "впасть",
+                "weight": 1
+              },
+              {
+                "words": "погружаться",
+                "weight": 1
+              },
+              {
+                "words": "погрузиться",
+                "weight": 1
+              },
+              {
+                "words": "проскользнуть,срываться,сорваться,слетать,слететь,проскальзывать",
+                "weight": 0.9
+              },
+              {
+                "words": "вдаваться,вдаться,пускаться,пуститься",
+                "weight": 0.7385
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kuhugi tulema või minema, liikuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Tuppa vajus kamp joodikuid."
+          ],
+          "synonyms": [
+            "ujuma",
+            "pressima",
+            "oma nina pistma",
+            "purjetama",
+            "valguma",
+            "pudenema",
+            "samme seadma",
+            "kobima,kerima,kasima",
+            "kõbima",
+            "minema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "вваливаться",
+                "weight": 1
+              },
+              {
+                "words": "ввалиться",
+                "weight": 1
+              },
+              {
+                "words": "высунуть нос",
+                "weight": 0.9
+              },
+              {
+                "words": "выплыть,проплыть,плыть",
+                "weight": 0.9
+              },
+              {
+                "words": "навалить,вывалить,вываливать,растекаться,рассеяться,рассеиваться,разбредаться,разбрестись,нахлынуть,растечься,хлынуть,повалить,валить",
+                "weight": 0.9
+              },
+              {
+                "words": "рассосаться,расходиться,разойтись,рассыпаться,рассасываться",
+                "weight": 0.561
+              },
+              {
+                "words": "уматываться,выместись,выметаться,проваливать,убраться,убираться,умотаться,умотать,уматывать",
+                "weight": 0.9
+              },
+              {
+                "words": "отправляться,отправиться,поехать,ехать,пойти,идти",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "aller",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "їхати,піти,поїхати,відправлятися,відправитися,іти",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "astuma",
+        "pisenema",
+        "alanema",
+        "oma nina pistma",
+        "samme seadma",
+        "kokku kuivama",
+        "kerima",
+        "põrutama",
+        "kuivama",
+        "vajutama",
+        "jalgu selga võtma",
+        "vähenema",
+        "kokku sulama",
+        "purjetama",
+        "minema",
+        "kahanema",
+        "madalduma",
+        "langema",
+        "valguma",
+        "ronima",
+        "sulama",
+        "sammuma",
+        "kobima",
+        "kõbima",
+        "süüvima",
+        "maha libisema",
+        "kaduma",
+        "libisema",
+        "roomama",
+        "laskuma",
+        "pead norgu laskma",
+        "käima",
+        "norutama",
+        "varisema",
+        "kurvameelne",
+        "põhja minema",
+        "sukelduma",
+        "kukkuma",
+        "sisse langema",
+        "painduma",
+        "süvenema",
+        "paiskuma",
+        "kõikuma",
+        "ära uppuma",
+        "liuglema",
+        "harjuma",
+        "vajukaev",
+        "ehmuma",
+        "hajuma",
+        "pragunema",
+        "pudenema",
+        "hulpima",
+        "kobrutama",
+        "rapsima",
+        "mattuma",
+        "imbuma",
+        "kuhjuma",
+        "külmuma",
+        "loojuma",
+        "rühkima",
+        "vajumine",
+        "tuulduma",
+        "rappuma",
+        "kiskuma",
+        "õõtsuma",
+        "õõtsutama",
+        "jäätuma",
+        "ukerdama",
+        "lonkima",
+        "minema",
+        "viltu",
+        "alla",
+        "alla",
+        "küüru",
+        "nukrutsema",
+        "kössi",
+        "maha",
+        "kühmu",
+        "vimma",
+        "kukkuma",
+        "kühmuma",
+        "kiljuma",
+        "kebima"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vajuma",
+      "translations": [
+        "lapse into",
+        "sink"
+      ]
+    }
+  ]
+}

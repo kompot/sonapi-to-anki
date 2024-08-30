@@ -1,0 +1,76 @@
+{
+  "requestedWord": "teistkordselt",
+  "estonianWord": "teistkordselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "teistkordselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "esimese korra järel uuesti, järgmisena",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Lõosilm õitseb maist juulini ning teistkordselt septembris-oktoobris.",
+            "Sel kevadel sai Meeri teistkordselt vanaemaks."
+          ],
+          "synonyms": [
+            "teist korda"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "вторично",
+                "weight": 1
+              },
+              {
+                "words": "повторно",
+                "weight": 1
+              },
+              {
+                "words": "во второй раз",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jälle",
+        "taas",
+        "remilitariseerima",
+        "uuesti",
+        "taaslooma",
+        "jällegi",
+        "järjekordselt",
+        "korduvalt",
+        "teist",
+        "esmakordselt",
+        "taaskord",
+        "korda",
+        "teistkordne"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "teistkordselt",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,958 @@
+{
+  "requestedWord": "viima",
+  "estonianWord": "viima",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "38",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "viin"
+        },
+        {
+          "inflectionType": "38",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "viid"
+        },
+        {
+          "inflectionType": "38",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "viib"
+        },
+        {
+          "inflectionType": "38",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "viime"
+        },
+        {
+          "inflectionType": "38",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "viite"
+        },
+        {
+          "inflectionType": "38",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "viivad"
+        },
+        {
+          "inflectionType": "38",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "vii"
+        },
+        {
+          "inflectionType": "38",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "viiakse"
+        },
+        {
+          "inflectionType": "38",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "viida"
+        },
+        {
+          "inflectionType": "38",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "viisin"
+        },
+        {
+          "inflectionType": "38",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "viisid"
+        },
+        {
+          "inflectionType": "38",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "viis"
+        },
+        {
+          "inflectionType": "38",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "viisime"
+        },
+        {
+          "inflectionType": "38",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "viisite"
+        },
+        {
+          "inflectionType": "38",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "viisid"
+        },
+        {
+          "inflectionType": "38",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "viidi"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "viiksin"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "viiksid"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "viiks"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "viiksime"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "viiksite"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "viiksid"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "viidaks"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "viinuksin"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "viinuksid"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "viinuks"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "viinuksime"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "viinuksite"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "viinuksid"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "viiduks"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "viivat"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "viidavat"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "viinuvat"
+        },
+        {
+          "inflectionType": "38",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "viiduvat"
+        },
+        {
+          "inflectionType": "38",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "vii"
+        },
+        {
+          "inflectionType": "38",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "viigem"
+        },
+        {
+          "inflectionType": "38",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "viige"
+        },
+        {
+          "inflectionType": "38",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "viigu"
+        },
+        {
+          "inflectionType": "38",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "viidagu"
+        },
+        {
+          "inflectionType": "38",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "viima"
+        },
+        {
+          "inflectionType": "38",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "viimata"
+        },
+        {
+          "inflectionType": "38",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "viimas"
+        },
+        {
+          "inflectionType": "38",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "viimast"
+        },
+        {
+          "inflectionType": "38",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "viimaks"
+        },
+        {
+          "inflectionType": "38",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "viidama"
+        },
+        {
+          "inflectionType": "38",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "viia"
+        },
+        {
+          "inflectionType": "38",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "viies"
+        },
+        {
+          "inflectionType": "38",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "viiv"
+        },
+        {
+          "inflectionType": "38",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "viidav"
+        },
+        {
+          "inflectionType": "38",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "viinud"
+        },
+        {
+          "inflectionType": "38",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "viinud"
+        },
+        {
+          "inflectionType": "38",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "viidud"
+        },
+        {
+          "inflectionType": "38",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "viidud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "midagi või kedagi toimetama kusagilt kuhugi, kellelegi või ära,kuhugi minnes kedagi või midagi kaasa võtma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Isa viis hommikul lapsed kooli.",
+            "Ära unusta naisele sünnipäevaks lilli viia.",
+            "Limusiin viib presidendi otse lennujaama.",
+            "Tuul viis mütsi peast.",
+            "Laps viis õpetajale lilli.",
+            "Ema viis lapsed lasteaeda.",
+            "Viisin asjad töölt koju.",
+            "Kannatanu viidi haiglasse helikopteriga."
+          ],
+          "synonyms": [
+            "toimetama",
+            "laiali vedama",
+            "tassima,tarima",
+            "vedama,transportima",
+            "kandma",
+            "tooma",
+            "sõidutama",
+            "välja kandma",
+            "välja viima",
+            "ära tassima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "нести",
+                "weight": 1
+              },
+              {
+                "words": "отнести",
+                "weight": 1
+              },
+              {
+                "words": "вести",
+                "weight": 1
+              },
+              {
+                "words": "отвести",
+                "weight": 1
+              },
+              {
+                "words": "везти",
+                "weight": 1
+              },
+              {
+                "words": "отвезти",
+                "weight": 1
+              },
+              {
+                "words": "водить",
+                "weight": 1
+              },
+              {
+                "words": "отводить",
+                "weight": 1
+              },
+              {
+                "words": "носить",
+                "weight": 1
+              },
+              {
+                "words": "относить",
+                "weight": 1
+              },
+              {
+                "words": "возить",
+                "weight": 1
+              },
+              {
+                "words": "отвозить",
+                "weight": 1
+              },
+              {
+                "words": "завести",
+                "weight": 1
+              },
+              {
+                "words": "доставлять,доставить",
+                "weight": 0.9
+              },
+              {
+                "words": "тащить,волочить,таскать",
+                "weight": 0.75
+              },
+              {
+                "words": "везти,возить,перевозить,транспортировать",
+                "weight": 0.611
+              },
+              {
+                "words": "нанашивать,нести,носить,таскать,тащить,заносить,вносить,занести,наносить",
+                "weight": 0.9
+              },
+              {
+                "words": "приносить,привозить,приводить,привести,принести,привезти",
+                "weight": 0.6375
+              },
+              {
+                "words": "прокатить,катить,отвезти,отвозить,везти,катать,возить",
+                "weight": 0.9
+              },
+              {
+                "words": "выносить,вынести",
+                "weight": 0.9
+              },
+              {
+                "words": "выводить,вывести,вывозить,вывезти,выносить,вынести",
+                "weight": 0.7
+              },
+              {
+                "words": "притаскивать,утащить,утаскивать,притащить",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "нести",
+                "weight": 1
+              },
+              {
+                "words": "віднести",
+                "weight": 1
+              },
+              {
+                "words": "вести",
+                "weight": 1
+              },
+              {
+                "words": "відвести",
+                "weight": 1
+              },
+              {
+                "words": "везти",
+                "weight": 1
+              },
+              {
+                "words": "відвезти",
+                "weight": 1
+              },
+              {
+                "words": "водити",
+                "weight": 1
+              },
+              {
+                "words": "відводити",
+                "weight": 1
+              },
+              {
+                "words": "носити",
+                "weight": 1
+              },
+              {
+                "words": "відносити",
+                "weight": 1
+              },
+              {
+                "words": "возити",
+                "weight": 1
+              },
+              {
+                "words": "відвозити",
+                "weight": 1
+              },
+              {
+                "words": "доставити,привозити,привезти,доправляти,доправити,доставляти",
+                "weight": 0.9
+              },
+              {
+                "words": "перевозити,везти,возити,транспортувати",
+                "weight": 0.611
+              },
+              {
+                "words": "носити,нести",
+                "weight": 0.9
+              },
+              {
+                "words": "принести,приносити,приводити,привести,привозити,привезти",
+                "weight": 0.6375
+              },
+              {
+                "words": "везти,возити,катати",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "transporter",
+                "weight": 0.611
+              },
+              {
+                "words": "porter",
+                "weight": 0.9
+              },
+              {
+                "words": "apporter",
+                "weight": 0.6375
+              },
+              {
+                "words": "transporter",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(millegi teatamise, edasirääkimise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Poiss jooksis naabritele sõna viima.",
+            "Viige talle minu poolt terviseid."
+          ],
+          "synonyms": [
+            "kandma",
+            "edasi andma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "передавать",
+                "weight": 1
+              },
+              {
+                "words": "передать",
+                "weight": 1
+              },
+              {
+                "words": "передавать,передать",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "transmettre",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "передавати,передати",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(pilgu, jutu, mõtte suunamise, juhtimise kohta),(teise kohta) suunama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Naine viis jutu teisale.",
+            "Film viis mu mõtted mujale.",
+            "Asutus viidi teise linna.",
+            "Õpilane viidi järgmisse klassi."
+          ],
+          "synonyms": [
+            "suunama",
+            "üle viima",
+            "kõrvale juhtima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "уводить",
+                "weight": 1
+              },
+              {
+                "words": "увести",
+                "weight": 1
+              },
+              {
+                "words": "переносить",
+                "weight": 1
+              },
+              {
+                "words": "перенести",
+                "weight": 1
+              },
+              {
+                "words": "переводить",
+                "weight": 1
+              },
+              {
+                "words": "перевести",
+                "weight": 1
+              },
+              {
+                "words": "нацелить,нацеливать",
+                "weight": 0.7
+              },
+              {
+                "words": "перевести,переносить,перенести,переводить",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "переводити",
+                "weight": 1
+              },
+              {
+                "words": "перевести",
+                "weight": 1
+              },
+              {
+                "words": "переносити",
+                "weight": 1
+              },
+              {
+                "words": "перенести",
+                "weight": 1
+              },
+              {
+                "words": "переводити,перевести,переносити,перенести",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingisse seisundisse, olukorda jõudmist põhjustama,mingisse seisundisse, olukorda ajama,midagi põhjustama, mingisse seisundisse või olukorda juhtima",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Vii mind palun asjadega kurssi.",
+            "Pahandused viisid naise ahastusse.",
+            "Viin on meestel aru peast viinud.",
+            "Kodune vägivald viis naise enesetapuni."
+          ],
+          "synonyms": [
+            "ajama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "доводить",
+                "weight": 1
+              },
+              {
+                "words": "довести",
+                "weight": 1
+              },
+              {
+                "words": "приводить",
+                "weight": 1
+              },
+              {
+                "words": "привести",
+                "weight": 1
+              },
+              {
+                "words": "вводить",
+                "weight": 1
+              },
+              {
+                "words": "ввести",
+                "weight": 1
+              },
+              {
+                "words": "вызывать,вызвать",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "доводити",
+                "weight": 1
+              },
+              {
+                "words": "довести",
+                "weight": 1
+              },
+              {
+                "words": "приводити",
+                "weight": 1
+              },
+              {
+                "words": "привести",
+                "weight": 1
+              },
+              {
+                "words": "призводити",
+                "weight": 1
+              },
+              {
+                "words": "призвести",
+                "weight": 1
+              },
+              {
+                "words": "вводити",
+                "weight": 1
+              },
+              {
+                "words": "ввести",
+                "weight": 1
+              },
+              {
+                "words": "викликати,викликати",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tee, läbipääsu vms kohta:) kuhugi liikumist võimaldama,tee kohta: mingi kohani kulgema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "See tänav viib kesklinna.",
+            "Üle jõe viib mitu silda.",
+            "Rõdule viiv uks oli lahti jäänud.",
+            "Rada viis mäe tippu.",
+            "Tänav viib otse bussijaama juurde."
+          ],
+          "synonyms": [
+            "tooma",
+            "suunduma",
+            "juhtima",
+            "kulgema",
+            "tulema"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "mener",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вести",
+                "weight": 1
+              },
+              {
+                "words": "выводить",
+                "weight": 1
+              },
+              {
+                "words": "вывести",
+                "weight": 1
+              },
+              {
+                "words": "вести,приводить,привести",
+                "weight": 0.6375
+              },
+              {
+                "words": "уходить,проходить,пройти,уйти,вести",
+                "weight": 0.7
+              },
+              {
+                "words": "направить,направлять",
+                "weight": 0.9
+              },
+              {
+                "words": "лежать,пролегать,тянуться,проходить",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вести",
+                "weight": 1
+              },
+              {
+                "words": "виводити",
+                "weight": 1
+              },
+              {
+                "words": "вивести",
+                "weight": 1
+              },
+              {
+                "words": "тягнутися,пролягати,проходити,простягатися",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "välja viima",
+        "edasi andma",
+        "suunama",
+        "suunduma",
+        "üle viima",
+        "toimetama",
+        "siirma",
+        "korda saatma",
+        "teoks tegema",
+        "eksportima",
+        "tõmbama",
+        "laiali vedama",
+        "tarima",
+        "tasandama",
+        "kinnitama",
+        "toime panema",
+        "lööma",
+        "juhtima",
+        "tõstma",
+        "paigutama",
+        "pidama",
+        "pidama",
+        "täitma",
+        "sooritama",
+        "sõidutama",
+        "rajama",
+        "lähendama",
+        "kõrvale juhtima",
+        "välja kandma",
+        "kaasa vedama",
+        "kinni haarama",
+        "saatma",
+        "tassima",
+        "juurde tooma",
+        "kulgema",
+        "talutama",
+        "laiali kandma",
+        "haarama",
+        "vedama",
+        "tirima",
+        "tegema",
+        "pigistama",
+        "kandma",
+        "üle vedama",
+        "välja vedama",
+        "teostama",
+        "kahandama",
+        "ajama",
+        "transportima",
+        "ära tassima",
+        "üles panema",
+        "tooma",
+        "tulema",
+        "läkitama",
+        "organiseerima",
+        "korraldama",
+        "jõudma",
+        "vaatama",
+        "tormama",
+        "kiirustama",
+        "muutma",
+        "minema",
+        "kaasa",
+        "kaasa",
+        "ära",
+        "ära",
+        "tulema",
+        "tulema",
+        "tutistama",
+        "ette",
+        "lähedale",
+        "pärale",
+        "kohale",
+        "juurde",
+        "vähendama",
+        "madaldama",
+        "laskuma",
+        "nõeluma",
+        "sisse",
+        "koodima",
+        "täide saatma",
+        "kodeerima",
+        "alandama",
+        "majandama",
+        "sundima",
+        "sotsialiseerima",
+        "kavandama",
+        "veerima",
+        "innustama",
+        "algatama",
+        "masseerima",
+        "reorganiseerima",
+        "ülbama",
+        "kohustama",
+        "läbi",
+        "õigustama",
+        "ärgitama",
+        "planeerima",
+        "planeerima",
+        "vibama",
+        "minema",
+        "motiveerima",
+        "ruttama",
+        "hülgama",
+        "mobiliseerima",
+        "reformima",
+        "talitama",
+        "realiseerima",
+        "kehtestama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "viima",
+      "translations": [
+        "conduce",
+        "give onto",
+        "lead to",
+        "(millenigi) lead up to"
+      ]
+    }
+  ]
+}

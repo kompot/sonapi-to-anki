@@ -1,0 +1,615 @@
+{
+  "requestedWord": "koitma",
+  "estonianWord": "koitma",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "34",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "koitma"
+        },
+        {
+          "inflectionType": "34",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "koitmata"
+        },
+        {
+          "inflectionType": "34",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "koitmas"
+        },
+        {
+          "inflectionType": "34",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "koitmast"
+        },
+        {
+          "inflectionType": "34",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "koitmaks"
+        },
+        {
+          "inflectionType": "34",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "koidetama"
+        },
+        {
+          "inflectionType": "34",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "koita"
+        },
+        {
+          "inflectionType": "34",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "koites"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "koitev"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "koidetav"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "koitnud"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "koitnud"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "koidetud"
+        },
+        {
+          "inflectionType": "34",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "koidetud"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "koidan"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "koidad"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "koidab"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "koidame"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "koidate"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "koidavad"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "koida"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "koidetakse"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "koideta"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "koitsin"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "koitsid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "koitis"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "koitsime"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "koitsite"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "koitsid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "koideti"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "koidaksin"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "koidaksid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "koidaks"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "koidaksime"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "koidaksite"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "koidaksid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "koidetaks"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "koitnuksin"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "koitnuksid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "koitnuks"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "koitnuksime"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "koitnuksite"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "koitnuksid"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "koidetuks"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "koitvat"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "koidetavat"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "koitnuvat"
+        },
+        {
+          "inflectionType": "34",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "koidetuvat"
+        },
+        {
+          "inflectionType": "34",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "koida"
+        },
+        {
+          "inflectionType": "34",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "koitkem"
+        },
+        {
+          "inflectionType": "34",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "koitke"
+        },
+        {
+          "inflectionType": "34",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "koitku"
+        },
+        {
+          "inflectionType": "34",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "koidetagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(aja kohta enne päikesetõusu, päeva algamise, valgeks minemise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Hommik koidab, laps ärkab, uus päev algab.",
+            "Päev koitis juba."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "светать",
+                "weight": 1
+              },
+              {
+                "words": "светлеть",
+                "weight": 1
+              },
+              {
+                "words": "посветлеть",
+                "weight": 1
+              },
+              {
+                "words": "рассветать",
+                "weight": 1
+              },
+              {
+                "words": "рассвести",
+                "weight": 1
+              },
+              {
+                "words": "брезжить",
+                "weight": 1
+              },
+              {
+                "words": "брезжиться",
+                "weight": 1
+              },
+              {
+                "words": "заниматься",
+                "weight": 1
+              },
+              {
+                "words": "заняться",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ühenduses oodatud-loodetud asjaga:) paistma hakkama, peatselt kätte jõudmas olema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ministri tähetund koitiski märtsi viimasel päeval.",
+            "Suur võit koitis."
+          ],
+          "synonyms": [
+            "saabuma",
+            "liginema,lähenema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "наступать",
+                "weight": 1
+              },
+              {
+                "words": "наступить",
+                "weight": 1
+              },
+              {
+                "words": "наставать",
+                "weight": 1
+              },
+              {
+                "words": "настать",
+                "weight": 1
+              },
+              {
+                "words": "наставать,настать,надвигаться,надвинуться,приспевать,приспеть,воцаряться,воцариться,наступать,наступить",
+                "weight": 0.7673
+              },
+              {
+                "words": "наступать,приближаться,близиться,подходить,сближаться,сблизиться,приблизиться,придвигаться,придвинуться,подступать,подступить,подступаться,подступиться,надвигаться,надвинуться,подойти",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "arriver",
+                "weight": 0.7673
+              },
+              {
+                "words": "approcher",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "наставати,настати,надходити,надійти",
+                "weight": 0.7673
+              },
+              {
+                "words": "наблизитися,наближатися",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "arrive",
+                "weight": 0.7673
+              },
+              {
+                "words": "approach",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellelegi tasapisi mõistetavaks, arusaadavaks muutuma, kellegi arusaamisse jõudma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kuulates hakkas mulle koitma, et ta räägib täielikku mõttetust.",
+            "Mul ei koida üldse, millest jutt käib.",
+            "Vaata viimast lauset, võib-olla koidab sulle siis miskit."
+          ],
+          "synonyms": [
+            "tolku saama,aru saama,mõistma,taipu saama",
+            "jagama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "проясняться",
+                "weight": 1
+              },
+              {
+                "words": "проясниться",
+                "weight": 1
+              },
+              {
+                "words": "озаряться",
+                "weight": 1
+              },
+              {
+                "words": "озариться",
+                "weight": 1
+              },
+              {
+                "words": "осенять",
+                "weight": 1
+              },
+              {
+                "words": "осенить",
+                "weight": 1
+              },
+              {
+                "words": "озарять",
+                "weight": 1
+              },
+              {
+                "words": "озарить",
+                "weight": 1
+              },
+              {
+                "words": "понимать,разбираться,постигать,разуметь,постигнуть,постичь,уразумевать,уразуметь,осознавать,осознать,понять,разобраться",
+                "weight": 0.9
+              },
+              {
+                "words": "смекать,соображать,разбираться",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "comprendre",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "розуміти,зрозуміти",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "understand",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "valgenema",
+        "ligi saama",
+        "jõudma",
+        "peale kippuma",
+        "ligi kippuma",
+        "hahetama",
+        "lähenema",
+        "saabuma",
+        "lööma",
+        "perutama",
+        "müristama",
+        "turtsuma",
+        "ehmuma",
+        "röökima",
+        "lõõmama",
+        "lösutama",
+        "tümitama",
+        "ohkima",
+        "käputama",
+        "klõbistama",
+        "nokkima",
+        "müttama",
+        "poputama",
+        "sehkendama",
+        "tiksuma",
+        "rehkendama",
+        "tibutama",
+        "näägutama",
+        "nöökima",
+        "põristama",
+        "ulguma",
+        "kõditama",
+        "loitma",
+        "konutama",
+        "pikutama",
+        "kokutama",
+        "käperdama",
+        "öökima",
+        "kiljuma",
+        "ülbama",
+        "kimama",
+        "töllerdama",
+        "sikutama",
+        "oigama",
+        "sosistama",
+        "paugutama",
+        "plärtsuma",
+        "prääksuma",
+        "kibelema",
+        "väristama",
+        "õõtsuma",
+        "soiguma",
+        "naitma",
+        "kõmpima",
+        "nüpeldama",
+        "solkima",
+        "huilgama",
+        "ropsima",
+        "lonkima"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "koitma",
+      "translations": [
+        "dawn",
+        "dawn on",
+        "dawn upon one"
+      ]
+    }
+  ]
+}

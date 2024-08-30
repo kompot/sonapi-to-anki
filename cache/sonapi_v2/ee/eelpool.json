@@ -1,0 +1,81 @@
+{
+  "requestedWord": "eelpool",
+  "estonianWord": "eelpool",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eelpool"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(tekstis, tegevuses) eelnevalt, varem, enne teatavat asja,(tekstis) varem",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nagu eelpool öeldud, vajab küljendaja suurt ekraani."
+          ],
+          "synonyms": [
+            "eespool",
+            "eel",
+            "ülal,ülalpool,ülevalpool"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "précédemment",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "выше",
+                "weight": 1
+              },
+              {
+                "words": "ранее",
+                "weight": 1
+              },
+              {
+                "words": "выше,ранее",
+                "weight": 0.511
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вище",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ülevalpool",
+        "ülalmainitud",
+        "ülalpool",
+        "allpool",
+        "eespool"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "eelpool",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "requestedWord": "koos",
+  "estonianWord": "koos",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "koos"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ühte kohta, üheks rühmaks koondatult või koondunult, ühe rühmana,ühes kohas,ühe tervikuna",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kivid on hunnikus koos.",
+            "Kivid on hunnikus koos.",
+            "Kaotasin rahakoti koos dokumentidega."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "ensemble",
+                "weight": 1
+              },
+              {
+                "words": "avec",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вместе",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "разом",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ühes tervikus, üht tervikut moodustavana,ühiselt, üheskoos",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Näitetrupp püsis koos ühe suve.",
+            "Plaan koos, ta rahunes.",
+            "Elame teist aastat koos."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(koosolemise, kokkutulemise või kokkusaamise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Rahvast oli murdu koos.",
+            "Kas raha on koos?"
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "väga lähestikku või päris vastamisi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nad arutasid midagi, pead koos.",
+            "Olime päevade viisi ninapidi koos.",
+            "Püksid viikipidi koos."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "ühe rühmana, üheskoos, kellegi seltsis,kellegi seltskonnas, ühes grupis",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Istusime õhtuti neljakesi koos.",
+            "Tule koos minuga kinno.",
+            "Robin jäi ootama, koer temaga koos.",
+            "Ema koos kolme lapsega.",
+            "Kaotasin rahakoti koos dokumentidega.",
+            "Seltskondlik üritus koos veini ja suupistetega.",
+            "Õde ja vend läksid koos kooli.",
+            "Jõulude ajal on pere alati koos.",
+            "Kas esinete koos või eraldi?",
+            "Nad tulid külla koos lastega."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "ensemble",
+                "weight": 1
+              },
+              {
+                "words": "avec",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вместе",
+                "weight": 1
+              },
+              {
+                "words": "с",
+                "weight": 1
+              },
+              {
+                "words": "со",
+                "weight": 1
+              },
+              {
+                "words": "совместно",
+                "weight": 1
+              },
+              {
+                "words": "сообща",
+                "weight": 1
+              },
+              {
+                "words": "сообща с",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "разом",
+                "weight": 1
+              },
+              {
+                "words": "з",
+                "weight": 1
+              },
+              {
+                "words": "із",
+                "weight": 1
+              },
+              {
+                "words": "зі",
+                "weight": 1
+              },
+              {
+                "words": "спільно",
+                "weight": 1
+              },
+              {
+                "words": "гуртом",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajaliselt:) osutab mingi sündmuse või olukorra samaaegsusele",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Hommikul tõusti koos päikesega."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вместе",
+                "weight": 1
+              },
+              {
+                "words": "с",
+                "weight": 1
+              },
+              {
+                "words": "со",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegagi ühenduses, seoses",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Koos tema surmaga kaotas kõik mõtte."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вместе",
+                "weight": 1
+              },
+              {
+                "words": "с",
+                "weight": 1
+              },
+              {
+                "words": "со",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegagi kaetud,millestki hõlmatud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Saapad on poriga koos.",
+            "Suu on magusaga koos.",
+            "Oleksin õnnega koos, kui töö leiaksin."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "kogu täiega",
+        "troppis",
+        "kambas",
+        "pundis",
+        "üheskoos",
+        "mestis",
+        "seltsis",
+        "saatel",
+        "ühes",
+        "kõige täiega",
+        "kõige",
+        "ühiselt",
+        "kuuekesi",
+        "kolmekesi",
+        "viiekesi",
+        "kahekesi",
+        "joon",
+        "kurss",
+        "tegevusliin",
+        "tegevusharu",
+        "suund",
+        "sõidusuund",
+        "haru",
+        "siht",
+        "liin",
+        "verine",
+        "ära jooma",
+        "aktinomükoos",
+        "ühe"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "koos"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "koosi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "koosi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "koosi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "koosisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "koosis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "koosist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "koosile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "koosil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "koosilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "koosiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "koosini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "koosina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "koosita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "koosiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "koosid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kooside"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "koose,koosisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "koosidesse,koosesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "koosides,kooses"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "koosidest,koosest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "koosidele,koosele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "koosidel,koosel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "koosidelt,kooselt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "koosideks,kooseks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "koosideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "koosidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "koosideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "koosidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "laeva või lennuki liikumissuund,laeva või lennuki liikumise suund,liikumise suund",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Paat võttis koosi põhja poole."
+          ],
+          "synonyms": [
+            "sõidukurss",
+            "kurss",
+            "sõidusuund",
+            "siht",
+            "liikumissuund",
+            "suund",
+            "tee"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "cap",
+                "weight": 1
+              },
+              {
+                "words": "direction,sens",
+                "weight": 0.9
+              },
+              {
+                "words": "chemin,route",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "курс",
+                "weight": 1
+              },
+              {
+                "words": "направление",
+                "weight": 1
+              },
+              {
+                "words": "направление движения",
+                "weight": 0.9
+              },
+              {
+                "words": "направление",
+                "weight": 0.9
+              },
+              {
+                "words": "направление движения",
+                "weight": 0.7
+              },
+              {
+                "words": "направление,сторона,курс",
+                "weight": 0.9
+              },
+              {
+                "words": "путь,дорога",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "курс",
+                "weight": 1
+              },
+              {
+                "words": "напрям",
+                "weight": 1
+              },
+              {
+                "words": "напрямок",
+                "weight": 1
+              },
+              {
+                "words": "напрям,напрямок,курс",
+                "weight": 0.9
+              },
+              {
+                "words": "дорога,шлях",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "direction",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "liikumissuund",
+        "joon",
+        "kurss",
+        "suund",
+        "sõidusuund",
+        "siht",
+        "liin",
+        "troppis",
+        "kogu täiega",
+        "tegevusliin",
+        "tegevusharu",
+        "kambas",
+        "pundis",
+        "üheskoos",
+        "mestis",
+        "seltsis",
+        "saatel",
+        "ühes",
+        "kõige täiega",
+        "haru",
+        "kõige",
+        "ühiselt",
+        "verine",
+        "ära jooma",
+        "kuuekesi",
+        "aktinomükoos",
+        "kolmekesi",
+        "viiekesi",
+        "ühe",
+        "kahekesi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "koos",
+      "translations": [
+        "along with",
+        "cum",
+        "in conjunction",
+        "in conjunction with",
+        "in connection with",
+        "together",
+        "together with",
+        "with",
+        "withal (< with+all)"
+      ]
+    }
+  ]
+}

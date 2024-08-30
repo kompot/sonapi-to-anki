@@ -1,0 +1,76 @@
+{
+  "requestedWord": "värskelt",
+  "estonianWord": "värskelt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "värskelt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "недавно",
+                "weight": 1
+              },
+              {
+                "words": "свежо",
+                "weight": 1
+              },
+              {
+                "words": "только что",
+                "weight": 1
+              },
+              {
+                "words": "в свежем виде",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "noorelt",
+        "värskendavalt",
+        "vastselt",
+        "magusalt",
+        "kuivatatult",
+        "verivärske",
+        "äsja",
+        "priskelt",
+        "niiskelt",
+        "värske"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "värskelt",
+      "translations": [
+        "bright and early",
+        "freshly",
+        "newly"
+      ]
+    }
+  ]
+}

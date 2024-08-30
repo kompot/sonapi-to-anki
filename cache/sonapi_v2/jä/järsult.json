@@ -1,0 +1,147 @@
+{
+  "requestedWord": "järsult",
+  "estonianWord": "järsult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "järsult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "äkki ja ootamatult, suure intensiivsusega,kiiresti ja ootamatult",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Buss pidurdas järsult ja kõik inimesed vajusid ettepoole.",
+            "Järsult saabunud talve tõttu oli liiklus kohutav.",
+            "Brasiilia majandus langeb järsult.",
+            "Haige seisund halvenes järsult."
+          ],
+          "synonyms": [
+            "äkiliselt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "brusquement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "резко",
+                "weight": 1
+              },
+              {
+                "words": "внезапно",
+                "weight": 1
+              },
+              {
+                "words": "мгновенно",
+                "weight": 1
+              },
+              {
+                "words": "поспешно",
+                "weight": 1
+              },
+              {
+                "words": "порывисто",
+                "weight": 1
+              },
+              {
+                "words": "скоропалительно",
+                "weight": 1
+              },
+              {
+                "words": "вдруг",
+                "weight": 1
+              },
+              {
+                "words": "круто",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "різко",
+                "weight": 1
+              },
+              {
+                "words": "раптом",
+                "weight": 1
+              },
+              {
+                "words": "раптово",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "püstsuunas tugevasti tõusvalt või langevalt, tugeva kallakuga,maapinna suhtes suure nurga all",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Rada läks järsult üles ja siis kohe jälle järsult alla, sundides kogu aeg haarama kinni puudest või okstest.",
+            "Tee tõuseb järsult mäkke."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "iiliti",
+        "äkiliselt",
+        "rabedalt",
+        "kategooriliselt",
+        "ägedalt",
+        "impulsiivselt",
+        "tormakalt",
+        "otsustavalt",
+        "drastiliselt",
+        "pidurdavalt",
+        "järsku",
+        "järsuveeruline",
+        "oluliselt",
+        "järsemalt",
+        "valuliselt",
+        "märgatavalt",
+        "märkimisväärselt",
+        "kiiresti",
+        "järsukaldaline",
+        "järsumalt",
+        "hüppeliselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "järsult",
+      "translations": [
+        "abruptly",
+        "brusquely",
+        "foursquare",
+        "short",
+        "steeply"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "requestedWord": "soome-ugri",
+  "estonianWord": "soome-ugri",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "soome-ugri"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "soomeugrilaste, nende keele ja kultuuriga seotud",
+          "partOfSpeech": [
+            {
+              "code": "adjg",
+              "value": "omastavaline täiend, genitiivatribuut, täiendsõna"
+            }
+          ],
+          "examples": [
+            "Hõimupäevade tähistamine on traditsiooniks ka Soomes, Ungaris ja Venemaa soome-ugri aladel.",
+            "Soomaa puhkeküla pakub põnevaid soome-ugri maitseid, hõrke küpsetisi ja suupisteid."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "финно-угорский",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ugri",
+        "ugri",
+        "Udmurdi",
+        "udmurdi",
+        "ugri-mugri",
+        "ugri-mugri"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "soome-ugri",
+      "translations": [
+        "Finno-Ugrian",
+        "finno-ugric",
+        "Finno-Ugric"
+      ]
+    }
+  ]
+}

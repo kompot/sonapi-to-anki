@@ -1,0 +1,112 @@
+{
+  "requestedWord": "puhul",
+  "estonianWord": "puhul",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "puhul"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegagi või kellegagi seoses, ühenduses,millegagi seoses",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Palju õnne ülikooli lõpetamise puhul!",
+            "Julgusest ei maksa tema puhul rääkida.",
+            "Ülikool korraldab oma 100. aastapäeva puhul piduliku konverentsi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "en cas de",
+                "weight": 1
+              },
+              {
+                "words": "à l'occasion de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "по случаю",
+                "weight": 1
+              },
+              {
+                "words": "по поводу",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з нагоди",
+                "weight": 1
+              },
+              {
+                "words": "з приводу",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi esinemise korral",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Sellise haiguse puhul võib päästa vaid kiire operatsioon."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "при",
+                "weight": 1
+              },
+              {
+                "words": "в случае",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "korral",
+        "lõpukorral",
+        "tõttu",
+        "käigus",
+        "jaoks"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "puhul",
+      "translations": [
+        "in case",
+        "in case of",
+        "re"
+      ]
+    }
+  ]
+}

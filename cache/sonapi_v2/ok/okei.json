@@ -1,0 +1,508 @@
+{
+  "requestedWord": "okei",
+  "estonianWord": "okei",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "okei"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(suhtluses kasutatav ütlus, mis väljendab kinnitust, nõusolekut või mööndust),sõna, millega sa näitad, et oled nõus, või mida sa kasutad, kui vahetad teemat või tegevust",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "Okei, ma laulan ise.",
+            "Okei, mitte halb, vaid paha."
+          ],
+          "synonyms": [
+            "hea küll",
+            "olgu",
+            "heakene küll",
+            "hüva",
+            "ok",
+            "OK",
+            "oki",
+            "okk",
+            "okidoki",
+            "ladna",
+            "klatt",
+            "nõus",
+            "hästi",
+            "minugi pärast,minugipoolest,minugipärast,minupoolest,minupärast,minu poolest,minu pärast,minugi poolest",
+            "mis seal ikka,mis siis ikka",
+            "ega midagi",
+            "timmis",
+            "pole hullu,pole viga"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "all right",
+                "weight": 1
+              },
+              {
+                "words": "okay",
+                "weight": 1
+              },
+              {
+                "words": "OK",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "bon",
+                "weight": 1
+              },
+              {
+                "words": "d'accord",
+                "weight": 1
+              },
+              {
+                "words": "bon,bien",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "хорошо",
+                "weight": 1
+              },
+              {
+                "words": "окей",
+                "weight": 1
+              },
+              {
+                "words": "о’кей",
+                "weight": 1
+              },
+              {
+                "words": "ладно",
+                "weight": 1
+              },
+              {
+                "words": "ладненько",
+                "weight": 1
+              },
+              {
+                "words": "ок",
+                "weight": 1
+              },
+              {
+                "words": "и делу конец,и дело с концом,в порядке",
+                "weight": 0.9
+              },
+              {
+                "words": "согласна,согласен,согласны",
+                "weight": 0.7
+              },
+              {
+                "words": "ладно,хорошо",
+                "weight": 0.7
+              },
+              {
+                "words": "пожалуй,так и быть,да пусть,мне всё равно,по мне",
+                "weight": 0.9
+              },
+              {
+                "words": "ну что же",
+                "weight": 0.7
+              },
+              {
+                "words": "ну да ладно,ну что же",
+                "weight": 0.7
+              },
+              {
+                "words": "в форме,в порядке",
+                "weight": 0.9
+              },
+              {
+                "words": "ничего страшного,ничего",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "гаразд",
+                "weight": 1
+              },
+              {
+                "words": "добре",
+                "weight": 1
+              },
+              {
+                "words": "згода,гаразд,добре",
+                "weight": 0.7
+              },
+              {
+                "words": "нічого страшного,добре",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tipp-topp",
+        "joones",
+        "juttis",
+        "kombes",
+        "asi ants",
+        "tiben-toben",
+        "timmis",
+        "korras",
+        "korras",
+        "tippen-toppen",
+        "valmis",
+        "klaar",
+        "asi tahe",
+        "klatt",
+        "asi vask",
+        "trois",
+        "asi nudi",
+        "toimes",
+        "paigas",
+        "paigas",
+        "aamen",
+        "rihtis",
+        "noh",
+        "nõme",
+        "nojah",
+        "tõesti",
+        "hull",
+        "jah",
+        "suht",
+        "sittagi",
+        "nojaa",
+        "sorri",
+        "ikka",
+        "ilgelt",
+        "jube",
+        "jube",
+        "tegelt",
+        "jamps",
+        "mokas",
+        "pohhui",
+        "vist",
+        "vist",
+        "tobe",
+        "täitsa",
+        "täitsa",
+        "täiega"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "26",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "okei"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "okei"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "okeid"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "okeisse"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "okeis"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "okeist"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "okeile"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "okeil"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "okeilt"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "okeiks"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "okeini"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "okeina"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "okeita"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "okeiga"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "okeid"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "okeide"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "okeisid"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "okeidesse"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "okeides"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "okeidest"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "okeidele"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "okeidel"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "okeidelt"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "okeideks"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "okeideni"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "okeidena"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "okeideta"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "okeidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "normaalne, korralik, vastuvõetav",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Selline käitumine pole okei.",
+            "On täiesti okei vahel karta.",
+            "Kõik oli okei, kuni nüüd ..",
+            "Leidsin veel vägagi okeisid seeni.",
+            "Restoranidest on mõned täitsa okeid."
+          ],
+          "synonyms": [
+            "ok",
+            "OK",
+            "okk",
+            "oki",
+            "okidoki",
+            "kobe",
+            "klaar",
+            "norm,normaalne",
+            "vinklis,korras,jonksus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "окейный",
+                "weight": 1
+              },
+              {
+                "words": "приемлемый",
+                "weight": 1
+              },
+              {
+                "words": "порядочный,приличный,изрядный",
+                "weight": 0.89
+              },
+              {
+                "words": "чистый,свободный",
+                "weight": 0.89
+              },
+              {
+                "words": "нормальный",
+                "weight": 0.7
+              },
+              {
+                "words": "в порядке",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "в порядку",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tipp-topp",
+        "joones",
+        "juttis",
+        "kombes",
+        "asi ants",
+        "tiben-toben",
+        "timmis",
+        "korras",
+        "korras",
+        "tippen-toppen",
+        "valmis",
+        "klaar",
+        "asi tahe",
+        "klatt",
+        "asi vask",
+        "trois",
+        "asi nudi",
+        "toimes",
+        "paigas",
+        "paigas",
+        "aamen",
+        "rihtis",
+        "noh",
+        "nõme",
+        "nojah",
+        "tõesti",
+        "hull",
+        "jah",
+        "suht",
+        "sittagi",
+        "nojaa",
+        "sorri",
+        "ikka",
+        "ilgelt",
+        "jube",
+        "jube",
+        "tegelt",
+        "jamps",
+        "mokas",
+        "pohhui",
+        "vist",
+        "vist",
+        "tobe",
+        "täitsa",
+        "täitsa",
+        "täiega"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "okei",
+      "translations": []
+    }
+  ]
+}

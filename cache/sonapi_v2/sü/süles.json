@@ -1,0 +1,129 @@
+{
+  "requestedWord": "süles",
+  "estonianWord": "süles",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "süles"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "seisva või istuva inimese käte ja keha eespoolse osa vahel (umbkaudu rinna või vöökoha kõrgusel),istuva inimese jalgade ülemise osa peal,seisva inimese käte vahel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Naine jooksis, laps süles.",
+            "Poiss istus vanaisa süles.",
+            "Naine hoiab kotti süles."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "dans ses bras",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "на руках",
+                "weight": 1
+              },
+              {
+                "words": "на коленях",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на руках",
+                "weight": 1
+              },
+              {
+                "words": "на колінах",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi poolt ümbritsetud, hoitud olekus",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Sambla süles kasvasid sinililled."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в объятиях",
+                "weight": 1
+              },
+              {
+                "words": "в лоне",
+                "weight": 1
+              },
+              {
+                "words": "на лоне",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ehmunult",
+        "issi",
+        "hellalt",
+        "istukile",
+        "tuttu",
+        "sülest",
+        "istukil",
+        "kaissu",
+        "lapseke",
+        "kaisus",
+        "süler",
+        "suss",
+        "emme",
+        "peos",
+        "hiirvaikselt",
+        "kiigu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "süles",
+      "translations": [
+        "in arms"
+      ]
+    }
+  ]
+}

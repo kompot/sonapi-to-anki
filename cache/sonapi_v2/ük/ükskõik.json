@@ -1,0 +1,183 @@
+{
+  "requestedWord": "ükskõik",
+  "estonianWord": "ükskõik",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ükskõik"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "märgib ükskõikset suhtumist, ükskõiksust mingi olukorra suhtes: sama see, teeb üks välja,kui sul on millegi suhtes <eki-highlight>ükskõik</eki-highlight>, siis see pole sinu jaoks oluline, sinu jaoks vahet ei ole",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tal oli kõigest ükskõik.",
+            "Ükskõik, kas öösel või päeval.",
+            "Mul on ükskõik, mida sa minust arvad.",
+            "Kas sa soovid teed või kohvi? – Ükskõik."
+          ],
+          "synonyms": [
+            "suva",
+            "ükspuha",
+            "ükskama",
+            "ükstakama",
+            "ükstakõik",
+            "ükstapuha",
+            "ükstaskõik",
+            "ükstaspuha",
+            "kama",
+            "kama kaks",
+            "ükstäis"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "all the same",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "всё равно",
+                "weight": 1
+              },
+              {
+                "words": "без разницы",
+                "weight": 1
+              },
+              {
+                "words": "всё одно",
+                "weight": 1
+              },
+              {
+                "words": "пофиг",
+                "weight": 1
+              },
+              {
+                "words": "пофигу",
+                "weight": 1
+              },
+              {
+                "words": "плевать",
+                "weight": 1
+              },
+              {
+                "words": "наплевать",
+                "weight": 1
+              },
+              {
+                "words": "до лампочки",
+                "weight": 1
+              },
+              {
+                "words": "неважно",
+                "weight": 1
+              },
+              {
+                "words": "всё едино",
+                "weight": 1
+              },
+              {
+                "words": "трын-трава",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "все одно",
+                "weight": 1
+              },
+              {
+                "words": "однаково",
+                "weight": 1
+              },
+              {
+                "words": "байдуже",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "väljendab umbmäärasust: mis, kuhu, keda vms tahes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "On nõus tegema ükskõik mis tööd.",
+            "Reisiks ükskõik kuhu.",
+            "Värba ükskõik keda."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "всё равно",
+                "weight": 1
+              },
+              {
+                "words": "безразлично",
+                "weight": 1
+              },
+              {
+                "words": "без разницы",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ükstapuha",
+        "ükstaspuha",
+        "ükstaskõik",
+        "mis tahes",
+        "ükstakama",
+        "ükstakõik",
+        "kes tahes",
+        "ees või taga",
+        "ükspuha",
+        "võta heaks või pane pahaks",
+        "kas",
+        "iganes",
+        "ükskõikne",
+        "tahes",
+        "sõltumata",
+        "ükskõikselt",
+        "ükskõiksem",
+        "peaasi",
+        "olenemata",
+        "mistahes"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ükskõik",
+      "translations": [
+        "all the same",
+        "immaterial",
+        "never mind",
+        "no matter"
+      ]
+    }
+  ]
+}

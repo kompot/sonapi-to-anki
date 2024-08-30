@@ -1,0 +1,114 @@
+{
+  "requestedWord": "piki",
+  "estonianWord": "piki",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "piki"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(ühenduses liikumise või paiknemisega:) millegi pikkuse suunas, mööda mingit teed, joont või mööda millegi äärt, serva",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Kõndisime piki merekallast sadama suunas.",
+            "Tee kulges piki rannikut.",
+            "Välk liigub piki puud allapoole koort mööda."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вдоль",
+                "weight": 1
+              },
+              {
+                "words": "по",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(seoses suvalises suunas liikumisega mingit pinda pidi)",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Pinnatuisu korral kandub lumi edasi üksnes piki lumepinda."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вдоль",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "pikkupidi, pikuti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Paberi kiu suuna määramiseks painuta paberit risti ja piki."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вдоль",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pikku",
+        "mööda",
+        "pikuti",
+        "pikkupidi",
+        "pikirida",
+        "pikilõhe",
+        "pikiorg",
+        "pikijoon",
+        "pikitelg",
+        "pikipuri",
+        "pikikiudu",
+        "pikivööt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "piki",
+      "translations": [
+        "along"
+      ]
+    }
+  ]
+}

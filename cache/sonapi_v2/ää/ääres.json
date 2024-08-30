@@ -1,0 +1,114 @@
+{
+  "requestedWord": "ääres",
+  "estonianWord": "ääres",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ääres"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi vahetus läheduses, juures või kõrval,millegi vahetus läheduses, juures või kõrval",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Frankfurt Maini ääres.",
+            "Tee ääres kasvavad lilled.",
+            "Jaanipäeval istusime lõkke ääres.",
+            "Koer istub tee ääres."
+          ],
+          "synonyms": [
+            "veeres"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "au bord de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "у",
+                "weight": 1
+              },
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "возле",
+                "weight": 1
+              },
+              {
+                "words": "вблизи",
+                "weight": 1
+              },
+              {
+                "words": "близ",
+                "weight": 1
+              },
+              {
+                "words": "поблизости от",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "біля",
+                "weight": 1
+              },
+              {
+                "words": "коло",
+                "weight": 1
+              },
+              {
+                "words": "поблизу",
+                "weight": 1
+              },
+              {
+                "words": "близько",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ees",
+        "all",
+        "kõrval",
+        "kõrval",
+        "lähedal",
+        "küljes",
+        "taga",
+        "juures",
+        "äärest",
+        "äärde"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ääres",
+      "translations": [
+        "beside",
+        "by"
+      ]
+    }
+  ]
+}

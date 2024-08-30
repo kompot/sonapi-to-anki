@@ -1,0 +1,251 @@
+{
+  "requestedWord": "üksi",
+  "estonianWord": "üksi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "üksi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ilma teiste juuresolekuta, teistest lahus või eraldi,ilma teiste osavõtuta või abita,ilma teiste inimesteta või teistest eraldi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kodus üksi on igav.",
+            "Te ei pea üksi otsustama.",
+            "Ärgem jäägem oma muredega üksi.",
+            "Ta elab üksi.",
+            "Laps on üksi kodus.",
+            "Ma pean kõigega üksi hakkama saama."
+          ],
+          "synonyms": [
+            "üksinda",
+            "üksipäini"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "alone",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "seul",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "один",
+                "weight": 1
+              },
+              {
+                "words": "одна",
+                "weight": 1
+              },
+              {
+                "words": "одно",
+                "weight": 1
+              },
+              {
+                "words": "одни",
+                "weight": 1
+              },
+              {
+                "words": "в одиночку",
+                "weight": 1
+              },
+              {
+                "words": "в одиночестве",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "сам",
+                "weight": 1
+              },
+              {
+                "words": "сама",
+                "weight": 1
+              },
+              {
+                "words": "само",
+                "weight": 1
+              },
+              {
+                "words": "саме",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(muid võimalusi välistavalt:) ainult, üksnes,muud kõrvale või arvestamata jättes,ainult, üksnes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Riietest üksi on vähe, erivarustus on ka vajalik.",
+            "Üksi vanalinna sissesõit maksab 7 eurot."
+          ],
+          "synonyms": [
+            "ainuüksi",
+            "üksipäinis",
+            "üksipäini",
+            "paljalt",
+            "pelgalt",
+            "üksinda",
+            "ükspäinis",
+            "ainuisikuliselt",
+            "ainult,vaid",
+            "üksnes",
+            "ainumalt"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "only",
+                "weight": 1
+              },
+              {
+                "words": "only",
+                "weight": 0.778
+              }
+            ],
+            "fra": [
+              {
+                "words": "seul",
+                "weight": 1
+              },
+              {
+                "words": "seulement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "только",
+                "weight": 1
+              },
+              {
+                "words": "лишь",
+                "weight": 1
+              },
+              {
+                "words": "исключительно",
+                "weight": 1
+              },
+              {
+                "words": "единственно",
+                "weight": 1
+              },
+              {
+                "words": "только лишь",
+                "weight": 1
+              },
+              {
+                "words": "один только",
+                "weight": 1
+              },
+              {
+                "words": "один лишь",
+                "weight": 1
+              },
+              {
+                "words": "единолично",
+                "weight": 0.9
+              },
+              {
+                "words": "только,лишь,лишь бы",
+                "weight": 0.7783
+              },
+              {
+                "words": "только",
+                "weight": 0.778
+              },
+              {
+                "words": "только",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тільки",
+                "weight": 1
+              },
+              {
+                "words": "лише",
+                "weight": 1
+              },
+              {
+                "words": "лиш",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "üksipäini",
+        "puruüksi",
+        "paljas",
+        "omapead",
+        "ainuüksi",
+        "paljalt",
+        "üksinda",
+        "muudkui",
+        "ainult",
+        "ükspäinis",
+        "ihuüksinda",
+        "üksnes",
+        "omapäi",
+        "puht",
+        "puht",
+        "ihuüksi",
+        "ula",
+        "ainumalt",
+        "puha",
+        "pelgalt",
+        "üksindus",
+        "üksiolemine",
+        "üksipäinis",
+        "iseseisvalt",
+        "mitmekesi",
+        "kaksi",
+        "kahekesi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "üksi",
+      "translations": [
+        "alone",
+        "at your own",
+        "by yourself",
+        "single-handedly",
+        "unaccompanied"
+      ]
+    }
+  ]
+}

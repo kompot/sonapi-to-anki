@@ -1,0 +1,82 @@
+{
+  "requestedWord": "lähemale",
+  "estonianWord": "lähemale",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "lähemale"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "rohkem lähedale, rohkem juurde",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Astusin ettevaatlikult lähemale.",
+            "Põgenemine nihkus aina lähemale.",
+            "Mida lähemale mägedele, seda külmemaks läks.",
+            "See oli juba natuke asjale lähemale."
+          ],
+          "synonyms": [
+            "ligemale"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "plus près",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "ближе",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ближче до",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "edasi",
+        "alla",
+        "alla",
+        "lükkama",
+        "edasi liikuma",
+        "juurde",
+        "kaugemale",
+        "lähemal",
+        "pahemale",
+        "pimemale"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lähemale",
+      "translations": [
+        "closer",
+        "nigh"
+      ]
+    }
+  ]
+}

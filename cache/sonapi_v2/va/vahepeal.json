@@ -1,0 +1,186 @@
+{
+  "requestedWord": "vahepeal",
+  "estonianWord": "vahepeal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vahepeal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingis teatavas ajavahemikus",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Su telefon helises vahepeal.",
+            "Magasin küll, aga vahepeal ärkasin üles.",
+            "Vahepeal on pimedaks läinud.",
+            "Keegi helistas sulle vahepeal."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "in the meantime",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "entre-temps",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в промежутке",
+                "weight": 1
+              },
+              {
+                "words": "тем временем",
+                "weight": 1
+              },
+              {
+                "words": "между тем",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тим часом",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab, mille vahel miski ajaliselt aset leiab",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Töötasin õpingute vahepeal."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "in between",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "между",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "paiknemiselt millegi vahel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Kõrge küngas maantee ja järve vahepeal.",
+            "Tõde on kusagil vahepeal."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "между",
+                "weight": 1
+              },
+              {
+                "words": "меж",
+                "weight": 1
+              },
+              {
+                "words": "в промежутке",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "üksvahe",
+        "omal ajal",
+        "ükskord",
+        "millalgi",
+        "millaski",
+        "ühekorra",
+        "korra",
+        "tagasiulatuvalt",
+        "ükspäev",
+        "kunagi",
+        "aeg-ajalt",
+        "taas",
+        "muidu",
+        "juba",
+        "aga",
+        "aga",
+        "siiski",
+        "jälle",
+        "seal",
+        "vahepealt",
+        "pidevalt",
+        "küll",
+        "küll",
+        "ikka",
+        "tegelikult",
+        "miskipärast",
+        "ikkagi",
+        "päris",
+        "koguaeg",
+        "koguaeg",
+        "õnneks",
+        "vist",
+        "vist",
+        "nüüd",
+        "lihtsalt",
+        "siis",
+        "vahepeale"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vahepeal",
+      "translations": [
+        "betwixt",
+        "in between",
+        "in the interim",
+        "in the meantime",
+        "meantime",
+        "meanwhile"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "requestedWord": "tulenevalt",
+  "estonianWord": "tulenevalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tulenevalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "из-за",
+                "weight": 1
+              },
+              {
+                "words": "вследствие",
+                "weight": 1
+              },
+              {
+                "words": "в результате",
+                "weight": 1
+              },
+              {
+                "words": "по причине",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tingitult",
+        "lähtuvalt",
+        "olenevalt",
+        "tulenema"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tulenevalt",
+      "translations": [
+        "by virtue of"
+      ]
+    }
+  ]
+}

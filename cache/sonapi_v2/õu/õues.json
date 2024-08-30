@@ -1,0 +1,88 @@
+{
+  "requestedWord": "õues",
+  "estonianWord": "õues",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "õues"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vabas õhus, mitte siseruumis, (majast) väljas,(majast) väljas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Õues paugub pakane.",
+            "Last oli raske õuest tuppa saada.",
+            "Õues läheb juba pimedaks.",
+            "Õues on kümme kraadi külma."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "dehors",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "во дворе",
+                "weight": 1
+              },
+              {
+                "words": "на улице",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "надворі",
+                "weight": 1
+              },
+              {
+                "words": "на вулиці",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "väljas",
+        "lageda taeva all",
+        "vabas õhus",
+        "lahtise taeva all",
+        "õuest",
+        "tubane",
+        "õuesõpe",
+        "õue",
+        "kottpime",
+        "soojapuhur",
+        "suveköök",
+        "rõske",
+        "talvepäike"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "õues",
+      "translations": []
+    }
+  ]
+}

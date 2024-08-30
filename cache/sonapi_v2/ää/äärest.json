@@ -1,0 +1,89 @@
+{
+  "requestedWord": "äärest",
+  "estonianWord": "äärest",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "äärest"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi serva pealt, vahetust lähedusest, juurest või kõrvalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Pirita jõe muuli äärest leiti uppunu.",
+            "Ärge korjake seeni maantee äärest.",
+            "Koer läheb tee äärest minema."
+          ],
+          "synonyms": [
+            "veerest"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "du bord de",
+                "weight": 1
+              },
+              {
+                "words": "de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "от",
+                "weight": 1
+              },
+              {
+                "words": "с краю",
+                "weight": 1
+              },
+              {
+                "words": "сбоку",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "від",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kõrbema",
+        "pealt",
+        "veerest",
+        "ääres",
+        "äärde"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "äärest",
+      "translations": []
+    }
+  ]
+}

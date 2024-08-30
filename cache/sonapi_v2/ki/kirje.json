@@ -1,0 +1,284 @@
+{
+  "requestedWord": "kirje",
+  "estonianWord": "kirje",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "6",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kirje"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kirje"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kirjet"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kirjesse"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kirjes"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kirjest"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kirjele"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kirjel"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kirjelt"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kirjeks"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kirjeni"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kirjena"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kirjeta"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kirjega"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kirjed"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kirjete"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kirjeid"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kirjetesse,kirjeisse"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kirjetes,kirjeis"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kirjetest,kirjeist"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kirjetele,kirjeile"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kirjetel,kirjeil"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kirjetelt,kirjeilt"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kirjeteks,kirjeiks"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kirjeteni"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kirjetena"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kirjeteta"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kirjetega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "korrastatud andmeüksus, mis võimaldab infot otsida, töödelda ja säilitada",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Bibliograafiline kirje.",
+            "Tuludeklaratsiooni saab lisada kirje maksumaksja varaga aasta jooksul toimunud muutustest.",
+            "Registris on 560 000 kirjet sõidukite kohta."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "запись данных",
+                "weight": 1
+              },
+              {
+                "words": "блок данных",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(raamatupidamises:) tulu- või kululiik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Bilansiväline kirje.",
+            "Kulukirje."
+          ],
+          "synonyms": [
+            "artikkel"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "артикул",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kirjapandud tekst või üksiksõnad",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Eemaldasime mõned lehed ebatsensuursete kirjetega.",
+            "Altarimaali all on pikk kirje.",
+            "Suured nupud ja neil olevad selged kirjed on nähtavad isegi hämaras."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "описание",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kirjeldus",
+        "kirjeldamine",
+        "kirjatükk",
+        "klausel",
+        "bibliokirje",
+        "bibliograafiakirje",
+        "kirjend"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kirje",
+      "translations": [
+        "dictionary entry",
+        "entry",
+        "record"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "requestedWord": "ei",
+  "estonianWord": "ei",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ei"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "annab üksnes järgnevale sõnale või ühendile eitava sisu, aitab väidet rõhutada, kinnitada või täpsustada,sõna, mis annab lausele või küsimuse vastusele eitava sisu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ei, see on pöörane.",
+            "Sajad, ei, tuhanded hukkusid.",
+            "Ei mina ega keegi teine ole teie hädades süüdi.",
+            "Teda ei ole kodus.",
+            "Mul ei ole aega.",
+            "Ma ei oska saksa keelt.",
+            "Kas sa tahad kohvi? – Ei, aitäh."
+          ],
+          "synonyms": [
+            "mitte",
+            "ep,’p"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "нет",
+                "weight": 1
+              },
+              {
+                "words": "не",
+                "weight": 1
+              },
+              {
+                "words": "ни",
+                "weight": 1
+              },
+              {
+                "words": "не",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ні",
+                "weight": 1
+              },
+              {
+                "words": "не",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb sisult jaatavates, möönvates, täpsustavates lausetes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Aitan ikka, miks ei."
+          ],
+          "synonyms": [
+            "mitte"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "нет",
+                "weight": 1
+              },
+              {
+                "words": "не",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb ebamäärasust väljendavates ütlustes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Arvab endast veel ei tea mida."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "esineb rõõmu, vaimustust, heameelt vm tunnet väljendavates lausetes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "Ei, oli see alles sõit!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "эх",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb ühendava sõnana loetelu korral",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ei lõbu, ei sära, ei midagi."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "teps mitte",
+        "õige",
+        "õige",
+        "mitte",
+        "mitte",
+        "ep",
+        "ega",
+        "ei saa juttugi olla",
+        "mitte mingi hinna eest",
+        "’p",
+        "egas",
+        "ei tule kõne allagi",
+        "kuskile",
+        "halb",
+        "pole",
+        "halvasti",
+        "kusagilt",
+        "kuhugi",
+        "ära",
+        "ära",
+        "ta",
+        "Te",
+        "f",
+        "f",
+        "et",
+        "et",
+        "No",
+        "sa",
+        "Ta",
+        "no",
+        "in",
+        "ka",
+        "y",
+        "y",
+        "te",
+        "st",
+        "b",
+        "b",
+        "i",
+        "i",
+        "me",
+        "ma",
+        "ja",
+        "ju",
+        "me"
+      ]
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ei"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(grammatiline abitegusõna:) eitussõna, mis annab kogu lausele või küsimuse vastusele eitava sisu,sõna, mis annab lausele või küsimuse vastusele eitava sisu",
+          "partOfSpeech": [],
+          "examples": [
+            "Temaga ei saa vaielda.",
+            "Lihtsalt aega ei olnud.",
+            "„Kas sa tuled ka?” – „Ei.”.",
+            "Kas sa süüa ei taha?",
+            "Teda ei ole kodus.",
+            "Mul ei ole aega.",
+            "Ma ei oska saksa keelt.",
+            "Kas sa tahad kohvi? – Ei, aitäh."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "нет",
+                "weight": 1
+              },
+              {
+                "words": "не",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ні",
+                "weight": 1
+              },
+              {
+                "words": "немає",
+                "weight": 1
+              },
+              {
+                "words": "нема",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "26",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "ei"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "ei"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "eid"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "eisse"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "eis"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "eist"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "eile"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "eil"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "eilt"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "eiks"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "eini"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "eina"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "eita"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "eiga"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "eid"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "eide"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "eisid"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "eidesse"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "eides"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "eidest"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "eidele"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "eidel"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "eidelt"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "eideks"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "eideni"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "eidena"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "eideta"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "eidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ei-sõna, ei-otsus,eitav, negatiivne otsus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Direktor ei ütle kiirustades ei ühelegi uuele tegevusele."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "нет",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ні",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "teps mitte",
+        "mitte",
+        "mitte",
+        "ep",
+        "ega",
+        "ei saa juttugi olla",
+        "mitte mingi hinna eest",
+        "’p",
+        "egas",
+        "ei tule kõne allagi",
+        "kuskile",
+        "halb",
+        "pole",
+        "ära",
+        "ära",
+        "õige",
+        "õige",
+        "halvasti",
+        "kusagilt",
+        "kuhugi",
+        "ta",
+        "Te",
+        "f",
+        "f",
+        "et",
+        "et",
+        "No",
+        "sa",
+        "Ta",
+        "no",
+        "in",
+        "ka",
+        "y",
+        "y",
+        "te",
+        "st",
+        "b",
+        "b",
+        "i",
+        "i",
+        "me",
+        "ma",
+        "ja",
+        "ju",
+        "me"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ei",
+      "translations": [
+        "nay",
+        "neither",
+        "no",
+        "nope",
+        "nyet",
+        "wont (= will not)",
+        "won't (= will not)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "requestedWord": "ja",
+  "estonianWord": "ja",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ja"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(ühendavalt:) seob sisu poolest samaväärseid, võrreldavaid või loetletavaid sõnu, lauseosi või lauseid,seob sisu poolest võrdseid, võrreldavaid või üksteist täiendavaid sõnu ja lausete osi",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Söödi ja joodi tublisti.",
+            "Tekst oli eesti ja soome keeles.",
+            "Söödi. Ja joodi natuke veel. Ja siis oli õige hea olla.",
+            "Tüdrukule meeldib laulda ja tantsida.",
+            "Ma räägin saksa ja inglise keelt.",
+            "Ostsin kaks ja pool kilo mandariine.",
+            "Töö oli raske ja nõudis palju jõudu."
+          ],
+          "synonyms": [
+            "ning"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "and",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "и",
+                "weight": 1
+              },
+              {
+                "words": "а также",
+                "weight": 1
+              },
+              {
+                "words": "да",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "і",
+                "weight": 1
+              },
+              {
+                "words": "й",
+                "weight": 1
+              },
+              {
+                "words": "та",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "arvu ja määra märkimisel seob suuremat ja väiksemat koostisosa",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "25 eurot ja 30 senti.",
+            "Laps on kolme ja poole aastane."
+          ],
+          "synonyms": [
+            "ning"
+          ],
+          "translations": {}
+        },
+        {
+          "definition": "seob sisu poolest vastanduvaid lauseosi",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "See on tühine seik ja ometi oluline.",
+            "Siit saadik ja mitte enam!"
+          ],
+          "synonyms": [
+            "ning"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "а",
+                "weight": 1
+              },
+              {
+                "words": "но",
+                "weight": 1
+              },
+              {
+                "words": "однако",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ning",
+        "kui",
+        "kui",
+        "ta",
+        "et",
+        "et",
+        "Ta",
+        "ei",
+        "ei",
+        "jm",
+        "ka",
+        "i",
+        "i",
+        "ma"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ja",
+      "translations": [
+        "and"
+      ]
+    }
+  ]
+}

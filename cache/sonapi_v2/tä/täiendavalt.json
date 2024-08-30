@@ -1,0 +1,99 @@
+{
+  "requestedWord": "täiendavalt",
+  "estonianWord": "täiendavalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "täiendavalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(olemasoleva, eelneva) täiendusena, peale selle (veel),täienduseks; peale selle",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "lisaks",
+            "hulka",
+            "sekka",
+            "juurde",
+            "pluss"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "дополнительно",
+                "weight": 1
+              },
+              {
+                "words": "в дополнение к",
+                "weight": 1
+              },
+              {
+                "words": "вдобавок",
+                "weight": 1
+              },
+              {
+                "words": "в добавок к",
+                "weight": 1
+              },
+              {
+                "words": "к,в дополнение к,в добавок к",
+                "weight": 0.9
+              },
+              {
+                "words": "плюс",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до,на додаток до",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "edasi",
+        "veel",
+        "pluss",
+        "lisaks",
+        "kummatigi",
+        "pealekauba",
+        "juurde",
+        "täiendav",
+        "minimaalselt",
+        "vajalikult",
+        "jooksvalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "täiendavalt",
+      "translations": [
+        "additionally"
+      ]
+    }
+  ]
+}

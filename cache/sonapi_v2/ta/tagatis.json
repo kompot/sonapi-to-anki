@@ -1,0 +1,370 @@
+{
+  "requestedWord": "tagatis",
+  "estonianWord": "tagatis",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "tagatis"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "tagatise"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "tagatist"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "tagatisse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "tagatisesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "tagatises"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "tagatisest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "tagatisele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "tagatisel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "tagatiselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "tagatiseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "tagatiseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "tagatisena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "tagatiseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "tagatisega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "tagatised"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "tagatiste"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "tagatisi"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "tagatistesse,tagatisisse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "tagatistes,tagatisis"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "tagatistest,tagatisist"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "tagatistele,tagatisile"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "tagatistel,tagatisil"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "tagatistelt,tagatisilt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "tagatisteks,tagatisiks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "tagatisteni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "tagatistena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "tagatisteta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "tagatistega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "miski, mis kindlustab millegi toimimise või teokssaamise, hrl lubades täita vajalikud tingimused",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mis on tagatis, et kõik koolid alles jäävad?",
+            "Mitu kaitseväelaste sotsiaalset tagatist on viimasel aastal vähenenud.",
+            "Julgeolekutagatis."
+          ],
+          "synonyms": [
+            "garantii",
+            "pant"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "гарантия",
+                "weight": 1
+              },
+              {
+                "words": "залог",
+                "weight": 0.7845
+              }
+            ],
+            "ukr": [
+              {
+                "words": "гарантія",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(laenusuhetes:) vara, mis läheb laenuandjale, kui laenuvõtja oma kohustusi ei täida,kinnisvara või midagi muud väärtuslikku, mille sa pead ära andma, kui ei suuda laenatud raha tagasi maksta",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Laenu tagatiseks panditi aktsiad.",
+            "Pank laenu ei andnud, sest tagatis polnud piisav.",
+            "Kinnisvaratagatis.",
+            "Laenu tagatiseks oli korter."
+          ],
+          "synonyms": [
+            "garantii",
+            "tagatisraha",
+            "käendus",
+            "pantese,pant",
+            "kate"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "garantie",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "гарантия",
+                "weight": 1
+              },
+              {
+                "words": "залог",
+                "weight": 1
+              },
+              {
+                "words": "залоговые деньги",
+                "weight": 0.559
+              },
+              {
+                "words": "поручительство",
+                "weight": 0.9
+              },
+              {
+                "words": "предмет залога,залог,заклад",
+                "weight": 0.9
+              },
+              {
+                "words": "покрытие",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "гарантія",
+                "weight": 1
+              },
+              {
+                "words": "застава",
+                "weight": 1
+              },
+              {
+                "words": "покриття",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "garantie",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "поручительство",
+                "weight": 1
+              },
+              {
+                "words": "обеспечение",
+                "weight": 1
+              },
+              {
+                "words": "порука",
+                "weight": 1
+              },
+              {
+                "words": "ручательство",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "гарантія",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "garantii",
+        "kautsjon",
+        "kindlustus",
+        "pant",
+        "varustamine",
+        "kindlustamine",
+        "käendus",
+        "tagamine",
+        "tagatus",
+        "tagatisraha",
+        "garantii",
+        "kindlustus",
+        "tagatükk",
+        "tingimuslik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tagatis",
+      "translations": [
+        "collateral",
+        "guarantee",
+        "guaranty",
+        "(laenu) pignus",
+        "pledge",
+        "security",
+        "surety"
+      ]
+    }
+  ]
+}

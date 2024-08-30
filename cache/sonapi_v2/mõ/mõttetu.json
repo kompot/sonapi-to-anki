@@ -1,0 +1,502 @@
+{
+  "requestedWord": "mõttetu",
+  "estonianWord": "mõttetu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "1",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "mõttetu"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "mõttetu"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "mõttetut"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "mõttetusse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "mõttetus"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "mõttetust"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "mõttetule"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "mõttetul"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "mõttetult"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "mõttetuks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "mõttetuni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "mõttetuna"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "mõttetuta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "mõttetuga"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "mõttetud"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "mõttetute"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "mõttetuid"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "mõttetutesse,mõttetuisse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "mõttetutes,mõttetuis"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "mõttetutest,mõttetuist"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "mõttetutele,mõttetuile"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "mõttetutel,mõttetuil"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "mõttetutelt,mõttetuilt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "mõttetuteks,mõttetuiks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "mõttetuteni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "mõttetutena"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "mõttetuteta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "mõttetutega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "aruka mõtteta, selline, mida ei maksa teha,ilma aruka mõtteta, tähenduseta",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Sinuga vaidlemine on mõttetu tegevus.",
+            "Aasta lõpus tehakse palju mõttetuid kulutusi.",
+            "Edasikaebamine oleks mõttetu.",
+            "See on mõttetu vaidlus.",
+            "Ära tee mõttetuid kulutusi."
+          ],
+          "synonyms": [
+            "ebavajalik,ilmaaegne,kasutu,mittevajalik,tarbetu,tulutu,asjata,asjatu",
+            "absurdne",
+            "ebaotstarbekas,mitteotstarbekas,otstarbetu",
+            "ebamõistlik",
+            "viljatu",
+            "tüber,nõme",
+            "väärtusetu",
+            "jama"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "absurde",
+                "weight": 1
+              },
+              {
+                "words": "inutile",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "бессмысленный",
+                "weight": 1
+              },
+              {
+                "words": "бесполезный",
+                "weight": 1
+              },
+              {
+                "words": "никчёмный",
+                "weight": 1
+              },
+              {
+                "words": "напрасный,тщетный,бесполезный,нецелесообразный,ненужный,никчёмный,лишний,ненадобный,безрезультатный",
+                "weight": 0.4
+              },
+              {
+                "words": "абсурдный,нелепый",
+                "weight": 0.9
+              },
+              {
+                "words": "бесцельный,бесполезный,нецелесообразный,нерациональный",
+                "weight": 0.7
+              },
+              {
+                "words": "неразумный",
+                "weight": 0.568
+              },
+              {
+                "words": "непродуктивный,бесплодный,безрезультатный,безуспешный",
+                "weight": 0.7
+              },
+              {
+                "words": "несведущий,некомпетентный,необразованный,непросвещённый,невежественный,идиотский,малосведущий,глупый,нелепый,бестолковый,дурацкий,несуразный",
+                "weight": 0.9
+              },
+              {
+                "words": "не представляющий ценности,бесполезный,малоценный,нестоящий",
+                "weight": 0.7
+              },
+              {
+                "words": "бредовый,бессмысленный",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "безглуздий",
+                "weight": 1
+              },
+              {
+                "words": "непотрібний",
+                "weight": 1
+              },
+              {
+                "words": "марний",
+                "weight": 1
+              },
+              {
+                "words": "даремний",
+                "weight": 1
+              },
+              {
+                "words": "абсурдний,безглуздий,нісенітний",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(jutu, teksti kohta:) tähenduseta, loogilise seoseta",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Mõttetu sonimine."
+          ],
+          "synonyms": [
+            "tühisõnaline,tühjasõnaline,mõttelage,mõttetühi,sisutu,sisutühi,sisulage",
+            "ümmargune",
+            "tüber,nõme",
+            "hambutu",
+            "õõnes",
+            "jama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "бессмысленный",
+                "weight": 1
+              },
+              {
+                "words": "нелепый",
+                "weight": 1
+              },
+              {
+                "words": "несуразный",
+                "weight": 1
+              },
+              {
+                "words": "бессодержательный,пустозвонный,пустопорожний,пустой,бессмысленный,малосодержательный,бездумный,беспредметный",
+                "weight": 0.7
+              },
+              {
+                "words": "расплывчатый,неопределённый,поверхностный,обтекаемый",
+                "weight": 0.7
+              },
+              {
+                "words": "идиотский,малосведущий,нелепый,бестолковый,дурацкий,несуразный,несведущий,некомпетентный,необразованный,непросвещённый,невежественный,глупый",
+                "weight": 0.9
+              },
+              {
+                "words": "беззубый",
+                "weight": 0.7
+              },
+              {
+                "words": "пустословный,пустой,празднословный,бессодержательный,пустопорожний",
+                "weight": 0.7
+              },
+              {
+                "words": "бессмысленный,бредовый",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tühiseks peetava inimese, tobedana tunduva teose vm kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Tal on täiesti mõttetu mees.",
+            "Sattusin vaatama mingit mõttetut filmi."
+          ],
+          "synonyms": [
+            "tühine",
+            "tühjasõnaline,tühisõnaline,mõttelage,mõttetühi,sisutu,sisutühi,sisulage",
+            "tühi",
+            "debiilne,idiootlik,idiootne",
+            "totakas,topakas",
+            "tüber,nõme",
+            "hambutu",
+            "väärtusetu",
+            "jama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "мелкий,жалкий",
+                "weight": 0.85
+              },
+              {
+                "words": "бессодержательный,пустопорожний,пустозвонный,пустой,бессмысленный,бездумный,малосодержательный,беспредметный",
+                "weight": 0.47
+              },
+              {
+                "words": "несущественный,напрасный,бессмысленный,пустой,бесплодный,пустяковый,пустопорожний,бессодержательный,бесполезный",
+                "weight": 0.4
+              },
+              {
+                "words": "идиотический,идиотский,дурацкий",
+                "weight": 0.7717
+              },
+              {
+                "words": "глупый,несообразный,бредовый,несуразный,дурацкий,идиотский,нелепый",
+                "weight": 0.9
+              },
+              {
+                "words": "дурацкий,несуразный,несведущий,некомпетентный,необразованный,непросвещённый,невежественный,идиотский,малосведущий,глупый,нелепый,бестолковый",
+                "weight": 0.9
+              },
+              {
+                "words": "беззубый",
+                "weight": 0.7
+              },
+              {
+                "words": "нестоящий,не представляющий ценности,малоценный,бесполезный",
+                "weight": 0.7
+              },
+              {
+                "words": "бессмысленный,бредовый",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jama",
+        "õõnes",
+        "väärtusetu",
+        "hambutu",
+        "ümmargune",
+        "viljatu",
+        "mõttetühi",
+        "ebaotstarbekas",
+        "tühine",
+        "mittevajalik",
+        "idiootne",
+        "jampslik",
+        "loll",
+        "asjata",
+        "tulutu",
+        "kasutu",
+        "ogar",
+        "totter",
+        "jamps",
+        "kilplaslik",
+        "jabur",
+        "tarbetu",
+        "asjatu",
+        "tobe",
+        "rumal",
+        "totakas",
+        "ilmaaegne",
+        "lollakas",
+        "nõme",
+        "absurdne",
+        "narr",
+        "idiootlik",
+        "tühi",
+        "kasutult",
+        "rumalasti",
+        "mõttetult",
+        "rumalalt",
+        "totralt",
+        "asjatult",
+        "sisutu",
+        "valelik",
+        "ebaloogiline",
+        "õigeim",
+        "ebavajalik",
+        "sisutühi",
+        "motiveerimatu",
+        "mõistlik",
+        "hirmus",
+        "hirmus",
+        "jaburdus",
+        "tobedalt",
+        "mõistetamatu",
+        "seosetu",
+        "petetu",
+        "mõttetum",
+        "ajaraiskamine",
+        "kole",
+        "kole",
+        "mõttetark",
+        "mõttetus",
+        "mõttetihe",
+        "tüütu",
+        "ebamõistlik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "mõttetu",
+      "translations": [
+        "absurd",
+        "codswallop",
+        "inane",
+        "meaningless",
+        "nonsensical",
+        "pointless",
+        "preposterous",
+        "purposeless",
+        "senseless"
+      ]
+    }
+  ]
+}

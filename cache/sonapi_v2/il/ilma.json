@@ -1,0 +1,178 @@
+{
+  "requestedWord": "ilma",
+  "estonianWord": "ilma",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ilma"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab rõhutavalt millegi või kellegi puudumisele,osutab kellegi või millegi puudumisele,näitab, et miski jääb kasutamata või saamata",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Juba mitu kuud ilma tööta.",
+            "Lahkus ilma sõna lausumata.",
+            "Ilma sinuta ei lähe ma kuhugi.",
+            "Sportlane jäi kuldmedalist ilma.",
+            "Üks joob kohvi koorega, teine ilma.",
+            "ilma rahata.",
+            "Ilma sinuta ei lähe ma kuhugi.",
+            "Paul on juba pikka aega ilma tööta.",
+            "Kes hiljaks jääb, see ilma jääb."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "sans",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "без",
+                "weight": 1
+              },
+              {
+                "words": "безо",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "без",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ilma raha maksmata,tasuta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ilma ei anna ta midagi."
+          ],
+          "synonyms": [
+            "tasuta",
+            "priilt",
+            "muidu",
+            "kauba peale,pealekauba",
+            "niisama",
+            "jumala muidu,jumalamuidu",
+            "gratis",
+            "maksuta"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "gratuitement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "бесплатно",
+                "weight": 1
+              },
+              {
+                "words": "задаром",
+                "weight": 1
+              },
+              {
+                "words": "даром",
+                "weight": 1
+              },
+              {
+                "words": "безвозмездно",
+                "weight": 1
+              },
+              {
+                "words": "за так",
+                "weight": 1
+              },
+              {
+                "words": "на дармовщинку",
+                "weight": 1
+              },
+              {
+                "words": "вдобавок,сверх,в придачу,в дополнение к",
+                "weight": 0.7
+              },
+              {
+                "words": "ни за грош,за бесценок,задаром,совсем даром",
+                "weight": 0.9
+              },
+              {
+                "words": "гратис",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "безкоштовно",
+                "weight": 1
+              },
+              {
+                "words": "безплатно",
+                "weight": 1
+              },
+              {
+                "words": "задурно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "puhtalt",
+        "pealekauba",
+        "maksuta",
+        "priilt",
+        "puhas",
+        "gratis",
+        "tasuta",
+        "hea mehe poolest",
+        "muidu",
+        "jumalamuidu",
+        "niisama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ilma",
+      "translations": [
+        "empty of",
+        "sans",
+        "unprovided with",
+        "without"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "requestedWord": "hilja",
+  "estonianWord": "hilja",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "hilja"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "hilisel kellaajal, päeva lõpus,hilisel ajal, päeva lõpus",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Eilne õhtusöök jäi väga hilja peale.",
+            "On juba hilja.",
+            "Isa jõudis koju alles hilja õhtul."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "late",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "tard",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "поздно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пізно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "pärast tavalist või vajalikku, õiget aega,pärast tavalist või õiget aega",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Linnud jõudsid jaheda kevade tõttu liiga hilja kohale.",
+            "Suvi saabus sel aastal hilja.",
+            "Ma jõudsin täna hiljem tööle.",
+            "Tee töö valmis enne, kui on hilja."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "late",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "tard",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "поздно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пізно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hiljavõitu",
+        "hilinenult",
+        "täna",
+        "täna",
+        "ammu",
+        "varakevad",
+        "varakult",
+        "koju",
+        "juba",
+        "vähe",
+        "vähe",
+        "südaöösel",
+        "hiljaaegu",
+        "ruttu-ruttu",
+        "kunagi",
+        "öösel",
+        "õigeaegselt",
+        "ärkama",
+        "varasügis",
+        "kiiresti",
+        "alles",
+        "hilju",
+        "vara",
+        "vara",
+        "vara",
+        "vara",
+        "kohe",
+        "kohe",
+        "varsti",
+        "liiga",
+        "liiga",
+        "liiga",
+        "enne",
+        "enne",
+        "ruttu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "hilja",
+      "translations": [
+        "late"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "requestedWord": "nähtamatu",
+  "estonianWord": "nähtamatu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "1",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "nähtamatu"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "nähtamatu"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "nähtamatut"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "nähtamatusse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "nähtamatus"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "nähtamatust"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "nähtamatule"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "nähtamatul"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "nähtamatult"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "nähtamatuks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "nähtamatuni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "nähtamatuna"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "nähtamatuta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "nähtamatuga"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "nähtamatud"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "nähtamatute"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "nähtamatuid"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "nähtamatutesse,nähtamatuisse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "nähtamatutes,nähtamatuis"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "nähtamatutest,nähtamatuist"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "nähtamatutele,nähtamatuile"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "nähtamatutel,nähtamatuil"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "nähtamatutelt,nähtamatuilt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "nähtamatuteks,nähtamatuiks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "nähtamatuteni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "nähtamatutena"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "nähtamatuteta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "nähtamatutega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selline, mida (palja) silmaga ei näe",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Mikroobid on silmale nähtamatud.",
+            "Nähtamatuks tegev võlurikuub."
+          ],
+          "synonyms": [
+            "mittenähtav",
+            "märkamatu",
+            "silmapaistmatu,tähelepandamatu,väljapaistmatu",
+            "nägematu",
+            "värvitu,värvusetu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "невидимый",
+                "weight": 1
+              },
+              {
+                "words": "невидный",
+                "weight": 1
+              },
+              {
+                "words": "незаметный",
+                "weight": 1
+              },
+              {
+                "words": "неприметный",
+                "weight": 1
+              },
+              {
+                "words": "незримый",
+                "weight": 1
+              },
+              {
+                "words": "невидимый",
+                "weight": 0.7
+              },
+              {
+                "words": "неприметный,неуловимый,неосязаемый,неощутимый,незримый,невидимый,малоприметный,неброский,незаметный",
+                "weight": 0.514
+              },
+              {
+                "words": "неброский,малозаметный,заурядный,невидный,незаметный,неприметный,невидимый,малоприметный",
+                "weight": 0.7
+              },
+              {
+                "words": "незримый,невидимый,незаметный",
+                "weight": 0.509
+              },
+              {
+                "words": "бесцветный",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "taustast eristamatu",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Helevalge hülgepoeg on lumel peaaegu nähtamatu."
+          ],
+          "synonyms": [
+            "mittenähtav",
+            "hoomamatu",
+            "silmapaistmatu,tähelepandamatu,väljapaistmatu",
+            "nägematu",
+            "sala"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "незаметный",
+                "weight": 1
+              },
+              {
+                "words": "неприметный",
+                "weight": 1
+              },
+              {
+                "words": "невидимый",
+                "weight": 1
+              },
+              {
+                "words": "невидный",
+                "weight": 1
+              },
+              {
+                "words": "невидимый",
+                "weight": 0.7
+              },
+              {
+                "words": "незаметный,непостижимый",
+                "weight": 0.505
+              },
+              {
+                "words": "заурядный,неприметный,невидимый,малоприметный,неброский,малозаметный,невидный,незаметный",
+                "weight": 0.7
+              },
+              {
+                "words": "незримый,невидимый,незаметный",
+                "weight": 0.509
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(millegi või kellegi märkamatuks jääva kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Keeletoimetaja töö jääb lugejale nähtamatuks."
+          ],
+          "synonyms": [
+            "mittenähtav",
+            "märkamatu",
+            "hoomamatu",
+            "tunnetamatu",
+            "tähelepandamatu,väljapaistmatu,silmapaistmatu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "незаметный",
+                "weight": 1
+              },
+              {
+                "words": "неприметный",
+                "weight": 1
+              },
+              {
+                "words": "невидимый",
+                "weight": 1
+              },
+              {
+                "words": "невидный",
+                "weight": 1
+              },
+              {
+                "words": "невидимый",
+                "weight": 0.7
+              },
+              {
+                "words": "незаметный,неприметный,неуловимый,неосязаемый,неощутимый,незримый,невидимый,неброский,малоприметный",
+                "weight": 0.514
+              },
+              {
+                "words": "незаметный,непостижимый",
+                "weight": 0.505
+              },
+              {
+                "words": "непознаваемый",
+                "weight": 0.485
+              },
+              {
+                "words": "невидный,незаметный,неприметный,невидимый,малоприметный,неброский,малозаметный,заурядный",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "värvusetu",
+        "sala",
+        "tähelepandamatu",
+        "silmapaistmatu",
+        "mittenähtav",
+        "seletamatu",
+        "salaõmblus",
+        "hoomamatu",
+        "mõõdetamatu",
+        "nähtamatult",
+        "märkamatu",
+        "ilmeksimatu",
+        "tunnetamatu",
+        "käsitamatu",
+        "nähtamatus",
+        "segamatu",
+        "seninähtamatu",
+        "tundmatu",
+        "nähtav",
+        "nägematu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "nähtamatu",
+      "translations": [
+        "invisible",
+        "sightless",
+        "unseen",
+        "viewless"
+      ]
+    }
+  ]
+}

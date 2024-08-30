@@ -1,0 +1,846 @@
+{
+  "requestedWord": "vaht",
+  "estonianWord": "vaht",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "vaht"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "vahi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "vahti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "vahti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "vahisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "vahis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "vahist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "vahile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "vahil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "vahilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "vahiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "vahini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "vahina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "vahita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "vahiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "vahid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "vahtide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "vahte,vahtisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "vahtidesse,vahesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "vahtides,vahes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "vahtidest,vahest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "vahtidele,vahele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "vahtidel,vahel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "vahtidelt,vahelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "vahtideks,vaheks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "vahtideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "vahtidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "vahtideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "vahtidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "valvamine, valve",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Sildadel tugevdati vahti."
+          ],
+          "synonyms": [
+            "valve"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "стража",
+                "weight": 1
+              },
+              {
+                "words": "караул",
+                "weight": 1
+              },
+              {
+                "words": "наблюдение,присмотр,охранение,надсмотр,надзор,охрана,дежурство,дозор,вахта,караул",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "surveillance",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "охорона,варта,чати",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teenistusülesannete täitmise voor laevas",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Asusin öisesse vahti."
+          ],
+          "synonyms": [
+            "vahikord"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "вахта",
+                "weight": 1
+              },
+              {
+                "words": "дежурство",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "valves olev või valvurina töötav mees",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Lossivaht."
+          ],
+          "synonyms": [
+            "vahimees",
+            "valvur",
+            "valvemees",
+            "vahipost,post",
+            "valve"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сторож",
+                "weight": 1
+              },
+              {
+                "words": "сторожевой",
+                "weight": 1
+              },
+              {
+                "words": "караульный",
+                "weight": 1
+              },
+              {
+                "words": "часовой",
+                "weight": 1
+              },
+              {
+                "words": "вахтенный",
+                "weight": 1
+              },
+              {
+                "words": "смотритель",
+                "weight": 1
+              },
+              {
+                "words": "стражник",
+                "weight": 1
+              },
+              {
+                "words": "постовой",
+                "weight": 1
+              },
+              {
+                "words": "надзиратель",
+                "weight": 1
+              },
+              {
+                "words": "дежурный,охранник,сторож,страж,вахтёр,вахтёрша,надзиратель,стражник,караульный,смотритель,смотрительница,сторожиха,охранница",
+                "weight": 0.9
+              },
+              {
+                "words": "охранник,сторож",
+                "weight": 0.9
+              },
+              {
+                "words": "сторожевой пост,вахта,караульный,караульный пост,страж,пост,караул",
+                "weight": 0.9
+              },
+              {
+                "words": "караул,стража,охрана,пост,дозор",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "gardien,gardienne",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "сторож,охоронець",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "guard",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(valvava looma, hrl koera kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "valvur",
+            "õuevalvur"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сторожевая собака",
+                "weight": 1
+              },
+              {
+                "words": "сторожевой пёс",
+                "weight": 1
+              },
+              {
+                "words": "дворовая собака,дворовый пёс,дворовый страж",
+                "weight": 0.591
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "valvekord",
+        "vahimees",
+        "vahtkond",
+        "post",
+        "vahipost",
+        "valvemeeskond",
+        "öövaht",
+        "valvurimutt",
+        "paljusõnalisus",
+        "valvur",
+        "valvemees",
+        "valvepost",
+        "karauul",
+        "vahisoldat",
+        "tunnimees",
+        "vahisõdur",
+        "valvuritädi",
+        "vahikord",
+        "valve",
+        "kaitsja",
+        "ülevaataja",
+        "põrm",
+        "liigsõnalisus",
+        "vesi",
+        "kobrutis",
+        "tühisus",
+        "post",
+        "post",
+        "post",
+        "soum",
+        "aganad",
+        "kõlkad",
+        "põhk",
+        "tühi koht",
+        "tolm",
+        "sõnauputus",
+        "sõnaohtrus",
+        "tühisuste tühisus",
+        "tühi",
+        "paljas õhk",
+        "liigliha",
+        "liim",
+        "vahune",
+        "poolpehme",
+        "kitt",
+        "läikiv",
+        "munavaht",
+        "vahustaja",
+        "vaik",
+        "vaik",
+        "lokirull",
+        "vahtpolüuretaan",
+        "liimikiht",
+        "vahukomm",
+        "vahtpolüstüreen",
+        "vahtpolüstürool",
+        "liimjas",
+        "vahtplast",
+        "savipott",
+        "taignarull",
+        "tuhksuhkur",
+        "vannivaht"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "vaht"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "vahu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "vahtu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "vahtu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "vahusse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "vahus"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "vahust"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "vahule"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "vahul"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "vahult"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "vahuks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "vahuni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "vahuna"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "vahuta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "vahuga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "vahud"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "vahtude"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "vahte,vahtusid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "vahtudesse,vahesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "vahtudes,vahes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "vahtudest,vahest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "vahtudele,vahele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "vahtudel,vahel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "vahtudelt,vahelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "vahtudeks,vaheks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "vahtudeni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "vahtudena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "vahtudeta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "vahtudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "õhuline, rohkesti gaasimulle sisaldav aine vedeliku pinnal,väikesed mullid vedeliku pinnal,vedelik, milles on palju mulle",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Õllevaht.",
+            "Tugev laine pritsib vahtu üles.",
+            "Õlle peal oli valge vaht."
+          ],
+          "synonyms": [
+            "soum",
+            "kobru,kobrutis,kobrutus",
+            "mousse"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "foam",
+                "weight": 1
+              },
+              {
+                "words": "froth",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "mousse",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "пена",
+                "weight": 1
+              },
+              {
+                "words": "мусс",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "піна",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kerge poorse tahke aine, nt vahtkummi kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Lihaste masseerimiseks sobib kõvast vahust rull."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(millegi sisutu, kerge, ülespuhutu kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Arengukavas on palju vahtu."
+          ],
+          "synonyms": [
+            "sõnavaht",
+            "liigsõnalisus",
+            "sõnauputus",
+            "rohkesõnalisus,sõnaohtrus",
+            "liigliha",
+            "aganad",
+            "põhk"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "словесная пена",
+                "weight": 0.7
+              },
+              {
+                "words": "словоохотливость,многоречивость,многословность,словесное недержание",
+                "weight": 0.9
+              },
+              {
+                "words": "словесный поток,словесный понос,неудержимое многословие",
+                "weight": 0.9
+              },
+              {
+                "words": "говорливость,разговорчивость,словоохотливость,речистость,многоречивость,многословие,многословность",
+                "weight": 0.9
+              },
+              {
+                "words": "излишество,балласт",
+                "weight": 0.9
+              },
+              {
+                "words": "шелуха",
+                "weight": 0.9
+              },
+              {
+                "words": "труха",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "õhk",
+        "mousse",
+        "õunavaht",
+        "õllevaht",
+        "õhkvaht",
+        "sõnavaht",
+        "supivaht",
+        "seebivaht",
+        "šampoonivaht",
+        "rabarberivaht",
+        "pitsivaht",
+        "pilvevaht",
+        "piimavaht",
+        "mäluvaht",
+        "mannavaht",
+        "lainevaht",
+        "keemisvaht",
+        "jõhvikavaht",
+        "juuksevaht",
+        "habemeajamisvaht",
+        "liigsõnalisus",
+        "kobrutis",
+        "tühisus",
+        "soum",
+        "aganad",
+        "kõlkad",
+        "paljusõnalisus",
+        "põhk",
+        "tühi koht",
+        "sõnauputus",
+        "sõnaohtrus",
+        "tühisuste tühisus",
+        "tühi",
+        "paljas õhk",
+        "liigliha",
+        "vahune",
+        "munavaht",
+        "vahustaja",
+        "vahtpolüuretaan",
+        "vahukomm",
+        "vahtpolüstüreen",
+        "vahtpolüstürool",
+        "vahtplast",
+        "vannivaht",
+        "vahimees",
+        "põrm",
+        "vesi",
+        "vahtkond",
+        "post",
+        "post",
+        "post",
+        "post",
+        "vahipost",
+        "valvemeeskond",
+        "öövaht",
+        "valvurimutt",
+        "valvur",
+        "valvemees",
+        "tolm",
+        "valvepost",
+        "karauul",
+        "vahisoldat",
+        "tunnimees",
+        "vahisõdur",
+        "valvuritädi",
+        "vahikord",
+        "valve",
+        "kaitsja",
+        "ülevaataja",
+        "liim",
+        "poolpehme",
+        "kitt",
+        "läikiv",
+        "vaik",
+        "lokirull",
+        "liimikiht",
+        "liimjas",
+        "savipott",
+        "taignarull",
+        "tuhksuhkur",
+        "vaik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vaht",
+      "translations": [
+        "foam",
+        "froth (mullid)",
+        "guard",
+        "lather",
+        "sentinel"
+      ]
+    }
+  ]
+}

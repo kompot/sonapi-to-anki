@@ -1,0 +1,184 @@
+{
+  "requestedWord": "muuseas",
+  "estonianWord": "muuseas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "muuseas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(osutab, et midagi mainitakse kõrvalepõikena, vahemärkusena),kasuta siis, kui tahad öelda midagi, mis pole eelmise teemaga seotud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ma muuseas mõtlesin selle peale.",
+            "Muuseas, mul on kahju, et mul ei õnnestunud sind veenda.",
+            "Ostsin muuseas ka piletid ära.",
+            "Muuseas, sul oli õigus."
+          ],
+          "synonyms": [
+            "muide",
+            "muuhulgas",
+            "ms",
+            "mh",
+            "muu seas"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "d'ailleurs",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "кстати",
+                "weight": 1
+              },
+              {
+                "words": "впрочем",
+                "weight": 1
+              },
+              {
+                "words": "между прочим",
+                "weight": 1
+              },
+              {
+                "words": "к слову сказать",
+                "weight": 1
+              },
+              {
+                "words": "к слову молвить",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до речі",
+                "weight": 1
+              },
+              {
+                "words": "між іншим",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "niisama, pooljuhuslikult, (nagu) märkamata",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Oma lapsed kasvatasin justkui muuseas üles.",
+            "Medal tuli tal kuidagi muuseas, pingutamata.",
+            "Passikontrollist saime läbi otsekui muuseas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "между прочим",
+                "weight": 1
+              },
+              {
+                "words": "попутно",
+                "weight": 1
+              },
+              {
+                "words": "мимоходом",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "suud mööda",
+        "muuhulgas",
+        "suusoojaks",
+        "poole suuga",
+        "möödaminnes",
+        "mokaotsast",
+        "mainimisi",
+        "jutujätkuks",
+        "moepärast",
+        "moka otsast",
+        "à propos",
+        "suudmööda",
+        "muide",
+        "pealegi",
+        "riivamisi",
+        "ent",
+        "põgusalt",
+        "aga",
+        "aga",
+        "sellejaoks",
+        "tõepoolest",
+        "miskitpidi",
+        "sedapidi",
+        "sõnulseletamatult",
+        "justkui",
+        "üleüldse",
+        "siiski",
+        "ilmselgelt",
+        "seal",
+        "ilmselt",
+        "muidugi",
+        "kirjeldamatult",
+        "vaat",
+        "vaat",
+        "muideks",
+        "üldse",
+        "loomulikult",
+        "muigamisi",
+        "isegi",
+        "veel",
+        "samuti",
+        "ülipalju",
+        "küll",
+        "küll",
+        "ikka",
+        "nagu",
+        "võikalt",
+        "miskipärast",
+        "päris",
+        "just",
+        "teinepool",
+        "vist",
+        "vist",
+        "jällegi",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "muuseas",
+      "translations": [
+        "apropos",
+        "by the by",
+        "by the bye",
+        "by the way"
+      ]
+    }
+  ]
+}

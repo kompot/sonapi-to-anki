@@ -1,0 +1,173 @@
+{
+  "requestedWord": "juurest",
+  "estonianWord": "juurest",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "juurest"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi (või kellegi) vahetust lähedusest, hästi lähedalt,(millegi) lähedalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Tule akna juurest ära!",
+            "Nägu on kõrva juurest verine.",
+            "Juurest vaadatuna ei ole see nii ilus kui eemalt paistab.",
+            "Lapsed leidsid maja juurest kassipoja.",
+            "Koer jooksis peremehe juurest minema."
+          ],
+          "synonyms": [
+            "mant",
+            "kõrvalt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "près de",
+                "weight": 1
+              },
+              {
+                "words": "près de",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "от",
+                "weight": 1
+              },
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "вблизи",
+                "weight": 1
+              },
+              {
+                "words": "возле",
+                "weight": 1
+              },
+              {
+                "words": "рядом с",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              },
+              {
+                "words": "от",
+                "weight": 0.7
+              },
+              {
+                "words": "от,около,вблизи,возле,рядом с,от-,у",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "від",
+                "weight": 1
+              },
+              {
+                "words": "біля",
+                "weight": 1
+              },
+              {
+                "words": "коло",
+                "weight": 1
+              },
+              {
+                "words": "поблизу",
+                "weight": 1
+              },
+              {
+                "words": "від,біля,коло,поблизу",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi asu-, töö- või elukohast,kellegi jutult, kellegi poolt,kellegi elukohast,kellegi töökohast või vastuvõtult",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Tulen direktori juurest nõupidamiselt.",
+            "Astun homme sinu juurest läbi.",
+            "Tulen maalt sugulaste juurest.",
+            "Ta tuli just juuksuri juurest."
+          ],
+          "synonyms": [
+            "mant"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "de chez",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "от",
+                "weight": 1
+              },
+              {
+                "words": "от",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "від",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sealt",
+        "vahelt",
+        "äärest",
+        "juurekael",
+        "juurekava",
+        "juurde",
+        "juurestik",
+        "juures"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "juurest",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "requestedWord": "takka",
+  "estonianWord": "takka",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "takka"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selja, tagakülje poolt, tagaküljelt,tagumisest otsast,sellest kohast või suunast, mis jääb selja poole",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Hobune lõi takka üles.",
+            "1939.-1940. aasta talvel oli nii palju lund, et hangede takka paistis ainult hobuse look."
+          ],
+          "synonyms": [
+            "tagant"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "par derrière",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "из-за",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "сзади",
+                "weight": 1
+              },
+              {
+                "words": "вслед",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з-за",
+                "weight": 1
+              },
+              {
+                "words": "із-за",
+                "weight": 1
+              },
+              {
+                "words": "з-поза",
+                "weight": 1
+              },
+              {
+                "words": "ззаду",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ühendites aitab rõhutada kellegi toetamist-soodustamist või sundimist-ergutamist",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Isa hurjutas ja ema kiitis takka.",
+            "Üks teeb koerust, teised õhutavad takka.",
+            "IT-mehi tuli takka kiirustada.",
+            "Treener ergutas jooksjaid takka."
+          ],
+          "synonyms": [
+            "tagant"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "следом",
+                "weight": 1
+              },
+              {
+                "words": "под",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajaliselt:) pärast teatud aja möödumist, mingi aja järel,kordudes teatud ajavahemiku järel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Mineja peatus iga saja meetri takka.",
+            "Köhatas iga natukese aja takka."
+          ],
+          "synonyms": [
+            "tagant"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "спустя",
+                "weight": 1
+              },
+              {
+                "words": "по истечении",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "по",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "post factum",
+        "pärast",
+        "tagantjärele",
+        "järel",
+        "järel",
+        "takkajärele",
+        "tagant",
+        "kisama",
+        "takkaotsa",
+        "takku",
+        "takkapihta",
+        "takk",
+        "vakka",
+        "takkajärgi",
+        "täiega"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "takka",
+      "translations": []
+    }
+  ]
+}

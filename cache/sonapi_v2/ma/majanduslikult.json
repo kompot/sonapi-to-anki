@@ -1,0 +1,121 @@
+{
+  "requestedWord": "majanduslikult",
+  "estonianWord": "majanduslikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "majanduslikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "See tehing polnud firmale majanduslikult kasulik."
+          ],
+          "synonyms": [
+            "säästvalt,säästlikult",
+            "ökonoomselt"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "economically",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "économiquement",
+                "weight": 1
+              },
+              {
+                "words": "financièrement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "экономически",
+                "weight": 1
+              },
+              {
+                "words": "хозяйственно",
+                "weight": 1
+              },
+              {
+                "words": "экономично",
+                "weight": 1
+              },
+              {
+                "words": "экономно",
+                "weight": 1
+              },
+              {
+                "words": "бережно,бережливо,экономно,расчётливо,рачительно",
+                "weight": 0.9
+              },
+              {
+                "words": "выгодно,бережливо,экономно,рачительно,экономично",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "економічно",
+                "weight": 1
+              },
+              {
+                "words": "економно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kitsalt",
+        "säästlikult",
+        "ökonoomselt",
+        "kokkuhoidlikult",
+        "väikselt",
+        "heaperemehelikult",
+        "ühiskondlikult",
+        "kestlikult",
+        "tasuv",
+        "rahaliselt",
+        "poliitiliselt",
+        "õiguslikult",
+        "sotsiaalselt",
+        "jätkusuutlikult",
+        "jõukalt",
+        "majanduslik",
+        "sõjaliselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "majanduslikult",
+      "translations": [
+        "economically",
+        "financially"
+      ]
+    }
+  ]
+}

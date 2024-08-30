@@ -1,0 +1,600 @@
+{
+  "requestedWord": "inimene",
+  "estonianWord": "inimene",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "12",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "inimene"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "inimese"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "inimest"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "inimesse"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "inimesesse"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "inimeses"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "inimesest"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "inimesele"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "inimesel"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "inimeselt"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "inimeseks"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "inimeseni"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "inimesena"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "inimeseta"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "inimesega"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "inimesed"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "inimeste"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "inimesi"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "inimestesse,inimesisse"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "inimestes,inimesis"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "inimestest,inimesist"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "inimestele,inimesile"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "inimestel,inimesil"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "inimestelt,inimesilt"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "inimesteks,inimesiks"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "inimesteni"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "inimestena"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "inimesteta"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "inimestega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mis tahes soost või vanusest isik (nt mees, naine, laps), ühiskonna liige, liigi <eki-foreign>Homo sapiens</eki-foreign> esindaja,mees, naine või laps",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ma olen täiesti tavaline inimene.",
+            "Noored ja haritud inimesed.",
+            "Saarel sai selgemaks looduse ja inimese vaheline suhe.",
+            "Tööle võeti 10 inimest.",
+            "Ta pilk rändas inimeselt inimesele.",
+            "Tiina on hea inimene.",
+            "Saalis istus paarkümmend inimest.",
+            "Küsitluses võivad osaleda Eestis elavad inimesed."
+          ],
+          "synonyms": [
+            "inimesepoeg",
+            "in",
+            "inimolend",
+            "inimeseloom,inimloom",
+            "surelik",
+            "inimeselaps",
+            "inimlaps",
+            "hingeline,hing",
+            "nägu",
+            "lihtsurelik",
+            "jumala loom,jumalaloom",
+            "põrmulaps",
+            "loom",
+            "isik"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "homme",
+                "weight": 1
+              },
+              {
+                "words": "être humain",
+                "weight": 1
+              },
+              {
+                "words": "humain",
+                "weight": 1
+              },
+              {
+                "words": "personne",
+                "weight": 1
+              },
+              {
+                "words": "individu,personne",
+                "weight": 0.741
+              }
+            ],
+            "rus": [
+              {
+                "words": "человек",
+                "weight": 1
+              },
+              {
+                "words": "ч.",
+                "weight": 1
+              },
+              {
+                "words": "чел.",
+                "weight": 1
+              },
+              {
+                "words": "чел-к",
+                "weight": 1
+              },
+              {
+                "words": "человеческое существо,человек",
+                "weight": 0.791
+              },
+              {
+                "words": "человек,тварь,существо,человечина",
+                "weight": 0.7953
+              },
+              {
+                "words": "смертный",
+                "weight": 0.9
+              },
+              {
+                "words": "дитя человеческое",
+                "weight": 0.9
+              },
+              {
+                "words": "сын человеческий",
+                "weight": 0.8193
+              },
+              {
+                "words": "живая душа,душа,живое существо",
+                "weight": 0.9
+              },
+              {
+                "words": "человек,тип",
+                "weight": 0.9
+              },
+              {
+                "words": "простой смертный",
+                "weight": 0.9
+              },
+              {
+                "words": "божья тварь",
+                "weight": 0.9
+              },
+              {
+                "words": "животное,скотина",
+                "weight": 0.9
+              },
+              {
+                "words": "лицо,персона,особа,личность",
+                "weight": 0.741
+              }
+            ],
+            "ukr": [
+              {
+                "words": "людина",
+                "weight": 1
+              },
+              {
+                "words": "персона,особа",
+                "weight": 0.741
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ühiskonnas) täisväärtuslik isik,täiskasvanu",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Loodame, et temast saab veel inimene."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "человек",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "individuaalse omapäraga isik,teatavate omaduste, väärtuste kandja",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Inimesena on ta väga sümpaatne.",
+            "Nüüd olen täiesti teine inimene.",
+            "Lääne inimesel on Stalini rollist raske aru saada.",
+            "Mees on läbi ja lõhki loominguline inimene.",
+            "Majandusinimene.",
+            "Kirjandusinimene."
+          ],
+          "synonyms": [
+            "sell,tüüp",
+            "karakter",
+            "persoon",
+            "inimesetükk",
+            "mees",
+            "figuur,kuju,tegelane"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "личность",
+                "weight": 1
+              },
+              {
+                "words": "тип,парень,малый",
+                "weight": 0.7
+              },
+              {
+                "words": "личность,особа,персона",
+                "weight": 0.7
+              },
+              {
+                "words": "человек,муж",
+                "weight": 0.7
+              },
+              {
+                "words": "личность,деятель,фигура",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "діяч,діячка",
+                "weight": 0.7
+              },
+              {
+                "words": "діячка,діяч",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "personnage,personnalité",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "üldinimlike omaduste kandja",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ka arst on inimene ja võib vigu teha.",
+            "Olge ikka inimene, räägime kõigepealt omavahel!",
+            "Inimeseks ei sünnita, inimeseks saadakse."
+          ],
+          "synonyms": [
+            "eraisik"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "человек",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teatava piirkonna elanik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kohalikud inimesed.",
+            "Tõstamaa kandi inimesed."
+          ],
+          "synonyms": [
+            "elanik",
+            "asukas",
+            "kohalik",
+            "asuja"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "житель",
+                "weight": 1
+              },
+              {
+                "words": "обитатель,житель,жительница,жилец,обитательница",
+                "weight": 0.7
+              },
+              {
+                "words": "обитатель,обитательница,житель,жительница,поселенка,поселенец",
+                "weight": 0.7
+              },
+              {
+                "words": "местный",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "résident,résidente,habitant,habitante",
+                "weight": 0.7
+              },
+              {
+                "words": "habitant (local),habitante (locale)",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "мешканець,мешканка,житель,жителька",
+                "weight": 0.7
+              },
+              {
+                "words": "місцевий,тутешній",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "resident",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(teiste, muude isikute kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ta ei saa inimestega läbi."
+          ],
+          "synonyms": [
+            "suu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "человек",
+                "weight": 1
+              },
+              {
+                "words": "рот,едок",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "persoon",
+        "karakter",
+        "asuja",
+        "kohalik",
+        "asukas",
+        "elanik",
+        "figuur",
+        "inimolend",
+        "vaim",
+        "reainimene",
+        "tavainimene",
+        "lihtinimene",
+        "massiinimene",
+        "hingeline",
+        "nägu",
+        "loomake",
+        "inimeseloom",
+        "kaasinimene",
+        "lihtsurelik",
+        "reamees",
+        "argiinimene",
+        "loom",
+        "loom",
+        "inimvare",
+        "inimlaps",
+        "surelik",
+        "inimeselaps",
+        "patune",
+        "jumalaloom",
+        "hing",
+        "ristiinimene",
+        "inimesetükk",
+        "inimloom",
+        "ligimene",
+        "eikeegi",
+        "põrmulaps",
+        "inimesepoeg",
+        "inimhing",
+        "isik",
+        "üksikisik",
+        "isiksus",
+        "ööinimene",
+        "vaimuinimene",
+        "tehisinimene",
+        "naisinimene",
+        "üliinimene",
+        "perekonnainimene",
+        "üksikinimene",
+        "nüüdisinimene",
+        "seltskonnainimene",
+        "tundeinimene",
+        "inimtõug",
+        "hobuinimene",
+        "ürginimene",
+        "linnainimene",
+        "pärisinimene",
+        "maainimene",
+        "loovinimene",
+        "loomeinimene",
+        "tööinimene",
+        "teoinimene",
+        "äriinimene",
+        "hing",
+        "ahvinimene"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "inimene",
+      "translations": [
+        "human",
+        "human being"
+      ]
+    }
+  ]
+}

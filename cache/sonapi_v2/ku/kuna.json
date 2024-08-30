@@ -1,0 +1,451 @@
+{
+  "requestedWord": "kuna",
+  "estonianWord": "kuna",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kuna"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sellepärast et, sel põhjusel et,sel põhjusel, et,sellepärast et",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Kuna oli ennustatud vihmasadu, siis matkale ei mindud.",
+            "Suur osa ettepanekuid jäi kõrvale, kuna need ei saanud vajalikku toetust.",
+            "Pean uue telefoni ostma, kuna vana läks katki.",
+            "Kuna Martinil on palavik, siis ta kooli ei läinud."
+          ],
+          "synonyms": [
+            "kuivõrd",
+            "sest"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "parce que",
+                "weight": 1
+              },
+              {
+                "words": "car",
+                "weight": 1
+              },
+              {
+                "words": "puisque",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "поскольку",
+                "weight": 1
+              },
+              {
+                "words": "так как",
+                "weight": 1
+              },
+              {
+                "words": "потому что",
+                "weight": 1
+              },
+              {
+                "words": "ибо",
+                "weight": 1
+              },
+              {
+                "words": "коль скоро",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "бо",
+                "weight": 1
+              },
+              {
+                "words": "тому що",
+                "weight": 1
+              },
+              {
+                "words": "через те що",
+                "weight": 1
+              },
+              {
+                "words": "того що",
+                "weight": 1
+              },
+              {
+                "words": "оскільки",
+                "weight": 1
+              },
+              {
+                "words": "позаяк",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajaliselt:) samal ajal kui, sel ajal kui",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Ema tõusis vara, kuna teised veel magama jäid.",
+            "F. Schiller on öelnud, et kirjanduse jutustavad vormid kannavad oleviku üle minevikku, kuna draama teeb minevikust oleviku."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "тогда как",
+                "weight": 1
+              },
+              {
+                "words": "в то время как",
+                "weight": 1
+              },
+              {
+                "words": "между тем как",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kunas, millal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kuna sa meile tuled?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "когда",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "samal ajal kui",
+        "sel ajal kui",
+        "sest",
+        "mil",
+        "kunas",
+        "sellal kui",
+        "seepärast et",
+        "sellepärast et",
+        "millal",
+        "kuivõrd",
+        "sest et",
+        "et",
+        "et",
+        "ning",
+        "kuigi",
+        "ehkki",
+        "see",
+        "kuid",
+        "aga",
+        "aga",
+        "siiski",
+        "ilmselt",
+        "kui",
+        "kui",
+        "mistõttu",
+        "seega",
+        "seetõttu",
+        "samuti",
+        "seepärast",
+        "sellepärast",
+        "küll",
+        "küll",
+        "eriti",
+        "just",
+        "õnneks",
+        "ent",
+        "sestap",
+        "paraku",
+        "siis"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kuna"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kuna"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kuna"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kunasse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kunas"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kunast"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kunale"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kunal"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kunalt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kunaks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kunani"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kunana"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kunata"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kunaga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kunad"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kunade"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kunasid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kunadesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kunades"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kunadest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kunadele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kunadel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kunadelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kunadeks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kunadeni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kunadena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kunadeta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kunadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Horvaatia suurem rahaühik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "куна",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "samal ajal kui",
+        "sel ajal kui",
+        "sest",
+        "mil",
+        "kunas",
+        "sellal kui",
+        "seepärast et",
+        "sellepärast et",
+        "millal",
+        "kuivõrd",
+        "sest et",
+        "et",
+        "et",
+        "ning",
+        "kuigi",
+        "ehkki",
+        "see",
+        "kuid",
+        "aga",
+        "aga",
+        "siiski",
+        "ilmselt",
+        "kui",
+        "kui",
+        "mistõttu",
+        "seega",
+        "seetõttu",
+        "samuti",
+        "seepärast",
+        "sellepärast",
+        "küll",
+        "küll",
+        "eriti",
+        "just",
+        "õnneks",
+        "ent",
+        "sestap",
+        "paraku",
+        "siis"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kuna",
+      "translations": [
+        "kuna (Horvaatia rahaühik)",
+        "while",
+        "whilst"
+      ]
+    }
+  ]
+}

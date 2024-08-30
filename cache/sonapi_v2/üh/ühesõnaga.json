@@ -1,0 +1,101 @@
+{
+  "requestedWord": "ühesõnaga",
+  "estonianWord": "ühesõnaga",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ühesõnaga"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kokku võttes, lühidalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ühesõnaga, kõik on korras.",
+            "Tema on mõtleja, väga tark – ühesõnaga filosoof."
+          ],
+          "synonyms": [
+            "ühe sõnaga",
+            "sõnaga"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "одним словом",
+                "weight": 1
+              },
+              {
+                "words": "короче говоря",
+                "weight": 1
+              },
+              {
+                "words": "иначе говоря",
+                "weight": 1
+              },
+              {
+                "words": "другими словами",
+                "weight": 1
+              },
+              {
+                "words": "иными словами",
+                "weight": 1
+              },
+              {
+                "words": "словом",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "napisõnaliselt",
+        "lakooniliselt",
+        "lühidalt",
+        "napilt",
+        "kokkusurutult",
+        "eks",
+        "eks",
+        "eks",
+        "noh",
+        "kah",
+        "miskitmoodi",
+        "miskitpidi",
+        "pohhui",
+        "muidugi",
+        "miskipärast",
+        "ikka",
+        "nojah",
+        "tegelt",
+        "sittagi",
+        "ühesõnaline",
+        "sõnaga",
+        "täiega"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ühesõnaga",
+      "translations": [
+        "in a word",
+        "in one word"
+      ]
+    }
+  ]
+}

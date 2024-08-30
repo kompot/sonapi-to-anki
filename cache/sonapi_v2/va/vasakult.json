@@ -1,0 +1,94 @@
+{
+  "requestedWord": "vasakult",
+  "estonianWord": "vasakult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vasakult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "keha keskjoonest südame poolt,vasaku käe poolt või suunast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tiigrile tuli alati läheneda vasakult.",
+            "Enamikus keeltes loetakse teksti vasakult paremale, mõnes aga paremalt vasakule."
+          ],
+          "synonyms": [
+            "pahemalt",
+            "vasakult poolt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "à gauche",
+                "weight": 1
+              },
+              {
+                "words": "de gauche",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "слева",
+                "weight": 1
+              },
+              {
+                "words": "с левой стороны",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ліворуч",
+                "weight": 1
+              },
+              {
+                "words": "зліва",
+                "weight": 1
+              },
+              {
+                "words": "з лівого боку",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vasakul",
+        "paremal",
+        "paremale",
+        "vasakhaak",
+        "ülevalt",
+        "ülevalt",
+        "vasemalt",
+        "vasakule",
+        "paremalt",
+        "vasak"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vasakult",
+      "translations": []
+    }
+  ]
+}

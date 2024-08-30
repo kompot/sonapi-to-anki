@@ -1,0 +1,70 @@
+{
+  "requestedWord": "piiramatult",
+  "estonianWord": "piiramatult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "piiramatult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nii, et pole mingeid piiranguid ega tõkestusi, üha jätkuvalt,lõpmatul hulgal, väga palju",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Jänesed paljunesid piiramatult.",
+            "Rakud võivad hakata piiramatult jagunema mitmel põhjusel.",
+            "Võimalusi on piiramatult.",
+            "Mida teeksid, kui sul oleks piiramatult raha?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "неограниченно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "absoluutselt",
+        "tähelepandamatult",
+        "piiramatus",
+        "piiramatu",
+        "piiratult",
+        "tõkestamatult",
+        "lõpmatult",
+        "lõputult",
+        "piirama",
+        "piiratud",
+        "kasutamatult",
+        "ohjeldamatult",
+        "vastupandamatult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "piiramatult",
+      "translations": [
+        "illimitedly"
+      ]
+    }
+  ]
+}

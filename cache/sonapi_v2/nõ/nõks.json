@@ -1,0 +1,809 @@
+{
+  "requestedWord": "nõks",
+  "estonianWord": "nõks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "nõks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "nõksu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "nõksu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "nõksu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "nõksusse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "nõksus"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "nõksust"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "nõksule"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "nõksul"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "nõksult"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "nõksuks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "nõksuni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "nõksuna"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "nõksuta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "nõksuga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "nõksud"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "nõksude"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "nõkse,nõksusid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "nõksudesse,nõksesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "nõksudes,nõkses"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "nõksudest,nõksest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "nõksudele,nõksele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "nõksudel,nõksel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "nõksudelt,nõkselt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "nõksudeks,nõkseks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "nõksudeni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "nõksudena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "nõksudeta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "nõksudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "leidlik toimimisviis, (kaval) võte,kaval võte",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ta valdab kõiki avaliku esinemise nõkse.",
+            "Igal mustkunstnikul on omad nõksud.",
+            "Kes ikka hallitusjuustu ei armasta, seda ei pane mingi nõksuga meelt muutma."
+          ],
+          "synonyms": [
+            "nipp",
+            "trikk",
+            "saladus",
+            "koerus,koerustükk,tembutus,vigur,temp",
+            "kunst",
+            "sõjakavalus",
+            "riugas,kriugas,riuge",
+            "kunsttükk",
+            "knihv,nihv",
+            "nüke",
+            "kavalus",
+            "valem",
+            "võte",
+            "pettemanööver",
+            "ninanips,puss,vemp,vingerpuss,vigurdus",
+            "manööver",
+            "krutski,konks,trikk,trikikas",
+            "number"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "trick",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "tour",
+                "weight": 1
+              },
+              {
+                "words": "méthode",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "приём",
+                "weight": 1
+              },
+              {
+                "words": "хитрый приём",
+                "weight": 1
+              },
+              {
+                "words": "подходец",
+                "weight": 1
+              },
+              {
+                "words": "уловка",
+                "weight": 1
+              },
+              {
+                "words": "хитрость",
+                "weight": 1
+              },
+              {
+                "words": "ухищрение",
+                "weight": 1
+              },
+              {
+                "words": "трюк",
+                "weight": 1
+              },
+              {
+                "words": "ухватка",
+                "weight": 1
+              },
+              {
+                "words": "фокус,фортель,выходка,шалость,проделка,финт,проказа,каверза,затея,озорство,выдумка,номер,штука",
+                "weight": 0.9
+              },
+              {
+                "words": "уловка,колдовство,магия",
+                "weight": 0.9
+              },
+              {
+                "words": "козни,каверза,пронырство,интрига,коварный умысел,подвох,происк",
+                "weight": 0.9
+              },
+              {
+                "words": "уловка,искусство,трюк,фокус,кунштюк,ухищрение",
+                "weight": 0.9
+              },
+              {
+                "words": "увёртка,ухищрение,уловка,изворот,трюк,финт,фигли-мигли,фокус",
+                "weight": 0.9
+              },
+              {
+                "words": "трюк,закорючка,уловка,ловкий приём,ухищрение",
+                "weight": 0.9
+              },
+              {
+                "words": "хитрость,ловкость,лукавость,лукавство",
+                "weight": 0.9
+              },
+              {
+                "words": "формула",
+                "weight": 0.7
+              },
+              {
+                "words": "способ,приём",
+                "weight": 0.7
+              },
+              {
+                "words": "ложный манёвр",
+                "weight": 0.9
+              },
+              {
+                "words": "кривляние,затея,каверза,проказа,фиглярство,проделка,шалость,выходка,шкода,козни,каверзы,кривлянье,ломанье,фортель,фокусничанье,трюкачество,фокус,штука,выдумка,фокусничество",
+                "weight": 0.9
+              },
+              {
+                "words": "манёвр",
+                "weight": 0.7
+              },
+              {
+                "words": "уловка,закавыка,фокус,закорючка,закавычка,штука,загвоздка",
+                "weight": 0.9
+              },
+              {
+                "words": "номер",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "трюк",
+                "weight": 1
+              },
+              {
+                "words": "спосіб,метод,прийом",
+                "weight": 0.7
+              },
+              {
+                "words": "маневр",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "lühike järsk liigutus, nt tõmme või tõuge",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Põlvest käis nõks läbi.",
+            "Osuti teeb nõksu paremale."
+          ],
+          "synonyms": [
+            "nõksak",
+            "nõksatus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "рывок",
+                "weight": 1
+              },
+              {
+                "words": "толчок",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "väike hulk, vähene määr",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Koolimatemaatika taset ei tohiks praegusest nõksugi allapoole lasta.",
+            "Mul läheb veel üks nõks aega.",
+            "Mees on nõks üle kolmekümne."
+          ],
+          "synonyms": [
+            "natukene",
+            "põrmukene",
+            "sutikene",
+            "suts",
+            "tsutikene",
+            "ivakene",
+            "krööm",
+            "kröömike",
+            "natuke",
+            "põrmuke",
+            "raas",
+            "raasuke",
+            "sutsakas",
+            "tera",
+            "terake",
+            "terakene",
+            "tibake",
+            "tibakene",
+            "torts",
+            "tsipa",
+            "tsipake",
+            "tsipakene",
+            "törts",
+            "törtsuke",
+            "törtsukene",
+            "veidike",
+            "kübeke",
+            "kübekene",
+            "ivake",
+            "veidikene",
+            "tsutike",
+            "kröömikene",
+            "pireke",
+            "kübemeke",
+            "pisuke,pisukene",
+            "vähene",
+            "väheke,vähekene",
+            "pisku",
+            "sutsukene",
+            "tsipa,tsipakene,tiba,tsipake,tibake,tibakene",
+            "sugupärast,pisut,natukese,natukene,natuke,natu,natsa,nats,natike,mõnevõrra,kübekene,kübeke,pisku,natikene,pireke,veidikese,vähekese,vähekene,väheke,vähe,veidikene,veidike,veidi",
+            "killuke,killukene",
+            "piisake,piisakene,tilgake,tilgakene",
+            "kübe",
+            "kriipsukene,kriimuke,kriim,kriipsuke",
+            "tirts",
+            "tonks",
+            "pisku",
+            "sorts",
+            "nats,natsa",
+            "ivake,ivakene,jupike,jupikene,karvake,karvakene,kröömike,pilguke,raasike,raasuke,sugu,suti,sutike,sutsu,sutsuke,sutt,tera,terake,tirts,tsuti,tsutike,tsutikene,tsutt,sutsukene,raasikene,sutikene,kröömikese,kröömikene,terakene,nõksuke",
+            "piisake,piisakene,piisk,sirts,sorts,surts,tilgake,tilgakene,tilk,sortsakas,sortsukene",
+            "sortsukene"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "крупинка",
+                "weight": 1
+              },
+              {
+                "words": "капля",
+                "weight": 1
+              },
+              {
+                "words": "крупица",
+                "weight": 1
+              },
+              {
+                "words": "чуть",
+                "weight": 1
+              },
+              {
+                "words": "каплю",
+                "weight": 1
+              },
+              {
+                "words": "кроха",
+                "weight": 1
+              },
+              {
+                "words": "немножко",
+                "weight": 1
+              },
+              {
+                "words": "чуточку",
+                "weight": 1
+              },
+              {
+                "words": "чуток",
+                "weight": 1
+              },
+              {
+                "words": "чуть-чуть",
+                "weight": 1
+              },
+              {
+                "words": "малость",
+                "weight": 1
+              },
+              {
+                "words": "маленько",
+                "weight": 1
+              },
+              {
+                "words": "капельку",
+                "weight": 1
+              },
+              {
+                "words": "маненько",
+                "weight": 1
+              },
+              {
+                "words": "толика",
+                "weight": 1
+              },
+              {
+                "words": "немножечко",
+                "weight": 1
+              },
+              {
+                "words": "крошка",
+                "weight": 1
+              },
+              {
+                "words": "чуточка",
+                "weight": 1
+              },
+              {
+                "words": "капелька",
+                "weight": 1
+              },
+              {
+                "words": "крошечка",
+                "weight": 1
+              },
+              {
+                "words": "щепотка",
+                "weight": 0.7
+              },
+              {
+                "words": "немногое,малое",
+                "weight": 0.9
+              },
+              {
+                "words": "малость,капелька,чуточка",
+                "weight": 0.8465
+              },
+              {
+                "words": "малое,толика,чуточка,малость,немногое",
+                "weight": 0.9
+              },
+              {
+                "words": "капельку,чуть-чуть,немного,чуток,малость,чуточку,чуть,немножечко,немножко,крошечку",
+                "weight": 0.8067
+              },
+              {
+                "words": "маленько,крошечка,чуток,малость,чуточку,чуть,немножко,чуть-чуть,капельку,толика,чуточка,капелька,кроха,крупица,немного,частица,немножечко",
+                "weight": 0.9
+              },
+              {
+                "words": "капелька,чуточка,кусочек",
+                "weight": 0.9
+              },
+              {
+                "words": "чуточка,капелька",
+                "weight": 0.9
+              },
+              {
+                "words": "капелька,крупица,крупинка,крошка,частица,капля,чуточка,толика,кроха",
+                "weight": 0.7
+              },
+              {
+                "words": "чуть-чуть,капельку",
+                "weight": 0.9
+              },
+              {
+                "words": "капелька,капля",
+                "weight": 0.9
+              },
+              {
+                "words": "чуточка,капелька",
+                "weight": 0.9
+              },
+              {
+                "words": "недостаточный,ограниченный,скудный,мизерный,малый",
+                "weight": 0.9
+              },
+              {
+                "words": "немножечко,чуточку,немножко,чуть-чуть,капельку",
+                "weight": 0.9
+              },
+              {
+                "words": "немножко,чуточку,малость,чуть-чуть,капельку",
+                "weight": 0.9
+              },
+              {
+                "words": "немножко,немного,капельку,крошечку,чуть-чуть,немножечко,чуть,чуточку,слегка,малость,чуток,маленько,капелюшечку,маненько,крошку",
+                "weight": 0.9
+              },
+              {
+                "words": "глоток,капля,капелька",
+                "weight": 0.9
+              },
+              {
+                "words": "чуточку,немножечко,немножко,чуть-чуть,капельку",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "un peu",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "трішки,трошки,трохи",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "a bit,a little",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "saladus",
+        "pettemanööver",
+        "jõnks",
+        "jõnks",
+        "kavalus",
+        "riugas",
+        "vigur",
+        "konks",
+        "knihv",
+        "trikk",
+        "jõnksatus",
+        "nõksak",
+        "võnks",
+        "nüke",
+        "nihv",
+        "kõverik",
+        "jänesehaak",
+        "krutski",
+        "kriugas",
+        "tõmme",
+        "lõnks",
+        "lõnks",
+        "kunsttükk",
+        "rops",
+        "rops",
+        "rops",
+        "ropsak",
+        "raps",
+        "raps",
+        "raps",
+        "haak",
+        "nõksatus",
+        "manööver",
+        "riuge",
+        "manipulatsioon",
+        "sõjakavalus",
+        "nipp",
+        "jõnk",
+        "ropsakas",
+        "kunst",
+        "jonksatus",
+        "kaval",
+        "peen",
+        "temp",
+        "osav",
+        "suts",
+        "suts",
+        "nõme",
+        "vähekene",
+        "vähekene",
+        "nõksa",
+        "lödi",
+        "sutsu",
+        "tsipa",
+        "tsipa",
+        "tiba",
+        "tiba",
+        "mömm",
+        "sihuke",
+        "nõksu",
+        "köki-möki",
+        "törts",
+        "ahjaa",
+        "jess",
+        "ilgelt",
+        "õhin",
+        "kõhe",
+        "käpas",
+        "õige",
+        "õige",
+        "vot",
+        "nojah",
+        "siuke"
+      ]
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "nõks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "lühikese järsu liigutusega või sel viisil liikudes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "Vanem härra tukastab keset etendust, pea vajub nõks ja nõks rinnale."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "pettemanööver",
+        "jõnks",
+        "jõnks",
+        "kavalus",
+        "riugas",
+        "vigur",
+        "konks",
+        "knihv",
+        "trikk",
+        "jõnksatus",
+        "nõksak",
+        "võnks",
+        "nüke",
+        "nihv",
+        "kõverik",
+        "jänesehaak",
+        "krutski",
+        "kriugas",
+        "tõmme",
+        "lõnks",
+        "lõnks",
+        "kunsttükk",
+        "rops",
+        "rops",
+        "rops",
+        "ropsak",
+        "raps",
+        "raps",
+        "raps",
+        "haak",
+        "nõksatus",
+        "manööver",
+        "riuge",
+        "manipulatsioon",
+        "sõjakavalus",
+        "nipp",
+        "jõnk",
+        "ropsakas",
+        "kunst",
+        "jonksatus",
+        "kaval",
+        "peen",
+        "temp",
+        "osav",
+        "suts",
+        "suts",
+        "nõme",
+        "vähekene",
+        "vähekene",
+        "nõksa",
+        "nojah",
+        "siuke",
+        "lödi",
+        "sutsu",
+        "tsipa",
+        "tsipa",
+        "tiba",
+        "tiba",
+        "mömm",
+        "sihuke",
+        "nõksu",
+        "vot",
+        "köki-möki",
+        "törts",
+        "ahjaa",
+        "jess",
+        "ilgelt",
+        "õhin",
+        "kõhe",
+        "käpas",
+        "õige",
+        "õige"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "nõks",
+      "translations": [
+        "knack"
+      ]
+    }
+  ]
+}

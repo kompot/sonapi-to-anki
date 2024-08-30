@@ -1,0 +1,876 @@
+{
+  "requestedWord": "kui",
+  "estonianWord": "kui",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kui"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "esineb sarnasusele osutavates võrdlustes, alustab võrdluse varjundiga lauseosa,võrdlustes: näitab, et miski sarnaneb millegagi, meenutab midagi või kedagi",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Pereisa on laisk kui lohe.",
+            "Nii kaugele ma ei julge ujuda, kui Laura ujus.",
+            "Mees oli tugev kui karu.",
+            "Ta on sama vana kui mina."
+          ],
+          "synonyms": [
+            "just kui",
+            "justkui",
+            "just nagu",
+            "justnagu",
+            "nagu",
+            "otsekui",
+            "otsegu"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "comme",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "как",
+                "weight": 1
+              },
+              {
+                "words": "словно",
+                "weight": 1
+              },
+              {
+                "words": "будто",
+                "weight": 1
+              },
+              {
+                "words": "как будто",
+                "weight": 1
+              },
+              {
+                "words": "как будто бы",
+                "weight": 1
+              },
+              {
+                "words": "точно",
+                "weight": 1
+              },
+              {
+                "words": "точно как",
+                "weight": 1
+              },
+              {
+                "words": "словно как",
+                "weight": 1
+              },
+              {
+                "words": "прямо как",
+                "weight": 1
+              },
+              {
+                "words": "как бы",
+                "weight": 1
+              },
+              {
+                "words": "прямо-таки как",
+                "weight": 1
+              },
+              {
+                "words": "вроде",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "як",
+                "weight": 1
+              },
+              {
+                "words": "наче",
+                "weight": 1
+              },
+              {
+                "words": "неначе",
+                "weight": 1
+              },
+              {
+                "words": "мов",
+                "weight": 1
+              },
+              {
+                "words": "немов",
+                "weight": 1
+              },
+              {
+                "words": "ніби",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb erinevust osutaval võrdlemisel,võrdlustes: kasutatakse siis, kui kaks asja on millegi poolest erinevad",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Sõnavõtt oli pikem kui tavaliselt.",
+            "Rahvast kogunes rohkem, kui osati oodata.",
+            "Tõnis on pikem kui Jaanus.",
+            "Eksam oli raskem, kui arvasin.",
+            "Ma ei oska nii hästi joonistada kui sina."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "que",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "чем",
+                "weight": 1
+              },
+              {
+                "words": "нежели",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ніж",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "alustab näimist või tundumist väljendavat võrdluse varjundiga lauseosa",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Talle näis, kui variseks maailm tema ümber kokku.",
+            "Omavahel kõneldi tasahääli, kui oleks majas olnud surnu."
+          ],
+          "synonyms": [
+            "nagu"
+          ],
+          "translations": {}
+        },
+        {
+          "definition": "(väljendites, mis rõhutavad mingi asjaolu, seisundi ülemmäära või sellele lähenemist)",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Viimane kui üks istekoht oli hõivatud.",
+            "Naudib iga viimast kui hetke.",
+            "Suvi on samahästi kui käes."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(mõnedes suurt määra osutavates väljendites)",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Asi on hullem kui hull.",
+            "Esinejate valik oli enam kui imelik.",
+            "Viga saab parandatud rutem kui muidu."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "alustab aega väljendavat või ajalise varjundiga kõrvallauset,sel ajal, mil (samal ajal mingi teise tegevusega)",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Ta tuli siis, kui ma magasin.",
+            "Kui lapsed olid söönud, läksid nad õue.",
+            "Kuulsin, kui te tülitsesite.",
+            "Ma olin kodus, kui sa mulle helistasid.",
+            "Ta tuli siis, kui ma magasin."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "quand",
+                "weight": 1
+              },
+              {
+                "words": "lorsque",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "когда",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "коли",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "alustab tingimust väljendavat või tingimuse varjundiga (kõrval)lauset,alustab lauses osa, mis sisaldab tingimust",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Kui sulle ülikond selga panna, näed sa päris viisakas välja.",
+            "Asi pidi tühine olema, kui kõik nii lihtsalt lahenes.",
+            "Teie olete vist, kui ma ei eksi, see inimene, kes ..",
+            "Neid oli kolm, kui mitte rohkem.",
+            "Kui väljas sajab, siis me jalutama ei lähe.",
+            "Ma ostaksin endale maja, kui mul oleks suurem palk.",
+            "Ma tulen siis, kui töö lõpetan."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "si",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "если",
+                "weight": 1
+              },
+              {
+                "words": "если бы",
+                "weight": 1
+              },
+              {
+                "words": "ежели",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "якщо",
+                "weight": 1
+              },
+              {
+                "words": "коли",
+                "weight": 1
+              },
+              {
+                "words": "як",
+                "weight": 1
+              },
+              {
+                "words": "якби",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(konstateerivates ja otsustavust ning tegevuse tõhusust väljendavates konstruktsioonides)",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Kui sõita, siis sõita.",
+            "Kui juba, siis juba.",
+            "Kui mitte, siis mitte."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "если",
+                "weight": 1
+              },
+              {
+                "words": "коли",
+                "weight": 1
+              },
+              {
+                "words": "коль",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kõrvutava vastanduse korral)",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Kui mardid soovisid peamiselt põlluõnne, siis kadrid saatsid karjaõnne."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "если",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "alustab soovi (mõnikord ka kahetsust), tagasihoidlikku palvet (mõnikord ka varjatud käsku) või kõhklust, kahtlust väljendavat lauset",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Kui ta ometi natuke kannatlikum oleks!",
+            "Kui sa laenaksid mulle oma raamatut!",
+            "Kui õige saadaks talle kirja."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "если бы",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esitab asjaolu, millest hoolimata mingi tegevus või olukord aset leiab",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Ja poiss, kui ta oligi väga häbematu, ei julgenud iialgi vastu hakata isale."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "väljendab umbmäärast mööndust",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Kui tark ta ka poleks, kõike ta ikka ei tea."
+          ],
+          "synonyms": [
+            "kuitahes",
+            "ükskõik kui",
+            "kui tahes"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "какой бы",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab täpsustusele,seob sõnu, millest üks täpsustab teist",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Sinu isa kui tohter peaks seda teadma.",
+            "Teda tuntakse kui vaikset ja tagasihoidlikku inimest.",
+            "Sina kui arst peaksid seda teadma."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "en tant que",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "как",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "як",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "seob kindlakskujunenud sõnapaare sisutervikut moodustavates ühendites",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Ta valvas haiget ööd kui päevad.",
+            "Olen sellest ühelt kui teiselt midagi kuulnud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "как..., так и...",
+                "weight": 1
+              },
+              {
+                "words": "и..., и...",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "koos omadus-, kesk-, määrsõnadega ning asesõnadega <eki-foreign>mitu</eki-foreign> ja <eki-foreign>palju</eki-foreign> moodustab määra, astet, ulatust väljendava fraasi,sõna, mida kasutatakse küsimustes, näiteks vanuse, hinna või suuruse kohta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kui vana sa oled?",
+            "Kui palju see maksab?",
+            "Kas sa tead, kui mitu kilomeetrit meil veel minna on?",
+            "Ma ei tea, kui kaua see kestis.",
+            "Kas sa tead, kui kaua etendus kestab?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "combien",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "сколько",
+                "weight": 1
+              },
+              {
+                "words": "как",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "скільки",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tundeid, nt imetlust, üllatust või kahetsust väljendades),näitab, et sa imestad millegi üle",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kui mõistvad vanemad sul on!",
+            "Hullusti läks, oi kui hullusti!",
+            "Kui tugevad te olete!",
+            "Oi, kui hea inimene sa oled!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "comme",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "какой",
+                "weight": 1
+              },
+              {
+                "words": "как",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "який",
+                "weight": 1
+              },
+              {
+                "words": "як",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ja",
+        "ning",
+        "nõnda kui",
+        "otsekui",
+        "justkui",
+        "nagu",
+        "otsegu",
+        "nii kui",
+        "kas",
+        "et",
+        "et",
+        "kuidas",
+        "niipalju kui",
+        "kuivõrd",
+        "niivõrd kui",
+        "kuis",
+        "just nagu",
+        "mitte",
+        "mitte",
+        "isegi",
+        "vähem",
+        "vähem",
+        "aga",
+        "aga",
+        "enam",
+        "enam",
+        "ainult",
+        "juhul",
+        "kuigi",
+        "sest",
+        "see",
+        "mõni",
+        "siis",
+        "rohkem",
+        "rohkem",
+        "nii"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "26",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kui"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kui"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kuid"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kuisse"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kuis"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kuist"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kuile"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kuil"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kuilt"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kuiks"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kuini"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kuina"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kuita"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kuiga"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kuid"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kuide"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kuisid"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kuidesse"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kuides"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kuidest"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kuidele"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kuidel"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kuidelt"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kuideks"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kuideni"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kuidena"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kuideta"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kuidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "häiriv, kahtlust tekitav, küsitav asjaolu",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Selles asjas on liiga palju kuisid.",
+            "Töö tähtajaks lõpetamisega on oma kuid ja agad."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "если",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ja",
+        "ning",
+        "nõnda kui",
+        "otsekui",
+        "justkui",
+        "nagu",
+        "otsegu",
+        "nii kui",
+        "kas",
+        "et",
+        "et",
+        "kuidas",
+        "niipalju kui",
+        "kuivõrd",
+        "niivõrd kui",
+        "kuis",
+        "just nagu",
+        "mitte",
+        "mitte",
+        "isegi",
+        "vähem",
+        "vähem",
+        "aga",
+        "aga",
+        "enam",
+        "enam",
+        "ainult",
+        "juhul",
+        "kuigi",
+        "sest",
+        "see",
+        "mõni",
+        "siis",
+        "rohkem",
+        "rohkem",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kui",
+      "translations": [
+        "as",
+        "how",
+        "if",
+        "qua",
+        "(van) sobeit",
+        "than",
+        "when"
+      ]
+    }
+  ]
+}

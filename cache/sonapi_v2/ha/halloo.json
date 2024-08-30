@@ -1,0 +1,122 @@
+{
+  "requestedWord": "halloo",
+  "estonianWord": "halloo",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "halloo"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "hüüe endast märku andmiseks, mida hrl kasutatakse telefonikõnet alustades,sõna, millega sa alustad telefonikõnet",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "Halloo, kas see on haigla?",
+            "Halloo, kus te olete?",
+            "Nad läksid tuppa ja Egemon hüüdis vaikselt: „Halloo, magister, ma tulin sõrmuse järele!”",
+            "Halloo, kas Martin kuuleb?"
+          ],
+          "synonyms": [
+            "hallo"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "allô",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "алло",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "алло",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hüüatus, mis osutab imestusele, nõutusele, nõustumatusele",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "Mismoodi ei ole normaalseid mehi, halloo?!",
+            "Halloo, kas teil mõistust ka on!",
+            "Poiss tegi silmadega ringe, et halloo, täna on pühapaev."
+          ],
+          "synonyms": [
+            "hallo"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "алё",
+                "weight": 1
+              },
+              {
+                "words": "ау",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "noh",
+        "sihukene",
+        "sihuke",
+        "pohhui",
+        "lollakas",
+        "tontlik",
+        "sinakas",
+        "halljänes",
+        "hall-kärbsenäpp",
+        "halloumi",
+        "hallim",
+        "siuke",
+        "rumaluke",
+        "hallollus",
+        "hallo",
+        "mihuke",
+        "hallrähn",
+        "napakas",
+        "hallitriibuline",
+        "halltõbi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "halloo",
+      "translations": [
+        "hallo",
+        "hello",
+        "hullo"
+      ]
+    }
+  ]
+}

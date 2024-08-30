@@ -1,0 +1,298 @@
+{
+  "requestedWord": "äkki",
+  "estonianWord": "äkki",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "äkki"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "üllatuslikult (kiiresti, sel samal hetkel), ette nägematult, ette teatamata vms,(kiiresti ja) nii et ei osanud ette näha",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Äkki läks pimedaks.",
+            "Nüüd äkki taipas ta, mis teoksil on.",
+            "Äkki helises uksekell.",
+            "Koer hakkas äkki haukuma."
+          ],
+          "synonyms": [
+            "järsku",
+            "korraga",
+            "äkitselt",
+            "ühekorraga",
+            "ühtäkki",
+            "ootamatult",
+            "üksäkki",
+            "hetkepealt,jalamaid,jalapealt,kohe,kohemaid,koheselt,korrapealt,minutipealt,otsekohe,otsemaid,otsemat teed,otseteed,paugupealt,paukselt,plaksupealt,raksupealt,ropsult,ropsupealt,sedamaid,sekundipealt,silmapilk,tunnipealt,viibimata,viivitamata,momentaanselt,momentselt,viibimatult,viivitamatult,sekundi pealt,momentaalselt,silmapilkselt,minuti pealt,krapsupealt"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "suddenly",
+                "weight": 1
+              },
+              {
+                "words": "unexpectedly",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "soudain",
+                "weight": 1
+              },
+              {
+                "words": "tout à coup",
+                "weight": 1
+              },
+              {
+                "words": "subitement",
+                "weight": 1
+              },
+              {
+                "words": "brusquement",
+                "weight": 1
+              },
+              {
+                "words": "tout de suite,immédiatement,aussitôt",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "вдруг",
+                "weight": 1
+              },
+              {
+                "words": "внезапно",
+                "weight": 1
+              },
+              {
+                "words": "непредвиденно",
+                "weight": 1
+              },
+              {
+                "words": "мгновенно",
+                "weight": 1
+              },
+              {
+                "words": "с ходу",
+                "weight": 1
+              },
+              {
+                "words": "неожиданно",
+                "weight": 1
+              },
+              {
+                "words": "нежданно",
+                "weight": 1
+              },
+              {
+                "words": "разом",
+                "weight": 1
+              },
+              {
+                "words": "откуда ни возьмись",
+                "weight": 1
+              },
+              {
+                "words": "нежданно-негаданно",
+                "weight": 1
+              },
+              {
+                "words": "немедленно,не теряя времени,без промедления,безотлагательно,в один миг,мгновенно,моментально,сию минуту,тут же,сразу,немедля,мигом,немедлительно,незамедлительно,сию же минуту,сию же секунду,сейчас же,с ходу,сию секунду,прямиком,спешно,срочно,в срочном порядке,неотлагательно,сразу же,тотчас,без замедления,одним пыхом,в одну минуту,вмиг,неотложно,в одночасье,моменталом,не откладывая,не раздумывая,не тратя времени,в одну секунду,тотчас же,щас",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "раптом",
+                "weight": 1
+              },
+              {
+                "words": "враз",
+                "weight": 1
+              },
+              {
+                "words": "нараз",
+                "weight": 1
+              },
+              {
+                "words": "раптово",
+                "weight": 1
+              },
+              {
+                "words": "непередбачено",
+                "weight": 1
+              },
+              {
+                "words": "несподівано",
+                "weight": 1
+              },
+              {
+                "words": "нагло",
+                "weight": 1
+              },
+              {
+                "words": "зненацька",
+                "weight": 1
+              },
+              {
+                "words": "відразу,зразу,зараз же,негайно",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab oletatavale või loodetavale võimalusele, milles siiski ei olda päris kindel,näitab, et kõneleja ei ole päris kindel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Äkki prooviks keegi teda asendada?",
+            "Äkki Raul ei tulegi.",
+            "Võta vihmavari kaasa, äkki hakkab sadama."
+          ],
+          "synonyms": [
+            "vahest",
+            "vahest ehk",
+            "ehk",
+            "järsku",
+            "vast",
+            "vast ehk",
+            "võib-olla",
+            "võibolla",
+            "v-o",
+            "vo",
+            "vbl"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "perhaps",
+                "weight": 1
+              },
+              {
+                "words": "maybe",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "peut-être",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "возможно",
+                "weight": 1
+              },
+              {
+                "words": "вероятно",
+                "weight": 1
+              },
+              {
+                "words": "быть может",
+                "weight": 1
+              },
+              {
+                "words": "пожалуй",
+                "weight": 1
+              },
+              {
+                "words": "может",
+                "weight": 1
+              },
+              {
+                "words": "авось",
+                "weight": 1
+              },
+              {
+                "words": "м.б.",
+                "weight": 1
+              },
+              {
+                "words": "может быть",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "можливо",
+                "weight": 1
+              },
+              {
+                "words": "може",
+                "weight": 1
+              },
+              {
+                "words": "мабуть",
+                "weight": 1
+              },
+              {
+                "words": "либонь",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sõnapealt",
+        "nagu ussist nõelatud",
+        "ühtäkki",
+        "järsku",
+        "ühekorraga",
+        "pärast",
+        "lõigatult",
+        "korraga",
+        "äkitselt",
+        "nagu välgust rabatud",
+        "viimati",
+        "ehk",
+        "ootamatult",
+        "võib-olla",
+        "noh",
+        "kas",
+        "keegi",
+        "jälle",
+        "ikka",
+        "tõesti",
+        "vist",
+        "vist",
+        "see",
+        "siis",
+        "võibolla"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "äkki",
+      "translations": [
+        "suddenly"
+      ]
+    }
+  ]
+}

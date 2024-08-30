@@ -1,0 +1,148 @@
+{
+  "requestedWord": "kaua",
+  "estonianWord": "kaua",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kaua"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "pikka või palju aega,pikka aega,palju aega",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ma olen sind nii kaua oodanud.",
+            "Minister on liiga kaua selles ametis olnud.",
+            "Kellele ei meeldiks nädalavahetusel kaua magada.",
+            "Kui kaua see aega võtab?",
+            "Ma olen sind juba kaua oodanud.",
+            "Kui kaua see film kestab?"
+          ],
+          "synonyms": [
+            "pikalt",
+            "pikka",
+            "jupp aega",
+            "lõpmatuseni"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "long",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "longtemps",
+                "weight": 1
+              },
+              {
+                "words": "longuement,longtemps",
+                "weight": 0.825
+              }
+            ],
+            "rus": [
+              {
+                "words": "долго",
+                "weight": 1
+              },
+              {
+                "words": "продолжительно",
+                "weight": 1
+              },
+              {
+                "words": "долгое время",
+                "weight": 1
+              },
+              {
+                "words": "в течение долгого времени",
+                "weight": 1
+              },
+              {
+                "words": "битый час",
+                "weight": 1
+              },
+              {
+                "words": "длительно,длинно,долго",
+                "weight": 0.825
+              },
+              {
+                "words": "помалу,не спеша,потихоньку,продолжительно,долго,медлительно,понемногу,медленно",
+                "weight": 0.8003
+              },
+              {
+                "words": "изрядно времени",
+                "weight": 0.9
+              },
+              {
+                "words": "до бесконечности,безостановочно",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "довго",
+                "weight": 1
+              },
+              {
+                "words": "довго",
+                "weight": 0.825
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pikaldaselt",
+        "lõpmatuseni",
+        "pikka",
+        "pikalt",
+        "jupp aega",
+        "niikaua",
+        "kauem",
+        "kauemini",
+        "kõlistama",
+        "visalt",
+        "kandma",
+        "tilistama",
+        "imetlema",
+        "kauem",
+        "veel",
+        "surmkindlalt",
+        "ikka",
+        "piisavalt",
+        "palju",
+        "palju",
+        "hästi",
+        "nii",
+        "lakkamatult",
+        "juba"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kaua",
+      "translations": [
+        "ages",
+        "for a long time",
+        "in extenso"
+      ]
+    }
+  ]
+}

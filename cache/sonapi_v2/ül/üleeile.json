@@ -1,0 +1,90 @@
+{
+  "requestedWord": "üleeile",
+  "estonianWord": "üleeile",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "üleeile"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "eilsele eelnenud päeval,eilsele päevale eelnenud päeval",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tulin üleeile õhtul.",
+            "Sa pidid ju üleeile külla tulema."
+          ],
+          "synonyms": [
+            "tunaeile"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "the day before yesterday",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "avant-hier",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "позавчера",
+                "weight": 1
+              },
+              {
+                "words": "накануне вчерашнего дня",
+                "weight": 1
+              },
+              {
+                "words": "третьего дня",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "позавчора",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tunaeile",
+        "täna",
+        "täna",
+        "eile",
+        "ükspäev",
+        "üleeilne",
+        "teisipäeval"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "üleeile",
+      "translations": [
+        "day before yesterday"
+      ]
+    }
+  ]
+}

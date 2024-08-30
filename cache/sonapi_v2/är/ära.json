@@ -1,0 +1,597 @@
+{
+  "requestedWord": "ära",
+  "estonianWord": "ära",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ära"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mujal, eemal, mitte siin,mujale, eemale, minema,mujal, mitte siin,mujale, eemale",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pani raamatu (käest) ära.",
+            "Peremees on kodunt ära.",
+            "Tule teistel jalust ära!",
+            "Eest ära!",
+            "Poiss kutsus koera ära.",
+            "Isa on kodunt ära.",
+            "Lähme siit ära.",
+            "Toit viidi laualt ära.",
+            "Tule eest ära!"
+          ],
+          "synonyms": [
+            "minema"
+          ],
+          "translations": {
+            "ukr": [
+              {
+                "words": "геть",
+                "weight": 1
+              },
+              {
+                "words": "іти,піти,їхати,поїхати,тікати,утікати,утекти,бігти,побігти",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "уходить,уйти,уезжать,уехать,убегать,убежать",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "senisest suunast kõrvale",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Teelt pöörab ära kitsas rada."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "millegi küljest maha või lahti, millestki vabaks, lahti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Hammas tuli ära.",
+            "Laps kooris kompvekil paberi ümbert ära.",
+            "Võtsin saapad (jalast) ära.",
+            "Kapuuts käib ära trukkidega.",
+            "Ainult mõnest tunnist pean ära küsima."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "endale, enda omaks või valdusse",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Koer püüdis lapse käest võileiba ära krahmata."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "esineb ühendites, mis osutavad mingi olukorra, seisundi, oleku muutumisele",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ilm pööras ära."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "osutab, et mingi tegevus või protsess on lõppenud või tulemuslik",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tuli kustus ära.",
+            "Lilled on ära õitsenud.",
+            "Saatsime vana aasta ära.",
+            "Vool läks ära.",
+            "Tulin koolist ära.",
+            "Patust ära pöörama."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "väljendab korrasolust, asjade tavapärasest, heast seisust väljas olekut või välja minekut",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Moest ära kübar.",
+            "Kõht läks korrast ära.",
+            "Võistkonna kaitsemäng on käest ära.",
+            "Söömine läks meelest ära.",
+            "Selg on paigast ära."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(mingi tegevusega kahjustamise, rikkumise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Laud on ära kraabitud.",
+            "Suusarada on liiga ära sõidetud."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "osutab tulemusele või tulemuslikkusele, saavutusele, millegi lõplikkusele või lõpetatusele,rõhutab, et mingi tegevus või protsess on lõppenud või lõpetatud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Lepime ära!",
+            "Kandis karistuse ära.",
+            "Tablett võttis valu ära.",
+            "Sõi võileiva ära.",
+            "Taipas kohe ära, milles asi.",
+            "Armusin temasse kõrvuni ära.",
+            "Kulutas raha ära.",
+            "Vähipüük keelati ära.",
+            "Haiglasse sattunud mees suri ära.",
+            "Lumi sulas ära.",
+            "Õppisin kiiresti ära.",
+            "Lumi sulas ära.",
+            "Müüsin oma jalgratta ära.",
+            "Laps sõi leiva ära."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "esineb emotsionaalse värvinguga lausungites, mis väljendavad üleolevat suhtumist, imetlust, leppimist millegagi vms",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mis see väike kukkumine siis ära ei ole!",
+            "Mis sa teed ära, tuleb edasi elada."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "kokku",
+        "alla",
+        "alla",
+        "lõpuni",
+        "eest",
+        "mitte",
+        "mitte",
+        "pealt",
+        "eemale",
+        "üle",
+        "kaugemale",
+        "seljast",
+        "peale",
+        "lõhki",
+        "kõrvale",
+        "maha",
+        "puruks",
+        "läbi",
+        "välja õppima",
+        "otsast",
+        "pole",
+        "vastu",
+        "välja",
+        "küljest",
+        "mujale",
+        "katki",
+        "ei",
+        "ei",
+        "lahti",
+        "korralikult",
+        "ilusasti",
+        "siiski",
+        "miskitmoodi",
+        "kätte",
+        "tülikalt",
+        "kenasti",
+        "üldse",
+        "kibekähku",
+        "ruttu-ruttu",
+        "kuidagi",
+        "pestult",
+        "küll",
+        "küll",
+        "täielikult",
+        "ise",
+        "ise",
+        "ise",
+        "ikkagi",
+        "kohe",
+        "lihtsalt",
+        "ilusti",
+        "üles sulatama",
+        "hõõrduma",
+        "läkitama",
+        "välja teenima",
+        "maha laitma",
+        "sisse tallama",
+        "juhtima",
+        "sattuma",
+        "välja voolama",
+        "kinni maksma",
+        "välja maksma",
+        "pügama",
+        "järele andma",
+        "kaasa vedama",
+        "ümber vahetama",
+        "kõhetuma",
+        "väljuma",
+        "loobuma",
+        "kangutama",
+        "omandama",
+        "vedama",
+        "maha käima",
+        "kõrvaldama",
+        "mööda minema",
+        "tasuma",
+        "jahenema",
+        "lohistama",
+        "lahti lõikama",
+        "loopima",
+        "tõmbama",
+        "maha põlema",
+        "lahti ütlema",
+        "sisse kandma",
+        "plätsima",
+        "lööma",
+        "välja müüma",
+        "võidma",
+        "uuristama",
+        "nühkima",
+        "sooritama",
+        "reenama",
+        "läbi leotama",
+        "kätte õppima",
+        "paljaks põlema",
+        "mäkerdama",
+        "sisse",
+        "talutama",
+        "minema",
+        "minema",
+        "pöörama",
+        "jooksma",
+        "tõukama",
+        "eemaldama",
+        "valguma",
+        "käsutama",
+        "välja vihastama",
+        "välja pumpama",
+        "teostama",
+        "murdma",
+        "ära vedama",
+        "minna laskma",
+        "välja ajama",
+        "hälbima",
+        "sõtkuma",
+        "eemale peletama",
+        "eemalduma",
+        "vabastama",
+        "vähenema",
+        "laiali hõõruma",
+        "põgenema",
+        "kiskuma",
+        "asuma",
+        "keksima",
+        "tirima",
+        "uhtma",
+        "kandma",
+        "kõrvale lükkama",
+        "lahti saama",
+        "puruks lööma",
+        "välja lõikama",
+        "teele saatma",
+        "lõppema",
+        "kõrvale viima",
+        "otsa jääma",
+        "viima",
+        "kõrvale hiilima",
+        "keerama",
+        "üles sulama",
+        "sulama",
+        "maha põletama",
+        "kaasa võtma",
+        "kokku kuivama",
+        "tagasi voolama",
+        "üle meelitama",
+        "maha lõikama",
+        "tigestama",
+        "maha jahtuma",
+        "tagasi minema",
+        "maha pesema",
+        "üle võtma",
+        "kargama",
+        "üle võõpama",
+        "läbi kuluma",
+        "kokku määrima",
+        "alla lendama",
+        "kärpima",
+        "ära minema",
+        "maha müüma",
+        "pühkima",
+        "haarama",
+        "kaasa viima",
+        "turrutama",
+        "pälvima",
+        "välja sõitma",
+        "jätma",
+        "läbi põlema",
+        "minema kihutama",
+        "maha kuluma",
+        "laiali valguma",
+        "välja valama",
+        "kallama",
+        "edasi lükkuma",
+        "rebima",
+        "põikama",
+        "kohe",
+        "ette-taha",
+        "surmtõsiselt",
+        "lahti võtma"
+      ]
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ära"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(grammatiline abitegusõna:) verbi eitussõna käskiva kõneviisi ainsuse 2. isiku puhul, mis annab kogu lausele keelava sisu,sõna, mis kuulub teise tegusõna juurde ja väljendab keeldu",
+          "partOfSpeech": [
+            {
+              "code": "vrm",
+              "value": "muutevorm (ambivorm, määramata)"
+            }
+          ],
+          "examples": [
+            "Ära minult aastaarve küsi.",
+            "Ära ütle nii!",
+            "Ära kedagi puutu!",
+            "Ära sina nii tee!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "не",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "не",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(väljendab eitust)",
+          "partOfSpeech": [],
+          "examples": [
+            "Ma pistan õige ühe paki põue. – Ära, hull, muidu läheb halvasti!"
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "väljendites väljendab tunnustust või imetlust",
+          "partOfSpeech": [],
+          "examples": [
+            "Ära sa ütle – täitsa meeldiv tunne!",
+            "Ära arva midagi, temperamenti on mul küll!"
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "pole",
+        "ei",
+        "ei",
+        "murdma",
+        "ära vedama",
+        "välja õppima",
+        "kaasa viima",
+        "turrutama",
+        "pälvima",
+        "välja sõitma",
+        "jätma",
+        "minema kihutama",
+        "läbi põlema",
+        "hälbima",
+        "eemale peletama",
+        "uhtma",
+        "kandma",
+        "kõrvale lükkama",
+        "välja lõikama",
+        "lahti saama",
+        "teele saatma",
+        "lõppema",
+        "tagasi voolama",
+        "üle meelitama",
+        "maha lõikama",
+        "tigestama",
+        "maha jahtuma",
+        "tagasi minema",
+        "maha pesema",
+        "üle võtma",
+        "kargama",
+        "üle võõpama",
+        "läbi kuluma",
+        "kokku määrima",
+        "alla lendama",
+        "kärpima",
+        "ära minema",
+        "maha müüma",
+        "pühkima",
+        "haarama",
+        "maha kuluma",
+        "laiali valguma",
+        "välja valama",
+        "kallama",
+        "keksima",
+        "tirima",
+        "asuma",
+        "kiskuma",
+        "põgenema",
+        "laiali hõõruma",
+        "vähenema",
+        "vabastama",
+        "eemalduma",
+        "sõtkuma",
+        "minna laskma",
+        "välja ajama",
+        "edasi lükkuma",
+        "rebima",
+        "põikama",
+        "lahti võtma",
+        "siiski",
+        "ilusasti",
+        "miskitmoodi",
+        "surmtõsiselt",
+        "ette-taha",
+        "üldse",
+        "ruttu-ruttu",
+        "kibekähku",
+        "kuidagi",
+        "lõpuni",
+        "eest",
+        "mitte",
+        "mitte",
+        "pealt",
+        "eemale",
+        "üle",
+        "seljast",
+        "peale",
+        "sisse",
+        "kõrvale",
+        "lõhki",
+        "maha",
+        "puruks",
+        "jooksma",
+        "läbi",
+        "otsast",
+        "vastu",
+        "välja",
+        "küljest",
+        "mujale",
+        "katki",
+        "lahti",
+        "korralikult",
+        "kätte",
+        "tülikalt",
+        "kenasti",
+        "pestult",
+        "küll",
+        "küll",
+        "täielikult",
+        "ise",
+        "ise",
+        "ise",
+        "ikkagi",
+        "kohe",
+        "kohe",
+        "lihtsalt",
+        "ilusti"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ära",
+      "translations": [
+        "away",
+        "away from",
+        "do not",
+        "don't",
+        "offward"
+      ]
+    }
+  ]
+}

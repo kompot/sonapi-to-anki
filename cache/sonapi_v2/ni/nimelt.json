@@ -1,0 +1,315 @@
+{
+  "requestedWord": "nimelt",
+  "estonianWord": "nimelt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "nimelt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(rõhutav üldlaiend, kinnitab, rõhutab väidet:) täiesti, igas mõttes,just, täiesti, igas mõttes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Asi puudutab nimelt sind!",
+            "Just nimelt, seda sa ütlesid hästi!",
+            "Ma tahan nimelt sellist autot."
+          ],
+          "synonyms": [
+            "just",
+            "täpselt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "précisément",
+                "weight": 1
+              },
+              {
+                "words": "justement",
+                "weight": 1
+              },
+              {
+                "words": "exactement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "именно",
+                "weight": 1
+              },
+              {
+                "words": "собственно",
+                "weight": 1
+              },
+              {
+                "words": "как раз",
+                "weight": 1
+              },
+              {
+                "words": "в точности",
+                "weight": 1
+              },
+              {
+                "words": "точно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "саме",
+                "weight": 1
+              },
+              {
+                "words": "якраз",
+                "weight": 1
+              },
+              {
+                "words": "власне",
+                "weight": 1
+              },
+              {
+                "words": "точно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kasutatakse täpsustuste, selgituste esitamisel või nende küsimisel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Iroonia on nimelt selles, et ..",
+            "On aga ka kolmas võimalus. – Ja nimelt?"
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "kindla kavatsusega, mitte kogemata,nii, et on kavatsetud või ette planeeritud, mitte juhuslikult",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kas ta tegi seda nimelt?"
+          ],
+          "synonyms": [
+            "meelega",
+            "nimme",
+            "sihilikult",
+            "tahtlikult",
+            "teadvalt",
+            "taotluslikult",
+            "teadlikult",
+            "vihuti",
+            "plaanitult,ettekavatsetult,kavatsetult",
+            "tahtsi"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "on purpose",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "exprès",
+                "weight": 1
+              },
+              {
+                "words": "volontairement",
+                "weight": 1
+              },
+              {
+                "words": "sciemment,volontairement",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "намеренно",
+                "weight": 1
+              },
+              {
+                "words": "умышленно",
+                "weight": 1
+              },
+              {
+                "words": "преднамеренно",
+                "weight": 1
+              },
+              {
+                "words": "нарочито",
+                "weight": 1
+              },
+              {
+                "words": "нарочно",
+                "weight": 1
+              },
+              {
+                "words": "специально",
+                "weight": 1
+              },
+              {
+                "words": "назло",
+                "weight": 1
+              },
+              {
+                "words": "преднамеренно,сознательно,умышленно,намеренно",
+                "weight": 0.9
+              },
+              {
+                "words": "разумно,осмысленно,сознательно,осознанно",
+                "weight": 0.9
+              },
+              {
+                "words": "осознанно,осмысленно,сознательно",
+                "weight": 0.9
+              },
+              {
+                "words": "преднамеренно,намеренно,умышленно,назло,нарочно,наперекор",
+                "weight": 0.9
+              },
+              {
+                "words": "преднамеренно,по заранее обдуманному плану,планомерно,с умыслом,умышленно,предумышленно,намеренно",
+                "weight": 0.9
+              },
+              {
+                "words": "по доброй воле",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "навмисно",
+                "weight": 1
+              },
+              {
+                "words": "навмисне",
+                "weight": 1
+              },
+              {
+                "words": "умисно",
+                "weight": 1
+              },
+              {
+                "words": "умисне",
+                "weight": 1
+              },
+              {
+                "words": "з наміром",
+                "weight": 1
+              },
+              {
+                "words": "спеціально",
+                "weight": 1
+              },
+              {
+                "words": "свідомо",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tahtlikult",
+        "justament",
+        "just",
+        "täpselt",
+        "nimme",
+        "meelega",
+        "teadlikult",
+        "vihuti",
+        "taotluslikult",
+        "teadvalt",
+        "sihilikult",
+        "’p",
+        "kiuste",
+        "kiuste",
+        "ju",
+        "õigupoolest",
+        "tõepoolest",
+        "see",
+        "mis",
+        "juba",
+        "hoopis",
+        "aga",
+        "aga",
+        "siiski",
+        "ilmselt",
+        "muidugi",
+        "asi",
+        "siin",
+        "siin",
+        "hiljuti",
+        "põhimõtteliselt",
+        "absoluutselt",
+        "muide",
+        "loomulikult",
+        "seetõttu",
+        "nüüdsama",
+        "seepärast",
+        "sellepärast",
+        "küll",
+        "küll",
+        "tegelikult",
+        "teatavasti",
+        "eriline",
+        "ikkagi",
+        "keiss",
+        "sest",
+        "kuna",
+        "kuna",
+        "seesama",
+        "nüüd",
+        "justnimelt",
+        "eriliselt",
+        "siis",
+        "mingi",
+        "nimme"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "nimelt",
+      "translations": [
+        "expressly",
+        "namely",
+        "notably",
+        "scilicet",
+        "specially",
+        "specifically",
+        "to wit",
+        "videlicet",
+        "(= videlicet) viz"
+      ]
+    }
+  ]
+}

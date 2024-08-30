@@ -1,0 +1,584 @@
+{
+  "requestedWord": "nokk",
+  "estonianWord": "nokk",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22i",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "nokk"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "noka"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "nokka"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "nokka"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "nokasse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "nokas"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "nokast"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "nokale"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "nokal"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "nokalt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "nokaks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "nokani"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "nokana"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "nokata"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "nokaga"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "nokad"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "nokkade"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "nokki,nokkasid"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "nokkadesse,nokisse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "nokkades,nokis"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "nokkadest,nokist"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "nokkadele,nokile"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "nokkadel,nokil"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "nokkadelt,nokilt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "nokkadeks,nokiks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "nokkadeni"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "nokkadena"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "nokkadeta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "nokkadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "esileulatuv kõva moodustis linnu peas, mida lind kasutab nt toidu haaramiseks ja kinnihoidmiseks ning sulestiku puhastamiseks,kõva osa, mis on lindudel suu asemel",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kajakas lendas minema, kala noka vahel.",
+            "Toonekurg plagistab nokka.",
+            "Kajakas haaras kala noka vahele."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "bec",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "клюв",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "дзьоб",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "nokklooma laienenud lame koon",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "нос",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teatud putukate pistmis- ja/või imemiselund (nt sääsel, lutikal)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kui riided on piisavalt tugevad, siis sääskede nokk sealt läbi ei lähe."
+          ],
+          "synonyms": [
+            "iminokk"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "хоботок",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "etteulatuv osa peakatte küljes",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Nokaga müts kaitseb päikese eest.",
+            "Kaitsekiivri valmistamise aeg on märgitud kiivri noka alla."
+          ],
+          "synonyms": [
+            "sirm",
+            "nina",
+            "mütsisirm,mütsinokk"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "козырёк",
+                "weight": 1
+              },
+              {
+                "words": "козырёк",
+                "weight": 0.7
+              },
+              {
+                "words": "нос,носок",
+                "weight": 0.9
+              },
+              {
+                "words": "козырёк",
+                "weight": 0.569
+              }
+            ],
+            "fra": [
+              {
+                "words": "nez",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ніс",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kraananoole liigendosa, mis võimaldab lasti rõhtsihis teisaldada",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Eriautobaasi kraana nokk oli varisenud paneelide tõstmiseks liialt lühike."
+          ],
+          "synonyms": [
+            "kraananokk",
+            "nool"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "носок крана",
+                "weight": 1
+              },
+              {
+                "words": "стрела",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tööriista, seadme vm konksjalt väljaulatuv osa",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Höövlipaku nokk.",
+            "Kiini nokk.",
+            "Kirve nokk."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "toru või renn anumal vedeliku väljavalamiseks",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Õlikannu nokk."
+          ],
+          "synonyms": [
+            "tila"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "носик",
+                "weight": 1
+              },
+              {
+                "words": "носок",
+                "weight": 1
+              },
+              {
+                "words": "рыльце",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "spetsiaalne aukudega joomisotsik imiku või väikelapse joogipudeli või -tassi kaanel (lutist võõrutamiseks, iseseisvalt jooma õppmiseks)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Meie laps hakkas kohe tassist jooma, nokaga kruusi ta ei tunnistanud."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(suu kohta, hrl väljendites)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Hoia nokk koomal, kui sa ei tea, kuidas asjad on!"
+          ],
+          "synonyms": [
+            "suumulk,leivamulk,pudrumulk,supimulk",
+            "suu",
+            "musi",
+            "molu",
+            "suuauk"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "пасть,глотка,хайло,едало,брехало,борщехлёб,хлебало",
+                "weight": 0.9
+              },
+              {
+                "words": "уста,рот",
+                "weight": 0.9
+              },
+              {
+                "words": "ротик,губки",
+                "weight": 0.9
+              },
+              {
+                "words": "хайло,пасть",
+                "weight": 0.9
+              },
+              {
+                "words": "рот,ротовое отверстие,ротовая полость",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "bouche",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "рот,уста,вуста",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "mouth",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(1920.-1930. aastate Eesti piirivalvuri kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Laigar hüüdis mootorpaadist: „Poisid, nokad tulevadl\", hüppas alla masinaruumi ja pani kiirust juurde."
+          ],
+          "synonyms": [
+            "piirivalvur"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "пограничник",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "piirivalvur",
+        "tattnokk",
+        "suurnokk",
+        "rullnokk",
+        "ristnokk",
+        "raanokk",
+        "naaskelnokk",
+        "kullinokk",
+        "kraananokk",
+        "sirm",
+        "musi",
+        "suu",
+        "molu",
+        "suuõõs",
+        "leivaauk",
+        "nospel",
+        "kollanokk",
+        "supimulk",
+        "nokats",
+        "pudrumulk",
+        "suumulk",
+        "suukoobas",
+        "püstnina",
+        "pardinina",
+        "leivamulk",
+        "tila",
+        "nosunina",
+        "kullinina",
+        "nina",
+        "suuauk",
+        "kongnina",
+        "poisinokk",
+        "kotkanina",
+        "nokkhein",
+        "saba",
+        "luunokk",
+        "kuldnokk",
+        "iminokk",
+        "alanokk",
+        "kingnokk",
+        "ülanokk",
+        "mütsinokk",
+        "nokkmüts",
+        "ninaots",
+        "halvustavalt",
+        "atu",
+        "molkus",
+        "jospel",
+        "suu",
+        "piimahabe",
+        "nösunina",
+        "naga",
+        "tattnina",
+        "piimanina",
+        "piimavasikas",
+        "nolk",
+        "tatt",
+        "kutsikas",
+        "piip",
+        "piip",
+        "tatikas",
+        "ninn",
+        "nolgus",
+        "ninanöps",
+        "sabasulg",
+        "sabauim",
+        "sabajuur",
+        "sabaosa",
+        "sabatu",
+        "harkjas",
+        "ruske",
+        "sabaalune",
+        "sabatutt",
+        "sabaots",
+        "nöbinina",
+        "nibunina",
+        "kael",
+        "lõug",
+        "nöpsnina",
+        "kartulnina",
+        "nipsnina",
+        "konksnina",
+        "nosu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "nokk",
+      "translations": [
+        "beak"
+      ]
+    }
+  ]
+}

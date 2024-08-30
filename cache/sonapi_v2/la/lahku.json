@@ -1,0 +1,97 @@
+{
+  "requestedWord": "lahku",
+  "estonianWord": "lahku",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "lahku"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(üksteisest, kellestki või millestki) eemale või eraldiolevaks,eri kohtadesse, eemale,eraldi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kool ja poliitika peavad olema lahus ja jääma lahku.",
+            "Kavatsen abikaasast mõneks ajaks lahku kolida.",
+            "Kas see sõna kirjutatakse kokku või lahku?"
+          ],
+          "synonyms": [
+            "eraldi,iseäraldi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "раздельно",
+                "weight": 1
+              },
+              {
+                "words": "отдельно",
+                "weight": 1
+              },
+              {
+                "words": "отдельно,раздельно,порознь,особняком,в отдельности,по отдельности,врозь",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "роздільно",
+                "weight": 1
+              },
+              {
+                "words": "окремо",
+                "weight": 1
+              },
+              {
+                "words": "окремо,нарізно",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "séparément",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "laiali",
+        "laiali minema",
+        "paigutama",
+        "lahus",
+        "lahus",
+        "kaduma",
+        "eraldi",
+        "lahkukirjutamine",
+        "lahk",
+        "lahkuma"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lahku",
+      "translations": [
+        "apart",
+        "asunder"
+      ]
+    }
+  ]
+}

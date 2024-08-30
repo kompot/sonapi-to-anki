@@ -1,0 +1,643 @@
+{
+  "requestedWord": "sülitama",
+  "estonianWord": "sülitama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "sülitama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "sülitamata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "sülitamas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "sülitamast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "sülitamaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "sülitatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "sülitada"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "sülitades"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "sülitav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "sülitatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "sülitanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "sülitanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "sülitatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "sülitatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "sülitan"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "sülitad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "sülitab"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "sülitame"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "sülitate"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "sülitavad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "sülita"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "sülitatakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "sülitata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "sülitasin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "sülitasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "sülitas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "sülitasime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "sülitasite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "sülitasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "sülitati"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "sülitaksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "sülitaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "sülitaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "sülitaksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "sülitaksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "sülitaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "sülitataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "sülitanuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "sülitanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "sülitanuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "sülitanuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "sülitanuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "sülitanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "sülitatuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "sülitavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "sülitatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "sülitanuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "sülitatuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "sülita"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "sülitagem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "sülitage"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "sülitagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "sülitatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "suust sülge vm ollust välja laskma,suust vedelikku välja laskma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Harry sülitas põrandale ja hõõrus jalaga laiali.",
+            "Poiss sülitas nätsu suust.",
+            "Põrandale ei tohi sülitada!"
+          ],
+          "synonyms": [
+            "sülgama",
+            "plirtsatama,lirtsama,lirtsatama",
+            "tatistama",
+            "ilastama"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "spit",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "cracher",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "плевать",
+                "weight": 1
+              },
+              {
+                "words": "плюнуть",
+                "weight": 1
+              },
+              {
+                "words": "плеваться",
+                "weight": 1
+              },
+              {
+                "words": "сплёвывать",
+                "weight": 1
+              },
+              {
+                "words": "сплюнуть",
+                "weight": 1
+              },
+              {
+                "words": "выплёвывать",
+                "weight": 1
+              },
+              {
+                "words": "выплюнуть",
+                "weight": 1
+              },
+              {
+                "words": "плюнуться",
+                "weight": 1
+              },
+              {
+                "words": "харкать",
+                "weight": 1
+              },
+              {
+                "words": "плюнуть,сплюнуть,сплёвывать",
+                "weight": 0.9
+              },
+              {
+                "words": "высморкаться,плевать,сморкаться,плеваться",
+                "weight": 0.9
+              },
+              {
+                "words": "мусолить,слюнявить,слюнить",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "плювати",
+                "weight": 1
+              },
+              {
+                "words": "плюнути",
+                "weight": 1
+              },
+              {
+                "words": "плюватися",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(asjade, looduse kohta:) midagi endast välja paiskama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Vulkaan sülitab laavat.",
+            "Rindekroonika kaadrites sülitavad tuld suurtükid ja roomavad tankid."
+          ],
+          "synonyms": [
+            "sülgama",
+            "välja purskama,purskama",
+            "purskama",
+            "välja paiskama",
+            "pritsima",
+            "viskama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "плевать",
+                "weight": 1
+              },
+              {
+                "words": "плеваться",
+                "weight": 1
+              },
+              {
+                "words": "изрыгать",
+                "weight": 1
+              },
+              {
+                "words": "харкать",
+                "weight": 1
+              },
+              {
+                "words": "фонтанировать,хлынуть,хлестать,исторгнуть,исторгать,изрыгнуть,изрыгать,извергнуть,извергать,бить струёй",
+                "weight": 0.9
+              },
+              {
+                "words": "извергаться",
+                "weight": 0.9
+              },
+              {
+                "words": "вышвырнуть,выбрасывать,выбросить,выкидывать,выкинуть,вышвыривать",
+                "weight": 0.9
+              },
+              {
+                "words": "брызнуть,разбрызгивать,разбрызгать,опрыскивать,брызгать,попрыскать,сбрызнуть,сбрызгивать,обрызгать,обрызгивать,вспрыснуть,вспрыскивать,окропить,кропить,плескать,спрыскивать,окроплять,прыскать,прыснуть,напрыскивать,напрыскать,побрызгать,опрыскать",
+                "weight": 0.7
+              },
+              {
+                "words": "исходить,излучать,испускать,источать",
+                "weight": 0.574
+              }
+            ]
+          }
+        },
+        {
+          "definition": "oma üleolevat suhtumist välja näitama, millestki (või kellestki) mitte hoolima, millestki mitte välja tegema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Mind vihastab küünilisus, millega seadustele sülitatakse.",
+            "Alkohoolik sülitab oma elu peale."
+          ],
+          "synonyms": [
+            "aevastama",
+            "sülgama",
+            "vilistama",
+            "kõrges kaares sülitama,laias kaares sülitama",
+            "käega lööma,käega viskama",
+            "ignoma,eirama,ignoreerima,ignoorima",
+            "üle vaatama",
+            "silma kinni pigistama,silmi kinni pigistama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "чихать",
+                "weight": 1
+              },
+              {
+                "words": "начихать",
+                "weight": 1
+              },
+              {
+                "words": "плевать",
+                "weight": 1
+              },
+              {
+                "words": "наплевать",
+                "weight": 1
+              },
+              {
+                "words": "плевать с большой колокольни",
+                "weight": 0.7
+              },
+              {
+                "words": "махнуть рукой",
+                "weight": 0.7
+              },
+              {
+                "words": "пренебрегать,пренебречь,игнорить,игнорировать",
+                "weight": 0.9
+              },
+              {
+                "words": "не замечать,проглядеть,не заметить",
+                "weight": 0.7
+              },
+              {
+                "words": "закрывать глаза,закрыть глаза",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lirtsama",
+        "vilistama",
+        "purskama",
+        "purtsatama",
+        "heitma",
+        "lirtsatama",
+        "paiskama",
+        "pursatama",
+        "ignoreerima",
+        "plirtsatama",
+        "tatistama",
+        "aevastama",
+        "purtsama",
+        "sirtsama",
+        "sülgama",
+        "ptüi",
+        "välja sülitama",
+        "suust välja ajama",
+        "välja paiskama",
+        "perutama",
+        "itsitama",
+        "vitsutama",
+        "ässitama",
+        "kipitama",
+        "kirtsutama",
+        "tülitama",
+        "eputama",
+        "lösutama",
+        "õlitama",
+        "kissitama",
+        "röökima",
+        "hurjutama",
+        "tümitama",
+        "ilastama",
+        "ohkima",
+        "käputama",
+        "mossitama",
+        "müttama",
+        "poputama",
+        "lollitama",
+        "vibutama",
+        "kopitama",
+        "külastama",
+        "nöökima",
+        "kaagutama",
+        "kõditama",
+        "lakkuma",
+        "irvitama",
+        "plartsutama",
+        "tänitama",
+        "viibutama",
+        "kokutama",
+        "oigama",
+        "pirtsutama",
+        "kepsutama",
+        "virutama",
+        "raputama",
+        "silitama",
+        "paitama",
+        "tasalülitama",
+        "krimpsutama",
+        "hellitama",
+        "jõllitama",
+        "ruttama",
+        "õõtsutama",
+        "upitama",
+        "lõõritama",
+        "utsitama",
+        "mullitama",
+        "ussitama",
+        "tulitama",
+        "vihastama",
+        "napsitama",
+        "näägutama",
+        "lonkima"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sülitama",
+      "translations": [
+        "(millelegi) brazen it out",
+        "spit"
+      ]
+    }
+  ]
+}

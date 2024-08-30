@@ -1,0 +1,382 @@
+{
+  "requestedWord": "teistmoodi",
+  "estonianWord": "teistmoodi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "teistmoodi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "erineval viisil, teisel kombel, teisel moel,erineval viisil",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Skandinaavias on see lahendatud teistmoodi.",
+            "Ma arvan teistmoodi.",
+            "Vanasti tehti asju teistmoodi."
+          ],
+          "synonyms": [
+            "teistpidi",
+            "teist pidi",
+            "teist moodi",
+            "teist viisi",
+            "teisipidi",
+            "teisiti",
+            "teistviisi",
+            "erinevalt",
+            "naapidi",
+            "naa,naamoodi,naaviisi",
+            "uut moodi,uutmoodi",
+            "omamoodi,isemoodi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "autrement",
+                "weight": 1
+              },
+              {
+                "words": "différemment",
+                "weight": 1
+              },
+              {
+                "words": "différemment,à sa manière,à sa façon",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "по-другому",
+                "weight": 1
+              },
+              {
+                "words": "по-иному",
+                "weight": 1
+              },
+              {
+                "words": "иначе",
+                "weight": 1
+              },
+              {
+                "words": "иным способом",
+                "weight": 1
+              },
+              {
+                "words": "в другую сторону",
+                "weight": 1
+              },
+              {
+                "words": "в обратную сторону",
+                "weight": 1
+              },
+              {
+                "words": "по-разному,разно,в отличие",
+                "weight": 0.9
+              },
+              {
+                "words": "и так и сяк",
+                "weight": 0.9
+              },
+              {
+                "words": "сяк,так,этак,то так, то этак,то так, то сяк",
+                "weight": 0.9
+              },
+              {
+                "words": "новой системы,новомодный,нового типа,нового образца",
+                "weight": 0.564
+              },
+              {
+                "words": "по-иному,по-особому,по-своему,иначе",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "по-іншому",
+                "weight": 1
+              },
+              {
+                "words": "інакше",
+                "weight": 1
+              },
+              {
+                "words": "по-різному,на відміну від",
+                "weight": 0.9
+              },
+              {
+                "words": "інакше,по-своєму,по-іншому",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "differently,unlike",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegagi võrreldes kujult, teostuselt vm viisil erinev,kellestki või millestki erinev,teist laadi",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Teistmoodi hoiak.",
+            "Väga teistmoodi kontsert oli.",
+            "See kontsert oli väga teistmoodi."
+          ],
+          "synonyms": [
+            "muusugune",
+            "teistsugune",
+            "teissugune",
+            "uutmoodi,uut moodi",
+            "vastupidine,ristipidine,vastandlik,vastandmärgiline,vastasmärgiline",
+            "kontrastne",
+            "huvitav",
+            "võõrapärane",
+            "erisugune,diferentne,ise,eri,erinev",
+            "teine",
+            "naasugune",
+            "eripalgeline,erinäoline",
+            "eriilmeline",
+            "isenäoline",
+            "lahkuminev",
+            "lahknev",
+            "naasuke",
+            "teisest ooperist",
+            "nagu siga ja kägu,nagu öö ja päev",
+            "vaks vahet",
+            "erilaadiline,erilaadne,eriline,eripärane,erisugune,iselaadne,isesugune,omapärane,omasugune,isepärane",
+            "teiselaadiline,teiselaadne,teistlaadne,teistlaadi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "différent",
+                "weight": 1
+              },
+              {
+                "words": "contraire,inverse",
+                "weight": 0.7
+              },
+              {
+                "words": "différent",
+                "weight": 0.7
+              },
+              {
+                "words": "autre",
+                "weight": 0.9
+              },
+              {
+                "words": "particulier,spécifique",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "другой",
+                "weight": 1
+              },
+              {
+                "words": "иной",
+                "weight": 1
+              },
+              {
+                "words": "не такой",
+                "weight": 1
+              },
+              {
+                "words": "иного склада",
+                "weight": 1
+              },
+              {
+                "words": "другого склада",
+                "weight": 1
+              },
+              {
+                "words": "новомодный,новой системы,нового образца,нового типа",
+                "weight": 0.7
+              },
+              {
+                "words": "противный,противоположный",
+                "weight": 0.7
+              },
+              {
+                "words": "контрастный",
+                "weight": 0.7
+              },
+              {
+                "words": "интересный",
+                "weight": 0.7
+              },
+              {
+                "words": "экзотический,чужеродный,чуждый,чужой",
+                "weight": 0.7
+              },
+              {
+                "words": "отдельный,свой,разный,различный,различающийся,отличающийся",
+                "weight": 0.7
+              },
+              {
+                "words": "другой",
+                "weight": 0.9
+              },
+              {
+                "words": "эдакий,этакий",
+                "weight": 0.775
+              },
+              {
+                "words": "различный,разноликий,разный",
+                "weight": 0.9
+              },
+              {
+                "words": "разноликий",
+                "weight": 0.9
+              },
+              {
+                "words": "разноликий,своеобразный",
+                "weight": 0.9
+              },
+              {
+                "words": "эдакий,сякой,этакий",
+                "weight": 0.9
+              },
+              {
+                "words": "из другой оперы",
+                "weight": 0.9
+              },
+              {
+                "words": "небо и земля",
+                "weight": 0.9
+              },
+              {
+                "words": "большая разница",
+                "weight": 0.9
+              },
+              {
+                "words": "специфичный,самобытный,оригинальный,своеобразный,странный,причудливый,необычный,особенный,индивидуальный,разный,различный,особый,специфический,чудной,своеобычный",
+                "weight": 0.7
+              },
+              {
+                "words": "другой,иной,иного склада,другого склада",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "інший",
+                "weight": 1
+              },
+              {
+                "words": "інакший",
+                "weight": 1
+              },
+              {
+                "words": "не такий",
+                "weight": 1
+              },
+              {
+                "words": "протилежний",
+                "weight": 0.7
+              },
+              {
+                "words": "контрастний,контрастовий",
+                "weight": 0.7
+              },
+              {
+                "words": "несхожий,неоднаковий,відмінний,різний",
+                "weight": 0.7
+              },
+              {
+                "words": "інший",
+                "weight": 0.9
+              },
+              {
+                "words": "специфічний,особливий,незвичайний,оригінальний,своєрідний,самобутній",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "contrary",
+                "weight": 0.7
+              },
+              {
+                "words": "different",
+                "weight": 0.7
+              },
+              {
+                "words": "another,other",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "erinev",
+        "erinevalt",
+        "isemoodi",
+        "naaviisi",
+        "alias",
+        "alias",
+        "naapidi",
+        "naa",
+        "muidu",
+        "teistviisi",
+        "omamoodi",
+        "teisipidi",
+        "teisisõnu",
+        "teisiti",
+        "loomulikumalt",
+        "miskitmoodi",
+        "naamoodi",
+        "miskitpidi",
+        "toredalt",
+        "lõbusamalt",
+        "igavam",
+        "teistsugusus",
+        "hoopis",
+        "uutmoodi",
+        "ühtmoodi",
+        "korralikumalt",
+        "teistsugune",
+        "mingitmoodi",
+        "mehemoodi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "teistmoodi",
+      "translations": [
+        "contrariwise",
+        "differently",
+        "dissimilarly"
+      ]
+    }
+  ]
+}

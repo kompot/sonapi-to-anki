@@ -1,0 +1,95 @@
+{
+  "requestedWord": "pungis",
+  "estonianWord": "pungis",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "pungis"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(millestki täidetuna) esile tungimas,ümaralt paisunud või paisutatud olekus",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Põsed on tal suured ja pungis.",
+            "Pungis lihased.",
+            "Pungis tasku."
+          ],
+          "synonyms": [
+            "pungil",
+            "punnis",
+            "täis",
+            "punn"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "выпяченный",
+                "weight": 1
+              },
+              {
+                "words": "выпученный",
+                "weight": 1
+              },
+              {
+                "words": "оттопыренный",
+                "weight": 1
+              },
+              {
+                "words": "выпуклый",
+                "weight": 1
+              },
+              {
+                "words": "пухлый",
+                "weight": 1
+              },
+              {
+                "words": "сытый",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "punnis",
+        "pruntis",
+        "pullis",
+        "torris",
+        "jõllis",
+        "pulkas",
+        "pungil",
+        "pungi",
+        "prinkis"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pungis",
+      "translations": [
+        "protuberant",
+        "tumid"
+      ]
+    }
+  ]
+}

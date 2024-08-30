@@ -1,0 +1,70 @@
+{
+  "requestedWord": "tänaseks",
+  "estonianWord": "tänaseks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tänaseks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "käesolevaks ajaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tänaseks on selgunud, et ..",
+            "Jupp aega elame koos, tänaseks juba kümme aastat."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на сегодня",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pole",
+        "seni",
+        "ilmselt",
+        "ammu",
+        "siiamaani",
+        "veel",
+        "praegu",
+        "endiselt",
+        "siiani",
+        "hetkeks",
+        "juba",
+        "nüüd",
+        "senini",
+        "täielikult",
+        "alguseks",
+        "siiski",
+        "peaaegu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tänaseks",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "requestedWord": "väel",
+  "estonianWord": "väel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "väel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ainult teatud riietusese seljas või jalas (ja mitte muud selle peal),osutab riideesemele, mis on kellelgi seljas ja mille peal midagi muud ei ole",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Ta kõnnib ringi aluspükste väel.",
+            "Hommikul meeldib mulle öösärgi väel kohvi juua.",
+            "jooksis kleidi väel õue."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "en",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в одном",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "в самому",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "toel",
+        "jõul",
+        "abil",
+        "vahendusel",
+        "najal",
+        "toetusel",
+        "varal",
+        "pesuväel",
+        "särgiväel",
+        "öösärk",
+        "püksata",
+        "kleidiväel",
+        "püksid",
+        "aluspesu",
+        "väele",
+        "võluväel",
+        "imeväel",
+        "sinel",
+        "salkus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "väel",
+      "translations": []
+    }
+  ]
+}

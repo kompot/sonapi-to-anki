@@ -1,0 +1,145 @@
+{
+  "requestedWord": "muide",
+  "estonianWord": "muide",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "muide"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(osutab, et midagi mainitakse kõrvalepõikena, vahemärkusena),kasuta siis, kui tahad öelda midagi, mis pole eelmise teemaga seotud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Muide, ma ei teadnudki, et sa teda Tommiks kutsud.",
+            "Teisel pool ekvaatorit muide käibki päike teistpidi.",
+            "See oli muide viimane vaba tuba.",
+            "Muide, palju kell on?",
+            "Mul on muide uus töökoht."
+          ],
+          "synonyms": [
+            "muuhulgas",
+            "muuseas",
+            "ms",
+            "mh",
+            "muu seas"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "d'ailleurs",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "кстати",
+                "weight": 1
+              },
+              {
+                "words": "впрочем",
+                "weight": 1
+              },
+              {
+                "words": "между прочим",
+                "weight": 1
+              },
+              {
+                "words": "к слову сказать",
+                "weight": 1
+              },
+              {
+                "words": "к слову молвить",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до речі",
+                "weight": 1
+              },
+              {
+                "words": "між іншим",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "à propos",
+        "muuhulgas",
+        "muuseas",
+        "ent",
+        "aga",
+        "aga",
+        "pealegi",
+        "noh",
+        "tõepoolest",
+        "kuigi",
+        "tõesti",
+        "see",
+        "juba",
+        "seal",
+        "ilmselt",
+        "muidugi",
+        "siin",
+        "siin",
+        "küllap",
+        "igatahes",
+        "muideks",
+        "loomulikult",
+        "üldse",
+        "kunagi",
+        "teadupärast",
+        "minupärast",
+        "isegi",
+        "samuti",
+        "veel",
+        "meelest",
+        "küll",
+        "küll",
+        "ikka",
+        "muidugist",
+        "tegelikult",
+        "tegelt",
+        "päris",
+        "vist",
+        "vist",
+        "nüüd",
+        "täitsa",
+        "täitsa",
+        "ammuilma",
+        "teatavasti",
+        "pohhuist"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "muide",
+      "translations": [
+        "as a matter of fact",
+        "BTW (= by the way)",
+        "by the by",
+        "by the way",
+        "incidentally"
+      ]
+    }
+  ]
+}

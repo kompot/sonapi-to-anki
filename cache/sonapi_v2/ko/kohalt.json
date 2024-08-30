@@ -1,0 +1,146 @@
+{
+  "requestedWord": "kohalt",
+  "estonianWord": "kohalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kohalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millestki, kellestki ülaltpoolt, sellest kõrgemalt,millestki või kellestki ülaltpoolt, kõrgemalt",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Mere kohalt tuleb jahe udu.",
+            "Ukse kohalt on krohv varisenud.",
+            "Lennuk lendas pea kohalt üle.",
+            "Mere kohalt tuleb udu.",
+            "Keerasin lambi laua kohalt ära."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "над",
+                "weight": 1
+              },
+              {
+                "words": "с",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "над",
+                "weight": 1
+              },
+              {
+                "words": "наді",
+                "weight": 1
+              },
+              {
+                "words": "з",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "samast paigast, samalt joonelt, millegi juurest,millegi juurest",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Püksid olid põlvede kohalt lõhki.",
+            "Antsi küla kohalt alates jõe org laieneb.",
+            "Passi peab pildi kohalt avatuna hoidma.",
+            "Püksid on põlvede kohalt katki."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "au niveau de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "на",
+                "weight": 1
+              },
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на",
+                "weight": 1
+              },
+              {
+                "words": "коло",
+                "weight": 1
+              },
+              {
+                "words": "біля",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(mingis) suhtes, osas, (mingilt) seisukohalt",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Huvipuuduse kohalt võib sul õigus olla, nõustusin."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "edasi",
+        "paigalt",
+        "lükkama",
+        "koomale",
+        "nihkuma",
+        "seisukohalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kohalt",
+      "translations": []
+    }
+  ]
+}

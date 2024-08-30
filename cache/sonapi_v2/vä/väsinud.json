@@ -1,0 +1,504 @@
+{
+  "requestedWord": "väsinud",
+  "estonianWord": "väsinud",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu",
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "väsinud"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "väsinud"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "väsinu"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "väsinut"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "väsinusse"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "väsinus"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "väsinust"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "väsinule"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "väsinul"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "väsinult"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "väsinuks"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "väsinuni"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "väsinuna"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "väsinuta"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "väsinuga"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "väsinud"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "väsinute"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "väsinuid"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "väsinutesse,väsinuisse"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "väsinutes,väsinuis"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "väsinutest,väsinuist"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "väsinutele,väsinuile"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "väsinutel,väsinuil"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "väsinutelt,väsinuilt"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "väsinuteks,väsinuiks"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "väsinuteni"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "väsinutena"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "väsinuteta"
+        },
+        {
+          "inflectionType": "(02)",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "väsinutega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tööst, pingutusest vms jõuetu, puhkust vajav,selline, kes on palju tööd teinud ja vajab puhkust",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Ma pole elu sees end nii väsinuna tundnud kui praegu.",
+            "Ta on vana ja väsinud mees.",
+            "Väsinud peaga ei suuda keskenduda.",
+            "Väsinud inimesed on pahased ja kurjad.",
+            "Poiss on pikast koolipäevast väsinud."
+          ],
+          "synonyms": [
+            "kurnatud",
+            "ramb,rammestunud,rambe",
+            "tüdinud",
+            "tüdinenud",
+            "küps,küpse",
+            "jõuetu",
+            "roidunud",
+            "nagu tühjaks pigistatud sidrun",
+            "läbi nagu Läti raha",
+            "puruväsinud",
+            "rampväsinud",
+            "surmväsinud",
+            "tülp",
+            "lömmis,lössis",
+            "pehme",
+            "unine",
+            "löts",
+            "kulunud",
+            "keel vesti peal,keel vestil",
+            "keel vesti peal,keel vestil",
+            "roid",
+            "tüma",
+            "väss,vässu",
+            "omadega läbi"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "tired",
+                "weight": 1
+              },
+              {
+                "words": "sleepy",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "fatigué",
+                "weight": 1
+              },
+              {
+                "words": "ensommeillé",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "уставший",
+                "weight": 1
+              },
+              {
+                "words": "усталый",
+                "weight": 1
+              },
+              {
+                "words": "утомлённый",
+                "weight": 1
+              },
+              {
+                "words": "истощённый,измождённый",
+                "weight": 0.7
+              },
+              {
+                "words": "дряблый,вялый,соловый,расслабленный",
+                "weight": 0.7
+              },
+              {
+                "words": "обмякший,размякший",
+                "weight": 0.7
+              },
+              {
+                "words": "немощный,бессильный,слабосильный,расслабленный,слабый,малосильный,обессиленный,ослабевший,ослабелый,разбитый,истощённый,изнеможённый",
+                "weight": 0.7
+              },
+              {
+                "words": "как выжатый лимон",
+                "weight": 0.9
+              },
+              {
+                "words": "измотавшийся вусмерть",
+                "weight": 0.7
+              },
+              {
+                "words": "мертвецки усталый,усталый, как собака,до смерти усталый,смертельно усталый,переутомлённый,чрезвычайно усталый",
+                "weight": 0.8357
+              },
+              {
+                "words": "до смерти уставший,смертельно усталый",
+                "weight": 0.8627
+              },
+              {
+                "words": "смертельно усталый,уставший до смерти",
+                "weight": 0.8483
+              },
+              {
+                "words": "вялый,пресыщенный,отупевший,отупелый,утомлённый,тупой",
+                "weight": 0.7
+              },
+              {
+                "words": "раскисший,помятый,уставший",
+                "weight": 0.7
+              },
+              {
+                "words": "сонный,сонливый,полусонный",
+                "weight": 0.7
+              },
+              {
+                "words": "потасканный",
+                "weight": 0.9
+              },
+              {
+                "words": "повесить язык на плечо,вывалить язык на плечо,язык на плече",
+                "weight": 0.7
+              },
+              {
+                "words": "язык на плече",
+                "weight": 0.7
+              },
+              {
+                "words": "ослабевший,обмякший,истощённый,обессиленный,изнурённый",
+                "weight": 0.7
+              },
+              {
+                "words": "сильно уставший,измученный,изнурённый",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "втомлений",
+                "weight": 1
+              },
+              {
+                "words": "стомлений",
+                "weight": 1
+              },
+              {
+                "words": "змучений",
+                "weight": 1
+              },
+              {
+                "words": "сонний,сонливий",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(millegi kulunud, luitunud oleku kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Väsinud ilmega koolimaja.",
+            "Väsinud olemisega mööbel."
+          ],
+          "synonyms": [
+            "pleekinud,pleekunud,luitunud",
+            "pidune",
+            "kantud",
+            "pruugitud,kasutatud",
+            "omadega õhtul",
+            "peetud",
+            "poolpeetud,poolpidune",
+            "vana",
+            "vile",
+            "juust",
+            "eakas",
+            "kulunud",
+            "omadega läbi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "потёртый",
+                "weight": 1
+              },
+              {
+                "words": "выцветший,поблёкший",
+                "weight": 0.7
+              },
+              {
+                "words": "ношеный,подержанный,поношенный",
+                "weight": 0.9
+              },
+              {
+                "words": "поношенный,изношенный",
+                "weight": 0.9
+              },
+              {
+                "words": "бывший в употреблении,бэушный,подержанный,использованный",
+                "weight": 0.9
+              },
+              {
+                "words": "доживает последние деньки",
+                "weight": 0.9
+              },
+              {
+                "words": "подержанный",
+                "weight": 0.9
+              },
+              {
+                "words": "подержанный,изношенный,поношенный,истёртый",
+                "weight": 0.9
+              },
+              {
+                "words": "потасканный,ветхий,поношенный,старый",
+                "weight": 0.9
+              },
+              {
+                "words": "затёртый,просиженный,обтёртый,истрёпанный,прохудившийся,изношенный,потёртый",
+                "weight": 0.9
+              },
+              {
+                "words": "изношенный,потрёпанный",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "old",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "juust",
+        "löts",
+        "eakas",
+        "unine",
+        "pehme",
+        "vässu",
+        "väss",
+        "võhmal olema",
+        "tüma",
+        "tülp",
+        "rauge",
+        "rammestunud",
+        "omadega läbi",
+        "lössis",
+        "lömmis",
+        "läbi nagu Läti raha",
+        "keel vesti peal",
+        "keel vestil",
+        "jõuetu",
+        "audis olema",
+        "tüdinud",
+        "tüdinenud",
+        "roidunud",
+        "kurnatud",
+        "luitunud",
+        "küpse",
+        "küps",
+        "rampväsinud",
+        "puruväsinud",
+        "pidune",
+        "kantud",
+        "nagu tühjaks pigistatud sidrun",
+        "omadega õhtul",
+        "pruugitud",
+        "surmväsinud",
+        "üleväsinud",
+        "poolpeetud",
+        "vile",
+        "roid",
+        "peetud",
+        "poolpidune",
+        "kulunud",
+        "vana",
+        "väsinult",
+        "pidune",
+        "vile",
+        "vile",
+        "vile"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "väsinud",
+      "translations": [
+        "tired",
+        "tired of",
+        "(pikast teest) wayworn"
+      ]
+    }
+  ]
+}

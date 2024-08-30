@@ -1,0 +1,173 @@
+{
+  "requestedWord": "kaugel",
+  "estonianWord": "kaugel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kaugel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "pika vahemaa taga,eemal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Elab kaugel kolkas.",
+            "Kui kaugel raudteejaam on?",
+            "Ligidal ega kaugel polnud ühtki inimest.",
+            "Ta elab linnast kaugel.",
+            "Kas bussijaam on veel kaugel?",
+            "Rannikust kaugemal on ilm soojem."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "far",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "loin",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "далеко",
+                "weight": 1
+              },
+              {
+                "words": "вдали",
+                "weight": 1
+              },
+              {
+                "words": "вдалеке",
+                "weight": 1
+              },
+              {
+                "words": "поодаль",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "далеко",
+                "weight": 1
+              },
+              {
+                "words": "віддалік",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "pika ajavahemiku taga (tulevikus või minevikus),pika ajavahemiku taga, tavaliselt tulevikus",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Suvi on veel kaugel.",
+            "Oli mõtetega kaugel tulevikus.",
+            "Tihti on murede põhjused hoopis kaugel minevikus.",
+            "Kevad on veel kaugel.",
+            "Suvi pole enam kaugel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "far",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "далеко",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "далеко",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(vastupidise, vastanduva seisukoha kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Asi on naljast kaugel.",
+            "Ma olen kaugel sellest, et ..",
+            "Paanikast on asi kaugel, aga valvel tuleb olla."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "далеко",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "seitsme maa ja mere taga",
+        "mägede taga",
+        "eemalt",
+        "eemale",
+        "kaugele",
+        "eemal",
+        "kauge",
+        "kaugenema",
+        "lähedal",
+        "kaugelenägevus",
+        "niikaugel",
+        "kaugeim",
+        "kaugeimal",
+        "kaugelt",
+        "kaugemal",
+        "kaugeleulatuv"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kaugel",
+      "translations": [
+        "afar",
+        "afar off",
+        "afield",
+        "far",
+        "far from"
+      ]
+    }
+  ]
+}

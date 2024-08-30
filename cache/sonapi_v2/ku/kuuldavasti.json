@@ -1,0 +1,91 @@
+{
+  "requestedWord": "kuuldavasti",
+  "estonianWord": "kuuldavasti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kuuldavasti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(tõenduseta asjaolude kohta:) nagu räägitakse, nagu kuulukse",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Täna on veel mõnusalt soe, aga kuuldavasti pidi järgmisel nädalal lumi maha tulema.",
+            "Kuuldavasti olevat selles paigas kunagi allikas vulisenud."
+          ],
+          "synonyms": [
+            "kuulu järgi",
+            "öeldavasti"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "по слухам",
+                "weight": 1
+              },
+              {
+                "words": "по наслышке",
+                "weight": 1
+              },
+              {
+                "words": "слышно",
+                "weight": 1
+              },
+              {
+                "words": "слыхать",
+                "weight": 1
+              },
+              {
+                "words": "как говорят",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kuulukse",
+        "väidetavalt",
+        "öeldavasti",
+        "väidetavasti",
+        "kuulu järgi",
+        "kuuldav",
+        "vaevukuuldav",
+        "kuuldamatult",
+        "aga",
+        "aga",
+        "küll",
+        "küll",
+        "kõlavalt",
+        "kuuldavale",
+        "kuuldavalt",
+        "siiski",
+        "vaevukuuldavalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kuuldavasti",
+      "translations": [
+        "they say"
+      ]
+    }
+  ]
+}

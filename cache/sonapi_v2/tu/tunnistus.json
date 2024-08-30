@@ -1,0 +1,567 @@
+{
+  "requestedWord": "tunnistus",
+  "estonianWord": "tunnistus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "tunnistus"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "tunnistuse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "tunnistust"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "tunnistusse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "tunnistusesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "tunnistuses"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "tunnistusest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "tunnistusele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "tunnistusel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "tunnistuselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "tunnistuseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "tunnistuseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "tunnistusena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "tunnistuseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "tunnistusega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "tunnistused"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "tunnistuste"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "tunnistusi"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "tunnistustesse,tunnistusisse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "tunnistustes,tunnistusis"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "tunnistustest,tunnistusist"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "tunnistustele,tunnistusile"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "tunnistustel,tunnistusil"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "tunnistustelt,tunnistusilt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "tunnistusteks,tunnistusiks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "tunnistusteni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "tunnistustena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "tunnistusteta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "tunnistustega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tunnistaja antud seletus mingi sündmuse või teo asjaolude kohta,tunnistaja seletus mingi sündmuse kohta",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kohtus said määravaks kahe inimese tunnistused.",
+            "Õnnetuse pealtnägijate tunnistused.",
+            "Ta nägi õnnetust pealt ja andis kohtus tunnistuse."
+          ],
+          "synonyms": [
+            "ütlus"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "témoignage",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "показание",
+                "weight": 1
+              },
+              {
+                "words": "свидетельство",
+                "weight": 1
+              },
+              {
+                "words": "свидетельское показание",
+                "weight": 1
+              },
+              {
+                "words": "показание,свидетельство",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "свідчення",
+                "weight": 1
+              },
+              {
+                "words": "показання",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kirjalik tõend millegi kohta",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Aumärgi kandmise õigust tõendav tunnistus.",
+            "Pärimisõiguse tunnistus."
+          ],
+          "synonyms": [
+            "tõend",
+            "sert,sertifikaat",
+            "atestaat",
+            "luba",
+            "kinnitus",
+            "tunnistäht",
+            "tunniskiri",
+            "diplom",
+            "diplom"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "свидетельство",
+                "weight": 1
+              },
+              {
+                "words": "удостоверение",
+                "weight": 1
+              },
+              {
+                "words": "свидетельство,удостоверение,справка",
+                "weight": 0.814
+              },
+              {
+                "words": "сертификат",
+                "weight": 0.7
+              },
+              {
+                "words": "аттестат",
+                "weight": 0.9
+              },
+              {
+                "words": "разрешение,пропуск",
+                "weight": 0.9
+              },
+              {
+                "words": "подтверждение",
+                "weight": 0.9
+              },
+              {
+                "words": "свидетельство",
+                "weight": 0.9
+              },
+              {
+                "words": "диплом",
+                "weight": 0.7
+              },
+              {
+                "words": "диплом",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "certificat,justificatif,attestation",
+                "weight": 0.814
+              },
+              {
+                "words": "confirmation",
+                "weight": 0.9
+              },
+              {
+                "words": "diplôme",
+                "weight": 0.7
+              },
+              {
+                "words": "diplôme",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "посвідчення,посвідка,довідка",
+                "weight": 0.814
+              },
+              {
+                "words": "дозвіл",
+                "weight": 0.9
+              },
+              {
+                "words": "підтвердження",
+                "weight": 0.9
+              },
+              {
+                "words": "диплом",
+                "weight": 0.7
+              },
+              {
+                "words": "диплом",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "diploma",
+                "weight": 0.7
+              },
+              {
+                "words": "diploma",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kooliõpilasele õppeperioodi lõpus antav hinnetega dokument,hinnetega dokument, mille õpilane saab koolist",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Täna saavad põhikooli õpilased tunnistuse."
+          ],
+          "synonyms": [
+            "koolitunnistus"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "bulletin",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "ведомость успеваемости",
+                "weight": 1
+              },
+              {
+                "words": "табель успеваемости",
+                "weight": 1
+              },
+              {
+                "words": "школьное свидетельство,табель успеваемости",
+                "weight": 0.622
+              }
+            ],
+            "ukr": [
+              {
+                "words": "свідоцтво",
+                "weight": 1
+              },
+              {
+                "words": "атестат",
+                "weight": 1
+              },
+              {
+                "words": "табель успішності",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millestki märku andev, midagi näitav seik, asjaolu vms",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Doktorikraad on tunnistus sellest, et inimene on valmis teadlane."
+          ],
+          "synonyms": [
+            "kinnitus",
+            "märk",
+            "tunnistäht",
+            "tundemärk,tunnismärk,tunnusmärk",
+            "tõendus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "свидетельство",
+                "weight": 1
+              },
+              {
+                "words": "признак",
+                "weight": 1
+              },
+              {
+                "words": "знак",
+                "weight": 1
+              },
+              {
+                "words": "показатель",
+                "weight": 1
+              },
+              {
+                "words": "примета",
+                "weight": 1
+              },
+              {
+                "words": "подтверждение",
+                "weight": 0.9
+              },
+              {
+                "words": "признак,знак",
+                "weight": 0.9
+              },
+              {
+                "words": "признак,симптом,предзнаменование,примета,знак",
+                "weight": 0.9
+              },
+              {
+                "words": "подтверждение,свидетельство,доказательство,уверение,удостоверение",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "confirmation",
+                "weight": 0.9
+              },
+              {
+                "words": "signe",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "підтвердження",
+                "weight": 0.9
+              },
+              {
+                "words": "ознака,знак",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "õpilastunnistus",
+        "üliõpilastunnistus",
+        "valetunnistus",
+        "vaesustunnistus",
+        "vaesusetunnistus",
+        "usutunnistus",
+        "süütunnistus",
+        "südametunnistus",
+        "omanditunnistus",
+        "lähetustunnistus",
+        "leeritunnistus",
+        "komandeerimistunnistus",
+        "kindlustustunnistus",
+        "juhitunnistus",
+        "isikutunnistus",
+        "autoritunnistus",
+        "arstitunnistus",
+        "ametitunnistus",
+        "sertifikaat",
+        "sümptom",
+        "atestaat",
+        "tõend",
+        "kinnitus",
+        "väide",
+        "tunniskiri",
+        "juhiluba",
+        "tunnistäht",
+        "tähis",
+        "luba",
+        "enne",
+        "märk",
+        "tundemärk",
+        "tunnismärk",
+        "tunnus",
+        "hõng",
+        "ütlus",
+        "näitamine",
+        "order",
+        "surmatunnistus",
+        "kvalifikatsioonitunnistus",
+        "pärimistunnistus",
+        "ristimistunnistus",
+        "klassitunnistus",
+        "sünnitunnistus",
+        "koolitunnistus",
+        "ohutustunnistus",
+        "registreerimistunnistus",
+        "tõutunnistus",
+        "abielutunnistus",
+        "patutunnistus",
+        "ülestunnistus",
+        "küpsustunnistus",
+        "kutsetunnistus",
+        "lõputunnistus",
+        "jahitunnistus",
+        "pensionitunnistus",
+        "luba",
+        "enne",
+        "abielutõend",
+        "sünnitõend"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tunnistus",
+      "translations": [
+        "attestation",
+        "avowal",
+        "certificate",
+        "credential",
+        "testimonial",
+        "testimony"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "requestedWord": "sealtpoolt",
+  "estonianWord": "sealtpoolt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sealtpoolt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingist kohast (kaugemal), (kuskilt) sealt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Juhiiste on katki, seetõttu sealtpoolt välja ei saa."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "с той стороны",
+                "weight": 1
+              },
+              {
+                "words": "оттуда",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi või kellegi suhtes teiselt poolt",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Teadlased siit- ja sealtpoolt Soome lahte."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "с другой стороны",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "siit",
+        "siitkaudu",
+        "sealpool",
+        "siitmaalt",
+        "siit-sealt",
+        "siiapoole",
+        "siitpoolt",
+        "eestpoolt",
+        "pealtpoolt",
+        "ülaltpoolt",
+        "siinpool",
+        "kusagilt",
+        "sealtmaalt",
+        "sealtsamast",
+        "kaugemalt",
+        "väljastpoolt",
+        "sealt",
+        "ülevaltpoolt",
+        "ikka",
+        "kaugelt",
+        "kustpoolt",
+        "tagantpoolt",
+        "siitmailt",
+        "altpoolt",
+        "sealtkandist"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sealtpoolt",
+      "translations": []
+    }
+  ]
+}

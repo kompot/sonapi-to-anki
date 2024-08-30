@@ -1,0 +1,132 @@
+{
+  "requestedWord": "pärastpoole",
+  "estonianWord": "pärastpoole",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "pärastpoole"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "seejärel, siis,(kunagi) hiljem",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kui viitsid, astu pärastpoole läbi.",
+            "Pärastpoole, mitme kuu möödudes, hakkasid ringlema kuulujutud."
+          ],
+          "synonyms": [
+            "pärast"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "plus tard",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "после",
+                "weight": 1
+              },
+              {
+                "words": "потом",
+                "weight": 1
+              },
+              {
+                "words": "позднее",
+                "weight": 1
+              },
+              {
+                "words": "позже",
+                "weight": 1
+              },
+              {
+                "words": "впоследствии",
+                "weight": 1
+              },
+              {
+                "words": "впредь",
+                "weight": 1
+              },
+              {
+                "words": "в дальнейшем",
+                "weight": 1
+              },
+              {
+                "words": "в будущем",
+                "weight": 1
+              },
+              {
+                "words": "попозже",
+                "weight": 1
+              },
+              {
+                "words": "по окончании",
+                "weight": 1
+              },
+              {
+                "words": "по завершении",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "після",
+                "weight": 1
+              },
+              {
+                "words": "потім",
+                "weight": 1
+              },
+              {
+                "words": "пізніше",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sinnapoole",
+        "hiljemini",
+        "edaspidi",
+        "hiljem",
+        "pärast",
+        "tagantjärele",
+        "seejärel",
+        "siis",
+        "kohe",
+        "kohe",
+        "uuesti",
+        "aasta-kaks",
+        "pärastiseks",
+        "sisepool"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pärastpoole",
+      "translations": [
+        "afterward",
+        "afterwards"
+      ]
+    }
+  ]
+}

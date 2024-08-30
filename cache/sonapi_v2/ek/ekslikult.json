@@ -1,0 +1,80 @@
+{
+  "requestedWord": "ekslikult",
+  "estonianWord": "ekslikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ekslikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "по ошибке",
+                "weight": 1
+              },
+              {
+                "words": "ошибочно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tahtmatult",
+        "teadmatult",
+        "eksikombel",
+        "kogemata",
+        "võõriti",
+        "ebaõigesti",
+        "vääralt",
+        "vääriti",
+        "valesti",
+        "tihti",
+        "ekslikkus",
+        "isegi",
+        "ekslik",
+        "tihtipeale",
+        "ebatäpselt",
+        "pahauskselt",
+        "mõnikord",
+        "tegelikult",
+        "argpükslikult",
+        "sageli",
+        "valelikult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ekslikult",
+      "translations": [
+        "delusively",
+        "erringly",
+        "erroneously",
+        "faultily"
+      ]
+    }
+  ]
+}

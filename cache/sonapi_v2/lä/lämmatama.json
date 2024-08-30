@@ -1,0 +1,629 @@
+{
+  "requestedWord": "lämmatama",
+  "estonianWord": "lämmatama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "lämmatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "lämmatamata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "lämmatamas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "lämmatamast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "lämmatamaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "lämmatatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "lämmatada"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "lämmatades"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "lämmatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "lämmatatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "lämmatanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "lämmatanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "lämmatatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "lämmatatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "lämmatan"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "lämmatad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "lämmatab"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "lämmatame"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "lämmatate"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "lämmatavad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "lämmata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "lämmatatakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "lämmatata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "lämmatasin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "lämmatasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "lämmatas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "lämmatasime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "lämmatasite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "lämmatasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "lämmatati"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "lämmataksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "lämmataksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "lämmataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "lämmataksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "lämmataksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "lämmataksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "lämmatataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "lämmatanuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "lämmatanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "lämmatanuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "lämmatanuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "lämmatanuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "lämmatanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "lämmatatuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "lämmatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "lämmatatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "lämmatanuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "lämmatatuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "lämmata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "lämmatagem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "lämmatage"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "lämmatagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "lämmatatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "toimimist, tegutsemist takistama või võimatuks tegema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Liigne enesekontroll lämmatab spontaansuse ja rõõmsameelsuse.",
+            "Selline mõte tuleks eos lämmatada."
+          ],
+          "synonyms": [
+            "kägistama"
+          ],
+          "translations": {}
+        },
+        {
+          "definition": "kellegi hingamist takistama, teda sel teel surmama,hingamist raskendama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ohver lämmatati padjaga.",
+            "Palavus lämmatab."
+          ],
+          "synonyms": [
+            "kägistama,ära kägistama",
+            "kägistama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "душить",
+                "weight": 1
+              },
+              {
+                "words": "задушить",
+                "weight": 1
+              },
+              {
+                "words": "удушить",
+                "weight": 1
+              },
+              {
+                "words": "удушать",
+                "weight": 1
+              },
+              {
+                "words": "глушить",
+                "weight": 1
+              },
+              {
+                "words": "заглушить",
+                "weight": 1
+              },
+              {
+                "words": "заглушать",
+                "weight": 1
+              },
+              {
+                "words": "утушать",
+                "weight": 1
+              },
+              {
+                "words": "утушить",
+                "weight": 1
+              },
+              {
+                "words": "усмирять",
+                "weight": 1
+              },
+              {
+                "words": "усмирить",
+                "weight": 1
+              },
+              {
+                "words": "задавить",
+                "weight": 1
+              },
+              {
+                "words": "зажимать",
+                "weight": 1
+              },
+              {
+                "words": "зажать",
+                "weight": 1
+              },
+              {
+                "words": "давить,душить,задушить,удушить,удушать,удавить",
+                "weight": 0.85
+              },
+              {
+                "words": "давить,сдавливать горло,душить",
+                "weight": 0.85
+              }
+            ],
+            "fra": [
+              {
+                "words": "étrangler",
+                "weight": 0.85
+              }
+            ],
+            "ukr": [
+              {
+                "words": "душити,задушувати,задушити",
+                "weight": 0.85
+              }
+            ],
+            "eng": [
+              {
+                "words": "strangle",
+                "weight": 0.85
+              }
+            ]
+          }
+        },
+        {
+          "definition": "taimi valguse ja õhu vaegusega hukutama",
+          "partOfSpeech": [],
+          "examples": [
+            "Umbrohi lämmatab vilja."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "глушить",
+                "weight": 1
+              },
+              {
+                "words": "заглушать",
+                "weight": 1
+              },
+              {
+                "words": "заглушить",
+                "weight": 1
+              },
+              {
+                "words": "душить",
+                "weight": 1
+              },
+              {
+                "words": "задушить",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(hääle, helide) kuuldavust summutama,(häält, maitset, lõhna) intensiivsusega nõrgendama või mittetajutavaks tegema",
+          "partOfSpeech": [],
+          "examples": [
+            "Rataste mürin lämmatas kõik hääled.",
+            "Vürtsid võivad toidu maitse lämmatada."
+          ],
+          "synonyms": [
+            "katma",
+            "matma",
+            "surmama,tapma",
+            "ära tapma",
+            "neelama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "глушить",
+                "weight": 1
+              },
+              {
+                "words": "заглушать",
+                "weight": 1
+              },
+              {
+                "words": "заглушить",
+                "weight": 1
+              },
+              {
+                "words": "глушить,заглушить",
+                "weight": 0.9
+              },
+              {
+                "words": "убить,сокрушать,сокрушить,гасить,погасить,глушить,заглушить,убивать,губить,погубить,уничтожать,уничтожить,громить,разгромить",
+                "weight": 0.9
+              },
+              {
+                "words": "заглушить,заглушать",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hapniku juurdevoolu takistades tuld kustutama",
+          "partOfSpeech": [],
+          "examples": [
+            "Leek lämmatati liivaga."
+          ],
+          "synonyms": [
+            "kustutama",
+            "matma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "гасить,погасить,загасить,затушить,потушить,тушить",
+                "weight": 0.85
+              }
+            ],
+            "fra": [
+              {
+                "words": "éteindre",
+                "weight": 0.85
+              }
+            ],
+            "ukr": [
+              {
+                "words": "гасити,загасити,вимикати,вимкнути",
+                "weight": 0.85
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tapma",
+        "katma",
+        "rahustama",
+        "maha rõhuma",
+        "kägistama",
+        "kägistama",
+        "ära puhuma",
+        "matma",
+        "hinge matma",
+        "maha suruma",
+        "summutama",
+        "kustutama",
+        "surmama",
+        "neelama",
+        "suretama",
+        "ära kägistama",
+        "alla suruma",
+        "maha",
+        "ässitama",
+        "asjatama",
+        "hurjutama",
+        "tembutama",
+        "kupatama",
+        "kupatama",
+        "heidutama",
+        "käputama",
+        "sülitama",
+        "müttama",
+        "sütitama",
+        "kopitama",
+        "külastama",
+        "kaagutama",
+        "liivatama",
+        "põristama",
+        "lahvatama",
+        "kõditama",
+        "ärritama",
+        "kokutama",
+        "paitama",
+        "võpatama",
+        "jahmatama",
+        "ruttama",
+        "ehmatama",
+        "õõtsutama",
+        "upitama",
+        "hirmutama",
+        "ergutama",
+        "näägutama",
+        "õhutama",
+        "plartsutama",
+        "läkastama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lämmatama",
+      "translations": [
+        "asphyxiate",
+        "constrict",
+        "damp down",
+        "drown out",
+        "smother",
+        "squelch",
+        "stifle",
+        "suffocate"
+      ]
+    }
+  ]
+}

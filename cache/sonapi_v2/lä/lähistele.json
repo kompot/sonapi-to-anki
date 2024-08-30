@@ -1,0 +1,51 @@
+{
+  "requestedWord": "lähistele",
+  "estonianWord": "lähistele",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "lähistele"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vahemaa või hulga poolest millegi lähedale, lähedusse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Laev on jõudnud sadama lähistele.",
+            "Temperatuur kerkib 30° lähistele."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "lähistroopika",
+        "lähedale",
+        "lähistel",
+        "lähistelt",
+        "ligidale"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lähistele",
+      "translations": []
+    }
+  ]
+}

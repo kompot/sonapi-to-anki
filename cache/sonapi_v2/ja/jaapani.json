@@ -1,0 +1,64 @@
+{
+  "requestedWord": "jaapani",
+  "estonianWord": "jaapani",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "jaapani"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "Jaapani"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "jaapanlaste või jaapani keelega seotud",
+          "partOfSpeech": [
+            {
+              "code": "adjg",
+              "value": "omastavaline täiend, genitiivatribuut, täiendsõna"
+            }
+          ],
+          "examples": [
+            "Õppisin jaapani kirja aastaid.",
+            "Klassikaline jaapani kimono."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "японский",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jaapanikeelne",
+        "jaapanipärane"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "jaapani",
+      "translations": [
+        "Japanese"
+      ]
+    }
+  ]
+}

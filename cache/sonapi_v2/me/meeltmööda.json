@@ -1,0 +1,121 @@
+{
+  "requestedWord": "meeltmööda",
+  "estonianWord": "meeltmööda",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "meeltmööda"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(kellelegi meeldimise, meelepärane olemise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pikk lennureis pole talle meeltmööda."
+          ],
+          "synonyms": [
+            "meele järele",
+            "meele järgi",
+            "meelt mööda",
+            "meelepärane",
+            "suupärane",
+            "möödakarva,pärikarva",
+            "nahkamööda,suud mööda,suudmööda,mokkamööda,mokka mööda"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "в угоду",
+                "weight": 1
+              },
+              {
+                "words": "по нутру",
+                "weight": 1
+              },
+              {
+                "words": "по нраву",
+                "weight": 1
+              },
+              {
+                "words": "по сердцу",
+                "weight": 1
+              },
+              {
+                "words": "по душе",
+                "weight": 1
+              },
+              {
+                "words": "по вкусу",
+                "weight": 1
+              },
+              {
+                "words": "угождать",
+                "weight": 1
+              },
+              {
+                "words": "подходящий,лестный,угодный,нравящийся,пришедшийся по нраву,пришедшийся по душе",
+                "weight": 0.9
+              },
+              {
+                "words": "складный,подходящий,благозвучный,легко выговариваемый,звучный",
+                "weight": 0.9
+              },
+              {
+                "words": "по душе,по нраву",
+                "weight": 0.9
+              },
+              {
+                "words": "по нраву,по душе,по вкусу",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "meelepärast",
+        "pärikarva",
+        "meelus",
+        "mokkamööda",
+        "möödakarva",
+        "meelepärane",
+        "nahkamööda",
+        "suupärane",
+        "meele järele",
+        "suudmööda",
+        "meeldima",
+        "meelitama",
+        "meeltülendav",
+        "vastumeelne",
+        "kontimööda",
+        "vastumeelt",
+        "loomulikult",
+        "sugugi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "meeltmööda",
+      "translations": [
+        "congenially",
+        "sapid"
+      ]
+    }
+  ]
+}

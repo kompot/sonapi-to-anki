@@ -1,0 +1,354 @@
+{
+  "requestedWord": "eesti",
+  "estonianWord": "eesti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eesti"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "Eesti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "eestlaste või eesti keelega seotud,eestlastega seotud",
+          "partOfSpeech": [
+            {
+              "code": "adjg",
+              "value": "omastavaline täiend, genitiivatribuut, täiendsõna"
+            }
+          ],
+          "examples": [
+            "Kuidas eesti nimesid kirillitsas kirja panna?"
+          ],
+          "synonyms": [
+            "kodumaine,omamaine"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "Estonian",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "estonien",
+                "weight": 1
+              },
+              {
+                "words": "du pays,national",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "эстонский",
+                "weight": 1
+              },
+              {
+                "words": "отечественный,местный",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "естонський",
+                "weight": 1
+              },
+              {
+                "words": "місцевий,вітчизняний",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "Eesti",
+        "saksa",
+        "soome",
+        "eestivene",
+        "mitte-eesti",
+        "vene",
+        "vene"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "Eesti"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "Eesti"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "Eestit"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "Eestisse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "Eestis"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "Eestist"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "Eestile"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "Eestil"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "Eestilt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "Eestiks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "Eestini"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "Eestina"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "Eestita"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "Eestiga"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "Eestid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "Eestide"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "Eestisid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "Eestidesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "Eestides"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "Eestidest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "Eestidele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "Eestidel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "Eestidelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "Eestideks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "Eestideni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "Eestidena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "Eestideta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "Eestidega"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "Eesti-"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "riik Euroopas Läänemere ääres,eestlaste asuala",
+          "partOfSpeech": [
+            {
+              "code": "prop",
+              "value": "pärisnimi, prooprium"
+            }
+          ],
+          "examples": [
+            "Eesti kaitseväe ohvitser.",
+            "Eesti koondise kodumänge käis vaatamas suur hulk fänne.",
+            "Olen sündinud 1956. aastal Eestis."
+          ],
+          "synonyms": [
+            "Eestimaa"
+          ],
+          "translations": {
+            "deu": [
+              {
+                "words": "Estland",
+                "weight": 1
+              }
+            ],
+            "eng": [
+              {
+                "words": "Estonia",
+                "weight": 1
+              }
+            ],
+            "fin": [
+              {
+                "words": "Viro",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "Estonie",
+                "weight": 1
+              }
+            ],
+            "lav": [
+              {
+                "words": "Igaunija",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "Эстония",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "Естонія",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "eesti"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "eesti",
+      "translations": [
+        "Estonian"
+      ]
+    }
+  ]
+}

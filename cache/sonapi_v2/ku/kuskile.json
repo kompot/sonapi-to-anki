@@ -1,0 +1,189 @@
+{
+  "requestedWord": "kuskile",
+  "estonianWord": "kuskile",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kuskile"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingisse kohta või suunda, täpselt teadmata kuhu,mingisse kohta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Vanemad olid kuskile läinud ja laps oli üksi kodus.",
+            "Vahetevahel võiks ju kuskile sõita.",
+            "Mu võtmed on kuskile kadunud.",
+            "Läheks kuskile reisile?"
+          ],
+          "synonyms": [
+            "kuhugi",
+            "kusagile"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "quelque part",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "куда-то",
+                "weight": 1
+              },
+              {
+                "words": "куда-нибудь",
+                "weight": 1
+              },
+              {
+                "words": "куда-либо",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "кудись",
+                "weight": 1
+              },
+              {
+                "words": "куди-небудь",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mitte mingisse kohta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Taganeda pole enam kuskile.",
+            "Enam ei viitsi kuskile sõita.",
+            "Autot pole kuskile parkida.",
+            "Mul pole külalisi kuskile magama panna."
+          ],
+          "synonyms": [
+            "kusagile",
+            "kuhugi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "nulle part",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "никуда",
+                "weight": 1
+              },
+              {
+                "words": "некуда",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "нікуди",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingile täpsemalt määratlemata ajale",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tema hiilgeajad jäid kuskile möödunud sajandi kuuekümnendatesse."
+          ],
+          "synonyms": [
+            "kusagile",
+            "kuhugi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "где-то",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mitte mingile ajale",
+          "partOfSpeech": [],
+          "examples": [
+            "Nüüd ei ole tähtaega enam kuskile lükata."
+          ],
+          "synonyms": [
+            "kusagile",
+            "kuhugi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "некуда",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "halvasti",
+        "ei",
+        "ei",
+        "kuhugi",
+        "halb",
+        "sinnapoole",
+        "sinna-tänna",
+        "mujale",
+        "sinnamaale",
+        "sinnapoolegi",
+        "sinna",
+        "kuhugile",
+        "nagunii",
+        "kukile",
+        "sinnasamasse",
+        "kuhugipoole",
+        "siiasamasse",
+        "siiapoole",
+        "üldse",
+        "kusagile",
+        "kükakile"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kuskile",
+      "translations": []
+    }
+  ]
+}

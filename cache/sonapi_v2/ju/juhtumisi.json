@@ -1,0 +1,133 @@
+{
+  "requestedWord": "juhtumisi",
+  "estonianWord": "juhtumisi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "juhtumisi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "juhuse tõttu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Juhtumisi on ta minu väga hea tuttav."
+          ],
+          "synonyms": [
+            "juhuslikult",
+            "kogemata",
+            "sattumisi",
+            "kogemata kombel",
+            "koba peale,kobina peale",
+            "tahtmatult"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "accidentally",
+                "weight": 1
+              },
+              {
+                "words": "randomly",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "par hasard",
+                "weight": 1
+              },
+              {
+                "words": "fortuitement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "случайно",
+                "weight": 1
+              },
+              {
+                "words": "по случаю",
+                "weight": 1
+              },
+              {
+                "words": "нечаянно",
+                "weight": 1
+              },
+              {
+                "words": "невзначай",
+                "weight": 1
+              },
+              {
+                "words": "ненароком",
+                "weight": 1
+              },
+              {
+                "words": "случайно",
+                "weight": 0.89
+              },
+              {
+                "words": "случайно",
+                "weight": 0.89
+              },
+              {
+                "words": "совершенно случайно",
+                "weight": 0.89
+              },
+              {
+                "words": "наобум лазаря,куда кривая ни вынесет,куда кривая ни выведет,наугад,наудачу,наобум,куда кривая ни вывезет",
+                "weight": 0.89
+              },
+              {
+                "words": "нечаянно,невольно,непроизвольно,самопроизвольно,невзначай,ненамеренно,неумышленно,ненароком,спонтанно,непреднамеренно,без намерения",
+                "weight": 0.89
+              }
+            ],
+            "ukr": [
+              {
+                "words": "випадково",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kogemata",
+        "kobina peale",
+        "juhuslikult",
+        "sattumisi",
+        "kogemata kombel",
+        "juhuti"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "juhtumisi",
+      "translations": [
+        "by any chance",
+        "circumstantially",
+        "fortuitously",
+        "happen to",
+        "(arh) peradventure"
+      ]
+    }
+  ]
+}

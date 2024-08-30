@@ -1,0 +1,617 @@
+{
+  "requestedWord": "kohtama",
+  "estonianWord": "kohtama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "kohtan"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "kohtad"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "kohtab"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "kohtame"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "kohtate"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "kohtavad"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "kohta"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "kohatakse"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "kohata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "kohtasin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "kohtasid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "kohtas"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "kohtasime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "kohtasite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "kohtasid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "kohati"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "kohtaksin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "kohtaksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "kohtaks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "kohtaksime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "kohtaksite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "kohtaksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "kohataks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "kohanuksin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "kohanuksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "kohanuks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "kohanuksime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "kohanuksite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "kohanuksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "kohatuks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "kohtavat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "kohatavat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "kohanuvat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "kohatuvat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "kohta"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "kohakem"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "kohake"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "kohaku"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "kohatagu"
+        },
+        {
+          "inflectionType": "29",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "kohtama"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "kohtamata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "kohtamas"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "kohtamast"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "kohtamaks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "kohatama"
+        },
+        {
+          "inflectionType": "29",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "kohata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "kohates"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "kohtav"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "kohatav"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "kohanud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "kohanud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "kohatud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "kohatud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegagi (juhuslikult) kokku sattuma, kokku juhtuma,kellegagi kokku saama,kellegagi (juhuslikult) kokku sattuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Klubi on koht, kus kohtad sõpru ja veedad aega.",
+            "Kändude ümbruses võib kohata rästikut.",
+            "Kohtasin tänaval vana sõpra.",
+            "Nii toredaid inimesi kohtab harva."
+          ],
+          "synonyms": [
+            "kokku saama",
+            "trehvama",
+            "nägema",
+            "kokku põrkama",
+            "kokku sattuma,kokku juhtuma",
+            "kohtuma"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "rencontrer",
+                "weight": 1
+              },
+              {
+                "words": "se rencontrer,rencontrer",
+                "weight": 0.9
+              },
+              {
+                "words": "se rencontrer,rencontrer",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "встречать",
+                "weight": 1
+              },
+              {
+                "words": "встретить",
+                "weight": 1
+              },
+              {
+                "words": "повстречать",
+                "weight": 1
+              },
+              {
+                "words": "встречаться",
+                "weight": 1
+              },
+              {
+                "words": "встретиться",
+                "weight": 1
+              },
+              {
+                "words": "повстречаться",
+                "weight": 1
+              },
+              {
+                "words": "увидеться,видеться,встретиться,встречаться",
+                "weight": 0.9
+              },
+              {
+                "words": "столкнуться,сталкиваться,повстречаться,повстречать",
+                "weight": 0.9
+              },
+              {
+                "words": "встречаться,повидаться,увидеться,видеться,встретиться",
+                "weight": 0.9
+              },
+              {
+                "words": "столкнуться,сталкиваться",
+                "weight": 0.9
+              },
+              {
+                "words": "встретиться,встречаться,встретить,встречать,сталкиваться,столкнуться",
+                "weight": 0.7
+              },
+              {
+                "words": "свидеться,повидаться,видаться,увидеться,видеться,повстречаться,встретиться,встречаться",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зустрічати",
+                "weight": 1
+              },
+              {
+                "words": "зустріти",
+                "weight": 1
+              },
+              {
+                "words": "спіткати",
+                "weight": 1
+              },
+              {
+                "words": "побачитися,бачитися,зустрітися,зустрічатися",
+                "weight": 0.9
+              },
+              {
+                "words": "зустрічатися,бачитися,побачитися,здибатися,здибатися,зустрітися",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegagi kokku puutuma,millegi esinemist märkama, tähele panema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kui kohtad vastupanu, küsi abi sõpradelt.",
+            "Looduses kohtame jääd, mis on veest kergem."
+          ],
+          "synonyms": [
+            "kohtuma",
+            "kokku puutuma",
+            "märkama",
+            "eest leidma",
+            "avastama",
+            "ühinema",
+            "ühenduma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "встречать",
+                "weight": 1
+              },
+              {
+                "words": "встретить",
+                "weight": 1
+              },
+              {
+                "words": "повстречать",
+                "weight": 1
+              },
+              {
+                "words": "соприкоснуться,сталкиваться,столкнуться,иметь дело,соприкасаться",
+                "weight": 0.7
+              },
+              {
+                "words": "замечать,заметить,подмечать,подметить,примечать,приметить,увидеть,усматривать,усмотреть,углядеть",
+                "weight": 0.7
+              },
+              {
+                "words": "обнаруживать,обнаружить",
+                "weight": 0.583
+              },
+              {
+                "words": "соединяться,соединиться",
+                "weight": 0.51
+              },
+              {
+                "words": "сочетаться,совмещаться",
+                "weight": 0.497
+              }
+            ],
+            "fra": [
+              {
+                "words": "rencontrer,se rencontrer",
+                "weight": 0.7
+              },
+              {
+                "words": "remarquer,apercevoir",
+                "weight": 0.7
+              },
+              {
+                "words": "découvrir",
+                "weight": 0.583
+              }
+            ],
+            "ukr": [
+              {
+                "words": "стикатися,зіткнутися,зустрічатися,зустрітися,мати справу",
+                "weight": 0.7
+              },
+              {
+                "words": "помічати,помітити,примічати,примітити,зауважувати,зауважити",
+                "weight": 0.7
+              },
+              {
+                "words": "виявити,виявляти",
+                "weight": 0.583
+              }
+            ],
+            "eng": [
+              {
+                "words": "notice",
+                "weight": 0.583
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "märkama",
+        "põrkuma",
+        "kokku sattuma",
+        "nägema",
+        "kokku põrkama",
+        "kokku juhtuma",
+        "sattuma",
+        "põrkama",
+        "eest leidma",
+        "trehvama",
+        "kokku saama",
+        "kohtuma",
+        "kohtamas käima",
+        "ässitama",
+        "asjatama",
+        "üldistama",
+        "hurjutama",
+        "tülitama",
+        "tembutama",
+        "tümitama",
+        "elustama",
+        "pimestama",
+        "sõbrustama",
+        "käputama",
+        "mossitama",
+        "müttama",
+        "poputama",
+        "sütitama",
+        "musitama",
+        "mustama",
+        "rüütama",
+        "vibutama",
+        "erutama",
+        "ristama",
+        "viibutama",
+        "kokutama",
+        "müütama",
+        "pahandama",
+        "tõttama",
+        "silitama",
+        "paitama",
+        "teietama",
+        "ilustama",
+        "ärgitama",
+        "lõbustama",
+        "sigitama",
+        "jõllitama",
+        "irvitama",
+        "kibelema",
+        "rabistama",
+        "riietama",
+        "ruttama",
+        "eksitama",
+        "norutama",
+        "põlastama",
+        "hirmutama",
+        "kõmpima",
+        "tulitama",
+        "riidlema",
+        "vihastama",
+        "napsitama",
+        "näägutama",
+        "kärutama",
+        "perutama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kohtama",
+      "translations": [
+        "come face to face with",
+        "cross the path of",
+        "cross your path",
+        "encounter",
+        "foregather",
+        "tryst"
+      ]
+    }
+  ]
+}

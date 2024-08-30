@@ -1,0 +1,182 @@
+{
+  "requestedWord": "allpool",
+  "estonianWord": "allpool",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "allpool"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "koha, asendi poolest madalamal,madalamal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Allpool veepiiri on laevakeres auk.",
+            "Karniisist allpool on 4 nikerdatud tahvlit.",
+            "Jüri elab minust kaks korrust allpool."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "plus bas",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "внизу",
+                "weight": 1
+              },
+              {
+                "words": "ниже",
+                "weight": 1
+              },
+              {
+                "words": "под",
+                "weight": 1
+              },
+              {
+                "words": "с нижней стороны",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "внизу",
+                "weight": 1
+              },
+              {
+                "words": "нижче",
+                "weight": 1
+              },
+              {
+                "words": "під",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "määralt, tasemelt madalamal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Temperatuur on nullist allpool.",
+            "Allpool vaesuspiiri elab ligi 80 miljonit eurooplast."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "en dessous de",
+                "weight": 1
+              },
+              {
+                "words": "au-dessous de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "ниже",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "нижче",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tekstis tagapool, järgnevas tekstis",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Sellest lähemalt allpool."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "ниже",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "edasi",
+        "alljärgnevalt",
+        "madalal",
+        "alamal",
+        "maadligi",
+        "järgnevalt",
+        "madalamal",
+        "madalalt",
+        "all",
+        "alt",
+        "alt",
+        "mööda",
+        "altpoolt",
+        "ülevalpool",
+        "seespool",
+        "ülalpool",
+        "ülevaltpoolt",
+        "pealpool",
+        "kõrgemal",
+        "eespool",
+        "allapoole",
+        "eelpool"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "allpool",
+      "translations": [
+        "below",
+        "beneath"
+      ]
+    }
+  ]
+}

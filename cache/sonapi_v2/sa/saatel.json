@@ -1,0 +1,103 @@
+{
+  "requestedWord": "saatel",
+  "estonianWord": "saatel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "saatel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellestki saadetuna (midagi tehes), kellegagi koos,kellegagi koos",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Külalised tegid abilinnapea saatel ringkäigu raekojas.",
+            "President saabus turvameeste saatel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "accompagné par",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в сопровождении",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "у супроводі",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab mingi tegevuse, sündmusega kaasnevale olukorrale,osutab tegevusele, mis toimub millegagi samal ajal",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Ministeerium viidi suure kära saatel Tallinnast Tartusse.",
+            "Laulis kitarri saatel eesti sõdurilaule.",
+            "Uinusin tasase jutupomina saatel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в сопровождении",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "у супроводі",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "koos",
+        "koos",
+        "saatepea",
+        "saatelaev",
+        "spaatel",
+        "saateleht",
+        "saatepill",
+        "saatemuusika",
+        "saatelause"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "saatel",
+      "translations": []
+    }
+  ]
+}

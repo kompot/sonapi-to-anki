@@ -1,0 +1,151 @@
+{
+  "requestedWord": "pooleks",
+  "estonianWord": "pooleks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "pooleks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kaheks võrdseks osaks või kahes võrdses osas,kahe(k)s osa(k)s katki,kaheks võrdseks osaks,kahes võrdses osas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Hääled jagunesid enam-vähem pooleks.",
+            "Piimaga pooleks keedetud puder.",
+            "Lõika kurk pikuti pooleks.",
+            "Küüs on keskelt pooleks.",
+            "Lõikasin õuna pooleks.",
+            "Riiul jagab toa pooleks.",
+            "Klassis on poisse ja tüdrukuid pooleks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "пополам",
+                "weight": 1
+              },
+              {
+                "words": "надвое",
+                "weight": 1
+              },
+              {
+                "words": "поровну",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "навпіл",
+                "weight": 1
+              },
+              {
+                "words": "пополам",
+                "weight": 1
+              },
+              {
+                "words": "надвоє",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(intensiivset tegevust märkivates väljendites)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mõni peab ennast pooleks rabelema, et normaalset palka saada.",
+            "Pidime end pooleks naerma."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "kahe peale, kahasse",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Maksame laenu pooleks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "пополам",
+                "weight": 1
+              },
+              {
+                "words": "поровну",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi kaasabil, millegi kaasnedes vms",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Õnnega pooleks suutis ohver ründaja haardest vabaneda."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "kahes lehes",
+        "kahasse",
+        "võrdselt",
+        "kahte lehte",
+        "viigiliselt",
+        "fifty-fifty",
+        "samapalju",
+        "ühepalju",
+        "maha raiuma",
+        "murduma",
+        "poolekilone",
+        "teiseks"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pooleks",
+      "translations": [
+        "fifty-fifty",
+        "half-and-half",
+        "in half",
+        "in twain"
+      ]
+    }
+  ]
+}

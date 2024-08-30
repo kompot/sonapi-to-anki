@@ -1,0 +1,162 @@
+{
+  "requestedWord": "vahetult",
+  "estonianWord": "vahetult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vahetult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ilma vaheastmeta vm vahepealseta,otseselt, ilma vahepeal oleva astmeta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta on Ühendriikide presidendiga vahetult kokku puutunud.",
+            "Karl on vargusega vahetult seotud.",
+            "Mina direktoriga vahetult kokku ei puutu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "directement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "непосредственно",
+                "weight": 1
+              },
+              {
+                "words": "прямо",
+                "weight": 1
+              },
+              {
+                "words": "напрямую",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "безпосередньо",
+                "weight": 1
+              },
+              {
+                "words": "прямо",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ilma ajalise pausita, kohe millegi järel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Abiellusime vahetult pärast kooli lõppu."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "ehtsalt, loomulikult, siiralt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Oskaks ma ka nii vahetult suhelda!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "непосредственно",
+                "weight": 1
+              },
+              {
+                "words": "откровенно",
+                "weight": 1
+              },
+              {
+                "words": "открыто",
+                "weight": 1
+              },
+              {
+                "words": "прямодушно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ehtsalt",
+        "just",
+        "täpselt",
+        "otseselt",
+        "tõeliselt",
+        "võltsimatult",
+        "operatiivselt",
+        "iseenesest",
+        "kohe",
+        "kohe",
+        "puhtsüdamlikult",
+        "otseteed",
+        "spontaanselt",
+        "niipea",
+        "teesklematult",
+        "ise",
+        "ise",
+        "ise",
+        "nõndapea",
+        "siiralt",
+        "otse",
+        "otse",
+        "puhtast südamest",
+        "päris",
+        "lähedale",
+        "mõõdetult",
+        "peale",
+        "keset",
+        "pärast",
+        "enne",
+        "enne",
+        "tajutavalt",
+        "ennem",
+        "ennest"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vahetult",
+      "translations": [
+        "conterminously",
+        "directly"
+      ]
+    }
+  ]
+}

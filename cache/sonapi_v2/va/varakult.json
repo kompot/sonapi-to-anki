@@ -1,0 +1,208 @@
+{
+  "requestedWord": "varakult",
+  "estonianWord": "varakult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "varakult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "varasel kellaajal, päeva alguses,varajasel ajal, päeva alguses",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta ärkab varakult."
+          ],
+          "synonyms": [
+            "vara"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "early",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "tôt",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "рано",
+                "weight": 1
+              },
+              {
+                "words": "раненько",
+                "weight": 1
+              },
+              {
+                "words": "ранёхонько",
+                "weight": 1
+              },
+              {
+                "words": "спозаранку",
+                "weight": 1
+              },
+              {
+                "words": "спозаранок",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "рано",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "enne tavalist, määratud või eeldatavat aega,enne tavalist või õiget aega",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kevad saabus tänavu varakult."
+          ],
+          "synonyms": [
+            "vara"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "early",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "tôt",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "рано",
+                "weight": 1
+              },
+              {
+                "words": "преждевременно",
+                "weight": 1
+              },
+              {
+                "words": "прежде времени",
+                "weight": 1
+              },
+              {
+                "words": "раньше времени",
+                "weight": 1
+              },
+              {
+                "words": "рановато",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "рано",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "piisava ajavaruga",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sea aga vaim varakult valmis.",
+            "Vanainimestel meeldibki varakult kohale tulla."
+          ],
+          "synonyms": [
+            "aegsalt",
+            "aegsasti"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "заранее",
+                "weight": 1
+              },
+              {
+                "words": "вовремя",
+                "weight": 1
+              },
+              {
+                "words": "заблаговременно",
+                "weight": 1
+              },
+              {
+                "words": "загодя",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "valgevarul",
+        "aegsalt",
+        "aegsasti",
+        "enne kukke ja koitu",
+        "maast madalast",
+        "ajalt",
+        "ette",
+        "õigeaegselt",
+        "kiirelt",
+        "juba",
+        "kohe",
+        "kohe",
+        "noorelt",
+        "varsti",
+        "hilja",
+        "seitsmeaastaselt",
+        "kiiresti",
+        "nelja-aastaselt",
+        "kuueaastaselt",
+        "alles",
+        "kümneaastaselt",
+        "ruttu",
+        "võimalikult",
+        "ruttu-ruttu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "varakult",
+      "translations": [
+        "betimes"
+      ]
+    }
+  ]
+}

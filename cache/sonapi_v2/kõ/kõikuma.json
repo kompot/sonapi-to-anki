@@ -1,0 +1,580 @@
+{
+  "requestedWord": "kõikuma",
+  "estonianWord": "kõikuma",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "28",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "kõikuma"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "kõikumata"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "kõikumas"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "kõikumast"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "kõikumaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "kõigutama"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "kõikuda"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "kõikudes"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "kõikuv"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "kõigutav"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "kõikunud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "kõikunud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "kõigutud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "kõigutud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "kõigun"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "kõigud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "kõigub"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "kõigume"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "kõigute"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "kõiguvad"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "kõigu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "kõigutakse"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "kõiguta"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "kõikusin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "kõikusid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "kõikus"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "kõikusime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "kõikusite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "kõikusid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "kõiguti"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "kõiguksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "kõiguksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "kõiguks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "kõiguksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "kõiguksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "kõiguksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "kõigutaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "kõikunuksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "kõikunuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "kõikunuks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "kõikunuksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "kõikunuksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "kõikunuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "kõigutuks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "kõikuvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "kõigutavat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "kõikunuvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "kõigutuvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "kõigu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "kõikugem"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "kõikuge"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "kõikugu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "kõigutagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(eseme, sõiduki vms kohta:) edasi-tagasi, üles-alla vm viisil liikuma, õõtsuma või kiikuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Laua taha istudes selgus, et tool kõigub.",
+            "Paat hakkas ohtlikult kõikuma."
+          ],
+          "synonyms": [
+            "kiikuma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "качаться",
+                "weight": 1
+              },
+              {
+                "words": "покачиваться",
+                "weight": 1
+              },
+              {
+                "words": "качнуться",
+                "weight": 1
+              },
+              {
+                "words": "шататься",
+                "weight": 1
+              },
+              {
+                "words": "пошатываться",
+                "weight": 1
+              },
+              {
+                "words": "пошатнуться",
+                "weight": 1
+              },
+              {
+                "words": "колебаться",
+                "weight": 1
+              },
+              {
+                "words": "колыхаться",
+                "weight": 1
+              },
+              {
+                "words": "колебаться,колыхаться,покачиваться",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(inimese kohta:) vaarudes, tuikudes liikuma",
+          "partOfSpeech": [],
+          "examples": [
+            "Seisin pimedas koridoris ja kõikusin veidi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "шататься",
+                "weight": 1
+              },
+              {
+                "words": "пошатываться",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(seisundi kohta:) mitte ühesugune olema, teatud piirides vahelduma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Hind kõigub 10 ja 15 euro vahel.",
+            "Mõlema meeleolud kõikusid suures ulatuses."
+          ],
+          "synonyms": [
+            "ujuma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "колебаться",
+                "weight": 1
+              },
+              {
+                "words": "поколебаться",
+                "weight": 1
+              },
+              {
+                "words": "плавать",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ebapüsivas seisus, ebakindel olema,vaevu püsima",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Pangaduse alustalad kõiguvad kõikjal."
+          ],
+          "synonyms": [
+            "vaakuma",
+            "vankuma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "качаться",
+                "weight": 1
+              },
+              {
+                "words": "покачнуться",
+                "weight": 1
+              },
+              {
+                "words": "шататься",
+                "weight": 1
+              },
+              {
+                "words": "пошатнуться",
+                "weight": 1
+              },
+              {
+                "words": "колебаться",
+                "weight": 1
+              },
+              {
+                "words": "поколебаться",
+                "weight": 1
+              },
+              {
+                "words": "дрогнуть",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kahklema",
+        "kahtlema",
+        "kakerdama",
+        "hällima",
+        "loksuma",
+        "loksuma",
+        "huljuma",
+        "kõhklema",
+        "vaaruma",
+        "ebalema",
+        "tuikuma",
+        "õõtsuma",
+        "rullama",
+        "heitlema",
+        "lengerdama",
+        "kiikuma",
+        "lõngerdama",
+        "tuiama",
+        "õlgu kehitama",
+        "ulpima",
+        "taiutama",
+        "nookuma",
+        "võitlema",
+        "viipuma",
+        "lokslema",
+        "vaakuma",
+        "tuigerdama",
+        "vankuma",
+        "hulpima",
+        "lõngutama",
+        "lõtkuma",
+        "jõnksatama",
+        "lõnkuma",
+        "hakkama",
+        "tolgendama",
+        "tolknema",
+        "pendeldama",
+        "habisema",
+        "kõlkuma",
+        "logisema",
+        "vajuma",
+        "värelema",
+        "võnkuma",
+        "taaruma",
+        "viibutama",
+        "lainetama",
+        "noogutama",
+        "õõtsatama",
+        "logistama",
+        "rappuma",
+        "hubisema",
+        "võngutama",
+        "vappuma",
+        "liikuma",
+        "kõigutama",
+        "lõnksuma",
+        "lahtuma",
+        "põrkuma",
+        "pööritama",
+        "keerduma",
+        "kisklema",
+        "lõikuma",
+        "lõikuma",
+        "kõikumatu",
+        "kõikumine",
+        "kohkuma",
+        "välkuma",
+        "tõrkuma",
+        "mõlkuma",
+        "tugevnema",
+        "kärisema",
+        "jõlkuma",
+        "tukslema",
+        "ilkuma"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kõikuma",
+      "translations": [
+        "careen",
+        "fluctuate (nt hind börsil)",
+        "see-saw",
+        "sway",
+        "vacillate",
+        "waver"
+      ]
+    }
+  ]
+}

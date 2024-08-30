@@ -1,0 +1,169 @@
+{
+  "requestedWord": "üleüldse",
+  "estonianWord": "üleüldse",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "üleüldse"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(aitab väidet rõhutada),mingilgi määral",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta pole siiamaani aru saanud, mis asi on üleüldse võrdõiguslikkus.",
+            "Miks ma üleüldse peaks sind uskuma?"
+          ],
+          "synonyms": [
+            "üldse",
+            "üldsegi",
+            "ülepea"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "вообще",
+                "weight": 1
+              },
+              {
+                "words": "вовсе",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "взагалі",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vähimalgi määral, sugugi,mitte vähimalgi määral",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Siin tiigis pole ülelüldse kalu."
+          ],
+          "synonyms": [
+            "üldse",
+            "üldsegi",
+            "keegi",
+            "sugu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "совсем",
+                "weight": 1
+              },
+              {
+                "words": "вообще",
+                "weight": 1
+              },
+              {
+                "words": "совершенно",
+                "weight": 1
+              },
+              {
+                "words": "вовсе",
+                "weight": 1
+              },
+              {
+                "words": "вообще-то",
+                "weight": 1
+              },
+              {
+                "words": "отнюдь",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зовсім",
+                "weight": 1
+              },
+              {
+                "words": "взагалі",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kokku",
+        "ühtekokku",
+        "üldse",
+        "ülepea",
+        "kuidagiviisi",
+        "loomulikumalt",
+        "pole",
+        "minugipärast",
+        "miskitpidi",
+        "tõepoolest",
+        "muidu",
+        "tõesti",
+        "see",
+        "mis",
+        "kindlasti",
+        "aga",
+        "aga",
+        "miskitmoodi",
+        "muidugi",
+        "kuidagipidi",
+        "absoluutselt",
+        "loomulikult",
+        "kuidagi",
+        "mitte",
+        "mitte",
+        "isegi",
+        "kuidagimoodi",
+        "ikka",
+        "küll",
+        "küll",
+        "millegipärast",
+        "tegelikult",
+        "mingitmoodi",
+        "ikkagi",
+        "täieliselt",
+        "päris",
+        "mingitpidi",
+        "niiväga",
+        "vist",
+        "vist",
+        "üldiselt",
+        "lihtsalt",
+        "siis",
+        "täiesti"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "üleüldse",
+      "translations": [
+        "in the first place"
+      ]
+    }
+  ]
+}

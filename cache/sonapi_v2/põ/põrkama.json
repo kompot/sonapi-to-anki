@@ -1,0 +1,619 @@
+{
+  "requestedWord": "põrkama",
+  "estonianWord": "põrkama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "29",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "põrkama"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "põrkamata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "põrkamas"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "põrkamast"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "põrkamaks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "põrgatama"
+        },
+        {
+          "inflectionType": "29",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "põrgata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "põrgates"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "põrkav"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "põrgatav"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "põrganud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "põrganud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "põrgatud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "põrgatud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "põrkan"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "põrkad"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "põrkab"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "põrkame"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "põrkate"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "põrkavad"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "põrka"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "põrgatakse"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "põrgata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "põrkasin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "põrkasid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "põrkas"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "põrkasime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "põrkasite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "põrkasid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "põrgati"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "põrkaksin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "põrkaksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "põrkaks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "põrkaksime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "põrkaksite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "põrkaksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "põrgataks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "põrganuksin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "põrganuksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "põrganuks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "põrganuksime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "põrganuksite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "põrganuksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "põrgatuks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "põrkavat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "põrgatavat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "põrganuvat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "põrgatuvat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "põrka"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "põrgakem"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "põrgake"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "põrgaku"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "põrgatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "hooga millegi vastu minema,selle mõjul kuhugi paiskuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Taganedes põrkasin vastu lauanurka.",
+            "Pall põrkas lööjale tagasi.",
+            "On välistatud, et asteroid Maaga kokku põrkab."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "сталкиваться",
+                "weight": 1
+              },
+              {
+                "words": "столкнуться",
+                "weight": 1
+              },
+              {
+                "words": "наталкиваться",
+                "weight": 1
+              },
+              {
+                "words": "натолкнуться",
+                "weight": 1
+              },
+              {
+                "words": "наскакивать",
+                "weight": 1
+              },
+              {
+                "words": "наскочить",
+                "weight": 1
+              },
+              {
+                "words": "ударяться",
+                "weight": 1
+              },
+              {
+                "words": "удариться",
+                "weight": 1
+              },
+              {
+                "words": "натыкаться",
+                "weight": 1
+              },
+              {
+                "words": "наткнуться",
+                "weight": 1
+              },
+              {
+                "words": "налетать",
+                "weight": 1
+              },
+              {
+                "words": "налететь",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ootamatult) millelegi sattuma, midagi (hrl takistavat) kohtama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Maavanemaks kandideerides põrkas Sirje meeste ringkaitsele.",
+            "Ettepanek põrkas tugevale vastuseisule."
+          ],
+          "synonyms": [
+            "juhtuma,sattuma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "нарываться",
+                "weight": 1
+              },
+              {
+                "words": "нарваться",
+                "weight": 1
+              },
+              {
+                "words": "напарываться",
+                "weight": 1
+              },
+              {
+                "words": "напороться",
+                "weight": 1
+              },
+              {
+                "words": "попадать,доводиться,довестись,оказываться,оказаться,попасть",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "se retrouver",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "потрапляти,потрапити,опинятися,опинитися,попадати,попасти",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi tõttu kuhugi kiiresti (suunda muutes) liikuma või tõmbuma",
+          "partOfSpeech": [],
+          "examples": [
+            "On märgatud, et mõne taime õiele laskudes põrkab mesilane sealt eemale.",
+            "Neiu põrkab ukselt tagasi ja võdistab õlgu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "ринуться",
+                "weight": 1
+              },
+              {
+                "words": "броситься",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(korraks) kuhugi sisse astuma",
+          "partOfSpeech": [],
+          "examples": [
+            "Tee peal põrkasime kohvikusse."
+          ],
+          "synonyms": [
+            "läbi astuma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "заскакивать",
+                "weight": 1
+              },
+              {
+                "words": "заскочить",
+                "weight": 1
+              },
+              {
+                "words": "заглядывать",
+                "weight": 1
+              },
+              {
+                "words": "заглянуть",
+                "weight": 1
+              },
+              {
+                "words": "заходить,зайти,забегать,забежать,заглядывать,заглянуть",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "passer",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "заходити,зайти,забігати,забігти",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "säru tegema",
+        "liistule tõmbama",
+        "kärtsuma",
+        "araks lööma",
+        "vedelaks lööma",
+        "põrkima",
+        "särtsuma",
+        "sõitlema",
+        "sõnuma",
+        "praksuma",
+        "õiendama",
+        "lõdisema",
+        "pähe andma",
+        "särisema",
+        "süda kukub saapasäärde",
+        "karistama",
+        "kõri pihku võtma",
+        "kõrvu pihku võtma",
+        "hirmul olema",
+        "kohkuma",
+        "püssi põõsasse viskama",
+        "kohvil käima",
+        "kohtama",
+        "jänes põues",
+        "kärkima",
+        "pahandama",
+        "näitama",
+        "kärama",
+        "nahutama",
+        "kurjustama",
+        "arglema",
+        "sakutama",
+        "taplema",
+        "käsile võtma",
+        "paukuma",
+        "prõmmima",
+        "verest välja minema",
+        "pragama",
+        "tõrelema",
+        "käratsema",
+        "hirm on nahas",
+        "ehmatama",
+        "läbi võtma",
+        "sattuma",
+        "sakkima",
+        "kartma",
+        "verest välja lööma",
+        "keret täis sõimama",
+        "põrama",
+        "ihukarvad tõusevad püsti",
+        "riidlema",
+        "pihta andma",
+        "särutama",
+        "pähe saama",
+        "nahka täis sõimama",
+        "sõimama",
+        "eest leidma",
+        "pelgama",
+        "värisema",
+        "põnnama",
+        "uut ja vana tegema",
+        "nägu täis sõimama",
+        "läbi sõimama",
+        "vastu lööma",
+        "põrgatama",
+        "viskuma",
+        "painduma",
+        "asetuma",
+        "kilkama",
+        "põrkuma",
+        "hajuma",
+        "ühenduma",
+        "kobrutama",
+        "keerduma",
+        "põrk",
+        "ristuma",
+        "lahvatama",
+        "võõrduma",
+        "võrduma",
+        "põrutama",
+        "paiskama",
+        "puutuma",
+        "paiskuma",
+        "tõukuma",
+        "haakuma",
+        "räuskama",
+        "põrkepall"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "põrkama",
+      "translations": [
+        "bounce",
+        "bump"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "requestedWord": "viljakus",
+  "estonianWord": "viljakus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "viljakus"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "viljakuse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "viljakust"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "viljakusse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "viljakusesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "viljakuses"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "viljakusest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "viljakusele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "viljakusel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "viljakuselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "viljakuseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "viljakuseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "viljakusena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "viljakuseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "viljakusega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "viljakused"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "viljakuste"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "viljakusi"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "viljakustesse,viljakusisse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "viljakustes,viljakusis"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "viljakustest,viljakusist"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "viljakustele,viljakusile"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "viljakustel,viljakusil"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "viljakustelt,viljakusilt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "viljakusteks,viljakusiks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "viljakusteni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "viljakustena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "viljakusteta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "viljakustega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "järglaste saamise või andmise määr",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Eesti peekoni ja suurt valget tõugu emiste viljakus on hea.",
+            "Alates 30. eluaastast hakkab naise viljakus langema."
+          ],
+          "synonyms": [
+            "fertiilsus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "фертильность",
+                "weight": 1
+              },
+              {
+                "words": "плодовитость",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "saagi andmise määr",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Maa viljakus on kesine."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "плодородие",
+                "weight": 1
+              },
+              {
+                "words": "плодородность",
+                "weight": 1
+              },
+              {
+                "words": "плодовитость",
+                "weight": 1
+              },
+              {
+                "words": "плодоносность",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tegevuse, töötamise, tootmise vm tulemuslikkus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tootmisviljakus."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "продуктивность",
+                "weight": 1
+              },
+              {
+                "words": "производительность",
+                "weight": 1
+              },
+              {
+                "words": "плодородность",
+                "weight": 1
+              },
+              {
+                "words": "плодовитость",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sigimisvõime",
+        "sigivus",
+        "paljunemisvõime",
+        "sigidus",
+        "fertiilsus",
+        "tootlikkus",
+        "viljakandvus",
+        "viljarikkus",
+        "produktiivsus",
+        "viljakusmaagia",
+        "mullaviljakus",
+        "viljakusjumal",
+        "valgusviljakus",
+        "tööviljakus",
+        "viljakushaldjas"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "viljakus",
+      "translations": [
+        "fecundity",
+        "fertility",
+        "fructuousness",
+        "fruitfullness",
+        "fruitfulness",
+        "prolificacy",
+        "reproductiveness"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "requestedWord": "kusjuures",
+  "estonianWord": "kusjuures",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kusjuures"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "alustab lauseosa, mis täpsustab pealauses mainitud asjaolusid,täpsustab asjaolu, mida on mainitud lause eelmises osas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Toit pidi laual olema kogu jõuluaja, kusjuures igaüks võis süüa nii palju kui tahtis.",
+            "Maril on kaks venda, kusjuures mõlemad on temast nooremad."
+          ],
+          "synonyms": [
+            "misjuures"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "причём",
+                "weight": 1
+              },
+              {
+                "words": "притом",
+                "weight": 1
+              },
+              {
+                "words": "при этом",
+                "weight": 1
+              },
+              {
+                "words": "к тому же",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "причому",
+                "weight": 1
+              },
+              {
+                "words": "причім",
+                "weight": 1
+              },
+              {
+                "words": "притому",
+                "weight": 1
+              },
+              {
+                "words": "притім",
+                "weight": 1
+              },
+              {
+                "words": "до того",
+                "weight": 1
+              },
+              {
+                "words": "до того ж",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(osutab, et midagi mainitakse vahemärkusena)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "See melonilusikas on kusjuures päris tugeva ehitusega."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "misjuures",
+        "sealjuures",
+        "seejuures",
+        "seetõttu",
+        "ning",
+        "samuti",
+        "vaid",
+        "kuigi",
+        "sest",
+        "kuna",
+        "kuna",
+        "ehkki",
+        "ent",
+        "seega",
+        "mistõttu",
+        "siis",
+        "kus",
+        "kuid",
+        "aga",
+        "aga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kusjuures",
+      "translations": [
+        "whereby"
+      ]
+    }
+  ]
+}

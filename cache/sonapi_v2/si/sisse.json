@@ -1,0 +1,464 @@
+{
+  "requestedWord": "sisse",
+  "estonianWord": "sisse",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sisse"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sisemusse, sissepoole, pealispinnast sügavamale,millestki ümbritsetuks, kaetuks,näitab, millesse või kuhu midagi pannakse või tehakse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Vesi tuli üle saapasääre sisse.",
+            "Siilile pandi tassi sisse piima.",
+            "Kreemitas ööseks jalad sisse.",
+            "Pakkisin kingituse karbi sisse.",
+            "Mees kaevas maa sisse augu.",
+            "Koer hüppab karbi sisse."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "dans",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "во",
+                "weight": 1
+              },
+              {
+                "words": "внутрь",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(osutab inimesele, tema kehale (hrl seoses hingamise või söömisega) või siseelule, iseloomule)",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Hingas sügavalt sisse.",
+            "Ta enda õde tahtnud talle mürki sisse anda.",
+            "Kes see ikka teise sisse näeb."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "siseruumi(desse), majja, katuse alla,majja, tuppa",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Külalised kutsuti sisse.",
+            "Astusime kõrtsi sisse.",
+            "Astuge sisse!",
+            "Kutsusin külalised sisse."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "à l'intérieur",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "внутрь",
+                "weight": 1
+              },
+              {
+                "words": "вовнутрь",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "усередину",
+                "weight": 1
+              },
+              {
+                "words": "до середини",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingile territooriumile, alale,mujalt mingile maale, mingisse riiki",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sõitsime Sillamäele sisse.",
+            "Laev tuli sadamasse sisse.",
+            "Maitseaineid veeti Euroopasse sisse idast.",
+            "Osa toorainet osteti sisse."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "koostisesse, hulka, sekka,arvestatuna millegi hulka",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Raamatusse on paar viga sisse lipsanud.",
+            "Hommikusöök kuulub hinna sisse.",
+            "Hommikusöök kuulub hinna sisse."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "dans",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "во",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teatud aja piiridesse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Valmimistähtaeg peaks jääma kahe kuu sisse."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "во",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ühenduses raha liikumisega osutab saaja vaatepunktile (asutusele, isikule)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Väljaminekuteks on täpselt nii palju võimalusi, kui palju tuleb sisse."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(ühenduses dokumentide esitamisega asutusele, ametivõimudele)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Andis sisse elamisloa taotluse."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "esineb ühenduses millegi purustamise või hävinemisega,katki, puruks, kokku",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Poisil löödi hambad sisse.",
+            "Tühjad aknad, mõned sisse visatud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "раз",
+                "weight": 1
+              },
+              {
+                "words": "об",
+                "weight": 1
+              },
+              {
+                "words": "про",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab mingisse olukorda, seisundisse siirdumisele",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pidu sai õige hoo sisse.",
+            "Vanad oskused tõusevad taas au sisse."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(ühenduses millegi tegevusse rakendamisega, kasutuselevõtuga, mingi ettevalmistava tegevusega)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Reisile võtan kaasa üksnes korralikult sisse kantud kingad.",
+            "Linaski püügikohta olevat hea sisse sööta hernesupiga."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "об",
+                "weight": 1
+              },
+              {
+                "words": "во",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "hulka",
+        "sekka",
+        "alla",
+        "alla",
+        "kaasa",
+        "kaasa",
+        "kuhjama",
+        "vahele",
+        "taha",
+        "peale astuma",
+        "kokku langema",
+        "lagunema",
+        "maha lõhkuma",
+        "suruma",
+        "üle võõpama",
+        "pugema",
+        "läbi murdma",
+        "täis toppima",
+        "voolama",
+        "ajama",
+        "vedima",
+        "kukkuma",
+        "kukkuma",
+        "kallama",
+        "ära",
+        "ära",
+        "kokku",
+        "kihutama",
+        "juurde tooma",
+        "maha",
+        "minema",
+        "minema",
+        "sisse tormama",
+        "alla suruma",
+        "valguma",
+        "ründama",
+        "torkama",
+        "läbi pistma",
+        "peale lendama",
+        "toppima",
+        "sisse langema",
+        "üles ronima",
+        "vedama",
+        "ümber piirama",
+        "läbi",
+        "ära tassima",
+        "saama",
+        "läbi vajuma",
+        "üle",
+        "välja lööma",
+        "kallale tungima",
+        "täis",
+        "täis",
+        "kokku määrima",
+        "kinni müürima",
+        "tulema",
+        "tulema",
+        "tulema",
+        "läbi astuma",
+        "täis valama",
+        "üle ujutama",
+        "lööma",
+        "korraldama",
+        "võidma",
+        "pilu",
+        "tirima",
+        "langema",
+        "varisema",
+        "sisse tulema",
+        "kandma",
+        "välja lõikama",
+        "purunema",
+        "ronima",
+        "kokku varisema",
+        "viima",
+        "läbi lipsama",
+        "lõikama",
+        "sisse põikama",
+        "välja",
+        "kargama",
+        "purustama",
+        "mööda",
+        "juurde",
+        "sissepoole",
+        "katki",
+        "lõhkuma",
+        "hiilima",
+        "mööda lipsama",
+        "peale hüppama",
+        "auku",
+        "lubama",
+        "maha langema",
+        "lahti",
+        "peale",
+        "paiskama",
+        "sinna"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sisse",
+      "translations": [
+        "inside",
+        "inwards"
+      ]
+    }
+  ]
+}

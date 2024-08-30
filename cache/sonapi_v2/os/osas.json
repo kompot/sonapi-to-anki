@@ -1,0 +1,116 @@
+{
+  "requestedWord": "osas",
+  "estonianWord": "osas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "osas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teatavast küljest,mingis suhtes, mingis mõttes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Hinna osas lepiti kokku.",
+            "Näitlemise osas on tal veel kasvuruumi.",
+            "Mul on mingite asjade osas suva.",
+            "Areng pole selles osas olnud kuigi tähelepanuväärne."
+          ],
+          "synonyms": [
+            "poolest",
+            "koha pealt",
+            "mõte",
+            "suhtes",
+            "küsimuses"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "par",
+                "weight": 1
+              },
+              {
+                "words": "au sujet de,en ce qui concerne",
+                "weight": 0.64
+              }
+            ],
+            "rus": [
+              {
+                "words": "по",
+                "weight": 1
+              },
+              {
+                "words": "в отношении",
+                "weight": 1
+              },
+              {
+                "words": "в смысле",
+                "weight": 1
+              },
+              {
+                "words": "с точки зрения",
+                "weight": 1
+              },
+              {
+                "words": "смысл",
+                "weight": 0.7
+              },
+              {
+                "words": "в отношении к,относительно,насчёт,в отношении,по отношению,по отношению к",
+                "weight": 0.64
+              },
+              {
+                "words": "по вопросу,в вопросе",
+                "weight": 0.589
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "щодо",
+                "weight": 1
+              },
+              {
+                "words": "відносно,щодо,стосовно",
+                "weight": 0.64
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "suhtes",
+        "suhtes",
+        "küsimuses"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "osas",
+      "translations": []
+    }
+  ]
+}

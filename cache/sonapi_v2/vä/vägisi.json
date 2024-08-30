@@ -1,0 +1,180 @@
+{
+  "requestedWord": "vägisi",
+  "estonianWord": "vägisi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vägisi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "jõudu kasutades, sunni abil,väga suure pingutusega, punnitades",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mees viidi vägisi metsa.",
+            "Tüdrukult tuli sõnu lausa vägisi välja kiskuda.",
+            "Ta püüdis oma plaani vägisi ellu viia."
+          ],
+          "synonyms": [
+            "väekaupa"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "насильно",
+                "weight": 1
+              },
+              {
+                "words": "силой",
+                "weight": 1
+              },
+              {
+                "words": "приводом",
+                "weight": 1
+              },
+              {
+                "words": "в принудительном порядке",
+                "weight": 1
+              },
+              {
+                "words": "неволей",
+                "weight": 1
+              },
+              {
+                "words": "неволею",
+                "weight": 1
+              },
+              {
+                "words": "силком",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tahtest sõltumata, igal juhul, vältimatult,sellisel moel, mida ei saa vältida",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Silmad vajuvad vägisi kinni.",
+            "Mõtted kippusid vägisi kodukanti.",
+            "Vägisi jääb mulje, et .."
+          ],
+          "synonyms": [
+            "paratamata",
+            "paratamatult"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "inévitablement",
+                "weight": 1
+              },
+              {
+                "words": "nécessairement",
+                "weight": 1
+              },
+              {
+                "words": "forcément",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "неизбежно",
+                "weight": 1
+              },
+              {
+                "words": "непредотвратимо",
+                "weight": 1
+              },
+              {
+                "words": "неминуемо",
+                "weight": 1
+              },
+              {
+                "words": "необходимо",
+                "weight": 1
+              },
+              {
+                "words": "фатально",
+                "weight": 1
+              },
+              {
+                "words": "как-никак",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "неминуче",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "väevõimuga",
+        "vägivaldselt",
+        "külge",
+        "köitma",
+        "sunniviisil",
+        "sundkorras",
+        "karvupidi",
+        "kõrvupidi",
+        "miskitpidi",
+        "vägistama",
+        "kippuma",
+        "haledalt",
+        "selgapidi",
+        "miskitmoodi",
+        "otsaette",
+        "häbitult",
+        "näppupidi",
+        "kibekähku",
+        "kuidagi",
+        "kusagile",
+        "lihtlabaselt",
+        "hirmsasti",
+        "poolvägisi",
+        "tuimalt",
+        "hirmsalt",
+        "mehemoodi",
+        "ikkagi",
+        "kättpidi",
+        "kohemaid",
+        "lippama",
+        "rämedalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vägisi",
+      "translations": [
+        "by force",
+        "under compulsion"
+      ]
+    }
+  ]
+}

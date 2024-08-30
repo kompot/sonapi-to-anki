@@ -1,0 +1,111 @@
+{
+  "requestedWord": "mujale",
+  "estonianWord": "mujale",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "mujale"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teise, muusse kohta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Raha on vaja mujalegi.",
+            "Nad võiksid tehase mujale ehitada.",
+            "Lähme kuhugi mujale sööma.",
+            "Kui tööd ei ole, tuleb kolida mujale."
+          ],
+          "synonyms": [
+            "minema"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "ailleurs",
+                "weight": 1
+              },
+              {
+                "words": "autre part",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в другое место",
+                "weight": 1
+              },
+              {
+                "words": "в другие места",
+                "weight": 1
+              },
+              {
+                "words": "в другие края",
+                "weight": 1
+              },
+              {
+                "words": "в иные места",
+                "weight": 1
+              },
+              {
+                "words": "уходить,уйти,уезжать,уехать,убегать,убежать",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "в інше місце",
+                "weight": 1
+              },
+              {
+                "words": "деінде",
+                "weight": 1
+              },
+              {
+                "words": "іти,піти,їхати,поїхати,тікати,утікати,утекти,бігти,побігти",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ära",
+        "ära",
+        "ära vedama",
+        "siiapoole",
+        "sinnapoolegi",
+        "sinna",
+        "kuhugile",
+        "kõikjale",
+        "kuhugi",
+        "kuhugipoole",
+        "kuskile",
+        "kusagile"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "mujale",
+      "translations": [
+        "elsewhere"
+      ]
+    }
+  ]
+}

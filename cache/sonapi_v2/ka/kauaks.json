@@ -1,0 +1,131 @@
+{
+  "requestedWord": "kauaks",
+  "estonianWord": "kauaks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kauaks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "pikaks või hulgaks ajaks,pikaks ajaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Juttu jätkus isegi natuke liiga kauaks.",
+            "Teda ei ole enam kauaks.",
+            "See sündmus jääb kauaks meelde.",
+            "Kui kauaks sa reisile sõidad?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "longtemps",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "надолго",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "надовго",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kui kaua, kui pikaks ajaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kes seda teab, kauaks esimene lumi maha jääb."
+          ],
+          "synonyms": [
+            "kuniks"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "надолго ли",
+                "weight": 1
+              },
+              {
+                "words": "долго ли",
+                "weight": 1
+              },
+              {
+                "words": "надолго",
+                "weight": 1
+              },
+              {
+                "words": "до каких пор",
+                "weight": 1
+              },
+              {
+                "words": "до какого времени",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ajaliselt",
+        "kuni",
+        "saadik",
+        "saadik",
+        "ruumiliselt",
+        "seni kui",
+        "kuniks",
+        "niikaua kui",
+        "saati",
+        "üürikeseks",
+        "natukeseks",
+        "ootama",
+        "kaua",
+        "niikauaks",
+        "veel",
+        "senikauaks",
+        "varsti",
+        "jää",
+        "alatiseks",
+        "alles",
+        "unarule",
+        "püsima",
+        "kauemaks"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kauaks",
+      "translations": [
+        "for a long time"
+      ]
+    }
+  ]
+}

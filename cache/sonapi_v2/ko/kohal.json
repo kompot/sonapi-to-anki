@@ -1,0 +1,167 @@
+{
+  "requestedWord": "kohal",
+  "estonianWord": "kohal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kohal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millestki, kellestki ülalpool, sellest kõrgemal,millestki või kellestki ülalpool, kõrgemal",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Liblikad lendlesid pea kohal.",
+            "Linnul oli silmade kohal punane laik.",
+            "Mere kohal lendavad kajakad.",
+            "Lamp ripub laua kohal.",
+            "Lamp on laua kohal."
+          ],
+          "synonyms": [
+            "ülalpool,ülevalpool"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "au-dessus de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "над",
+                "weight": 1
+              },
+              {
+                "words": "выше,над,наверху",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "над",
+                "weight": 1
+              },
+              {
+                "words": "наді",
+                "weight": 1
+              },
+              {
+                "words": "вище,над,нагорі,наверху,угорі",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "samal joonel, kellegi või millegi juures",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Vaata seda kaljuseina seal käänaku kohal."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "у",
+                "weight": 1
+              },
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "возле",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ettenähtud paigas, sihtkohas,kokku lepitud või ettenähtud paigas,saabunud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Poole tunni pärast oleme kohal.",
+            "Kohal viibis ka raamatu autor.",
+            "Kõik esinejad pole veel kohal.",
+            "Olen kümne minuti pärast kohal."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "là",
+                "weight": 1
+              },
+              {
+                "words": "présent",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "на месте",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на місці",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jaol",
+        "päral",
+        "platsis",
+        "olemas olema",
+        "käes",
+        "ajaldi",
+        "osalema",
+        "viibima",
+        "kohale",
+        "kuskohal"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kohal",
+      "translations": [
+        "above",
+        "here",
+        "in loco",
+        "in place",
+        "(oma) in your place"
+      ]
+    }
+  ]
+}

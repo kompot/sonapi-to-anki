@@ -1,0 +1,131 @@
+{
+  "requestedWord": "siit",
+  "estonianWord": "siit",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "siit"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab kohale, mis on lähemal, kõneleja ligidal ning kust midagi lähtub, minema, eemale liigutakse vms,sellest kohast (kus sa ise oled või millele sa viitad)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Siit politsei mind ei leia.",
+            "Kui kaua me siit Tallinna sõidame?",
+            "Minge siit ära, minge sinna.",
+            "Lähme siit ära.",
+            "Kas siit saab bussipileteid osta?",
+            "Võta oma asjad siit voodi pealt ära.",
+            "Siit kõrgelt avaneb ilus vaade."
+          ],
+          "synonyms": [
+            "tealt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "d'ici",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "отсюда",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звідси",
+                "weight": 1
+              },
+              {
+                "words": "звідсіля",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab eespool juba mainitud, teada olevale (või mainitavale) kohale, olukorrale, kus midagi toimub, esineb ning kust midagi lähtub (ja mis on kõnelejaga lähemalt seotud)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Paljud, kes Tallinnas tegutsevad, on siit ka pärit."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "отсюда",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab asjaolule, mis midagi põhjustab, millest miski tuleneb või järeldub vms",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ja siit kerkibki küsimus .."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "отсюда",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "siitpeale",
+        "siitmaalt",
+        "siitkandist",
+        "sealt",
+        "loe",
+        "täpsemalt",
+        "siitsamast",
+        "siitkaudu",
+        "lähemalt",
+        "siit-sealt",
+        "siitmailt",
+        "sealtpoolt",
+        "siitpoolt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "siit",
+      "translations": []
+    }
+  ]
+}

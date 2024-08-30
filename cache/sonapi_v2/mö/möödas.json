@@ -1,0 +1,176 @@
+{
+  "requestedWord": "möödas",
+  "estonianWord": "möödas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "möödas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "koha mõttes, liikumisel seljataha jäänud,nii, et miski on jäänud tahapoole",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ärkas siis, kui õige peatus juba möödas oli.",
+            "Paari sammuga olin telekaameratest ja fotograafidest möödas.",
+            "Jüri ärkas siis, kui õige peatus juba möödas oli.",
+            "Oleme vist õigest majast möödas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "позади",
+                "weight": 1
+              },
+              {
+                "words": "мимо",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "позаду",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(taseme vm poolest) kedagi edestamas, kellestki ees",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Autode arvult olevat Tallinn Helsingist möödas."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "ajaliselt möödunud, seljataha jäänud,lõppenud, läbi (saanud),lõppenud, läbi,möödunud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tormist oli kolm päeva möödas.",
+            "Suur kiire on nüüd möödas.",
+            "Paari nädala pärast on kõik möödas.",
+            "Vihm on möödas.",
+            "Halvad ajad on möödas.",
+            "Sünnipäevast on kaks kuud möödas."
+          ],
+          "synonyms": [
+            "täis"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "passé",
+                "weight": 1
+              },
+              {
+                "words": "fini",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "миновал",
+                "weight": 1
+              },
+              {
+                "words": "позади",
+                "weight": 1
+              },
+              {
+                "words": "прошёл",
+                "weight": 1
+              },
+              {
+                "words": "за плечами",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "минути",
+                "weight": 1
+              },
+              {
+                "words": "позаду",
+                "weight": 1
+              },
+              {
+                "words": "пройти",
+                "weight": 1
+              },
+              {
+                "words": "за плечима",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "täis",
+        "läbi",
+        "möödunud",
+        "otsas",
+        "seljataga",
+        "tahapoole",
+        "taha",
+        "tagapool",
+        "taga",
+        "seljataha",
+        "järel",
+        "järel",
+        "möödanik",
+        "nädalajagu",
+        "päevad",
+        "surmväsinud",
+        "möödaviik",
+        "juba",
+        "nüüd",
+        "nädal",
+        "alles",
+        "aeg",
+        "tagasi",
+        "puruväsinud",
+        "aegumistähtaeg"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "möödas",
+      "translations": [
+        "clear of",
+        "o'er",
+        "over"
+      ]
+    }
+  ]
+}

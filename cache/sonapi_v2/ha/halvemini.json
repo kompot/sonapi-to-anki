@@ -1,0 +1,97 @@
+{
+  "requestedWord": "halvemini",
+  "estonianWord": "halvemini",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "halvemini"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "suuremal määral halvasti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Krooniline haigus allub ravile halvemini.",
+            "Enam halvemini minna ei oleks saanud.",
+            "Stressi tõttu magab laps halvemini."
+          ],
+          "synonyms": [
+            "viletsamalt,viletsamini",
+            "kehvemini",
+            "sandimini",
+            "hullemini"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "worse",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "plus mal",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "хуже",
+                "weight": 1
+              },
+              {
+                "words": "хуже",
+                "weight": 0.7
+              },
+              {
+                "words": "более скудно,хуже",
+                "weight": 0.7
+              },
+              {
+                "words": "хуже",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "гірше",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "raskemini",
+        "kõvemini",
+        "hullemini",
+        "kehvemini",
+        "sandimini",
+        "viletsamini",
+        "viletsamalt",
+        "kehvalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "halvemini",
+      "translations": []
+    }
+  ]
+}

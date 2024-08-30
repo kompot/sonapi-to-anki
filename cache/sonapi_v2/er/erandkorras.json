@@ -1,0 +1,58 @@
+{
+  "requestedWord": "erandkorras",
+  "estonianWord": "erandkorras",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "erandkorras"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "erandlikel juhtudel, erandlikul viisil, erandlikult",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Lapsevanem soovib erandkorras kooli panna 6-aastast last.",
+            "Täna käis ema külas, erandkorras siis laupäeval."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в порядке исключения",
+                "weight": 1
+              },
+              {
+                "words": "в виде исключения",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "erandkorras",
+      "translations": [
+        "by way of exception"
+      ]
+    }
+  ]
+}

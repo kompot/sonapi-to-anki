@@ -1,0 +1,200 @@
+{
+  "requestedWord": "segamini",
+  "estonianWord": "segamini",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "segamini"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(esemete, riiete kohta:) korrast ära, lohakalt, korratult laiali,näitab olukorda, kus miski ei ole korras",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tuba oli kaunikesti segamini.",
+            "Põrandal vedelesid segamini tüdruku riided.",
+            "Lapse tuba on segamini.",
+            "Mari ajas Mardi ja Jüri segamini."
+          ],
+          "synonyms": [
+            "segi",
+            "sassis"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "en désordre",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в беспорядке",
+                "weight": 1
+              },
+              {
+                "words": "вразброс",
+                "weight": 1
+              },
+              {
+                "words": "вверх дном",
+                "weight": 1
+              },
+              {
+                "words": "взлохмаченный,растрёпанный,спутанный,перепутанный",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "безладно",
+                "weight": 1
+              },
+              {
+                "words": "без ладу",
+                "weight": 1
+              },
+              {
+                "words": "без порядку",
+                "weight": 1
+              },
+              {
+                "words": "догори ногами",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(erisuguste või kokkusobimatute asjade kohta:) ühtekokku panduna",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ära joo segamini erinevaid jooke."
+          ],
+          "synonyms": [
+            "segi"
+          ],
+          "translations": {}
+        },
+        {
+          "definition": "soovitud, normaalsest olukorrast välja, mittesoovitud olukorda või sellises olukorras",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Plaanid lõi veidi segamini ootamatu külm Põhja-Norras."
+          ],
+          "synonyms": [
+            "sassi",
+            "segi",
+            "sassis"
+          ],
+          "translations": {}
+        },
+        {
+          "definition": "(inimese kohta:) mitte täie mõistuse, enesevalitsuse, tasakaalu vms juures",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Margarete on vist peast segamini.",
+            "Peale operatsiooni oli mõistus segamini."
+          ],
+          "synonyms": [
+            "segi",
+            "koputada saanud,napakas,ogar,pea peale kukkunud,peast põrunud,peast soe,poole aruga,põrunud,pätsiga pähe saanud,sooja saiaga pähe saanud,sooja sepikuga pähe saanud,tola"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "малоумный,с придурью,бестолковый,одурелый,обалделый,придурковатый,очумелый,глуповатый,глупый,чокнутый,двинутый,тронутый,полудурошный",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ripakil",
+        "roostes",
+        "lohakil",
+        "risa-räsa",
+        "unarul",
+        "pahempidi",
+        "laiali",
+        "räämas",
+        "risti-rästi",
+        "puseriti",
+        "laabakil",
+        "pilla-palla",
+        "nagu puder ja kapsad",
+        "pahupidi",
+        "ui-ai",
+        "kiiga-kääga",
+        "liga-loga",
+        "liga-loga",
+        "raamas",
+        "sampsus",
+        "segi",
+        "korralage",
+        "sega-soga",
+        "sassis",
+        "korratu",
+        "riga-räga",
+        "hukas",
+        "laokil",
+        "ripa-rapa",
+        "risakil",
+        "korrast ära",
+        "räämane",
+        "ligadi-logadi",
+        "segi ajama",
+        "sasima",
+        "läbisegi",
+        "ära vahetama",
+        "paiskuma",
+        "lömmi",
+        "ajama",
+        "sassi",
+        "segunema",
+        "segamine",
+        "hoolsamini",
+        "sügavamini"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "segamini",
+      "translations": [
+        "in disorder"
+      ]
+    }
+  ]
+}

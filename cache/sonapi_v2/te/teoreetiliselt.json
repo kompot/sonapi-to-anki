@@ -1,0 +1,60 @@
+{
+  "requestedWord": "teoreetiliselt",
+  "estonianWord": "teoreetiliselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "teoreetiliselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "теоретически",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "praktiliselt",
+        "sisuliselt",
+        "põhimõtteliselt",
+        "loogiliselt",
+        "tegelikult",
+        "teoreetiline",
+        "täiesti"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "teoreetiliselt",
+      "translations": [
+        "in theory",
+        "theoretically"
+      ]
+    }
+  ]
+}

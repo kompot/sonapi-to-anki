@@ -1,0 +1,135 @@
+{
+  "requestedWord": "soodsalt",
+  "estonianWord": "soodsalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "soodsalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi või millegi jaoks sobivalt või kasulikult,hästi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Meistrite liigas on seni läinud pigem soodsalt.",
+            "Õnneks lahenes keerukas olukord soodsalt.",
+            "Arvatakse, et mesilaspiim mõjub soodsalt immuunsüsteemile."
+          ],
+          "synonyms": [
+            "soodsasti"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "выгодно",
+                "weight": 1
+              },
+              {
+                "words": "благоприятно",
+                "weight": 1
+              },
+              {
+                "words": "благотворно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hinna poolest suhteliselt odavalt,suhteliselt odava hinna eest",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sain Armani poest väga soodsalt jalatsid.",
+            "Õhtul saab soodsalt osta lõõtsakuninga uut plaati.",
+            "Sain piletid väga soodsalt."
+          ],
+          "synonyms": [
+            "soodsasti"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "льготно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "дешево",
+                "weight": 1
+              },
+              {
+                "words": "недорого",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kasulikult",
+        "soodsasti",
+        "sõbramehelikult",
+        "armastusväärselt",
+        "mahedasti",
+        "sõbralikult",
+        "heatahtlikult",
+        "mahedalt",
+        "heasoovlikult",
+        "tulus",
+        "hästi",
+        "tervendavalt",
+        "kosutavalt",
+        "tulusalt",
+        "positiivselt",
+        "ebasoodsalt",
+        "sündsalt",
+        "kiirelt",
+        "turgutavalt",
+        "moodsalt",
+        "soodsamalt",
+        "soodsaim",
+        "mugavalt",
+        "soodsam",
+        "kiiresti",
+        "soodsus",
+        "efektiivselt",
+        "ilusalt",
+        "vanamoodsalt",
+        "odavalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "soodsalt",
+      "translations": [
+        "advantageously",
+        "favorably",
+        "favourably",
+        "propitiously",
+        "to advantage"
+      ]
+    }
+  ]
+}

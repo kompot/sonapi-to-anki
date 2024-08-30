@@ -1,0 +1,176 @@
+{
+  "requestedWord": "kusagilt",
+  "estonianWord": "kusagilt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kusagilt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingist kohast või suunast, täpselt teadmata kust,mingist kohast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Alati saab kusagilt järele vaadata.",
+            "Kusagilt kostab naeru.",
+            "Ma olen seda uudist juba kusagilt lugenud."
+          ],
+          "synonyms": [
+            "kuskilt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "(de) quelque part",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "откуда-то",
+                "weight": 1
+              },
+              {
+                "words": "откуда-нибудь",
+                "weight": 1
+              },
+              {
+                "words": "откуда-либо",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звідкись",
+                "weight": 1
+              },
+              {
+                "words": "звідкілясь",
+                "weight": 1
+              },
+              {
+                "words": "звідки-небудь",
+                "weight": 1
+              },
+              {
+                "words": "звідкільсь",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mitte mingist kohast, mitte ühestki kohast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mees ei leidnud kusagilt tööd.",
+            "Ma ei leia oma telefoni kusagilt.",
+            "Uut töötajat pole kusagilt võtta."
+          ],
+          "synonyms": [
+            "kuskilt",
+            "kustki"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "nulle part",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "ниоткуда",
+                "weight": 1
+              },
+              {
+                "words": "неоткуда",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "нізвідки",
+                "weight": 1
+              },
+              {
+                "words": "нізвідкіля",
+                "weight": 1
+              },
+              {
+                "words": "нівідкіля",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingist täpsemalt määratlemata ajast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kusagilt ammusest ajast meenub, et .."
+          ],
+          "synonyms": [
+            "kuskilt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "откуда-то",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ei",
+        "ei",
+        "mujalt",
+        "kukilt",
+        "kust",
+        "sealt",
+        "naljalt",
+        "kusagil",
+        "tükk-tükilt",
+        "siit-sealt",
+        "teadjalt",
+        "sealtmaalt",
+        "sealtpoolt",
+        "kuskilt",
+        "kusagile"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kusagilt",
+      "translations": []
+    }
+  ]
+}

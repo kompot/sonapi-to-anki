@@ -1,0 +1,139 @@
+{
+  "requestedWord": "hiljuti",
+  "estonianWord": "hiljuti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "hiljuti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "lähemas minevikus, natukese aja eest,mitte kaua aega tagasi, mitte ammu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Maanteed oli hiljuti remonditud.",
+            "Hiljuti ilmus lehes artikkel järjekordsest kloonvasikast.",
+            "Hiljuti ilmus uus eesti-saksa sõnaraamat.",
+            "Ma ostsin hiljuti uue telefoni."
+          ],
+          "synonyms": [
+            "hiljaaegu",
+            "eile,eila"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "recently",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "récemment",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "недавно",
+                "weight": 1
+              },
+              {
+                "words": "на днях",
+                "weight": 1
+              },
+              {
+                "words": "не так давно",
+                "weight": 1
+              },
+              {
+                "words": "незадолго до настоящего времени",
+                "weight": 1
+              },
+              {
+                "words": "давеча",
+                "weight": 1
+              },
+              {
+                "words": "намедни",
+                "weight": 1
+              },
+              {
+                "words": "вчера",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "нещодавно",
+                "weight": 1
+              },
+              {
+                "words": "недавно",
+                "weight": 1
+              },
+              {
+                "words": "цими днями",
+                "weight": 1
+              },
+              {
+                "words": "допіру",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "nüüdsama",
+        "just",
+        "ennist",
+        "ammuks",
+        "hiljaaegu",
+        "äsja",
+        "alles",
+        "parajasti",
+        "ennest",
+        "vastselt",
+        "toona",
+        "hilju",
+        "täna",
+        "täna",
+        "tänaseks",
+        "hiljutisem",
+        "ammu",
+        "eile",
+        "juba",
+        "varem",
+        "nüüd",
+        "hiljutine",
+        "aasta-paar"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "hiljuti",
+      "translations": [
+        "lately",
+        "recently",
+        "the other day"
+      ]
+    }
+  ]
+}

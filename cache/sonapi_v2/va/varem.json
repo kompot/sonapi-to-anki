@@ -1,0 +1,448 @@
+{
+  "requestedWord": "varem",
+  "estonianWord": "varem",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "varem"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "enne praegust või teatavat aega, varasemal ajal, millalgi minevikus,varasemal ajal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Seda on juhtunud ka varem.",
+            "Mäng algas tund aega varem.",
+            "Ma pole kunagi varem nii õnnelik olnud kui praegu.",
+            "Varem õppisid sa palju paremini."
+          ],
+          "synonyms": [
+            "ennem",
+            "ennemalt",
+            "ennemini",
+            "varemalt",
+            "varemini",
+            "enne",
+            "tuna",
+            "varasemalt"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "earlier",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "avant",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "раньше",
+                "weight": 1
+              },
+              {
+                "words": "прежде",
+                "weight": 1
+              },
+              {
+                "words": "ранее",
+                "weight": 1
+              },
+              {
+                "words": "перед",
+                "weight": 1
+              },
+              {
+                "words": "до",
+                "weight": 1
+              },
+              {
+                "words": "недавно",
+                "weight": 0.9
+              },
+              {
+                "words": "ранее,раньше",
+                "weight": 0.618
+              }
+            ],
+            "ukr": [
+              {
+                "words": "раніше",
+                "weight": 1
+              },
+              {
+                "words": "перше",
+                "weight": 1
+              },
+              {
+                "words": "до",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "omal ajal",
+        "ennemini",
+        "ennist",
+        "varemalt",
+        "tuna",
+        "ennemalt",
+        "varemini",
+        "enne",
+        "enne",
+        "ennem",
+        "toona",
+        "ennest",
+        "esialgselt",
+        "eelnevalt",
+        "pole",
+        "ammu",
+        "juba",
+        "tagasi",
+        "hiljemini",
+        "ilmselt",
+        "varasemalt",
+        "hiljem",
+        "kui",
+        "kui",
+        "tunduvalt",
+        "rohkem",
+        "rohkem",
+        "kunagi",
+        "isegi",
+        "enam",
+        "enam",
+        "aasta-kaks",
+        "oluliselt",
+        "tegelikult",
+        "juhuslikumalt",
+        "vähem",
+        "vähem",
+        "aasta-paar",
+        "poolteist"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "02",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "varem"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "varema"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "varemat"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "varemasse"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "varemas"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "varemast"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "varemale"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "varemal"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "varemalt"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "varemaks"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "varemani"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "varemana"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "varemata"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "varemaga"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "varemad"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "varemate"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "varemaid"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "varematesse,varemaisse"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "varemates,varemais"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "varematest,varemaist"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "varematele,varemaile"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "varematel,varemail"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "varematelt,varemailt"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "varemateks,varemaiks"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "varemateni"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "varematena"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "varemateta"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "varematega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "endine, eelnev, eelmine",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Briti ajaloolane on revideerinud oma varemaid vaateid.",
+            "Jõge on varemal ajal kasutatud kevaditi palgiparvetuseks."
+          ],
+          "synonyms": [
+            "möödunud,eelmine,läinud,minev,minevane",
+            "eel,eelnev",
+            "eelmine",
+            "läinud,möödunud",
+            "eks,endine,kunagine",
+            "senine",
+            "vana"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "прошлый",
+                "weight": 1
+              },
+              {
+                "words": "прежний",
+                "weight": 1
+              },
+              {
+                "words": "минувший,прошедший,истекший,прежний,предыдущий,предшествующий,прошлый",
+                "weight": 0.9
+              },
+              {
+                "words": "предшествующий,предыдущий",
+                "weight": 0.9
+              },
+              {
+                "words": "предыдущий,предшествующий,прошлый",
+                "weight": 0.9
+              },
+              {
+                "words": "прежний,прошлый,бывший,былой,ушедший,прошедший",
+                "weight": 0.7
+              },
+              {
+                "words": "давний,прежний,прошлый,экс,бывший,былой",
+                "weight": 0.7
+              },
+              {
+                "words": "предшествующий,предыдуший,прежний",
+                "weight": 0.445
+              },
+              {
+                "words": "прежний,бывший,старый",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "précédent,d'avant,dernier",
+                "weight": 0.9
+              },
+              {
+                "words": "passé",
+                "weight": 0.9
+              },
+              {
+                "words": "ancien",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "попередній,колишній,минулий",
+                "weight": 0.9
+              },
+              {
+                "words": "колишній,минулий",
+                "weight": 0.7
+              },
+              {
+                "words": "колишній,минулий,давній",
+                "weight": 0.7
+              },
+              {
+                "words": "попередній,дотеперішній,колишній",
+                "weight": 0.445
+              },
+              {
+                "words": "старий,колишній,минулий",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "old",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "varem",
+      "translations": [
+        "earlier",
+        "erstwhile",
+        "formerly",
+        "previously",
+        "sooner",
+        "whilom"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "requestedWord": "kortsus",
+  "estonianWord": "kortsus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kortsus"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kortsunud, kokkupressitud olekus, kortsude, voltidega kaetud,selline, milles on kortsud sees",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nägu on murest kortsus.",
+            "Kortsus seelik.",
+            "Kleit on veidi kortsus."
+          ],
+          "synonyms": [
+            "kortsuline",
+            "kurruline",
+            "krimpsuline,kortsurägune,kibraline",
+            "kipras,krimpsus",
+            "käkras,käkrus",
+            "kirtsus,kärssus",
+            "kortsunud"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "chiffonné",
+                "weight": 1
+              },
+              {
+                "words": "ridé",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "мятый",
+                "weight": 1
+              },
+              {
+                "words": "помятый",
+                "weight": 1
+              },
+              {
+                "words": "смятый",
+                "weight": 1
+              },
+              {
+                "words": "измятый",
+                "weight": 1
+              },
+              {
+                "words": "скомканный",
+                "weight": 1
+              },
+              {
+                "words": "морщинистый",
+                "weight": 1
+              },
+              {
+                "words": "сморщенный",
+                "weight": 1
+              },
+              {
+                "words": "нахмуренный",
+                "weight": 1
+              },
+              {
+                "words": "насупленный",
+                "weight": 1
+              },
+              {
+                "words": "морщинистый",
+                "weight": 0.8503
+              },
+              {
+                "words": "сморщенный,складчатый,бороздчатый,гофрированный,морщинистый,со сборками",
+                "weight": 0.9
+              },
+              {
+                "words": "морщинистый,сморщенный",
+                "weight": 0.9
+              },
+              {
+                "words": "сморщенный,нахмуренный,насупленный,морщинистый",
+                "weight": 0.9
+              },
+              {
+                "words": "сморщенный,мятый,смятый,измятый,помятый",
+                "weight": 0.9
+              },
+              {
+                "words": "сморщенный,съёжившийся",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "мʼятий",
+                "weight": 1
+              },
+              {
+                "words": "зімʼятий",
+                "weight": 1
+              },
+              {
+                "words": "помʼятий",
+                "weight": 1
+              },
+              {
+                "words": "зморщений",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kortsunud",
+        "kortsuline",
+        "kimar",
+        "käkras",
+        "krussis",
+        "kipras",
+        "nässus",
+        "kurruline",
+        "krimpsuline",
+        "käkrus",
+        "kurdus",
+        "kärssus",
+        "kibraline",
+        "kirtsus",
+        "krimpsus",
+        "juuksepahmakas",
+        "näolapp",
+        "korts",
+        "korts",
+        "kurinahk",
+        "kulmukortsutus",
+        "kortsmoonik",
+        "kortsneer",
+        "käenahk",
+        "kühmus",
+        "kortsleht",
+        "juuksepael",
+        "kortsutama",
+        "kortsu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kortsus",
+      "translations": [
+        "creased",
+        "crinkled",
+        "crumpled",
+        "rumpled (riided)",
+        "wrinkled"
+      ]
+    }
+  ]
+}

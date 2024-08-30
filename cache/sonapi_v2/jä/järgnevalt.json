@@ -1,0 +1,56 @@
+{
+  "requestedWord": "järgnevalt",
+  "estonianWord": "järgnevalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "järgnevalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(järjekorras) edasi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Järgnevalt käsitleti koosolekul töötajate premeerimist.",
+            "Järgnevalt tutvustatakse uut arvutiprogrammi."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "edasi",
+        "alljärgnevalt",
+        "allpool",
+        "eelnevalt",
+        "vastavalt",
+        "järgmiselt",
+        "järgnev"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "järgnevalt",
+      "translations": [
+        "as follows",
+        "subsequently"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "requestedWord": "õhtuti",
+  "estonianWord": "õhtuti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "õhtuti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "õhtutel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Vanasti pandi õhtuti linnaväravad lukku.",
+            "Käin õhtuti jooksmas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "evenings",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "le soir",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вечерами",
+                "weight": 1
+              },
+              {
+                "words": "по вечерам",
+                "weight": 1
+              },
+              {
+                "words": "в вечернее время",
+                "weight": 1
+              },
+              {
+                "words": "вечерней порой",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вечорами",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "südaöösel",
+        "öösel",
+        "hilisõhtuti",
+        "õhtupoolikuti",
+        "päeviti",
+        "pärastlõunati",
+        "laupäevaõhtuti",
+        "õhtuaeg",
+        "öösiti",
+        "hommikuti",
+        "õhtutaevas",
+        "varahommikuti",
+        "õhtutund"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "õhtuti",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "requestedWord": "õemees",
+  "estonianWord": "õemees",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "13",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "õemees"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "õemehe"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "õemeest"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "õemehesse"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "õemehes"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "õemehest"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "õemehele"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "õemehel"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "õemehelt"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "õemeheks"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "õemeheni"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "õemehena"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "õemeheta"
+        },
+        {
+          "inflectionType": "13",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "õemehega"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "õemehed"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "õemeeste"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "õemehi"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "õemeestesse,õemehisse"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "õemeestes,õemehis"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "õemeestest,õemehist"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "õemeestele,õemehile"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "õemeestel,õemehil"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "õemeestelt,õemehilt"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "õemeesteks,õemehiks"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "õemeesteni"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "õemeestena"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "õemeesteta"
+        },
+        {
+          "inflectionType": "13",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "õemeestega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "õe abikaasa",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mu õemees ei söö seeni."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "brother-in-law",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "beau-frère",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "зять",
+                "weight": 1
+              },
+              {
+                "words": "муж сестры",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зять",
+                "weight": 1
+              },
+              {
+                "words": "сестрин чоловік",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kälimees",
+        "võtmemees",
+        "mehevend",
+        "tütrepoeg",
+        "saemees",
+        "naisevend",
+        "lehemees",
+        "lelletütar",
+        "onupoeg",
+        "onu",
+        "naisemees",
+        "naistemees",
+        "õde",
+        "imemees",
+        "käemees",
+        "viiemees",
+        "poeg",
+        "pojapoeg",
+        "õetütar",
+        "täditütar",
+        "isa",
+        "tädimees",
+        "poemees",
+        "õepoeg",
+        "tütremees",
+        "vanaonu",
+        "väikemees",
+        "vend",
+        "vend",
+        "kahemees",
+        "onutütar",
+        "vennapoeg",
+        "poolvend",
+        "aatemees",
+        "väimees",
+        "lellepoeg",
+        "noorperemees",
+        "tädipoeg"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "õemees",
+      "translations": [
+        "brother-in-law"
+      ]
+    }
+  ]
+}

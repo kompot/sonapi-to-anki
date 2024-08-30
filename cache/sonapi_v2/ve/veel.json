@@ -1,0 +1,298 @@
+{
+  "requestedWord": "veel",
+  "estonianWord": "veel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "veel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "näitab, et tegevus või olukord kestab või kestis (mõnikord vihjates, et see on või oli lõpule jõudmas, peab või pidi lõppema või oleks võinud olla juba lõppenud),näitab, et tegevus või olukord kestab (kuid varsti see muutub)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta on veel kogenematu.",
+            "Koer lonkas veel nädalapäevad.",
+            "Lapsed veel magavad.",
+            "Ta on ikka veel tööl.",
+            "Pille ei oska veel jalgrattaga sõita."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "still",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "encore",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "ещё",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ще",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "näitab, et antud hetkel miski pole juhtunud, pole olemas, pole tulnud vms, kuid hiljem see eeldatavasti juhtub, ilmneb, tuleb",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Koosolek pole veel lõppenud.",
+            "Ma pole veel surnud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "ещё",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb tulevikus toimuvat või toimuda võivat tegevust või olukorda kirjeldavates lausungites",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Seda me saame veel näha.",
+            "Jäta järgi, lööd ta veel vigaseks!",
+            "Ehk muutub veel kõik?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "ещё",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "olemasolevale vms lisaks, peale selle, millelegi juurde,lisaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Palun veel üks kohv.",
+            "Andke talle veel üks võimalus.",
+            "Palun veel üks kohv.",
+            "Mis sa veel soovid?",
+            "Ütlen veel kord, mina seda ei teinud."
+          ],
+          "synonyms": [
+            "pluss"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "more",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "encore",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "ещё",
+                "weight": 1
+              },
+              {
+                "words": "плюс",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ще",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb koos keskvõrdega seda tugevdades,võrdlustes: rõhutab järgnevat sõna, mis näitab omadust või määra",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pingutasin veel rohkem.",
+            "See on veel raskem ülesanne.",
+            "Täna on veel palavam kui eile.",
+            "Ta tahaks veel rohkem palka saada."
+          ],
+          "synonyms": [
+            "veelgi"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "even",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "encore",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "ещё",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ще",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb pahameelt, imestust vms väljendavates ühendites ja ütlustes (mis sageli on vormilt jaatavad, sisult eitavad),rõhutab kõneleja tundetooni",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "See veel puudus!",
+            "Pidutsesite? – Või veel!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "ещё",
+                "weight": 1
+              },
+              {
+                "words": "ещё бы",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "edasi",
+        "veelgi",
+        "täiendavalt",
+        "ikka",
+        "otsa",
+        "pluss",
+        "juurde",
+        "lisaks",
+        "alles",
+        "kummatigi",
+        "pealekauba",
+        "pole",
+        "seni",
+        "praegu",
+        "tõesti",
+        "juba",
+        "kindlasti",
+        "aga",
+        "aga",
+        "siiski",
+        "jälle",
+        "seal",
+        "ilmselt",
+        "hetkel",
+        "muidugi",
+        "tõenäoliselt",
+        "siin",
+        "siin",
+        "siiani",
+        "üldse",
+        "rohkem",
+        "rohkem",
+        "kunagi",
+        "vähemalt",
+        "isegi",
+        "enam",
+        "enam",
+        "samuti",
+        "küll",
+        "küll",
+        "palju",
+        "palju",
+        "tegelikult",
+        "ükski",
+        "ikkagi",
+        "päris",
+        "ainult",
+        "endiselt",
+        "vist",
+        "vist",
+        "nüüd",
+        "siis",
+        "alati",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "veel",
+      "translations": [
+        "again",
+        "as yet",
+        "heretofore (eitavas lauses)",
+        "so far",
+        "yet"
+      ]
+    }
+  ]
+}

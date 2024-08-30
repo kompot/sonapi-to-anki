@@ -1,0 +1,603 @@
+{
+  "requestedWord": "kõrvaline",
+  "estonianWord": "kõrvaline",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "12",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kõrvaline"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kõrvalise"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kõrvalist"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "kõrvalisse"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kõrvalisesse"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kõrvalises"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kõrvalisest"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kõrvalisele"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kõrvalisel"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kõrvaliselt"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kõrvaliseks"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kõrvaliseni"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kõrvalisena"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kõrvaliseta"
+        },
+        {
+          "inflectionType": "12",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kõrvalisega"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kõrvalised"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kõrvaliste"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kõrvalisi"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kõrvalistesse,kõrvalisisse"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kõrvalistes,kõrvalisis"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kõrvalistest,kõrvalisist"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kõrvalistele,kõrvalisile"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kõrvalistel,kõrvalisil"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kõrvalistelt,kõrvalisilt"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kõrvalisteks,kõrvalisiks"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kõrvalisteni"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kõrvalistena"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kõrvalisteta"
+        },
+        {
+          "inflectionType": "12",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kõrvalistega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selline, mis ei ole asjaga seotud või ei puutu sellesse",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Õppuste ajal ei lubata kõrvalisi isikuid territooriumile."
+          ],
+          "synonyms": [
+            "mittekuuluv"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "посторонний",
+                "weight": 1
+              },
+              {
+                "words": "сторонний",
+                "weight": 1
+              },
+              {
+                "words": "непричастный",
+                "weight": 1
+              },
+              {
+                "words": "не входящий",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegagi võrreldes väheoluline või vähem tähtis",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Mu mällu ladestus igasuguseid kõrvalisi detaile."
+          ],
+          "synonyms": [
+            "sekundaarne",
+            "teisejärguline",
+            "teisene",
+            "ebaoluline,tähtsusetu,vähetähtis",
+            "väheoluline",
+            "marginaal,marginaalne",
+            "vähemtähtis",
+            "irrelevantne"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "второстепенный",
+                "weight": 1
+              },
+              {
+                "words": "вторичный",
+                "weight": 1
+              },
+              {
+                "words": "маловажный",
+                "weight": 1
+              },
+              {
+                "words": "несущественный",
+                "weight": 1
+              },
+              {
+                "words": "побочный",
+                "weight": 1
+              },
+              {
+                "words": "второочередной",
+                "weight": 1
+              },
+              {
+                "words": "менее важный",
+                "weight": 1
+              },
+              {
+                "words": "пустой,ничтожный,несущественный,неважный,малосущественный,незначительный,малозначительный,третьестепенный,второстепенный,проходной,маловажный,пустяковый",
+                "weight": 0.9
+              },
+              {
+                "words": "малосущественный,маловажный",
+                "weight": 0.89
+              },
+              {
+                "words": "маргинальный",
+                "weight": 0.9
+              },
+              {
+                "words": "незначительный,несущественный,нерелевантный",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "secondaire,sans importance,peu important,insignifiant",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "неважливий,малозначний,незначущий",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "irrelevant,insignificant,unimportant",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(keskusest, suurest liiklusest, käidavast paigast) kõrvale jääv, eemal asuv",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Rattamatk kulgeb mööda kõrvalisi paiku."
+          ],
+          "synonyms": [
+            "varjuline,varjuldane",
+            "üksildane",
+            "vähekäidav",
+            "üksik"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "окольный",
+                "weight": 1
+              },
+              {
+                "words": "отдалённый",
+                "weight": 1
+              },
+              {
+                "words": "уединённый",
+                "weight": 1
+              },
+              {
+                "words": "укромный",
+                "weight": 1
+              },
+              {
+                "words": "обходный",
+                "weight": 1
+              },
+              {
+                "words": "обходной",
+                "weight": 1
+              },
+              {
+                "words": "кружный",
+                "weight": 1
+              },
+              {
+                "words": "кружной",
+                "weight": 1
+              },
+              {
+                "words": "укромный,скрытый,тенистый,теневой,укрытый",
+                "weight": 0.9
+              },
+              {
+                "words": "отдалённый,укромный,уединённый,одинокий",
+                "weight": 0.9
+              },
+              {
+                "words": "малохоженый",
+                "weight": 0.9
+              },
+              {
+                "words": "одинокий",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "lonely",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "isolé",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "одинокий,безлюдний",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mujalt lähtuv, väljastpoolt tulev",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Vend on ratastoolis ja ei suuda ilma kõrvalise abita liikuda.",
+            "Ta tuli toime ilma kõrvalise abita."
+          ],
+          "synonyms": [
+            "väline,välispidine",
+            "tundmatu,võõras,ennetundmatu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "посторонний",
+                "weight": 1
+              },
+              {
+                "words": "внешний,наружный",
+                "weight": 0.7
+              },
+              {
+                "words": "неизвестный,незнакомый,неведомый,чужой",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "extérieur,externe",
+                "weight": 0.7
+              },
+              {
+                "words": "inconnu",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зовнішній",
+                "weight": 0.7
+              },
+              {
+                "words": "чужий,невідомий,незнайомий,незнаний",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "strange,unfamiliar",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "asjaga mitteseotud isik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "See pole küsimus, kuhu keegi kõrvaline peaks oma nina toppima.",
+            "Kõrvalistele jättis ta igati ontliku mulje."
+          ],
+          "synonyms": [
+            "eemalseisja",
+            "kõrvalseisja",
+            "tundmatu,võõras"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "посторонний",
+                "weight": 1
+              },
+              {
+                "words": "посторонняя",
+                "weight": 1
+              },
+              {
+                "words": "посторонний человек,стоящий в стороне",
+                "weight": 0.9
+              },
+              {
+                "words": "посторонняя,посторонний",
+                "weight": 0.7
+              },
+              {
+                "words": "незнакомец,незнакомка,неизвестная,чужая,чужак,незнакомая,чужачка,неизвестный,чужой,незнакомый",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "inconnu,inconnue,étranger,étrangère",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "незнайомий,незнайома,незнайомець,незнайомка,невідомий,невідома,чужий,чужа",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "stranger",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "inimene, kes (talus) teise juures elab ja kes mõnikord on ka selle ülalpidamisel",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Nüüd on läinud koht käest ja kõik näeksid meelsasti, kuidas ta sureb viletsana, poja kõrvalisena, armuleivasööjana."
+          ],
+          "synonyms": [
+            "manuline"
+          ],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "mittekuuluv",
+        "väline",
+        "varjuline",
+        "marginaalne",
+        "kõrvalseisja",
+        "eemalseisja",
+        "üksik",
+        "kallike",
+        "üksildane",
+        "sekundaarne",
+        "majasõber",
+        "teisene",
+        "väheoluline",
+        "ebaoluline",
+        "armuke",
+        "tähtsusetu",
+        "salanaine",
+        "manuline",
+        "vähekäidav",
+        "kõhuõde",
+        "vähetähtis",
+        "liignaine",
+        "teisejärguline",
+        "sohinaine",
+        "isikupäratu",
+        "koosseisuväline",
+        "keskpärane",
+        "kaudne",
+        "võõras",
+        "ülemääraline",
+        "tavaline",
+        "lontkõrvaline",
+        "banaalne",
+        "puhtpraktiline",
+        "turvaline",
+        "mõistusepärane",
+        "pikanokaline",
+        "mõistatuslik",
+        "asjaline",
+        "üheülbaline",
+        "lohutu",
+        "terveservaline",
+        "suurekõrvaline",
+        "nahaalne",
+        "kummaline",
+        "teravaservaline",
+        "sihiteadlik",
+        "puuslik",
+        "ühetähenduslik",
+        "raskepärane",
+        "paljutähenduslik",
+        "selgepilguline",
+        "sügavmõtteline",
+        "metress"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kõrvaline",
+      "translations": [
+        "extraneous",
+        "incidental to (millegi suhtes)",
+        "outside"
+      ]
+    }
+  ]
+}

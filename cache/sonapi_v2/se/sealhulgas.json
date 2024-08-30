@@ -1,0 +1,83 @@
+{
+  "requestedWord": "sealhulgas",
+  "estonianWord": "sealhulgas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sealhulgas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "muude (samalaadsete) seas või hulgas,muu(de) hulgas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Plaate ostsin terve paki, sealhulgas džässi.",
+            "Firma on laienenud Ida-Euroopa suunas, sealhulgas ka Baltikumi.",
+            "Ettevõte on edukas kogu Euroopas, sealhulgas Eestis."
+          ],
+          "synonyms": [
+            "sh"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "y compris",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в том числе",
+                "weight": 1
+              },
+              {
+                "words": "в т. ч.",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "у тому числі",
+                "weight": 1
+              },
+              {
+                "words": "серед них і",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kaasa arvatud",
+        "samuti",
+        "seas",
+        "näiteks",
+        "hulgas"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sealhulgas",
+      "translations": [
+        "including"
+      ]
+    }
+  ]
+}

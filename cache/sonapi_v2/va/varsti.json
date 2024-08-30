@@ -1,0 +1,155 @@
+{
+  "requestedWord": "varsti",
+  "estonianWord": "varsti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "varsti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "natukese aja pärast,lühikese aja pärast, üsna ruttu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Küll asjad saavad varsti korda.",
+            "Ta peaks üsna varsti tulema.",
+            "Küll sa varsti terveks saad.",
+            "Varsti näeme!"
+          ],
+          "synonyms": [
+            "peagi",
+            "lähemal ajal,ligemal ajal"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "soon",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "bientôt",
+                "weight": 1
+              },
+              {
+                "words": "prochainement",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "вскоре",
+                "weight": 1
+              },
+              {
+                "words": "в скором времени",
+                "weight": 1
+              },
+              {
+                "words": "скоро",
+                "weight": 1
+              },
+              {
+                "words": "очень скоро",
+                "weight": 1
+              },
+              {
+                "words": "в ближайшее время,в скором времени,в недалёком будущем,вскоре",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "скоро",
+                "weight": 1
+              },
+              {
+                "words": "швидко",
+                "weight": 1
+              },
+              {
+                "words": "незабаром",
+                "weight": 1
+              },
+              {
+                "words": "найближчим часом,незабаром,невдовзі",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kohe",
+        "kohe",
+        "peatselt",
+        "lähemal ajal",
+        "peagi",
+        "pea",
+        "pea",
+        "pea",
+        "pea",
+        "täna-homme",
+        "nüüd-nüüd",
+        "lähemal",
+        "lähipäevil",
+        "praegu",
+        "taas",
+        "uuesti",
+        "juba",
+        "kindlasti",
+        "kibekiiresti",
+        "aga",
+        "aga",
+        "siiski",
+        "loodetavasti",
+        "jälle",
+        "seal",
+        "ilmselt",
+        "tõenäoliselt",
+        "pärast",
+        "ruttu-ruttu",
+        "kibekähku",
+        "sealt",
+        "veel",
+        "ikka",
+        "küll",
+        "küll",
+        "kiiresti",
+        "alles",
+        "lõpuks",
+        "ükskord",
+        "millalgi",
+        "õnneks",
+        "nüüd",
+        "siis",
+        "ruttu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "varsti",
+      "translations": [
+        "before long",
+        "soon"
+      ]
+    }
+  ]
+}

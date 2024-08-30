@@ -1,0 +1,318 @@
+{
+  "requestedWord": "ligi",
+  "estonianWord": "ligi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ligi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nii, et vaid pisut jääb vajaka (mingist kogusest, hulgast, seisundist vm),näitab, et vaid natuke jääb millestki puudu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Korter maksis ligi miljon krooni.",
+            "Kohtuvaidlus on kestnud ligi kaks aastat.",
+            "Ligi 20 kraadi külma.",
+            "Tuli välja, et mees on kuuekümne ligi.",
+            "Lend hilines ligi kaks tundi.",
+            "Väljas on ligi 30 kraadi sooja.",
+            "Külma oli 20 kraadi ligi."
+          ],
+          "synonyms": [
+            "ligemale",
+            "pea",
+            "peaaegu",
+            "peagu",
+            "enam-vähem"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "presque",
+                "weight": 1
+              },
+              {
+                "words": "plus ou moins,à peu près,presque",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "практически",
+                "weight": 1
+              },
+              {
+                "words": "почти",
+                "weight": 1
+              },
+              {
+                "words": "почти что",
+                "weight": 1
+              },
+              {
+                "words": "почти,более или менее",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "майже",
+                "weight": 1
+              },
+              {
+                "words": "мало не",
+                "weight": 1
+              },
+              {
+                "words": "більш-менш,майже",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "more or less",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi lähedal või lähedale, juures või juurde,lähedale, juurde",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Õde astus ligi ja sosistas Annile midagi kõrva sisse.",
+            "Kõhedus tikkus ligi.",
+            "Meestel olid tööriistad ligi võetud.",
+            "Kass hoiab väga lapse ligi ja isegi magab tema kõrval.",
+            "Hämaras toas diivanil lamas kaks inimest tihedalt teineteise ligi.",
+            "Sinna ei pääse autoga ligi.",
+            "Kinnisele istungile rahvast ligi ei lasta.",
+            "Ära lase koera lapse ligi!"
+          ],
+          "synonyms": [
+            "kõrval"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "près de",
+                "weight": 1
+              },
+              {
+                "words": "à côté de",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "ближе",
+                "weight": 1
+              },
+              {
+                "words": "поближе",
+                "weight": 1
+              },
+              {
+                "words": "близко",
+                "weight": 1
+              },
+              {
+                "words": "при",
+                "weight": 1
+              },
+              {
+                "words": "возле",
+                "weight": 1
+              },
+              {
+                "words": "к",
+                "weight": 1
+              },
+              {
+                "words": "около,у,возле,подле,вблизи,поблизости,рядом,рядом с",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "близько",
+                "weight": 1
+              },
+              {
+                "words": "ближче",
+                "weight": 1
+              },
+              {
+                "words": "до",
+                "weight": 1
+              },
+              {
+                "words": "поряд з,поруч,коло,біля,поблизу,близько",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vahetus kokkupuutes või vahetusse kokkupuutesse, (peaaegu) vastas või vastu,vahetusse kontakti, (peaaegu) vastu",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Laps surus end ema ligi.",
+            "Kass litsus kõrvad pea ligi ja norskas vihaselt edasi.",
+            "Juuksed hoiavad pead ligi.",
+            "Öö tõi külma, lilled kooldusid ligi maad.",
+            "Kass tõmbas kõrvad pea ligi.",
+            "Laps surus end ema ligi.",
+            "Müts surub juuksed ligi pead."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "contre",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "к",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(millegi kallale tegutsema)",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Mina masinate ligi ei kipu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "к",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lähedale",
+        "ligidal",
+        "kaasa",
+        "silma alla",
+        "käeulatuses",
+        "siinsamas",
+        "ligilähedal",
+        "juures",
+        "ruumiliselt",
+        "kiviviske kaugusel",
+        "käegakatsutav",
+        "man",
+        "nina ees",
+        "juurde",
+        "käe-jala juures",
+        "ajaliselt",
+        "umbes",
+        "külje all",
+        "kõrval",
+        "kõrval",
+        "ühes",
+        "kohe",
+        "kohe",
+        "enam-vähem",
+        "manu",
+        "lähedal",
+        "kukil",
+        "nina all",
+        "pea",
+        "pea",
+        "pea",
+        "ligemale",
+        "peaaegu",
+        "kiviga visata",
+        "ligikaudu",
+        "tõstma",
+        "umbkaudu",
+        "hinnanguliselt",
+        "paarkümmend",
+        "kümme",
+        "tervelt",
+        "veerandsada",
+        "neli",
+        "sada",
+        "poolsada",
+        "viissada",
+        "ühtekokku",
+        "kolmsada",
+        "vähemalt",
+        "enam",
+        "enam",
+        "kakssada",
+        "kümmekond",
+        "üle",
+        "seitsesada",
+        "mitusada",
+        "paarsada",
+        "poolteist"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ligi",
+      "translations": []
+    }
+  ]
+}

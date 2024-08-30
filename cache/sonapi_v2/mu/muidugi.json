@@ -1,0 +1,232 @@
+{
+  "requestedWord": "muidugi",
+  "estonianWord": "muidugi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "muidugi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(rõhutav üldlaiend:) iseenesest mõista, nagu (kõigile) teada,nii, nagu võibki arvata, kindlasti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Muidugi tuleb ette näpukaid.",
+            "Jah, muidugi.",
+            "Pärast trenni olen muidugi väsinud.",
+            "Kas sa tahad ka kooki? – Muidugi!"
+          ],
+          "synonyms": [
+            "arusaadavalt",
+            "loomulikult",
+            "muidugi mõista",
+            "muidugimõista",
+            "muidugist",
+            "mõistagi",
+            "otse loomulikult",
+            "teadagi",
+            "ausalt,ausõna,tõega,tõejutt,tõepoolest,tõesti,tõesõna,tõsi,tõsijutt,tõsilugu,õigus"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "naturellement",
+                "weight": 1
+              },
+              {
+                "words": "évidemment",
+                "weight": 1
+              },
+              {
+                "words": "vraiment",
+                "weight": 0.547
+              }
+            ],
+            "rus": [
+              {
+                "words": "несомненно",
+                "weight": 1
+              },
+              {
+                "words": "безусловно",
+                "weight": 1
+              },
+              {
+                "words": "конечно",
+                "weight": 1
+              },
+              {
+                "words": "известно",
+                "weight": 1
+              },
+              {
+                "words": "понятно",
+                "weight": 1
+              },
+              {
+                "words": "понятное дело",
+                "weight": 1
+              },
+              {
+                "words": "разумеется",
+                "weight": 1
+              },
+              {
+                "words": "естественно",
+                "weight": 1
+              },
+              {
+                "words": "известное дело",
+                "weight": 1
+              },
+              {
+                "words": "само собой",
+                "weight": 1
+              },
+              {
+                "words": "как известно",
+                "weight": 1
+              },
+              {
+                "words": "ясен перец",
+                "weight": 1
+              },
+              {
+                "words": "ясен пень",
+                "weight": 1
+              },
+              {
+                "words": "честное слово,в самом деле,действительно,серьёзно,впрямь,поистине,на самом деле,подлинно,всерьёз,вправду,воистину,право,право слово,правда",
+                "weight": 0.547
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зрозуміло",
+                "weight": 1
+              },
+              {
+                "words": "звичайно",
+                "weight": 1
+              },
+              {
+                "words": "певна річ",
+                "weight": 1
+              },
+              {
+                "words": "звісно",
+                "weight": 1
+              },
+              {
+                "words": "справді,насправді,в дійсності,дійсно",
+                "weight": 0.547
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ilma) selletagi, ka muidu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Oli seda pahandust veel vaja, muret muidugi palju."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "и так",
+                "weight": 1
+              },
+              {
+                "words": "и без того",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mõistagi",
+        "teadagi",
+        "isegi",
+        "iseenesestki mõista",
+        "muidugi mõista",
+        "arusaadavalt",
+        "endastmõistetavalt",
+        "nõndagi",
+        "iseenesestmõistetavalt",
+        "enesestki mõista",
+        "nagunii",
+        "loomulikult",
+        "niigi",
+        "tõepoolest",
+        "kuigi",
+        "muidu",
+        "tõesti",
+        "see",
+        "kindlasti",
+        "aga",
+        "aga",
+        "siiski",
+        "ilmselt",
+        "igatahes",
+        "üldse",
+        "samuti",
+        "küll",
+        "küll",
+        "ikka",
+        "eriti",
+        "muidugist",
+        "tegelikult",
+        "ikkagi",
+        "päris",
+        "õnneks",
+        "niiväga",
+        "vist",
+        "vist",
+        "üldiselt",
+        "lihtsalt",
+        "täitsa",
+        "täitsa",
+        "jällegi",
+        "siis",
+        "alati",
+        "väga",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "muidugi",
+      "translations": [
+        "certainly",
+        "natch",
+        "of course",
+        "sure",
+        "sure enough",
+        "surely"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "requestedWord": "luteri",
+  "estonianWord": "luteri",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "luteri"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "seotud kristliku religiooni suunaga, mis põhineb Martin Lutheri õpetusel",
+          "partOfSpeech": [
+            {
+              "code": "adjg",
+              "value": "omastavaline täiend, genitiivatribuut, täiendsõna"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "luteriusuline,luterlik"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "Lutheran",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "luthérien",
+                "weight": 1
+              },
+              {
+                "words": "luthérien",
+                "weight": 0.605
+              }
+            ],
+            "rus": [
+              {
+                "words": "лютеранский",
+                "weight": 1
+              },
+              {
+                "words": "лютеранский",
+                "weight": 0.605
+              }
+            ],
+            "ukr": [
+              {
+                "words": "лютеранський",
+                "weight": 1
+              },
+              {
+                "words": "лютеранський",
+                "weight": 0.605
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "luteriusuline",
+        "luterlik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "luteri",
+      "translations": [
+        "Lutheran"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "requestedWord": "ametlik",
+  "estonianWord": "ametlik",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "25",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "ametlik"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "ametliku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "ametlikku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "ametlikku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "ametlikusse"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "ametlikus"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "ametlikust"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "ametlikule"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "ametlikul"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "ametlikult"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "ametlikuks"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "ametlikuni"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "ametlikuna"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "ametlikuta"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "ametlikuga"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "ametlikud"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "ametlike,ametlikkude"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "ametlikke,ametlikkusid"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "ametlikesse,ametlikkudesse"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "ametlikes,ametlikkudes"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "ametlikest,ametlikkudest"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "ametlikele,ametlikkudele"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "ametlikel,ametlikkudel"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "ametlikelt,ametlikkudelt"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "ametlikeks,ametlikkudeks"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "ametlikeni,ametlikkudeni"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "ametlikena,ametlikkudena"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "ametliketa,ametlikkudeta"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "ametlikega,ametlikkudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ametivõimu poolt, riiklikult kehtestatud või korraldatud,valitsuse või muude võimu esindavate organisatsioonide või isikutega seotud,nende kehtestatud korrale vastav",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Ametlik välispoliitika.",
+            "Võimudelt ei tulnud ühtki ametlikku teadet.",
+            "Ametlik dokument.",
+            "Wales'i printsi esimene ametlik visiit Balti regiooni.",
+            "Ostsin pileti sularahas ja alla ametliku hinna.",
+            "President sõitis ametlikule visiidile Soome."
+          ],
+          "synonyms": [
+            "ofitsiaalne",
+            "formaalne,vormiline,formaal",
+            "legaalne,seaduslik,seaduspärane"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "official",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "officiel",
+                "weight": 1
+              },
+              {
+                "words": "légal",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "официальный",
+                "weight": 1
+              },
+              {
+                "words": "формальный,по форме",
+                "weight": 0.7
+              },
+              {
+                "words": "легальный,законный,признанный,узаконенный,правосудный",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "офіційний",
+                "weight": 1
+              },
+              {
+                "words": "законний,легальний",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rangelt või jahedalt asjalik",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Mees muutus ametlikuks ning tõrjuvaks."
+          ],
+          "synonyms": [
+            "reserveeritud",
+            "distantseeritud",
+            "vaoshoitud",
+            "tagasihoidlik",
+            "jahe,külmavõitu",
+            "asjalik",
+            "jäik,kalk,külm",
+            "leige",
+            "kuiv",
+            "tõrjuv"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сдержанный",
+                "weight": 1
+              },
+              {
+                "words": "неприступный",
+                "weight": 1
+              },
+              {
+                "words": "недоступный",
+                "weight": 1
+              },
+              {
+                "words": "владеющий собой,выдержанный,сдержанный",
+                "weight": 0.9
+              },
+              {
+                "words": "выдержанный,сдержанный,обузданный,владеющий собой",
+                "weight": 0.9
+              },
+              {
+                "words": "скромный,сдержанный",
+                "weight": 0.7
+              },
+              {
+                "words": "прохладный",
+                "weight": 0.9
+              },
+              {
+                "words": "деловой",
+                "weight": 0.7
+              },
+              {
+                "words": "нечувствительный,бездушный,сухой,жёсткий,суровый,натянутый,чёрствый,бессердечный,нечуткий,жестокосердный,ожесточённый",
+                "weight": 0.9
+              },
+              {
+                "words": "прохладный,равнодушный",
+                "weight": 0.9
+              },
+              {
+                "words": "сухой",
+                "weight": 0.9
+              },
+              {
+                "words": "неприязненный,недружелюбный",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "modeste",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "скромний",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(koguse kohta:) väga suur",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Ta oli nutnud päris ametliku peatäie."
+          ],
+          "synonyms": [
+            "kõva",
+            "mehine",
+            "paras",
+            "viisakas,korralik",
+            "tubli",
+            "tüse,priske",
+            "tõhus",
+            "tugev",
+            "hea,hää"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "солидный,значительный",
+                "weight": 0.9
+              },
+              {
+                "words": "добрый,хороший,изрядный",
+                "weight": 0.9
+              },
+              {
+                "words": "изрядный,порядочный,приличный,довольно большой,весьма большой,значительно большой",
+                "weight": 0.9
+              },
+              {
+                "words": "порядочный,изрядный,приличный,хороший",
+                "weight": 0.9
+              },
+              {
+                "words": "мощный,сильный",
+                "weight": 0.9
+              },
+              {
+                "words": "толстый,мощный",
+                "weight": 0.9
+              },
+              {
+                "words": "немалый,значительный",
+                "weight": 0.9
+              },
+              {
+                "words": "мощный,изрядный,хороший",
+                "weight": 0.9
+              },
+              {
+                "words": "порядочный,изрядный,хороший,добрый",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "grand,gros",
+                "weight": 0.9
+              },
+              {
+                "words": "correct,bon",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "неабиякий,чималий,порядний,досить великий",
+                "weight": 0.9
+              },
+              {
+                "words": "пристойний,добрий,порядний",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "seaduslik",
+        "formaalne",
+        "kantseliitlik",
+        "paberlik",
+        "asjalik",
+        "teadvustamatu",
+        "külm",
+        "mehine",
+        "tugev",
+        "asja eest",
+        "täitsa",
+        "täitsa",
+        "korralik",
+        "hea",
+        "reserveeritud",
+        "jahe",
+        "tubli",
+        "leige",
+        "kuiv",
+        "ofitsiaalne",
+        "ofitsioosne",
+        "tõrjuv",
+        "pai",
+        "asi",
+        "poolametlik",
+        "vedus",
+        "kõva",
+        "lahkusetu",
+        "priske",
+        "tõhus",
+        "paras",
+        "teenistuslik",
+        "ametialane",
+        "teenistusalane",
+        "hamletlik",
+        "riigikeelne",
+        "õigusalane",
+        "ühekeelne",
+        "ametlikult",
+        "kahekeelne",
+        "mitteametlik",
+        "ametlikum",
+        "taanikeelne",
+        "esimene",
+        "libekeelne",
+        "üldiseim",
+        "temapoolne",
+        "ükskeelne",
+        "tegelik",
+        "ametlikkus",
+        "viiekeelne"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ametlik",
+      "translations": [
+        "authorized",
+        "buckram",
+        "formal",
+        "official"
+      ]
+    }
+  ]
+}

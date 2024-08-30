@@ -1,0 +1,392 @@
+{
+  "requestedWord": "aparaat",
+  "estonianWord": "aparaat",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "aparaat"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "aparaadi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "aparaati"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "aparaati"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "aparaadisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "aparaadis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "aparaadist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "aparaadile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "aparaadil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "aparaadilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "aparaadiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "aparaadini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "aparaadina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "aparaadita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "aparaadiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "aparaadid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "aparaatide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "aparaate,aparaatisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "aparaatidesse,aparaadesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "aparaatides,aparaades"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "aparaatidest,aparaadest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "aparaatidele,aparaadele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "aparaatidel,aparaadel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "aparaatidelt,aparaadelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "aparaatideks,aparaadeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "aparaatideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "aparaatidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "aparaatideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "aparaatidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kindla otstarbega, hrl keeruka ehitusega tehniline seade (nt meditsiinis, füüsikas, elektroonikas),keerulise ehitusega seade, millel on spetsiaalne otstarve",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Aparaat mõõdab glükoosi nahalt, mitte verest.",
+            "Ka moodsad aparaadid vahel tõrguvad.",
+            "Puskariajamise aparaat.",
+            "Keevitusaparaat.",
+            "Raviaparaat."
+          ],
+          "synonyms": [
+            "seade",
+            "pill",
+            "riist"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "appareil",
+                "weight": 1
+              },
+              {
+                "words": "appareil",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "аппарат",
+                "weight": 1
+              },
+              {
+                "words": "прибор",
+                "weight": 1
+              },
+              {
+                "words": "устройство",
+                "weight": 1
+              },
+              {
+                "words": "устройство,машина,сооружение,установка,станок,механизм,приспособление",
+                "weight": 0.9
+              },
+              {
+                "words": "аппарат",
+                "weight": 0.7
+              },
+              {
+                "words": "средство,приспособление,аппарат,прибор,инструмент,орудие,машина",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "апарат",
+                "weight": 1
+              },
+              {
+                "words": "механізм,пристрій,прилад,апарат",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teatavat riiklikku valdkonda teenindavad asutused või nende süsteem, samuti nende töötajad",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Pidevalt suureneb bürokraatlik aparaat, mille ülalhoidmine sunnib tõstma makse.",
+            "Ministri tööd ja tegemised valmistab ette ministeeriumi aparaat.",
+            "Bürokraatiaaparaat.",
+            "Propagandaaparaat."
+          ],
+          "synonyms": [
+            "riigiaparaat",
+            "valitsusaparaat,võimuaparaat",
+            "administratiivaparaat"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "аппарат",
+                "weight": 1
+              },
+              {
+                "words": "государственный аппарат,госаппарат",
+                "weight": 0.7
+              },
+              {
+                "words": "аппарат управления,правительственный аппарат,властвующий аппарат",
+                "weight": 0.671
+              },
+              {
+                "words": "административный аппарат",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "organismi kindla ülesandega elundite süsteem (nt hääleaparaat)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kõneaparaat."
+          ],
+          "synonyms": [
+            "elundkond",
+            "elund,organ"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "аппарат",
+                "weight": 1
+              },
+              {
+                "words": "аппарат,система органов",
+                "weight": 0.7
+              },
+              {
+                "words": "орган",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "орган",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "organ",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pill",
+        "riigiaparaat",
+        "administratiivaparaat",
+        "elundkond",
+        "seade",
+        "organ",
+        "elund",
+        "vahend",
+        "mõõteriist",
+        "riist",
+        "seadis",
+        "lennuaparaat",
+        "parteiaparaat",
+        "röntgeniaparaat",
+        "keevitusaparaat",
+        "haldusaparaat",
+        "võimuaparaat",
+        "raadioaparaat",
+        "puskariaparaat",
+        "faksiaparaat",
+        "kuuldeaparaat",
+        "keskaparaat",
+        "elektriaparaat",
+        "pildiaparaat",
+        "valitsusaparaat",
+        "kohviaparaat",
+        "politseiaparaat",
+        "hääleaparaat",
+        "sukelaparaat",
+        "vererõhuaparaat",
+        "ultraheliaparaat",
+        "telefoniaparaat",
+        "hingamisaparaat",
+        "kohtuaparaat",
+        "narkoosiaparaat",
+        "juhtimisaparaat",
+        "arp"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "aparaat",
+      "translations": [
+        "apparatus",
+        "machinery"
+      ]
+    }
+  ]
+}

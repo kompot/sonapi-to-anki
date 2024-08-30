@@ -1,0 +1,62 @@
+{
+  "requestedWord": "teaduslikult",
+  "estonianWord": "teaduslikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "teaduslikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teadusele toetudes, teaduse abil",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "On teaduslikult tõestatud, et .."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "научно",
+                "weight": 1
+              },
+              {
+                "words": "по-научному",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "teaduslikkus",
+        "meditsiiniliselt",
+        "teaduslikum",
+        "teaduslik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "teaduslikult",
+      "translations": [
+        "scientifically"
+      ]
+    }
+  ]
+}

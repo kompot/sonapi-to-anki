@@ -1,0 +1,91 @@
+{
+  "requestedWord": "läbisegi",
+  "estonianWord": "läbisegi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "läbisegi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(erisuguste asjade kohta:) mitte kindlas järjestuses või korras, üheks tervikuks segunenuna, ühtekokku panduna",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Räägiti valjusti ja läbisegi.",
+            "Raamatus oli tõsielu ja fantaasia läbisegi."
+          ],
+          "synonyms": [
+            "läbisegamini",
+            "segiläbi",
+            "sassis"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "наперебой",
+                "weight": 1
+              },
+              {
+                "words": "вперемешку",
+                "weight": 1
+              },
+              {
+                "words": "вразнобой",
+                "weight": 1
+              },
+              {
+                "words": "вразбивку",
+                "weight": 1
+              },
+              {
+                "words": "беспорядочно",
+                "weight": 1
+              },
+              {
+                "words": "вразброс",
+                "weight": 1
+              },
+              {
+                "words": "вперебой",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "segiläbi",
+        "läbisegamini",
+        "segamini",
+        "korraga",
+        "tihti",
+        "päris",
+        "läbi-lõhki",
+        "üsna",
+        "enamasti",
+        "sageli"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "läbisegi",
+      "translations": []
+    }
+  ]
+}

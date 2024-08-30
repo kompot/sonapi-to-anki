@@ -1,0 +1,77 @@
+{
+  "requestedWord": "kõrgemale",
+  "estonianWord": "kõrgemale",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kõrgemale"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "plus haut",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "выше",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вище",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ülespidi",
+        "ülespoole",
+        "kõrgele",
+        "madalamalt",
+        "kaugemale",
+        "pimemale",
+        "madalamale",
+        "kõrgemal",
+        "madalamal",
+        "kõrgeimale",
+        "allapoole",
+        "kõrgemalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kõrgemale",
+      "translations": [
+        "aloft",
+        "higher"
+      ]
+    }
+  ]
+}

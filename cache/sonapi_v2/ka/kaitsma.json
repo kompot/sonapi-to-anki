@@ -1,0 +1,821 @@
+{
+  "requestedWord": "kaitsma",
+  "estonianWord": "kaitsma",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "32",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "kaitsma"
+        },
+        {
+          "inflectionType": "32",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "kaitsmata"
+        },
+        {
+          "inflectionType": "32",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "kaitsmas"
+        },
+        {
+          "inflectionType": "32",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "kaitsmast"
+        },
+        {
+          "inflectionType": "32",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "kaitsmaks"
+        },
+        {
+          "inflectionType": "32",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "kaitstama"
+        },
+        {
+          "inflectionType": "32",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "kaitsta"
+        },
+        {
+          "inflectionType": "32",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "kaitstes"
+        },
+        {
+          "inflectionType": "32",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "kaitsev"
+        },
+        {
+          "inflectionType": "32",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "kaitstav"
+        },
+        {
+          "inflectionType": "32",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "kaitsnud"
+        },
+        {
+          "inflectionType": "32",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "kaitsnud"
+        },
+        {
+          "inflectionType": "32",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "kaitstud"
+        },
+        {
+          "inflectionType": "32",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "kaitstud"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "kaitsen"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "kaitsed"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "kaitseb"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "kaitseme"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "kaitsete"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "kaitsevad"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "kaitse"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "kaitstakse"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "kaitsta"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "kaitsesin"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "kaitsesid"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "kaitses"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "kaitsesime"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "kaitsesite"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "kaitsesid"
+        },
+        {
+          "inflectionType": "32",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "kaitsti"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "kaitseksin"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "kaitseksid"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "kaitseks"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "kaitseksime"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "kaitseksite"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "kaitseksid"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "kaitstaks"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "kaitsnuksid"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "kaitsnuksid"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "kaitsnuks"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "kaitsnuksime"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "kaitsnuksite"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "kaitsnuksid"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "kaitstuks"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "kaitsvat"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "kaitstavat"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "kaitsnuvat"
+        },
+        {
+          "inflectionType": "32",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "kaitstuvat"
+        },
+        {
+          "inflectionType": "32",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "kaitse"
+        },
+        {
+          "inflectionType": "32",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "kaitskem"
+        },
+        {
+          "inflectionType": "32",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "kaitske"
+        },
+        {
+          "inflectionType": "32",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "kaitsku"
+        },
+        {
+          "inflectionType": "32",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "kaitstagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kallaletungi, rünnakut, vägivalda, ohtu tõrjuma või vältida püüdma,rünnakut, ohtu, vägivalda tõrjuma või eemal hoidma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kohustus kaitsta tsiviilelanikkonda relvakonfliktides.",
+            "Metsloomade eest saab kodu kaitsta tiheda aiaga.",
+            "Kaitsevägi kaitseb riiki.",
+            "Keegi pole röövlite eest kaitstud."
+          ],
+          "synonyms": [
+            "kaitsema",
+            "turvama",
+            "katma",
+            "valvama",
+            "julgestama"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "défendre",
+                "weight": 1
+              },
+              {
+                "words": "surveiller,garder",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "защищать",
+                "weight": 1
+              },
+              {
+                "words": "защитить",
+                "weight": 1
+              },
+              {
+                "words": "охранять",
+                "weight": 1
+              },
+              {
+                "words": "охранить",
+                "weight": 1
+              },
+              {
+                "words": "оберегать",
+                "weight": 1
+              },
+              {
+                "words": "оберечь",
+                "weight": 1
+              },
+              {
+                "words": "предохранять",
+                "weight": 1
+              },
+              {
+                "words": "предохранить",
+                "weight": 1
+              },
+              {
+                "words": "оборонять",
+                "weight": 1
+              },
+              {
+                "words": "оборонить",
+                "weight": 1
+              },
+              {
+                "words": "защищаться",
+                "weight": 1
+              },
+              {
+                "words": "защитить,защищать,охранить,охранять",
+                "weight": 0.9
+              },
+              {
+                "words": "прикрыть,прикрывать",
+                "weight": 0.75
+              },
+              {
+                "words": "охранять,охранить,сторожить,стеречь,присматривать,присмотреть,караулить",
+                "weight": 0.9
+              },
+              {
+                "words": "подстраховать,обезопасить,подстраховывать,страховать",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "захищати",
+                "weight": 1
+              },
+              {
+                "words": "захистити",
+                "weight": 1
+              },
+              {
+                "words": "охороняти",
+                "weight": 1
+              },
+              {
+                "words": "охоронити",
+                "weight": 1
+              },
+              {
+                "words": "оберігати",
+                "weight": 1
+              },
+              {
+                "words": "оберегти",
+                "weight": 1
+              },
+              {
+                "words": "вартувати,охороняти,стерегти,пильнувати",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ära hoidma mingit kahjulikku või ebasoovitavat tegevust või mõju,kahjulikku tegevust või mõju ära hoidma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "E-postiaadress on kaitstud spämmirobotite eest.",
+            "Sisetallad kaitsevad jalgu higistamise ja külmetamise eest.",
+            "Päikeseprillid kaitsevad silmi.",
+            "Raamatuid tuleb kaitsta tolmu eest."
+          ],
+          "synonyms": [
+            "kaitsema",
+            "hoidma",
+            "katma",
+            "säästma",
+            "kindlustama",
+            "varjama"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "protéger",
+                "weight": 1
+              },
+              {
+                "words": "couvrir",
+                "weight": 0.9
+              },
+              {
+                "words": "protéger",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "защищать",
+                "weight": 1
+              },
+              {
+                "words": "защитить",
+                "weight": 1
+              },
+              {
+                "words": "оберегать",
+                "weight": 1
+              },
+              {
+                "words": "оберечь",
+                "weight": 1
+              },
+              {
+                "words": "остерегаться,остеречься,избегать,избежать,избегнуть,беречься,поберечься",
+                "weight": 0.9
+              },
+              {
+                "words": "крыть,покрыть,покрывать,закрывать,закрыть,накрывать,накрыть,укрывать,укрыть",
+                "weight": 0.9
+              },
+              {
+                "words": "беречь,щадить,пощадить,сберегать,сберечь,уберегать,уберечь,оберегать,оберечь",
+                "weight": 0.9
+              },
+              {
+                "words": "утверждать,укреплять,укрепить,упрочивать,упрочить,утвердить,закреплять,закрепить",
+                "weight": 0.595
+              },
+              {
+                "words": "закрывать,закрыть,скрывать,скрыть,загораживать,загородить,заслонить,заслонять,заграждать,заградить",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "захищати",
+                "weight": 1
+              },
+              {
+                "words": "захистити",
+                "weight": 1
+              },
+              {
+                "words": "оберігати",
+                "weight": 1
+              },
+              {
+                "words": "оберегти",
+                "weight": 1
+              },
+              {
+                "words": "накривати,накрити,покривати,покрити,укривати,укрити",
+                "weight": 0.9
+              },
+              {
+                "words": "приховувати,приховати,закривати,закрити",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi või millegi eest seisma, seda õigustada püüdma,kellegi kaitsjana esinema,midagi õigustama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kohtualuseid kaitseb vandeadvokaat.",
+            "Autoriõigus ei kaitse ideid ja põhimõtteid.",
+            "Meest kaitses kohtus tuntud advokaat.",
+            "Ta kaitseb alati oma seisukohti."
+          ],
+          "synonyms": [
+            "kaitsema",
+            "õigustama,välja vabandama,vabandama",
+            "kostma",
+            "oma hõlma alla võtma,oma tiiva alla võtma",
+            "välja astuma",
+            "seisma",
+            "protežeerima",
+            "soosima",
+            "paluma"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "défendre",
+                "weight": 1
+              },
+              {
+                "words": "justifier",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "защищать",
+                "weight": 1
+              },
+              {
+                "words": "защитить",
+                "weight": 1
+              },
+              {
+                "words": "отстаивать",
+                "weight": 1
+              },
+              {
+                "words": "отстоять",
+                "weight": 1
+              },
+              {
+                "words": "оправдываться,извиниться,извиняться,извинять,оправдать,оправдывать,оправдаться",
+                "weight": 0.7
+              },
+              {
+                "words": "хлопотать,ходатайствовать,походатайствовать,похлопотать,замолвить слово,замолвить словечко",
+                "weight": 0.9
+              },
+              {
+                "words": "взять под свою защиту,взять под своё покровительство,брать под свою защиту,брать под своё крыло,взять под своё крыло,брать под своё покровительство",
+                "weight": 0.9
+              },
+              {
+                "words": "выступать,выступить",
+                "weight": 0.9
+              },
+              {
+                "words": "заступаться,стоять,постоять,заступиться",
+                "weight": 0.9
+              },
+              {
+                "words": "протежировать,покровительствовать",
+                "weight": 0.9
+              },
+              {
+                "words": "благоволить,покровительствовать,благоприятствовать,протежировать",
+                "weight": 0.9
+              },
+              {
+                "words": "ходатайствовать",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "захищати",
+                "weight": 1
+              },
+              {
+                "words": "захистити",
+                "weight": 1
+              },
+              {
+                "words": "обстоювати",
+                "weight": 1
+              },
+              {
+                "words": "обстояти",
+                "weight": 1
+              },
+              {
+                "words": "виправдатися,виправдовуватися,виправдати,виправдовувати",
+                "weight": 0.7
+              },
+              {
+                "words": "стояти,постояти,заступатися,заступитися",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teadusliku töö seisukohti kraadi või diplomi taotlemiseks avalikult põhjendama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ta kaitses doktoriväitekirja eesti keele alal."
+          ],
+          "synonyms": [
+            "kaitsema",
+            "väitlema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "защищать",
+                "weight": 1
+              },
+              {
+                "words": "защитить",
+                "weight": 1
+              },
+              {
+                "words": "защищать диссертацию,защитить диссертацию",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi nimel spordis võistlema, millegi eest väljas olema",
+          "partOfSpeech": [],
+          "examples": [
+            "Noored kergejõustiklased lähevad tiitlit kaitsma."
+          ],
+          "synonyms": [
+            "kaitsema",
+            "seisma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "защищать",
+                "weight": 1
+              },
+              {
+                "words": "защитить",
+                "weight": 1
+              },
+              {
+                "words": "заступаться,заступиться,стоять,постоять",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "стояти,постояти,заступатися,заступитися",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "väitlema",
+        "soomustama",
+        "kostma",
+        "oma tiiva alla võtma",
+        "välja astuma",
+        "seisma",
+        "turvama",
+        "hoidma",
+        "katma",
+        "säilitama",
+        "säästma",
+        "valvama",
+        "protežeerima",
+        "soosima",
+        "julgestama",
+        "kindlustama",
+        "toetama",
+        "õigustama",
+        "pareerima",
+        "kaitsema",
+        "ära varjama",
+        "ümbritsema",
+        "võitlema",
+        "heitlema",
+        "sõdima",
+        "tõkestama",
+        "hoiduma",
+        "eraldama",
+        "tara",
+        "taplema",
+        "alles",
+        "esindama",
+        "karistama",
+        "ässitama",
+        "hurjutama",
+        "tolereerima",
+        "laiendama",
+        "relvitustama",
+        "täiendama",
+        "vastutama",
+        "mustama",
+        "tarastama",
+        "kahjustama",
+        "innustama",
+        "austama",
+        "saboteerima",
+        "ahistama",
+        "okupeerima",
+        "tugevdama",
+        "kohustama",
+        "ignoreerima",
+        "tõttama",
+        "ründama",
+        "mineerima",
+        "eksitama",
+        "norutama",
+        "ennetama",
+        "hirmutama",
+        "ohustama",
+        "hävitama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kaitsma",
+      "translations": [
+        "advocate",
+        "bulwark",
+        "(kedagi) cover up for",
+        "defend",
+        "forfend",
+        "protect",
+        "stand up for",
+        "stick up for",
+        "vindicate"
+      ]
+    }
+  ]
+}

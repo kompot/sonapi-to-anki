@@ -1,0 +1,71 @@
+{
+  "requestedWord": "võõrsil",
+  "estonianWord": "võõrsil",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "võõrsil"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kodumaast või kodust eemal,mujal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Leedu mängis kodus Šotimaaga viiki ja võõrsil õnnestus neil võita Tšehhit."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на чужбине",
+                "weight": 1
+              },
+              {
+                "words": "за границей",
+                "weight": 1
+              },
+              {
+                "words": "в чужой стороне",
+                "weight": 1
+              },
+              {
+                "words": "в чужих краях",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "piiri taga",
+        "kodusaar",
+        "võõrsile",
+        "võõrsilt",
+        "kodumeeskond"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "võõrsil",
+      "translations": [
+        "abroad"
+      ]
+    }
+  ]
+}

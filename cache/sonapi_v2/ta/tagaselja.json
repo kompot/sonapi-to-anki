@@ -1,0 +1,82 @@
+{
+  "requestedWord": "tagaselja",
+  "estonianWord": "tagaselja",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tagaselja"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mitte avalikult, asjaosalis(t)e juuresoluta või teadmata",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tagaselja langetatud kohtuotsus.",
+            "Ta tegi plaani tagaselja teoks."
+          ],
+          "synonyms": [
+            "seljataga",
+            "selja taga"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "заочно",
+                "weight": 1
+              },
+              {
+                "words": "за глаза",
+                "weight": 1
+              },
+              {
+                "words": "за спиной",
+                "weight": 1
+              },
+              {
+                "words": "заглазно",
+                "weight": 1
+              },
+              {
+                "words": "в отсутствии",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "salaja",
+        "seljataga",
+        "selja taga",
+        "telgi taga",
+        "tagantselja",
+        "poomissurm",
+        "süüdi",
+        "tagaseljaotsus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tagaselja",
+      "translations": [
+        "by default"
+      ]
+    }
+  ]
+}

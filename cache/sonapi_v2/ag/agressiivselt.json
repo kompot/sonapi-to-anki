@@ -1,0 +1,67 @@
+{
+  "requestedWord": "agressiivselt",
+  "estonianWord": "agressiivselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "agressiivselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "агрессивно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "агресивно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ekspressiivselt",
+        "agressiivne",
+        "jõuliselt",
+        "konservatiivselt",
+        "agressiivsus",
+        "sõjakalt",
+        "aktiivselt",
+        "massiivselt",
+        "passiivselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "agressiivselt",
+      "translations": [
+        "aggressively"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,712 @@
+{
+  "requestedWord": "vene",
+  "estonianWord": "vene",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vene"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "Vene"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "venelaste või nende keelega seotud,venelastega seotud",
+          "partOfSpeech": [
+            {
+              "code": "adjg",
+              "value": "omastavaline täiend, genitiivatribuut, täiendsõna"
+            }
+          ],
+          "examples": [
+            "Lasnamäel on mitu vene kooli.",
+            "Ka vene poisid pürivad Eesti kaitseväkke."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "Russian",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "russe",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "русский",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "російський",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "Venemaa",
+        "Vene",
+        "inglise",
+        "saksa",
+        "eesti",
+        "soome",
+        "eestivene"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "vene"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "vene"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "venet"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "venesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "venes"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "venest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "venele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "venel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "venelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "veneks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "veneni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "venena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "veneta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "venega"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "vened"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "venede"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "venesid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "venedesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "venedes"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "venedest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "venedele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "venedel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "venedelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "venedeks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "venedeni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "venedena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "venedeta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "venedega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "endisaegne ühest puust (hrl haavast või paplist) õõnestatud paat, mille küljed on laiali painutatud ja kaartega toestatud",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "paat"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "чёлн",
+                "weight": 1
+              },
+              {
+                "words": "челнок",
+                "weight": 1
+              },
+              {
+                "words": "лодка-однодерёвка",
+                "weight": 1
+              },
+              {
+                "words": "однодерёвка",
+                "weight": 1
+              },
+              {
+                "words": "бударка",
+                "weight": 1
+              },
+              {
+                "words": "чёлн,посудина,бот,лодка,шлюпка",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "barque,canot,bateau",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "човен",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "boat",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ilma kiiluta kaluripaadi kohta, ka paadi kohta üldse)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "лодка",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "julla",
+        "mold",
+        "luup",
+        "ruup",
+        "haabjas",
+        "paat",
+        "küna",
+        "joll",
+        "lootsik",
+        "ruhi",
+        "rump",
+        "rump"
+      ]
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "Vene"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Venemaaga seonduv",
+          "partOfSpeech": [
+            {
+              "code": "adjg",
+              "value": "omastavaline täiend, genitiivatribuut, täiendsõna"
+            }
+          ],
+          "examples": [
+            "Vene orbitaaljaam Mir.",
+            "Arutati Eestis elavate Vene kodanike probleeme."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "российский",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "Venemaa",
+        "vene",
+        "Nõukogude"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "Vene"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "Vene"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "Venet"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "Venesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "Venes"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "Venest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "Venele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "Venel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "Venelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "Veneks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "Veneni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "Venena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "Veneta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "Venega"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "Vened"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "Venede"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "Venesid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "Venedesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "Venedes"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "Venedest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "Venedele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "Venedel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "Venedelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "Venedeks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "Venedeni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "Venedena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "Venedeta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "Venedega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "suur riik Euraasia mandri põhjaosas",
+          "partOfSpeech": [
+            {
+              "code": "prop",
+              "value": "pärisnimi, prooprium"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "Venemaa"
+          ],
+          "translations": {
+            "deu": [
+              {
+                "words": "Russland",
+                "weight": 1
+              }
+            ],
+            "eng": [
+              {
+                "words": "Russia",
+                "weight": 1
+              }
+            ],
+            "fin": [
+              {
+                "words": "Venäjä",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "Russie",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "Россия",
+                "weight": 1
+              },
+              {
+                "words": "Русь",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "Росія",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "varakeskaegne idaslaavi riik 9.–12. sajandil, mille keskuseks oli Kiiev",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [
+            "Kiievi-Vene",
+            "Vana-Vene"
+          ],
+          "translations": {
+            "bel": [
+              {
+                "words": "Кіеўская Русь (Kijeŭskaja Ruś)",
+                "weight": 1
+              }
+            ],
+            "deu": [
+              {
+                "words": "Kiewer Rus",
+                "weight": 1
+              }
+            ],
+            "eng": [
+              {
+                "words": "Kievan Rus'",
+                "weight": 1
+              },
+              {
+                "words": "Kyivan Rus'",
+                "weight": 1
+              }
+            ],
+            "fin": [
+              {
+                "words": "Kiovan Venäjä",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "Rus' de Kiev",
+                "weight": 1
+              },
+              {
+                "words": "Rous de Kiev",
+                "weight": 1
+              },
+              {
+                "words": "Russie kiévienne",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "Киевская Русь",
+                "weight": 1
+              },
+              {
+                "words": "Древняя Русь",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "Київська Русь (Kõjivska Russ)",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vene",
+      "translations": [
+        "Russian"
+      ]
+    }
+  ]
+}

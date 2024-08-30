@@ -1,0 +1,96 @@
+{
+  "requestedWord": "misjaoks",
+  "estonianWord": "misjaoks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "misjaoks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(küsimusena:) mille pärast, mis põhjusel, miks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Misjaoks ma elan?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "почему",
+                "weight": 1
+              },
+              {
+                "words": "зачем",
+                "weight": 1
+              },
+              {
+                "words": "для чего",
+                "weight": 1
+              },
+              {
+                "words": "ради чего",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(retoorilise hüüatusena:) ei tea (küll) miks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Misjaoks vesi peab nii külm olema!"
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "mistarvis",
+        "miks",
+        "miks",
+        "milleks",
+        "mispärast",
+        "miseest",
+        "miskitmoodi",
+        "hirmpalju",
+        "sellejaoks",
+        "ikka",
+        "jaoks",
+        "sõnulseletamatult",
+        "lihtsalt",
+        "tegelikult",
+        "üleüldse",
+        "üldse"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "misjaoks",
+      "translations": [
+        "what for"
+      ]
+    }
+  ]
+}

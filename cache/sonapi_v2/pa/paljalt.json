@@ -1,0 +1,307 @@
+{
+  "requestedWord": "paljalt",
+  "estonianWord": "paljalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "paljalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ilma riieteta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Minu mees magab alati paljalt.",
+            "Paljalt päevitajatele on eraldi rannaosa."
+          ],
+          "synonyms": [
+            "alasti"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "без одежды",
+                "weight": 1
+              },
+              {
+                "words": "в голом виде",
+                "weight": 1
+              },
+              {
+                "words": "голышом",
+                "weight": 1
+              },
+              {
+                "words": "нагишом",
+                "weight": 1
+              },
+              {
+                "words": "голый,нагой,в голом виде,голышом,нагишом",
+                "weight": 0.458
+              }
+            ],
+            "fra": [
+              {
+                "words": "nu",
+                "weight": 0.458
+              }
+            ],
+            "ukr": [
+              {
+                "words": "голий",
+                "weight": 0.458
+              }
+            ],
+            "eng": [
+              {
+                "words": "naked,nude",
+                "weight": 0.458
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kergelt riides, ilma pealis- või soojade rõivasteta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nii paljalt on veel vara välja minna."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в лёгкой одежде",
+                "weight": 1
+              },
+              {
+                "words": "налегке",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ilma katteta, pakendita vms",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "On loomulik, et kaupa ei saa müüa paljalt, tal peab olema ümbris."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "неупакованно",
+                "weight": 1
+              },
+              {
+                "words": "в неупакованном виде",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ilma lisandi(te)ta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mulle meeldib maksavorsti paljalt süüa."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в чистом виде",
+                "weight": 1
+              },
+              {
+                "words": "без примеси",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(muid võimalusi välistavalt:) ainult, üksnes,muud kõrvale või arvestamata jättes,ainult, üksnes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Paljalt õhust ja armastusest ära ei ela.",
+            "Mees rääkis vähe, kuid armuda võis paljalt ta häälde."
+          ],
+          "synonyms": [
+            "ainuüksi",
+            "üksi",
+            "üksipäinis",
+            "üksipäini",
+            "pelgalt",
+            "üksinda",
+            "ükspäinis",
+            "ainuisikuliselt",
+            "ainult,vaid",
+            "üksnes",
+            "ainumalt"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "only",
+                "weight": 1
+              },
+              {
+                "words": "only",
+                "weight": 0.778
+              }
+            ],
+            "fra": [
+              {
+                "words": "seul",
+                "weight": 1
+              },
+              {
+                "words": "seulement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "только",
+                "weight": 1
+              },
+              {
+                "words": "лишь",
+                "weight": 1
+              },
+              {
+                "words": "исключительно",
+                "weight": 1
+              },
+              {
+                "words": "единственно",
+                "weight": 1
+              },
+              {
+                "words": "только лишь",
+                "weight": 1
+              },
+              {
+                "words": "один только",
+                "weight": 1
+              },
+              {
+                "words": "один лишь",
+                "weight": 1
+              },
+              {
+                "words": "единолично",
+                "weight": 0.9
+              },
+              {
+                "words": "только,лишь,лишь бы",
+                "weight": 0.7783
+              },
+              {
+                "words": "только",
+                "weight": 0.778
+              },
+              {
+                "words": "только",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тільки",
+                "weight": 1
+              },
+              {
+                "words": "лише",
+                "weight": 1
+              },
+              {
+                "words": "лиш",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "paljaste kätega",
+        "paljas",
+        "kõigest",
+        "aina",
+        "muudkui",
+        "ükspäinis",
+        "purupaljalt",
+        "alles",
+        "ainult",
+        "ainuüksi",
+        "üksnes",
+        "üksi",
+        "puht",
+        "puht",
+        "kõigest kõike",
+        "vaid",
+        "ainumalt",
+        "puha",
+        "pelgalt",
+        "poolpaljalt",
+        "naljalt",
+        "poolpaljas",
+        "paljajalu",
+        "paljakäsi",
+        "jõledalt",
+        "paljastuhnur",
+        "paljapäi",
+        "paljasvili",
+        "uljalt",
+        "teadjalt",
+        "paljasjalgne",
+        "rõvedalt",
+        "niisama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "paljalt",
+      "translations": [
+        "nakedly"
+      ]
+    }
+  ]
+}

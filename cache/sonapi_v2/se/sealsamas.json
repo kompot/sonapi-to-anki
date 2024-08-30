@@ -1,0 +1,115 @@
+{
+  "requestedWord": "sealsamas",
+  "estonianWord": "sealsamas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sealsamas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selles samas, juba mainitud kohas,seal, selles samas kohas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Elan sealsamas lähedal.",
+            "Sealsamas Urvastes.",
+            "Kohtume sealsamas kus eile.",
+            "Minu maja asub sealsamas kooli taga."
+          ],
+          "synonyms": [
+            "samas"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "au même endroit",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "там же",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "там же",
+                "weight": 1
+              },
+              {
+                "words": "там само",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kohe seejärel, vahetult pärast millegi toimumist",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Üks kunstnik tahtis sealsamas annetada oma maali."
+          ],
+          "synonyms": [
+            "samas"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сразу же",
+                "weight": 1
+              },
+              {
+                "words": "тут же",
+                "weight": 1
+              },
+              {
+                "words": "тотчас же",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "samas",
+        "kribinal-krabinal",
+        "kõrval",
+        "kõrval",
+        "seal",
+        "siinsamas",
+        "ühes",
+        "hiljem",
+        "krabinal"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sealsamas",
+      "translations": [
+        "on the spot"
+      ]
+    }
+  ]
+}

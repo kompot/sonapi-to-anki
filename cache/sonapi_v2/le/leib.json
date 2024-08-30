@@ -1,0 +1,440 @@
+{
+  "requestedWord": "leib",
+  "estonianWord": "leib",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22u",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "leib"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "leiva"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "leiba"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "leiba"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "leivasse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "leivas"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "leivast"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "leivale"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "leival"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "leivalt"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "leivaks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "leivani"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "leivana"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "leivata"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "leivaga"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "leivad"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "leibade"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "leibu,leibasid"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "leibadesse,leivusse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "leibades,leivus"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "leibadest,leivust"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "leibadele,leivule"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "leibadel,leivul"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "leibadelt,leivult"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "leibadeks,leivuks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "leibadeni"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "leibadena"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "leibadeta"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "leibadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Eestis (ja mujal Põhja-Euroopas) peamiselt rukki-, mujal eeskätt nisujahust küpsetatud toit,tume rukkist toit, mida küpsetatakse ahjus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ostsin poest leiba ja saia.",
+            "Ta määris leiva peale võid."
+          ],
+          "synonyms": [
+            "must leib,rukkileib",
+            "leivapäts"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "bread",
+                "weight": 1
+              },
+              {
+                "words": "black bread",
+                "weight": 0.658
+              }
+            ],
+            "fra": [
+              {
+                "words": "pain (noir)",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "хлеб",
+                "weight": 1
+              },
+              {
+                "words": "ржаной хлеб,чёрный хлеб",
+                "weight": 0.658
+              },
+              {
+                "words": "хлеб,буханка хлеба,каравай хлеба,коврига",
+                "weight": 0.561
+              }
+            ],
+            "ukr": [
+              {
+                "words": "хліб",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "leivapätsist lõigatud viil",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Määri leivale võid ka."
+          ],
+          "synonyms": [
+            "leivaviil,leivalõik",
+            "leivakäär"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "кусок хлеба,ломтик хлеба,ломоть хлеба",
+                "weight": 0.597
+              },
+              {
+                "words": "ломоть хлеба,краюха хлеба",
+                "weight": 0.572
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rukis, leivavili",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Leib sai salve.",
+            "Leib varises põllul."
+          ],
+          "synonyms": [
+            "leivavili",
+            "rukis",
+            "rüga"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "хлебные злаки",
+                "weight": 0.7877
+              },
+              {
+                "words": "рожь",
+                "weight": 0.7
+              },
+              {
+                "words": "рожь",
+                "weight": 0.7
+              }
+            ],
+            "lat": [
+              {
+                "words": "Secale cereale,Secale",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "rye",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "toit (üldiselt),elatis, ülalpidamine, sissetulek, teenistus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Eriala, mis annab tööd ja leiba.",
+            "Igapäevase leiva toob lauale tõlketöö.",
+            "Tütar elab vanemate leival."
+          ],
+          "synonyms": [
+            "elatis,elatusvahend",
+            "teenistus",
+            "leivateenistus",
+            "leivapaluke,leivakannikas",
+            "töö"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "хлеб",
+                "weight": 1
+              },
+              {
+                "words": "средства существования,содержание,пропитание,средства к жизни",
+                "weight": 0.7
+              },
+              {
+                "words": "заработок",
+                "weight": 0.9
+              },
+              {
+                "words": "работа,хлеб",
+                "weight": 0.9
+              },
+              {
+                "words": "пропитание,работа,кусок хлеба",
+                "weight": 0.9
+              },
+              {
+                "words": "работа",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "salaire",
+                "weight": 0.9
+              },
+              {
+                "words": "travail",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "заробіток",
+                "weight": 0.9
+              },
+              {
+                "words": "робота",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "rüga",
+        "rukis",
+        "elatis",
+        "vili",
+        "sants",
+        "leivateenistus",
+        "pererahvas",
+        "leivakannikas",
+        "majarahvas",
+        "teenistus",
+        "amet",
+        "töö",
+        "leivaamet",
+        "leivavili",
+        "leibkond",
+        "jumalavili",
+        "pere",
+        "nisuleib",
+        "riivleib",
+        "leivasupp",
+        "rukkileib",
+        "aganaleib",
+        "leivaastja",
+        "einevõileib",
+        "teraleib",
+        "jõululeib",
+        "kiluvõileib",
+        "leivajätk",
+        "vormileib",
+        "leivaküna",
+        "leivakäär",
+        "kartulileib",
+        "võileib",
+        "lihaleib",
+        "leivapäts",
+        "leivapuru",
+        "peenleib",
+        "leivaviil",
+        "näkileib",
+        "pannileib",
+        "maisileib"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "leib",
+      "translations": [
+        "bread"
+      ]
+    }
+  ]
+}

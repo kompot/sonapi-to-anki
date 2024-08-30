@@ -1,0 +1,161 @@
+{
+  "requestedWord": "valdavalt",
+  "estonianWord": "valdavalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "valdavalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "enamikus, suuremalt jaolt,suuremal määral, enamikus",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Müügil on valdavalt ingliskeelne kirjandus.",
+            "Valdavalt islamiusuline maa.",
+            "Homme on valdavalt kuiv ilm."
+          ],
+          "synonyms": [
+            "rõhuvalt",
+            "enamasti,suuremalt jaolt,enamjaolt",
+            "peaasjalikult,peamiselt,pms,põhiliselt,põhimiselt"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "mainly",
+                "weight": 1
+              },
+              {
+                "words": "predominantly",
+                "weight": 1
+              },
+              {
+                "words": "mostly",
+                "weight": 0.8013
+              }
+            ],
+            "fra": [
+              {
+                "words": "essentiellement",
+                "weight": 1
+              },
+              {
+                "words": "principalement",
+                "weight": 1
+              },
+              {
+                "words": "principalement",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "в основном",
+                "weight": 1
+              },
+              {
+                "words": "преимущественно",
+                "weight": 1
+              },
+              {
+                "words": "в большинстве случаев",
+                "weight": 1
+              },
+              {
+                "words": "главным образом",
+                "weight": 1
+              },
+              {
+                "words": "в большинстве,большей частью",
+                "weight": 0.8013
+              },
+              {
+                "words": "в основном,прежде всего,главным образом,преимущественно,по преимуществу,коренным образом,в осн.",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "здебільшого",
+                "weight": 1
+              },
+              {
+                "words": "переважно",
+                "weight": 1
+              },
+              {
+                "words": "головним чином",
+                "weight": 1
+              },
+              {
+                "words": "в основному",
+                "weight": 1
+              },
+              {
+                "words": "здебільшого,переважно",
+                "weight": 0.8013
+              },
+              {
+                "words": "переважно,в основному,здебільшого,головним чином,головно",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "enamjaolt",
+        "enamasti",
+        "suuremalt jaolt",
+        "peamiselt",
+        "seni",
+        "hindavalt",
+        "usaldavalt",
+        "peaasjalikult",
+        "küllaltki",
+        "siiski",
+        "põhiliselt",
+        "jätkuvalt",
+        "eelkõige",
+        "tavaliselt",
+        "suhteliselt",
+        "pigem",
+        "üsna",
+        "eriti",
+        "eranditult",
+        "konservatiivselt",
+        "endiselt",
+        "suureliselt",
+        "üldiselt",
+        "valdav",
+        "väga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "valdavalt",
+      "translations": [
+        "predominantly",
+        "prevailingly",
+        "prevalently"
+      ]
+    }
+  ]
+}

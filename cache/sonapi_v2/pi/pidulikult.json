@@ -1,0 +1,88 @@
+{
+  "requestedWord": "pidulikult",
+  "estonianWord": "pidulikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "pidulikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "solennellement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "торжественно",
+                "weight": 1
+              },
+              {
+                "words": "празднично",
+                "weight": 1
+              },
+              {
+                "words": "по-праздничному",
+                "weight": 1
+              },
+              {
+                "words": "парадно",
+                "weight": 1
+              },
+              {
+                "words": "нарядно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pühalikult",
+        "riietama",
+        "ülevalt",
+        "ülevalt",
+        "troonima",
+        "ehtima",
+        "pühalik",
+        "ülev",
+        "pidulik",
+        "piduline",
+        "pidulikkus",
+        "sümboolselt",
+        "pidulikum"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pidulikult",
+      "translations": [
+        "ceremonially",
+        "festively"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "requestedWord": "tagantjärgi",
+  "estonianWord": "tagantjärgi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tagantjärgi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi toimumisest hiljem, pärastpoole, teatud aja järel,millegi toimumisest hiljem, mingi aja järel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tagantjärgi on selle äparduse peale naljakas mõelda.",
+            "Tagantjärgi mõeldes olid mu kujutelmad väga sarnased sellega, milline oli meie perekond ..",
+            "Muidugi, tagantjärgi vaadates, see, mis järgnevalt juhtus, vaid süvendas tema kahevahelolekut."
+          ],
+          "synonyms": [
+            "tagantjärele",
+            "tagantjärel",
+            "takkajärele",
+            "takkajärgi",
+            "takkatraavi",
+            "tagant järele"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "après coup",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "спустя время",
+                "weight": 1
+              },
+              {
+                "words": "уже после",
+                "weight": 1
+              },
+              {
+                "words": "потом",
+                "weight": 1
+              },
+              {
+                "words": "позднее",
+                "weight": 1
+              },
+              {
+                "words": "позже",
+                "weight": 1
+              },
+              {
+                "words": "по прошествии времени",
+                "weight": 1
+              },
+              {
+                "words": "впоследствии",
+                "weight": 1
+              },
+              {
+                "words": "задним числом",
+                "weight": 1
+              },
+              {
+                "words": "задним умом",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "потім",
+                "weight": 1
+              },
+              {
+                "words": "згодом",
+                "weight": 1
+              },
+              {
+                "words": "пізніше",
+                "weight": 1
+              },
+              {
+                "words": "заднім числом",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ikkagi",
+        "tagantjäreletarkus",
+        "lõpukorral",
+        "sellejaoks",
+        "tõesti",
+        "käigupealt",
+        "ebaõigesti",
+        "päevakohaselt",
+        "takkajärgi",
+        "teinekord",
+        "tegelikult",
+        "tagantjärele",
+        "vahepealt",
+        "siis"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tagantjärgi",
+      "translations": [
+        "afterwards"
+      ]
+    }
+  ]
+}

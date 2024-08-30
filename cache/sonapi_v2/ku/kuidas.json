@@ -1,0 +1,238 @@
+{
+  "requestedWord": "kuidas",
+  "estonianWord": "kuidas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kuidas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "esineb millegi toimumise viisi, olukorra vms täpsustamisel otseses või kaudselt väljendatud küsimuses ning täpsustava lauseosa alguses,mis moel, mis viisil",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kuidas suhtute feminismi?",
+            "Kuidas läheb?",
+            "Neilt on õppida, kuidas elada.",
+            "Tee, kuidas kästud.",
+            "Räägi, kuidas te elate.",
+            "Kuidas sa ennast tunned?",
+            "Kuidas seda teha?",
+            "Räägi, kuidas te elate."
+          ],
+          "synonyms": [
+            "kuis",
+            "kuda",
+            "mis moel,mil viisil,kuidasmoodi,mismoodi,mispidi,mil moel,mis viisil,mil kombel,mis kombel,kuidamoodi,kuidaviisi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "comment",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "как",
+                "weight": 1
+              },
+              {
+                "words": "каким образом,как,как именно,каким путём",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "як",
+                "weight": 1
+              },
+              {
+                "words": "як,яким чином,яким побитом",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(vastuses kellegi küsimusele)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Muidugi, kuidas siis teisiti!",
+            "Kas teeme vaheaja? – Kuidas soovite!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "как",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(nii) nagu, (selliselt) nagu,(niimoodi) nagu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kuidas ema, nõnda tütar.",
+            "Kuidas lükkad, nõnda läheb.",
+            "Jookske kuidas jaksate!",
+            "Tee nii, kuidas sulle öeldud on.",
+            "Ta jooksis, kuidas jõudis."
+          ],
+          "synonyms": [
+            "kuis"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "comme",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "как",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "як",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esineb ebamäärast viisi osutavates väljendites",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Jätsid hüvasti, kes kuidas.",
+            "Õhtul söön kodus kuidas kunagi.",
+            "Nimetagem seda ükskõik kuidas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "как",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rõhutab kõneleja suhtumist, eitavat arvamust või hinnangut",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kuidas ma sain selle ülekohtuga leppida?",
+            "Kuidas sa välja näed!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "как",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tunde, olukorra vm intensiivsuse kohta): kui väga",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kuidas ma sind armastan!",
+            "Kuidas ta ka püüdis, töö jäi ikka lõpetamata.",
+            "Kuidas ta õitses, ta silmad sädelesid!"
+          ],
+          "synonyms": [
+            "kuis"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "как",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "missugune",
+        "kuipalju",
+        "määrane",
+        "mihuke",
+        "mismoodi",
+        "milline",
+        "misuke",
+        "nagu",
+        "kuis",
+        "nii kui",
+        "kuidasmoodi",
+        "mäherdune",
+        "kuivõrd",
+        "niipalju kui",
+        "kui",
+        "kui",
+        "niivõrd kui",
+        "kas",
+        "miks",
+        "miks",
+        "millal"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kuidas",
+      "translations": [
+        "how",
+        "the how"
+      ]
+    }
+  ]
+}

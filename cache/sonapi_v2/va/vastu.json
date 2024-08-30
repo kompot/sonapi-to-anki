@@ -1,0 +1,525 @@
+{
+  "requestedWord": "vastu",
+  "estonianWord": "vastu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vastu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(liikudes, paiknedes) millegi või kellegi poole, suunas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Koer kargas peremehele vastu.",
+            "Köögist hoovab vastu magusat lõhna.",
+            "Hundid ulgusid, koonud vastu taevast."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "навстречу",
+                "weight": 1
+              },
+              {
+                "words": "к",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab saabujale vastuminekule, kellegi vastuvõtmisele",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Mindi lennujaama külalistele vastu.",
+            "Poisid läksid rongi vastu."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "asetuselt esiküljega kellegi või millegi esikülje poole,otse kellegi või millegi ette, otse teisele poole",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Võttis laua äärde isa vastu istet.",
+            "Kino ehitatakse üle tänava kaubamaja vastu.",
+            "Istusin lauda isa vastu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "напротив",
+                "weight": 1
+              },
+              {
+                "words": "против",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(väljendudes, toimides) kelle või mille suhtes, sihiga millegi või kellegi poole,kellegi või millegi suhtes",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Armastus kolme apelsini vastu.",
+            "Orav valmistub talve vastu.",
+            "Õietolmu vastu allergiline.",
+            "Ta oli õpetaja vastu ebaviisakas.",
+            "Mul on tolmu vastu allergia."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "envers",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "к",
+                "weight": 1
+              },
+              {
+                "words": "по отношению к",
+                "weight": 1
+              },
+              {
+                "words": "в отношении к",
+                "weight": 1
+              },
+              {
+                "words": "в отношении",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до",
+                "weight": 1
+              },
+              {
+                "words": "щодо",
+                "weight": 1
+              },
+              {
+                "words": "стосовно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingi liikumise suhtes vastupidises suunas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Ujus vastu voolu.",
+            "Mulle tuli linnas vastu mitu tuttavat.",
+            "Vastu tuult on raske joosta."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "против",
+                "weight": 1
+              },
+              {
+                "words": "навстречу",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "проти",
+                "weight": 1
+              },
+              {
+                "words": "назустріч",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vahetus kokkupuutes kellegagi või millegagi,osutab objektile, millega keegi või miski otsesesse kontakti satub",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Toetas korraks seina vastu.",
+            "Kuulas, kõrv vastu maad.",
+            "Auto sõitis vastu puud.",
+            "Toetasin redeli seina vastu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "contre",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "об",
+                "weight": 1
+              },
+              {
+                "words": "к",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "об",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "на",
+                "weight": 1
+              },
+              {
+                "words": "до",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ühendites löömise, löödud saamise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Õpetaja lõi poisile vastu näppe.",
+            "Tahad vastu muhku saada?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "по",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajalise kokkupuute kohta:) vahetult enne",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Naine jõudis koju vastu hommikut."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "под",
+                "weight": 1
+              },
+              {
+                "words": "к",
+                "weight": 1
+              },
+              {
+                "words": "на",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vastupidiselt, mitte nõustudes kellegagi või millegagi, midagi eitavalt vms,näitab, et sa pole nõus, ei toeta kedagi või midagi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Kes ei ole meie poolt, on meie vastu.",
+            "Kaalus argumente poolt ja vastu.",
+            "Tüdruk abiellus vastu vanemate tahtmist.",
+            "Ma ei ole poolt ega vastu, olen erapooletu.",
+            "Komisjon hääletas ettepaneku vastu.",
+            "Ta abiellus vastu vanemate tahtmist."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "contre",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "против",
+                "weight": 1
+              },
+              {
+                "words": "вопреки",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "проти",
+                "weight": 1
+              },
+              {
+                "words": "всупереч",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vältimaks või eemaldamaks midagi,osutab sellele, keda või mida tahetakse vältida või kõrvaldada",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Tablett peavalu vastu.",
+            "Rottide vastu aitab ainult mürk.",
+            "Võtsin peavalu vastu tableti."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "contre",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "против",
+                "weight": 1
+              },
+              {
+                "words": "от",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "проти",
+                "weight": 1
+              },
+              {
+                "words": "від",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(võrdlusena, reageeringuna:) vastuseks, vastukaaluks, vastukajana",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Eestlased said kolm esikohta soomlaste kahe vastu.",
+            "Bridžis ei saa talle keegi vastu.",
+            "Hea sõna eest lajatati ainult sõimu vastu.",
+            "Kirjuta mulle vastu!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в ответ",
+                "weight": 1
+              },
+              {
+                "words": "в противовес",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tasu, tagatise vms ühenduses:) eest",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Andsin kümne krooni vastu kella pandiks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "взамен",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pihta",
+        "vaatamata",
+        "komistama",
+        "naaldama",
+        "panema",
+        "tulema",
+        "tulema",
+        "tulema",
+        "najatama",
+        "pressima",
+        "toetama",
+        "pistma",
+        "tõstma",
+        "kinni",
+        "vastas",
+        "litsuma",
+        "ligi panema",
+        "juurde",
+        "pigistama",
+        "vastupidi",
+        "torkama",
+        "suruma",
+        "eitama",
+        "peale minema",
+        "hoolimata",
+        "asemele",
+        "nõjatama",
+        "peale",
+        "otsa",
+        "kokku vajutama",
+        "ära",
+        "ära",
+        "vastuvaidlematu",
+        "vastuvaidlemata",
+        "suhtes",
+        "suhtes",
+        "vastutahtmist",
+        "vastumäge",
+        "vastuhagi",
+        "huvi",
+        "vastuhelk",
+        "vastasrind"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vastu",
+      "translations": [
+        "against",
+        "con",
+        "contrary to",
+        "counter to",
+        "in return",
+        "therefor",
+        "vs"
+      ]
+    }
+  ]
+}

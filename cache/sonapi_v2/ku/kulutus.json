@@ -1,0 +1,332 @@
+{
+  "requestedWord": "kulutus",
+  "estonianWord": "kulutus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kulutus"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kulutuse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kulutust"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "kulutusse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kulutusesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kulutuses"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kulutusest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kulutusele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kulutusel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kulutuselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kulutuseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kulutuseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kulutusena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kulutuseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kulutusega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kulutused"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kulutuste"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kulutusi"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kulutustesse,kulutusisse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kulutustes,kulutusis"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kulutustest,kulutusist"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kulutustele,kulutusile"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kulutustel,kulutusil"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kulutustelt,kulutusilt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kulutusteks,kulutusiks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kulutusteni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kulutustena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kulutusteta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kulutustega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millelegi kuluv rahasumma, rahaline kulu,rahasumma, mida millegi jaoks kasutatakse",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kulutusi tuleb teha nii tarkvara soetamiseks kui ka vanade masinate kõpitsemiseks.",
+            "Kulutused järjest kasvavad.",
+            "Tervishoiukulutused.",
+            "Ehitus nõudis suuri kulutusi."
+          ],
+          "synonyms": [
+            "väljaminek",
+            "kulu,kulud",
+            "rahakulutus",
+            "rahakulu"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "spending",
+                "weight": 1
+              },
+              {
+                "words": "expense,expenditure",
+                "weight": 0.8202
+              }
+            ],
+            "fra": [
+              {
+                "words": "dépense",
+                "weight": 1
+              },
+              {
+                "words": "dépense,frais",
+                "weight": 0.8202
+              },
+              {
+                "words": "dépense",
+                "weight": 0.8347
+              }
+            ],
+            "rus": [
+              {
+                "words": "расход",
+                "weight": 1
+              },
+              {
+                "words": "издержки",
+                "weight": 1
+              },
+              {
+                "words": "затрата",
+                "weight": 1
+              },
+              {
+                "words": "трата",
+                "weight": 1
+              },
+              {
+                "words": "расходование",
+                "weight": 1
+              },
+              {
+                "words": "расход,издержка",
+                "weight": 0.8202
+              },
+              {
+                "words": "расход,издержки,затрата,трата,потребление",
+                "weight": 0.8347
+              },
+              {
+                "words": "трата денег,расход денег",
+                "weight": 0.741
+              },
+              {
+                "words": "трата денег,расход денег",
+                "weight": 0.624
+              }
+            ],
+            "ukr": [
+              {
+                "words": "витрата",
+                "weight": 1
+              },
+              {
+                "words": "витрати",
+                "weight": 1
+              },
+              {
+                "words": "видаток",
+                "weight": 1
+              },
+              {
+                "words": "затрати",
+                "weight": 1
+              },
+              {
+                "words": "витрата,витрати,видаток,затрати",
+                "weight": 0.8202
+              },
+              {
+                "words": "затрати,витрата,витрати,видаток",
+                "weight": 0.8347
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "rahasumma",
+        "väljaminek",
+        "kulu",
+        "tarvitus",
+        "kulum",
+        "kulunorm",
+        "rahakulutus",
+        "jääkulutus",
+        "kulueelarve",
+        "lisakulutus",
+        "kuluartikkel",
+        "rahakulu",
+        "kuluaar",
+        "kuluallikas",
+        "kulumus",
+        "kulubaas",
+        "kulu",
+        "kulu",
+        "kulu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kulutus",
+      "translations": [
+        "abrasion",
+        "spending"
+      ]
+    }
+  ]
+}

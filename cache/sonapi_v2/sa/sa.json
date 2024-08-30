@@ -1,0 +1,551 @@
+{
+  "requestedWord": "sa",
+  "estonianWord": "sa",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "00",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "sa"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "su"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "sind"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "susse"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "sus"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "sust"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "sulle"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "sul"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "sult"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "suga"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "te"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "te"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "teid"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "teisse"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "teis"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "teist"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "teile"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "teil"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "teilt"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "teiks"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "-"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sõna, millega kõneleja osutab kuulajale, sellele, kellega räägitakse (kes sageli on kõneleja hea tuttav),viitab kuulajale, kellega räägitakse",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Miks sa ei julge oma nime alla kirjutada?",
+            "Sul on õigus.",
+            "Kus sa töötad?",
+            "Ma tulen sulle homme külla."
+          ],
+          "synonyms": [
+            "sina"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ты",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ти",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "märgib määratlemata isikut või mõnikord kõnelejat ennast",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Kunagi ei tea, kuidas keegi su sõnu interpreteerib.",
+            "Kuidas sa ei võta haiget last sülle, kui ta seda tahab."
+          ],
+          "synonyms": [
+            "sina"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ты",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tähendus tuhmunud)",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Oh sa pagan, kui külm vesi!",
+            "Mine sa tea."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "sina",
+        "sina",
+        "ta",
+        "Te",
+        "f",
+        "f",
+        "et",
+        "et",
+        "No",
+        "no",
+        "oo",
+        "ei",
+        "ei",
+        "b",
+        "b",
+        "ka",
+        "da",
+        "At",
+        "me",
+        "v",
+        "r",
+        "r",
+        "te",
+        "ma",
+        "ja",
+        "ju",
+        "me",
+        "r"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "26",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "SA"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "SA"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "SA-d"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "SA"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "SA-sse"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "SA-s"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "SA-st"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "SA-le"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "SA-l"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "SA-lt"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "SA-ks"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "SA-ni"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "SA-na"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "SA-ta"
+        },
+        {
+          "inflectionType": "26",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "SA-ga"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "SA-d"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "SA-de"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "SA-sid"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "SA-desse"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "SA-des"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "SA-dest"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "SA-dele"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "SA-del"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "SA-delt"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "SA-deks"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "SA-deni"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "SA-dena"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "SA-deta"
+        },
+        {
+          "inflectionType": "26",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "SA-dega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "organisatsioon, mis on asutatud selleks, et kedagi või midagi rahaliselt toetada,ühiskondlik asutus, mis korraldab raha andmist teatud kindlal eesmärgil, näiteks teaduslikeks uuringuteks või heategevuseks",
+          "partOfSpeech": [],
+          "examples": [
+            "SA Pokumaa.",
+            "SA Eesti Rahvuskultuuri Fond.",
+            "Alates maist 2020 saavad SA-st Keskkonnainvesteeringute Keskus küsida toetust eraisikud, kelle majapidamine asub alla 2000 tarbijaga reoveekogumisalal."
+          ],
+          "synonyms": [
+            "sihtasutus"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "fondation",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "целевое учреждение",
+                "weight": 1
+              },
+              {
+                "words": "фонд",
+                "weight": 1
+              },
+              {
+                "words": "ЦУ",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "цільова установа",
+                "weight": 1
+              },
+              {
+                "words": "фонд",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "r",
+        "r",
+        "G",
+        "as",
+        "fr",
+        "et",
+        "et",
+        "OÜ",
+        "°R",
+        "b",
+        "b",
+        "TV",
+        "z",
+        "y",
+        "y",
+        "q",
+        "AS",
+        "dr",
+        "P",
+        "F",
+        "r"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sa",
+      "translations": [
+        "thou (van. tuttavlikum kui you)",
+        "you"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "requestedWord": "lokkis",
+  "estonianWord": "lokkis",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "lokkis"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "juuste kohta: mitte sirged, laine moodi,laines või ruljalt kõveras",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Lokkis juuksed.",
+            "Koeral on karvad lokkis ja saba selja peal rõngas.",
+            "Tal on lokkis juuksed."
+          ],
+          "synonyms": [
+            "lokiline",
+            "säbrus,säbrune,säbruline,krässus,kräsuline,kräsune,kräsus,kähar,säbar,säbarik,säbrik",
+            "lokkisjuukseline,lokkispäine",
+            "kahupäine",
+            "käharpäine",
+            "kräsupäine,kräsupealine"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "bouclé",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "завитой",
+                "weight": 1
+              },
+              {
+                "words": "завитый",
+                "weight": 1
+              },
+              {
+                "words": "вьющийся",
+                "weight": 1
+              },
+              {
+                "words": "кудрявый",
+                "weight": 1
+              },
+              {
+                "words": "кучерявый",
+                "weight": 1
+              },
+              {
+                "words": "волнистый,кучерявый,вьющийся,курчавый,кудрявый",
+                "weight": 0.9
+              },
+              {
+                "words": "с завитыми волосами,кудрявый,с волнистыми волосами,с завитушками,кучерявый,курчавый,с вьющимися волосами",
+                "weight": 0.8323
+              },
+              {
+                "words": "курчавый,кудрявый,пышноволосый,кучерявый",
+                "weight": 0.9
+              },
+              {
+                "words": "кудрявый,кучерявый,курчавый,курчавоволосый",
+                "weight": 0.9
+              },
+              {
+                "words": "курчавый",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "кучерявий",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lokkispäine",
+        "kimar",
+        "kahupäine",
+        "krussis",
+        "kahar",
+        "kräsupealine",
+        "käharpäine",
+        "kräsune",
+        "kräsu",
+        "säbar",
+        "säbruline",
+        "lokiline",
+        "säbrus",
+        "krässus",
+        "lokkisjuukseline",
+        "kahus",
+        "kahune",
+        "kräsuline",
+        "kähar",
+        "keerdus",
+        "lokki",
+        "lokk",
+        "lokk",
+        "jokkis",
+        "sokkis",
+        "juuksepahmakas",
+        "juuksed"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lokkis",
+      "translations": [
+        "curled",
+        "curling",
+        "curly"
+      ]
+    }
+  ]
+}

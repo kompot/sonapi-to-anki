@@ -1,0 +1,85 @@
+{
+  "requestedWord": "aegu",
+  "estonianWord": "aegu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "aegu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(ligikaudu) mingil ajal",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Esimese lume aegu.",
+            "Päikesetõusu aegu on kõige külmem."
+          ],
+          "synonyms": [
+            "ajal"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "во время",
+                "weight": 1
+              },
+              {
+                "words": "во время",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "pendant",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "під час",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "during",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ajal",
+        "ringis",
+        "ümber",
+        "paiku",
+        "eel",
+        "mäletamisi",
+        "aeg",
+        "aegus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "aegu",
+      "translations": []
+    }
+  ]
+}

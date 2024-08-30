@@ -1,0 +1,254 @@
+{
+  "requestedWord": "keskel",
+  "estonianWord": "keskel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "keskel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingi ala, koha keskkohas,mingi koha keskmises osas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Pikemad poisid seisid keskel, lühemad äärtel.",
+            "Lauluväljaku keskel asuv kõrgemale tõstetud piiratud ala on mõeldud VIP-idele.",
+            "Toa keskel on laud.",
+            "Surnuaed asub linna keskel.",
+            "Koer istub ringi keskel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "au milieu de",
+                "weight": 1
+              },
+              {
+                "words": "au centre de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "посреди",
+                "weight": 1
+              },
+              {
+                "words": "посередине",
+                "weight": 1
+              },
+              {
+                "words": "посредине",
+                "weight": 1
+              },
+              {
+                "words": "в центре",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "посередині",
+                "weight": 1
+              },
+              {
+                "words": "в центрі",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millestki, kellestki ümbritsetuna",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Üritab olla otse sündmuste keskel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в центре",
+                "weight": 1
+              },
+              {
+                "words": "посреди",
+                "weight": 1
+              },
+              {
+                "words": "посередине",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi hulgas, kellegagi koos, seas,kellegi seltskonnas, kellegagi koos",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Veetsin pühapäeva perekonna keskel.",
+            "Jõulud veedan pere keskel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "au milieu de",
+                "weight": 1
+              },
+              {
+                "words": "parmi",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "среди",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "серед",
+                "weight": 1
+              },
+              {
+                "words": "посеред",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajaliselt:) millegi keskpaigas,mingi ajavahemiku keskmises osas",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "See juhtus möödunud sajandi keskel.",
+            "Augusti keskel läks vihmale.",
+            "Nädala keskel hakkab sadama.",
+            "See juhtus möödunud sajandi keskel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "au milieu de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "посреди",
+                "weight": 1
+              },
+              {
+                "words": "посередине",
+                "weight": 1
+              },
+              {
+                "words": "посредине",
+                "weight": 1
+              },
+              {
+                "words": "среди",
+                "weight": 1
+              },
+              {
+                "words": "в середине",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "посередині",
+                "weight": 1
+              },
+              {
+                "words": "серед",
+                "weight": 1
+              },
+              {
+                "words": "в середині",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kesk",
+        "kesk",
+        "ajaliselt",
+        "keskpaiku",
+        "killas",
+        "seas",
+        "mestis",
+        "kirjas",
+        "seltsis",
+        "hulgas",
+        "keset",
+        "kambas",
+        "algul",
+        "alguses",
+        "lõpusilp",
+        "keskele",
+        "lõpupool",
+        "lõpusepilu",
+        "lõpupoole",
+        "lõpus",
+        "keskelt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "keskel",
+      "translations": [
+        "amid",
+        "amidship",
+        "amidships",
+        "among",
+        "amongst",
+        "centrally",
+        "in the middle",
+        "middle",
+        "midst"
+      ]
+    }
+  ]
+}

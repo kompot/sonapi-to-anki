@@ -1,0 +1,127 @@
+{
+  "requestedWord": "üheselt",
+  "estonianWord": "üheselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "üheselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ühel võimalikul viisil,ühesuguselt, üht viisi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Üheselt mõistetav avaldus."
+          ],
+          "synonyms": [
+            "üheti",
+            "ühtemoodi,ühteviisi,ühtmoodi,ühtviisi,ühte moodi,ühte viisi",
+            "ühetasa"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "однозначно",
+                "weight": 1
+              },
+              {
+                "words": "одинаково",
+                "weight": 1
+              },
+              {
+                "words": "недвусмысленно",
+                "weight": 1
+              },
+              {
+                "words": "равным образом",
+                "weight": 1
+              },
+              {
+                "words": "на равных правах,одинаково,в равной степени,сходно,в равной мере,так же,равно,равным образом,похоже",
+                "weight": 0.9
+              },
+              {
+                "words": "поровну,одинаково,вровень",
+                "weight": 0.561
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ühe aasta vanusena",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Põngerjas päterdas käia juba üheselt."
+          ],
+          "synonyms": [
+            "aastaselt",
+            "üheaastaselt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "в возрасте одного года",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "üheti",
+        "ühte moodi",
+        "ühtepidi",
+        "ühte pidi",
+        "ühtviisi",
+        "ühtmoodi",
+        "väheselt",
+        "selge",
+        "lõplikult",
+        "ühemõtteliselt",
+        "siiski",
+        "kaheselt",
+        "tõepäraselt",
+        "täpselt",
+        "otseselt",
+        "mõistetav",
+        "üksüheselt",
+        "selgelt",
+        "mõistetavalt",
+        "keeruliselt",
+        "selgepiiriliselt",
+        "arusaadavalt",
+        "ammendavalt",
+        "üldiselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "üheselt",
+      "translations": [
+        "unambiguously",
+        "uniquely"
+      ]
+    }
+  ]
+}

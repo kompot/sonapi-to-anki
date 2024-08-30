@@ -1,0 +1,183 @@
+{
+  "requestedWord": "kaudu",
+  "estonianWord": "kaudu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kaudu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingist kohast läbi (kuhugi minemisel, siirdumisel, kulgemisel),mingist kohast läbi",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "See buss sõidab Tartusse Paide kaudu.",
+            "Sisenes tagaukse kaudu.",
+            "Läksime teist teed kaudu.",
+            "Varas sisenes majja akna kaudu.",
+            "Sõidame linna kaudu, käime kirikust läbi.",
+            "Jalutasin pargi kaudu koju tagasi.",
+            "Tallinnast saab Londonisse lennata näiteks Helsingi kaudu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "par",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "по",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "по",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi abil või millegi vahendusel,kellegi abil või millegi vahendusel",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Sai tutvuse kaudu soodsa tööotsa.",
+            "Jutt läks laste kaudu laiali.",
+            "Ta sai selle töö tutvuste kaudu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "par",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "по",
+                "weight": 1
+              },
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "посредством",
+                "weight": 1
+              },
+              {
+                "words": "путём",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "за допомогою",
+                "weight": 1
+              },
+              {
+                "words": "шляхом",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "по",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(eemalt, ringiga) mööda",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kaudu käies seda asja ei lahenda."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "kombel",
+        "kaudselt",
+        "viisil",
+        "läbi lillede",
+        "pidi",
+        "teel",
+        "korras",
+        "korras",
+        "riivamisi",
+        "moel",
+        "moodi",
+        "mööda",
+        "vihjamisi",
+        "mõistu",
+        "abil",
+        "varal",
+        "najal",
+        "vahel",
+        "toel",
+        "vahendusel",
+        "kaudkõne",
+        "kaude",
+        "kustkaudu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kaudu",
+      "translations": [
+        "by",
+        "c/o",
+        "care of",
+        "via"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "requestedWord": "tahk",
+  "estonianWord": "tahk",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "tahk"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "tahu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "tahku"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "tahku"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "tahusse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "tahus"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "tahust"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "tahule"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "tahul"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "tahult"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "tahuks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "tahuni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "tahuna"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "tahuta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "tahuga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "tahud"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "tahkude"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "tahke,tahkusid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "tahkudesse,tahesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "tahkudes,tahes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "tahkudest,tahest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "tahkudele,tahele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "tahkudel,tahel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "tahkudelt,tahelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "tahkudeks,taheks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "tahkudeni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "tahkudena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "tahkudeta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "tahkudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nähtus teatavast vaatepunktist vaadatuna, nähtuse üks külgi",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Raamat tutvustab kalurite elu eri tahke.",
+            "Fotod avavad jahipidamisest uusi tahke.",
+            "Töötusel on mitu eri tahku."
+          ],
+          "synonyms": [
+            "aspekt",
+            "serv",
+            "kant",
+            "külg"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "грань",
+                "weight": 1
+              },
+              {
+                "words": "сторона",
+                "weight": 1
+              },
+              {
+                "words": "аспект",
+                "weight": 1
+              },
+              {
+                "words": "аспект,точка зрения",
+                "weight": 0.9
+              },
+              {
+                "words": "сторона",
+                "weight": 0.85
+              },
+              {
+                "words": "сторона",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "aspect,côté",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "бік,сторона",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "eseme sile külgpind (hrl ühena samalaadsetest),tahutud külgpind (nt palgil)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Monokristalli lihtvormi kõik tahud on ühesuguse kuju ja suurusega."
+          ],
+          "synonyms": [
+            "kant"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "грань",
+                "weight": 1
+              },
+              {
+                "words": "фаска",
+                "weight": 1
+              },
+              {
+                "words": "грань",
+                "weight": 0.85
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "aspekt",
+        "tahukivi",
+        "ihumiskivi",
+        "kant",
+        "haru",
+        "luisk",
+        "kõvasi",
+        "luisukivi",
+        "külg",
+        "nõlv",
+        "nõlvak",
+        "veer",
+        "veer",
+        "kallak",
+        "kalle",
+        "käi",
+        "piir",
+        "piir",
+        "serv",
+        "serv",
+        "raja",
+        "rajad",
+        "kallakus",
+        "masinlik",
+        "tasand",
+        "skemaatiline",
+        "tunnetusteoreetiline",
+        "kristalne",
+        "tahke",
+        "tahkis",
+        "tahukas",
+        "kirjandusteoreetiline",
+        "tahkus"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "tahk"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "tahu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "tahku"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "tahku"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "tahusse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "tahus"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "tahust"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "tahule"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "tahul"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "tahult"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "tahuks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "tahuni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "tahuna"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "tahuta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "tahuga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "tahud"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "tahkude"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "tahke,tahkusid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "tahkudesse,tahesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "tahkudes,tahes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "tahkudest,tahest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "tahkudele,tahele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "tahkudel,tahel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "tahkudelt,tahelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "tahkudeks,taheks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "tahkudeni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "tahkudena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "tahkudeta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "tahkudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kõvast liivakivist vahend lõikeriistade, nt kirve, noa teritamiseks, käia eelkäija",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "kõvasi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "брусок",
+                "weight": 1
+              },
+              {
+                "words": "оселок",
+                "weight": 1
+              },
+              {
+                "words": "точило",
+                "weight": 1
+              },
+              {
+                "words": "точильный камень",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "aspekt",
+        "tahukivi",
+        "ihumiskivi",
+        "kant",
+        "haru",
+        "luisk",
+        "kõvasi",
+        "luisukivi",
+        "külg",
+        "nõlv",
+        "nõlvak",
+        "veer",
+        "veer",
+        "kallak",
+        "kalle",
+        "käi",
+        "piir",
+        "piir",
+        "serv",
+        "serv",
+        "raja",
+        "rajad",
+        "kallakus",
+        "masinlik",
+        "tasand",
+        "skemaatiline",
+        "tunnetusteoreetiline",
+        "kristalne",
+        "tahke",
+        "tahkis",
+        "tahukas",
+        "kirjandusteoreetiline",
+        "tahkus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tahk",
+      "translations": [
+        "facet",
+        "pane"
+      ]
+    }
+  ]
+}

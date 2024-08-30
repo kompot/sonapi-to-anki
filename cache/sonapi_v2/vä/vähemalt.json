@@ -1,0 +1,213 @@
+{
+  "requestedWord": "vähemalt",
+  "estonianWord": "vähemalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vähemalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(ligikaudse hulga suurust rõhutades:) mitte vähem kui, vähemalt (kui mitte rohkemgi),mitte vähem kui",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõndisime vähemalt viis kilomeetrit.",
+            "Kontserdil oli vähemalt 400 inimest.",
+            "Film kestab vähemalt kaks tundi."
+          ],
+          "synonyms": [
+            "tublisti",
+            "kõvasti",
+            "oma",
+            "vähemasti",
+            "üks"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "at least",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "au moins",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "по меньшей мере",
+                "weight": 1
+              },
+              {
+                "words": "не меньше чем",
+                "weight": 1
+              },
+              {
+                "words": "не менее чем",
+                "weight": 1
+              },
+              {
+                "words": "по крайней мере",
+                "weight": 1
+              },
+              {
+                "words": "целых",
+                "weight": 1
+              },
+              {
+                "words": "добрых",
+                "weight": 1
+              },
+              {
+                "words": "с,примерно,приблизительно,почти",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "щонайменше",
+                "weight": 1
+              },
+              {
+                "words": "принаймні",
+                "weight": 1
+              },
+              {
+                "words": "не менше ніж",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(öeldavat kinnitades, rõhutades:) igatahes,igal juhul, igatahes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Vähemalt nii väidab restorani omanik.",
+            "Raamat oli huvitav, vähemalt minule küll meeldis.",
+            "Hea vähemalt, et ei saja."
+          ],
+          "synonyms": [
+            "vähemasti"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "at least",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "du moins",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "во всяком случае",
+                "weight": 1
+              },
+              {
+                "words": "хотя бы",
+                "weight": 1
+              },
+              {
+                "words": "хоть",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "принаймні",
+                "weight": 1
+              },
+              {
+                "words": "в усякому разі",
+                "weight": 1
+              },
+              {
+                "words": "хоч",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vähemasti",
+        "maksimaalselt",
+        "keskmiselt",
+        "kümme",
+        "minimaalselt",
+        "neli",
+        "paar",
+        "paar",
+        "juba",
+        "vaid",
+        "umbes",
+        "umbes",
+        "tavaliselt",
+        "kaheksa",
+        "rohkem",
+        "rohkem",
+        "olema",
+        "isegi",
+        "iga",
+        "iga",
+        "veel",
+        "ligikaudu",
+        "kolm",
+        "ikka",
+        "küll",
+        "küll",
+        "seitse",
+        "koguni",
+        "kasvõi",
+        "korraga",
+        "mitu",
+        "kaks",
+        "kuni",
+        "peaaegu",
+        "ligi",
+        "vähem",
+        "vähem",
+        "ainult",
+        "umbestäpselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vähemalt",
+      "translations": [
+        "at any rate",
+        "at least",
+        "(või) leastways",
+        "no less than"
+      ]
+    }
+  ]
+}

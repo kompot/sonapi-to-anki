@@ -1,0 +1,250 @@
+{
+  "requestedWord": "järjestikune",
+  "estonianWord": "järjestikune",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "10",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "järjestikune"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "järjestikuse"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "järjestikust"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "järjestikusesse"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "järjestikuses"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "järjestikusest"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "järjestikusele"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "järjestikusel"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "järjestikuselt"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "järjestikuseks"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "järjestikuseni"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "järjestikusena"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "järjestikuseta"
+        },
+        {
+          "inflectionType": "10",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "järjestikusega"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "järjestikused"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "järjestikuste"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "järjestikuseid"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "järjestikustesse,järjestikuseisse"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "järjestikustes,järjestikuseis"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "järjestikustest,järjestikuseist"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "järjestikustele,järjestikuseile"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "järjestikustel,järjestikuseil"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "järjestikustelt,järjestikuseilt"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "järjestikusteks,järjestikuseiks"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "järjestikusteni"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "järjestikustena"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "järjestikusteta"
+        },
+        {
+          "inflectionType": "10",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "järjestikustega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ridamisi või järjestikku esinev, asetsev või toimuv",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "See oli viies järjestikune penalti.",
+            "Algul projekteeris arhitekt sinna kolm järjestikust hoonet."
+          ],
+          "synonyms": [
+            "seriaalne",
+            "järjestikku",
+            "suktsessiivne"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "последовательный",
+                "weight": 1
+              },
+              {
+                "words": "последовательный",
+                "weight": 0.9
+              },
+              {
+                "words": "в последовательном порядке,последовательно,сряду,подряд,друг за другом",
+                "weight": 0.542
+              },
+              {
+                "words": "сукцессивный,последовательный",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "suktsessiivne",
+        "seriaalne",
+        "järjestikku",
+        "kolmas",
+        "üheksas",
+        "seitsmes",
+        "järjestik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "järjestikune",
+      "translations": [
+        "back-to-back",
+        "concatenate",
+        "consecutive",
+        "sequential",
+        "serial"
+      ]
+    }
+  ]
+}

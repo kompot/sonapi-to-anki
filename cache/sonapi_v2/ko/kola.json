@@ -1,0 +1,614 @@
+{
+  "requestedWord": "kola",
+  "estonianWord": "kola",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kola"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kola"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kola"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kolasse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kolas"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kolast"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kolale"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kolal"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kolalt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kolaks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kolani"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kolana"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kolata"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kolaga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kolad"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kolade"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kolasid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "koladesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kolades"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "koladest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "koladele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "koladel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "koladelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "koladeks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "koladeni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "koladena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "koladeta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "koladega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vana, hrl kasutu või katkine asi,sellised asjad kogumina, tarbetu kraam",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kraamisin oma kola taskutest välja.",
+            "Metallikola.",
+            "Arvutikola."
+          ],
+          "synonyms": [
+            "koli",
+            "kolu",
+            "kila-kola,kolu-kalu,kilu-kolu,kili-koli",
+            "pudi-padi,pudipadi",
+            "pudi",
+            "trään,träni,träna"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "хлам",
+                "weight": 1
+              },
+              {
+                "words": "барахло",
+                "weight": 1
+              },
+              {
+                "words": "старьё",
+                "weight": 1
+              },
+              {
+                "words": "рухлядь",
+                "weight": 1
+              },
+              {
+                "words": "манатки",
+                "weight": 1
+              },
+              {
+                "words": "шмотки",
+                "weight": 1
+              },
+              {
+                "words": "хлам,старьё,пожитки,скарб,рухлядь",
+                "weight": 0.9
+              },
+              {
+                "words": "всякая всячина,разная мелочь,разная всячина",
+                "weight": 0.419
+              },
+              {
+                "words": "дрянь,пожитки,хлам,скарб,барахло,добро",
+                "weight": 0.7373
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kili-koli",
+        "padajann",
+        "rämps",
+        "modru",
+        "kolu",
+        "koli",
+        "träni",
+        "kila-kola",
+        "trään",
+        "kodinad",
+        "rauakola",
+        "kolin",
+        "lokulaud",
+        "kilin-kolin",
+        "kolu",
+        "lokk",
+        "lokk",
+        "komu",
+        "komu",
+        "kolaki",
+        "rukola"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "17",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kola"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kola"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kola"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kolasse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kolas"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kolast"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kolale"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kolal"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kolalt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kolaks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kolani"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kolana"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kolata"
+        },
+        {
+          "inflectionType": "17",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kolaga"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kolad"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kolade"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kolasid"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "koladesse"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kolades"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "koladest"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "koladele"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "koladel"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "koladelt"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "koladeks"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "koladeni"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "koladena"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "koladeta"
+        },
+        {
+          "inflectionType": "17",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "koladega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi kõva, metalsega kokkupuutumisel tekkiv (tugev) keskmise kõrgusega heli või müra",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ta tuli suure müra ja kolaga trepist alla."
+          ],
+          "synonyms": [
+            "kolin",
+            "müra"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "стук",
+                "weight": 1
+              },
+              {
+                "words": "грохот",
+                "weight": 1
+              },
+              {
+                "words": "грохотанье",
+                "weight": 1
+              },
+              {
+                "words": "стукотня",
+                "weight": 1
+              },
+              {
+                "words": "бряканье",
+                "weight": 1
+              },
+              {
+                "words": "тарахтение",
+                "weight": 1
+              },
+              {
+                "words": "стучание",
+                "weight": 1
+              },
+              {
+                "words": "шум",
+                "weight": 1
+              },
+              {
+                "words": "побрякивание",
+                "weight": 1
+              },
+              {
+                "words": "громыханье",
+                "weight": 1
+              },
+              {
+                "words": "гул,шум,помеха,грохот,рокот",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "bruit",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "шум",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kili-koli",
+        "padajann",
+        "kolin",
+        "lokulaud",
+        "rämps",
+        "kilin-kolin",
+        "modru",
+        "kolu",
+        "kolu",
+        "koli",
+        "lokk",
+        "lokk",
+        "träni",
+        "kila-kola",
+        "komu",
+        "komu",
+        "trään",
+        "kodinad",
+        "kolaki",
+        "rukola",
+        "rauakola"
+      ]
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "poolsaar Põhja-Euroopas Venemaal, Barentsi mere ja Valge mere vahel",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [
+            "Koola poolsaar",
+            "Koola"
+          ],
+          "translations": {
+            "deu": [
+              {
+                "words": "Halbinsel Kola",
+                "weight": 1
+              }
+            ],
+            "eng": [
+              {
+                "words": "Kola Peninsula",
+                "weight": 1
+              }
+            ],
+            "fin": [
+              {
+                "words": "Kuolan niemimaa",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "péninsule de Kola",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "Кольский полуостров",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kola",
+      "translations": [
+        "junk"
+      ]
+    }
+  ]
+}

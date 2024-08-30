@@ -1,0 +1,119 @@
+{
+  "requestedWord": "ajutiselt",
+  "estonianWord": "ajutiselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ajutiselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mõnda aega, mittepüsivalt,mõneks ajaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tormi tõttu peatati ajutiselt laevaliiklus.",
+            "Üliõpilasena elasin ajutiselt venna juures.",
+            "Ta elab ajutiselt onu juures."
+          ],
+          "synonyms": [
+            "korra,korraks,natukeseks,hetkeks,viivuks",
+            "lühiajaliselt"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "temporarily",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "provisoirement",
+                "weight": 1
+              },
+              {
+                "words": "temporairement",
+                "weight": 1
+              },
+              {
+                "words": "un moment,un instant,brièvement",
+                "weight": 0.441
+              }
+            ],
+            "rus": [
+              {
+                "words": "временно",
+                "weight": 1
+              },
+              {
+                "words": "на секунду,на минутку,ненадолго,на мгновение,на миг",
+                "weight": 0.441
+              },
+              {
+                "words": "краткосрочно,кратковременно",
+                "weight": 0.527
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тимчасово",
+                "weight": 1
+              },
+              {
+                "words": "ненадовго,на мить,на хвилину",
+                "weight": 0.441
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "täieliselt",
+        "osaliselt",
+        "katkestamatult",
+        "jätkuvalt",
+        "aeg-ajalt",
+        "taas",
+        "esialgu",
+        "endiselt",
+        "alaliselt",
+        "uuesti",
+        "lühiajaliselt",
+        "ajuti",
+        "alatiselt",
+        "korraks",
+        "püsivalt",
+        "jäädavalt",
+        "peatama",
+        "täielikult",
+        "ajutine"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ajutiselt",
+      "translations": [
+        "ad interim",
+        "for the time being",
+        "temporally",
+        "temporarily"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "requestedWord": "esile",
+  "estonianWord": "esile",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "esile"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tähelepanu keskmesse, (teiste seas) nähtavale,(kuskilt) välja, nähtavaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Selline muutus kutsuks esile ka filosoofilisi küsimusi.",
+            "Hele mööbel pääseb paremini esile tumeda tapeedi taustal.",
+            "Vana maja põranda alt tuli esile luukere."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на передний план",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на передній план",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ette",
+        "lagedale",
+        "välja",
+        "nähtavale",
+        "kerkima",
+        "välja ilmuma",
+        "ilmsiks tulema"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "esile",
+      "translations": []
+    }
+  ]
+}

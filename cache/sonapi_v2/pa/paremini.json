@@ -1,0 +1,99 @@
+{
+  "requestedWord": "paremini",
+  "estonianWord": "paremini",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "paremini"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "suuremal määral hästi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kui tundub, et hakkab paremini minema, siis tuleb mingi uus jama.",
+            "Suurt paremini enam ei saagi.",
+            "Pigem vähem, aga paremini.",
+            "Haige tunneb ennast juba paremini."
+          ],
+          "synonyms": [
+            "etemini"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "mieux",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "лучше",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "краще",
+                "weight": 1
+              },
+              {
+                "words": "ліпше",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kõige enam",
+        "kõige",
+        "loomulikumalt",
+        "teadlikumalt",
+        "targemini",
+        "rutemini",
+        "märgatavamalt",
+        "hästi",
+        "korralikumalt",
+        "olulisemalt",
+        "avalikumalt",
+        "isiklikumalt",
+        "puhtamalt",
+        "meeldivamalt",
+        "kergemini",
+        "kehvemini",
+        "kauemini",
+        "edukamalt",
+        "kiiremini",
+        "täielikumalt",
+        "lihtsamini",
+        "lihtsamalt",
+        "varemini",
+        "osavamalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "paremini",
+      "translations": [
+        "better"
+      ]
+    }
+  ]
+}

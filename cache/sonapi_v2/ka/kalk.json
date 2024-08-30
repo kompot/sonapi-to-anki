@@ -1,0 +1,994 @@
+{
+  "requestedWord": "kalk",
+  "estonianWord": "kalk",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kalk"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kalgi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kalki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "kalki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kalgisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kalgis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kalgist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kalgile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kalgil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kalgilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kalgiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kalgini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kalgina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kalgita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kalgiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kalgid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kalkide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kalke,kalkisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kalkidesse,kalgesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kalkides,kalges"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kalkidest,kalgest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kalkidele,kalgele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kalkidel,kalgel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kalkidelt,kalgelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kalkideks,kalgeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kalkideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kalkidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kalkideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kalkidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(värvuse või valguse kohta:) kõledus- või külmatunnet esile kutsuv",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Kardinatest mahendamata kalk valgus."
+          ],
+          "synonyms": [
+            "külm",
+            "kale"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "холодный",
+                "weight": 1
+              },
+              {
+                "words": "суровый",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kivi vm pinna kohta:) külm ja kõva, pehmuseta",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Kivi ei ole üksnes kõva ja kalk, kivi võib olla ka ilus."
+          ],
+          "synonyms": [
+            "kõva",
+            "kale",
+            "raudkõva"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "прочный,твёрдый,крепкий,жёсткий",
+                "weight": 0.9
+              },
+              {
+                "words": "несокрушимый,чугунный,железный,стальной,твёрдый, как железо",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "dur",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "міцний,твердий",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(vee kohta:) rohkesti kaltsiumi- ja magneesiumisooli sisaldav",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Kaevu vesi oli lubjarikas ja väga kalk."
+          ],
+          "synonyms": [
+            "kare",
+            "kõva"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "жёсткий",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(röntgenikiirguse kohta:) tugev, suure läbitungivusega",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Igasugune kalk kiirgus on inimesele ohtlik."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(inimese olemuse kohta:) ilma südamlikkuse ja soojuseta, tundetu või ükskõikne",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Soe vastuvõtt liigutas minu kalki südant.",
+            "Kalgi näoga mees.",
+            "Kuulsin Peedu kalki häält."
+          ],
+          "synonyms": [
+            "jäik",
+            "külm",
+            "tundetu",
+            "huvitu,osavõtmatu,ükskõikne,indiferentne",
+            "südametu",
+            "kalge",
+            "kõvasüdameline",
+            "julm",
+            "ametlik,reserveeritud",
+            "hoolimatu",
+            "lahkusetu",
+            "panetunud",
+            "tuim",
+            "külmavereline,halastamatu,armutu",
+            "külma kõhuga",
+            "jäine",
+            "külmavõitu,jahe",
+            "kare",
+            "jääkülm",
+            "kale",
+            "karmikäeline,kõvakäeline,range,karm,vali",
+            "kivine",
+            "leige",
+            "kurt",
+            "hingetu",
+            "pime",
+            "rüve"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "суровый",
+                "weight": 1
+              },
+              {
+                "words": "сухой",
+                "weight": 1
+              },
+              {
+                "words": "натянутый",
+                "weight": 1
+              },
+              {
+                "words": "чёрствый",
+                "weight": 1
+              },
+              {
+                "words": "жёсткий",
+                "weight": 1
+              },
+              {
+                "words": "бессердечный",
+                "weight": 1
+              },
+              {
+                "words": "бездушный",
+                "weight": 1
+              },
+              {
+                "words": "нечувствительный",
+                "weight": 1
+              },
+              {
+                "words": "нечуткий",
+                "weight": 1
+              },
+              {
+                "words": "жестокосердный",
+                "weight": 1
+              },
+              {
+                "words": "ожесточённый",
+                "weight": 1
+              },
+              {
+                "words": "нечуткий,нечувствительный,тупой,бесчувственный,холодный,равнодушный,безучастный,бесстрастный",
+                "weight": 0.89
+              },
+              {
+                "words": "безразличный,безучастный,равнодушный,отрешённый,неотзывчивый,индифферентный,апатичный",
+                "weight": 0.89
+              },
+              {
+                "words": "жестокосердный,бессердечный,чёрствый,бездушный",
+                "weight": 0.89
+              },
+              {
+                "words": "жестокосердный,бессердечный",
+                "weight": 0.89
+              },
+              {
+                "words": "беспощадный,жестокий,лютый,свирепый,безжалостный,нещадный,зверский,изуверский,звериный,палаческий",
+                "weight": 0.89
+              },
+              {
+                "words": "недоступный,неприступный,сдержанный",
+                "weight": 0.89
+              },
+              {
+                "words": "небрежный,наплевательский,халатный,нерадивый,безразличный,равнодушный,пренебрежительный",
+                "weight": 0.89
+              },
+              {
+                "words": "неприветливый,недобрый,неласковый,нелюбезный",
+                "weight": 0.7
+              },
+              {
+                "words": "жёсткий",
+                "weight": 0.7
+              },
+              {
+                "words": "неумолимый,хладнокровный,лютый,жестокий,немилостивый,немилосердный,нещадный,беспощадный,безжалостный",
+                "weight": 0.9
+              },
+              {
+                "words": "хладнокровный,невозмутимый",
+                "weight": 0.9
+              },
+              {
+                "words": "ледяной,равнодушный",
+                "weight": 0.9
+              },
+              {
+                "words": "прохладный",
+                "weight": 0.8243
+              },
+              {
+                "words": "жёсткий,суровый,резкий",
+                "weight": 0.9
+              },
+              {
+                "words": "бездушный,ледяной",
+                "weight": 0.7
+              },
+              {
+                "words": "жестокий,суровый,твердокаменный,резкий,ожесточённый,чёрствый,жёсткий,бездушный",
+                "weight": 0.9
+              },
+              {
+                "words": "суровый,жёсткий,строгий,жестокий",
+                "weight": 0.9
+              },
+              {
+                "words": "окаменелый",
+                "weight": 0.9
+              },
+              {
+                "words": "прохладный,равнодушный",
+                "weight": 0.9
+              },
+              {
+                "words": "глухой",
+                "weight": 0.9
+              },
+              {
+                "words": "бездушный,оторванный от жизни,бесчувственный",
+                "weight": 0.9
+              },
+              {
+                "words": "слепой,фанатичный",
+                "weight": 0.9
+              },
+              {
+                "words": "грязный",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "indifférent",
+                "weight": 0.89
+              },
+              {
+                "words": "cruel",
+                "weight": 0.89
+              },
+              {
+                "words": "sévère,dur",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "байдужий",
+                "weight": 0.89
+              },
+              {
+                "words": "жорстокий,немилосердний,безжалісний,нещадний,лютий",
+                "weight": 0.89
+              },
+              {
+                "words": "суворий,строгий",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "cruel",
+                "weight": 0.89
+              },
+              {
+                "words": "deaf",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jääkülm",
+        "hingetu",
+        "barbaarne",
+        "traatkõva",
+        "metslaslik",
+        "külm",
+        "mõrtsukalik",
+        "armuheitmatu",
+        "barbarlik",
+        "mehine",
+        "kivine",
+        "ei karda keda kuraditki",
+        "rüve",
+        "roimarlik",
+        "südi",
+        "söakas",
+        "südametu",
+        "luukõva",
+        "karm",
+        "visa",
+        "jõhker",
+        "külma kõhuga",
+        "toores",
+        "kale",
+        "julm",
+        "kivikõva",
+        "kiskjalik",
+        "teemantkõva",
+        "vahva",
+        "tapjalik",
+        "asiaatlik",
+        "metsik",
+        "vapper",
+        "brutaalne",
+        "julge",
+        "kohkumatu",
+        "kare",
+        "uljas",
+        "mõrvarlik",
+        "hundiseadus",
+        "pelutu",
+        "hundimoraal",
+        "ebainimlik",
+        "loomalik",
+        "jõhvjas",
+        "kõva",
+        "kartmatu",
+        "kontkõva",
+        "kannibaalne",
+        "silmagi pilgutamata",
+        "murdjalik",
+        "külmavereline",
+        "jäine",
+        "raudkõva",
+        "sitke",
+        "elajalik",
+        "verejanuline",
+        "armutu",
+        "halastamatu",
+        "kalge",
+        "teraskõva",
+        "sadistlik",
+        "tundetu",
+        "kõvasüdameline",
+        "kaljukindel",
+        "meelekindel",
+        "kindlameelne",
+        "sogane",
+        "kõrk",
+        "põlglik",
+        "kidur",
+        "lohakas",
+        "räme",
+        "rõve",
+        "ilge",
+        "hüplik",
+        "jonnakas",
+        "puine",
+        "rumal",
+        "lodev",
+        "lääge",
+        "kapriisne",
+        "sõnakas",
+        "riiakas",
+        "pelglik",
+        "loid",
+        "kartlik",
+        "tundeline",
+        "jäle",
+        "jäle",
+        "ahne",
+        "sõnamurdlik",
+        "ülbe",
+        "lubi",
+        "kale",
+        "karm",
+        "kare",
+        "inkvisiitorlik",
+        "lapsik",
+        "kõhnuke",
+        "banaalne",
+        "nõder",
+        "mõtlik",
+        "vagur",
+        "idiootlik",
+        "põikpäine",
+        "otsekohene",
+        "haisev",
+        "põikpäisus",
+        "räpakas",
+        "riim",
+        "riim",
+        "idiootne",
+        "totakas",
+        "vibalik",
+        "sõnapruuk",
+        "sadism",
+        "matslus",
+        "matslik",
+        "kalkar",
+        "juhm",
+        "noriv",
+        "kõhnus",
+        "ülekeev",
+        "kalkus"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kalk"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kalgi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kalki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "kalki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kalgisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kalgis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kalgist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kalgile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kalgil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kalgilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kalgiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kalgini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kalgina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kalgita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kalgiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kalgid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kalkide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kalke,kalkisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kalkidesse,kalgesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kalkides,kalges"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kalkidest,kalgest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kalkidele,kalgele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kalkidel,kalgel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kalkidelt,kalgelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kalkideks,kalgeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kalkideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kalkidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kalkideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kalkidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "lubjakivi kuumutamisel saadav vees vähe lahustuv valge aine, mida kasutatakse ehitusmaterjalina",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "lubi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "извёстка",
+                "weight": 1
+              },
+              {
+                "words": "известь",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lubi",
+        "barbarlik",
+        "barbaarne",
+        "külm",
+        "traatkõva",
+        "metslaslik",
+        "mõrtsukalik",
+        "armuheitmatu",
+        "mehine",
+        "kivine",
+        "ei karda keda kuraditki",
+        "roimarlik",
+        "rüve",
+        "südi",
+        "söakas",
+        "südametu",
+        "luukõva",
+        "karm",
+        "karm",
+        "visa",
+        "jõhker",
+        "külma kõhuga",
+        "toores",
+        "kale",
+        "kale",
+        "julm",
+        "kivikõva",
+        "kiskjalik",
+        "teemantkõva",
+        "vahva",
+        "tapjalik",
+        "asiaatlik",
+        "metsik",
+        "vapper",
+        "brutaalne",
+        "julge",
+        "kohkumatu",
+        "uljas",
+        "mõrvarlik",
+        "hundiseadus",
+        "pelutu",
+        "hundimoraal",
+        "kare",
+        "kare",
+        "ebainimlik",
+        "loomalik",
+        "jõhvjas",
+        "kõva",
+        "kannibaalne",
+        "jäine",
+        "põlglik",
+        "vagur",
+        "kõrk",
+        "idiootlik",
+        "põikpäine",
+        "lohakas",
+        "haisev",
+        "otsekohene",
+        "põikpäisus",
+        "räpakas",
+        "räme",
+        "rõve",
+        "ilge",
+        "hüplik",
+        "jonnakas",
+        "puine",
+        "riim",
+        "riim",
+        "idiootne",
+        "vibalik",
+        "lodev",
+        "lääge",
+        "kapriisne",
+        "sadism",
+        "sõnapruuk",
+        "rumal",
+        "sõnakas",
+        "totakas",
+        "riiakas",
+        "matslus",
+        "matslik",
+        "kalkar",
+        "pelglik",
+        "juhm",
+        "loid",
+        "kartlik",
+        "tundeline",
+        "noriv",
+        "kõhnus",
+        "ülekeev",
+        "jäle",
+        "jäle",
+        "kalkus",
+        "ahne",
+        "sõnamurdlik",
+        "ülbe",
+        "kontkõva",
+        "kartmatu",
+        "silmagi pilgutamata",
+        "murdjalik",
+        "külmavereline",
+        "raudkõva",
+        "inkvisiitorlik",
+        "sitke",
+        "elajalik",
+        "verejanuline",
+        "armutu",
+        "halastamatu",
+        "kalge",
+        "sadistlik",
+        "tundetu",
+        "teraskõva",
+        "kõvasüdameline",
+        "kaljukindel",
+        "meelekindel",
+        "kindlameelne",
+        "lapsik",
+        "kõhnuke",
+        "banaalne",
+        "mõtlik",
+        "nõder",
+        "sogane",
+        "kidur"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kalk",
+      "translations": [
+        "brittle",
+        "callous",
+        "compassionless",
+        "hardened",
+        "hard-hearted",
+        "indurate",
+        "uncharitable",
+        "unfeeling"
+      ]
+    }
+  ]
+}

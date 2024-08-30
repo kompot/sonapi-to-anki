@@ -1,0 +1,710 @@
+{
+  "requestedWord": "nii",
+  "estonianWord": "nii",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "nii"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sel kombel või viisil, seda moodi (nagu lause kontekstist teada, nagu keegi näitab või ütleb),sel kombel, sel viisil",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nii asjad ei käi.",
+            "Ta seisis nii, et ma ei näinud ta nägu.",
+            "Tee nii.",
+            "Tee nii, nagu ma näitan.",
+            "Ei, nii ei sobi."
+          ],
+          "synonyms": [
+            "nõnda",
+            "niimoodi,niiviisi,nõndamoodi,nõndaviisi,sedamoodi,sedasi,sedaviisi,selliselt,taoliselt,seda moodi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "ainsi",
+                "weight": 1
+              },
+              {
+                "words": "comme ça",
+                "weight": 1
+              },
+              {
+                "words": "ainsi,comme ça",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "таким образом",
+                "weight": 1
+              },
+              {
+                "words": "подобным образом",
+                "weight": 1
+              },
+              {
+                "words": "эдак",
+                "weight": 1
+              },
+              {
+                "words": "этак",
+                "weight": 1
+              },
+              {
+                "words": "вот так то,таким образом,так,таким манером",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "таким чином",
+                "weight": 1
+              },
+              {
+                "words": "таким способом",
+                "weight": 1
+              },
+              {
+                "words": "таким побитом",
+                "weight": 1
+              },
+              {
+                "words": "таким робом",
+                "weight": 1
+              },
+              {
+                "words": "так,таким чином,таким способом,таким побитом,таким робом",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "sellest tingituna, selle tõttu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kohtunikud annavad intervjuud harva, nii jäime ka meie kommentaarist ilma."
+          ],
+          "synonyms": [
+            "nõnda"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "поэтому",
+                "weight": 1
+              },
+              {
+                "words": "оттого",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kinnitab otsusele jõudmist, nendingut millegi lõpetatuse kohta,kasuta siis, kui tahad midagi kinnitada",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nii, see on valmis.",
+            "Olgu nii.",
+            "Nii, see on nüüd valmis.",
+            "Jääb nii."
+          ],
+          "synonyms": [
+            "nõnda",
+            "soh",
+            "soo",
+            "sooh",
+            "nonii"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "что ж",
+                "weight": 1
+              },
+              {
+                "words": "итак",
+                "weight": 1
+              },
+              {
+                "words": "ну-с",
+                "weight": 1
+              },
+              {
+                "words": "стало быть",
+                "weight": 1
+              },
+              {
+                "words": "ладно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "так",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "sel määral, sedavõrd,(hrl rõhutatuna:) väga, eriti,sel määral, sedavõrd,väga, eriti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Näitleja elas oma rolli nii hästi sisse, et tegu oligi justkui päris Pipiga.",
+            "Ma nii ootasin sind!",
+            "Nii kahju!",
+            "Kuhu sa nii vara lähed?",
+            "Mul pole nii palju raha.",
+            "Täna on nii ilus ilm!"
+          ],
+          "synonyms": [
+            "nõnda",
+            "niivõrd,sedajagu,sedavõrd,seevõrd,seevõrra,sellejagu,sellevõrra"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "tellement",
+                "weight": 1
+              },
+              {
+                "words": "tellement",
+                "weight": 0.741
+              }
+            ],
+            "rus": [
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "такой",
+                "weight": 1
+              },
+              {
+                "words": "так,до того,столько,настолько,до такой степени,столь,в такой степени,в такой мере, как,постольку,в такой мере",
+                "weight": 0.741
+              }
+            ],
+            "ukr": [
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "такий",
+                "weight": 1
+              },
+              {
+                "words": "настільки,так,такий,до того,у такій мірі,до такого ступеня",
+                "weight": 0.741
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kasutatakse hulga mainimisel, mida ei mäletata, ei taheta täpselt öelda vms",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Uudistes kuuleb, kuidas mõni on lasknud allavett nii ja nii mitu miljonit."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "mitte päris täpselt, enam-vähem, ligilähedaselt,mitte päris täpselt, ligikaudu, enam-vähem",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Käisin jääd katsumas, oli nii 10 cm.",
+            "Aega on nii tund-poolteist."
+          ],
+          "synonyms": [
+            "umbkaudu",
+            "umbes",
+            "ligikaudu",
+            "ligikaudselt",
+            "umbkaudselt",
+            "arvata",
+            "kusagil",
+            "u",
+            "kuskil",
+            "ringis",
+            "nõnda",
+            "kuski",
+            "üks",
+            "orienteerivalt,orienteeruvalt",
+            "enam-vähem"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "approximately",
+                "weight": 1
+              },
+              {
+                "words": "more or less",
+                "weight": 1
+              },
+              {
+                "words": "roughly",
+                "weight": 1
+              },
+              {
+                "words": "more or less",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "approximativement",
+                "weight": 1
+              },
+              {
+                "words": "environ",
+                "weight": 1
+              },
+              {
+                "words": "à peu près",
+                "weight": 1
+              },
+              {
+                "words": "à peu près,plus ou moins,presque",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "приблизительно",
+                "weight": 1
+              },
+              {
+                "words": "почти",
+                "weight": 1
+              },
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "порядка",
+                "weight": 1
+              },
+              {
+                "words": "почти что",
+                "weight": 1
+              },
+              {
+                "words": "на круг",
+                "weight": 1
+              },
+              {
+                "words": "приближённо",
+                "weight": 1
+              },
+              {
+                "words": "ориентировочно",
+                "weight": 1
+              },
+              {
+                "words": "грубо говоря",
+                "weight": 1
+              },
+              {
+                "words": "где-то",
+                "weight": 1
+              },
+              {
+                "words": "примерно",
+                "weight": 1
+              },
+              {
+                "words": "почти,приблизительно,примерно,с",
+                "weight": 0.9
+              },
+              {
+                "words": "ориентировочно,примерно,приблизительно",
+                "weight": 0.7
+              },
+              {
+                "words": "более или менее,почти",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "майже",
+                "weight": 1
+              },
+              {
+                "words": "приблизно",
+                "weight": 1
+              },
+              {
+                "words": "більш-менш,майже",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "nagu, midagi sellist või sedamoodi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ballett on rohkem nii plikade värk.",
+            "On öeldud küll, et unenäod ennustavad ette või nii."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "väljendab vahetut ajalist järgnevust",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nagu ma lapse voodisse panin, nii ta magama jäi."
+          ],
+          "synonyms": [
+            "nõnda"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "тут же",
+                "weight": 1
+              },
+              {
+                "words": "сразу же",
+                "weight": 1
+              },
+              {
+                "words": "тотчас же",
+                "weight": 1
+              },
+              {
+                "words": "как только",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "soojalt",
+        "nõnda",
+        "tuuris",
+        "tuuris",
+        "sedasi",
+        "hiiglama",
+        "nõndamoodi",
+        "üliagar",
+        "sindri",
+        "puruvaene",
+        "pööraselt",
+        "haruharva",
+        "lollisti",
+        "häbemata",
+        "hullupööra",
+        "ümmarguselt",
+        "ilmatuma",
+        "ilmatuma",
+        "maailma",
+        "silmipimestavalt",
+        "raudkülm",
+        "rääkimata",
+        "niipidi",
+        "hämmastavalt",
+        "maailmama",
+        "ebaloomulikult",
+        "igavesti",
+        "imearmas",
+        "hästi",
+        "hädasti",
+        "ääretult",
+        "sedaviisi",
+        "pururumal",
+        "ennekuulmatu",
+        "uskumata",
+        "soo",
+        "soo",
+        "naamoodi",
+        "väga",
+        "päratult",
+        "naaviisi",
+        "raudkõva",
+        "ligilähedalt",
+        "maruvihane",
+        "äraarvamata",
+        "nõndaks",
+        "sääraselt",
+        "õudselt",
+        "piiritult",
+        "maru",
+        "maru",
+        "maru",
+        "kibedasti",
+        "jõletu",
+        "jõletu",
+        "ropult",
+        "kuradi",
+        "harutihti",
+        "na",
+        "perglima",
+        "tulikuum",
+        "erakordselt",
+        "põhjatult",
+        "neetult",
+        "hirmsasti",
+        "niiviisi",
+        "hirmuäratavalt",
+        "äraütlemata",
+        "muinasjutuliselt",
+        "koletu",
+        "koletu",
+        "tapvalt",
+        "surmani",
+        "arutult",
+        "hirmpalju",
+        "verivärske",
+        "nõndapsi",
+        "metsikult",
+        "häbematult",
+        "üks",
+        "koledasti",
+        "õige",
+        "õige",
+        "ligikaudu",
+        "lõpmata",
+        "ümber",
+        "orienteerivalt",
+        "harukordselt",
+        "järgmiselt",
+        "jube",
+        "jube",
+        "koletult",
+        "paganlikult",
+        "äärmiselt",
+        "hiigla",
+        "kuratlikult",
+        "põrgukära",
+        "ebatavaliselt",
+        "kõvasti",
+        "lõpmatult",
+        "hirmus",
+        "hirmus",
+        "ilmatu",
+        "ilmatu",
+        "piinavalt",
+        "sedapsi",
+        "umbkaudu",
+        "viisi",
+        "kuradima",
+        "sedapidi",
+        "pikisilmi",
+        "haruldaselt",
+        "kuramuse",
+        "kole",
+        "kole",
+        "umbes",
+        "umbes",
+        "puupaljas",
+        "igavene",
+        "jõle",
+        "jõle",
+        "püstirikas",
+        "põhjatu",
+        "põhjatu",
+        "hiiglasuur",
+        "otsatult",
+        "sindrima",
+        "ringis",
+        "sedamoodi",
+        "arvata",
+        "püstirumal",
+        "selliselt",
+        "kibesoolane",
+        "pururikas",
+        "tuline",
+        "kibehapu",
+        "paganama",
+        "peaaegu",
+        "välkkiire",
+        "pagana",
+        "ülimalt",
+        "ebanormaalselt",
+        "mõni",
+        "umbkaudselt",
+        "nõndaviisi",
+        "enneolematult",
+        "ligikaudselt",
+        "huntnäljane",
+        "ärarääkimata",
+        "niimoodi",
+        "tohutult",
+        "maailmatu",
+        "maailmatu",
+        "ebaharilikult",
+        "jubedasti",
+        "seletamatult",
+        "põrgukuumus",
+        "ütlemata",
+        "hullumoodi",
+        "igivana",
+        "põletavalt",
+        "uskumatult",
+        "röögatult",
+        "põrgulikult",
+        "surmigav",
+        "maailmatuma",
+        "maailmatuma",
+        "imekerge",
+        "verinoor",
+        "meeletult",
+        "kohutavalt",
+        "ränkraske",
+        "porilaisk",
+        "hiiglamoodi",
+        "oma",
+        "oma",
+        "oma",
+        "hullusti",
+        "üliväga",
+        "üüratult",
+        "päratu",
+        "päratu",
+        "armetult",
+        "põrguma",
+        "kangesti",
+        "kolossaalselt",
+        "jubedalt",
+        "nõndap",
+        "niivõrd",
+        "kuigi",
+        "muidu",
+        "lihtviisiliselt",
+        "tõesti",
+        "see",
+        "küllaltki",
+        "piisavalt",
+        "aga",
+        "aga",
+        "siiski",
+        "seal",
+        "ilmselt",
+        "muidugi",
+        "sama",
+        "sama",
+        "kui",
+        "kui",
+        "tavaliselt",
+        "suhteliselt",
+        "üldse",
+        "mitte",
+        "mitte",
+        "kõik",
+        "isegi",
+        "samuti",
+        "ikka",
+        "üsna",
+        "küll",
+        "küll",
+        "eriti",
+        "palju",
+        "palju",
+        "nagu",
+        "üpris",
+        "tegelikult",
+        "ikkagi",
+        "tihti",
+        "päris",
+        "just",
+        "ainult",
+        "sest",
+        "üldiselt",
+        "lihtsalt",
+        "siis",
+        "alati",
+        "võimalikult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "nii",
+      "translations": [
+        "ever so",
+        "like this",
+        "so"
+      ]
+    }
+  ]
+}

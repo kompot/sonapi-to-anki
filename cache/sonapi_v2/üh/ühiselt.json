@@ -1,0 +1,135 @@
+{
+  "requestedWord": "ühiselt",
+  "estonianWord": "ühiselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ühiselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "üheskoos, hulga peale, ühisel jõul ja nõul",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Talgute lõpetuseks söödi ühiselt suppi.",
+            "Tegime töö ühiselt ära."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "ensemble",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "совместно",
+                "weight": 1
+              },
+              {
+                "words": "сообща",
+                "weight": 1
+              },
+              {
+                "words": "вместе",
+                "weight": 1
+              },
+              {
+                "words": "совокупно",
+                "weight": 1
+              },
+              {
+                "words": "объединённо",
+                "weight": 1
+              },
+              {
+                "words": "общими силами",
+                "weight": 1
+              },
+              {
+                "words": "скопом",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "спільно",
+                "weight": 1
+              },
+              {
+                "words": "гуртом",
+                "weight": 1
+              },
+              {
+                "words": "разом",
+                "weight": 1
+              },
+              {
+                "words": "вкупі",
+                "weight": 1
+              },
+              {
+                "words": "спільними зусиллями",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pundis",
+        "käsikäes",
+        "õlg õla kõrval",
+        "üheskoos",
+        "mestis",
+        "seltsis",
+        "kollektiivselt",
+        "koos",
+        "koos",
+        "kambas",
+        "organiseeritult",
+        "ühiselu",
+        "ühiseluline",
+        "omavahel",
+        "toredalt",
+        "õhinapõhiselt",
+        "vennalikult",
+        "omakeskis",
+        "mitmekesi",
+        "aktiivselt",
+        "kokkulepitult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ühiselt",
+      "translations": [
+        "collectively",
+        "communally",
+        "cooperatively",
+        "co-operatively",
+        "corporately",
+        "jointly",
+        "solidly",
+        "united"
+      ]
+    }
+  ]
+}

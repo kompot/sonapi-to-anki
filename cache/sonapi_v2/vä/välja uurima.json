@@ -1,0 +1,605 @@
+{
+  "requestedWord": "välja uurima",
+  "estonianWord": "välja uurima",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "uurin välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "uurid välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "uurib välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "uurime välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "uurite välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "uurivad välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "uuri välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "uuritakse välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "uurita välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "uurisin välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "uurisid välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "uuris välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "uurisime välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "uurisite välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "uurisid välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "uuriti välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "uuriksin välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "uuriksid välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "uuriks välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "uuriksime välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "uuriksite välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "uuriksid välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "uuritaks välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "uurinuksin välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "uurinuksid välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "uurinuks välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "uurinuksime välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "uurinuksite välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "uurinuksid välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "uurituks välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "uurivat välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "uuritavat välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "uurinuvat välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "uurituvat välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "uuri välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "uurigem välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "uurige välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "uurigu välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "uuritagu välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "välja uurima"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "välja uurimata"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "välja uurimas"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "välja uurimast"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "välja uurimaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "välja uuritama"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "välja uurida"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "välja uurides"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "välja uuriv"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "välja uuritav"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "välja uurinud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "uurinud välja"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "välja uuritud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "uuritud välja"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(andmete, tulemuste põhjal) kindlaks tegema, millestki teada saama,kindlaks tegema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ma uurisin välja, et ta elab Valgas.",
+            "Kõigepealt tuleks välja uurida, kas piirilt viisat saab.",
+            "Uurisin välja, kuidas sõita Tallinnast Londonisse."
+          ],
+          "synonyms": [
+            "järele uurima",
+            "selgitama",
+            "välja selgitama",
+            "järgi uurima",
+            "välja peilima",
+            "teada saama",
+            "välja nuhkima",
+            "jälgi ajama",
+            "järele kuulama",
+            "kindlaks määrama,kindlaks tegema,määrama",
+            "tuvastama",
+            "täpsustama",
+            "lahendama",
+            "leidma",
+            "tõestama",
+            "uurima",
+            "uurima",
+            "leidma",
+            "pärima"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "se renseigner",
+                "weight": 1
+              },
+              {
+                "words": "apprendre",
+                "weight": 0.9
+              },
+              {
+                "words": "déterminer,identifier",
+                "weight": 0.9
+              },
+              {
+                "words": "préciser",
+                "weight": 0.7
+              },
+              {
+                "words": "résoudre",
+                "weight": 0.9
+              },
+              {
+                "words": "prouver",
+                "weight": 0.7893
+              },
+              {
+                "words": "étudier",
+                "weight": 0.9
+              },
+              {
+                "words": "demander",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "выяснять",
+                "weight": 1
+              },
+              {
+                "words": "выяснить",
+                "weight": 1
+              },
+              {
+                "words": "выявлять",
+                "weight": 1
+              },
+              {
+                "words": "выявить",
+                "weight": 1
+              },
+              {
+                "words": "устанавливать",
+                "weight": 1
+              },
+              {
+                "words": "установить",
+                "weight": 1
+              },
+              {
+                "words": "выведывать",
+                "weight": 1
+              },
+              {
+                "words": "выведать",
+                "weight": 1
+              },
+              {
+                "words": "узнавать",
+                "weight": 1
+              },
+              {
+                "words": "узнать",
+                "weight": 1
+              },
+              {
+                "words": "разведывать",
+                "weight": 1
+              },
+              {
+                "words": "разведать",
+                "weight": 1
+              },
+              {
+                "words": "разузнавать",
+                "weight": 1
+              },
+              {
+                "words": "разузнать",
+                "weight": 1
+              },
+              {
+                "words": "допытываться",
+                "weight": 1
+              },
+              {
+                "words": "допытаться",
+                "weight": 1
+              },
+              {
+                "words": "выведать",
+                "weight": 0.9
+              },
+              {
+                "words": "узнавать,узнать",
+                "weight": 0.9
+              },
+              {
+                "words": "выяснить,справляться,узнать,наводить справки,наводить справку,осведомиться,осведомляться,справиться,выяснять,узнавать",
+                "weight": 0.9
+              },
+              {
+                "words": "определить,устанавливать,определять,установить",
+                "weight": 0.9
+              },
+              {
+                "words": "определять,определить,распознавать,распознать,устанавливать,установить,опознавать,опознать",
+                "weight": 0.9
+              },
+              {
+                "words": "уточнить,конкретизировать,вносить уточнения,делать уточнения,внести уточнения,сделать уточнения,уточнять",
+                "weight": 0.7
+              },
+              {
+                "words": "разрешить,разрешать,решать,разгадать,решить,разгадывать",
+                "weight": 0.9
+              },
+              {
+                "words": "подтверждать,доказывать,устанавливать,установить,доказать,подтвердить",
+                "weight": 0.7893
+              },
+              {
+                "words": "расследовать,изучить,изучать,выяснить,выяснять,рассмотреть,рассматривать,обследовать",
+                "weight": 0.9
+              },
+              {
+                "words": "производить дознание,расследовать,проводить следствие,проводить расследование,вести следствие,вести расследование,провести следствие,провести расследование,вести дознание",
+                "weight": 0.603
+              },
+              {
+                "words": "осведомляться,осведомиться,разузнать,разузнавать,расспрашивать,расспросить,выспросить,справляться,справиться,выспрашивать",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зʼясовувати",
+                "weight": 1
+              },
+              {
+                "words": "зʼясувати",
+                "weight": 1
+              },
+              {
+                "words": "визначати",
+                "weight": 1
+              },
+              {
+                "words": "визначити",
+                "weight": 1
+              },
+              {
+                "words": "встановлювати",
+                "weight": 1
+              },
+              {
+                "words": "встановити",
+                "weight": 1
+              },
+              {
+                "words": "виясняти",
+                "weight": 1
+              },
+              {
+                "words": "вияснити",
+                "weight": 1
+              },
+              {
+                "words": "довідатися,довідуватися,дізнатися,дізнаватися",
+                "weight": 0.9
+              },
+              {
+                "words": "встановлювати,встановити,визначати,визначити",
+                "weight": 0.9
+              },
+              {
+                "words": "встановлювати,встановити,визначати,визначити,розпізнавати,розпізнати,упізнавати,упізнати",
+                "weight": 0.9
+              },
+              {
+                "words": "уточнювати,уточнити",
+                "weight": 0.7
+              },
+              {
+                "words": "розгадати,розгадувати,розв’язати,розв’язувати",
+                "weight": 0.9
+              },
+              {
+                "words": "підтвердити,доводити,довести,підтверджувати",
+                "weight": 0.7893
+              },
+              {
+                "words": "обстежити,розслідувати,обстежувати,вивчити,вивчати",
+                "weight": 0.9
+              },
+              {
+                "words": "розпитувати,розпитати",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "uurima",
+        "maad kuulama",
+        "jälgi ajama",
+        "sondeerima",
+        "välja nuhkima",
+        "järele uurima",
+        "välja peilima",
+        "pinda sondeerima",
+        "järele kuulama",
+        "teada saama",
+        "nuhkima"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "välja uurima",
+      "translations": [
+        "check out",
+        "expiscate",
+        "quarry out"
+      ]
+    }
+  ]
+}

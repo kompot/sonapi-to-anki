@@ -1,0 +1,425 @@
+{
+  "requestedWord": "lõhn",
+  "estonianWord": "lõhn",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22u",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "lõhn"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "lõhna"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "lõhna"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "lõhna"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "lõhnasse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "lõhnas"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "lõhnast"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "lõhnale"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "lõhnal"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "lõhnalt"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "lõhnaks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "lõhnani"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "lõhnana"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "lõhnata"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "lõhnaga"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "lõhnad"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "lõhnade"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "lõhnu,lõhnasid"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "lõhnadesse,lõhnusse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "lõhnades,lõhnus"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "lõhnadest,lõhnust"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "lõhnadele,lõhnule"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "lõhnadel,lõhnul"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "lõhnadelt,lõhnult"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "lõhnadeks,lõhnuks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "lõhnadeni"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "lõhnadena"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "lõhnadeta"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "lõhnadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "paljude ainete omadus, mida tunneb nina kaudu (haistmisaistinguna),aine omadus, mida sa tunned nina kaudu",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Värske kohvi lõhn.",
+            "Nohuga ei tunne lõhna.",
+            "Igal aastaajal on oma lõhnad ja oma hääled.",
+            "Maasikalõhn.",
+            "Köögist tulevad head lõhnad.",
+            "Nuusuta, nendel lilledel on nii magus lõhn."
+          ],
+          "synonyms": [
+            "lehk",
+            "hais",
+            "luhvt",
+            "õhk",
+            "lõhnapilv",
+            "odöör",
+            "ving",
+            "aroom",
+            "hõngus,hõng"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "odeur",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "запах",
+                "weight": 1
+              },
+              {
+                "words": "аромат",
+                "weight": 1
+              },
+              {
+                "words": "дух",
+                "weight": 1
+              },
+              {
+                "words": "облако ароматов",
+                "weight": 0.9
+              },
+              {
+                "words": "благовоние,благоухание",
+                "weight": 0.9
+              },
+              {
+                "words": "спёртый дух,перегар,чад,вонь",
+                "weight": 0.9
+              },
+              {
+                "words": "аромат,благовоние,благоухание,амбре",
+                "weight": 0.9
+              },
+              {
+                "words": "запах,дуновение,душок,запашок,дух",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "запах",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(alkoholilõhna, kergelt joobes oleku kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ära rooli mine, sul on lõhnad juures.",
+            "Ain tuli täna tööle lõhnadega."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "душок",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(lõhnaõli kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ostsin endale täna uue lõhna."
+          ],
+          "synonyms": [
+            "Kölni vesi,odekolonn,tualettvesi",
+            "lõhnavesi",
+            "odöör",
+            "lõhnaõli,parfüüm"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "духи",
+                "weight": 1
+              },
+              {
+                "words": "туалетная вода,одеколон",
+                "weight": 0.9
+              },
+              {
+                "words": "одеколон,туалетная вода",
+                "weight": 0.8183
+              },
+              {
+                "words": "благовоние,благоухание",
+                "weight": 0.9
+              },
+              {
+                "words": "духи",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "parfum",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "парфуми,духи",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "perfume",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(mingi aimatava või tabamatu joone, omaduse, varjundi kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Surma lõhn muutus haigetoas iga päevaga tugevamaks."
+          ],
+          "synonyms": [
+            "aim,aimdus,aimus,eelaimus",
+            "eeltunne"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "догадка,предчувствие",
+                "weight": 0.7
+              },
+              {
+                "words": "предчувствие",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "pressentiment",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hõngus",
+        "hingus",
+        "eeltunne",
+        "eelaimus",
+        "aim",
+        "varjund",
+        "aimdus",
+        "ving",
+        "lõhnaõli",
+        "odekolonn",
+        "hais",
+        "odöör",
+        "lõhnapilv",
+        "tualettvesi",
+        "parfüüm",
+        "luhvt",
+        "nuhk",
+        "lõhnavesi",
+        "aroom",
+        "hõng",
+        "lehk",
+        "lõhnaküünal",
+        "roosilõhn",
+        "meelõhn",
+        "lõhnaline",
+        "lõhnataju",
+        "lõhnatu",
+        "lõhnaaine",
+        "lillelõhn"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lõhn",
+      "translations": [
+        "odor",
+        "odour",
+        "scent",
+        "smell"
+      ]
+    }
+  ]
+}

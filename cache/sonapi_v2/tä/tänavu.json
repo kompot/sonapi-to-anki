@@ -1,0 +1,105 @@
+{
+  "requestedWord": "tänavu",
+  "estonianWord": "tänavu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tänavu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "käesoleval aastal,sel aastal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Loodan tänavu pjedestaalile pääseda.",
+            "Vanaema suri tänavu kevadel.",
+            "Peeter läheb tänavu esimesse klassi.",
+            "Tänavu suvel on palju maasikaid."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "cette année",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в этом году",
+                "weight": 1
+              },
+              {
+                "words": "в текущем году",
+                "weight": 1
+              },
+              {
+                "words": "нынче",
+                "weight": 1
+              },
+              {
+                "words": "в нынешнем году",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "цього року",
+                "weight": 1
+              },
+              {
+                "words": "у цьому році",
+                "weight": 1
+              },
+              {
+                "words": "цьогоріч",
+                "weight": 1
+              },
+              {
+                "words": "поточного року",
+                "weight": 1
+              },
+              {
+                "words": "у поточному році",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mullune",
+        "tunamullu",
+        "seekord",
+        "mullu",
+        "juba",
+        "tänavusuvine",
+        "rekordiliselt",
+        "mullusuvine",
+        "tänavune",
+        "möödunud"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tänavu",
+      "translations": []
+    }
+  ]
+}

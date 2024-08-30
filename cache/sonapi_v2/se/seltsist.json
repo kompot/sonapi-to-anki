@@ -1,0 +1,66 @@
+{
+  "requestedWord": "seltsist",
+  "estonianWord": "seltsist",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "seltsist"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi seltskonnast, hulgast,kellegi, millegi juurest",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Lahkus enne südaööd kaaslaste seltsist."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "из компании",
+                "weight": 1
+              },
+              {
+                "words": "из окружения",
+                "weight": 1
+              },
+              {
+                "words": "из общества",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "seltsidaam",
+        "seltsim",
+        "selts",
+        "seltsiv",
+        "seltsis",
+        "seltsi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "seltsist",
+      "translations": []
+    }
+  ]
+}

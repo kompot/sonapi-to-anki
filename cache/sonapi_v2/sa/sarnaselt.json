@@ -1,0 +1,75 @@
+{
+  "requestedWord": "sarnaselt",
+  "estonianWord": "sarnaselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sarnaselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingis suhtes ühtmoodi, rohkete ühetaoliseks tegevate ühisjoontega, millegagi võrreldes samalaadselt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõik ei mõtle sarnaselt.",
+            "Igapäevast elu elati üsna sarnaselt."
+          ],
+          "synonyms": [
+            "ühtemoodi,ühteviisi,ühtmoodi,ühtviisi,ühte moodi,ühte viisi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "похоже",
+                "weight": 1
+              },
+              {
+                "words": "так же,равно,равным образом,похоже,одинаково,в равной степени,сходно,в равной мере,на равных правах",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ühtemoodi",
+        "samasuguselt",
+        "justkui",
+        "nagu",
+        "ühteviisi",
+        "sarnane",
+        "ühesuguselt",
+        "sarnasem",
+        "sarnaseim",
+        "võrreldes",
+        "samamoodi",
+        "sarnanema"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sarnaselt",
+      "translations": [
+        "by the same token",
+        "in common",
+        "similarly"
+      ]
+    }
+  ]
+}

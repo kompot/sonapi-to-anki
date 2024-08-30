@@ -1,0 +1,327 @@
+{
+  "requestedWord": "põliselanik",
+  "estonianWord": "põliselanik",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "25",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "põliselanik"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "põliselaniku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "põliselanikku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "põliselanikku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "põliselanikusse"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "põliselanikus"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "põliselanikust"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "põliselanikule"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "põliselanikul"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "põliselanikult"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "põliselanikuks"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "põliselanikuni"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "põliselanikuna"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "põliselanikuta"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "põliselanikuga"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "põliselanikud"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "põliselanike,põliselanikkude"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "põliselanikke,põliselanikkusid"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "põliselanikesse,põliselanikkudesse"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "põliselanikes,põliselanikkudes"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "põliselanikest,põliselanikkudest"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "põliselanikele,põliselanikkudele"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "põliselanikel,põliselanikkudel"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "põliselanikelt,põliselanikkudelt"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "põliselanikeks,põliselanikkudeks"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "põliselanikeni,põliselanikkudeni"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "põliselanikena,põliselanikkudena"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "põliselaniketa,põliselanikkudeta"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "põliselanikega,põliselanikkudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingi maa või paiga algse rahva, põlisrahva liige",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Siberi põliselanikud.",
+            "Sisserännanute ja põliselanike kultuurikonflikt."
+          ],
+          "synonyms": [
+            "algasukas",
+            "põlisasukas",
+            "päriselanik",
+            "pärismaalane",
+            "aborigeen"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "коренной житель",
+                "weight": 1
+              },
+              {
+                "words": "абориген",
+                "weight": 1
+              },
+              {
+                "words": "аборигенка",
+                "weight": 1
+              },
+              {
+                "words": "туземец",
+                "weight": 1
+              },
+              {
+                "words": "туземка",
+                "weight": 1
+              },
+              {
+                "words": "коренной обитатель",
+                "weight": 1
+              },
+              {
+                "words": "исконный житель",
+                "weight": 1
+              },
+              {
+                "words": "исконный обитатель",
+                "weight": 1
+              },
+              {
+                "words": "старожил",
+                "weight": 1
+              },
+              {
+                "words": "старожилка",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kusagil pikka aega, põliselt elanud inimene",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Uuetoa talu vanaperenaine on praegu ainus küla põliselanik, teised on uustulnukad."
+          ],
+          "synonyms": [
+            "põlisasukas",
+            "päriselanik"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "коренной житель",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(pärismaiste loomade, lindude kohta)",
+          "partOfSpeech": [],
+          "examples": [
+            "Eesti metsade põliselanik põder on end siin koduselt tundnud juba viimased 10 000 aastat."
+          ],
+          "synonyms": [
+            "põlisasukas"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "коренной обитатель",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "aborigeen",
+        "algasukas",
+        "pärismaalane",
+        "püsiasukas",
+        "põlisasukas",
+        "päriselanik",
+        "põlisrahvas",
+        "metsaelanik",
+        "põliselt",
+        "põliselanikkond",
+        "külaelanik",
+        "saareelanik",
+        "taevaelanik",
+        "püsielanik",
+        "kõrbeelanik",
+        "koopaelanik",
+        "elanik",
+        "põlisrahvastik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "põliselanik",
+      "translations": [
+        "indigene (taim",
+        "loom",
+        "pärismaalane)"
+      ]
+    }
+  ]
+}

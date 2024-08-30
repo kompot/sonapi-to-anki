@@ -1,0 +1,155 @@
+{
+  "requestedWord": "praegu",
+  "estonianWord": "praegu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "praegu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "käesoleval ajahetkel või seda hõlmaval lühemal või pikemal ajalõigul,käesoleval hetkel või ajal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Praegu on meil talv ja tore lumi.",
+            "Kus sa praegu töötad?",
+            "Praegu või mitte kunagi!",
+            "Mul pole praegu aega.",
+            "See meenus mulle alles praegu."
+          ],
+          "synonyms": [
+            "nüüd",
+            "prg",
+            "täna",
+            "hetkel,momendil"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "maintenant",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "сейчас",
+                "weight": 1
+              },
+              {
+                "words": "теперь",
+                "weight": 1
+              },
+              {
+                "words": "в настоящее время",
+                "weight": 1
+              },
+              {
+                "words": "нынче",
+                "weight": 1
+              },
+              {
+                "words": "ныне",
+                "weight": 1
+              },
+              {
+                "words": "сегодня",
+                "weight": 0.7882
+              },
+              {
+                "words": "в данный момент",
+                "weight": 0.8063
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тепер",
+                "weight": 1
+              },
+              {
+                "words": "зараз",
+                "weight": 1
+              }
+            ],
+            "eng": [
+              {
+                "words": "today",
+                "weight": 0.7882
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "moment",
+        "hetkel",
+        "nüüd",
+        "täna",
+        "täna",
+        "esialgu",
+        "esiotsa",
+        "kohe",
+        "kohe",
+        "esiteks",
+        "pole",
+        "kuigi",
+        "tõesti",
+        "see",
+        "juba",
+        "kindlasti",
+        "aga",
+        "aga",
+        "siiski",
+        "seal",
+        "jätkuvalt",
+        "ilmselt",
+        "tõenäoliselt",
+        "siin",
+        "siin",
+        "meil",
+        "siiani",
+        "üldse",
+        "kunagi",
+        "veel",
+        "enam",
+        "enam",
+        "küll",
+        "küll",
+        "ikka",
+        "tegelikult",
+        "ikkagi",
+        "endiselt",
+        "üldiselt",
+        "elame-näeme",
+        "siis",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "praegu",
+      "translations": [
+        "currently",
+        "for the time being",
+        "now",
+        "presently",
+        "the time being"
+      ]
+    }
+  ]
+}

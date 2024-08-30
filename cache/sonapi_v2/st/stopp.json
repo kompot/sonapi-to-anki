@@ -1,0 +1,343 @@
+{
+  "requestedWord": "stopp",
+  "estonianWord": "stopp",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "stopp"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(käsklusena mingi tegevuse lõpetamiseks:) seis, pea kinni, peatu,sõna, mida sa kasutad, kui sa tahad, et mingi tegevus lõppeks",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "Stopp! Teine võte!",
+            "Stopp, aitab!"
+          ],
+          "synonyms": [
+            "seis",
+            "pastoi,pea",
+            "ot,oot,oot-oot"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "stop",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "стоп",
+                "weight": 1
+              },
+              {
+                "words": "стой,стоять",
+                "weight": 0.7
+              },
+              {
+                "words": "подожди,подожди-ка,погоди,погоди-ка,постой,постойте",
+                "weight": 0.9
+              },
+              {
+                "words": "подожди,подожди-ка,погоди,погоди-ка,постой,постойте",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "стоп",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "oot-oot",
+        "pea",
+        "pea",
+        "pea",
+        "pea",
+        "seis",
+        "seis",
+        "küllalt",
+        "restart",
+        "stoppkaader",
+        "start",
+        "stoppama",
+        "stopper"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "stopp"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "stopi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "stoppi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "stoppi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "stopisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "stopis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "stopist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "stopile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "stopil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "stopilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "stopiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "stopini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "stopina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "stopita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "stopiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "stopid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "stoppide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "stoppe,stoppisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "stoppidesse,stopesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "stoppides,stopes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "stoppidest,stopest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "stoppidele,stopele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "stoppidel,stopel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "stoppidelt,stopelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "stoppideks,stopeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "stoppideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "stoppidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "stoppideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "stoppidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "peatus, seisak, toppamine",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Pärast stoppi langes Schumacher kuuendale positsioonile."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "остановка",
+                "weight": 1
+              },
+              {
+                "words": "приостановка",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hääletades reisimine",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Jätab bussiga sõitmata, läheb stopiga."
+          ],
+          "synonyms": [
+            "autostopp"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "автостоп",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "oot-oot",
+        "pea",
+        "pea",
+        "pea",
+        "pea",
+        "seis",
+        "seis",
+        "küllalt",
+        "restart",
+        "stoppkaader",
+        "start",
+        "stoppama",
+        "stopper"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "stopp",
+      "translations": [
+        "avast",
+        "stop"
+      ]
+    }
+  ]
+}

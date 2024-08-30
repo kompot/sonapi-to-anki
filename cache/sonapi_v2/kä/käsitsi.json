@@ -1,0 +1,110 @@
+{
+  "requestedWord": "käsitsi",
+  "estonianWord": "käsitsi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "käsitsi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(kakluse kohta:) kätega, käsi kasutades,käsipidi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tormas teisele käsitsi kallale.",
+            "Mõlemad olid nii vihased, et oleksid peaaegu käsitsi kokku läinud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "руками",
+                "weight": 1
+              },
+              {
+                "words": "врукопашную",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(töötamise kohta:) käte jõul või abil, hrl vastanduses automatiseeritud tööle,kätega, käte abil",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Käsitsi kootud kampsun.",
+            "Üleskutset paljundati käsitsi.",
+            "Täitsin ankeedi käsitsi.",
+            "Kas kirjand tuleb kirjutada arvutis või käsitsi?",
+            "Õrna pesu tohib ainult käsitsi pesta."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "à la main",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вручную",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "руками",
+                "weight": 1
+              },
+              {
+                "words": "вручну",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "põlve peal",
+        "primitiivselt",
+        "lihtsustatult",
+        "põlve otsas",
+        "algeliselt",
+        "käsitsitöö",
+        "käsitsipesu",
+        "käsitsema",
+        "käsitrell"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "käsitsi",
+      "translations": [
+        "by hand",
+        "manually"
+      ]
+    }
+  ]
+}

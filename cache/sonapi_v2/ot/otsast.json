@@ -1,0 +1,100 @@
+{
+  "requestedWord": "otsast",
+  "estonianWord": "otsast",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "otsast"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "pealt, küljest,osalt, järguti (mingist kogumist).,pealt, küljest,millegi tipust",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Noppisin puu otsast ploome.",
+            "Laps kukkus kivi otsast maha.",
+            "Masin oli töölisel käe otsast rebinud.",
+            "Valmistoitu oli nii palju, et hakkas otsast halvaks minema.",
+            "Nukul on pea otsast ära.",
+            "Laps ei saanud õuna puu otsast kätte.",
+            "Mäe otsast avanes ilus vaade.",
+            "Pesa kukkus posti otsast alla."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "с",
+                "weight": 1
+              },
+              {
+                "words": "со",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з",
+                "weight": 1
+              },
+              {
+                "words": "із",
+                "weight": 1
+              },
+              {
+                "words": "зі",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "küljest",
+        "murdma",
+        "jälle",
+        "pealt",
+        "lahti",
+        "lahti saama",
+        "maha",
+        "uuesti",
+        "rebima",
+        "kõrvale hiilima",
+        "kiskuma",
+        "ära",
+        "ära",
+        "eestotsast",
+        "otsaeest",
+        "äärest",
+        "otsas",
+        "otsa",
+        "mokaotsast"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "otsast",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "requestedWord": "seetõttu",
+  "estonianWord": "seetõttu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "seetõttu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sel põhjusel, selle tõttu,sel põhjusel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kaamera on korralikult katki ja seetõttu remondis.",
+            "Uued saapad on kerged ja seetõttu mugavamad."
+          ],
+          "synonyms": [
+            "seepärast",
+            "sellepärast",
+            "selletõttu",
+            "selle pärast",
+            "miska,mistõttu"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "c'est pourquoi",
+                "weight": 1
+              },
+              {
+                "words": "c'est pour ça que",
+                "weight": 1
+              },
+              {
+                "words": "c'est pour cela que",
+                "weight": 1
+              },
+              {
+                "words": "c'est pourquoi,c'est la raison pour laquelle",
+                "weight": 0.8403
+              }
+            ],
+            "rus": [
+              {
+                "words": "поэтому",
+                "weight": 1
+              },
+              {
+                "words": "потому",
+                "weight": 1
+              },
+              {
+                "words": "оттого",
+                "weight": 1
+              },
+              {
+                "words": "из-за того",
+                "weight": 1
+              },
+              {
+                "words": "затем",
+                "weight": 1
+              },
+              {
+                "words": "вследствие того",
+                "weight": 1
+              },
+              {
+                "words": "посему",
+                "weight": 1
+              },
+              {
+                "words": "почему,отчего,вследствие чего,из-за чего",
+                "weight": 0.8403
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тому",
+                "weight": 1
+              },
+              {
+                "words": "через те",
+                "weight": 1
+              },
+              {
+                "words": "того",
+                "weight": 1
+              },
+              {
+                "words": "чому,чого,через що,внаслідок чого",
+                "weight": 0.8403
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "misläbi",
+        "seepärast",
+        "sellepärast",
+        "seekaudu",
+        "sestap",
+        "mistõttu",
+        "seeläbi",
+        "toopärast",
+        "kuigi",
+        "see",
+        "sageli",
+        "kuid",
+        "aga",
+        "aga",
+        "siiski",
+        "ilmselt",
+        "tõenäoliselt",
+        "eelkõige",
+        "kui",
+        "kui",
+        "tavaliselt",
+        "seega",
+        "pigem",
+        "loomulikult",
+        "tõttu",
+        "samuti",
+        "selletõttu",
+        "enamasti",
+        "eriti",
+        "sellepoolest",
+        "tegelikult",
+        "tihti",
+        "just",
+        "sest",
+        "kuna",
+        "kuna",
+        "üldiselt",
+        "siis",
+        "väga",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "seetõttu",
+      "translations": [
+        "because of this",
+        "for that reason",
+        "hereby",
+        "on account of this",
+        "thereafter",
+        "thereby",
+        "thereof"
+      ]
+    }
+  ]
+}

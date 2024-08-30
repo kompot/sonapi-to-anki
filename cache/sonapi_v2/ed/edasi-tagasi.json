@@ -1,0 +1,190 @@
+{
+  "requestedWord": "edasi-tagasi",
+  "estonianWord": "edasi-tagasi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "edasi-tagasi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vaheldumisi kord ühes, kord vastupidises suunas,mingisse paika ja sealt lähtekohta tagasi,alguses ühes, siis vastupidises suunas (mitu korda järjest)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mees kõigutab end palverütmis edasi-tagasi.",
+            "Kerisime videolinti edasi-tagasi.",
+            "Matkaraja pikkus on edasi-tagasi kuus kilomeetrit.",
+            "Kas osta edasi-tagasi lennupilet või üheotsapilet?",
+            "Koer jooksis aias edasi-tagasi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "back and forth",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "en avant et en arrière",
+                "weight": 1
+              },
+              {
+                "words": "dans un sens et dans l'autre",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "взад и вперёд",
+                "weight": 1
+              },
+              {
+                "words": "взад-вперёд",
+                "weight": 1
+              },
+              {
+                "words": "туда и обратно",
+                "weight": 1
+              },
+              {
+                "words": "из стороны в сторону",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "назад і вперед",
+                "weight": 1
+              },
+              {
+                "words": "туди й сюди",
+                "weight": 1
+              },
+              {
+                "words": "туди-сюди",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mitmesse (ebamäärasesse) suunda, (juhuslikku) kohta,eri kohtadesse, mitmesse kohta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Väljak oli täis inimesi, kes sebisid sihitult edasi-tagasi."
+          ],
+          "synonyms": [
+            "siia-sinna",
+            "siia ja sinna"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "ici et là",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "туда и сюда",
+                "weight": 1
+              },
+              {
+                "words": "туда-сюда",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "туди-сюди",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "nii ja teisiti, eri moodi, eri viisil",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Asja arutati edasi-tagasi, aga head lahendust ei leitudki."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "и так и так",
+                "weight": 1
+              },
+              {
+                "words": "и так и сяк",
+                "weight": 1
+              },
+              {
+                "words": "и так и этак",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sinna-tänna",
+        "kaksiti",
+        "siia-sinna",
+        "kaksipidi",
+        "siia ja sinna",
+        "kaheti",
+        "kahtepidi",
+        "nii ja naa",
+        "ümber",
+        "üles-alla",
+        "pealepoole",
+        "ringi",
+        "mööda",
+        "ette-taha",
+        "ringiratast",
+        "ringe"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "edasi-tagasi",
+      "translations": [
+        "back and forth",
+        "back-and-forth",
+        "backward and forward",
+        "backwards and forwards",
+        "round-trip",
+        "to and fro"
+      ]
+    }
+  ]
+}

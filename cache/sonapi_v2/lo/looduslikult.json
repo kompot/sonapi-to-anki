@@ -1,0 +1,66 @@
+{
+  "requestedWord": "looduslikult",
+  "estonianWord": "looduslikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "looduslikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "looduse poolest, looduslike olude poolest",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Looduslikult kaunis koht."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "looduslikes oludes, inimtegevuse mõjuta, kultiveerimata",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Looduslikult kasvab meil igihalja liaanina harilik luuderohi.",
+            "Mets jäeti looduslikult uuenema."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "looduslikum",
+        "looduslikkus",
+        "looduslik",
+        "looduslähedaselt",
+        "ökoloogiliselt",
+        "tehislikult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "looduslikult",
+      "translations": []
+    }
+  ]
+}

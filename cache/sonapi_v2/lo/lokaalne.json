@@ -1,0 +1,347 @@
+{
+  "requestedWord": "lokaalne",
+  "estonianWord": "lokaalne",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "02",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "lokaalne"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "lokaalse"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "lokaalset"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "lokaalsesse"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "lokaalses"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "lokaalsest"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "lokaalsele"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "lokaalsel"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "lokaalselt"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "lokaalseks"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "lokaalseni"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "lokaalsena"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "lokaalseta"
+        },
+        {
+          "inflectionType": "02",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "lokaalsega"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "lokaalsed"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "lokaalsete"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "lokaalseid"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "lokaalsetesse,lokaalseisse"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "lokaalsetes,lokaalseis"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "lokaalsetest,lokaalseist"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "lokaalsetele,lokaalseile"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "lokaalsetel,lokaalseil"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "lokaalsetelt,lokaalseilt"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "lokaalseteks,lokaalseiks"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "lokaalseteni"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "lokaalsetena"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "lokaalseteta"
+        },
+        {
+          "inflectionType": "02",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "lokaalsetega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingit kindlat paikkonda hõlmav, selles esinev või sellele iseloomulik",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Lokaalse tähtsusega sündmus.",
+            "Globaalsed ja lokaalsed nähtused."
+          ],
+          "synonyms": [
+            "piirdunud",
+            "paiklik",
+            "kohapealne",
+            "kohalik",
+            "paikne"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "локальный",
+                "weight": 1
+              },
+              {
+                "words": "местный",
+                "weight": 1
+              },
+              {
+                "words": "местный,локальный,ограниченный",
+                "weight": 0.9
+              },
+              {
+                "words": "местный,локальный",
+                "weight": 0.9
+              },
+              {
+                "words": "местный",
+                "weight": 0.7
+              },
+              {
+                "words": "здешний,местный,локальный",
+                "weight": 0.9
+              },
+              {
+                "words": "оседлый",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "local",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тутешній,локальний,місцевий",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingi kitsama paiga või ruumiosaga seotud, sealtsamast kontrollitav või juhitav",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Lokaalne küttesüsteem."
+          ],
+          "synonyms": [
+            "paiklik"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "локальный",
+                "weight": 1
+              },
+              {
+                "words": "местный",
+                "weight": 1
+              },
+              {
+                "words": "местный,локальный",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(hrl haigustega seoses:) mingi kindla kehapiirkonna või -punktiga seotud",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Lokaalne ravi."
+          ],
+          "synonyms": [
+            "paikne",
+            "kohalik"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "местный",
+                "weight": 1
+              },
+              {
+                "words": "локальный",
+                "weight": 1
+              },
+              {
+                "words": "локальный,местный",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kohapealne",
+        "kohalik",
+        "piirdunud",
+        "paiklik",
+        "paikne",
+        "apikaalne",
+        "uvulaarne",
+        "subkortikaalne",
+        "globaalne",
+        "kardiaalne",
+        "kortikaalne",
+        "lokaalküte",
+        "fiskaalne",
+        "lokaalanesteesia",
+        "lokaalselt",
+        "lokaal",
+        "vokaalne",
+        "urogenitaalne",
+        "fokaalne"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lokaalne",
+      "translations": [
+        "local"
+      ]
+    }
+  ]
+}

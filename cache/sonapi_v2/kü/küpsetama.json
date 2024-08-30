@@ -1,0 +1,648 @@
+{
+  "requestedWord": "küpsetama",
+  "estonianWord": "küpsetama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "küpsetama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "küpsetamata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "küpsetamas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "küpsetamast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "küpsetamaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "küpsetatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "küpsetada"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "küpsetades"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "küpsetav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "küpsetatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "küpsetanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "küpsetanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "küpsetatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "küpsetatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "küpsetan"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "küpsetad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "küpsetab"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "küpsetame"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "küpsetate"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "küpsetavad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "küpseta"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "küpsetatakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "küpsetata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "küpsetasin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "küpsetasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "küpsetas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "küpsetasime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "küpsetasite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "küpsetasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "küpsetati"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "küpsetaksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "küpsetaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "küpsetaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "küpsetaksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "küpsetaksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "küpsetaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "küpsetataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "küpsetanuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "küpsetanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "küpsetanuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "küpsetanuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "küpsetanuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "küpsetanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "küpsetatuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "küpsetavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "küpsetatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "küpsetanuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "küpsetatuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "küpseta"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "küpsetagem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "küpsetage"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "küpsetagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "küpsetatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "toorest toiduainet (kuivas) kuumuses toiduks valmistama,toorest toiduainet kuumas kohas (näiteks ahjus või pannil) toiduks tegema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Laupäeval küpsetas ema tavaliselt kooki.",
+            "Ema küpsetas lastele maitsva koogi."
+          ],
+          "synonyms": [
+            "praadima",
+            "grillima",
+            "pruunistama",
+            "röstima",
+            "kõrvetama"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "bake",
+                "weight": 1
+              },
+              {
+                "words": "fry",
+                "weight": 0.8395
+              },
+              {
+                "words": "grill",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "faire cuire",
+                "weight": 1
+              },
+              {
+                "words": "cuire",
+                "weight": 1
+              },
+              {
+                "words": "faire sauter,faire cuire,faire revenir",
+                "weight": 0.8395
+              },
+              {
+                "words": "faire griller",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "печь",
+                "weight": 1
+              },
+              {
+                "words": "испечь",
+                "weight": 1
+              },
+              {
+                "words": "выпекать",
+                "weight": 1
+              },
+              {
+                "words": "выпечь",
+                "weight": 1
+              },
+              {
+                "words": "жарить",
+                "weight": 1
+              },
+              {
+                "words": "зажарить",
+                "weight": 1
+              },
+              {
+                "words": "жарить,зажарить,прожаривать,прожарить,изжарить,поджаривать,поджарить,обжаривать,обжарить,пожарить,нажаривать,нажарить",
+                "weight": 0.8395
+              },
+              {
+                "words": "жарить на гриле,запекать в гриле,запечь в гриле",
+                "weight": 0.7
+              },
+              {
+                "words": "зарумянить,калить,подрумянивать,подрумянить,поджаривать,поджарить,обжаривать,обжарить,зарумянивать",
+                "weight": 0.75
+              },
+              {
+                "words": "калить,поджаривать,поджарить,прокаливать,прокалить,жарить",
+                "weight": 0.7075
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пекти",
+                "weight": 1
+              },
+              {
+                "words": "спекти",
+                "weight": 1
+              },
+              {
+                "words": "випікати",
+                "weight": 1
+              },
+              {
+                "words": "випекти",
+                "weight": 1
+              },
+              {
+                "words": "смажити,посмажити,засмажувати,засмажити,підсмажувати,підсмажити",
+                "weight": 0.8395
+              },
+              {
+                "words": "смажити на грилі",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "marju, vilju vms soojuse, kuumuse vm mõjul söömisvalmiks muutma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Päike küpsetas maasikad punaseks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "доводить до спелости",
+                "weight": 1
+              },
+              {
+                "words": "доводить до зрелости",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(päikesekuumuse kohta:) väga tugevasti mõjuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Juulikuumus küpsetas korralikult, aga festivalikülalisi see ei heidutanud."
+          ],
+          "synonyms": [
+            "praadima",
+            "päevitama",
+            "kütma",
+            "kõrvetama",
+            "põletama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "печь",
+                "weight": 1
+              },
+              {
+                "words": "жарить",
+                "weight": 1
+              },
+              {
+                "words": "палить",
+                "weight": 1
+              },
+              {
+                "words": "разогревать,разогреть,греть,согреть,согревать,нагревать,нагреть,подогреть,подогревать",
+                "weight": 0.7
+              },
+              {
+                "words": "печь,жарить,палить",
+                "weight": 0.7
+              },
+              {
+                "words": "печь,жечь,обжигать,обжечь,ожигать,ожечь,припекать,припечь,палить",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "brûler",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пекти,попекти,обпікати,обпекти,припікати,припекти",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "välja kujundama, välja arendama, (mõttes) vormima",
+          "partOfSpeech": [],
+          "examples": [
+            "Olin seda otsust kaua küpsetanud."
+          ],
+          "synonyms": [
+            "arendama,edendama",
+            "kujundama",
+            "vormima",
+            "kujundama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "вынашивать",
+                "weight": 1
+              },
+              {
+                "words": "выносить",
+                "weight": 1
+              },
+              {
+                "words": "развить,способствовать развитию,содействовать развитию,развивать",
+                "weight": 0.9
+              },
+              {
+                "words": "создать,формировать,создавать,образовывать,образовать",
+                "weight": 0.9
+              },
+              {
+                "words": "формировать,сформировать",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "développer",
+                "weight": 0.9
+              },
+              {
+                "words": "façonner,former",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "розвивати,розвинути",
+                "weight": 0.9
+              },
+              {
+                "words": "створити,формувати,створювати",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "põletama",
+        "kütma",
+        "kõrvetama",
+        "päevitama",
+        "kujundama",
+        "vormima",
+        "praadima",
+        "arendama",
+        "pruunistama",
+        "röstima",
+        "vaaritama",
+        "valmistama",
+        "kuumutama",
+        "peesitama",
+        "päikest võtma",
+        "pleegitama",
+        "pleekima",
+        "keetma",
+        "sulatama",
+        "küpsetatult",
+        "maitsma",
+        "nikerdama",
+        "serveerima",
+        "lõkerdama",
+        "kugistama",
+        "krõbistama",
+        "leotama",
+        "maiustama",
+        "hautama",
+        "marineerima",
+        "pirtsutama",
+        "viilutama",
+        "meisterdama",
+        "maitsestama",
+        "isutama",
+        "vesistama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "küpsetama",
+      "translations": [
+        "bake",
+        "broil (tulel)",
+        "cook",
+        "grill",
+        "potch"
+      ]
+    }
+  ]
+}

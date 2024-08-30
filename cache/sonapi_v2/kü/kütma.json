@@ -1,0 +1,760 @@
+{
+  "requestedWord": "kütma",
+  "estonianWord": "kütma",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "35",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "kütan"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "kütad"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "kütab"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "kütame"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "kütate"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "kütavad"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "küta"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "köetakse"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "köeta"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "kütsin"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "kütsid"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "küttis"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "kütsime"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "kütsite"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "kütsid"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "köeti"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "kütaksin"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "kütaksid"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "kütaks"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "kütaksime"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "kütaksite"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "kütaksid"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "köetaks"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "kütnuksin"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "kütnuksid"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "kütnuks"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "kütnuksime"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "kütnuksite"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "kütnuksid"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "köetuks"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "kütvat"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "köetavat"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "kütnuvat"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "köetuvat"
+        },
+        {
+          "inflectionType": "35",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "küta"
+        },
+        {
+          "inflectionType": "35",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "kütkem"
+        },
+        {
+          "inflectionType": "35",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "kütke"
+        },
+        {
+          "inflectionType": "35",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "kütku"
+        },
+        {
+          "inflectionType": "35",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "köetagu"
+        },
+        {
+          "inflectionType": "35",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "kütma"
+        },
+        {
+          "inflectionType": "35",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "kütmata"
+        },
+        {
+          "inflectionType": "35",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "kütmas"
+        },
+        {
+          "inflectionType": "35",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "kütmast"
+        },
+        {
+          "inflectionType": "35",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "kütmaks"
+        },
+        {
+          "inflectionType": "35",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "köetama"
+        },
+        {
+          "inflectionType": "35",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "kütta"
+        },
+        {
+          "inflectionType": "35",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "küttes"
+        },
+        {
+          "inflectionType": "35",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "küttev"
+        },
+        {
+          "inflectionType": "35",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "köetav"
+        },
+        {
+          "inflectionType": "35",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "kütnud"
+        },
+        {
+          "inflectionType": "35",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "kütnud"
+        },
+        {
+          "inflectionType": "35",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "köetud"
+        },
+        {
+          "inflectionType": "35",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "köetud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ahju vm küttekoldesse tuld tegema või kütteseadet tööle panema, et see soojust levitaks,mingit ruumi soojaks või kuumaks tegema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ahju ja suurt tuba köetakse esikust.",
+            "Õhtul kütan sauna.",
+            "Katlaid köetakse ainult põlevkiviõliga.",
+            "Toad olid kütmata ja külmad.",
+            "Kas teie majas praegu köetakse?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "chauffer",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "топить",
+                "weight": 1
+              },
+              {
+                "words": "отапливать",
+                "weight": 1
+              },
+              {
+                "words": "отопить",
+                "weight": 1
+              },
+              {
+                "words": "натапливать",
+                "weight": 1
+              },
+              {
+                "words": "натопить",
+                "weight": 1
+              },
+              {
+                "words": "истапливать",
+                "weight": 1
+              },
+              {
+                "words": "истопить",
+                "weight": 1
+              },
+              {
+                "words": "вытапливать",
+                "weight": 1
+              },
+              {
+                "words": "вытопить",
+                "weight": 1
+              },
+              {
+                "words": "затапливать",
+                "weight": 1
+              },
+              {
+                "words": "затопить",
+                "weight": 1
+              },
+              {
+                "words": "растапливать",
+                "weight": 1
+              },
+              {
+                "words": "растопить",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "палити",
+                "weight": 1
+              },
+              {
+                "words": "топити",
+                "weight": 1
+              },
+              {
+                "words": "опалювати",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kütteseadme vm soojusallika kohta:) kedagi või midagi (tugevasti) soojendama või kuumutama, soojemaks või kuumaks muutma",
+          "partOfSpeech": [],
+          "examples": [
+            "Päike kütab armutult.",
+            "Soojuspump kütab ruumi, võttes soojust välisõhust temperatuuriga 8° C."
+          ],
+          "synonyms": [
+            "lämmitama,soendama,soojendama",
+            "kuumutama",
+            "praadima,küpsetama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "греть",
+                "weight": 1
+              },
+              {
+                "words": "согревать",
+                "weight": 1
+              },
+              {
+                "words": "согреть",
+                "weight": 1
+              },
+              {
+                "words": "нагревать",
+                "weight": 1
+              },
+              {
+                "words": "нагреть",
+                "weight": 1
+              },
+              {
+                "words": "подогревать",
+                "weight": 1
+              },
+              {
+                "words": "подогреть",
+                "weight": 1
+              },
+              {
+                "words": "разогревать",
+                "weight": 1
+              },
+              {
+                "words": "разогреть",
+                "weight": 1
+              },
+              {
+                "words": "подогреть,нагревать,нагреть,разогревать,разогреть,греть,согреть,греться,погреться,согревать,подогревать",
+                "weight": 0.54
+              },
+              {
+                "words": "раскаливать,подогревать,подогреть,калить,накалить,накалять,раскалять,раскалить,нагревать,нагреть,разогревать,разогреть,греть,согреть,накаливать",
+                "weight": 0.7
+              },
+              {
+                "words": "печь,жарить,палить",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "гріти,зігрівати,зігріти,нагрівати,нагріти,підігрівати,підігріти,розігрівати,розігріти,грітися,погрітися",
+                "weight": 0.54
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi tundeid, meeli erutama, mingile tegevusele ergutama või ägedaks muutma",
+          "partOfSpeech": [],
+          "examples": [
+            "Praegu kütab meeli kooseluseadus.",
+            "Erootika kütab fantaasiat.",
+            "Umbusaldus kütab hirme."
+          ],
+          "synonyms": [
+            "üles kütma",
+            "ägestama",
+            "lõkkele puhuma",
+            "ergutama,innustama,tagant innustama,ärgitama",
+            "hagu alla andma,hagu andma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "разжигать",
+                "weight": 1
+              },
+              {
+                "words": "разжечь",
+                "weight": 1
+              },
+              {
+                "words": "распалять",
+                "weight": 1
+              },
+              {
+                "words": "распалить",
+                "weight": 1
+              },
+              {
+                "words": "горячить",
+                "weight": 1
+              },
+              {
+                "words": "разгорячить",
+                "weight": 1
+              },
+              {
+                "words": "разогреть,разжигать,разжечь,накалить,накалять,разогревать",
+                "weight": 0.75
+              },
+              {
+                "words": "распалить,ожесточать,ожесточить,разгорячать,разгорячить,распалять",
+                "weight": 0.75
+              },
+              {
+                "words": "заряжать,зарядить,пришпоривать,пришпорить,подгонять,подогнать,подтолкнуть,подталкивать,вдохновлять,воодушевлять,побуждать,побудить,подбадривать,подбодрить,подбодрять,вдохновить,воодушевить,одухотворять,одухотворить",
+                "weight": 0.7
+              },
+              {
+                "words": "подбрасывать хворост,подбросить хворост",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kiire liigutamise, ägeda tegutsemise kohta)",
+          "partOfSpeech": [],
+          "examples": [
+            "Bänd küttis täiega, laulja on tippvormis.",
+            "Võtku aga memm jalad selga ja kütku ise kohale.",
+            "Mul sai villand ja kütsin norijale vastu hambaid."
+          ],
+          "synonyms": [
+            "kihutama,kimama",
+            "jooksma",
+            "laduma",
+            "silkama,sirkama",
+            "kihutama",
+            "lippama",
+            "kappama",
+            "tormama",
+            "pistma",
+            "leekima",
+            "punuma",
+            "litsuma",
+            "kupatama",
+            "kupatama,virutama",
+            "pürstima,pühkima",
+            "tuiskama",
+            "lõikama",
+            "kõrvetama,põletama",
+            "hagu andma,hagu alla andma",
+            "tuiskama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "давать жару",
+                "weight": 1
+              },
+              {
+                "words": "дать жару",
+                "weight": 1
+              },
+              {
+                "words": "мчаться,нестись,гнать,мчать,гонять",
+                "weight": 0.9
+              },
+              {
+                "words": "бегать",
+                "weight": 0.9
+              },
+              {
+                "words": "драть со всех ног,улепётывать,бежать со всех ног,бегать,бежать,драть,бежать во все лопатки,мчаться во все лопатки,драть во все лопатки,стрекать",
+                "weight": 0.9
+              },
+              {
+                "words": "всадить",
+                "weight": 0.9
+              },
+              {
+                "words": "удрать,сбегать,улепётывать,слетать,удирать,сбежать,бегать,бежать,убегать,убежать",
+                "weight": 0.9
+              },
+              {
+                "words": "мчать,устремиться,мчаться,устремляться,помчаться,ринуться,понестись,рвануться,броситься,нестись,пуститься",
+                "weight": 0.9
+              },
+              {
+                "words": "бросаться,кинуться,броситься,кидаться",
+                "weight": 0.9
+              },
+              {
+                "words": "уноситься,гнать,мчаться,стегать,нестись,удирать,удрать,умчаться,драть,унестись,лететь,дуть",
+                "weight": 0.9
+              },
+              {
+                "words": "мчаться во все лопатки,бежать во все лопатки,драть,припустить во все лопатки,драть со всех ног,драть во все лопатки",
+                "weight": 0.9
+              },
+              {
+                "words": "уноситься,умчаться,понестись,мчать,мчаться,помчаться,нестись,помчать,унестись",
+                "weight": 0.9
+              },
+              {
+                "words": "валить,швырять,швырнуть,заехать,поддавать,поддать,садануть,бабахнуть,бабахать,шибать,шибануть,звездануть,съездить,ударять,ударить",
+                "weight": 0.9
+              },
+              {
+                "words": "помчать,мчаться,помчаться,нестись,понестись",
+                "weight": 0.9
+              },
+              {
+                "words": "налечь,налегать",
+                "weight": 0.9
+              },
+              {
+                "words": "стегнуть,хлестнуть",
+                "weight": 0.9
+              },
+              {
+                "words": "шпарить,жарить,жечь",
+                "weight": 0.484
+              },
+              {
+                "words": "подбросить хворост,подбрасывать хворост",
+                "weight": 0.7
+              },
+              {
+                "words": "мчать,мчаться,носиться вихрем",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "foncer",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "мчатися,гнатися,нестися,мчати",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kuumutama",
+        "hagu andma",
+        "hagu alla andma",
+        "ergutama",
+        "lõkkele puhuma",
+        "silkama",
+        "kihutama",
+        "lippama",
+        "kappama",
+        "tormama",
+        "pistma",
+        "leekima",
+        "litsuma",
+        "punuma",
+        "traavima",
+        "liduma",
+        "kupatama",
+        "pühkima",
+        "jooksma",
+        "laduma",
+        "tuiskama",
+        "kimama",
+        "lõikama",
+        "üles kütma",
+        "ägestama",
+        "soojendama",
+        "põletama",
+        "lõõmutama",
+        "silima",
+        "sibama",
+        "sudima",
+        "leekima",
+        "putkama",
+        "punuma",
+        "jalgu selga võtma",
+        "kupatama",
+        "plettima",
+        "sirkama",
+        "padistama",
+        "hilpama",
+        "vudima",
+        "vudistama",
+        "sidima",
+        "vadima",
+        "plagama",
+        "hõõgutama",
+        "ärritama",
+        "müristama",
+        "soojenema",
+        "lõõmama",
+        "kütte",
+        "küdema",
+        "küttekolle",
+        "üürgama",
+        "renoveerima",
+        "kütmine",
+        "remontima",
+        "ahjuküte",
+        "ehitama",
+        "soojustama",
+        "lammutama",
+        "puhuma",
+        "koristama",
+        "hõõguma",
+        "jahutama",
+        "andma"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kütma",
+      "translations": [
+        "fuel",
+        "heat",
+        "stoke"
+      ]
+    }
+  ]
+}

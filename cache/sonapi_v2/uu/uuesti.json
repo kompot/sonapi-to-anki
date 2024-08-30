@@ -1,0 +1,162 @@
+{
+  "requestedWord": "uuesti",
+  "estonianWord": "uuesti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "uuesti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(teatud aja järel) uut puhku,näitab, et samasugune tegevus või olukord on juba varem toimunud või olnud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Päike tõuseb alati uuesti.",
+            "Hakkas uuesti sadama.",
+            "Kui keegi ei vasta, siis helista hiljem uuesti."
+          ],
+          "synonyms": [
+            "jälle",
+            "jällegi",
+            "taas",
+            "taaskord,taas kord,taaskordselt",
+            "veelkord,veel kord"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "again",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "de nouveau",
+                "weight": 1
+              },
+              {
+                "words": "encore",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "снова",
+                "weight": 1
+              },
+              {
+                "words": "вновь",
+                "weight": 1
+              },
+              {
+                "words": "заново",
+                "weight": 1
+              },
+              {
+                "words": "опять",
+                "weight": 1
+              },
+              {
+                "words": "снова,в очередной раз,вновь,повторно",
+                "weight": 0.606
+              },
+              {
+                "words": "ещё раз",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "знову",
+                "weight": 1
+              },
+              {
+                "words": "знов",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teisiti, uut moodi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "See seadus tuleks algusest lõpuni uuesti kirjutada."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "jälle",
+        "taas",
+        "remilitariseerima",
+        "taaslooma",
+        "jällegi",
+        "teistkordselt",
+        "järjekordselt",
+        "otsast",
+        "ümber tegema",
+        "ümber",
+        "kaaluma",
+        "vaagima",
+        "üleni",
+        "üle lugema",
+        "revideerima",
+        "panema",
+        "lugema",
+        "üles",
+        "esmalt",
+        "uuestisündinu",
+        "peale",
+        "kohe",
+        "kohe",
+        "pärast",
+        "varsti",
+        "korda",
+        "kiiresti",
+        "nüüd",
+        "alles",
+        "korralikumalt",
+        "tagasi",
+        "lõpuks",
+        "lõplikult",
+        "kõigepealt",
+        "ruttu-ruttu",
+        "seejärel"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "uuesti",
+      "translations": [
+        "afresh",
+        "again",
+        "anew",
+        "newly",
+        "redux"
+      ]
+    }
+  ]
+}

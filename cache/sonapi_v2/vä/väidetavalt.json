@@ -1,0 +1,86 @@
+{
+  "requestedWord": "väidetavalt",
+  "estonianWord": "väidetavalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "väidetavalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nii, nagu väidetakse, nagu kellegi meelest miski on olnud, toimunud vms",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Väidetavalt kohtles ta lapsi halvasti."
+          ],
+          "synonyms": [
+            "väidetavasti"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "предположительно",
+                "weight": 1
+              },
+              {
+                "words": "якобы",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kuulukse",
+        "öeldavasti",
+        "kuuldavasti",
+        "väidetavasti",
+        "kuulu järgi",
+        "ilmselgelt",
+        "teadmatult",
+        "teadaolevalt",
+        "väitel",
+        "ilmselt",
+        "kes",
+        "samuti",
+        "tõenäoliselt",
+        "tõepoolest",
+        "arvatavalt",
+        "arvatavasti",
+        "kuna",
+        "kuna",
+        "see",
+        "mis",
+        "tegelikult",
+        "võikalt",
+        "aga",
+        "aga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "väidetavalt",
+      "translations": [
+        "allegedly",
+        "arguably",
+        "supposedly"
+      ]
+    }
+  ]
+}

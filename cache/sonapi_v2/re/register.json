@@ -1,0 +1,487 @@
+{
+  "requestedWord": "register",
+  "estonianWord": "register",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "register"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "registri"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "registrit"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "registrisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "registris"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "registrist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "registrile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "registril"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "registrilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "registriks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "registrini"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "registrina"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "registrita"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "registriga"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "registrid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "registrite"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "registreid"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "registritesse,registreisse"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "registrites,registreis"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "registritest,registreist"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "registritele,registreile"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "registritel,registreil"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "registritelt,registreilt"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "registriteks,registreiks"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "registriteni"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "registritena"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "registriteta"
+        },
+        {
+          "inflectionType": "2e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "registritega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ametlik andmekogu, mis sisaldab nt isikute, hoonete, sõidukite põhiandmeid",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tartu linna elanike register.",
+            "Riigihangete register.",
+            "Relvaregister.",
+            "Väärtpaberiregister."
+          ],
+          "synonyms": [
+            "loetelu",
+            "nimekiri,nimestik,nimistu",
+            "loend",
+            "andmebaas"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "регистр",
+                "weight": 1
+              },
+              {
+                "words": "реестр",
+                "weight": 1
+              },
+              {
+                "words": "перечисление,указатель,список,перечень",
+                "weight": 0.9
+              },
+              {
+                "words": "список,перечень,именной список,поимённый список,опись",
+                "weight": 0.9
+              },
+              {
+                "words": "список,роспись,указатель,перечень",
+                "weight": 0.9
+              },
+              {
+                "words": "база данных",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "liste,énumération",
+                "weight": 0.9
+              },
+              {
+                "words": "liste",
+                "weight": 0.9
+              },
+              {
+                "words": "liste",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "список,перелік",
+                "weight": 0.9
+              },
+              {
+                "words": "список",
+                "weight": 0.9
+              },
+              {
+                "words": "перелік,список",
+                "weight": 0.9
+              },
+              {
+                "words": "база даних",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ainestiku leidmist hõlbustav (tähestikuline) märksõna- või nimeloend (nt teose lõpus)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kahjuks pole raamatus registreid."
+          ],
+          "synonyms": [
+            "indeks",
+            "nimistu,nimestik,nimekiri",
+            "loend",
+            "raamat",
+            "loetelu",
+            "konkordants",
+            "nimeregister"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "индекс",
+                "weight": 1
+              },
+              {
+                "words": "указатель",
+                "weight": 1
+              },
+              {
+                "words": "опись,поимённый список,именной список,перечень,список",
+                "weight": 0.9
+              },
+              {
+                "words": "список,перечень,указатель,роспись",
+                "weight": 0.9
+              },
+              {
+                "words": "книга",
+                "weight": 0.7
+              },
+              {
+                "words": "перечисление,указатель,список,перечень",
+                "weight": 0.9
+              },
+              {
+                "words": "конкорданс",
+                "weight": 0.9
+              },
+              {
+                "words": "указатель имён,именной указатель",
+                "weight": 0.726
+              }
+            ],
+            "fra": [
+              {
+                "words": "liste",
+                "weight": 0.9
+              },
+              {
+                "words": "liste",
+                "weight": 0.9
+              },
+              {
+                "words": "liste,énumération",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "список",
+                "weight": 0.9
+              },
+              {
+                "words": "список,перелік",
+                "weight": 0.9
+              },
+              {
+                "words": "список,перелік",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "muusikariista või inimhääle heliulatuse lõik, millele on iseloomulik ühesugune kõlavärving",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Madalas registris on flöödi hääl mahe ja sametine."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "регистр",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rühm oreli, harmooniumi või akordioni ühesuguse kõlavärvinguga helisid,neid tekitavad ühetüübilised viled või keeled",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "23 registriga orel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "регистр",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "keele kiht või allkeel, millele on iseloomulik teatav sõnavara, süntaks, hääldus vms vastavalt keelekasutuse olukorrale, suhtluseesmärgile (nt ametlik keel, släng)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tunnis harjutati väljendite tõlkimist ühest registrist teise."
+          ],
+          "synonyms": [
+            "allkeel,erikeel"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "регистр",
+                "weight": 1
+              },
+              {
+                "words": "стиль",
+                "weight": 1
+              },
+              {
+                "words": "подъязык,арго",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(elektroonilistes seadmetes:) andmeüksusi lühikest aega säilitav salvesti",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Käsuregister.",
+            "Aadressiregister."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "регистр",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "allkeel",
+        "andmebaas",
+        "helistik",
+        "loend",
+        "nimistu",
+        "nimestik",
+        "nimekiri",
+        "nomenklatuur",
+        "konkordants",
+        "indeks",
+        "loetelu",
+        "loetlus",
+        "registertonn",
+        "kinnistusregister",
+        "keskregister",
+        "laevaregister",
+        "nimeregister",
+        "käsuregister",
+        "kinnisvararegister",
+        "sünniregister",
+        "paturegister",
+        "aineregister",
+        "hooneregister"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "register",
+      "translations": [
+        "index",
+        "register",
+        "registry (asutusena)"
+      ]
+    }
+  ]
+}

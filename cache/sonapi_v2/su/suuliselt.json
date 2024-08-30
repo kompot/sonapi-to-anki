@@ -1,0 +1,100 @@
+{
+  "requestedWord": "suuliselt",
+  "estonianWord": "suuliselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "suuliselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kõneldud kujul, kirjaliku vahenduseta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Palun vastake suuliselt."
+          ],
+          "synonyms": [
+            "suusõnaliselt",
+            "suusõnal"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "oralement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "устно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "усно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "levima",
+        "läbi ratsutama",
+        "peatuma",
+        "kõlisema",
+        "kõmama",
+        "edasi kanduma",
+        "kõmisema",
+        "käsitlema",
+        "lendama",
+        "kõne alla võtma",
+        "kirjalikult",
+        "kirjutama",
+        "ringlema",
+        "libistama",
+        "arutama",
+        "rääkima",
+        "trakteerima",
+        "vaatlema",
+        "riivama",
+        "arutusele võtma",
+        "puudutama",
+        "üldsõnaliselt",
+        "suulised",
+        "suuline",
+        "kindlasõnaliselt",
+        "suulihas",
+        "lihtkirjalik",
+        "kirjalik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "suuliselt",
+      "translations": [
+        "by parol",
+        "orally",
+        "verbally",
+        "viva voce"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "requestedWord": "väljaminek",
+  "estonianWord": "väljaminek",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "väljaminek"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "väljamineku"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "väljaminekut"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "väljaminekusse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "väljaminekus"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "väljaminekust"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "väljaminekule"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "väljaminekul"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "väljaminekult"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "väljaminekuks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "väljaminekuni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "väljaminekuna"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "väljaminekuta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "väljaminekuga"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "väljaminekud"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "väljaminekute"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "väljaminekuid"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "väljaminekutesse,väljaminekuisse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "väljaminekutes,väljaminekuis"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "väljaminekutest,väljaminekuist"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "väljaminekutele,väljaminekuile"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "väljaminekutel,väljaminekuil"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "väljaminekutelt,väljaminekuilt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "väljaminekuteks,väljaminekuiks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "väljaminekuteni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "väljaminekutena"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "väljaminekuteta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "väljaminekutega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millelegi kuluv rahasumma, rahaline kulutus,raha, mille sa ära maksad, kulu",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tasu vee tarbimise eest on neile väga suur väljaminek.",
+            "Pered väljaminekud suurenesid aastaga rohkem kui sissetulekud.",
+            "Lapse sünniga pere väljaminekud suurenevad.",
+            "Mul tekkis ootamatuid väljaminekuid."
+          ],
+          "synonyms": [
+            "kulutus",
+            "kulu,kulud"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "expense",
+                "weight": 1
+              },
+              {
+                "words": "expenditure",
+                "weight": 1
+              },
+              {
+                "words": "spending",
+                "weight": 0.8202
+              }
+            ],
+            "fra": [
+              {
+                "words": "dépense",
+                "weight": 1
+              },
+              {
+                "words": "frais",
+                "weight": 1
+              },
+              {
+                "words": "dépense",
+                "weight": 0.8202
+              },
+              {
+                "words": "dépense",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "расход",
+                "weight": 1
+              },
+              {
+                "words": "издержка",
+                "weight": 1
+              },
+              {
+                "words": "расходование,расход,издержки,затрата,трата",
+                "weight": 0.8202
+              },
+              {
+                "words": "расход,издержки,затрата,трата,потребление",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "витрата",
+                "weight": 1
+              },
+              {
+                "words": "витрати",
+                "weight": 1
+              },
+              {
+                "words": "видаток",
+                "weight": 1
+              },
+              {
+                "words": "затрати",
+                "weight": 1
+              },
+              {
+                "words": "витрата,витрати,видаток,затрати",
+                "weight": 0.8202
+              },
+              {
+                "words": "витрата,витрати,видаток,затрати",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ruumist, sõidukist vms väljumine, lahkumine",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kontrollisin enne väljaminekut, kas kõik tuled on kustutatud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "выход",
+                "weight": 1
+              },
+              {
+                "words": "уход",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вихід",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kulutus",
+        "kulu",
+        "tarvitus",
+        "äraminek",
+        "raharaiskamine",
+        "väljamaksmine",
+        "väljaostmine",
+        "kulu",
+        "kulu",
+        "kulu",
+        "kojuminek",
+        "üleostmine",
+        "lahkuminek",
+        "ülesminek",
+        "kaasaminek",
+        "sisseminek",
+        "põhjaminek",
+        "ümberminek",
+        "altminek",
+        "pealeminek",
+        "tagasiminek",
+        "soetamine",
+        "kordaminek",
+        "tööleminek",
+        "erruminek"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "väljaminek",
+      "translations": [
+        "expenditure",
+        "outlay"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "requestedWord": "jooksul",
+  "estonianWord": "jooksul",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "jooksul"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingi ajaühiku väldates või millegi toimumise ajal,osutab ajavahemikule või ajale, mil midagi tehakse või toimub",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Tänase päeva jooksul tuli otsus vastu võtta.",
+            "Kogu elu jooksul polnud ta midagi säärast kogenud.",
+            "Vestluse jooksul pööras ta korduvalt pilgu maha.",
+            "Helistan sulle kindlasti mõne tunni jooksul.",
+            "Asi tuleb otsustada tänase päeva jooksul.",
+            "Käisin suve jooksul palju ujumas."
+          ],
+          "synonyms": [
+            "kestel",
+            "vältel",
+            "sees",
+            "ajal"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "during",
+                "weight": 1
+              },
+              {
+                "words": "during",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "pendant",
+                "weight": 1
+              },
+              {
+                "words": "durant",
+                "weight": 1
+              },
+              {
+                "words": "au cours de",
+                "weight": 1
+              },
+              {
+                "words": "pendant",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "в течение",
+                "weight": 1
+              },
+              {
+                "words": "в продолжение",
+                "weight": 1
+              },
+              {
+                "words": "на протяжении",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "за время",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "во время",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "протягом",
+                "weight": 1
+              },
+              {
+                "words": "під час",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pikku",
+        "vältel",
+        "kestes",
+        "kestel",
+        "jooksult",
+        "aasta",
+        "aasta",
+        "alguses",
+        "kuu",
+        "kuu",
+        "pärast"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "jooksul",
+      "translations": [
+        "during",
+        "in the course of",
+        "in the process of",
+        "o'er",
+        "over",
+        "throughout",
+        "within"
+      ]
+    }
+  ]
+}

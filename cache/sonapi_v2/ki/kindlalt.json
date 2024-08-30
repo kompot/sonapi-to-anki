@@ -1,0 +1,454 @@
+{
+  "requestedWord": "kindlalt",
+  "estonianWord": "kindlalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kindlalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "tihedalt (kinni või küljes), nii, et ei saa kergesti lahti,nii, et ei lähe kergesti lahti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pudelil oli kork kindlalt peal.",
+            "Kohver on kindlalt suletud."
+          ],
+          "synonyms": [
+            "kõvasti",
+            "tugevalt",
+            "tugevasti"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "firmly",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "solidement",
+                "weight": 1
+              },
+              {
+                "words": "fermement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "крепко",
+                "weight": 1
+              },
+              {
+                "words": "прочно",
+                "weight": 1
+              },
+              {
+                "words": "плотно",
+                "weight": 1
+              },
+              {
+                "words": "твёрдо",
+                "weight": 1
+              },
+              {
+                "words": "сильно",
+                "weight": 1
+              },
+              {
+                "words": "надёжно",
+                "weight": 1
+              },
+              {
+                "words": "основательно",
+                "weight": 1
+              },
+              {
+                "words": "туго",
+                "weight": 1
+              },
+              {
+                "words": "наглухо",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "міцно",
+                "weight": 1
+              },
+              {
+                "words": "надійно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ilma et võiks vastu vaielda, olles otsustanud,nii, et ei muuda oma arvamust",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mari keeldus lühidalt ja kindlalt.",
+            "Olen kindlalt otsustanud, et ma peole ei lähe."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "fermement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "твёрдо",
+                "weight": 1
+              },
+              {
+                "words": "уверенно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "впевнено",
+                "weight": 1
+              },
+              {
+                "words": "твердо",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "täpse määratlusega, täpse(ma)lt, nagu ette antud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Konverentsi ajakava on kindlalt paigas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "чётко",
+                "weight": 1
+              },
+              {
+                "words": "ясно",
+                "weight": 1
+              },
+              {
+                "words": "отчётливо",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "täie kindlusega, ilma et mingit kahtlust tekiks,ilma et tekiks kahtlust",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Töötan kindlalt üle 8 tunni päevas.",
+            "Võin kindlalt väita, et ..",
+            "MM-i hõbe oli kindlalt käes."
+          ],
+          "synonyms": [
+            "ilmtingimata",
+            "kahtlemata",
+            "kahtlematult",
+            "kindlasti",
+            "tingimata",
+            "igal juhul",
+            "kaheldamatult",
+            "raudselt,surmkindlalt",
+            "igastahes,igatahes,absoluutselt",
+            "niikuinii,nagunii",
+            "raudpolt,raudkindlalt",
+            "iga kell,iga naks",
+            "tõega,õigus,tõsilugu,tõsijutt,tõsi,tõesõna,tõesti,tõepoolest,tõejutt,ausalt,ausõna",
+            "maksku mis maksab,kramplikult,iga hinna eest"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "in any case",
+                "weight": 1
+              },
+              {
+                "words": "you bet,anyhow,anyway",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "incontestablement",
+                "weight": 1
+              },
+              {
+                "words": "indubitablement",
+                "weight": 1
+              },
+              {
+                "words": "sans aucun doute",
+                "weight": 1
+              },
+              {
+                "words": "sûrement",
+                "weight": 1
+              },
+              {
+                "words": "certainement",
+                "weight": 1
+              },
+              {
+                "words": "de toute façon",
+                "weight": 0.9
+              },
+              {
+                "words": "vraiment",
+                "weight": 0.59
+              }
+            ],
+            "rus": [
+              {
+                "words": "безусловно",
+                "weight": 1
+              },
+              {
+                "words": "непременно",
+                "weight": 1
+              },
+              {
+                "words": "несомненно",
+                "weight": 1
+              },
+              {
+                "words": "бесспорно",
+                "weight": 1
+              },
+              {
+                "words": "неоспоримо",
+                "weight": 1
+              },
+              {
+                "words": "обязательно",
+                "weight": 1
+              },
+              {
+                "words": "конечно",
+                "weight": 1
+              },
+              {
+                "words": "определённо",
+                "weight": 1
+              },
+              {
+                "words": "наверняка",
+                "weight": 1
+              },
+              {
+                "words": "факт",
+                "weight": 1
+              },
+              {
+                "words": "в любом случае",
+                "weight": 1
+              },
+              {
+                "words": "без сомнения",
+                "weight": 1
+              },
+              {
+                "words": "без всякого сомнения",
+                "weight": 1
+              },
+              {
+                "words": "что бы там ни было",
+                "weight": 1
+              },
+              {
+                "words": "во что бы то ни стало",
+                "weight": 1
+              },
+              {
+                "words": "факт,без всякого сомнения,железно,бесспорно,непременно,безусловно,точно,абсолютно,наверняка",
+                "weight": 0.9
+              },
+              {
+                "words": "конечно,как бы то ни было,во всяком случае,в любом случае",
+                "weight": 0.9
+              },
+              {
+                "words": "так или иначе,в любом случае,всё равно,так и так",
+                "weight": 0.9
+              },
+              {
+                "words": "с железной уверенностью,железно,твёрдо",
+                "weight": 0.9
+              },
+              {
+                "words": "в любое время,в любом случае,несомненно",
+                "weight": 0.9
+              },
+              {
+                "words": "честное слово,правда,право слово,право,воистину,вправду,всерьёз,подлинно,на самом деле,поистине,впрямь,серьёзно,действительно,в самом деле",
+                "weight": 0.59
+              },
+              {
+                "words": "хоть лопни,хоть тресни,хоть умри,настойчиво,упорно,чего бы это ни стоило,во что бы то ни стало,любой ценой",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "безумовно",
+                "weight": 1
+              },
+              {
+                "words": "безперечно",
+                "weight": 1
+              },
+              {
+                "words": "неодмінно",
+                "weight": 1
+              },
+              {
+                "words": "звичайно",
+                "weight": 1
+              },
+              {
+                "words": "обовʼязково",
+                "weight": 1
+              },
+              {
+                "words": "конче",
+                "weight": 1
+              },
+              {
+                "words": "безсумнівно",
+                "weight": 1
+              },
+              {
+                "words": "певна річ",
+                "weight": 1
+              },
+              {
+                "words": "без сумніву",
+                "weight": 1
+              },
+              {
+                "words": "у будь-якому разі",
+                "weight": 1
+              },
+              {
+                "words": "хай там як,в усякому разі,у будь-якому разі,звичайно",
+                "weight": 0.9
+              },
+              {
+                "words": "так чи інакше,однаково,все одно",
+                "weight": 0.9
+              },
+              {
+                "words": "дійсно,в дійсності,насправді,справді",
+                "weight": 0.59
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kõvasti",
+        "julgesti",
+        "otsusekindlalt",
+        "vabalt",
+        "vankumatult",
+        "julgelt",
+        "kindlameelselt",
+        "tugevasti",
+        "vääramatult",
+        "heas usus",
+        "kõigutamatult",
+        "loalt",
+        "kindlasti",
+        "stoiliselt",
+        "nagu nalja",
+        "veendunult",
+        "enesekindlalt",
+        "täpselt",
+        "kahtlemata",
+        "jäigalt",
+        "kindla peale",
+        "tugevalt",
+        "vaikselt",
+        "põhimõttekindlalt",
+        "korralikult",
+        "raudkindlalt",
+        "ebakindlalt",
+        "siiski",
+        "kindel",
+        "kindlakäeliselt",
+        "jätkuvalt",
+        "surmkindlalt",
+        "pikalt",
+        "eksimatult",
+        "selgelt",
+        "kindlamini",
+        "süsteemikindlalt",
+        "veel",
+        "paigal",
+        "endiselt",
+        "kindlamalt",
+        "järjekindlalt",
+        "õhukindlalt",
+        "sihikindlalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kindlalt",
+      "translations": [
+        "assuredly",
+        "firm",
+        "firmly",
+        "flatly",
+        "for a fact",
+        "for certain",
+        "stoutly"
+      ]
+    }
+  ]
+}

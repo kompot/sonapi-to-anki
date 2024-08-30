@@ -1,0 +1,405 @@
+{
+  "requestedWord": "seitse",
+  "estonianWord": "seitse",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "5",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "seitse"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "seitsme"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "seitset"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "seitsmesse"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "seitsmes"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "seitsmest"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "seitsmele"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "seitsmel"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "seitsmelt"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "seitsmeks"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "seitsmeni"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "seitsmena"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "seitsmeta"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "seitsmega"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "seitsmed"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "seitsmete"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "seitsmeid"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "seitsmetesse,seitsmeisse"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "seitsmetes,seitsmeis"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "seitsmetest,seitsmeist"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "seitsmetele,seitsmeile"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "seitsmetel,seitsmeil"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "seitsmetelt,seitsmeilt"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "seitsmeteks,seitsmeiks"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "seitsmeteni"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "seitsmetena"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "seitsmeteta"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "seitsmetega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "põhiarv 7,arv 7",
+          "partOfSpeech": [
+            {
+              "code": "num",
+              "value": "arvsõna, numeraal"
+            }
+          ],
+          "examples": [
+            "Viiskümmend seitse.",
+            "Nädalas on seitse päeva.",
+            "Ärkasin kell seitse."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "seven",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "sept",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "семь",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "сім",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kellaaja kohta:) hommikul või õhtul kell 7",
+          "partOfSpeech": [],
+          "examples": [
+            "Teater algab kell seitse."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "seven",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "семь",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hulgalt, koguselt 7",
+          "partOfSpeech": [
+            {
+              "code": "num",
+              "value": "arvsõna, numeraal"
+            }
+          ],
+          "examples": [
+            "Seitse pöialpoissi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "seven",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "семеро",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(vastava arvulise järjekorra kohta)",
+          "partOfSpeech": [],
+          "examples": [
+            "Sahtel nr 7."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "seven",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "number 7",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Rooma seitse."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "seven",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "семёрка",
+                "weight": 1
+              },
+              {
+                "words": "цифра семь",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(millegi rohkuse, intensiivsuse kohta)",
+          "partOfSpeech": [
+            {
+              "code": "num",
+              "value": "arvsõna, numeraal"
+            }
+          ],
+          "examples": [
+            "Näeb vaeva seitsme mehe eest."
+          ],
+          "synonyms": [
+            "mitu",
+            "kümme"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "несколько",
+                "weight": 0.616
+              },
+              {
+                "words": "десятки",
+                "weight": 0.75
+              }
+            ],
+            "ukr": [
+              {
+                "words": "кілька,декілька",
+                "weight": 0.616
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "seitsmekesi",
+        "seitsekümmend",
+        "seitsesada",
+        "seitseteist",
+        "kümme",
+        "üheksasada",
+        "neli",
+        "kaksteist",
+        "paar",
+        "paar",
+        "neliteist",
+        "kaheksakümmend",
+        "kakskümmend",
+        "kaheksasada",
+        "nelisada",
+        "viis",
+        "viis",
+        "viis",
+        "kolm-neli",
+        "üheksakümmend",
+        "kaheksa",
+        "kaksteistkümmend",
+        "kuuskümmend",
+        "üheksa",
+        "kolm",
+        "kolmteist",
+        "mitu",
+        "kaks",
+        "viisteist",
+        "kaheksateist",
+        "nelikümmend",
+        "üheksateist"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "seitse",
+      "translations": [
+        "heptade",
+        "seven"
+      ]
+    }
+  ]
+}

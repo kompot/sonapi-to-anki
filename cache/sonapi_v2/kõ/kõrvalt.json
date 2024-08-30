@@ -1,0 +1,260 @@
+{
+  "requestedWord": "kõrvalt",
+  "estonianWord": "kõrvalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kõrvalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi või millegi külje suunast (väga) lähedalt, reas järgmisest (kohast), naabrusest,kellegi või millegi külje juurest, lähedalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Ostis jõulukuuse poe kõrvalt.",
+            "Hea näide on võtta siitsamast kõrvalt Soomest.",
+            "Astusin ukse kõrvalt eemale.",
+            "Koer läheb kassi kõrvalt minema."
+          ],
+          "synonyms": [
+            "mant",
+            "juurest"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "près de",
+                "weight": 1
+              },
+              {
+                "words": "près de",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "от",
+                "weight": 1
+              },
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "вблизи",
+                "weight": 1
+              },
+              {
+                "words": "возле",
+                "weight": 1
+              },
+              {
+                "words": "рядом с",
+                "weight": 1
+              },
+              {
+                "words": "от-",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              },
+              {
+                "words": "от",
+                "weight": 0.7
+              },
+              {
+                "words": "около,возле,вблизи,рядом с,у,от",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "від",
+                "weight": 1
+              },
+              {
+                "words": "біля",
+                "weight": 1
+              },
+              {
+                "words": "коло",
+                "weight": 1
+              },
+              {
+                "words": "поблизу",
+                "weight": 1
+              },
+              {
+                "words": "від,біля,коло,поблизу",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "samaaegselt, rööbiti millegagi,samal ajal, millelegi (põhilisele) lisaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Õppimise kõrvalt on raske raha teenida.",
+            "Vanadaam käib pensioni kõrvalt lapsehoidjaks.",
+            "Ta käib kooli kõrvalt tööl.",
+            "Pere ja laste kõrvalt oli raske õppida."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "à côté de",
+                "weight": 1
+              },
+              {
+                "words": "parallèlement à",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "одновременно",
+                "weight": 1
+              },
+              {
+                "words": "параллельно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "одночасно",
+                "weight": 1
+              },
+              {
+                "words": "паралельно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi arvel (kokku hoides)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Kõhu kõrvalt ta ei koonerda."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "за счёт",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(külje suunas) eemalt, kaugemalt,mitteasjaosalisena, mitteosavõtvana",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tee kulges 100 meetrit kõrvalt.",
+            "Vaatas ennast justkui kõrvalt.",
+            "Kõrvalt on hea targutada."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "со стороны",
+                "weight": 1
+              },
+              {
+                "words": "с боку",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mitteametlikult, eraviisil",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Teenis kõrvalt suure raha."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на стороне",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "juurest",
+        "kõrval",
+        "kõrval",
+        "kõrvalteema",
+        "kõrvaltuba",
+        "kõrvaltegevus",
+        "kallalt",
+        "põhitöö",
+        "kurvalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kõrvalt",
+      "translations": []
+    }
+  ]
+}

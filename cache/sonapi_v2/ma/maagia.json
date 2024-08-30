@@ -1,0 +1,306 @@
+{
+  "requestedWord": "maagia",
+  "estonianWord": "maagia",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "1",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "maagia"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "maagia"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "maagiat"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "maagiasse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "maagias"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "maagiast"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "maagiale"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "maagial"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "maagialt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "maagiaks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "maagiani"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "maagiana"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "maagiata"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "maagiaga"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "maagiad"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "maagiate"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "maagiaid"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "maagiatesse,maagiaisse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "maagiates,maagiais"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "maagiatest,maagiaist"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "maagiatele,maagiaile"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "maagiatel,maagiail"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "maagiatelt,maagiailt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "maagiateks,maagiaiks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "maagiateni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "maagiatena"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "maagiateta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "maagiatega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teatud salaõpetus, nõiakunst, mis seisneb kellegi või millegi üleloomulikul teel, mitmesuguste toimingute ja loitsudega mõjustamises",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Maagiaga tegelevad ennustajad, meie mitte."
+          ],
+          "synonyms": [
+            "nõiakunst"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "магия",
+                "weight": 1
+              },
+              {
+                "words": "волшебство",
+                "weight": 1
+              },
+              {
+                "words": "чародейство",
+                "weight": 1
+              },
+              {
+                "words": "колдовство",
+                "weight": 1
+              },
+              {
+                "words": "колдовское искусство",
+                "weight": 1
+              },
+              {
+                "words": "чернокнижие",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi või kellegi väga tugev, otsekui nõiduslik mõjujõud,imettegev jõud, nõiduslik imevägi",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Me usume arstirohu maagiasse rohkem kui varem."
+          ],
+          "synonyms": [
+            "nõiavägi",
+            "võlujõud",
+            "võluvõim",
+            "vägi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "магия",
+                "weight": 1
+              },
+              {
+                "words": "чудодейственность",
+                "weight": 1
+              },
+              {
+                "words": "волшебство",
+                "weight": 1
+              },
+              {
+                "words": "волшебная сила",
+                "weight": 1
+              },
+              {
+                "words": "чудотворная сила",
+                "weight": 1
+              },
+              {
+                "words": "чудодейственная сила",
+                "weight": 1
+              },
+              {
+                "words": "колдовская сила",
+                "weight": 1
+              },
+              {
+                "words": "влияние,сила влияния,сила воздействия",
+                "weight": 0.577
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "nõidus",
+        "nõiakunst",
+        "sõnamaagia",
+        "maagiline",
+        "kontaktmaagia",
+        "numbrimaagia",
+        "viljakusmaagia",
+        "tõrjemaagia"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "maagia",
+      "translations": [
+        "magic"
+      ]
+    }
+  ]
+}

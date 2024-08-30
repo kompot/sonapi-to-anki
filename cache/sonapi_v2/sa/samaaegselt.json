@@ -1,0 +1,127 @@
+{
+  "requestedWord": "samaaegselt",
+  "estonianWord": "samaaegselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "samaaegselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ühel ja samal ajal,ühel ja samal ajal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Rünnakud toimusid samaaegselt.",
+            "Kahel sõbral tekkis samaaegselt äge silmahaigus."
+          ],
+          "synonyms": [
+            "korraga",
+            "üheaegselt",
+            "ühekorraga",
+            "kõrvu,kõrvuti"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "en même temps",
+                "weight": 1
+              },
+              {
+                "words": "à la fois",
+                "weight": 1
+              },
+              {
+                "words": "simultanément",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "одновременно",
+                "weight": 1
+              },
+              {
+                "words": "единовременно",
+                "weight": 1
+              },
+              {
+                "words": "разом",
+                "weight": 1
+              },
+              {
+                "words": "синхронно",
+                "weight": 1
+              },
+              {
+                "words": "рядом,наряду с,одновременно",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "одночасно",
+                "weight": 1
+              },
+              {
+                "words": "водночас",
+                "weight": 1
+              },
+              {
+                "words": "разом",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "üheaegselt",
+        "sünkroonselt",
+        "rinnakuti",
+        "rööpselt",
+        "ühekorraga",
+        "üksiti",
+        "samaaegu",
+        "korraga",
+        "rööbiti",
+        "samas",
+        "ühtlasi",
+        "ühtaegu",
+        "paralleelselt",
+        "kõrvuti",
+        "ühteaegu",
+        "nii",
+        "samaaegsus",
+        "sama",
+        "sama",
+        "samaaegne",
+        "samamoodi",
+        "häiritult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "samaaegselt",
+      "translations": [
+        "concurrently",
+        "simultaneously"
+      ]
+    }
+  ]
+}

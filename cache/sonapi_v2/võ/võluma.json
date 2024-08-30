@@ -1,0 +1,587 @@
+{
+  "requestedWord": "võluma",
+  "estonianWord": "võluma",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "võluma"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "võlumata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "võlumas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "võlumast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "võlumaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "võlutama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "võluda"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "võludes"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "võluv"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "võlutav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "võlunud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "võlunud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "võlutud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "võlutud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "võlun"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "võlud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "võlub"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "võlume"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "võlute"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "võluvad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "võlu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "võlutakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "võluta"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "võlusin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "võlusid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "võlus"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "võlusime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "võlusite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "võlusid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "võluti"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "võluksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "võluksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "võluks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "võluksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "võluksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "võluksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "võlutaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "võlunuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "võlunuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "võlunuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "võlunuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "võlunuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "võlunuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "võlutuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "võluvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "võlutavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "võlunuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "võlutuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "võlu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "võlugem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "võluge"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "võlugu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "võlutagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "meeldivuse, eripäraga vm köitma, ligi tõmbama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kuulajad olid muusikast võlutud.",
+            "Noormees võlus naist oma tagasihoidlikkusega."
+          ],
+          "synonyms": [
+            "veetlema",
+            "juurde meelitama,külge tõmbama,ligi meelitama,ligi tõmbama",
+            "ahvatama,ahvatelema,ahvatlema,avatlema,meelitama,peibutama",
+            "tinistama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "чаровать",
+                "weight": 1
+              },
+              {
+                "words": "очаровывать",
+                "weight": 1
+              },
+              {
+                "words": "очаровать",
+                "weight": 1
+              },
+              {
+                "words": "завораживать",
+                "weight": 1
+              },
+              {
+                "words": "заворожить",
+                "weight": 1
+              },
+              {
+                "words": "обвораживать",
+                "weight": 1
+              },
+              {
+                "words": "обворожить",
+                "weight": 1
+              },
+              {
+                "words": "прельщать",
+                "weight": 1
+              },
+              {
+                "words": "прельстить",
+                "weight": 1
+              },
+              {
+                "words": "обольщать",
+                "weight": 1
+              },
+              {
+                "words": "обольстить",
+                "weight": 1
+              },
+              {
+                "words": "привлекать",
+                "weight": 1
+              },
+              {
+                "words": "привлечь",
+                "weight": 1
+              },
+              {
+                "words": "увлекать",
+                "weight": 1
+              },
+              {
+                "words": "увлечь",
+                "weight": 1
+              },
+              {
+                "words": "покорять",
+                "weight": 1
+              },
+              {
+                "words": "покорить",
+                "weight": 1
+              },
+              {
+                "words": "пленять",
+                "weight": 1
+              },
+              {
+                "words": "пленить",
+                "weight": 1
+              },
+              {
+                "words": "манить,привлекать,привлечь,притягивать,притянуть,взманивать,завлекать,завлечь,заманивать,заманить",
+                "weight": 0.9
+              },
+              {
+                "words": "приманивать,приманить,подманивать,подманить,услащать,усластить,задабривать,задобрить,ввести в соблазн,поманить,искушать,соблазнять,соблазнить,вводить в соблазн,привлекать,привлечь,прельщать,прельстить,искусить,обольщать,обольстить,манить,лебезить",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "attirer",
+                "weight": 0.9
+              },
+              {
+                "words": "attirer",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "приваблювати,привабити,заманювати,заманити",
+                "weight": 0.9
+              },
+              {
+                "words": "вабити,манити,приваблювати,привабити,заманювати,заманити,принадити,принаджувати",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "imetegusid tegema, nõiakunsti abil midagi korda saatma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kas usud, et kübarast saab jäneseid võluda?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "околдовывать",
+                "weight": 1
+              },
+              {
+                "words": "околдовать",
+                "weight": 1
+              },
+              {
+                "words": "заколдовывать",
+                "weight": 1
+              },
+              {
+                "words": "заколдовать",
+                "weight": 1
+              },
+              {
+                "words": "наколдовать",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "midagi raskustega korraldama või tegema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Mida küll poole tunniga lauale võluda?"
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "sortsima",
+        "hurmama",
+        "ära tegema",
+        "sõnuma",
+        "veetlema",
+        "ära nõiduma",
+        "lausuma",
+        "pipart keele peale",
+        "ohutama",
+        "arbuma",
+        "tilpama",
+        "kaetama",
+        "ligi tõmbama",
+        "ära kaema",
+        "paeluma",
+        "nõiduma",
+        "kütkestama",
+        "fastsineerima",
+        "loitsima",
+        "posima",
+        "lummutama",
+        "ohatama",
+        "ohatama",
+        "köitma",
+        "vaakuma",
+        "lummama",
+        "ära sõnama",
+        "pimestama",
+        "vaimustama",
+        "vangistama",
+        "ahvatlema",
+        "meelitama",
+        "allutama",
+        "hõivama",
+        "hõlvama",
+        "uluma",
+        "võluvägi",
+        "leekima",
+        "leekima",
+        "üllatama",
+        "kissitama",
+        "hulluma",
+        "kõõluma",
+        "pööritama",
+        "kihluma",
+        "võluväel",
+        "musitama",
+        "säiluma",
+        "rulluma",
+        "erutama",
+        "lakkuma",
+        "anduma",
+        "mäluma",
+        "paitama",
+        "ilustama",
+        "lõbustama",
+        "õrritama",
+        "lõõritama",
+        "võlumaailm",
+        "pulbitsema",
+        "võrgutama",
+        "võlumaa"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "võluma",
+      "translations": [
+        "beguile",
+        "charm",
+        "enchant"
+      ]
+    }
+  ]
+}

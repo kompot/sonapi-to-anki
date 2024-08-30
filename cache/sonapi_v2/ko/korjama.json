@@ -1,0 +1,805 @@
+{
+  "requestedWord": "korjama",
+  "estonianWord": "korjama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "korjan"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "korjad"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "korjab"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "korjame"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "korjate"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "korjavad"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "korja"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "korjatakse"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "korjata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "korjasin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "korjasid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "korjas"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "korjasime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "korjasite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "korjasid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "korjati"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "korjaksin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "korjaksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "korjaks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "korjaksime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "korjaksite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "korjaksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "korjataks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "korjanuksin"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "korjanuksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "korjanuks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "korjanuksime"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "korjanuksite"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "korjanuksid"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "korjatuks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "korjavat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "korjatavat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "korjanuvat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "korjatuvat"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "korja"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "korjakem"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "korjake"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "korjaku"
+        },
+        {
+          "inflectionType": "29",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "korjatagu"
+        },
+        {
+          "inflectionType": "29",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "korjama"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "korjamata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "korjamas"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "korjamast"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "korjamaks"
+        },
+        {
+          "inflectionType": "29",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "korjatama"
+        },
+        {
+          "inflectionType": "29",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "korjata"
+        },
+        {
+          "inflectionType": "29",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "korjates"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "korjav"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "korjatav"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "korjanud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "korjanud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "korjatud"
+        },
+        {
+          "inflectionType": "29",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "korjatud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kusagilt midagi (ära või üles) võtma,siit-sealt vähehaaval või osakaupa midagi koguma,võtma näiteks seeni, lilli või marju enda kätte sealt, kus nad kasvavad",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Mulle meeldib sügisel metsas marju ja seeni korjata.",
+            "Ta mees on töötu – kerjab ja korjab pudeleid.",
+            "Laps korjas lasteaiast jälle mingi haiguse üles.",
+            "Korjasin peenralt lilli.",
+            "Korjame korvi seeni täis."
+          ],
+          "synonyms": [
+            "noppima",
+            "noppima",
+            "nokkima",
+            "koristama",
+            "üles võtma",
+            "üles korjama",
+            "riisuma"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "ramasser",
+                "weight": 1
+              },
+              {
+                "words": "cueillir",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "собирать",
+                "weight": 1
+              },
+              {
+                "words": "собрать",
+                "weight": 1
+              },
+              {
+                "words": "подбирать",
+                "weight": 1
+              },
+              {
+                "words": "подобрать",
+                "weight": 1
+              },
+              {
+                "words": "рвать",
+                "weight": 1
+              },
+              {
+                "words": "нарвать",
+                "weight": 1
+              },
+              {
+                "words": "срывать,сорвать",
+                "weight": 0.8153
+              },
+              {
+                "words": "нарвать,собрать,расщипывать,расщипать,собирать,щипать,рвать,теребить,срывать,сорвать",
+                "weight": 0.8153
+              },
+              {
+                "words": "снимать,снять,убирать,убрать,собирать,собрать",
+                "weight": 0.9
+              },
+              {
+                "words": "выкопать,копать,выкапывать",
+                "weight": 0.7
+              },
+              {
+                "words": "подобрать,подбирать",
+                "weight": 0.7
+              },
+              {
+                "words": "снять,снимать",
+                "weight": 0.597
+              }
+            ],
+            "ukr": [
+              {
+                "words": "збирати",
+                "weight": 1
+              },
+              {
+                "words": "зібрати",
+                "weight": 1
+              },
+              {
+                "words": "назбирати",
+                "weight": 1
+              },
+              {
+                "words": "рвати",
+                "weight": 1
+              },
+              {
+                "words": "зривати",
+                "weight": 1
+              },
+              {
+                "words": "зірвати",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kogumise eesmärgil kirja panema või salvestama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Rahva suust korjatud juttudes oligi palju robustset ja barbaarset.",
+            "Erakonna moodustamiseks on tarvis korjata 1000 allkirja."
+          ],
+          "synonyms": [
+            "koguma",
+            "üles korjama",
+            "kirja panema",
+            "üles kirjutama",
+            "saama",
+            "salvestama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "собирать",
+                "weight": 1
+              },
+              {
+                "words": "собрать",
+                "weight": 1
+              },
+              {
+                "words": "набирать",
+                "weight": 1
+              },
+              {
+                "words": "набрать",
+                "weight": 1
+              },
+              {
+                "words": "насобирать",
+                "weight": 1
+              },
+              {
+                "words": "собирать,коллекционировать,собрать",
+                "weight": 0.8223
+              },
+              {
+                "words": "подхватить,ухватить,выцепить",
+                "weight": 0.7
+              },
+              {
+                "words": "записывать,записать",
+                "weight": 0.7
+              },
+              {
+                "words": "записывать,записать",
+                "weight": 0.7
+              },
+              {
+                "words": "получить,получать",
+                "weight": 0.7
+              },
+              {
+                "words": "запечатлевать в памяти,запечатлевать,запечатлеть",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "collectionner",
+                "weight": 0.8223
+              },
+              {
+                "words": "mettre par écrit,noter par écrit",
+                "weight": 0.7
+              },
+              {
+                "words": "noter",
+                "weight": 0.7
+              },
+              {
+                "words": "avoir,recevoir",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "збирати,зібрати,колекціонувати",
+                "weight": 0.8223
+              },
+              {
+                "words": "записувати,записати",
+                "weight": 0.7
+              },
+              {
+                "words": "записувати,записати",
+                "weight": 0.7
+              },
+              {
+                "words": "отримувати,одержувати",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ühte kohta, kokku koguma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Õhtul tuleb koolibuss ja korjab lapsed peale.",
+            "Korjasin asjad kotti."
+          ],
+          "synonyms": [
+            "koguma",
+            "kuhjama",
+            "kokku kuhjama",
+            "kokku kraapima",
+            "kokku koguma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "собирать",
+                "weight": 1
+              },
+              {
+                "words": "собрать",
+                "weight": 1
+              },
+              {
+                "words": "собирать,коллекционировать,собрать",
+                "weight": 0.8223
+              },
+              {
+                "words": "нагромождать,сваливать в кучу,насыпать,наносить,нанести,заваливать,завалить,громоздить,нагромоздить,валить,свалить,складывать в кучу,надсыпать,загромождать,загромоздить,сложить в кучу",
+                "weight": 0.7887
+              },
+              {
+                "words": "скучивать,скучить,сгруживать,сгрудить,наносить,нанести,громоздить,нагромоздить,нагромождать,наваливать,навалить",
+                "weight": 0.9
+              },
+              {
+                "words": "сгрести,сгребать",
+                "weight": 0.9
+              },
+              {
+                "words": "собрать,набрать",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "collectionner",
+                "weight": 0.8223
+              }
+            ],
+            "ukr": [
+              {
+                "words": "збирати,зібрати,колекціонувати",
+                "weight": 0.8223
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vanemateta või väljaspool abielu saadud last enda juurde võtma",
+          "partOfSpeech": [],
+          "examples": [
+            "Ilma pealt korjatud laps.",
+            "Sa olid vanemateta laps, kelle Agatha kuskilt üles korjanud.",
+            "Jüri ei suutnud kuidagi andestada, et naine sulasega kaksikud lapsed korjas."
+          ],
+          "synonyms": [
+            "üles korjama",
+            "võtma",
+            "saama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "подбирать,подобрать",
+                "weight": 0.7
+              },
+              {
+                "words": "получить,приобретать,приобрести,доставать,достать,получать",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(säästes, kokku hoides) tagavaraks või mingiks muuks eesmärgiks koguma,koguma, eriti raha või allkirju",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Üks minu tuttav reisib oma korjatud rahaga sel talvel Egiptusesse.",
+            "Ta korjas toidu kõrvalt kõik oma sendid kokku.",
+            "Ta korjab raha, et jalgratast osta.",
+            "Korjan allkirju uue kooli toetuseks."
+          ],
+          "synonyms": [
+            "koguma",
+            "kokku hoidma,säästma",
+            "kõrvale panema",
+            "kokku kraapima",
+            "varuma",
+            "kokku koguma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "собирать",
+                "weight": 1
+              },
+              {
+                "words": "собрать",
+                "weight": 1
+              },
+              {
+                "words": "копить",
+                "weight": 1
+              },
+              {
+                "words": "накопить",
+                "weight": 1
+              },
+              {
+                "words": "скопить",
+                "weight": 1
+              },
+              {
+                "words": "копить,накопить,скопить,накапливать,накоплять,скоплять,скапливать",
+                "weight": 0.8223
+              },
+              {
+                "words": "сэкономить,сберегать,экономить,беречь,сберечь",
+                "weight": 0.9
+              },
+              {
+                "words": "отложить,откладывать",
+                "weight": 0.9
+              },
+              {
+                "words": "наскрести,наскребать",
+                "weight": 0.9
+              },
+              {
+                "words": "заготовлять,заготовить,заготавливать,запасать,запасти,припасать,припасти",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "збирати",
+                "weight": 1
+              },
+              {
+                "words": "зібрати",
+                "weight": 1
+              },
+              {
+                "words": "складати",
+                "weight": 1
+              },
+              {
+                "words": "скласти",
+                "weight": 1
+              },
+              {
+                "words": "наскладати",
+                "weight": 1
+              },
+              {
+                "words": "відкладати",
+                "weight": 1
+              },
+              {
+                "words": "відкласти",
+                "weight": 1
+              },
+              {
+                "words": "збирати,зібрати,складати,скласти,відкладати,відкласти,нагромаджувати,нагромадити,набувати,набути",
+                "weight": 0.8223
+              },
+              {
+                "words": "заощаджувати,заощадити,економити,зекономити,берегти,зберігати,зберегти",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "économiser,épargner",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "üles kirjutama",
+        "kirja panema",
+        "saama",
+        "üles korjama",
+        "üles võtma",
+        "kuhjama",
+        "kõrvale panema",
+        "nokkima",
+        "kokku kuhjama",
+        "noppima",
+        "koguma",
+        "kokku kraapima",
+        "varuma",
+        "kokku hoidma",
+        "võtma",
+        "koristama",
+        "kokku koguma",
+        "kollektsioneerima",
+        "värbama",
+        "valima",
+        "loopima",
+        "sokutama",
+        "kribama",
+        "pügama",
+        "sorteerima",
+        "poetama",
+        "külvama",
+        "niitma",
+        "kugistama",
+        "müttama",
+        "kühveldama",
+        "saagima",
+        "riisuma",
+        "väetama",
+        "loitma",
+        "orjama",
+        "sikutama",
+        "kündma",
+        "nuumama",
+        "istutama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "korjama",
+      "translations": [
+        "cull",
+        "harvest"
+      ]
+    }
+  ]
+}

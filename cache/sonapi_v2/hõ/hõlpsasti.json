@@ -1,0 +1,109 @@
+{
+  "requestedWord": "hõlpsasti",
+  "estonianWord": "hõlpsasti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "hõlpsasti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "hõlpsalt",
+            "kergelt,kergesti"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "легко",
+                "weight": 1
+              },
+              {
+                "words": "без усилий",
+                "weight": 1
+              },
+              {
+                "words": "с лёгкостью",
+                "weight": 1
+              },
+              {
+                "words": "без труда",
+                "weight": 1
+              },
+              {
+                "words": "легко,просто,без труда,без усилий,запросто",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "facilement",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "легко,просто,без зусилля,без великих зусиль",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hõlpsalt",
+        "nagu maast leitud",
+        "mängeldes",
+        "lihtsasti",
+        "naljalt",
+        "ladusalt",
+        "valutult",
+        "nagu nalja",
+        "lihtsalt",
+        "kergelt",
+        "nagu varrukast",
+        "kergesti",
+        "hõlbus",
+        "hõlpus",
+        "raskesti",
+        "hõlpsus",
+        "kiirelt",
+        "lihtsamini",
+        "mugavamini",
+        "lihtsamalt",
+        "hõlpsamini",
+        "mugavasti",
+        "mugavalt",
+        "kergemini",
+        "kiiresti",
+        "käepäraselt",
+        "võimsasti",
+        "mõnusasti"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "hõlpsasti",
+      "translations": []
+    }
+  ]
+}

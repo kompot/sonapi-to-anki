@@ -1,0 +1,447 @@
+{
+  "requestedWord": "nimi",
+  "estonianWord": "nimi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "20",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "nimi"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "nime"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "nime"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "nimesse"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "nimes"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "nimest"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "nimele"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "nimel"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "nimelt"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "nimeks"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "nimeni"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "nimena"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "nimeta"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "nimega"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "nimed"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "nimede"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "nimesid"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "nimedesse"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "nimedes"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "nimedest"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "nimedele"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "nimedel"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "nimedelt"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "nimedeks"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "nimedeni"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "nimedena"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "nimedeta"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "nimedega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "sõna või sõnaühend, mis eristab üht konkreetset olendit, kohta vm asja teiste omasarnaste seast (nt Laura, Tartu, Kiek in de Kök, Pärnu laht),sõna või sõnad, mida sa kasutad, kui nimetad konkreetset inimest, kohta või asja",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mis nime te oma lapsele panete?",
+            "Kassipojal ei ole veel nime.",
+            "Hotell nimega Palazzo.",
+            "Mis su nimi on?",
+            "Minu nimi on Mart Laanemets.",
+            "Laevale pandi nimeks Linda."
+          ],
+          "synonyms": [
+            "pärisnimi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "nom",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "имя",
+                "weight": 1
+              },
+              {
+                "words": "настоящее имя",
+                "weight": 0.8133
+              }
+            ],
+            "ukr": [
+              {
+                "words": "імʼя",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tuntud isiku, ka üldse tuntuse, maine kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Miami Beachi on oma elukohaks valinud peale Versace'i veel sellised tuntud nimed nagu Sylvester Stallone ja Madonna.",
+            "Ta kaotas hoobilt oma hea nime ja populaarsuse."
+          ],
+          "synonyms": [
+            "kuulsus",
+            "tuntus",
+            "maine,renomee,reputatsioon",
+            "silt",
+            "imidž,imago,kuvand"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "имя",
+                "weight": 1
+              },
+              {
+                "words": "репутация,реноме",
+                "weight": 0.9
+              },
+              {
+                "words": "известность",
+                "weight": 0.7
+              },
+              {
+                "words": "авторитет,имя,репутация,реноме,престиж,слава",
+                "weight": 0.9
+              },
+              {
+                "words": "ярлык,клеймо",
+                "weight": 0.9
+              },
+              {
+                "words": "имидж,образ",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "réputation",
+                "weight": 0.9
+              },
+              {
+                "words": "réputation",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "репутація",
+                "weight": 0.9
+              },
+              {
+                "words": "репутація,слава",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "reputation",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(teose pealkirja kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Olen unustanud, mis selle filmi nimi oli."
+          ],
+          "synonyms": [
+            "pealkiri"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "название",
+                "weight": 1
+              },
+              {
+                "words": "название,заглавие,заголовок",
+                "weight": 0.75
+              }
+            ],
+            "fra": [
+              {
+                "words": "titre",
+                "weight": 0.75
+              }
+            ],
+            "ukr": [
+              {
+                "words": "заголовок,назва",
+                "weight": 0.75
+              }
+            ],
+            "eng": [
+              {
+                "words": "title",
+                "weight": 0.75
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kellegi, teatava nimega isiku valduses oleku, talle adresseeritud-oleku või temaga sama perekonnanime kandmise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Korter on poja nimel.",
+            "Olen üksikema ja laps on minu nime peal.",
+            "Auto sai ostetud naise nimele.",
+            "Kuidas saada maja naise nimelt oma nimele?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "имя",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingi asja, nähtuse vm liiki osutav nimetus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Suvikõrvits, teise nimega tsukiini.",
+            "Selle probleemi nimeks on vaesus."
+          ],
+          "synonyms": [
+            "nimetus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "название",
+                "weight": 1
+              },
+              {
+                "words": "наименование",
+                "weight": 1
+              },
+              {
+                "words": "название",
+                "weight": 0.8307
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tuntus",
+        "silt",
+        "reiting",
+        "renomee",
+        "kuulsus",
+        "üldnimi",
+        "tiitel",
+        "imago",
+        "maine",
+        "nimetus",
+        "pärisnimi",
+        "reputatsioon",
+        "pealkiri",
+        "eesnimi",
+        "ärinimi",
+        "kogunimi",
+        "rööpnimi",
+        "isanimi",
+        "kohanimi",
+        "perenimi",
+        "võõrnimi",
+        "isikunimi",
+        "liignimi",
+        "tänavanimi",
+        "maine"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "nimi",
+      "translations": [
+        "moniker",
+        "name",
+        "proper noun"
+      ]
+    }
+  ]
+}

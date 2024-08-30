@@ -1,0 +1,411 @@
+{
+  "requestedWord": "latv",
+  "estonianWord": "latv",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22u",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "latv"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "ladva"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "latva"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "latva"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "ladvasse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "ladvas"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "ladvast"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "ladvale"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "ladval"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "ladvalt"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "ladvaks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "ladvani"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "ladvana"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "ladvata"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "ladvaga"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "ladvad"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "latvade"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "latvu,latvasid"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "latvadesse,ladvusse"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "latvades,ladvus"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "latvadest,ladvust"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "latvadele,ladvule"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "latvadel,ladvul"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "latvadelt,ladvult"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "latvadeks,ladvuks"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "latvadeni"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "latvadena"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "latvadeta"
+        },
+        {
+          "inflectionType": "22u",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "latvadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "taime ülaosa, puu võra ülaosa",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Puu latva polnud pilvede vahelt nähagi.",
+            "Kuuskede sakilised ladvad.",
+            "Õitsvatest tatrataime latvadest tehakse teed."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "верхушка",
+                "weight": 1
+              },
+              {
+                "words": "вершина",
+                "weight": 1
+              },
+              {
+                "words": "макушка",
+                "weight": 1
+              },
+              {
+                "words": "маковка",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi ülemine osa, tipp, hari",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Haanja ümbruses kerkib mitmeid mägede latvu üle 250 meetri."
+          ],
+          "synonyms": [
+            "tipp",
+            "hari",
+            "pea"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "вершина",
+                "weight": 1
+              },
+              {
+                "words": "верхушка,макушка,кончик,оконечность,вершина,верх",
+                "weight": 0.9
+              },
+              {
+                "words": "гребень,вершина,хребет",
+                "weight": 0.9
+              },
+              {
+                "words": "верхушка",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "шпиль,вершина,верхівʼя",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi tähtsam, esinduslikum osa,mingi hierarhia tipuosa",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Laulja on oma eluajal laulnud ära kogu tenoripartiide ladva, kõik tenorile kirjutatud superrollid.",
+            "Reformierakonna ladvast maandus ta Eesti Raadio juhatuse esimeheks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "топ",
+                "weight": 1
+              },
+              {
+                "words": "верхушка",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(pea, mõistuse kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Meeled olid nii ergad, otsekui oleks mind ladvast raputatud.",
+            "Tüdruk on kondi poolest pisut nigel, aga see-eest on ta sitke hingega ja latva on tal ka otsas."
+          ],
+          "synonyms": [
+            "pea",
+            "pea"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "голова",
+                "weight": 0.9
+              },
+              {
+                "words": "ум,рассудок,голова",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "tête",
+                "weight": 0.9
+              },
+              {
+                "words": "tête",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "голова",
+                "weight": 0.9
+              },
+              {
+                "words": "голова,розум",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "head",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kupar",
+        "peanutt",
+        "hari",
+        "hari",
+        "kaalikas",
+        "kolu",
+        "kolu",
+        "peakolu",
+        "kuppel",
+        "muhk",
+        "peanupp",
+        "nupp",
+        "turi",
+        "pea",
+        "pea",
+        "pea",
+        "pea",
+        "pää",
+        "tipp",
+        "tipp",
+        "tipp",
+        "ülaosa",
+        "känd",
+        "õievars",
+        "tüveosa",
+        "oksaraag",
+        "tüves",
+        "luide",
+        "rombjas",
+        "kuhikjas",
+        "oks",
+        "hekk",
+        "hekk",
+        "peajuur",
+        "puu",
+        "püstjas",
+        "pügal",
+        "pung",
+        "pung",
+        "ladvaosa",
+        "kukepuu",
+        "võra",
+        "puutüvi",
+        "õisik",
+        "ladvapung",
+        "saagjas",
+        "kännupess",
+        "kasepuu",
+        "külgvõrse",
+        "võrse"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "latv",
+      "translations": [
+        "tree-top",
+        "treetop"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "requestedWord": "vastast",
+  "estonianWord": "vastast",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vastast"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi suhtes teiselt poolt",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Kõige paremini näeme rongkäiku teatri vastast."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "напротив",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rongi, bussi vm ühissõidukiga tulijat peatuses ootamast tagasi",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Lapsed tulid rongi vastast."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "vastasleer",
+        "vastane",
+        "vastasrind"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vastast",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "requestedWord": "korraks",
+  "estonianWord": "korraks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "korraks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(üsna) lühikeseks ajaks või lühikest aega,lühikeseks ajaks või lühikest aega",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Enne keskpäeva tuli korraks päike välja.",
+            "Tõmbasin korraks hinge.",
+            "Ma lähen korraks õue.",
+            "Ta vaatas mulle korraks otsa."
+          ],
+          "synonyms": [
+            "korra",
+            "natukeseks",
+            "hetkeks",
+            "viivuks",
+            "ajutiselt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "un moment",
+                "weight": 1
+              },
+              {
+                "words": "un instant",
+                "weight": 1
+              },
+              {
+                "words": "brièvement",
+                "weight": 1
+              },
+              {
+                "words": "provisoirement,temporairement",
+                "weight": 0.441
+              }
+            ],
+            "rus": [
+              {
+                "words": "на минутку",
+                "weight": 1
+              },
+              {
+                "words": "ненадолго",
+                "weight": 1
+              },
+              {
+                "words": "на секунду",
+                "weight": 1
+              },
+              {
+                "words": "на мгновение",
+                "weight": 1
+              },
+              {
+                "words": "на миг",
+                "weight": 1
+              },
+              {
+                "words": "временно",
+                "weight": 0.441
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ненадовго",
+                "weight": 1
+              },
+              {
+                "words": "на мить",
+                "weight": 1
+              },
+              {
+                "words": "на хвилину",
+                "weight": 1
+              },
+              {
+                "words": "тимчасово",
+                "weight": 0.441
+              }
+            ],
+            "eng": [
+              {
+                "words": "temporarily",
+                "weight": 0.441
+              }
+            ]
+          }
+        },
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "недолго",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "natukeseks",
+        "hetkeks",
+        "korra",
+        "põgusalt",
+        "hinge tõmbama",
+        "ruigatama",
+        "röhkima",
+        "jälle",
+        "praks",
+        "praks",
+        "praks",
+        "taas",
+        "ikka",
+        "uuesti",
+        "taaskord"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "korraks",
+      "translations": []
+    }
+  ]
+}

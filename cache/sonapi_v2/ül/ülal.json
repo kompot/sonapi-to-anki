@@ -1,0 +1,172 @@
+{
+  "requestedWord": "ülal",
+  "estonianWord": "ülal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ülal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi või kellegi suhtes kõrgemas kohas, kõrgemal,kõrgemal, kõrgemas kohas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kliki ülal vasakul olevat nuppu.",
+            "Ülal pea kohal lendab lennuk."
+          ],
+          "synonyms": [
+            "üleval",
+            "ülalpool,ülevalpool"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "наверху",
+                "weight": 1
+              },
+              {
+                "words": "сверху",
+                "weight": 1
+              },
+              {
+                "words": "вверху",
+                "weight": 1
+              },
+              {
+                "words": "выше,над,наверху",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "нагорі",
+                "weight": 1
+              },
+              {
+                "words": "наверху",
+                "weight": 1
+              },
+              {
+                "words": "угорі",
+                "weight": 1
+              },
+              {
+                "words": "вище,над,нагорі,наверху,угорі",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "eespool, eelnevas tekstis",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ülal esitatud punktis oli sellest juba juttu.",
+            "Ülal kirjeldatud tingimused."
+          ],
+          "synonyms": [
+            "ülalpool",
+            "ülevalpool",
+            "eelpool,eespool,eel"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "выше",
+                "weight": 1
+              },
+              {
+                "words": "ранее",
+                "weight": 1
+              },
+              {
+                "words": "выше,ранее",
+                "weight": 0.511
+              }
+            ],
+            "fra": [
+              {
+                "words": "précédemment",
+                "weight": 0.511
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вище",
+                "weight": 0.511
+              }
+            ]
+          }
+        },
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "üleval",
+        "ülespoole",
+        "pealt",
+        "ülalpool",
+        "pealtpoolt",
+        "ülevalt",
+        "ülevalt",
+        "ülalt",
+        "peal",
+        "eespool",
+        "pealpool",
+        "ülalöeldu",
+        "ülevalpool",
+        "paremal",
+        "allpool",
+        "ülalõug"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ülal",
+      "translations": []
+    }
+  ]
+}

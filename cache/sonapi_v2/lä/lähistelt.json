@@ -1,0 +1,49 @@
+{
+  "requestedWord": "lähistelt",
+  "estonianWord": "lähistelt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "lähistelt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vahemaa poolest millegi lähedalt, lähedusest",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Mees on pärit Stockholmi lähistelt."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "lähedalt",
+        "äärest",
+        "lähistele",
+        "lähistel"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lähistelt",
+      "translations": []
+    }
+  ]
+}

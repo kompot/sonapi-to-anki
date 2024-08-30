@@ -1,0 +1,89 @@
+{
+  "requestedWord": "kõrgemal",
+  "estonianWord": "kõrgemal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kõrgemal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "ülalpool,ülevalpool"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "plus haut",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "выше",
+                "weight": 1
+              },
+              {
+                "words": "выше,над,наверху",
+                "weight": 0.484
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вище",
+                "weight": 1
+              },
+              {
+                "words": "вище,над,нагорі,наверху,угорі",
+                "weight": 0.484
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "madalam",
+        "kõrgeimal",
+        "kõrgel",
+        "madalamalt",
+        "nõrgemalt",
+        "alamal",
+        "madalamale",
+        "madalamal",
+        "kõrgemale",
+        "ligemal",
+        "kõrgem",
+        "kõrgemalseisev",
+        "kaugemal",
+        "kõrgemalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kõrgemal",
+      "translations": [
+        "above",
+        "higher"
+      ]
+    }
+  ]
+}

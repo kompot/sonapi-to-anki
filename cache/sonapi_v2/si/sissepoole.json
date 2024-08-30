@@ -1,0 +1,88 @@
+{
+  "requestedWord": "sissepoole",
+  "estonianWord": "sissepoole",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sissepoole"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "suunaga sisse, millegi sisemusse, millestki piiratud alale,(suunaga) sisse",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Eesuks peaks avanema sissepoole ja väga kergelt.",
+            "Ta tõmbas huuled sissepoole pingule.",
+            "Kontoris jäid minu võtmed täna sissepoole ust.",
+            "Aknad avanevad sissepoole."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "vers l'intérieur",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "внутрь",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "всередину",
+                "weight": 1
+              },
+              {
+                "words": "досередини",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sisse",
+        "ülespoole",
+        "väljapoole",
+        "seestpoolt",
+        "kokkupoole",
+        "pealepoole",
+        "tahapoole",
+        "ettepoole",
+        "kuhugipoole",
+        "allapoole",
+        "sisepool"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sissepoole",
+      "translations": [
+        "inward"
+      ]
+    }
+  ]
+}

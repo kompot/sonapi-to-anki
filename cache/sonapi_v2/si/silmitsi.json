@@ -1,0 +1,79 @@
+{
+  "requestedWord": "silmitsi",
+  "estonianWord": "silmitsi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "silmitsi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(vahetult, lähedalt) vastakuti, (raskustega) vastamisi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Seisti silmitsi keeruliste probleemidega.",
+            "Esimest korda silmitsi surmaga."
+          ],
+          "synonyms": [
+            "silmsi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "лицом к лицу",
+                "weight": 1
+              },
+              {
+                "words": "один на один",
+                "weight": 1
+              },
+              {
+                "words": "друг против друга",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "silm silma vastu",
+        "palgest palgesse",
+        "vastakuti",
+        "sülitsi",
+        "vastamisi",
+        "visavii",
+        "silmsi",
+        "vastastikku",
+        "näost näkku",
+        "püstihädas",
+        "võitlema",
+        "kimpus",
+        "silmitu",
+        "silmitsema"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "silmitsi",
+      "translations": [
+        "up against"
+      ]
+    }
+  ]
+}

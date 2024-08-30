@@ -1,0 +1,175 @@
+{
+  "requestedWord": "pimesi",
+  "estonianWord": "pimesi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "pimesi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "korralikult nägemata, käsikaudu (nt pimedas või suletud silmadega)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Lõin end pimesi liikudes ära.",
+            "Viimase küsimuse õigesti vastanu saab pimesi valida väärtusliku auhinna."
+          ],
+          "synonyms": [
+            "pimesilmi",
+            "ummisjalu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "не видя",
+                "weight": 1
+              },
+              {
+                "words": "наугад",
+                "weight": 1
+              },
+              {
+                "words": "вслепую",
+                "weight": 1
+              },
+              {
+                "words": "слепо",
+                "weight": 1
+              },
+              {
+                "words": "втёмную",
+                "weight": 1
+              },
+              {
+                "words": "сломя голову,неосторожно,неосмотрительно,непредусмотрительно,без оглядки",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ilma mõtlemata, kaalutlemata, asjasse süvenemata",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Läänes tehtavat ei maksa pimesi kopeerida.",
+            "Tabudest ei olnud vaja aru saada, neile tuli pimesi alluda."
+          ],
+          "synonyms": [
+            "pimedalt",
+            "pimesilmi",
+            "uisapäisa,järelemõtlematult,läbimõtlematult",
+            "ummisjalu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "слепо",
+                "weight": 1
+              },
+              {
+                "words": "вслепую",
+                "weight": 1
+              },
+              {
+                "words": "необдуманно",
+                "weight": 1
+              },
+              {
+                "words": "опрометчиво",
+                "weight": 1
+              },
+              {
+                "words": "не долго думая",
+                "weight": 1
+              },
+              {
+                "words": "наобум",
+                "weight": 1
+              },
+              {
+                "words": "непродуманно,необдуманно,второпях,сплеча,неосмотрительно,без оглядки,опрометчиво,безрассудно,по опрометчивости,опрометью,бесшабашно,скоропалительно,наскоком",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "наугад",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ummisjalu",
+        "pimedast peast",
+        "ettevaatamatult",
+        "pimesilmi",
+        "rabedalt",
+        "kobamisi",
+        "kompamisi",
+        "kinnisilmi",
+        "uisapäisa",
+        "pimedalt",
+        "ummispäi",
+        "tormakalt",
+        "mõtlematult",
+        "kobavalt",
+        "käsikaudu",
+        "umbropsu",
+        "hea õnne peale",
+        "huupi",
+        "mitte",
+        "mitte",
+        "pimestus",
+        "pimesus",
+        "neid",
+        "pimestatult",
+        "kohemaid",
+        "pimesikumäng"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pimesi",
+      "translations": [
+        "blindly",
+        "credulously"
+      ]
+    }
+  ]
+}

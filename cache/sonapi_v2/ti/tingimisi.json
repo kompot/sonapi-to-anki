@@ -1,0 +1,58 @@
+{
+  "requestedWord": "tingimisi",
+  "estonianWord": "tingimisi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tingimisi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teatud tingimustega seotud, teatud tingimustel (hrl kohtuliku karistuse kohta, mida kindlaksmääratud tingimusel täide ei viida)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Teda karistati kolmeaastase tingimisi vangistusega.",
+            "Vennad on enne tähtaega tingimisi vabastatud.",
+            "Päris korralik ja isegi tingimisi joodav puskar, leidis meister."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "условно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tinglikult",
+        "vangistus",
+        "kriminaalkaristus",
+        "šokivangistus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tingimisi",
+      "translations": []
+    }
+  ]
+}

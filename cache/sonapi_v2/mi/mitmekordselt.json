@@ -1,0 +1,68 @@
+{
+  "requestedWord": "mitmekordselt",
+  "estonianWord": "mitmekordselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "mitmekordselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingi (endise) tasemega võrreldes mitu korda (rohkem või vähem),mitmel korral, korduvalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ma olen teile mitmekordselt tänu võlgu.",
+            "Mõnel mehel veab elus mitmekordselt."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "многократно",
+                "weight": 1
+              },
+              {
+                "words": "много раз",
+                "weight": 1
+              },
+              {
+                "words": "в несколько раз",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mitmevõrra",
+        "tuhandekordselt",
+        "sajakordselt",
+        "kahekordselt",
+        "neljakordselt",
+        "viiekordselt",
+        "kolmekordselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "mitmekordselt",
+      "translations": []
+    }
+  ]
+}

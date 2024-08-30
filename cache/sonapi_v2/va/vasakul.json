@@ -1,0 +1,120 @@
+{
+  "requestedWord": "vasakul",
+  "estonianWord": "vasakul",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vasakul"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "keha keskjoonest südame pool,vasaku käe pool",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Minust vasakul seisis kaks meest.",
+            "Istusin Raulist vasakul."
+          ],
+          "synonyms": [
+            "pahemal",
+            "vasemal",
+            "vasakul pool"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "à gauche",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "слева",
+                "weight": 1
+              },
+              {
+                "words": "налево",
+                "weight": 1
+              },
+              {
+                "words": "влево",
+                "weight": 1
+              },
+              {
+                "words": "с левой стороны",
+                "weight": 1
+              },
+              {
+                "words": "в левой стороне",
+                "weight": 1
+              },
+              {
+                "words": "по левую сторону",
+                "weight": 1
+              },
+              {
+                "words": "на левой стороне",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ліворуч",
+                "weight": 1
+              },
+              {
+                "words": "зліва",
+                "weight": 1
+              },
+              {
+                "words": "наліво",
+                "weight": 1
+              },
+              {
+                "words": "вліво",
+                "weight": 1
+              },
+              {
+                "words": "з лівого боку",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vasakule",
+        "vasakult",
+        "paremal",
+        "paremale",
+        "vasakhaak",
+        "vasemal",
+        "paremalt",
+        "vasak"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vasakul",
+      "translations": [
+        "left",
+        "on the left"
+      ]
+    }
+  ]
+}

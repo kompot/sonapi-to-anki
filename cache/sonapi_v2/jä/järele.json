@@ -1,0 +1,325 @@
+{
+  "requestedWord": "järele",
+  "estonianWord": "järele",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "järele"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab kellelegi või millelegi järgnemisele,taha,osutab, et keegi järgneb kellelegi või millelegi,(kellegi) taha",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Asusin ritta tema järele.",
+            "Koer jooksis autole natuke maad järele.",
+            "Minge ees, ma tulen pärast järele.",
+            "Koer jooksis jalgrattale järele.",
+            "Asusin järjekorda Martini järele."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "вслед",
+                "weight": 1
+              },
+              {
+                "words": "вдогон",
+                "weight": 1
+              },
+              {
+                "words": "вдогонку",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "услід",
+                "weight": 1
+              },
+              {
+                "words": "слідом",
+                "weight": 1
+              },
+              {
+                "words": "навздогін",
+                "weight": 1
+              },
+              {
+                "words": "наздогін",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ajaliselt tagapool, järgnemas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Minge te ees, ma tulen pärast järele."
+          ],
+          "synonyms": [
+            "järgi"
+          ],
+          "translations": {}
+        },
+        {
+          "definition": "osutab soovide, vajaduste sihtmärgile või huvipakkuvale asjaolule,osutab sellele, kes või mis pakub huvi",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Poisid olid nagu hullud selle tüdruku järele.",
+            "Sõber küsis ema tervise järele.",
+            "Reet kobas taskus müntide järele.",
+            "Koolis on suur vajadus noorte õpetajate järele."
+          ],
+          "synonyms": [
+            "järgi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "о",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "про",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(seoses millegi või kellegi saamise, hankimise, äraviimisega),osutab sellele, keda või mida minnakse kuskilt ära tooma",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Ema saatis poisi poodi leiva järele.",
+            "Tulin oma raamatule järele.",
+            "Ema läks lasteaeda lastele järele.",
+            "Tulin oma raamatute järele."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "по",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab tasemelt, arengult, saavutustelt kellenigi või millenigi jõudmist või viimist",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Poeg on kasvus isale järele võtnud."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "millegi alusel, millestki lähtudes",
+          "partOfSpeech": [],
+          "examples": [
+            "Samal momendil ilmub lävele tüse daam, välimuse järele umbes aastat 35."
+          ],
+          "synonyms": [
+            "järgi",
+            "põhjal",
+            "põhiselt",
+            "alusel,baasil",
+            "najal",
+            "kaupa,viisi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "sur la base de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "по",
+                "weight": 1
+              },
+              {
+                "words": "согласно",
+                "weight": 1
+              },
+              {
+                "words": "в соответствии",
+                "weight": 1
+              },
+              {
+                "words": "на основании",
+                "weight": 1
+              },
+              {
+                "words": "на основе",
+                "weight": 1
+              },
+              {
+                "words": "на базе",
+                "weight": 1
+              },
+              {
+                "words": "на базе,на основании,на основе",
+                "weight": 0.7
+              },
+              {
+                "words": "на основании",
+                "weight": 0.7
+              },
+              {
+                "words": "по",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на основі",
+                "weight": 1
+              },
+              {
+                "words": "на підставі",
+                "weight": 1
+              },
+              {
+                "words": "на підставі,на основі",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab ainele või esemele, mille lõhn või lehk on kellegi või millegi küljes,osutab ainele või asjale, mille lõhn on kellegi või millegi küljes",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Metsaalune lõhnas vaigu ja sambla järele.",
+            "Mees lõhnas alkoholi järele.",
+            "Riided haisevad suitsu järele."
+          ],
+          "synonyms": [
+            "järgi"
+          ],
+          "translations": {}
+        },
+        {
+          "definition": "(olekult, jõult) nõrgemaks, vähemaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõht on nii täis, et tuleb püksirihma järele lasta."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "läbi",
+        "kaasa",
+        "kaasa",
+        "takka kiitma",
+        "juurde",
+        "peale",
+        "igatsus",
+        "vajadus",
+        "takkajärele",
+        "nõudlus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "järele",
+      "translations": [
+        "behind"
+      ]
+    }
+  ]
+}

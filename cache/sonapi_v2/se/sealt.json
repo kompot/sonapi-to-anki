@@ -1,0 +1,165 @@
+{
+  "requestedWord": "sealt",
+  "estonianWord": "sealt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sealt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab kohale, mis on kaugemal, kõnelejast eemal ning kust keegi tuleb või on pärit või kust midagi lähtub,sinust kaugemal, eemal olevast kohast (millele sa viitad)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kes sealt tuleb?",
+            "Bussipeatus on sealt neli kilomeetrit.",
+            "Tule sealt ära!",
+            "Leidsin selle kivi sealt põllu pealt."
+          ],
+          "synonyms": [
+            "säält"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "оттуда",
+                "weight": 1
+              },
+              {
+                "words": "оттоле",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звідти",
+                "weight": 1
+              },
+              {
+                "words": "відтіля",
+                "weight": 1
+              },
+              {
+                "words": "звідтіля",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab eespool juba mainitud, teada olevale (või mainitavale) kohale, olukorrale, kus midagi toimub, esineb ning kust midagi lähtub,osutab eelnevas jutus märgitud kohale, kust midagi lähtub",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Al võttis suitsupaki ja sealt ühe sigareti.",
+            "Tartu on tore linn, ma olen sealt pärit."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "оттуда",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "звідти",
+                "weight": 1
+              },
+              {
+                "words": "відтіля",
+                "weight": 1
+              },
+              {
+                "words": "звідтіля",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab asjaolule vm, mida järgnevas või eelnevas täpsustatakse või täiendatakse",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kust odavam, sealt ostetakse.",
+            "Me jätkame sealt, kuhu pooleli jäi.",
+            "Määrisin sealt, kust parajasti valutas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "оттуда",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "siit",
+        "kuskilt",
+        "siitkaudu",
+        "sinna",
+        "siit-sealt",
+        "siitpoolt",
+        "siiski",
+        "aga",
+        "aga",
+        "sealtkaudu",
+        "jälle",
+        "seal",
+        "ilmselt",
+        "kusagilt",
+        "vahepealt",
+        "sealtmaalt",
+        "sealtsamast",
+        "kust",
+        "ikka",
+        "küll",
+        "küll",
+        "juurest",
+        "sealtpoolt",
+        "kustpoolt",
+        "kustkohast",
+        "kohe",
+        "kohe",
+        "siitmailt",
+        "sealtkandist"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sealt",
+      "translations": [
+        "thence"
+      ]
+    }
+  ]
+}

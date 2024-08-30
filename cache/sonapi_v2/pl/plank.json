@@ -1,0 +1,982 @@
+{
+  "requestedWord": "plank",
+  "estonianWord": "plank",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "plank"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "plangu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "planku"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "planku"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "plangusse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "plangus"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "plangust"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "plangule"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "plangul"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "plangult"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "planguks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "planguni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "planguna"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "planguta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "planguga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "plangud"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "plankude"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "planke,plankusid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "plankudesse,plangesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "plankudes,planges"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "plankudest,plangest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "plankudele,plangele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "plankudel,plangel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "plankudelt,plangelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "plankudeks,plangeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "plankudeni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "plankudena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "plankudeta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "plankudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "jämedast puutüvest saetud umbes 5–10 cm paksune (lai) laud",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mihkel saeb tüved plankudeks.",
+            "Männiplank.",
+            "Puuplank.",
+            "Ehitusplank."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "батанец",
+                "weight": 1
+              },
+              {
+                "words": "толстая доска",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tihedalt kõrvuti asetatud laudadest aed",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ei tea, mida nad seal plangu taga ehitavad?",
+            "Poisid pandi planku värvima."
+          ],
+          "synonyms": [
+            "plankaed",
+            "planktara",
+            "aed,tara"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "дощатый забор",
+                "weight": 1
+              },
+              {
+                "words": "забор",
+                "weight": 1
+              },
+              {
+                "words": "забор,изгородь,палисадник,ограда,частокол,тын,штакетник",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "clôture",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "огорожа,загорода,паркан,тин",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "fence",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "jõutreeningus asend, kus sirutatud keha on rinnaga aluspinna poole ja toetub mõlemale küünarvarrele ning pöiale",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Plank on üks populaarsemaid harjutusi, mida trennis teha."
+          ],
+          "synonyms": [
+            "planguasend"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "планка",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "rahatu",
+        "palissaad",
+        "teivasaed",
+        "pistandaed",
+        "vorm",
+        "vorm",
+        "pihttara",
+        "aed",
+        "tara",
+        "roigasaed",
+        "lage",
+        "formular",
+        "palktara",
+        "pistand",
+        "pistandtara",
+        "piire",
+        "plankaed",
+        "blankett",
+        "plinn",
+        "pihtaed",
+        "hirsaed",
+        "piirdeaed",
+        "püstaed",
+        "püstandaed",
+        "plink",
+        "plink",
+        "tarandik",
+        "paljas",
+        "puulaud",
+        "plankter",
+        "planktiline",
+        "planktofaag",
+        "lank",
+        "pontoon",
+        "laudis",
+        "planisfäär",
+        "palksein",
+        "plangutus",
+        "vahtpolüstürool",
+        "aknalaud",
+        "kirjaplank"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "plank"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "plangi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "planki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "planki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "plangisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "plangis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "plangist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "plangile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "plangil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "plangilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "plangiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "plangini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "plangina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "plangita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "plangiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "plangid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "plankide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "planke,plankisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "plankidesse,plangesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "plankides,planges"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "plankidest,plangest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "plankidele,plangele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "plankidel,plangel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "plankidelt,plangelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "plankideks,plangeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "plankideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "plankidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "plankideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "plankidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "asutuse või ettevõtte nimega, sageli osaliselt ettetrükitud tekstiga paberileht täitmiseks,vastav elektrooniline dokument,(asutuse nimega) paber, kus on osa teksti ette antud ja kuhu saab juurde kirjutada",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Avalduse plank.",
+            "Dokumendiplank.",
+            "Retseptiplank.",
+            "Asutuse sümboolikaga plank."
+          ],
+          "synonyms": [
+            "blankett",
+            "formular",
+            "kirjablankett",
+            "kirjaplank",
+            "vorm"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "formulaire",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "формуляр",
+                "weight": 1
+              },
+              {
+                "words": "бланк",
+                "weight": 1
+              },
+              {
+                "words": "форма",
+                "weight": 1
+              },
+              {
+                "words": "образец",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "бланк",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vorm",
+        "formular",
+        "blankett",
+        "rahatu",
+        "teivasaed",
+        "palissaad",
+        "pistandaed",
+        "vorm",
+        "pihttara",
+        "aed",
+        "tara",
+        "roigasaed",
+        "lage",
+        "palktara",
+        "pistand",
+        "pistandtara",
+        "piire",
+        "plankaed",
+        "plinn",
+        "pihtaed",
+        "hirsaed",
+        "piirdeaed",
+        "püstaed",
+        "plink",
+        "püstandaed",
+        "plink",
+        "tarandik",
+        "paljas",
+        "puulaud",
+        "plankter",
+        "planktiline",
+        "planktofaag",
+        "plangutus",
+        "palksein",
+        "planisfäär",
+        "aknalaud",
+        "kirjaplank",
+        "lank",
+        "pontoon",
+        "laudis",
+        "vahtpolüstürool"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "plank"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "plangi"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "planki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "planki"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "plangisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "plangis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "plangist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "plangile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "plangil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "plangilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "plangiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "plangini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "plangina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "plangita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "plangiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "plangid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "plankide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "planke,plankisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "plankidesse,plangesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "plankides,planges"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "plankidest,plangest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "plankidele,plangele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "plankidel,plangel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "plankidelt,plangelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "plankideks,plangeks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "plankideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "plankidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "plankideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "plankidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "rahatu, vaene, rahast lage",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Nüüd olen plank kui hiidlase püksinööp!"
+          ],
+          "synonyms": [
+            "rahatu,rahavaene",
+            "vaene",
+            "paljas",
+            "lage"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ни гроша",
+                "weight": 1
+              },
+              {
+                "words": "ветер свистит в кармане",
+                "weight": 1
+              },
+              {
+                "words": "ни гроша за душой",
+                "weight": 1
+              },
+              {
+                "words": "безденежный,малоимущий,бедный",
+                "weight": 0.9
+              },
+              {
+                "words": "малосостоятельный,необеспеченный,бедный,неимущий,малоимущий",
+                "weight": 0.7
+              },
+              {
+                "words": "голый",
+                "weight": 0.4
+              },
+              {
+                "words": "чистый,нагой,голый",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "pauvre",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "бідний,убогий,незаможний",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "poor",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vaene",
+        "rahatu",
+        "palissaad",
+        "teivasaed",
+        "pistandaed",
+        "vorm",
+        "vorm",
+        "pihttara",
+        "aed",
+        "tara",
+        "roigasaed",
+        "lage",
+        "formular",
+        "palktara",
+        "pistand",
+        "pistandtara",
+        "piire",
+        "plankaed",
+        "blankett",
+        "plinn",
+        "pihtaed",
+        "hirsaed",
+        "piirdeaed",
+        "püstaed",
+        "püstandaed",
+        "plink",
+        "plink",
+        "tarandik",
+        "paljas",
+        "puulaud",
+        "plankter",
+        "planktiline",
+        "planktofaag",
+        "lank",
+        "pontoon",
+        "laudis",
+        "planisfäär",
+        "palksein",
+        "plangutus",
+        "vahtpolüstürool",
+        "aknalaud",
+        "kirjaplank"
+      ]
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "palgist lõigatud pikk ja suhteliselt õhuke puitmaterjal hrl millegi ehitamiseks (nt põrandalaud, voodrilaud),pikk ja lame puust tükk, mida kasutatakse ehitusmaterjalina",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "laud",
+            "puulaud"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "board",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "planche",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "доска",
+                "weight": 1
+              },
+              {
+                "words": "дощечка",
+                "weight": 1
+              },
+              {
+                "words": "панель",
+                "weight": 1
+              },
+              {
+                "words": "деревянная доска",
+                "weight": 0.658
+              }
+            ],
+            "ukr": [
+              {
+                "words": "дошка",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "plank",
+      "translations": [
+        "batten",
+        "form",
+        "hoarding",
+        "plank"
+      ]
+    }
+  ]
+}

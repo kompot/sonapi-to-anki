@@ -1,0 +1,462 @@
+{
+  "requestedWord": "pump",
+  "estonianWord": "pump",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22i",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "pump"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "pumba"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "pumpa"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "pumpa"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "pumbasse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "pumbas"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "pumbast"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "pumbale"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "pumbal"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "pumbalt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "pumbaks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "pumbani"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "pumbana"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "pumbata"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "pumbaga"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "pumbad"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "pumpade"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "pumpi,pumpasid"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "pumpadesse,pumbisse"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "pumpades,pumbis"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "pumpadest,pumbist"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "pumpadele,pumbile"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "pumpadel,pumbil"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "pumpadelt,pumbilt"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "pumpadeks,pumbiks"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "pumpadeni"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "pumpadena"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "pumpadeta"
+        },
+        {
+          "inflectionType": "22i",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "pumpadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "imemise või surumise põhimõttel töötav seade vedeliku (ka puistmaterjali, gaasi) teisaldamiseks või täispuhutava eseme täitmiseks õhuga",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Veepump.",
+            "Elektrikatkestus lõi pumbad rivist välja.",
+            "Õhkmadratsi pump."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "насос",
+                "weight": 1
+              },
+              {
+                "words": "помпа",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(südame kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "süda"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сердце",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "cœur",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "серце",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "heart",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kõva viinavõtja",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "viinakõri,viinapump,jota,viinanina",
+            "viinavõtja,viinaviskaja,napsimees,viinamees,napsumees",
+            "alkohoolik,joodik,joomakoer,joomar,joomavend,lakard,lakekauss,lakekrants,lakkekauss,lakkekrants,õli,joomakõri,alkašš,alkoholisõltlane",
+            "kärakamees,kärakavend,napsivend,napsivõtja,topsisõber,topsivend,kärakavõtja,napsiarmastaja,napsuarmastaja,napsitaja",
+            "mudajoodik",
+            "joomahull",
+            "peedivend",
+            "viinavend",
+            "joomamees",
+            "sopajoodik",
+            "purujoodik",
+            "tipsutaja",
+            "joomakaru",
+            "napsisõber",
+            "marujoodik"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "алкаш,алкашка,пьянчуга,пьянчужка,выпивоха,выпивала,бухарь,бухарик,пропойца",
+                "weight": 0.9
+              },
+              {
+                "words": "выпивала,выпивоха,пьющий человек,любитель выпить,пьющий",
+                "weight": 0.9
+              },
+              {
+                "words": "алкоголик,пьяница,алкоголичка,пропойца,алкаш,алкашка,пьянчуга,пьянчужка,выпивоха,запивоха,бражник,забулдыга,алкозависимый,алкогольно-зависимый",
+                "weight": 0.9
+              },
+              {
+                "words": "пропойца,алкаш,пьянчуга,выпивоха,выпивала,пьющий,любящий выпивать,злоупотребляющий алкогольными напитками,любитель выпить,человек, злоупотребляющий алкогольными напитками,пьющий человек",
+                "weight": 0.9
+              },
+              {
+                "words": "беспробудный пьяница,пропойца,пьянчуга",
+                "weight": 0.9
+              },
+              {
+                "words": "запойный пьяница",
+                "weight": 0.9
+              },
+              {
+                "words": "бормоглот,бормоглотка,бормотушник,бормотушница",
+                "weight": 0.9
+              },
+              {
+                "words": "пьющий,выпивоха,пьянчуга",
+                "weight": 0.9
+              },
+              {
+                "words": "пьяница,пропойца,пьянчуга,выпивоха",
+                "weight": 0.9
+              },
+              {
+                "words": "беспробудный пьяница,забулдыга",
+                "weight": 0.9
+              },
+              {
+                "words": "горький пьяница,горькая пьяница,беспробудный пьяница,беспробудная пьяница",
+                "weight": 0.9
+              },
+              {
+                "words": "запивоха,пропойца,пьянчуга,выпивоха",
+                "weight": 0.9
+              },
+              {
+                "words": "любитель выпить,человек, любящий выпить,человек, имеющий слабость к спиртному,пьющий человек",
+                "weight": 0.9
+              },
+              {
+                "words": "беспробудный пьяница",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "alcoolique,ivrogne,buveur,buveuse",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "алкоголік,алкоголічка,пʼяниця",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "alcoholic",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "õhksoojuspump",
+        "viinapump",
+        "valamupump",
+        "tuletõrjepump",
+        "tsentrifugaalpump",
+        "suruõhupump",
+        "surupump",
+        "soojuspump",
+        "siduripump",
+        "rinnapump",
+        "ringluspump",
+        "reoveepump",
+        "rahapump",
+        "pinnasepump",
+        "ninapump",
+        "mudapump",
+        "mootorpump",
+        "maasoojuspump",
+        "lihaspump",
+        "kaevupump",
+        "jalgrattapump",
+        "insuliinipump",
+        "imipump",
+        "elektripump",
+        "bensiinipump",
+        "aurupump",
+        "süda",
+        "viinavõtja",
+        "joomakoer",
+        "lakard",
+        "jota",
+        "napsumees",
+        "mudajoodik",
+        "kärakavõtja",
+        "kärakamees",
+        "kärakavend",
+        "joomavend",
+        "napsiarmastaja",
+        "joomahull",
+        "peedivend",
+        "napsimees",
+        "joomakõri",
+        "joomar",
+        "sopakas",
+        "topsivend",
+        "alkohoolik",
+        "joomahaige",
+        "napsivend",
+        "lakkekauss",
+        "viinavend",
+        "valvejoodik",
+        "viinanina",
+        "joomamees",
+        "viinaviskaja",
+        "sopajoodik",
+        "purujoodik",
+        "tipsutaja",
+        "joomakaru",
+        "napsisõber",
+        "napsivõtja",
+        "lausjoodik",
+        "lakkekrants",
+        "viinamees",
+        "marujoodik",
+        "topsisõber",
+        "jugapump",
+        "õlipump",
+        "kolbpump",
+        "sukelpump",
+        "labapump",
+        "vaakumpump",
+        "õhupump",
+        "kõrgsurvepump",
+        "kütusepump",
+        "käsipump",
+        "pilsipump",
+        "kruvipump",
+        "veepump",
+        "pumpamine",
+        "pumpama",
+        "pumps",
+        "pumps",
+        "õhuklapp",
+        "õlivann",
+        "paak",
+        "paak",
+        "paak",
+        "õhufilter",
+        "boiler"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pump",
+      "translations": [
+        "donkey",
+        "pump"
+      ]
+    }
+  ]
+}

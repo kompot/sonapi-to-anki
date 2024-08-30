@@ -1,0 +1,665 @@
+{
+  "requestedWord": "õnnistama",
+  "estonianWord": "õnnistama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "õnnistama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "õnnistamata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "õnnistamas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "õnnistamast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "õnnistamaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "õnnistatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "õnnistada"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "õnnistades"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "õnnistav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "õnnistatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "õnnistanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "õnnistanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "õnnistatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "õnnistatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "õnnistan"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "õnnistad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "õnnistab"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "õnnistame"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "õnnistate"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "õnnistavad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "õnnista"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "õnnistatakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "õnnistata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "õnnistasin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "õnnistasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "õnnistas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "õnnistasime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "õnnistasite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "õnnistasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "õnnistati"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "õnnistaksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "õnnistaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "õnnistaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "õnnistaksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "õnnistaksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "õnnistaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "õnnistataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "õnnistanuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "õnnistanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "õnnistanuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "õnnistanuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "õnnistanuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "õnnistanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "õnnistatuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "õnnistavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "õnnistatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "õnnistanuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "õnnistatuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "õnnista"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "õnnistagem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "õnnistage"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "õnnistagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "õnnistatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Jumala, taevaste jõudude armu jagama, õnnistust kinkima,midagi (jumalikku, üleloomulikku, väga head) osaks saada laskma, sel viisil kedagi õnnelikuks, väljavalituks tegema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Jumal õnnistagu teid!",
+            "Kui jumal õnnistab, jääb poiss elama.",
+            "Marion tundis, et teda on andega õnnistatud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "благословлять",
+                "weight": 1
+              },
+              {
+                "words": "благословить",
+                "weight": 1
+              },
+              {
+                "words": "давать своё благословение",
+                "weight": 1
+              },
+              {
+                "words": "дать своё благословение",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "midagi suures koguses osaks saada laskma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ilmataat õnnistas üritust lõõmava päikesepaistega."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "наделять",
+                "weight": 1
+              },
+              {
+                "words": "наделить",
+                "weight": 1
+              },
+              {
+                "words": "одаривать",
+                "weight": 1
+              },
+              {
+                "words": "одарить",
+                "weight": 1
+              },
+              {
+                "words": "награждать",
+                "weight": 1
+              },
+              {
+                "words": "наградить",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kedagi ohtrate (vande)sõnadega märgistama, sel viisil sõimama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Õnnistasin teda kõige soolasemate sõnadega."
+          ],
+          "synonyms": [
+            "ristima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "поносить",
+                "weight": 1
+              },
+              {
+                "words": "проклинать",
+                "weight": 1
+              },
+              {
+                "words": "честить",
+                "weight": 1
+              },
+              {
+                "words": "крестить,окрестить,обзывать,обозвать",
+                "weight": 0.797
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rituaalse toiminguga (nt palvega, ristimärgi tegemisega) kellelegi või millelegi Jumala õnnistust paluma või soovima",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Paavst õnnistas kogu rahvast, eriti vaeseid."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "благословлять",
+                "weight": 1
+              },
+              {
+                "words": "благословить",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vaimulikuametisse pühitsema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Õpetaja õnnistatakse ametisse, aga köster mitte."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "рукополагать",
+                "weight": 1
+              },
+              {
+                "words": "рукоположить",
+                "weight": 1
+              },
+              {
+                "words": "возводить в сан",
+                "weight": 1
+              },
+              {
+                "words": "возвести в сан",
+                "weight": 1
+              },
+              {
+                "words": "посвящать в священники",
+                "weight": 1
+              },
+              {
+                "words": "посвятить в священники",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kedagi väga tänama või kiitma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Rahvas õnnistas oma head valitsejat."
+          ],
+          "synonyms": [
+            "tänama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "восхвалять",
+                "weight": 1
+              },
+              {
+                "words": "восхвалить",
+                "weight": 1
+              },
+              {
+                "words": "прославлять",
+                "weight": 1
+              },
+              {
+                "words": "прославить",
+                "weight": 1
+              },
+              {
+                "words": "хвалить",
+                "weight": 1
+              },
+              {
+                "words": "похвалить",
+                "weight": 1
+              },
+              {
+                "words": "благодарить",
+                "weight": 1
+              },
+              {
+                "words": "поблагодарить",
+                "weight": 1
+              },
+              {
+                "words": "благословлять",
+                "weight": 1
+              },
+              {
+                "words": "благословить",
+                "weight": 1
+              },
+              {
+                "words": "благословлять,благословить,благодарить,поблагодарить,отблагодарить,выражать благодарность,приносить благодарность,возблагодарить,выразить благодарность,принести благодарность",
+                "weight": 0.7813
+              }
+            ],
+            "fra": [
+              {
+                "words": "remercier",
+                "weight": 0.7813
+              }
+            ],
+            "ukr": [
+              {
+                "words": "дякувати,подякувати",
+                "weight": 0.7813
+              }
+            ],
+            "eng": [
+              {
+                "words": "thank",
+                "weight": 0.7813
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "praalima",
+        "välja tulema",
+        "läbi minema",
+        "tänama",
+        "pröökama",
+        "põrgu põhja vanduma",
+        "õnnestuma",
+        "lakutama",
+        "välja kukkuma",
+        "karjuma",
+        "maapõhja kiruma",
+        "ristima",
+        "lõugama",
+        "räuskama",
+        "riidlema",
+        "maapõhja vanduma",
+        "jupastama",
+        "sõimama",
+        "vedama",
+        "näkkama",
+        "korda minema",
+        "ripatama",
+        "pühitsema",
+        "ennistama",
+        "jumaldama",
+        "kurvastama",
+        "kiitlema",
+        "jutlema",
+        "jälestama",
+        "rüvetama",
+        "laulatama",
+        "õnnitlema",
+        "piserdama",
+        "vääristama",
+        "mälestama",
+        "sahistama",
+        "teotama",
+        "klõbistama",
+        "poputama",
+        "sütitama",
+        "pabistama",
+        "põristama",
+        "ponnistama",
+        "ülistama",
+        "ristama",
+        "teretama",
+        "sosistama",
+        "paitama",
+        "teietama",
+        "häbistama",
+        "väristama",
+        "rabistama",
+        "halastama",
+        "siristama",
+        "õilistama",
+        "vihtlema",
+        "kätlema",
+        "kiristama",
+        "patustama",
+        "läkastama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "õnnistama",
+      "translations": [
+        "bless",
+        "endue",
+        "lay hands on"
+      ]
+    }
+  ]
+}

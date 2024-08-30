@@ -1,0 +1,91 @@
+{
+  "requestedWord": "väljaspoole",
+  "estonianWord": "väljaspoole",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "väljaspoole"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi piiridest välja või välimisele küljele",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Väljaspoole pole vähemalt pidutsemise kära kuulda.",
+            "Suvel liigub muusikaelu kesklinnast väljaspoole.",
+            "Ülejäänud esikaheksa kohad läksid väljaspoole pealinna.",
+            "Suuremad kortermajad on püstitatud väljaspoole kesklinna."
+          ],
+          "synonyms": [
+            "väljapoole"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "наружу",
+                "weight": 1
+              },
+              {
+                "words": "снаружи",
+                "weight": 1
+              },
+              {
+                "words": "вне",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "из",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "назовні",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "väljapoole",
+        "väljastpoolt",
+        "väljaspool",
+        "kaugemale",
+        "väljaspoolne",
+        "siiapoole",
+        "väljaspoolt",
+        "teispoole"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "väljaspoole",
+      "translations": []
+    }
+  ]
+}

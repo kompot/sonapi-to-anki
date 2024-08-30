@@ -1,0 +1,394 @@
+{
+  "requestedWord": "te",
+  "estonianWord": "te",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "00",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "sa"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "su"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "sind"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "susse"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "sus"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "sust"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "sulle"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "sul"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "sult"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "suga"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "te"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "te"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "teid"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "teisse"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "teis"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "teist"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "teile"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "teil"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "teilt"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "teiks"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "-"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab kahele või enamale inimesele, kellest vähemalt üks on kuulaja (ütluse adressaat) ja kelle hulka ei kuulu kõneleja,sina ja teine inimene või sina ja teised inimesed",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Te kõik peaksite teda tundma.",
+            "Mis te teete?",
+            "Tunnetage, kuidas teisse voolab uut jõudu ja te sünnite justkui ümber."
+          ],
+          "synonyms": [
+            "teie"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "vous",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вы",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ви",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "märgib kuulaja peret, kodu, töökohta või riiki",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Teile tuleb külla härra president.",
+            "Kuidas teil tööpuudusega on?",
+            "Teilt on sinna paar kilomeetrit."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вы",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab ühele kuulajale (ütluse adressaadile), kasutatakse pöördumisel võõra või vähem tuttava inimese poole,kasutatakse <eki-foreign>sina</eki-foreign> asemel viisakal pöördumisel võõrama või vanema inimese poole",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Proua, te pillasite kinda!",
+            "Olen teisse armunud!",
+            "Kas tohib teid tülitada?",
+            "„Kuidas te end tunnete?” küsis arst."
+          ],
+          "synonyms": [
+            "teie"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "vous",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вы",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ви",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "teie",
+        "teie",
+        "et",
+        "et",
+        "No",
+        "ka",
+        "o",
+        "ta",
+        "e",
+        "e",
+        "e",
+        "ju",
+        "sa",
+        "la",
+        "da",
+        "b",
+        "b",
+        "i",
+        "i",
+        "t",
+        "t",
+        "f",
+        "f",
+        "n",
+        "n",
+        "ei",
+        "ei",
+        "Te",
+        "d",
+        "d",
+        "v",
+        "r",
+        "r",
+        "me",
+        "ma",
+        "ja",
+        "me",
+        "r"
+      ]
+    },
+    {
+      "wordClasses": [],
+      "wordForms": [],
+      "meanings": [
+        {
+          "definition": "habras hõbehall kristalne poolmetall, keemiline element järjenumbriga 52",
+          "partOfSpeech": [],
+          "examples": [],
+          "synonyms": [
+            "telluur"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "теллур",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ta",
+        "e",
+        "e",
+        "e",
+        "f",
+        "f",
+        "et",
+        "et",
+        "No",
+        "sa",
+        "La",
+        "m",
+        "m",
+        "m",
+        "ei",
+        "ei",
+        "la",
+        "Si",
+        "d",
+        "d",
+        "da",
+        "me",
+        "b",
+        "b",
+        "r",
+        "r",
+        "te",
+        "ma",
+        "ju",
+        "me",
+        "r"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "te",
+      "translations": [
+        "(= you all) y'all (kõik)",
+        "ye (van. objektikääne)",
+        "you"
+      ]
+    }
+  ]
+}

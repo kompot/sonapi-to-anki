@@ -1,0 +1,351 @@
+{
+  "requestedWord": "arvustus",
+  "estonianWord": "arvustus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "arvustus"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "arvustuse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "arvustust"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "arvustusse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "arvustusesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "arvustuses"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "arvustusest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "arvustusele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "arvustusel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "arvustuselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "arvustuseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "arvustuseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "arvustusena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "arvustuseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "arvustusega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "arvustused"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "arvustuste"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "arvustusi"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "arvustustesse,arvustusisse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "arvustustes,arvustusis"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "arvustustest,arvustusist"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "arvustustele,arvustusile"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "arvustustel,arvustusil"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "arvustustelt,arvustusilt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "arvustusteks,arvustusiks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "arvustusteni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "arvustustena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "arvustusteta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "arvustustega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "käsikirja, trükise, etenduse, filmi vm analüüs ja põhjendatud hinnang,kirjalik hinnang näiteks raamatu, kontserdi või näituse kohta",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kiitvaid arvustusi kogunud dokumentaalfilmi „Päkapikudisko” näidati kinos.",
+            "Kuidas sulle kogumiku kohta ilmunud arvustused on meeldinud?",
+            "Kontserdiarvustus.",
+            "Filmiarvustus.",
+            "Lehes ilmusid uute plaatide arvustused.",
+            "Kontserdi kohta ilmus mitu arvustust."
+          ],
+          "synonyms": [
+            "retsensioon",
+            "hinnang",
+            "arvamus,mõte",
+            "kriitika"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "critique",
+                "weight": 1
+              },
+              {
+                "words": "opinion,avis",
+                "weight": 0.9
+              },
+              {
+                "words": "critique",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "отзыв",
+                "weight": 1
+              },
+              {
+                "words": "рецензия",
+                "weight": 1
+              },
+              {
+                "words": "критический обзор",
+                "weight": 1
+              },
+              {
+                "words": "разбор",
+                "weight": 1
+              },
+              {
+                "words": "отзыв,оценка",
+                "weight": 0.9
+              },
+              {
+                "words": "воззрение,мнение,взгляд,суждение",
+                "weight": 0.9
+              },
+              {
+                "words": "критика",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "відгук",
+                "weight": 1
+              },
+              {
+                "words": "рецензія",
+                "weight": 1
+              },
+              {
+                "words": "оцінка,відгук",
+                "weight": 0.9
+              },
+              {
+                "words": "думка,погляд",
+                "weight": 0.9
+              },
+              {
+                "words": "критика",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "opinion",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellele või millelegi hinnangu andmine, kritiseerimine",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Jutlustasin ja laulsin liturgia, millele järgnes lõunalauas heatahtlik arvustus."
+          ],
+          "synonyms": [
+            "kriitika",
+            "arvustamine"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "критика",
+                "weight": 1
+              },
+              {
+                "words": "критика",
+                "weight": 0.9
+              },
+              {
+                "words": "рецензия,критика",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "критика",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "arvustamine",
+        "plaadiarvustus",
+        "teatriarvustus",
+        "kunstiarvustus",
+        "kirjandusarvustus",
+        "filmiarvustus",
+        "arvamus",
+        "kriitika",
+        "retsensioon",
+        "hinnang",
+        "kriitikatuli",
+        "kontserdiarvustus",
+        "muusikaarvustus",
+        "näitusearvustus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "arvustus",
+      "translations": [
+        "criticism",
+        "review"
+      ]
+    }
+  ]
+}

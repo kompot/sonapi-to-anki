@@ -1,0 +1,213 @@
+{
+  "requestedWord": "umbkaudu",
+  "estonianWord": "umbkaudu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "umbkaudu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mitte päris täpselt, enam-vähem, ligilähedaselt,mitte päris täpselt, ligikaudu, enam-vähem",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Paranemisperiood on umbkaudu kaks nädalat."
+          ],
+          "synonyms": [
+            "umbes",
+            "nii",
+            "ligikaudu",
+            "ligikaudselt",
+            "umbkaudselt",
+            "arvata",
+            "kusagil",
+            "u",
+            "kuskil",
+            "ringis",
+            "nõnda",
+            "kuski",
+            "üks",
+            "orienteerivalt,orienteeruvalt",
+            "enam-vähem"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "approximately",
+                "weight": 1
+              },
+              {
+                "words": "more or less",
+                "weight": 1
+              },
+              {
+                "words": "roughly",
+                "weight": 1
+              },
+              {
+                "words": "more or less",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "approximativement",
+                "weight": 1
+              },
+              {
+                "words": "environ",
+                "weight": 1
+              },
+              {
+                "words": "à peu près",
+                "weight": 1
+              },
+              {
+                "words": "à peu près,plus ou moins,presque",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "приблизительно",
+                "weight": 1
+              },
+              {
+                "words": "почти",
+                "weight": 1
+              },
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "порядка",
+                "weight": 1
+              },
+              {
+                "words": "почти что",
+                "weight": 1
+              },
+              {
+                "words": "на круг",
+                "weight": 1
+              },
+              {
+                "words": "приближённо",
+                "weight": 1
+              },
+              {
+                "words": "ориентировочно",
+                "weight": 1
+              },
+              {
+                "words": "грубо говоря",
+                "weight": 1
+              },
+              {
+                "words": "где-то",
+                "weight": 1
+              },
+              {
+                "words": "примерно",
+                "weight": 1
+              },
+              {
+                "words": "почти,приблизительно,примерно,с",
+                "weight": 0.9
+              },
+              {
+                "words": "ориентировочно,примерно,приблизительно",
+                "weight": 0.7
+              },
+              {
+                "words": "более или менее,почти",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "майже",
+                "weight": 1
+              },
+              {
+                "words": "приблизно",
+                "weight": 1
+              },
+              {
+                "words": "більш-менш,майже",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "nii",
+        "ligikaudu",
+        "umbes",
+        "umbes",
+        "nõnda",
+        "ümber",
+        "ligilähedalt",
+        "peaaegu",
+        "tuuris",
+        "tuuris",
+        "orienteerivalt",
+        "oma",
+        "oma",
+        "oma",
+        "mõni",
+        "umbkaudselt",
+        "na",
+        "ümmarguselt",
+        "ringis",
+        "üks",
+        "ligikaudselt",
+        "arvata",
+        "ligi",
+        "oletatavasti",
+        "ligemale",
+        "eeldatavasti",
+        "hinnanguliselt",
+        "vähemalt",
+        "keskeltläbi",
+        "umbkaudne",
+        "täpselt",
+        "kümmekond",
+        "ligilähedaselt",
+        "enam-vähem",
+        "umbestäpselt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "umbkaudu",
+      "translations": [
+        "approximately",
+        "ballpark",
+        "on the order of"
+      ]
+    }
+  ]
+}

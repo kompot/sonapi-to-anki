@@ -1,0 +1,165 @@
+{
+  "requestedWord": "mispärast",
+  "estonianWord": "mispärast",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "mispärast"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "küsiv-siduv sõna: mis põhjusel,mis põhjusel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mispärast ma peaksin seda tegema?",
+            "Tuju on hea, isegi ei tea, mispärast."
+          ],
+          "synonyms": [
+            "miks",
+            "milleks"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "why",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "pourquoi",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "почему",
+                "weight": 1
+              },
+              {
+                "words": "зачем",
+                "weight": 1
+              },
+              {
+                "words": "отчего",
+                "weight": 1
+              },
+              {
+                "words": "из-за чего",
+                "weight": 1
+              },
+              {
+                "words": "по какой причине",
+                "weight": 1
+              },
+              {
+                "words": "чего",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чому",
+                "weight": 1
+              },
+              {
+                "words": "чого",
+                "weight": 1
+              },
+              {
+                "words": "для чого",
+                "weight": 1
+              },
+              {
+                "words": "навіщо",
+                "weight": 1
+              },
+              {
+                "words": "нащо",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(lausetes, mis väljendavad eitavat hinnangut, kahetsust vms)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mispärast sa küll niimoodi pidid ütlema!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "почему",
+                "weight": 1
+              },
+              {
+                "words": "отчего",
+                "weight": 1
+              },
+              {
+                "words": "из-за чего",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mistarvis",
+        "misjaoks",
+        "miks",
+        "miks",
+        "milleks",
+        "miseest",
+        "mistõttu",
+        "Jeesus",
+        "nõnda",
+        "millal",
+        "minupärast",
+        "minugipärast",
+        "seepärast",
+        "sellepärast",
+        "sest",
+        "kuna",
+        "kuna",
+        "see",
+        "siis",
+        "mingipärast",
+        "üldse",
+        "nõndasamuti",
+        "põhjus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "mispärast",
+      "translations": [
+        "forwhy",
+        "how is it that"
+      ]
+    }
+  ]
+}

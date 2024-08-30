@@ -1,0 +1,527 @@
+{
+  "requestedWord": "lõpmatu",
+  "estonianWord": "lõpmatu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "1",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "lõpmatu"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "lõpmatu"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "lõpmatut"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "lõpmatusse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "lõpmatus"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "lõpmatust"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "lõpmatule"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "lõpmatul"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "lõpmatult"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "lõpmatuks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "lõpmatuni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "lõpmatuna"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "lõpmatuta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "lõpmatuga"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "lõpmatud"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "lõpmatute"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "lõpmatuid"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "lõpmatutesse,lõpmatuisse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "lõpmatutes,lõpmatuis"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "lõpmatutest,lõpmatuist"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "lõpmatutele,lõpmatuile"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "lõpmatutel,lõpmatuil"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "lõpmatutelt,lõpmatuilt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "lõpmatuteks,lõpmatuiks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "lõpmatuteni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "lõpmatutena"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "lõpmatuteta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "lõpmatutega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ilma lõputa, selline, mille lõppu pole näha või mille piir ei ole saavutatav,väga rohkearvuline",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Maailmaruum on lõpmatu.",
+            "Oled seda öelnud lõpmatu hulk kordi."
+          ],
+          "synonyms": [
+            "lõputu",
+            "lõppematu",
+            "lõpmata",
+            "igavene",
+            "pidev",
+            "lakkamatu,raugematu,vaibumatu",
+            "järjekestev,järjepidev",
+            "kestev,püsiv",
+            "katkematu",
+            "alalõpmatu",
+            "järelejätmatu",
+            "piiramatu",
+            "ilmlõpmatu",
+            "ääretu",
+            "vahetpidamatu",
+            "ilmotsatu,ilmotsata,otsatu",
+            "piiritu",
+            "põhjatu",
+            "põhjatu",
+            "alatine,alaline"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "бесконечный",
+                "weight": 1
+              },
+              {
+                "words": "нескончаемый",
+                "weight": 1
+              },
+              {
+                "words": "беспредельный",
+                "weight": 1
+              },
+              {
+                "words": "бескрайний",
+                "weight": 1
+              },
+              {
+                "words": "неизмеримый",
+                "weight": 1
+              },
+              {
+                "words": "безбрежный",
+                "weight": 1
+              },
+              {
+                "words": "необозримый",
+                "weight": 1
+              },
+              {
+                "words": "необъятный",
+                "weight": 1
+              },
+              {
+                "words": "необозримый,неисчерпаемый,неиссякаемый,неистощимый,неисчислимый,необъятный,вечный,бескрайний,безбрежный,неизмеримый,бесконечный,беспредельный,нескончаемый",
+                "weight": 0.761
+              },
+              {
+                "words": "бесконечный,бескрайний",
+                "weight": 0.9
+              },
+              {
+                "words": "немеркнущий,неувядающий,неувядаемый,нескончаемый,неизменный,вечный,вековечный",
+                "weight": 0.8
+              },
+              {
+                "words": "постоянный",
+                "weight": 0.8
+              },
+              {
+                "words": "нестихающий,непрестанный,беспрестанный,безостановочный,непрерывный,бесконечный,беспрерывный,нескончаемый,неугасимый,неослабевающий,неустанный,неослабный,неугасаемый,неунимающийся",
+                "weight": 0.78
+              },
+              {
+                "words": "преемственный,не прекращающийся,непрестанный,последовательный,беспрерывный,беспрестанный,постоянный,непрерывный",
+                "weight": 0.7
+              },
+              {
+                "words": "затяжной,стойкий,непрерывный,беспрестанный,непрестанный,длительный,продолжительный",
+                "weight": 0.7
+              },
+              {
+                "words": "непрерывный,беспрерывный,непрестанный,беспрестанный,неотрывный,неразрывный,бесперебойный",
+                "weight": 0.6
+              },
+              {
+                "words": "постоянный,беспрестанный,бесконечный,беспрерывный,нескончаемый",
+                "weight": 0.55
+              },
+              {
+                "words": "непрекращающийся,непрестанный,беспрерывный,беспрестанный,постоянный,непрерывный",
+                "weight": 0.55
+              },
+              {
+                "words": "безграничный,неограниченный",
+                "weight": 0.489
+              },
+              {
+                "words": "нескончаемый,бесконечный",
+                "weight": 0.4
+              },
+              {
+                "words": "безоглядный,необозримый,бесконечный,бескрайний,беспредельный,необъятный,обширный,безбрежный,безграничный",
+                "weight": 0.9
+              },
+              {
+                "words": "беспрестанный,непрерывный,беспрерывный,постоянный,бессменный,непрестанный",
+                "weight": 0.9
+              },
+              {
+                "words": "бесконечный,беспредельный,бескрайний,непрерывный,беспрестанный,беспрерывный,нескончаемый,неисчерпаемый,необъятный,безграничный,безмерный,безбрежный,непрестанный",
+                "weight": 0.9
+              },
+              {
+                "words": "необъятный,неоглядный,безграничный,безбрежный,бескрайний,беспредельный",
+                "weight": 0.77
+              },
+              {
+                "words": "огромный,чрезмерный,беспредельный,бескрайний,неизмеримый,безмерный,непочатый,бездонный,неисчерпаемый,бесконечный,ненасытный,неиссякаемый,неистощимый,несметный,обширный,громадный,неимоверный",
+                "weight": 0.9
+              },
+              {
+                "words": "постоянный,неизменный,беспрестанный,бесконечный,непрерывный,всегдашний",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "continuel,incessant,constant,permanent",
+                "weight": 0.8
+              },
+              {
+                "words": "permanent",
+                "weight": 0.7
+              },
+              {
+                "words": "permanent",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "постійний",
+                "weight": 0.8
+              },
+              {
+                "words": "тривалий,постійний,безперервний",
+                "weight": 0.7
+              },
+              {
+                "words": "безперервний,незмінний,постійний",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "väga (suurel määral)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Lõpmatu palju võimalusi."
+          ],
+          "synonyms": [
+            "lõpmata",
+            "arutu,jumitult,ilmama,üüratult,röögatult,üüratu,tohutu,röögatu,päratu,määratu,meeletu,maru,maailmatuma,maailmatu,maailmama,maailma,koletu,jubetu,ilmatuma,ilmatu",
+            "maailm,murdu,tohutult",
+            "ilmotsata,päratult,põhjatult,põhjatu,otsatult,otsatu,määratult",
+            "otsatult",
+            "hiigla,hiiglama",
+            "hullult,hullumoodi,hullupööra",
+            "pööraselt",
+            "ei ole aru ega otsa,ei ole otsa ega äärt",
+            "väga",
+            "ääretult,ütlemata,arvamata,ääretu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "бесконечно",
+                "weight": 1
+              },
+              {
+                "words": "беспредельно",
+                "weight": 1
+              },
+              {
+                "words": "безмерно",
+                "weight": 1
+              },
+              {
+                "words": "безгранично",
+                "weight": 1
+              },
+              {
+                "words": "нескончаемо",
+                "weight": 1
+              },
+              {
+                "words": "несметно",
+                "weight": 1
+              },
+              {
+                "words": "неисчислимо",
+                "weight": 1
+              },
+              {
+                "words": "до чрезмерности,смертельно,умопомрачительно,баснословно,кошмарно,предельно,чрезмерно,чудовищно,необъятно,неизмеримо,бешено,до ужаса,страх как,ужас как,жутко,страшно,безумно,отчаянно,до невозможности,беспредельно,невообразимо,крайне,очень,дико,невероятно,чрезвычайно,зверски,необычайно,несметно,неимоверно,ужасно,изрядно,бесконечно",
+                "weight": 0.9
+              },
+              {
+                "words": "неохватно,крайне,чрезвычайно,неимоверно,уйма,неизмеримо,чудовищно,колоссально,ужасно,необычно,невероятно,очень,невообразимо,несказанно,навалом,в избытке,с избытком,хоть отбавляй,более чем достаточно,сильно,страсть сколько,куча,гора,битком,видимо-невидимо,непомерно,толпой,бездна,тьма",
+                "weight": 0.7507
+              },
+              {
+                "words": "до невозможности,на зависть,без меры,безмерно,нескончаемо,непомерно,чрезмерно,неизмеримо,безбожно,страшно,безумно,безгранично,беспредельно,крайне,очень,дико,чрезвычайно,необычайно,несметно,неимоверно,ужасно,бесконечно,исключительно",
+                "weight": 0.8
+              },
+              {
+                "words": "бесконечно",
+                "weight": 0.9
+              },
+              {
+                "words": "больно,неимоверно,невообразимо,ужасно,невероятно,до невероятности",
+                "weight": 0.9
+              },
+              {
+                "words": "безумно,дико,до смерти,ужасно,страшно,страх как,страсть как,до безумия,бешено,до потери сознания,до умопомрачения",
+                "weight": 0.9
+              },
+              {
+                "words": "ужасно,дико,безумно,страшно,страх как,страсть как,до ужаса,бешено,до безумия,до умопомрачения,сумасшедше",
+                "weight": 0.9
+              },
+              {
+                "words": "конца-края нет,конца-края не видно",
+                "weight": 0.5
+              },
+              {
+                "words": "весьма,очень",
+                "weight": 0.9
+              },
+              {
+                "words": "безмерно,предельно,неописуемо,неизъяснимо,смертельно,невыразимо,донельзя,до бесконечности,непередаваемо,бесконечно,чрезвычайно,крайне,очень,невообразимо,несказанно,беспредельно,безгранично,до крайности",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "très",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "дуже",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "very",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tohutu",
+        "tohutu",
+        "väga",
+        "sage",
+        "vahetpidamatu",
+        "kestev",
+        "lõputu",
+        "ilmlõpmatu",
+        "pidev",
+        "katkematu",
+        "alatine",
+        "ei ole otsa ega äärt",
+        "ääretu",
+        "lakkamatu",
+        "piiritu",
+        "järjepidev",
+        "igavene",
+        "lõppematu",
+        "põhjatu",
+        "põhjatu",
+        "mõõtmatu",
+        "järjekestev",
+        "määratu",
+        "määratu",
+        "määratu",
+        "alaline",
+        "krooniline",
+        "krooniline",
+        "alalõpmatu",
+        "järelejätmatu",
+        "otsatu",
+        "otsatu",
+        "lõpmatuseni",
+        "lõpmata",
+        "piiramatu",
+        "lõpmatult",
+        "määramatu",
+        "ilmlõpmata",
+        "lõpmatus",
+        "lugematu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lõpmatu",
+      "translations": [
+        "infinite"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "requestedWord": "kaugelt",
+  "estonianWord": "kaugelt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kaugelt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "pika vahemaa tagant,eemalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kiri tuli kaugelt Võrumaalt.",
+            "Kaugelt vaadates tundub, et ..",
+            "Külalisi tuli lähedalt ja kaugelt.",
+            "Külalised on tulnud kaugelt.",
+            "Merd oli juba kaugelt näha.",
+            "Kaugemalt kostis imelikke hääli."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "from afar",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "de loin",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "издалека",
+                "weight": 1
+              },
+              {
+                "words": "издали",
+                "weight": 1
+              },
+              {
+                "words": "издалёка",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "здалека",
+                "weight": 1
+              },
+              {
+                "words": "здалеку",
+                "weight": 1
+              },
+              {
+                "words": "віддалік",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "pika ajavahemiku tagant",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Põhjusi tuleb otsida kaugelt minevikust."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(sugulus- vm suhete kohta:) vähem, nõrgemini seotud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta on mulle kaugelt sugulane.",
+            "Näiteid pole vaja kaugelt otsida."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "kõvasti, tublisti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kell oli kaugelt üle südaöö.",
+            "Teenis minust kaugelt rohkem."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "гораздо",
+                "weight": 1
+              },
+              {
+                "words": "значительно",
+                "weight": 1
+              },
+              {
+                "words": "намного",
+                "weight": 1
+              },
+              {
+                "words": "далеко",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(rõhutava sõnana:) hoopis, üldse, sugugi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Asjad ei ole kaugelt korras."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "hulga",
+        "hoopiski",
+        "silmapaistvalt",
+        "tublisti",
+        "tükkis",
+        "tükkis",
+        "hoopistükkis",
+        "märksa",
+        "oluliselt",
+        "hoopis",
+        "silmnähtavalt",
+        "palju",
+        "palju",
+        "tajutavalt",
+        "tuntavalt",
+        "märgatavalt",
+        "tükk maad",
+        "poole",
+        "poole",
+        "tunduvalt",
+        "taamalt",
+        "kaudselt",
+        "eemalt",
+        "kauge",
+        "kaugel",
+        "laugelt",
+        "kaugemale",
+        "selgesti",
+        "siitpoolt",
+        "kaugele",
+        "kaugeim",
+        "kusagilt",
+        "kargelt",
+        "sealtmaalt",
+        "selgelt",
+        "kaugemalt",
+        "ligidalt",
+        "isegi",
+        "võimatult",
+        "lähedalt",
+        "eredalt",
+        "sealtpoolt",
+        "jäledalt",
+        "kõrgelt",
+        "kirkalt",
+        "läägelt",
+        "raugelt",
+        "siitmailt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kaugelt",
+      "translations": [
+        "afar",
+        "by a long chalk",
+        "by a long shot",
+        "far and away",
+        "from range",
+        "remotely",
+        "vastly"
+      ]
+    }
+  ]
+}

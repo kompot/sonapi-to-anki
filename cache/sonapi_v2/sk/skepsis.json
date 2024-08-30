@@ -1,0 +1,297 @@
+{
+  "requestedWord": "skepsis",
+  "estonianWord": "skepsis",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "9",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "skepsis"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "skepsise"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "skepsist"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "skepsisesse"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "skepsises"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "skepsisest"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "skepsisele"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "skepsisel"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "skepsiselt"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "skepsiseks"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "skepsiseni"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "skepsisena"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "skepsiseta"
+        },
+        {
+          "inflectionType": "9",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "skepsisega"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "skepsised"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "skepsiste"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "skepsiseid"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "skepsistesse,skepsiseisse"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "skepsistes,skepsiseis"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "skepsistest,skepsiseist"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "skepsistele,skepsiseile"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "skepsistel,skepsiseil"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "skepsistelt,skepsiseilt"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "skepsisteks,skepsiseiks"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "skepsisteni"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "skepsistena"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "skepsisteta"
+        },
+        {
+          "inflectionType": "9",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "skepsistega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kalduvus kahelda või kahtlemine millegi võimalikkuses, selline hoiak millegi suhtes",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Väike skepsis on ikka hinges.",
+            "Kuluaarides on avaldatud kerget skepsist uue väljaande suhtes."
+          ],
+          "synonyms": [
+            "skeptitsism",
+            "kahtlus",
+            "kõhklus",
+            "ebakindlus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "скепсис",
+                "weight": 1
+              },
+              {
+                "words": "скептицизм",
+                "weight": 1
+              },
+              {
+                "words": "подозрение,опасение,колебание,сомнение",
+                "weight": 0.9
+              },
+              {
+                "words": "нерешимость,неуверенность,колебание,сомнение,нерешительность",
+                "weight": 0.9
+              },
+              {
+                "words": "непрочность,неустойчивость,неверность,неуверенность,ненадёжность,шаткость",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "doute",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "підозра,сумнів",
+                "weight": 0.9
+              },
+              {
+                "words": "непевність,невпевненість",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "uncertainty,insecurity",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kõhklus",
+        "kahtluseussike",
+        "kahklus",
+        "kahtluseseeme",
+        "otsustamatus",
+        "kahtlusevari",
+        "kahtlus",
+        "kahevahelolek",
+        "ebakindlus",
+        "ebalus",
+        "usk",
+        "kriitilisus",
+        "tõejärgsus",
+        "eksistentsialism",
+        "sektantlus",
+        "teadmishimu",
+        "ülevus",
+        "skeptik",
+        "vulgaarsus",
+        "diskurss",
+        "teaduslikkus",
+        "võhiklikkus",
+        "meelelaad",
+        "loomelaad",
+        "optimism",
+        "soovmõtlemine",
+        "ekslikkus",
+        "skeptiline",
+        "pedantsus",
+        "mõtteteadus",
+        "meelestatus",
+        "umbusk",
+        "skeptitsism"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "skepsis",
+      "translations": []
+    }
+  ]
+}

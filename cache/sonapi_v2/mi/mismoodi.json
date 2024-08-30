@@ -1,0 +1,125 @@
+{
+  "requestedWord": "mismoodi",
+  "estonianWord": "mismoodi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "mismoodi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(viisile, olukorrale vms osutavalt:) kuidas,kuidas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mismoodi me sugulased oleme?",
+            "Leena ei teadnud, mismoodi olla."
+          ],
+          "synonyms": [
+            "kuidasmoodi",
+            "mil moel",
+            "mil viisil",
+            "mispidi",
+            "mil kombel",
+            "mis moel",
+            "mis viisil",
+            "mis kombel",
+            "kuidamoodi",
+            "kuidaviisi",
+            "kuda,kuidas,kuis"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "как",
+                "weight": 1
+              },
+              {
+                "words": "каким образом",
+                "weight": 1
+              },
+              {
+                "words": "как именно",
+                "weight": 1
+              },
+              {
+                "words": "каким путём",
+                "weight": 1
+              },
+              {
+                "words": "как",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "як",
+                "weight": 1
+              },
+              {
+                "words": "яким чином",
+                "weight": 1
+              },
+              {
+                "words": "яким побитом",
+                "weight": 1
+              },
+              {
+                "words": "як",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "comment",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kuipalju",
+        "kuis",
+        "kuidas",
+        "kuidasmoodi",
+        "kas",
+        "niimoodi",
+        "miskitmoodi",
+        "missugune",
+        "täpselt",
+        "päriselt",
+        "sedapidi",
+        "üldse",
+        "miks",
+        "miks",
+        "nõndamoodi",
+        "aru",
+        "aru",
+        "kumbapidi",
+        "millal",
+        "mingitmoodi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "mismoodi",
+      "translations": []
+    }
+  ]
+}

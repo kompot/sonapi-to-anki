@@ -1,0 +1,74 @@
+{
+  "requestedWord": "teadaolevalt",
+  "estonianWord": "teadaolevalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "teadaolevalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nagu on teada, nagu on andmeid",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Õhtulehele teadaolevalt on laip leidmata.",
+            "Teadaolevalt eestlasi siin ei ela."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "общеизвестно",
+                "weight": 1
+              },
+              {
+                "words": "как известно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "teadagi",
+        "teadupärast",
+        "teadupoolest",
+        "teatavasti",
+        "seni",
+        "ilmselt",
+        "tõenäoliselt",
+        "arvatavalt",
+        "ainus",
+        "esmakordselt",
+        "arvatavasti",
+        "varaseim",
+        "siiani",
+        "teadaolev"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "teadaolevalt",
+      "translations": [
+        "confessedly",
+        "factually"
+      ]
+    }
+  ]
+}

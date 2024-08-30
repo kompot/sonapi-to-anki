@@ -1,0 +1,153 @@
+{
+  "requestedWord": "järelt",
+  "estonianWord": "järelt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "järelt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab isikule, pärast kelle tegevust midagi korrastatakse,osutab inimesele, kelle tegevuse pärast on vaja midagi korda teha",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Miks pean mina alati tema järelt koristama!",
+            "Ei jõua sa ahelsuitsetaja järelt ventileerida.",
+            "Voodilinu vahetatakse iga külalise järelt.",
+            "Mina sinu järelt küll koristama ei hakka."
+          ],
+          "synonyms": [
+            "tagant"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "derrière",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab isikule, kellelt tema teadmata midagi võetakse või omastatakse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Näppas isa järelt mõned sigaretid."
+          ],
+          "synonyms": [
+            "tagant"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "у",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi selja tagant või millegi tagantpoolt,(kellegi) tagant",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Lõin enda järelt ukse kinni.",
+            "Pane uks enda järelt kinni."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "derrière",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingi vahemaa või aja möödudes",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Iga kümne meetri järelt võeti pinnaseproove.",
+            "Seadeid ei pea iga video järelt muutma.",
+            "Kas teatud aja järelt peaks teisi rohtusid katsetama?"
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "tagant",
+        "korralt",
+        "järeltöö",
+        "tummalt",
+        "korrapealt",
+        "kurjalt",
+        "järelsugu",
+        "ära",
+        "ära",
+        "järel",
+        "järel"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "järelt",
+      "translations": []
+    }
+  ]
+}

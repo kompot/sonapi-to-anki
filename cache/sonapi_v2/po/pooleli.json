@@ -1,0 +1,102 @@
+{
+  "requestedWord": "pooleli",
+  "estonianWord": "pooleli",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "pooleli"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "alles poole peal,lõpetamata,näitab, et mingi tegevus või toiming pole lõpetatud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Pooleli olev kohtuasi.",
+            "Kõrgkool jäi tal tervise tõttu pooleli.",
+            "Ravi ei tohi pooleli jätta.",
+            "Mäng on pooleli.",
+            "Ma ei saa praegu rääkida, mul on üks teine kõne pooleli."
+          ],
+          "synonyms": [
+            "poolvalmis,poolik",
+            "poolik",
+            "poolik"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "inachevé",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "не закончен",
+                "weight": 1
+              },
+              {
+                "words": "не завершён",
+                "weight": 1
+              },
+              {
+                "words": "незаконченный,полуготовый,недостроенный,недоделанный,недоконченный,недоваренный",
+                "weight": 0.9
+              },
+              {
+                "words": "половинный,половинчатый",
+                "weight": 0.9
+              },
+              {
+                "words": "неполный,половинчатый",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "незакінчений",
+                "weight": 1
+              },
+              {
+                "words": "незавершений",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lõpetamata",
+        "pooles vinnas",
+        "poolik",
+        "sinnasamasse",
+        "katki",
+        "katki jätma",
+        "katkestama",
+        "käsil",
+        "unarusse",
+        "alles"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pooleli",
+      "translations": []
+    }
+  ]
+}

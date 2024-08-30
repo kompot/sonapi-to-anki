@@ -1,0 +1,122 @@
+{
+  "requestedWord": "ümberringi",
+  "estonianWord": "ümberringi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ümberringi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kõikjal lähemas või kaugemas ümbruses, igas suunas ümbritsemas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Elan nüüd kohas, kus on vaid mets ümberringi.",
+            "Kõikjal ümberringi lendas prahti ja kivipuru."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вокруг",
+                "weight": 1
+              },
+              {
+                "words": "кругом",
+                "weight": 1
+              },
+              {
+                "words": "в окрестности",
+                "weight": 1
+              },
+              {
+                "words": "в окружности",
+                "weight": 1
+              },
+              {
+                "words": "во все стороны",
+                "weight": 1
+              },
+              {
+                "words": "в округе",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mitmesse suunda, mitmele poole või kõikjale",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta vaatab segaduses ümberringi."
+          ],
+          "synonyms": [
+            "ringi",
+            "ümber"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "вокруг",
+                "weight": 1
+              },
+              {
+                "words": "кругом",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kõikjal",
+        "ringiratast",
+        "igal sammul",
+        "kõrvale",
+        "lähedale",
+        "ümber",
+        "lähedal",
+        "kõrval",
+        "kõrval",
+        "ringi",
+        "ümberkaudu",
+        "selgapidi",
+        "veelomp",
+        "pinevil",
+        "otsatult",
+        "sirakil",
+        "kottpime",
+        "nõndamoodi",
+        "mehemoodi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ümberringi",
+      "translations": [
+        "out there"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "requestedWord": "ühtmoodi",
+  "estonianWord": "ühtmoodi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ühtmoodi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ühesuguselt, ühel ja samal kombel",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Seadused kehtivad kõigile ühtmoodi."
+          ],
+          "synonyms": [
+            "ühte moodi",
+            "ühte viisi",
+            "ühtemoodi",
+            "ühteviisi",
+            "ühtviisi",
+            "ühesuguselt",
+            "ühte pidi,ühtpidi,ühtepidi,üht pidi",
+            "samamoodi,samaviisi,sama moodi",
+            "samasuguselt",
+            "sarnaselt",
+            "üheselt,üheti",
+            "ühevõrra",
+            "ühetasa",
+            "võrdselt",
+            "võrdväärselt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "одинаково",
+                "weight": 1
+              },
+              {
+                "words": "так же",
+                "weight": 1
+              },
+              {
+                "words": "сходно",
+                "weight": 1
+              },
+              {
+                "words": "похоже",
+                "weight": 1
+              },
+              {
+                "words": "в равной мере",
+                "weight": 1
+              },
+              {
+                "words": "в равной степени",
+                "weight": 1
+              },
+              {
+                "words": "равным образом",
+                "weight": 1
+              },
+              {
+                "words": "на равных правах",
+                "weight": 1
+              },
+              {
+                "words": "равно",
+                "weight": 1
+              },
+              {
+                "words": "таким образом,только так,одним способом,так,однозначно",
+                "weight": 0.9
+              },
+              {
+                "words": "так же,таким же образом",
+                "weight": 0.768
+              },
+              {
+                "words": "похоже",
+                "weight": 0.9
+              },
+              {
+                "words": "недвусмысленно,равным образом,одинаково,однозначно",
+                "weight": 0.9
+              },
+              {
+                "words": "поровну,равно,одинаково,в равной степени",
+                "weight": 0.9
+              },
+              {
+                "words": "одинаково,вровень,поровну",
+                "weight": 0.9
+              },
+              {
+                "words": "равно,поровну,ровно,в равной степени,наравне",
+                "weight": 0.7557
+              },
+              {
+                "words": "эквивалентно,равноценно",
+                "weight": 0.463
+              }
+            ],
+            "fra": [
+              {
+                "words": "de la même manière",
+                "weight": 0.768
+              }
+            ],
+            "ukr": [
+              {
+                "words": "так само,однаково",
+                "weight": 0.768
+              },
+              {
+                "words": "однаковою мірою,нарівно,рівно,порівно,порівну",
+                "weight": 0.7557
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ühesugune, samasugune",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Ühtmoodi mõtlemine."
+          ],
+          "synonyms": [
+            "ühtemoodi",
+            "niisamasugune,samataoline,samasugune,samane",
+            "ühesarnane,ühesugune",
+            "ühetaoline",
+            "ühelaadiline,ühelaadne",
+            "omalaadne,samalaadiline,samalaadne",
+            "analoogiline,analoogne",
+            "sarnane"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "одинаковый",
+                "weight": 1
+              },
+              {
+                "words": "сходный",
+                "weight": 1
+              },
+              {
+                "words": "похожий",
+                "weight": 1
+              },
+              {
+                "words": "такое же,такая же,такой же,одинаковый",
+                "weight": 0.7
+              },
+              {
+                "words": "одинаковый,однородный,тождественный,сходный,похожий,однообразный,такой же,подобный,единообразный",
+                "weight": 0.7
+              },
+              {
+                "words": "монотонный,однообразный,одинаковый,равный,единообразный,одноцветный,такое же,такая же,подобный,такой же,похожий,сходный,нудный",
+                "weight": 0.7
+              },
+              {
+                "words": "подобный,однотипный,одинаковый,однородный,сходный",
+                "weight": 0.7
+              },
+              {
+                "words": "такого же рода,того же рода,аналогичный,однородный,подобный,однотипный,такого рода",
+                "weight": 0.7
+              },
+              {
+                "words": "подобный,аналогический,аналогичный,сходный",
+                "weight": 0.7
+              },
+              {
+                "words": "похожий,подобный,сходный,схожий,аналогичный",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "semblable",
+                "weight": 0.7
+              },
+              {
+                "words": "pareil",
+                "weight": 0.7
+              },
+              {
+                "words": "semblable",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "однаковий,такий же,такий самий",
+                "weight": 0.7
+              },
+              {
+                "words": "такий самий,однаковий,такий же,подібний,схожий",
+                "weight": 0.7
+              },
+              {
+                "words": "подібний,схожий",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(erinevusele osutades:) ühel moel, ühel kombel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mõnele mõjub see rohi ühtmoodi, teisele teistmoodi.",
+            "Miks nad eile rääkisid ühtmoodi, aga täna söövad oma sõnu?"
+          ],
+          "synonyms": [
+            "ühteviisi",
+            "ühtemoodi",
+            "ühte moodi",
+            "ühtviisi",
+            "ühte viisi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "так",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "analoogne",
+        "analoogiline",
+        "samalaadiline",
+        "niimoodi",
+        "samalaadne",
+        "sarnane",
+        "ühetaoline",
+        "ühesugune",
+        "samasugune",
+        "ühtlaselt",
+        "üheti",
+        "võrdselt",
+        "ühte moodi",
+        "ühetasa",
+        "ühevõrra",
+        "samamoodi",
+        "ühtemoodi",
+        "adekvaatselt",
+        "ühtepidi",
+        "samasuguselt",
+        "ühteviisi",
+        "üheselt",
+        "ühte pidi",
+        "ühesuguselt",
+        "ühtviisi",
+        "pealetükkivalt",
+        "huvitavalt",
+        "toredalt",
+        "vahedalt",
+        "võrdväärselt",
+        "lihtviisiliselt",
+        "miskitmoodi",
+        "kenasti",
+        "naljakalt",
+        "kombes",
+        "lahedalt",
+        "hästi",
+        "uutmoodi",
+        "teistmoodi",
+        "naamoodi",
+        "kõik",
+        "mingitmoodi",
+        "mehemoodi",
+        "arusaadavalt",
+        "nõndamoodi",
+        "alati",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ühtmoodi",
+      "translations": [
+        "even-handedly",
+        "identically"
+      ]
+    }
+  ]
+}

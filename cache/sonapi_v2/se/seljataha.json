@@ -1,0 +1,110 @@
+{
+  "requestedWord": "seljataha",
+  "estonianWord": "seljataha",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "seljataha"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ajaliselt või ruumiliselt mööda, läbituks,tahapoole",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Vanad võlad peavad jääma seljataha."
+          ],
+          "synonyms": [
+            "selja taha"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "позади",
+                "weight": 1
+              },
+              {
+                "words": "за плечами",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kellegi edestamise või ületamise kohta)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Suusataja jättis seljataha kõik mehed, keda hooaja alguses kiideti."
+          ],
+          "synonyms": [
+            "selja taha"
+          ],
+          "translations": {}
+        },
+        {
+          "definition": "(kellegi, millegi) toeks, toetajaks",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Loodame oma seljataha saada suuremad pangad."
+          ],
+          "synonyms": [
+            "selja taha"
+          ],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "möödas",
+        "taha",
+        "tahapoole",
+        "tagapool",
+        "taga",
+        "seljataga",
+        "järel",
+        "järel",
+        "seljatagune",
+        "kõrvale",
+        "seljati",
+        "seljatükk",
+        "tagaplaanile",
+        "ette-taha",
+        "seljatama",
+        "seljatagant"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "seljataha",
+      "translations": []
+    }
+  ]
+}

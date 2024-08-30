@@ -1,0 +1,881 @@
+{
+  "requestedWord": "vahetus",
+  "estonianWord": "vahetus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "vahetus"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "vahetuse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "vahetust"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "vahetusse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "vahetusesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "vahetuses"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "vahetusest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "vahetusele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "vahetusel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "vahetuselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "vahetuseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "vahetuseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "vahetusena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "vahetuseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "vahetusega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "vahetused"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "vahetuste"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "vahetusi"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "vahetustesse,vahetusisse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "vahetustes,vahetusis"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "vahetustest,vahetusist"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "vahetustele,vahetusile"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "vahetustel,vahetusil"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "vahetustelt,vahetusilt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "vahetusteks,vahetusiks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "vahetusteni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "vahetustena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "vahetusteta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "vahetustega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingi asja asendamine teisega, nt teisele andes ja midagi vastu saades,tegevus, kus sa vahetad mingi asja teise vastu",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Korterite vahetusest ei tulnud midagi välja.",
+            "Kostüümivahetus."
+          ],
+          "synonyms": [
+            "vahetamine",
+            "vahetus",
+            "asendamine",
+            "asendus,substitutsioon",
+            "väljavahetamine",
+            "ümbervahetamine",
+            "konversioon",
+            "äravahetamine"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "changement",
+                "weight": 1
+              },
+              {
+                "words": "échange",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "обмен",
+                "weight": 1
+              },
+              {
+                "words": "замена",
+                "weight": 1
+              },
+              {
+                "words": "мена",
+                "weight": 1
+              },
+              {
+                "words": "смена",
+                "weight": 1
+              },
+              {
+                "words": "перемена",
+                "weight": 1
+              },
+              {
+                "words": "обмен",
+                "weight": 0.662
+              },
+              {
+                "words": "замена",
+                "weight": 0.9
+              },
+              {
+                "words": "подстановка,замещение,субституция,замена",
+                "weight": 0.9
+              },
+              {
+                "words": "замена",
+                "weight": 0.7
+              },
+              {
+                "words": "обмен",
+                "weight": 0.7
+              },
+              {
+                "words": "конверсия",
+                "weight": 0.7
+              },
+              {
+                "words": "подмена,подмен",
+                "weight": 0.759
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зміна",
+                "weight": 1
+              },
+              {
+                "words": "заміна",
+                "weight": 1
+              },
+              {
+                "words": "обмін",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(suhtluse kohta)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "See oli tüli, mitte niisama arvamuste vahetus."
+          ],
+          "synonyms": [
+            "vahetus,vahetamine"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "обмен",
+                "weight": 1
+              },
+              {
+                "words": "смена,перемена,обмен,мена,замена",
+                "weight": 0.662
+              }
+            ],
+            "fra": [
+              {
+                "words": "changement,échange",
+                "weight": 0.662
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зміна,заміна,обмін",
+                "weight": 0.662
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ajavahemik, mille möödumisel üks inimeste rühm (nt töölised, õpilased, puhkajad) vahetub teise samasuguse rühmaga",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Töö oli korraldatud kolmes vahetuses."
+          ],
+          "synonyms": [
+            "vahetumine"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "смена",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "inimeste rühm (või inimene), kes vahetub teise samasuguse rühmaga (või üksikinimesega),rühm inimesi, kes alustavad oma tööpäeva siis, kui teised lõpetavad,ajavahemik, mille jooksul need inimesed tööl on",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Öine vahetus lõpetas töö tund aega tagasi.",
+            "Uus vahetus alustab tööd kahe tunni pärast.",
+            "Minu vahetus kestab 12 tundi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "équipe",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "смена",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зміна",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "asendumine teisega, vahetumine,aeg või olukord, kus vana vahetub uuega",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Oodata on valitsuse vahetust.",
+            "See hoone on ehitatud 15. ja 16. sajandi vahetusel."
+          ],
+          "synonyms": [
+            "vahetumine",
+            "vaheldumine",
+            "vaheldus",
+            "muutus,muut"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "смена",
+                "weight": 1
+              },
+              {
+                "words": "обмен",
+                "weight": 1
+              },
+              {
+                "words": "чередование,смена",
+                "weight": 0.9
+              },
+              {
+                "words": "смена,оборот,чередование",
+                "weight": 0.9
+              },
+              {
+                "words": "преобразование,перемена,изменение,превращение",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зміна",
+                "weight": 1
+              },
+              {
+                "words": "зміна",
+                "weight": 0.9
+              },
+              {
+                "words": "зміна,переміна",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "changement",
+                "weight": 0.9
+              },
+              {
+                "words": "changement",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "change",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "üheks vahetamiseks vajalike (riietus)esemete kogus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Kummalgi reisimehel oli kaasas kaks vahetust pesu."
+          ],
+          "synonyms": [
+            "varukomplekt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "смена",
+                "weight": 1
+              },
+              {
+                "words": "комплект",
+                "weight": 1
+              },
+              {
+                "words": "перемена",
+                "weight": 1
+              },
+              {
+                "words": "запасной комплект,резервный комплект",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "varukomplekt",
+        "õhuvahetus",
+        "üliõpilasvahetus",
+        "võimuvahetus",
+        "villavahetus",
+        "verevahetus",
+        "vekslivahetus",
+        "veevahetus",
+        "valvevahetus",
+        "valuutavahetus",
+        "vahtkonnavahetus",
+        "usuvahetus",
+        "töökohavahetus",
+        "tulevahetus",
+        "teatevahetus",
+        "teadlasvahetus",
+        "teabevahetus",
+        "sõnavahetus",
+        "süstlavahetus",
+        "suusavahetus",
+        "sulevahetus",
+        "soojusvahetus",
+        "sarvevahetus",
+        "sajandivahetus",
+        "rohevahetus",
+        "rajavahetus",
+        "rahavahetus",
+        "põlvkonnavahetus",
+        "pesuvahetus",
+        "pallivahetus",
+        "nädalavahetus",
+        "nimevahetus",
+        "mõttevahetus",
+        "millenniumivahetus",
+        "kultuurivahetus",
+        "korterivahetus",
+        "koodivahetus",
+        "kliimavahetus",
+        "kirjavahetus",
+        "kestavahetus",
+        "keelevahetus",
+        "kaubavahetus",
+        "karvavahetus",
+        "kabinetivahetus",
+        "infovahetus",
+        "hambavahetus",
+        "gaasivahetus",
+        "energiavahetus",
+        "avavahetus",
+        "andmevahetus",
+        "ainevahetus",
+        "aastavahetus",
+        "muutus",
+        "äravahetamine",
+        "ümbervahetamine",
+        "väljavahetamine",
+        "konversioon",
+        "komplekt",
+        "vahetumine",
+        "vahetamine",
+        "asendamine",
+        "asendus",
+        "muutmine",
+        "vaheldus",
+        "vaheldumine",
+        "käiguvahetus",
+        "meilivahetus",
+        "vahetusala",
+        "vahetusreaktsioon",
+        "töövahetus",
+        "kohavahetus",
+        "õpilasvahetus",
+        "soovahetus",
+        "vahetustehing",
+        "öövahetus",
+        "siirus",
+        "loomulikkus",
+        "ehtsus",
+        "otsekohesus"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "vahetus"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "vahetuse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "vahetust"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "vahetusse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "vahetusesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "vahetuses"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "vahetusest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "vahetusele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "vahetusel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "vahetuselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "vahetuseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "vahetuseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "vahetusena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "vahetuseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "vahetusega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "vahetused"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "vahetuste"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "vahetusi"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "vahetustesse,vahetusisse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "vahetustes,vahetusis"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "vahetustest,vahetusist"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "vahetustele,vahetusile"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "vahetustel,vahetusil"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "vahetustelt,vahetusilt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "vahetusteks,vahetusiks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "vahetusteni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "vahetustena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "vahetusteta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "vahetustega"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "siirus"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "siirus, loomulikkus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tunnete vahetus."
+          ],
+          "synonyms": [
+            "siirus",
+            "loomulikkus",
+            "ehtsus",
+            "otsekohesus",
+            "südamlikkus",
+            "rikkumatus",
+            "puhtus"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "непосредственность",
+                "weight": 1
+              },
+              {
+                "words": "откровенность",
+                "weight": 1
+              },
+              {
+                "words": "прямодушие",
+                "weight": 1
+              },
+              {
+                "words": "непринуждённость",
+                "weight": 1
+              },
+              {
+                "words": "чистосердечие,прямодушие,откровенность,искренность,непосредственность,душевность,проникновенность",
+                "weight": 0.85
+              },
+              {
+                "words": "непосредственность,врождённость,искренность,непринуждённость,естественность,натуральность,безыскусственность,неприкрашенность",
+                "weight": 0.85
+              },
+              {
+                "words": "неподдельность,подлинность,истинность,искренность,непритворность",
+                "weight": 0.9
+              },
+              {
+                "words": "открытость,прямодушие,откровенность,прямолинейность,прямота",
+                "weight": 0.75
+              },
+              {
+                "words": "доброта,отзывчивость,радушие,сердечность,задушевность",
+                "weight": 0.7
+              },
+              {
+                "words": "невинность,непорочность,незапятнанность,неиспорченность,нетронутость",
+                "weight": 0.7
+              },
+              {
+                "words": "непорочность,целомудрие,незапятнанность",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "rikkumatus",
+        "südamlikkus",
+        "puhtus",
+        "siirus",
+        "loomulikkus",
+        "ehtsus",
+        "otsekohesus",
+        "vahetamine",
+        "asendamine",
+        "asendus",
+        "muutmine",
+        "vaheldus",
+        "vaheldumine",
+        "käiguvahetus",
+        "meilivahetus",
+        "vahetusala",
+        "vahetusreaktsioon",
+        "töövahetus",
+        "kohavahetus",
+        "õpilasvahetus",
+        "soovahetus",
+        "vahetustehing",
+        "öövahetus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vahetus",
+      "translations": [
+        "celerity (kiire ajaline järgnevus)",
+        "change",
+        "commerce",
+        "conversion",
+        "exchange",
+        "give-and-take",
+        "immediacy",
+        "interchange",
+        "(teatejooksu) leg",
+        "relay",
+        "shift",
+        "(mängija) substitution",
+        "swap",
+        "swop"
+      ]
+    }
+  ]
+}

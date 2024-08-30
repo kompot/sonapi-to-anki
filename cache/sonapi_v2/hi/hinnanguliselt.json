@@ -1,0 +1,67 @@
+{
+  "requestedWord": "hinnanguliselt",
+  "estonianWord": "hinnanguliselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "hinnanguliselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "hinnangu kohaselt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Projekti maksumus on hinnanguliselt 100 miljonit eurot.",
+            "Hinnanguliselt jõuab igal aastal Läänemerre kuni 2200 tonni ravimijääke."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "оценочно",
+                "weight": 1
+              },
+              {
+                "words": "по оценке",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ligi",
+        "ligikaudu",
+        "umbes",
+        "umbes",
+        "keskmiselt",
+        "praegu",
+        "hinnanguline"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "hinnanguliselt",
+      "translations": [
+        "appreciably",
+        "estimably"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "requestedWord": "tagasi",
+  "estonianWord": "tagasi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tagasi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "seljataha, tagumise külje või otsa suunas,liikumise vastassuunas,selja taha jäävas suunas,vastupidises suunas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ei pääse kõrvale ega tagasi, vaid ainult edasi.",
+            "Kella tuleb tagasi keerata.",
+            "Kirves põrkas pakult tagasi.",
+            "Mees vaatas üle õla tagasi.",
+            "Astusin ühe sammu tagasi.",
+            "Ostsin pileti Tallinnast Tartusse ja tagasi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "en arrière",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "назад",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "назад",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ära, minema, eemale",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Abipaluja saadeti ukselt tagasi."
+          ],
+          "synonyms": [
+            "minema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "уходить,уйти,уезжать,уехать,убегать,убежать",
+                "weight": 0.75
+              }
+            ],
+            "ukr": [
+              {
+                "words": "іти,піти,їхати,поїхати,тікати,утікати,утекти,бігти,побігти",
+                "weight": 0.75
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kahekorra, maha",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Käänasin varrukasuud tagasi."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "viitab kellegi või millegi naasmisele lähtekohta, endisesse olukorda, senisele positsioonile,endise omaniku kätte,uuesti endisesse olukorda või endises olukorras",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Olen nüüd kodus tagasi.",
+            "Tõbi on tagasi tulnud.",
+            "Anna mu pliiats tagasi!",
+            "Pean pangale laenu tagasi maksma.",
+            "Kui reis jääb ära, saate raha tagasi.",
+            "Olen nüüd tööl tagasi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "назад",
+                "weight": 1
+              },
+              {
+                "words": "обратно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "назад",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(reaktsioonina, vastusena mingile tegevusele:) vastu,vastusena kellegi tegevusele",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Poiss äigas lööjale tagasi.",
+            "Ma helistan sulle homme tagasi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в ответ",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "у відповідь",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ajas kaugemal(e) mineviku suunas, möödunud aega või ajal,teatud ajavahemiku võrra mineviku suunas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Heidame nüüd pilgu tagasi.",
+            "Eilsele tagasi mõeldes.",
+            "See lugu läheb tagasi ülemöödunud sajandisse.",
+            "Nägin teda paar nädalat tagasi.",
+            "Tema abikaasa suri viis aastat tagasi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "il y a",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "назад",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тому",
+                "weight": 1
+              },
+              {
+                "words": "назад",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teatud ajavahemik mineviku suunas",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Abiellusime aasta tagasi.",
+            "Kaua aega tagasi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "назад",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "möödanik",
+        "eemale",
+        "eilne",
+        "minevik",
+        "taamale",
+        "kaugemale",
+        "tahapoole",
+        "eilne päev olema",
+        "endisaeg",
+        "ära andma",
+        "viivitama",
+        "paiskuma",
+        "koolutama",
+        "lahti paiskuma",
+        "kõrvale tõrjuma",
+        "libisema",
+        "sõitma",
+        "kõrvale viskama",
+        "venitama",
+        "kiskuma",
+        "ära viskama",
+        "üles",
+        "suruma",
+        "minema",
+        "minema",
+        "murdma",
+        "paiskama",
+        "kõrvale lükkama",
+        "keerama",
+        "tagastama",
+        "heitma",
+        "poolteist",
+        "hiljem",
+        "uuesti",
+        "koju",
+        "aasta-paar",
+        "korda"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tagasi",
+      "translations": [
+        "ago",
+        "astern",
+        "back",
+        "backward",
+        "backwards",
+        "fro (ainult: to and fro)",
+        "in return",
+        "rearward",
+        "rearwards"
+      ]
+    }
+  ]
+}

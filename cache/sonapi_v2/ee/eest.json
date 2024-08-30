@@ -1,0 +1,378 @@
+{
+  "requestedWord": "eest",
+  "estonianWord": "eest",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eest"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "liikumise või esikülje suunast (teatud kauguselt), eestpoolt küljest,eesmisest otsast, esiküljelt,sellelt poolt, kuhu sa liigud või vaatad,hoone suhtes: sellelt poolt, kus on peamine sissepääs,ees oleva külje poolt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Kusagilt eest kostab nuttu.",
+            "Murdunud puu pani mul tee eest kinni.",
+            "Maja eest on lumi roogitud.",
+            "Pluus on eest märg.",
+            "Buss oli puupüsti täis, hädavaevu saime eest peale.",
+            "Kuskilt eest tõuseb suitsu.",
+            "Tule eest ära!",
+            "Koer läheb tooli eest ära.",
+            "Minu eest jooksis mööda üks suur koer."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "впереди",
+                "weight": 1
+              },
+              {
+                "words": "перед",
+                "weight": 1
+              },
+              {
+                "words": "передо",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "спереду",
+                "weight": 1
+              },
+              {
+                "words": "поперед",
+                "weight": 1
+              },
+              {
+                "words": "попереду",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "esiküljelt, esipoolelt ära (oma otstarvet täitmast),küljest ära",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Õde võttis prillid eest.",
+            "Nööp tuli eest ära.",
+            "Saadikud lükkasid kapuutsid näo eest."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(eestpoolt) takistamast, segamast ära",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mine eest!",
+            "Astuge eest ära!"
+          ],
+          "synonyms": [
+            "minema"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "спереди",
+                "weight": 1
+              },
+              {
+                "words": "уходить,уйти,уезжать,уехать,убегать,убежать",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "іти,піти,їхати,поїхати,тікати,утікати,утекти,бігти,побігти",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kättesaamist, tabamist vältida püüdes kellestki kõrvale või kaugemale,osutab sellele, kelle või mille suhtes midagi tehakse või miski toimub,osutab sellele, kelle või mille suhtes midagi tehakse või toimub",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Üks ajas taga, teised jooksid eest.",
+            "Ega töö jänes ole, et eest ära jookseb.",
+            "Ilmajaam hoiatas tugeva tuule eest.",
+            "Lõunasöögi eest pidi igaüks ise maksma.",
+            "Suur tänu abi eest!",
+            "Kassi eest hoolitseb laps.",
+            "Võitleb põlisrahvaste õiguste eest.",
+            "Kes vastutab projekti juhtimise eest?",
+            "Varas põgenes politsei eest.",
+            "Hea töö eest saab preemiat.",
+            "Suur aitäh abi eest!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "от",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "від",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "varemalt, enne endale, nii et keegi teine ilma jääb",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Varasemad tulijad napsasid paremad kohad eest ära.",
+            "Kes kiirem oli, kahmas ka teiste eest paremad palad endale."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "teatud aeg tagasi, teatud aeg varem,aja kohta: teatud aeg varem",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Õnnetus juhtus poole tunni eest.",
+            "Paari aasta eest polnud siin ühtki maja.",
+            "Pidin juba kuu aja eest kodus olema.",
+            "Õnnetus juhtus poole tunni eest."
+          ],
+          "synonyms": [
+            "eelt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "назад",
+                "weight": 1
+              },
+              {
+                "words": "тому назад",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тому",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kelleltki otsust saamast, kellelegi aru andmast, kellegi jutult vms",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Poissi veeti ühe komisjoni eest teise ette."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "asemel, samaväärse asendajana,kellegi asemel",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Kes selle töö sinu eest ära teeb?",
+            "Ema vastas lapse eest.",
+            "Riis on Jaapanis nii leiva kui kartuli eest.",
+            "Ema vastas lapse eest.",
+            "Maksa minu eest ka!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "pour",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "вместо",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "замість",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegagi või millegagi võrdselt",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Vägilane sõi kümne mehe eest.",
+            "Muidu vaikne poiss, aga tööd rabab mitme eest."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "vastu (andes või saades),väärtuses",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Sentide eest ei saa midagi.",
+            "Perenaine andis kutsikad ära sümboolse tasu eest.",
+            "Ega ma siis aitähi eest pool päeva tööd teinud.",
+            "Kaupa on siin praegu 500 euro eest."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "osutab põhjusele, mille pärast midagi toimub",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Pets läks pangaröövi eest vangi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ette",
+        "pärast",
+        "asemel",
+        "pähe",
+        "pähe",
+        "mööda minema",
+        "ees",
+        "minema",
+        "minema",
+        "ettepoole",
+        "kõrvale hiilima",
+        "eespool",
+        "põikama",
+        "eestpoolt",
+        "ära",
+        "ära",
+        "vaheltkasu",
+        "vastutasu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "eest",
+      "translations": [
+        "behalf",
+        "for",
+        "therefor"
+      ]
+    }
+  ]
+}

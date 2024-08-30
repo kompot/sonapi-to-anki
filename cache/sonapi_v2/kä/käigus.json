@@ -1,0 +1,98 @@
+{
+  "requestedWord": "käigus",
+  "estonianWord": "käigus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "käigus"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi toimumise ajal, millegi toimuvaga seoses",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Arutluse käigus selgus, et ..",
+            "Kustutustööde käigus leiti majast kaks surnukeha."
+          ],
+          "synonyms": [
+            "ajal"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "в ходе",
+                "weight": 1
+              },
+              {
+                "words": "во время",
+                "weight": 1
+              },
+              {
+                "words": "во время",
+                "weight": 0.605
+              }
+            ],
+            "fra": [
+              {
+                "words": "pendant",
+                "weight": 0.605
+              }
+            ],
+            "ukr": [
+              {
+                "words": "під час",
+                "weight": 0.605
+              }
+            ],
+            "eng": [
+              {
+                "words": "during",
+                "weight": 0.605
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "liikvel",
+        "tulemusel",
+        "tõttu",
+        "abil",
+        "alguses",
+        "tulemusena",
+        "ajal",
+        "tagajärjel",
+        "puhul",
+        "räigus",
+        "järel",
+        "järel"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "käigus",
+      "translations": [
+        "in the course of",
+        "in the process of",
+        "underway",
+        "walk over the course"
+      ]
+    }
+  ]
+}

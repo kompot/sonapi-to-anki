@@ -1,0 +1,130 @@
+{
+  "requestedWord": "hüvasti",
+  "estonianWord": "hüvasti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "hüvasti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "hüvastijätul, lahkumisel kasutatav sõna,sõna, mida sa ütled lahkudes, eriti siis, kui arvad, et ei näe teist inimest enam pikka aega",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "Hüvasti, armsad sõbrad!",
+            "Rännumehed tulid hüvasti ütlema.",
+            "Hüvasti, kohtume järgmisel suvel!"
+          ],
+          "synonyms": [
+            "jumalaga",
+            "prassai",
+            "nägemist,head aega,nägemiseni"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "adieu",
+                "weight": 1
+              },
+              {
+                "words": "au revoir",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "прощайте",
+                "weight": 1
+              },
+              {
+                "words": "прощай",
+                "weight": 1
+              },
+              {
+                "words": "с Богом",
+                "weight": 1
+              },
+              {
+                "words": "прощай",
+                "weight": 0.7
+              },
+              {
+                "words": "до свидания,до свиданья,всего доброго,пока",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "прощай",
+                "weight": 1
+              },
+              {
+                "words": "прощайте",
+                "weight": 1
+              },
+              {
+                "words": "прощавай",
+                "weight": 1
+              },
+              {
+                "words": "прощавайте",
+                "weight": 1
+              },
+              {
+                "words": "до побачення,щасливо,на все добре",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "goodbye,bye,see you,see you later",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "nägudeni",
+        "head aega",
+        "tšao",
+        "pakaa",
+        "adjöö",
+        "jumalaga",
+        "nägemiseni",
+        "aidaa",
+        "hüvastijätukiri",
+        "hüvastijätt",
+        "hüvastijätmine"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "hüvasti",
+      "translations": [
+        "adieu",
+        "adios",
+        "bye",
+        "bye-bye",
+        "farewell",
+        "vale"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "requestedWord": "sagedasti",
+  "estonianWord": "sagedasti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sagedasti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "väikeste vaheaegade järel, aina kordudes,paljudel juhtudel,väikeste vaheaegade järel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Orelikultuur on Eestis küllaltki kõrgel järjel ja kontserte toimub sagedasti.",
+            "Sagedasti ei oska isad-emad ning lastearstidki lapse kuulmisviga tähele panna."
+          ],
+          "synonyms": [
+            "sageli",
+            "tihti"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "souvent",
+                "weight": 1
+              },
+              {
+                "words": "fréquemment",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "часто",
+                "weight": 1
+              },
+              {
+                "words": "очень часто",
+                "weight": 1
+              },
+              {
+                "words": "нередко",
+                "weight": 1
+              },
+              {
+                "words": "частенько",
+                "weight": 1
+              },
+              {
+                "words": "зачастую",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "часто",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pidevalt",
+        "alailma",
+        "ala",
+        "ala",
+        "tihti",
+        "alatihti",
+        "ühtepuhku",
+        "tihtipeale",
+        "muudkui",
+        "söögi alla ja söögi peale",
+        "tihedalt",
+        "alatasa",
+        "ühtelugu",
+        "tihedasti",
+        "harutihti",
+        "ilmast ilma",
+        "pahatihti",
+        "tihtilugu",
+        "sagetihti",
+        "korduvalt",
+        "sageli",
+        "sagedam",
+        "enamasti",
+        "harva",
+        "sagedamini",
+        "ägedasti",
+        "libedasti",
+        "heledasti"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sagedasti",
+      "translations": [
+        "many a time"
+      ]
+    }
+  ]
+}

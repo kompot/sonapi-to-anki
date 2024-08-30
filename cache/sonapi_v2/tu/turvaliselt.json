@@ -1,0 +1,70 @@
+{
+  "requestedWord": "turvaliselt",
+  "estonianWord": "turvaliselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "turvaliselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ohtude eest kaitstuna, kindlalt, rahulikult",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Turvaliselt saab raha paigutada vaid legaalsesse ärisse."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "безопасно",
+                "weight": 1
+              },
+              {
+                "words": "надёжно",
+                "weight": 1
+              },
+              {
+                "words": "защищённо",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "nagu vanajumala selja taga",
+        "ohutult",
+        "turvalisem",
+        "turvalukk",
+        "turvaline",
+        "turvalisim",
+        "muretult",
+        "mugavalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "turvaliselt",
+      "translations": [
+        "securely"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1552 @@
+{
+  "requestedWord": "sööma",
+  "estonianWord": "sööma",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "38i",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "sööma"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "söömata"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "söömas"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "söömast"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "söömaks"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "söödama"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "süüa"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "süües"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "sööv"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "söödav"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "söönud"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "söönud"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "söödud"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "söödud"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "söön"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "sööd"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "sööb"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "sööme"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "sööte"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "söövad"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "söö"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "süüakse"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "sööda"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "sõin"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "sõid"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "sõi"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "sõime"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "sõite"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "sõid"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "söödi"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "sööksin"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "sööksid"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "sööks"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "sööksime"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "sööksite"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "sööksid"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "söödaks"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "söönuksin"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "söönuksid"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "söönuks"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "söönuksime"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "söönuksite"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "söönuksid"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "sööduks"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "söövat"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "söödavat"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "söönuvat"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "sööduvat"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "söö"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "söögem"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "sööge"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "söögu"
+        },
+        {
+          "inflectionType": "38i",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "söödagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "midagi toiduks tarvitades suhu panema, mäluma ja alla neelama, toitu manustama,toitu suhu panema ja alla neelama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Söö suu tühjaks!",
+            "Armastan seeni süüa.",
+            "Sa sööd kole palju.",
+            "Püüton on söömata olnud viis kuud.",
+            "Ta ei söö sibulat.",
+            "Kõht on tühi, tahaks süüa.",
+            "Söö kõht täis!",
+            "Sõime lõunat restoranis.",
+            "Sõin lõunasöögiks hamburgerit."
+          ],
+          "synonyms": [
+            "einestama,einetama,keha kinnitama,kõhtu kinnitama",
+            "hamba alla pistma",
+            "hea maitsta laskma",
+            "nahka panema,kinni keerama,kinni panema,kinni pistma,nahka pistma,pintslisse pistma",
+            "südant kinnitama",
+            "näost sisse ajama",
+            "nosima",
+            "näsima",
+            "alla kugistama",
+            "kugistama",
+            "hammustama,närima",
+            "pistma",
+            "toituma",
+            "mugistama,mugima",
+            "pugima",
+            "võtma",
+            "tarvitama",
+            "tankima",
+            "hävitama",
+            "neelama",
+            "haukama",
+            "pigistama",
+            "nämmima",
+            "näppima",
+            "parkima,puukima,vitsutama,vohmima,õgima,lohmima,vohmerdama",
+            "helpima",
+            "maitsema,maitsma,mekkima",
+            "lõrpima,lörpima,lürpima,lurpima",
+            "krõmpsutama",
+            "naksima,näkitsema,nakitsema,näksima,näkkima",
+            "näkitsema,näksima,naksima",
+            "larpima",
+            "nippima",
+            "lõmpsama",
+            "ludistama",
+            "mekutama",
+            "naksama",
+            "järama,jõrama",
+            "krõbistama",
+            "purema",
+            "ära sööma"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "eat",
+                "weight": 1
+              },
+              {
+                "words": "taste",
+                "weight": 0.6615
+              }
+            ],
+            "fra": [
+              {
+                "words": "manger",
+                "weight": 1
+              },
+              {
+                "words": "manger,se nourrir",
+                "weight": 0.8325
+              },
+              {
+                "words": "prendre",
+                "weight": 0.9
+              },
+              {
+                "words": "goûter",
+                "weight": 0.6615
+              }
+            ],
+            "rus": [
+              {
+                "words": "есть",
+                "weight": 1
+              },
+              {
+                "words": "поесть",
+                "weight": 1
+              },
+              {
+                "words": "кушать",
+                "weight": 1
+              },
+              {
+                "words": "съесть",
+                "weight": 1
+              },
+              {
+                "words": "съедать",
+                "weight": 1
+              },
+              {
+                "words": "питаться",
+                "weight": 1
+              },
+              {
+                "words": "заправиться,завтракать,позавтракать,закусывать,закусить,перекусывать,перекусить,подкрепляться,заправляться,заморить червячка,подкрепиться",
+                "weight": 0.9
+              },
+              {
+                "words": "перехватить,съесть",
+                "weight": 0.9
+              },
+              {
+                "words": "уписать,уплести,подчистить,прикончить,слопать",
+                "weight": 0.9
+              },
+              {
+                "words": "подкрепляться",
+                "weight": 0.9
+              },
+              {
+                "words": "уписывать за обе щеки,уплетать за обе щеки,есть за обе щеки",
+                "weight": 0.9
+              },
+              {
+                "words": "пожёвывать,жевать,грызть",
+                "weight": 0.7907
+              },
+              {
+                "words": "глодать,щипать,жевать",
+                "weight": 0.9
+              },
+              {
+                "words": "заглотить,глотать,проглатывать,проглотить,заглатывать",
+                "weight": 0.9
+              },
+              {
+                "words": "закусывать,закусить",
+                "weight": 0.9
+              },
+              {
+                "words": "хлестать,дуть,наворачивать,навернуть,слопать,лопать,уплести,уплетать,выхлестать,выдуть",
+                "weight": 0.9
+              },
+              {
+                "words": "питаться,кормиться",
+                "weight": 0.8325
+              },
+              {
+                "words": "съедать,кушать,жевать,грызть,пожёвывать",
+                "weight": 0.9
+              },
+              {
+                "words": "рубать,набивать живот,уписывать за обе щеки,уписывать,наворачивать,навернуть,слопать,уплести,уписать,лопать,уплетать,набить живот,уплетать за обе щеки",
+                "weight": 0.7963
+              },
+              {
+                "words": "принять,принимать",
+                "weight": 0.9
+              },
+              {
+                "words": "потреблять,употреблять,потребить,употребить",
+                "weight": 0.9
+              },
+              {
+                "words": "заправиться,заправляться",
+                "weight": 0.7
+              },
+              {
+                "words": "проглотить,поглощать,поглотить,глотать,проглатывать",
+                "weight": 0.9
+              },
+              {
+                "words": "откусить,кусать,куснуть,откусывать,закусывать,закусить",
+                "weight": 0.9
+              },
+              {
+                "words": "кушать,есть",
+                "weight": 0.9
+              },
+              {
+                "words": "покусывать,щипать",
+                "weight": 0.9
+              },
+              {
+                "words": "умять,уминать,навернуть,сожрать,рубать,наворачивать,обжираться,обожраться,жрать,набивать живот,пожирать,пожрать,уписывать,трескать,лопать,стрескать,уписать,уплетать,уплести,переесть,переедать,объесться,объедаться,набить живот,налопаться,нажраться,нажираться,сжирать,слопать",
+                "weight": 0.9
+              },
+              {
+                "words": "выхлебать,похлебать,похлёбывать,схлебать,схлёбывать,хлебать",
+                "weight": 0.9
+              },
+              {
+                "words": "откушать,вкусить,вкушать,отведать,отведывать,распробовать,пробовать,попробовать,испробовать",
+                "weight": 0.6615
+              },
+              {
+                "words": "выхлебать,хлебать",
+                "weight": 0.9
+              },
+              {
+                "words": "хрустеть,хрупать,хрумкать",
+                "weight": 0.9
+              },
+              {
+                "words": "отщипывать,общипывать,откусывать",
+                "weight": 0.9
+              },
+              {
+                "words": "покусывать,поклёвывать,пощипывать",
+                "weight": 0.9
+              },
+              {
+                "words": "выхлёбывать,выхлестать,выхлёстывать,хлестать,выхлебать,хлебать",
+                "weight": 0.9
+              },
+              {
+                "words": "хватить,цапать,хапать,хватать,цапнуть,хапнуть",
+                "weight": 0.9
+              },
+              {
+                "words": "обсасывать,сосать,посасывать,пососать,сусолить,обсосать,высасывать,высосать",
+                "weight": 0.9
+              },
+              {
+                "words": "смаковать,отведывать понемногу,отведать понемногу",
+                "weight": 0.9
+              },
+              {
+                "words": "щипать,схватывать зубами,хватать зубами,схватить зубами",
+                "weight": 0.9
+              },
+              {
+                "words": "глодать,грызть",
+                "weight": 0.9
+              },
+              {
+                "words": "хрустеть,грызть,хрупать,хрумкать,щёлкать",
+                "weight": 0.791
+              },
+              {
+                "words": "грызть",
+                "weight": 0.85
+              },
+              {
+                "words": "съедать,съесть",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "їсти",
+                "weight": 1
+              },
+              {
+                "words": "поїсти",
+                "weight": 1
+              },
+              {
+                "words": "зʼїдати",
+                "weight": 1
+              },
+              {
+                "words": "зʼїсти",
+                "weight": 1
+              },
+              {
+                "words": "харчуватися",
+                "weight": 1
+              },
+              {
+                "words": "харчуватися,їсти",
+                "weight": 0.8325
+              },
+              {
+                "words": "прийняти,приймати",
+                "weight": 0.9
+              },
+              {
+                "words": "скуштувати,покуштувати,куштувати",
+                "weight": 0.6615
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(väljendites:) millestki elatuma või ülalpeetav olema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Armuleiba süüa ei taha meist keegi.",
+            "Ainult noorem vendadest pole veel kroonuleiba söönud.",
+            "Lapsed sõid oma vanemad vaeseks."
+          ],
+          "synonyms": [
+            "maitsema,maitsma",
+            "tunda saama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "испробовать,испытать,испытывать,изведывать,изведать,отведывать,отведать,вкушать,вкусить",
+                "weight": 0.6615
+              },
+              {
+                "words": "прочувствовать,испытать",
+                "weight": 0.75
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(parasiitputukate kohta:) purema, hammustama, närima",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Võeh, lutikad söövad!",
+            "Sääsed söövad valusasti.",
+            "Koid sõid kampsunisse augud."
+          ],
+          "synonyms": [
+            "hammustama",
+            "pistma",
+            "närima",
+            "järama,jõrama",
+            "ära sööma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "есть",
+                "weight": 1
+              },
+              {
+                "words": "кусать",
+                "weight": 1
+              },
+              {
+                "words": "искусывать",
+                "weight": 1
+              },
+              {
+                "words": "искусать",
+                "weight": 1
+              },
+              {
+                "words": "кусаться",
+                "weight": 1
+              },
+              {
+                "words": "изъедать",
+                "weight": 1
+              },
+              {
+                "words": "изъесть",
+                "weight": 1
+              },
+              {
+                "words": "проедать",
+                "weight": 1
+              },
+              {
+                "words": "проесть",
+                "weight": 1
+              },
+              {
+                "words": "ужалить,кусать,куснуть,укусить,кусаться,жалить",
+                "weight": 0.9
+              },
+              {
+                "words": "кусать,кусаться,жалить,ужалить",
+                "weight": 0.9
+              },
+              {
+                "words": "сглодать,сжевать,прожевать,грызть,глодать,хрупать,жевать,обгрызать,обгрызть,обгладывать,обглодать,объедать,объесть,разгрызть,обкусывать,обкусать,разгрызать,сгладывать",
+                "weight": 0.85
+              },
+              {
+                "words": "грызть,глодать",
+                "weight": 0.9
+              },
+              {
+                "words": "съедать,съесть",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "mordre",
+                "weight": 0.9
+              },
+              {
+                "words": "ronger,mordre,mastiquer",
+                "weight": 0.85
+              }
+            ],
+            "ukr": [
+              {
+                "words": "кусати,вкусити,жалити,вжалити",
+                "weight": 0.9
+              },
+              {
+                "words": "жувати,прожувати,гризти,обгризати,обгризти",
+                "weight": 0.85
+              }
+            ],
+            "eng": [
+              {
+                "words": "chew",
+                "weight": 0.85
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ebameeldiva seisundi, nähtuse vms kohta:) kulutama, kahjustama, hävitama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Rooste sööb rauda.",
+            "Leek sööb halge.",
+            "Mind sööb mingi sisemine tõbi.",
+            "Inflatsioon on kõik säästud söönud."
+          ],
+          "synonyms": [
+            "kulutama",
+            "närima",
+            "neelama",
+            "neelama",
+            "ära hävitama,hävitama",
+            "järama",
+            "purema",
+            "ära sööma",
+            "põletama",
+            "põletama",
+            "põletama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "разъедать",
+                "weight": 1
+              },
+              {
+                "words": "разъесть",
+                "weight": 1
+              },
+              {
+                "words": "выедать",
+                "weight": 1
+              },
+              {
+                "words": "выесть",
+                "weight": 1
+              },
+              {
+                "words": "изъедать",
+                "weight": 1
+              },
+              {
+                "words": "изъесть",
+                "weight": 1
+              },
+              {
+                "words": "поедать",
+                "weight": 1
+              },
+              {
+                "words": "съедать",
+                "weight": 1
+              },
+              {
+                "words": "съесть",
+                "weight": 1
+              },
+              {
+                "words": "переедать",
+                "weight": 1
+              },
+              {
+                "words": "переесть",
+                "weight": 1
+              },
+              {
+                "words": "пожирать",
+                "weight": 1
+              },
+              {
+                "words": "продырявить,истирать,истереть,протирать,протереть,изнашивать,износить,обтрёпывать,обтрепать,продырявливать",
+                "weight": 0.9
+              },
+              {
+                "words": "слизывать,слизать,пожирать,пожрать",
+                "weight": 0.9
+              },
+              {
+                "words": "крушить,губить,погубить,уничтожать,уничтожить,истреблять,истребить,разрушать,разрушить,громить,разгромить,сокрушать,сокрушить",
+                "weight": 0.9
+              },
+              {
+                "words": "точить,источить,истачивать",
+                "weight": 0.85
+              },
+              {
+                "words": "жечь,сжечь,сжигать",
+                "weight": 0.9
+              },
+              {
+                "words": "выжигать,выжечь",
+                "weight": 0.9
+              },
+              {
+                "words": "сжигать,сжечь",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "détruire",
+                "weight": 0.9
+              },
+              {
+                "words": "brûler",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "руйнувати,зруйнувати,знищувати,знищити",
+                "weight": 0.9
+              },
+              {
+                "words": "палити,спалювати,спалити",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tunnete kohta:) piinama, vaevama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Mure sööb hinge seest.",
+            "Teda sööb armukadedus."
+          ],
+          "synonyms": [
+            "närima",
+            "purema",
+            "kripeldama",
+            "kribelema",
+            "pakitsema",
+            "piinama",
+            "ängistama",
+            "rõhuma,rusuma,muserdama",
+            "puurima",
+            "painama",
+            "masendama",
+            "vaevama",
+            "põletama",
+            "koormama",
+            "pitsitama",
+            "ahistama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "есть",
+                "weight": 1
+              },
+              {
+                "words": "съедать",
+                "weight": 1
+              },
+              {
+                "words": "съесть",
+                "weight": 1
+              },
+              {
+                "words": "разъедать",
+                "weight": 1
+              },
+              {
+                "words": "разъесть",
+                "weight": 1
+              },
+              {
+                "words": "загрызать",
+                "weight": 1
+              },
+              {
+                "words": "загрызть",
+                "weight": 1
+              },
+              {
+                "words": "грызть",
+                "weight": 1
+              },
+              {
+                "words": "пожирать",
+                "weight": 1
+              },
+              {
+                "words": "снедать",
+                "weight": 1
+              },
+              {
+                "words": "ломить,растерзать,терзать,глодать,грызть,ныть,разъедать",
+                "weight": 0.85
+              },
+              {
+                "words": "истачивать,источить,точить",
+                "weight": 0.85
+              },
+              {
+                "words": "встревожить,тревожить,беспокоить,обеспокоить,скрести,щемить",
+                "weight": 0.9
+              },
+              {
+                "words": "скрести",
+                "weight": 0.9
+              },
+              {
+                "words": "щемить",
+                "weight": 0.9
+              },
+              {
+                "words": "мучить,измучить,терзать,морить,замучить,истязать,умаять,издеваться",
+                "weight": 0.9
+              },
+              {
+                "words": "притеснять,притеснить,давить,подавлять,подавить,тяготеть,изводить,извести,мочалить,тяготить,угнетать,удручать,удручить,изламывать,изломать,измочаливать,измочалить,пришибить,гнести,вымотать,измотать,пришибать,изматывать,выматывать",
+                "weight": 0.9
+              },
+              {
+                "words": "грызть,сверлить,точить",
+                "weight": 0.9
+              },
+              {
+                "words": "угнетать,преследовать,мучить,удручать,тяготить,удручить",
+                "weight": 0.9
+              },
+              {
+                "words": "удручать,подавлять,подавить,сокрушать,сокрушить,угнетать,удручить",
+                "weight": 0.9
+              },
+              {
+                "words": "терзать,изводить,извести,морить,замучить,истязать,маять,томить,точить,мучить,измучить",
+                "weight": 0.9
+              },
+              {
+                "words": "жечь",
+                "weight": 0.9
+              },
+              {
+                "words": "тяготеть,утруждать,тяготить,отяготить,обременить,отягощать,обременять",
+                "weight": 0.9
+              },
+              {
+                "words": "теснить,стеснить,стеснять,сжимать,сжать,щемить",
+                "weight": 0.9
+              },
+              {
+                "words": "угнетать,гнести",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lürpima",
+        "krõmpsutama",
+        "pistma",
+        "kribelema",
+        "einetama",
+        "näkitsema",
+        "pakitsema",
+        "piinama",
+        "larpima",
+        "nippima",
+        "kripeldama",
+        "ängistama",
+        "vitsutama",
+        "perse panema",
+        "näppima",
+        "võtma",
+        "rusuma",
+        "lõmpsama",
+        "puurima",
+        "südant kinnitama",
+        "ludistama",
+        "hävitama",
+        "mekutama",
+        "mugima",
+        "haukama",
+        "painama",
+        "helpima",
+        "masendama",
+        "nämmutama",
+        "vaevama",
+        "naksama",
+        "nosima",
+        "hea maitsta laskma",
+        "järama",
+        "nämmima",
+        "krõbistama",
+        "tarvitama",
+        "hamba alla pistma",
+        "kinni pistma",
+        "vohmerdama",
+        "purema",
+        "põletama",
+        "näost sisse ajama",
+        "lurpima",
+        "näkkima",
+        "kugistama",
+        "pugima",
+        "nakitsema",
+        "näksama",
+        "näsima",
+        "koormama",
+        "pitsitama",
+        "lörpima",
+        "ahistama",
+        "ära sööma",
+        "närima",
+        "ära närima",
+        "tunda saama",
+        "maitsma",
+        "mäluma",
+        "maiustama",
+        "õiendama",
+        "kahe suupoolega",
+        "näksima",
+        "kraaksuma",
+        "kulutama",
+        "parkima",
+        "parkima",
+        "krompsutama",
+        "kõhtu kinnitama",
+        "neelama",
+        "jahvatama",
+        "kinni pigistama",
+        "saagima",
+        "urgitsema",
+        "mämmutama",
+        "uuristama",
+        "hurjutama",
+        "vohmima",
+        "krääksuma",
+        "kärisema",
+        "nüsima",
+        "muljuma",
+        "hammustama",
+        "kihva keerama",
+        "rõhuma",
+        "keha kinnitama",
+        "plärtsuma",
+        "kiskuma",
+        "kinni keerama",
+        "näpistama",
+        "pintslisse pistma",
+        "nahka pistma",
+        "kinni panema",
+        "pookima",
+        "pookima",
+        "einestama",
+        "toituma",
+        "kaagutama",
+        "kõpitsema",
+        "klähvima",
+        "köhima",
+        "puukima",
+        "nõudma",
+        "pitsitama",
+        "õgima",
+        "riidlema",
+        "lõmpsima",
+        "krõbisema",
+        "nääksuma",
+        "lahmima",
+        "haukuma",
+        "nahka panema",
+        "kibelema",
+        "alla kugistama",
+        "nina täis tõmbama",
+        "mekkima",
+        "jooma",
+        "jooma",
+        "keetma",
+        "vaaritama",
+        "sööm",
+        "pautima",
+        "sügama",
+        "seedima",
+        "söömaaeg",
+        "võõrutama",
+        "hautama",
+        "söömapidu",
+        "pirtsutama",
+        "nälgima",
+        "toitma",
+        "nuumama",
+        "näljutama"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "sööma"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "sööma"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "söömat"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "söömasse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "söömas"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "söömast"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "söömale"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "söömal"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "söömalt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "söömaks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "söömani"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "söömana"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "söömata"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "söömaga"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "söömad"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "söömade"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "söömasid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "söömadesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "söömades"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "söömadest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "söömadele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "söömadel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "söömadelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "söömadeks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "söömadeni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "söömadena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "söömadeta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "söömadega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "söömine,sööming",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Oli see vast kõva sööma.",
+            "Ühistel söömadel pursiti inglise keelt."
+          ],
+          "synonyms": [
+            "sööm",
+            "kehakinnitus",
+            "söömine",
+            "söök"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "праздник живота",
+                "weight": 1
+              },
+              {
+                "words": "пир",
+                "weight": 1
+              },
+              {
+                "words": "еда,приём пищи",
+                "weight": 0.8197
+              },
+              {
+                "words": "еда,приём пищи,трапеза",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "їда,приймання їжі",
+                "weight": 0.8197
+              },
+              {
+                "words": "їда,приймання їжі",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "eating",
+                "weight": 0.8197
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lürpima",
+        "krõmpsutama",
+        "õiendama",
+        "pistma",
+        "kahe suupoolega",
+        "kribelema",
+        "einetama",
+        "näkitsema",
+        "näksima",
+        "pakitsema",
+        "piinama",
+        "larpima",
+        "nippima",
+        "kripeldama",
+        "kraaksuma",
+        "ängistama",
+        "kulutama",
+        "vitsutama",
+        "perse panema",
+        "näppima",
+        "võtma",
+        "rusuma",
+        "parkima",
+        "parkima",
+        "krompsutama",
+        "kõhtu kinnitama",
+        "neelama",
+        "jahvatama",
+        "lõmpsama",
+        "puurima",
+        "kinni pigistama",
+        "südant kinnitama",
+        "saagima",
+        "ludistama",
+        "hävitama",
+        "mekutama",
+        "urgitsema",
+        "mämmutama",
+        "mugima",
+        "haukama",
+        "painama",
+        "uuristama",
+        "hurjutama",
+        "vohmima",
+        "helpima",
+        "krääksuma",
+        "kärisema",
+        "masendama",
+        "nämmutama",
+        "nüsima",
+        "muljuma",
+        "hammustama",
+        "vaevama",
+        "naksama",
+        "nosima",
+        "kihva keerama",
+        "hea maitsta laskma",
+        "järama",
+        "nämmima",
+        "krõbistama",
+        "tarvitama",
+        "rõhuma",
+        "keha kinnitama",
+        "hamba alla pistma",
+        "kinni pistma",
+        "plärtsuma",
+        "vohmerdama",
+        "kiskuma",
+        "kinni keerama",
+        "näpistama",
+        "purema",
+        "pintslisse pistma",
+        "põletama",
+        "näost sisse ajama",
+        "nahka pistma",
+        "kinni panema",
+        "lurpima",
+        "pookima",
+        "pookima",
+        "näkkima",
+        "kugistama",
+        "pugima",
+        "nakitsema",
+        "einestama",
+        "toituma",
+        "kaagutama",
+        "kõpitsema",
+        "klähvima",
+        "näksama",
+        "köhima",
+        "näsima",
+        "puukima",
+        "nõudma",
+        "koormama",
+        "pitsitama",
+        "pitsitama",
+        "õgima",
+        "riidlema",
+        "lörpima",
+        "lõmpsima",
+        "krõbisema",
+        "ahistama",
+        "nääksuma",
+        "lahmima",
+        "haukuma",
+        "ära sööma",
+        "närima",
+        "nahka panema",
+        "kibelema",
+        "alla kugistama",
+        "nina täis tõmbama",
+        "ära närima",
+        "tunda saama",
+        "maitsma",
+        "mekkima",
+        "mäluma",
+        "jooma",
+        "jooma",
+        "keetma",
+        "vaaritama",
+        "sööm",
+        "pautima",
+        "sügama",
+        "seedima",
+        "söömaaeg",
+        "võõrutama",
+        "hautama",
+        "söömapidu",
+        "pirtsutama",
+        "nälgima",
+        "toitma",
+        "nuumama",
+        "näljutama",
+        "maiustama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sööma",
+      "translations": [
+        "eat",
+        "(karjamaal) graze",
+        "victual"
+      ]
+    }
+  ]
+}

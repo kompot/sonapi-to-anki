@@ -1,0 +1,118 @@
+{
+  "requestedWord": "kallale",
+  "estonianWord": "kallale",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kallale"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "seisundisse, kus ollakse millegagi tegevuses,koos sõnaga <eki-foreign>asuma</eki-foreign>: osutab sellele, millega keegi tegelema hakkab",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Asume aga tööle kallale.",
+            "Asume asja kallale.",
+            "Asume nüüd töö kallale.",
+            "Õpilased asusid ülesannete kallale."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "к",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab (jõuga, sõnadega) ründamisele,osutab sellele, keda või mida rünnatakse,osutab vägivalla kasutamisele või kellelegi, keda rünnatakse",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Sõnavõtus tungiti meile kallale.",
+            "Väsimus tikub kallale.",
+            "Koer tormas ratturi kallale.",
+            "Koer tuli mulle tänaval kallale.",
+            "Ta läks vennale rusikatega kallale."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "peale",
+        "poole",
+        "poole",
+        "otsa",
+        "kallama",
+        "kallaletungija",
+        "najale",
+        "kallaletung",
+        "kallalt",
+        "kallal"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kallale",
+      "translations": []
+    }
+  ]
+}

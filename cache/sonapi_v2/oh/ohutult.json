@@ -1,0 +1,68 @@
+{
+  "requestedWord": "ohutult",
+  "estonianWord": "ohutult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ohutult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "безопасно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "julgelt",
+        "julge",
+        "ohutuli",
+        "ohutu",
+        "tõhusalt",
+        "ohutis",
+        "turvaliselt",
+        "muretult",
+        "ohutuim",
+        "tervislikult",
+        "kiiresti",
+        "kaalutult",
+        "otstarbekalt",
+        "ohutusvest",
+        "ohutum"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ohutult",
+      "translations": [
+        "harmlessly",
+        "safely"
+      ]
+    }
+  ]
+}

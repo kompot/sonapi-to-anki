@@ -1,0 +1,133 @@
+{
+  "requestedWord": "sedasorti",
+  "estonianWord": "sedasorti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sedasorti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selline, seesugune",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Ma püüan end alati sedasorti asjadest eemale hoida."
+          ],
+          "synonyms": [
+            "seda laadi",
+            "sedamoodi",
+            "sedalaadi",
+            "niisugune,taoline,säärane,säherdune,selline,seesugune,sarnane",
+            "seesugune,niisugune,niisuke,niisukene,nisuke,niuke,selline,seoke,säärane,nisukene,niukene,seokene",
+            "sellesarnane,selletaoline",
+            "sedavärki",
+            "naasugune",
+            "siukene,siuke,sihukene,sihuke,sihandne,sihandene,nihukene,nihuke"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "подобный",
+                "weight": 1
+              },
+              {
+                "words": "такой",
+                "weight": 1
+              },
+              {
+                "words": "таковой",
+                "weight": 1
+              },
+              {
+                "words": "такого рода",
+                "weight": 1
+              },
+              {
+                "words": "подобный,таков,эдакий,этакий,таковой,такой",
+                "weight": 0.9
+              },
+              {
+                "words": "таковой,такой,таковский,этакий,эдакий,таков",
+                "weight": 0.9
+              },
+              {
+                "words": "в этом роде,подобный этому,такой же как,такой,таковский,таков,таковой,подобный",
+                "weight": 0.9
+              },
+              {
+                "words": "таковой,такой,подобный",
+                "weight": 0.9
+              },
+              {
+                "words": "этакий,эдакий",
+                "weight": 0.9
+              },
+              {
+                "words": "такого рода,такой-сякой,таков,эдакий,этакий,таковский,такой,разэтакий",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "semblable,pareil,tel",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "таке,така,такий",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "nihuke",
+        "seesugune",
+        "sedalaadi",
+        "naasugune",
+        "sihuke",
+        "nihukene",
+        "sihukene",
+        "säherdune",
+        "nisuke",
+        "sellesarnane",
+        "niisugune",
+        "sarnane",
+        "selline",
+        "sedamoodi",
+        "selletaoline",
+        "sellane",
+        "sedavärki",
+        "isesorti",
+        "mingitmoodi",
+        "mingitpidi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sedasorti",
+      "translations": [
+        "of that ilk",
+        "of the sort"
+      ]
+    }
+  ]
+}

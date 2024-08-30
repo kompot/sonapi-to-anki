@@ -1,0 +1,671 @@
+{
+  "requestedWord": "võima",
+  "estonianWord": "võima",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "37",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "võin"
+        },
+        {
+          "inflectionType": "37",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "võid"
+        },
+        {
+          "inflectionType": "37",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "võib"
+        },
+        {
+          "inflectionType": "37",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "võime"
+        },
+        {
+          "inflectionType": "37",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "võite"
+        },
+        {
+          "inflectionType": "37",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "võivad"
+        },
+        {
+          "inflectionType": "37",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "või"
+        },
+        {
+          "inflectionType": "37",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "võidakse"
+        },
+        {
+          "inflectionType": "37",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "võida"
+        },
+        {
+          "inflectionType": "37",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "võisin"
+        },
+        {
+          "inflectionType": "37",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "võisid"
+        },
+        {
+          "inflectionType": "37",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "võis"
+        },
+        {
+          "inflectionType": "37",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "võisime"
+        },
+        {
+          "inflectionType": "37",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "võisite"
+        },
+        {
+          "inflectionType": "37",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "võisid"
+        },
+        {
+          "inflectionType": "37",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "võidi"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "võiksin"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "võiksid"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "võiks"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "võiksime"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "võiksite"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "võiksid"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "võidaks"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "võinuksin"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "võinuksid"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "võinuks"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "võinuksime"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "võinuksite"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "võinuksid"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "võiduks"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "võivat"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "võidavat"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "võinuvat"
+        },
+        {
+          "inflectionType": "37",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "võiduvat"
+        },
+        {
+          "inflectionType": "37",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "või"
+        },
+        {
+          "inflectionType": "37",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "võigem"
+        },
+        {
+          "inflectionType": "37",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "võige"
+        },
+        {
+          "inflectionType": "37",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "võigu"
+        },
+        {
+          "inflectionType": "37",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "võidagu"
+        },
+        {
+          "inflectionType": "37",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "võima"
+        },
+        {
+          "inflectionType": "37",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "võimata"
+        },
+        {
+          "inflectionType": "37",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "võimas"
+        },
+        {
+          "inflectionType": "37",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "võimast"
+        },
+        {
+          "inflectionType": "37",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "võimaks"
+        },
+        {
+          "inflectionType": "37",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "võidama"
+        },
+        {
+          "inflectionType": "37",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "võida"
+        },
+        {
+          "inflectionType": "37",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "võides"
+        },
+        {
+          "inflectionType": "37",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "võiv"
+        },
+        {
+          "inflectionType": "37",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "võidav"
+        },
+        {
+          "inflectionType": "37",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "võinud"
+        },
+        {
+          "inflectionType": "37",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "võinud"
+        },
+        {
+          "inflectionType": "37",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "võidud"
+        },
+        {
+          "inflectionType": "37",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "võidud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab millegi võimalikkusele, tõenäosusele,näitab, et miski on võimalik, tõenäoliselt juhtub või toimub",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ma kardan, et teised võivad mind ära kasutada.",
+            "Täna võib sadama hakata.",
+            "Küll tal võis häbi olla!",
+            "Haige võib varsti surra.",
+            "Piim võib soojas toas hapuks minna.",
+            "Homme võib tulla halb ilm."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "pouvoir",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "мочь",
+                "weight": 1
+              },
+              {
+                "words": "смочь",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "могти",
+                "weight": 1
+              },
+              {
+                "words": "змогти",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "näitab, et kellelgi on võimalik, et keegi saab midagi teha,näitab, et sul on võimalik midagi teha",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Mees ütles, et võib lastega koju jääda küll.",
+            "Ma võin sulle homme selle raamatu tuua."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "pouvoir",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "мочь",
+                "weight": 1
+              },
+              {
+                "words": "смочь",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "могти",
+                "weight": 1
+              },
+              {
+                "words": "змогти",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab tegevuse lubatusele, näitab, et miski on lubatud,lubatud olema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kas siit võib üle tee minna?",
+            "Võid helistada igal ajal.",
+            "Ta haigestus tuberkuloosi ja ei võinud enam koolis töötada.",
+            "Võite minna!",
+            "Kas ma võin sulle täna külla tulla?",
+            "Talle võib ka koju helistada."
+          ],
+          "synonyms": [
+            "tohtima",
+            "kannatama"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "pouvoir",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "можно",
+                "weight": 1
+              },
+              {
+                "words": "мочь",
+                "weight": 1
+              },
+              {
+                "words": "смочь",
+                "weight": 1
+              },
+              {
+                "words": "разрешаться",
+                "weight": 1
+              },
+              {
+                "words": "терпеть,потерпеть",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "можна",
+                "weight": 1
+              },
+              {
+                "words": "могти",
+                "weight": 1
+              },
+              {
+                "words": "змогти",
+                "weight": 1
+              },
+              {
+                "words": "дозволятися",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(sobivust, sündsust silmas pidades)",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ei tea, kas paljasääri võib aktusele minna?"
+          ],
+          "synonyms": [
+            "tohtima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "нельзя,не разрешается,не следовать,не годиться,негоже",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "falloir",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "не можна,не дозволяється,не слід,не годиться,не личить",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab kellegi suutlikkusele, võimelisusele midagi teha,oskama, millekski võimeline olema",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Ma võin jälle kõndida!",
+            "Surma vastu ei või keegi.",
+            "Võin selle ülesande viie minutiga lahendada."
+          ],
+          "synonyms": [
+            "suutma",
+            "jõudma"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "pouvoir",
+                "weight": 1
+              },
+              {
+                "words": "pouvoir",
+                "weight": 0.8038
+              }
+            ],
+            "rus": [
+              {
+                "words": "мочь",
+                "weight": 1
+              },
+              {
+                "words": "смочь",
+                "weight": 1
+              },
+              {
+                "words": "мочь,быть в силах,быть в состоянии,смочь,быть способным",
+                "weight": 0.8038
+              },
+              {
+                "words": "мочь,быть в силах,быть в состоянии,смочь,быть способным",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "могти",
+                "weight": 1
+              },
+              {
+                "words": "змогти",
+                "weight": 1
+              },
+              {
+                "words": "бути здатним,могти,змогти,бути в силі,бути спроможним",
+                "weight": 0.8038
+              },
+              {
+                "words": "могти,змогти,бути спроможним,бути здатним,бути в силі",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab, et miski on kõneleja arvates soovitatav, mõistlik vms,näitab, et miski oleks soovitatav või mõistlik",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Asja võiks kohtusse kaevata.",
+            "Võiksid ikka kooli ära lõpetada.",
+            "Külalised võiks juba kohale jõuda.",
+            "Võiksite homme oma töö ära saata."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "pouvoir",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "мочь",
+                "weight": 1
+              },
+              {
+                "words": "смочь",
+                "weight": 1
+              },
+              {
+                "words": "можно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "могти",
+                "weight": 1
+              },
+              {
+                "words": "змогти",
+                "weight": 1
+              },
+              {
+                "words": "можна",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "saama",
+        "jõudma",
+        "pidama",
+        "pidama",
+        "jaksama",
+        "suutma",
+        "tohtima",
+        "halbus",
+        "suutlik",
+        "võimata",
+        "võimatult",
+        "võimalikum",
+        "võimalik",
+        "kavatsema"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "võima",
+      "translations": [
+        "can",
+        "could",
+        "may"
+      ]
+    }
+  ]
+}

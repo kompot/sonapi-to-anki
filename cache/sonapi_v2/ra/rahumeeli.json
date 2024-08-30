@@ -1,0 +1,79 @@
+{
+  "requestedWord": "rahumeeli",
+  "estonianWord": "rahumeeli",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "rahumeeli"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "täies rahus, rahulikult, südamerahuga",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Täna magasin rahumeeli poole päevani."
+          ],
+          "synonyms": [
+            "segamatult,häirimatult"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "спокойно",
+                "weight": 1
+              },
+              {
+                "words": "мирно",
+                "weight": 1
+              },
+              {
+                "words": "невозмутимо",
+                "weight": 1
+              },
+              {
+                "words": "как ни в чём не бывало",
+                "weight": 1
+              },
+              {
+                "words": "спокойно,невозмутимо,безмятежно,бестревожно",
+                "weight": 0.89
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "häirimatult",
+        "segamatult",
+        "südamerahuga",
+        "rahulikult",
+        "rahumeelselt",
+        "rahulikumalt",
+        "jumalakeeli",
+        "rahumarss",
+        "rahumeelne"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "rahumeeli",
+      "translations": []
+    }
+  ]
+}

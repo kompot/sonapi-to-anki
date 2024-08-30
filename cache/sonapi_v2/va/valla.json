@@ -1,0 +1,79 @@
+{
+  "requestedWord": "valla",
+  "estonianWord": "valla",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "valla"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "avatud, lahti,sellisesse seisundisse",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mehe silmad olid pärani valla.",
+            "Türgile on Euroopa uksed lõpuks valla.",
+            "Kolmandal õhtul läksid Madise keelepaelad valla."
+          ],
+          "synonyms": [
+            "vallali",
+            "avatud",
+            "laiali,pärani,ristselili,ristseliti,selili,seliti"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "открыт,раскрыт,распахнут,настежь,нараспашку",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "відчинений,відкритий,розкритий,розчинений,навстіж",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "seliti",
+        "seliti",
+        "selili",
+        "praokil",
+        "vallali",
+        "avakil",
+        "lahti",
+        "poollahti",
+        "ristseliti",
+        "ammuli",
+        "ristselili",
+        "laiali",
+        "avali",
+        "pärani",
+        "vallavolikogu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "valla",
+      "translations": []
+    }
+  ]
+}

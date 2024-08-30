@@ -1,0 +1,182 @@
+{
+  "requestedWord": "esiteks",
+  "estonianWord": "esiteks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "esiteks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(asjaolude loetlemisel:) esimesena, kõige enne,esimese asjana, esmalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Esiteks, aega napib.",
+            "Esiteks on andmed poolteist aastat vanad.",
+            "Esiteks peab õpetaja olema tark, teiseks rahuliku iseloomuga.",
+            "Esiteks pane vesi keema, siis koori kartulid."
+          ],
+          "synonyms": [
+            "algatuseks"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "firstly",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "d'abord",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "во-первых",
+                "weight": 1
+              },
+              {
+                "words": "для начала",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "по-перше",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajalise järgnevusega seoses:) alguses, millestki ajaliselt varem",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Esiteks naersin poole häälega, aga siis hakkasin mõtlema."
+          ],
+          "synonyms": [
+            "algul,alul"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сперва",
+                "weight": 1
+              },
+              {
+                "words": "сначала",
+                "weight": 1
+              },
+              {
+                "words": "вначале",
+                "weight": 1
+              },
+              {
+                "words": "поначалу",
+                "weight": 1
+              },
+              {
+                "words": "прежде всего",
+                "weight": 1
+              },
+              {
+                "words": "вначале,сначала,в первое время,на первых порах,поначалу,в начале",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "d'abord,au début",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "спочатку,на початку,спершу",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "in the beginning",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "algatuseks",
+        "algul",
+        "esialgselt",
+        "esmalt",
+        "esimese hooga",
+        "esimesel hoobil",
+        "esimese jutiga",
+        "hakul",
+        "esmapilgul",
+        "alguses",
+        "algselt",
+        "esialgu",
+        "esiotsa",
+        "enne",
+        "enne",
+        "esiti",
+        "praegu",
+        "ennekõike",
+        "eelkõige",
+        "alguseks",
+        "kõigepealt",
+        "kolmandaks",
+        "niisiis",
+        "seetõttu",
+        "teiseks",
+        "aga",
+        "aga",
+        "muidugi",
+        "seepärast",
+        "just",
+        "nimelt",
+        "sellepärast",
+        "sest",
+        "kuigi",
+        "tõesti",
+        "see",
+        "seega",
+        "siis",
+        "üldse",
+        "asjaolu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "esiteks",
+      "translations": [
+        "firstly"
+      ]
+    }
+  ]
+}

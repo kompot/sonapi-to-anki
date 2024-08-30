@@ -1,0 +1,230 @@
+{
+  "requestedWord": "keskele",
+  "estonianWord": "keskele",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "keskele"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingi ala, koha keskkohta,mingi koha keskmisesse osasse",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Ujusime jõe keskele.",
+            "Laud on jagatud kaheks, keskele on pandud papitükk.",
+            "Laulja jäi seisma lava keskele.",
+            "Koer ronib ringi keskele."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "au milieu de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "на середину",
+                "weight": 1
+              },
+              {
+                "words": "посреди",
+                "weight": 1
+              },
+              {
+                "words": "посередине",
+                "weight": 1
+              },
+              {
+                "words": "посредине",
+                "weight": 1
+              },
+              {
+                "words": "в середине",
+                "weight": 1
+              },
+              {
+                "words": "в середину",
+                "weight": 1
+              },
+              {
+                "words": "в центр",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на середину",
+                "weight": 1
+              },
+              {
+                "words": "посередині",
+                "weight": 1
+              },
+              {
+                "words": "в середину",
+                "weight": 1
+              },
+              {
+                "words": "в центр",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellestki või millestki ümbritsetuks",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Näitleja tuli publiku keskele.",
+            "Sõja keskele sattunud lapsed."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "среди",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi hulka, kellegagi kokku, kellegi sekka,kellegi seltskonda, kellegi hulka",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Asus võõra rahva keskele elama.",
+            "Sõitsin pühadeks koju pere keskele.",
+            "Näitleja tuli etenduse lõpus publiku keskele."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "au milieu de",
+                "weight": 1
+              },
+              {
+                "words": "parmi",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "среди",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "серед",
+                "weight": 1
+              },
+              {
+                "words": "посеред",
+                "weight": 1
+              },
+              {
+                "words": "до",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajaliselt:) millegi keskpaika,mingi ajavahemiku keskmisesse osasse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Nõupidamine lükati edasi kuu keskele.",
+            "Konverents lükati edasi novembri keskele."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "au milieu de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "на середину",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на середину",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mesti",
+        "hulka",
+        "kilda",
+        "vahele",
+        "ühes",
+        "kaasa",
+        "kaasa",
+        "sekka",
+        "seltsi",
+        "sleppi",
+        "peale",
+        "keskel",
+        "äärde",
+        "keskelt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "keskele",
+      "translations": [
+        "amidship"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "requestedWord": "alates",
+  "estonianWord": "alates",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "alates"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(ajaliselt:) algusega mingist ajast, mingist kuupäevast peale,osutab, mis ajast mingi tegevus algab",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Hinnad kehtivad alates 1. oktoobrist 2016.",
+            "Olen puhkusel alates 1. juulist.",
+            "Kella ühest alates võib lõunale minna."
+          ],
+          "synonyms": [
+            "al"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "начиная с",
+                "weight": 1
+              },
+              {
+                "words": "от",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "починаючи з",
+                "weight": 1
+              },
+              {
+                "words": "з",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(suuruse, taseme vms kohta:) osutab kõige väiksemat numbrilist väärtust, millest millegi rakendumine, paikapidavus vms algab",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Suuremate tellimuste korral (alates 10 kilogrammist) toimetame maasikad ka koju kätte.",
+            "Kvaliteetse ning vastupidava sõiduriista lapsele saab alates 100 eurost.",
+            "Pulss lõi lakke esimesest meetrist alates."
+          ],
+          "synonyms": [
+            "al"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "начиная с",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(loetelu kohta:) alustades mingist üksusest, rühmast,osutab, kellest või millest mingi loetelu algab",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Poest saab osta kõike – alates kätistest ning lõpetades jakkidega.",
+            "Ujumine sobib kõigile alates lastest ja lõpetades pensionäridega."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "depuis",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "начиная с",
+                "weight": 1
+              },
+              {
+                "words": "от",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "починаючи від",
+                "weight": 1
+              },
+              {
+                "words": "від",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pihta",
+        "sestpeale",
+        "saati",
+        "sestsaadik",
+        "peast",
+        "peast",
+        "sestsaati",
+        "sestmaalt",
+        "sealtsaadik",
+        "saadik",
+        "saadik",
+        "sealtpeale",
+        "sealtmaalt",
+        "kuni"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "alates",
+      "translations": [
+        "onwards",
+        "since"
+      ]
+    }
+  ]
+}

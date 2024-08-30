@@ -1,0 +1,106 @@
+{
+  "requestedWord": "endamisi",
+  "estonianWord": "endamisi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "endamisi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "iseendaga vaikselt, mõtetes (arutledes, mõtiskledes),üksi, ilma teiste inimesteta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Umbes nii võis Maarja endamisi arutleda.",
+            "Päevast päeva istus ta kiriku ukse kõrval endamisi pomisedes."
+          ],
+          "synonyms": [
+            "omaette"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "seul",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "про себя",
+                "weight": 1
+              },
+              {
+                "words": "мысленно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "сам собі",
+                "weight": 1
+              },
+              {
+                "words": "сам до себе",
+                "weight": 1
+              },
+              {
+                "words": "про себе",
+                "weight": 1
+              },
+              {
+                "words": "у думці",
+                "weight": 1
+              },
+              {
+                "words": "у думках",
+                "weight": 1
+              },
+              {
+                "words": "подумки",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "omaette",
+        "mõttes",
+        "isepäi",
+        "isepäinis",
+        "muigamisi",
+        "aimamisi",
+        "pilamisi",
+        "härgamisi",
+        "kobamisi",
+        "oletamisi",
+        "mäletamisi",
+        "kordamisi",
+        "libamisi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "endamisi",
+      "translations": [
+        "to yourself"
+      ]
+    }
+  ]
+}

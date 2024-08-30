@@ -1,0 +1,339 @@
+{
+  "requestedWord": "vahendus",
+  "estonianWord": "vahendus",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "11",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "vahendus"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "vahenduse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "vahendust"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "vahendusse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "vahendusesse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "vahenduses"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "vahendusest"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "vahendusele"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "vahendusel"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "vahenduselt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "vahenduseks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "vahenduseni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "vahendusena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "vahenduseta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "vahendusega"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "vahendused"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "vahenduste"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "vahendusi"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "vahendustesse,vahendusisse"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "vahendustes,vahendusis"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "vahendustest,vahendusist"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "vahendustele,vahendusile"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "vahendustel,vahendusil"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "vahendustelt,vahendusilt"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "vahendusteks,vahendusiks"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "vahendusteni"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "vahendustena"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "vahendusteta"
+        },
+        {
+          "inflectionType": "11",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "vahendustega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "eri poolte kokkuviimine, ühendajaks või vahetalitajaks olemine",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Nad said kokku lepitud ka ilma vahenduseta.",
+            "Firma tegevusaladeks on märgitud müük ja vahendus."
+          ],
+          "synonyms": [
+            "vahetalitus",
+            "vahendamine",
+            "vahendustegevus",
+            "sobitus",
+            "mediatsioon"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "посредничество",
+                "weight": 1
+              },
+              {
+                "words": "посредничество",
+                "weight": 0.8365
+              },
+              {
+                "words": "посредничество,посредническая деятельность",
+                "weight": 0.743
+              },
+              {
+                "words": "посредничество",
+                "weight": 0.9
+              },
+              {
+                "words": "медиация",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi või kellegi kaudu või kaasabil,midagi kasutades, millegi kaudu",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "посредством",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tõlge,tõlkimine",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Saksa kirjandusklassiku teoste meisterlikud vahendused."
+          ],
+          "synonyms": [
+            "ümberpanek",
+            "tõlge",
+            "tõlkimine",
+            "metafraas"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "перевод",
+                "weight": 1
+              },
+              {
+                "words": "перевод",
+                "weight": 0.9
+              },
+              {
+                "words": "перевод",
+                "weight": 0.7
+              },
+              {
+                "words": "метафраза",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "traduction",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "переклад",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "translation",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "metafraas",
+        "mediatsioon",
+        "tõlge",
+        "eestindus",
+        "sobitus",
+        "vahetalitus",
+        "vahendamine",
+        "ümberpanek",
+        "ühendus",
+        "hädalahendus",
+        "vahendajaroll",
+        "vahendaja",
+        "vahendustegevus",
+        "töövahendus",
+        "kommunikatsioonivahend"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vahendus",
+      "translations": [
+        "mediation"
+      ]
+    }
+  ]
+}

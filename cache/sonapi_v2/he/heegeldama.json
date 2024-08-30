@@ -1,0 +1,602 @@
+{
+  "requestedWord": "heegeldama",
+  "estonianWord": "heegeldama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "heegeldama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "heegeldamata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "heegeldamas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "heegeldamast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "heegeldamaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "heegeldatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "heegeldada"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "heegeldades"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "heegeldav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "heegeldatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "heegeldanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "heegeldanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "heegeldatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "heegeldatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "heegeldan"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "heegeldad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "heegeldab"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "heegeldame"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "heegeldate"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "heegeldavad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "heegelda"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "heegeldatakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "heegeldata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "heegeldasin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "heegeldasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "heegeldas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "heegeldasime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "heegeldasite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "heegeldasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "heegeldati"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "heegeldaksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "heegeldaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "heegeldaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "heegeldaksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "heegeldaksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "heegeldaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "heegeldataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "heegeldanuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "heegeldanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "heegeldanuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "heegeldanuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "heegeldanuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "heegeldanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "heegeldatuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "heegeldavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "heegeldatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "heegeldanuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "heegeldatuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "heegelda"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "heegeldagem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "heegeldage"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "heegeldagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "heegeldatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "heegelnõelaga niidist või lõngast silmuselist kudet tegema,spetsiaalse suure nõelaga villasest niidist riideid valmistama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Mulle meeldib kududa rohkem kui heegeldada.",
+            "Vanaema heegeldas mulle kampsuni."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "crochet",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "faire du crochet",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вязать крючком",
+                "weight": 1
+              },
+              {
+                "words": "связать крючком",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "плести гачком",
+                "weight": 1
+              },
+              {
+                "words": "сплести гачком",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(abstraktsete nähtuste kohta:) siduma või põimima",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Esimene vaatus oli kokku heegeldatud erinevatest maailmaklassika teostest."
+          ],
+          "synonyms": [
+            "põimima",
+            "siduma",
+            "traageldama",
+            "kokku klopsima"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "вплетать,вплести",
+                "weight": 0.7
+              },
+              {
+                "words": "скреплять,скрепить,связывать,связать,соединять,соединить,сопрягать,сопрячь",
+                "weight": 0.7
+              },
+              {
+                "words": "состряпать,стряпать,сколотить,сколачивать,сбить,сбивать",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "lier,relier",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "поєднати,єднати,сполучити,сполучати,звʼязати,звʼязувати,повʼязати,повʼязувати",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "edasi-tagasi, sebides ja sahmides liikuma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Raskete raamatupakkidega tuli korduvalt trepist üles ja alla heegeldada."
+          ],
+          "synonyms": [
+            "nõeluma",
+            "sõeluma",
+            "sagima",
+            "voorima",
+            "saalima,seegama",
+            "siblima,ringi sebima,sebima,segima",
+            "seerima",
+            "pendeldama",
+            "süstlema",
+            "rahmlema,rahmima,rahmeldama,rahkeldama,rühmeldama",
+            "tuuseldama",
+            "traageldama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "сновать",
+                "weight": 1
+              },
+              {
+                "words": "шмыгать",
+                "weight": 1
+              },
+              {
+                "words": "шнырять",
+                "weight": 1
+              },
+              {
+                "words": "бегать туда-сюда,суетиться,сновать,шмыгать,юркать,торопливо двигаться",
+                "weight": 0.9
+              },
+              {
+                "words": "шастать,шнырять,шмыгать,сновать,сновать туда-сюда",
+                "weight": 0.9
+              },
+              {
+                "words": "бегать туда-сюда,метаться,шмыгать,шастать,кишеть,сновать,шнырять",
+                "weight": 0.9
+              },
+              {
+                "words": "валить толпами,переть,повалить,валить,сновать",
+                "weight": 0.9
+              },
+              {
+                "words": "шастать,сновать туда-сюда,сновать,шмыгать,шнырять",
+                "weight": 0.9
+              },
+              {
+                "words": "суетиться,бегать туда-сюда,шастать,шнырять,шмыгать,сновать,копошиться,возиться",
+                "weight": 0.9
+              },
+              {
+                "words": "шмыгать,шнырять,шастать,циркулировать",
+                "weight": 0.9
+              },
+              {
+                "words": "колебаться,болтаться,сновать туда-сюда,ходить взад-вперёд,циркулировать,ходить как маятник,ходить маятником,двигаться как маятник,двигаться маятником",
+                "weight": 0.9
+              },
+              {
+                "words": "колготиться,вертеться,надрываться,копошиться,мотаться,возиться,суетиться,хлопотать,вертеться как белка в колесе",
+                "weight": 0.639
+              },
+              {
+                "words": "суетиться,носиться",
+                "weight": 0.709
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kokku klopsima",
+        "traageldama",
+        "siduma",
+        "põimima",
+        "voorima",
+        "saalima",
+        "segima",
+        "nõeluma",
+        "seerima",
+        "sõeluma",
+        "pendeldama",
+        "seegama",
+        "sagima",
+        "sebima",
+        "süstlema",
+        "siblima",
+        "rahmeldama",
+        "tuuseldama",
+        "jahvatama",
+        "pahnama",
+        "mölama",
+        "mölisema",
+        "pada panema",
+        "jobama",
+        "vatrama",
+        "noolima",
+        "lobama",
+        "kihama",
+        "mullikesi ajama",
+        "pläägutama",
+        "pläkutama",
+        "pada ajama",
+        "lorisema",
+        "lorima",
+        "lõugutama",
+        "vaterdama",
+        "jorama",
+        "jahmerdama",
+        "mögisema",
+        "larisema",
+        "jahuma",
+        "kihisema",
+        "literdama",
+        "literdama",
+        "larama",
+        "plätrama",
+        "lörisema",
+        "plärama",
+        "latrama",
+        "mulama",
+        "keelel käia laskma",
+        "plärisema",
+        "padistama",
+        "platrama",
+        "mulisema",
+        "jobisema",
+        "patrama",
+        "padisema",
+        "plämama",
+        "lobisema",
+        "lõhverdama",
+        "mögama",
+        "lorama",
+        "jamama",
+        "sampsima",
+        "laterdama",
+        "ribelema",
+        "heegelpits",
+        "guugeldama",
+        "õmblema",
+        "kuduma",
+        "nüpeldama",
+        "tikkima",
+        "pahteldama",
+        "heegelnõel",
+        "viltima",
+        "heegelniit",
+        "nikerdama",
+        "heegeldis",
+        "vemmeldama",
+        "klopsima"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "heegeldama",
+      "translations": [
+        "crochet"
+      ]
+    }
+  ]
+}

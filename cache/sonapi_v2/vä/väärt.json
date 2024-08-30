@@ -1,0 +1,396 @@
+{
+  "requestedWord": "väärt",
+  "estonianWord": "väärt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "väärt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "hea, väärtuslik,hea,tähtis, vajalik",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Väärt mõte!",
+            "Soovita mulle mõni väärt raamat.",
+            "Tervis on palju väärt."
+          ],
+          "synonyms": [
+            "väärtuslik,kallis,hinnaline",
+            "esmaklassiline",
+            "kõrgeklassiline",
+            "maailmaklassiline",
+            "esmajärguline",
+            "kvaliteetne,kvaliteet",
+            "viimase peal",
+            "kuldne,kullane,kuldaväärt",
+            "heakvaliteediline",
+            "heatasemeline",
+            "hinnatud",
+            "hüva",
+            "priima",
+            "kiiduväärt,kiiduväärne",
+            "kõrgetasemeline",
+            "vääriline",
+            "asine",
+            "viisakas,korralik",
+            "aus",
+            "tubli",
+            "auväärne,auväärt,aukas",
+            "õilis",
+            "asjalik",
+            "tugev",
+            "õige",
+            "tähtjas,tähtis",
+            "hää,hea",
+            "hää,hea"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "достойный",
+                "weight": 1
+              },
+              {
+                "words": "ценный",
+                "weight": 1
+              },
+              {
+                "words": "стоящий",
+                "weight": 1
+              },
+              {
+                "words": "дорогой,стоящий,ценный",
+                "weight": 0.9
+              },
+              {
+                "words": "перворазрядный,первоклассный,первостатейный,классный,первосортный",
+                "weight": 0.9
+              },
+              {
+                "words": "высшего класса",
+                "weight": 0.9
+              },
+              {
+                "words": "международного класса,мирового класса,высшего класса",
+                "weight": 0.9
+              },
+              {
+                "words": "первостепенный,первоочередной,первичный,первенствующий,первейший,первоклассный,перворазрядный,первостатейный",
+                "weight": 0.9
+              },
+              {
+                "words": "высококачественный,качественный,доброкачественный",
+                "weight": 0.9
+              },
+              {
+                "words": "превосходный,прекрасный,замечательный,золотой",
+                "weight": 0.8047
+              },
+              {
+                "words": "доброкачественный",
+                "weight": 0.9
+              },
+              {
+                "words": "качественный,мастерской,выполненный на высоком уровне,классный",
+                "weight": 0.9
+              },
+              {
+                "words": "ценный,знаменитый,уважаемый",
+                "weight": 0.9
+              },
+              {
+                "words": "хороший,добрый",
+                "weight": 0.9
+              },
+              {
+                "words": "первосортный,первостатейный,перворазрядный,классный",
+                "weight": 0.9
+              },
+              {
+                "words": "достойный хвалы,похвальный,заслуживающий похвалы,заслуживающий одобрения,достойный похвалы,достойный одобрения",
+                "weight": 0.9
+              },
+              {
+                "words": "на высоком уровне,высококлассный",
+                "weight": 0.9
+              },
+              {
+                "words": "должный,достойный",
+                "weight": 0.9
+              },
+              {
+                "words": "деловой,стоящий,дельный,толковый",
+                "weight": 0.7
+              },
+              {
+                "words": "приличный,хороший,изрядный,порядочный",
+                "weight": 0.9
+              },
+              {
+                "words": "порядочный,приличный",
+                "weight": 0.9
+              },
+              {
+                "words": "отличный,хороший,отменный,похвальный,достойный",
+                "weight": 0.9
+              },
+              {
+                "words": "почётный,почтенный,маститый,именитый,достопочтенный",
+                "weight": 0.574
+              },
+              {
+                "words": "благородный,знатный,драгоценный,отменный,величавый",
+                "weight": 0.7
+              },
+              {
+                "words": "дельный,деловитый,деловой,толковый",
+                "weight": 0.7
+              },
+              {
+                "words": "сильный",
+                "weight": 0.7
+              },
+              {
+                "words": "настоящий",
+                "weight": 0.7
+              },
+              {
+                "words": "знатный,важный,высокопоставленный,влиятельный",
+                "weight": 0.7
+              },
+              {
+                "words": "хороший",
+                "weight": 0.9
+              },
+              {
+                "words": "добрый,хороший",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "гідний",
+                "weight": 1
+              },
+              {
+                "words": "достойний",
+                "weight": 1
+              },
+              {
+                "words": "цінний",
+                "weight": 1
+              },
+              {
+                "words": "цінний,дорогий,коштовний",
+                "weight": 0.9
+              },
+              {
+                "words": "якісний",
+                "weight": 0.9
+              },
+              {
+                "words": "порядний,добрий,пристойний",
+                "weight": 0.9
+              },
+              {
+                "words": "хвальний,добрий,гарний,хороший,достойний,гідний,чудовий,відмінний,похвальний",
+                "weight": 0.9
+              },
+              {
+                "words": "діловитий,діловий",
+                "weight": 0.7
+              },
+              {
+                "words": "сильний",
+                "weight": 0.7
+              },
+              {
+                "words": "поважний,високопоставлений,впливовий",
+                "weight": 0.7
+              },
+              {
+                "words": "добрий,гарний,хороший",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "précieux",
+                "weight": 0.9
+              },
+              {
+                "words": "de (bonne) qualité",
+                "weight": 0.9
+              },
+              {
+                "words": "correct,bon",
+                "weight": 0.9
+              },
+              {
+                "words": "excellent,très bon",
+                "weight": 0.7
+              },
+              {
+                "words": "important",
+                "weight": 0.7
+              },
+              {
+                "words": "bon",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "valuable",
+                "weight": 0.9
+              },
+              {
+                "words": "important",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kedagi või midagi vääriv, kellegi või millegi vääriline olev",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Asi on arutamist väärt.",
+            "Poiss on vitsa väärt."
+          ],
+          "synonyms": [
+            "vääriline"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "достойный",
+                "weight": 1
+              },
+              {
+                "words": "должный,достойный",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(osutab millegi rahas mõõdetavale väärtusele:) teatud hinda maksev,näitab, kui palju mingi asi võiks maksta",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Pool miljonit väärt maja.",
+            "Maja on väärt kaks miljonit."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "стоящий",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вартий",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "õige",
+        "tugev",
+        "asjalik",
+        "õilis",
+        "vääriline",
+        "asine",
+        "tähtis",
+        "kõrgeklassiline",
+        "viisakas",
+        "aus",
+        "väärtuslik",
+        "meisterlik",
+        "esmaklassiline",
+        "korralik",
+        "hea",
+        "terav",
+        "tunnustusväärne",
+        "maailmaklassiline",
+        "esmajärguline",
+        "kvaliteetne",
+        "viimase peal",
+        "terane",
+        "terane",
+        "tubli",
+        "number üks",
+        "kiiduväärt",
+        "kuldne",
+        "kuldaväärt",
+        "kiita",
+        "pole viga",
+        "otsitav",
+        "kõva",
+        "kiiduväärne",
+        "priima",
+        "priima",
+        "väga hea",
+        "heakvaliteediline",
+        "ekstra",
+        "ekstra",
+        "hüva",
+        "kõrgetasemeline",
+        "heatasemeline",
+        "hinnatud",
+        "tikutulega taga otsima",
+        "väärima",
+        "tasuv",
+        "naeruväärt",
+        "märkimisväärt",
+        "mainimisväärt",
+        "tänuväärt",
+        "tähelepanuväärt",
+        "laiduväärt",
+        "kõneväärt",
+        "lugemisväärt",
+        "auväärt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "väärt",
+      "translations": [
+        "deserving",
+        "eligible",
+        "worth"
+      ]
+    }
+  ]
+}

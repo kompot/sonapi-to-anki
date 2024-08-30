@@ -1,0 +1,129 @@
+{
+  "requestedWord": "kestel",
+  "estonianWord": "kestel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kestel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingi ajaühiku väldates või millegi toimumise ajal,osutab ajavahemikule või ajale, mil midagi tehakse või toimub",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Paljude aastate kestel kujunenud traditsioon.",
+            "Abielu kestel soetatud vara."
+          ],
+          "synonyms": [
+            "jooksul",
+            "vältel",
+            "sees",
+            "ajal"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "during",
+                "weight": 1
+              },
+              {
+                "words": "during",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "pendant",
+                "weight": 1
+              },
+              {
+                "words": "durant",
+                "weight": 1
+              },
+              {
+                "words": "au cours de",
+                "weight": 1
+              },
+              {
+                "words": "pendant",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "в течение",
+                "weight": 1
+              },
+              {
+                "words": "в продолжение",
+                "weight": 1
+              },
+              {
+                "words": "на протяжении",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "за время",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "во время",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "протягом",
+                "weight": 1
+              },
+              {
+                "words": "під час",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pikku",
+        "vältel",
+        "kestes",
+        "jooksul",
+        "käigus",
+        "kestendus",
+        "kestus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kestel",
+      "translations": [
+        "during"
+      ]
+    }
+  ]
+}

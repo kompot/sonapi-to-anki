@@ -1,0 +1,92 @@
+{
+  "requestedWord": "varasemalt",
+  "estonianWord": "varasemalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "varasemalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "varem, enne",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Selle masinaga on ka varasemalt probleeme olnud.",
+            "Andmed võtsin ühest varasemalt ilmunud uurimusest.",
+            "Lugesin nüüd veidi varasemalt kirja pandud ridu, hägustasin oma linnaosa, ja siis muutsin nimed jälle tagasi .."
+          ],
+          "synonyms": [
+            "ennem,ennemalt,ennemini,varem,varemalt,varemini,enne"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ранее",
+                "weight": 1
+              },
+              {
+                "words": "раньше",
+                "weight": 1
+              },
+              {
+                "words": "раньше,перед,ранее,прежде,до",
+                "weight": 0.618
+              }
+            ],
+            "fra": [
+              {
+                "words": "avant",
+                "weight": 0.618
+              }
+            ],
+            "ukr": [
+              {
+                "words": "раніше,перше,до",
+                "weight": 0.618
+              }
+            ],
+            "eng": [
+              {
+                "words": "earlier",
+                "weight": 0.618
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "korduvalt",
+        "ilmselt",
+        "eelnevalt",
+        "oluliselt",
+        "juba",
+        "varem",
+        "reaalsemalt",
+        "olulisemalt",
+        "kunagi",
+        "varem"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "varasemalt",
+      "translations": []
+    }
+  ]
+}

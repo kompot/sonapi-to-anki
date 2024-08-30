@@ -1,0 +1,79 @@
+{
+  "requestedWord": "arvele",
+  "estonianWord": "arvele",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "arvele"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi või millegi põhjustatuna",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Õnnetus kirjutati juhuse arvele.",
+            "Eestlasest ääremängija arvele jäi 16 punkti."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на счёт",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "nimestikku, registrisse",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Võtsin end töötuna arvele."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на учёт",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "arvelevõtt",
+        "arvel",
+        "arvelevõtmine"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "arvele",
+      "translations": [
+        "chargeable to"
+      ]
+    }
+  ]
+}

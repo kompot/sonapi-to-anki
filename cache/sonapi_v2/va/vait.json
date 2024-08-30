@@ -1,0 +1,144 @@
+{
+  "requestedWord": "vait",
+  "estonianWord": "vait",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vait"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mitte rääkivana, mitte häält tegevana,mitte rääkivaks, mitte häält tegevaks,nii, et ei räägi või ei tee häält",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ah, ole vait!",
+            "Mida küll teha, et laps vait püsiks?",
+            "Ehmusin ja jäin vait.",
+            "Kõik olid vait ja kuulasid hoolega esinejat."
+          ],
+          "synonyms": [
+            "vaiki",
+            "vakka"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "quiet",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "тише",
+                "weight": 1
+              },
+              {
+                "words": "тихо",
+                "weight": 1
+              },
+              {
+                "words": "спокойно",
+                "weight": 1
+              },
+              {
+                "words": "тихонько",
+                "weight": 1
+              },
+              {
+                "words": "молча",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тихо",
+                "weight": 1
+              },
+              {
+                "words": "мовчки",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(millegi lakkamisega ühenduses)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tuul ei jäänudki täna öösel vait."
+          ],
+          "synonyms": [
+            "vakka"
+          ],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "vaiki",
+        "vagusi",
+        "vaikselt",
+        "hiirvait",
+        "hiirvagusi",
+        "tasa",
+        "pea lõuad",
+        "kuss",
+        "vakka",
+        "hiirvaikselt",
+        "suu vett täis",
+        "vaguralt",
+        "vagusalt",
+        "haudvaikselt",
+        "vaibuma",
+        "maha rahunema",
+        "rahunema",
+        "tst",
+        "soikuma",
+        "rahustuma",
+        "vaikima",
+        "taltuma",
+        "vakatama",
+        "raugema",
+        "tss",
+        "solvunult",
+        "ehmunult",
+        "vaeseke",
+        "hääletult",
+        "pahuralt",
+        "pohhui",
+        "kohkunult",
+        "lõugama",
+        "sittagi",
+        "sosinal",
+        "vaesekene"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vait",
+      "translations": [
+        "be quiet"
+      ]
+    }
+  ]
+}

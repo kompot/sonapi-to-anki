@@ -1,0 +1,147 @@
+{
+  "requestedWord": "vastamisi",
+  "estonianWord": "vastamisi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vastamisi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(asendi poolest:) teineteise vastas või vastu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sattusime koridoris vastamisi.",
+            "Mees istus, pihud vastamisi."
+          ],
+          "synonyms": [
+            "vastakuti",
+            "vastastikku",
+            "vis-à-vis,visavii"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "друг против друга",
+                "weight": 1
+              },
+              {
+                "words": "против",
+                "weight": 1
+              },
+              {
+                "words": "напротив",
+                "weight": 1
+              },
+              {
+                "words": "напротив,друг против друга,визави",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(üksteisega) vaenutsedes, vastasseisus vms",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ei tahaks riigivõimuga vastamisi minna."
+          ],
+          "synonyms": [
+            "vastakuti",
+            "vastastikku"
+          ],
+          "translations": {}
+        },
+        {
+          "definition": "(kahe või enama isiku või nähtuse vahel toimuva või olemasoleva kirjeldamisel:) üks ühte ja teine teist, üks ühele ja teine teisele vms",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Hakkasime Edaga vastamisi teravusi vahetama.",
+            "Nad käivad vastamisi teineteisele närvidele."
+          ],
+          "synonyms": [
+            "vastakuti",
+            "vastastikku"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "взаимно",
+                "weight": 1
+              },
+              {
+                "words": "обоюдно",
+                "weight": 1
+              },
+              {
+                "words": "друг друга",
+                "weight": 1
+              },
+              {
+                "words": "друг другу",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "silm silma vastu",
+        "palgest palgesse",
+        "silmitsi",
+        "sülitsi",
+        "raksu",
+        "näost näkku",
+        "visavii",
+        "silmsi",
+        "vastastikku",
+        "pahuksisse",
+        "vastakuti",
+        "tülitsema",
+        "kokku põrkama",
+        "riidu minema",
+        "pahuksis",
+        "põrkuma",
+        "ristamisi",
+        "pilamisi",
+        "kobamisi",
+        "libamisi",
+        "vastasleer"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vastamisi",
+      "translations": [
+        "up against",
+        "vis-a-vis"
+      ]
+    }
+  ]
+}

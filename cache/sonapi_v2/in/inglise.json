@@ -1,0 +1,124 @@
+{
+  "requestedWord": "inglise",
+  "estonianWord": "inglise",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "inglise"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "Inglise"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "inglaste või inglise keelega seotud,inglastega seotud",
+          "partOfSpeech": [
+            {
+              "code": "adjg",
+              "value": "omastavaline täiend, genitiivatribuut, täiendsõna"
+            }
+          ],
+          "examples": [
+            "Hariduselt on ta inglise filoloog."
+          ],
+          "synonyms": [
+            "inglis"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "anglais",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "английский",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "англійський",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "Inglise",
+        "saksa",
+        "prantsuse",
+        "eesti",
+        "itaalia",
+        "vene",
+        "vene"
+      ]
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "Inglise"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Inglismaaga või kogu Ühendkuningriigiga seotud",
+          "partOfSpeech": [
+            {
+              "code": "adjg",
+              "value": "omastavaline täiend, genitiivatribuut, täiendsõna"
+            }
+          ],
+          "examples": [
+            "Mul on rahakotis kümme Inglise naela.",
+            "Saneerimise viis läbi Inglise firma."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "английский",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "inglise",
+        "Prantsuse",
+        "Inglismaa"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "inglise",
+      "translations": [
+        "English"
+      ]
+    }
+  ]
+}

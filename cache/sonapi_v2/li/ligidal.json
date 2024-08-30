@@ -1,0 +1,308 @@
+{
+  "requestedWord": "ligidal",
+  "estonianWord": "ligidal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ligidal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "lühikese vahemaa taga, läheduses,lühikese vahemaa kaugusel",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Lennuväli on siinsamas ligidal.",
+            "Saare ligidal on merepõhjas üks laevavrakk."
+          ],
+          "synonyms": [
+            "lähedal",
+            "kõrval"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "près",
+                "weight": 1
+              },
+              {
+                "words": "à proximité",
+                "weight": 1
+              },
+              {
+                "words": "à côté de",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "близко",
+                "weight": 1
+              },
+              {
+                "words": "недалеко",
+                "weight": 1
+              },
+              {
+                "words": "недалеко от",
+                "weight": 1
+              },
+              {
+                "words": "неподалёку",
+                "weight": 1
+              },
+              {
+                "words": "вблизи",
+                "weight": 1
+              },
+              {
+                "words": "поблизости",
+                "weight": 1
+              },
+              {
+                "words": "поблизости от",
+                "weight": 1
+              },
+              {
+                "words": "близ",
+                "weight": 1
+              },
+              {
+                "words": "около,у,возле,подле,вблизи,поблизости,рядом,рядом с",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "близько",
+                "weight": 1
+              },
+              {
+                "words": "недалеко",
+                "weight": 1
+              },
+              {
+                "words": "поблизу",
+                "weight": 1
+              },
+              {
+                "words": "неподалік",
+                "weight": 1
+              },
+              {
+                "words": "поряд з,поруч,коло,біля,поблизу,близько",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "lühikese ajavahemiku taga, kätte jõudmas,lühikese ajavahemiku pärast, varsti algamas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Aasta lõpp on ligidal."
+          ],
+          "synonyms": [
+            "lähedal"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "proche",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "близко",
+                "weight": 1
+              },
+              {
+                "words": "недалеко",
+                "weight": 1
+              },
+              {
+                "words": "на подходе",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "близько",
+                "weight": 1
+              },
+              {
+                "words": "недалеко",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "hulgalt, suuruselt, määralt millegi läheduses, millenigi küündimas",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Ta on juba kuuekümne ligidal."
+          ],
+          "synonyms": [
+            "lähedal"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "под",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingi asjaolu, olukorrani jõudmas",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Oleme võrdlemisi ligidal sellele, mida tahame saavutada."
+          ],
+          "synonyms": [
+            "lähedal"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "близко",
+                "weight": 1
+              },
+              {
+                "words": "недалеко",
+                "weight": 1
+              },
+              {
+                "words": "около",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "lähedases, tihedas suhtes, kellegagi tihedasti seotud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mees arvas, et peaministrile hästi ligidal olla on tähtsam kui olla ülikooli professor."
+          ],
+          "synonyms": [
+            "lähedal"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "близко",
+                "weight": 1
+              },
+              {
+                "words": "вблизи",
+                "weight": 1
+              },
+              {
+                "words": "неподалёку",
+                "weight": 1
+              },
+              {
+                "words": "поблизости",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ligi",
+        "ajaliselt",
+        "külje all",
+        "kõrval",
+        "kõrval",
+        "lähedal",
+        "ruumiliselt",
+        "kiviviske kaugusel",
+        "käegakatsutav",
+        "kohe",
+        "kohe",
+        "kukil",
+        "käeulatuses",
+        "nina ees",
+        "siinsamas",
+        "nina all",
+        "ligilähedal",
+        "juures",
+        "käe-jala juures",
+        "kiviga visata",
+        "kõrvale",
+        "ümber",
+        "ligidalt",
+        "lähedalt",
+        "juurde",
+        "lähedale",
+        "lähistel",
+        "veelomp",
+        "ääres",
+        "ligidale",
+        "läheda"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ligidal",
+      "translations": [
+        "close",
+        "close at hand",
+        "nearby",
+        "nigh"
+      ]
+    }
+  ]
+}

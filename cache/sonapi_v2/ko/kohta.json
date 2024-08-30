@@ -1,0 +1,170 @@
+{
+  "requestedWord": "kohta",
+  "estonianWord": "kohta",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kohta"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab isikule, olukorrale vms, kellesse või millesse miski asi puutub, kellega või millega miski seostub,osutab sellele, kellesse või millesse mingi asi puutub,kellegagi või millegagi seoses",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Tema edasise saatuse kohta andmed puuduvad.",
+            "Järve tekke kohta räägitakse mitmeid legende.",
+            "Juhtunu kohta koostati protokoll.",
+            "Mis tema selle kohta ütles?",
+            "Tööandja otsis töötaja kohta infot internetist.",
+            "Mul on selle projekti kohta mitu küsimust."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "sur",
+                "weight": 1
+              },
+              {
+                "words": "à propos de",
+                "weight": 1
+              },
+              {
+                "words": "au sujet de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "о",
+                "weight": 1
+              },
+              {
+                "words": "об",
+                "weight": 1
+              },
+              {
+                "words": "обо",
+                "weight": 1
+              },
+              {
+                "words": "про",
+                "weight": 1
+              },
+              {
+                "words": "относительно",
+                "weight": 1
+              },
+              {
+                "words": "насчёт",
+                "weight": 1
+              },
+              {
+                "words": "применительно",
+                "weight": 1
+              },
+              {
+                "words": "по отношению к",
+                "weight": 1
+              },
+              {
+                "words": "касательно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "про",
+                "weight": 1
+              },
+              {
+                "words": "щодо",
+                "weight": 1
+              },
+              {
+                "words": "стосовно",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingeid tingimusi, asjaolusid, olukordi arvesse võttes, neist lähtudes",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Oma aja kohta haritud mees.",
+            "Ilmad olid maikuu kohta jahedad.",
+            "Oma vanuse kohta on ta täitsa krapsakas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "для",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab mingile alale, hulgale vm, milles esineb või mille suhtes arvestatakse mingi teine hulk",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Luteri kirikuid oli terve linna kohta ainult üks.",
+            "Hüvitist maksti 360 eurot kuu kohta."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "suhtes",
+        "üle"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kohta",
+      "translations": [
+        "about",
+        "(millegi) anent",
+        "(millegi) apropos of",
+        "per",
+        "relating to"
+      ]
+    }
+  ]
+}

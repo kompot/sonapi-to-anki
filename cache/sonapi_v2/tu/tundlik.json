@@ -1,0 +1,623 @@
+{
+  "requestedWord": "tundlik",
+  "estonianWord": "tundlik",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "25",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "tundlik"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "tundliku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "tundlikku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "tundlikku"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "tundlikusse"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "tundlikus"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "tundlikust"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "tundlikule"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "tundlikul"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "tundlikult"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "tundlikuks"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "tundlikuni"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "tundlikuna"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "tundlikuta"
+        },
+        {
+          "inflectionType": "25",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "tundlikuga"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "tundlikud"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "tundlike,tundlikkude"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "tundlikke,tundlikkusid"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "tundlikesse,tundlikkudesse"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "tundlikes,tundlikkudes"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "tundlikest,tundlikkudest"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "tundlikkudele,tundlikele"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "tundlikel,tundlikkudel"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "tundlikelt,tundlikkudelt"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "tundlikeks,tundlikkudeks"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "tundlikeni,tundlikkudeni"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "tundlikena,tundlikkudena"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "tundlikkudeta,tundliketa"
+        },
+        {
+          "inflectionType": "25",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "tundlikega,tundlikkudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(inimese hingeelu kohta:) emotsionaalselt vastuvõtlik,õrnahingeline, kergesti solvuv,kergesti solvuv, õrna hingega",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Ta oli tundliku loomuga poiss, kes oskas ka teisi arvestada.",
+            "Töökaaslane on märkuste suhtes väga tundlik.",
+            "Ta on kriitika suhtes väga tundlik."
+          ],
+          "synonyms": [
+            "hell",
+            "hellakene,õrnatundeline,õrnahingeline,hellahingeline,sensiibel,tundehell,õrn,hellake",
+            "õrnakene,õrnukene,õrnake,õrnuke",
+            "ülitundlik",
+            "imehell",
+            "hingeline,tundeline,tundekas",
+            "hellatundeline",
+            "tundeergas,tundeerk",
+            "emotsionaalne",
+            "hingestatud",
+            "tunderikas,tundeküllane",
+            "sensitiivne",
+            "haavatav"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "sensitive",
+                "weight": 1
+              },
+              {
+                "words": "emotional",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "sensible",
+                "weight": 1
+              },
+              {
+                "words": "sensible",
+                "weight": 0.9
+              },
+              {
+                "words": "émotionnel",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "чувствительный",
+                "weight": 1
+              },
+              {
+                "words": "впечатлительный",
+                "weight": 1
+              },
+              {
+                "words": "эмоциональный",
+                "weight": 1
+              },
+              {
+                "words": "изнеженный,родненький,деликатный,уязвимый,миленький,чуткий,чувствительный,нежный,ранимый,мягкосердечный,сенсибельный",
+                "weight": 0.9
+              },
+              {
+                "words": "слабенький,хрупкий,нежный,чувствительный,впечатлительный",
+                "weight": 0.9
+              },
+              {
+                "words": "сверхчувствительный,с повышенной чувствительностью",
+                "weight": 0.9
+              },
+              {
+                "words": "очень нежный,очень ласковый,удивительно нежный,удивительно ласковый",
+                "weight": 0.9
+              },
+              {
+                "words": "лирический,чувствительный,сентиментальный,чувственный,чуткий,эмоциональный,душевный,сердечный,прочувствованный",
+                "weight": 0.9
+              },
+              {
+                "words": "чувствительный",
+                "weight": 0.9
+              },
+              {
+                "words": "чувствительный,чуткий",
+                "weight": 0.9
+              },
+              {
+                "words": "эмоциональный",
+                "weight": 0.9
+              },
+              {
+                "words": "прочувствованный,лирический,прочувственный,проникнутый глубоким чувством,эмоциональный",
+                "weight": 0.9
+              },
+              {
+                "words": "конфиденциальный,деликатный",
+                "weight": 0.9
+              },
+              {
+                "words": "уязвимый",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чутливий",
+                "weight": 1
+              },
+              {
+                "words": "вразливий",
+                "weight": 1
+              },
+              {
+                "words": "емоційний",
+                "weight": 1
+              },
+              {
+                "words": "вразливий,ніжний,чутливий",
+                "weight": 0.9
+              },
+              {
+                "words": "емоційний",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "täpselt, peenelt ja erksalt tajuv või tunnetav",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Tundliku silmaga kunstnik.",
+            "Sotsiaalselt tundlik kirjanik."
+          ],
+          "synonyms": [
+            "herge"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "чуткий",
+                "weight": 1
+              },
+              {
+                "words": "впечатлительный,чувствительный",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "selline, mida tuleb käsitleda ettevaatlikult, oma olemuselt erutav või konfliktne,selline, mida tuleb käsitleda väga ettevaatlikult",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Tundlik teema.",
+            "Palgavahe on nii tundlik küsimus, et sellest me ei räägi."
+          ],
+          "synonyms": [
+            "hell",
+            "hellahingeline,sensiibel,tundehell,õrn,õrnahingeline,õrnatundeline,hellakene,hellake"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "sensitive",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "sensible",
+                "weight": 1
+              },
+              {
+                "words": "sensible",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "щепетильный",
+                "weight": 1
+              },
+              {
+                "words": "болезненный",
+                "weight": 1
+              },
+              {
+                "words": "щекотливый",
+                "weight": 1
+              },
+              {
+                "words": "деликатный,уязвимый,миленький,чуткий,чувствительный,нежный,ранимый,мягкосердечный,родненький,изнеженный,сенсибельный",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "делікатний",
+                "weight": 1
+              },
+              {
+                "words": "дражливий",
+                "weight": 1
+              },
+              {
+                "words": "чутливий,ніжний,вразливий",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "puudutamisel valulik, füüsilisele ärritusele reageeriv,selline, mis reageerib tugevasti välistele mõjudele",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Tasapisi muutuvad sõrmed taas tundlikuks.",
+            "Hambad on nii tundlikud, et jäätist süüa ei saa.",
+            "Mu nahk on päikese suhtes/vastu tundlik."
+          ],
+          "synonyms": [
+            "hell",
+            "valulik,valuline",
+            "kibe",
+            "valus",
+            "tulivalus",
+            "haige",
+            "allergiline",
+            "õrn"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "sensitive",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "sensible",
+                "weight": 1
+              },
+              {
+                "words": "douloureux",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "чувствительный",
+                "weight": 1
+              },
+              {
+                "words": "болезненный,болевой",
+                "weight": 0.9
+              },
+              {
+                "words": "острый,резкий,саднящий,жгучий,зудящий",
+                "weight": 0.9
+              },
+              {
+                "words": "болезненный",
+                "weight": 0.9
+              },
+              {
+                "words": "аллергичный,склонный к аллергии",
+                "weight": 0.7
+              },
+              {
+                "words": "восприимчивый,чувствительный,нежный,слабый",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чутливий",
+                "weight": 1
+              },
+              {
+                "words": "болісний,болючий",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millelegi vähe vastupidav, midagi halvasti taluv",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Põuatundlik.",
+            "Külma suhtes tundlikud õunapuusordid.",
+            "Päikese suhtes tundlik nahk."
+          ],
+          "synonyms": [
+            "vastuvõtlik",
+            "õrn"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "чувствительный",
+                "weight": 1
+              },
+              {
+                "words": "восприимчивый",
+                "weight": 1
+              },
+              {
+                "words": "восприимчивый,отзывчивый,впечатлительный,переимчивый",
+                "weight": 0.9
+              },
+              {
+                "words": "восприимчивый,чувствительный,нежный,слабый",
+                "weight": 0.7567
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(seadmete, materjalide kohta:) kergesti, kiiresti, hästi reageeriv",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Ta külge kinnitati tundlikud andurid.",
+            "Tundlik aparatuur läheb kergesti rivist välja."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "чувствительный",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kaitsetu",
+        "haavatav",
+        "allergiline",
+        "õrnahingeline",
+        "puutumatu",
+        "hell",
+        "õrnatundeline",
+        "arg",
+        "ülitundlik",
+        "hellahingeline",
+        "valguskartlik",
+        "sensitiivne",
+        "õrnuke",
+        "tundmuslik",
+        "tundeerk",
+        "sensiibel",
+        "imehell",
+        "külmahell",
+        "valukartlik",
+        "vastuvõtlik",
+        "melodramaatiline",
+        "tundeergas",
+        "hingestatud",
+        "emotsionaalne",
+        "õrn",
+        "kartlik",
+        "tundeline",
+        "tundeküllane",
+        "õrnake",
+        "külmakartlik",
+        "hellatundeline",
+        "tundehell",
+        "vastutustundlik",
+        "valutundlik",
+        "keskkonnatundlik",
+        "põuatundlik",
+        "hinnatundlik",
+        "asjatundlik",
+        "tundlikum",
+        "kaastundlik",
+        "valgustundlik",
+        "tundlikult",
+        "keeletundlik",
+        "tõstutundlik",
+        "temperatuuritundlik",
+        "tundlikkus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tundlik",
+      "translations": [
+        "delicate",
+        "discerning (maitse)",
+        "discriminating",
+        "keen",
+        "passible",
+        "responsive",
+        "sensible",
+        "sensitive",
+        "sentient"
+      ]
+    }
+  ]
+}

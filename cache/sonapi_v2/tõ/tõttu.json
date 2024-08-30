@@ -1,0 +1,113 @@
+{
+  "requestedWord": "tõttu",
+  "estonianWord": "tõttu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tõttu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab asjaolule, isikule vms põhjusele, millest või kellest tingituna midagi toimub,osutab põhjusele, millega seoses midagi toimub",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Tolmu tõttu oli raske hingata.",
+            "Halva ilma tõttu lükati lend edasi.",
+            "Sportlane pidi vigastuse tõttu võistlustest loobuma."
+          ],
+          "synonyms": [
+            "pärast"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "pour",
+                "weight": 1
+              },
+              {
+                "words": "à cause de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "из-за",
+                "weight": 1
+              },
+              {
+                "words": "вследствие",
+                "weight": 1
+              },
+              {
+                "words": "в силу",
+                "weight": 1
+              },
+              {
+                "words": "в связи с",
+                "weight": 1
+              },
+              {
+                "words": "по случаю",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "внаслідок",
+                "weight": 1
+              },
+              {
+                "words": "у звʼязку",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tänu",
+        "tänu",
+        "pärast",
+        "poolest",
+        "tingitult",
+        "tagajärjel",
+        "lõpukorral",
+        "käigus",
+        "tulemusena",
+        "korral",
+        "puhul"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tõttu",
+      "translations": [
+        "because of",
+        "due to",
+        "on account",
+        "on account of",
+        "(millegi) on the strength of"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "requestedWord": "sügaval",
+  "estonianWord": "sügaval",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sügaval"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ümbruse üldisest pinnast tunduvalt allpool",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Särg kudes sügaval.",
+            "Sügaval mäe sees asub punkrite ja käikude süsteem."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "глубоко",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "eesmisest pinnast või äärest kõvasti sees- või tagapool",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Elas sügaval metsa sees."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "глубоко",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi ülimas olemuses, millegi keskmes",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sügaval sisimas tean, et praegu on õige aeg talle seda ütelda.",
+            "Projekt on tehtud sügaval nõukogude ajal."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "глубоко",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sügavmõtteliselt",
+        "sügavamalt",
+        "sügavale",
+        "sügavasti",
+        "sügavamini",
+        "sügavalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sügaval",
+      "translations": []
+    }
+  ]
+}

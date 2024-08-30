@@ -1,0 +1,145 @@
+{
+  "requestedWord": "viimaks",
+  "estonianWord": "viimaks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "viimaks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "eelnenu järel või lõpus,kaua kestnud tegevuse või olukorra järel",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Viimaks sai maja katuse alla.",
+            "Jutuga jõuti viimaks juba väga isiklike asjadeni."
+          ],
+          "synonyms": [
+            "lõpuks"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "finally",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "finalement",
+                "weight": 1
+              },
+              {
+                "words": "enfin",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "наконец",
+                "weight": 1
+              },
+              {
+                "words": "наконец-то",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "нарешті",
+                "weight": 1
+              },
+              {
+                "words": "нарешті-таки",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "äkki, ehk, vahest",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kartsin, et viimaks keegi ei tulegi külla."
+          ],
+          "synonyms": [
+            "viimati"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "а что если",
+                "weight": 1
+              },
+              {
+                "words": "вдруг",
+                "weight": 1
+              },
+              {
+                "words": "может",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ükskord",
+        "lõppude lõpuks",
+        "lõppeks",
+        "kord",
+        "kord",
+        "kord",
+        "lõpuks",
+        "viimati",
+        "ikkagi",
+        "jälle",
+        "ometi",
+        "aga",
+        "aga",
+        "taas",
+        "uuesti",
+        "peagi",
+        "ometigi",
+        "lõpusirge",
+        "nüüd",
+        "kibekiiresti",
+        "alles",
+        "taaskord",
+        "kibekähku",
+        "lõplikult",
+        "tasapisi",
+        "siiski"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "viimaks",
+      "translations": [
+        "at last",
+        "eventually"
+      ]
+    }
+  ]
+}

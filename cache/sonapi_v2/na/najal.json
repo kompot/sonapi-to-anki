@@ -1,0 +1,117 @@
+{
+  "requestedWord": "najal",
+  "estonianWord": "najal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "najal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi vastu või millelegi najatavas, toetuvas olekus",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Vikat seisab pajupõõsa najal.",
+            "Koperdasin koju kargu najal."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "millestki lähtudes, millegi põhjal,millegi toel, abil",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Kinnitan seda oma kogemuse najal.",
+            "Juta kipub otsustama tunnete najal.",
+            "Ma ainult tablettide najal elangi.",
+            "Ta kavatseb oma elu üles ehitada päranduse najal."
+          ],
+          "synonyms": [
+            "järgi,põhjal,põhiselt,järele"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "на основании",
+                "weight": 1
+              },
+              {
+                "words": "согласно,в соответствии,на основании,на основе,на базе,по",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "sur la base de",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на основі,на підставі",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "toel",
+        "najakil",
+        "nõjakil",
+        "väel",
+        "jõul",
+        "abil",
+        "pidi",
+        "põhjal",
+        "vahendusel",
+        "toetusel",
+        "varal",
+        "järgi",
+        "alusel",
+        "kaudu",
+        "teel",
+        "naalduma",
+        "nõjatuma",
+        "najatuma",
+        "kõrval",
+        "kõrval",
+        "najale",
+        "juures",
+        "peal",
+        "käekõrval",
+        "najalt",
+        "kiuste",
+        "kiuste",
+        "järel",
+        "järel"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "najal",
+      "translations": []
+    }
+  ]
+}

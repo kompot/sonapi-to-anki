@@ -1,0 +1,464 @@
+{
+  "requestedWord": "keegi",
+  "estonianWord": "keegi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "00",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "keegi"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kellegi"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kedagi"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kellessegi,kellegisse"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kelleski,kellegis"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kellestki,kellegist"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kellelegi,kellegile"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kellelgi,kellegil"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kelleltki,kellegilt"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kellekski,kellegiks"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kellenigi,kellegini"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kellenagi,kellegina"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kelletagi,kellegita"
+        },
+        {
+          "inflectionType": "00",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kellegagi,kellegiga"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "00",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "-"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(lähemalt määratlemata isiku vm olendi kohta:) teadmata kes,inimene või muu olend, kes pole täpselt teada",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Keegi karjus.",
+            "Kellegi vari langes ta näole.",
+            "See oli keegi soomlane.",
+            "Keegi on akna taga.",
+            "Kas peame veel kedagi ootama?"
+          ],
+          "synonyms": [
+            "keski",
+            "miski",
+            "üks"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "quelqu'un",
+                "weight": 1
+              },
+              {
+                "words": "un",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "кто-то",
+                "weight": 1
+              },
+              {
+                "words": "кто-либо",
+                "weight": 1
+              },
+              {
+                "words": "кто-нибудь",
+                "weight": 1
+              },
+              {
+                "words": "некто",
+                "weight": 1
+              },
+              {
+                "words": "кто-то",
+                "weight": 0.7807
+              },
+              {
+                "words": "кто-то,некто",
+                "weight": 0.503
+              },
+              {
+                "words": "один",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "хтось",
+                "weight": 1
+              },
+              {
+                "words": "хто-небудь",
+                "weight": 1
+              },
+              {
+                "words": "один",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "iga üksik,iga üksik inimene",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Rääkisime, mida keegi suvel tegi.",
+            "Rääkisime, mida keegi suvel tegi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "chacun",
+                "weight": 1
+              },
+              {
+                "words": "chacune",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "кто",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "хто",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mitte ükski,mitte ükski inimene",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Keegi ei oskaks seda paremini öelda.",
+            "Kedagi pole.",
+            "Keegi ei teadnud vastust.",
+            "Kedagi pole kodus.",
+            "Ära räägi seda kellelegi."
+          ],
+          "synonyms": [
+            "mitte keegi"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "no one",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "personne",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "никто",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ніхто",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(rõhutab negatiivset või eitavat hinnangut:) mitte mingisugune,midagi väärt",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "See pole kellegi õppimine!",
+            "Laulmine pole kellegi amet."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "никакой",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "sugugi, üldse mitte",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Tal pole häda kedagi."
+          ],
+          "synonyms": [
+            "sugugi",
+            "üldse,üldsegi,üleüldse",
+            "põrmugi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ничуть,нисколько,совсем не,нисколько не,вообще не,вовсе не,ничуть не",
+                "weight": 0.7
+              },
+              {
+                "words": "вообще,совершенно,вовсе,совсем,вообще-то,отнюдь",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "взагалі,зовсім",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tähtis, tunnustatud või lugupeetud isik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tahtsin olla keegi, varem olin alati eikeegi olnud."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "põrmugi",
+        "üldsegi",
+        "sugugi",
+        "mõni",
+        "keski",
+        "üks",
+        "kes",
+        "enam",
+        "eikeegi",
+        "inimene",
+        "vist",
+        "kui",
+        "kui",
+        "ise",
+        "aga",
+        "enamlane",
+        "äkki",
+        "mitte",
+        "mitte",
+        "enam",
+        "ikka",
+        "vist",
+        "ise",
+        "ise",
+        "siis",
+        "üldse",
+        "vaevalt",
+        "kunagi",
+        "aga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "keegi",
+      "translations": [
+        "a",
+        "a certain",
+        "somebody",
+        "someone"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "requestedWord": "jumalaga",
+  "estonianWord": "jumalaga",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "jumalaga"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "hüvastijätul, lahkumisel kasutatav sõna,sõna, mida sa ütled lahkudes, eriti siis, kui arvad, et ei näe teist inimest enam pikka aega",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "Jumalaga, sõbrad!",
+            "Ütles kõigile jumalaga."
+          ],
+          "synonyms": [
+            "hüvasti",
+            "prassai",
+            "nägemist,head aega,nägemiseni"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "adieu",
+                "weight": 1
+              },
+              {
+                "words": "au revoir",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "прощайте",
+                "weight": 1
+              },
+              {
+                "words": "прощай",
+                "weight": 1
+              },
+              {
+                "words": "с Богом",
+                "weight": 1
+              },
+              {
+                "words": "прощай",
+                "weight": 0.7
+              },
+              {
+                "words": "до свидания,до свиданья,всего доброго,пока",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "прощай",
+                "weight": 1
+              },
+              {
+                "words": "прощайте",
+                "weight": 1
+              },
+              {
+                "words": "прощавай",
+                "weight": 1
+              },
+              {
+                "words": "прощавайте",
+                "weight": 1
+              },
+              {
+                "words": "до побачення,щасливо,на все добре",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "goodbye,bye,see you,see you later",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "nägudeni",
+        "head aega",
+        "tšao",
+        "pakaa",
+        "hüvasti",
+        "adjöö",
+        "nägemiseni",
+        "aidaa",
+        "jumala",
+        "jumalavallatus",
+        "jumalagajätt",
+        "jumalaand"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "jumalaga",
+      "translations": []
+    }
+  ]
+}

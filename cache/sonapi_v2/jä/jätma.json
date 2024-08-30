@@ -1,0 +1,919 @@
+{
+  "requestedWord": "jätma",
+  "estonianWord": "jätma",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "35",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "jätan"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "jätad"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "jätab"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "jätame"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "jätate"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "jätavad"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "jäta"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "jäetakse"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "jäeta"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "jätsin"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "jätsid"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "jättis"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "jätsime"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "jätsite"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "jätsid"
+        },
+        {
+          "inflectionType": "35",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "jäeti"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "jätaksin"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "jätaksid"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "jätaks"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "jätaksime"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "jätaksite"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "jätaksid"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "jäetaks"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "jätnuksin"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "jätnuksid"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "jätnuks"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "jätnuksime"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "jätnuksite"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "jätnuksid"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "jäetuks"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "jätvat"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "jäetavat"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "jätnuvat"
+        },
+        {
+          "inflectionType": "35",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "jäetuvat"
+        },
+        {
+          "inflectionType": "35",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "jäta"
+        },
+        {
+          "inflectionType": "35",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "jätkem"
+        },
+        {
+          "inflectionType": "35",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "jätke"
+        },
+        {
+          "inflectionType": "35",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "jätku"
+        },
+        {
+          "inflectionType": "35",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "jäetagu"
+        },
+        {
+          "inflectionType": "35",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "jätma"
+        },
+        {
+          "inflectionType": "35",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "jätmata"
+        },
+        {
+          "inflectionType": "35",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "jätmas"
+        },
+        {
+          "inflectionType": "35",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "jätmast"
+        },
+        {
+          "inflectionType": "35",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "jätmaks"
+        },
+        {
+          "inflectionType": "35",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "jäetama"
+        },
+        {
+          "inflectionType": "35",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "jätta"
+        },
+        {
+          "inflectionType": "35",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "jättes"
+        },
+        {
+          "inflectionType": "35",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "jättev"
+        },
+        {
+          "inflectionType": "35",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "jäetav"
+        },
+        {
+          "inflectionType": "35",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "jätnud"
+        },
+        {
+          "inflectionType": "35",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "jätnud"
+        },
+        {
+          "inflectionType": "35",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "jäetud"
+        },
+        {
+          "inflectionType": "35",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "jäetud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingis kohas, seisundis või olukorras (edasi) olla laskma,mitte kaasa võtma, kuskile (ära) panema,kuskile unustama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Poiss jättis klotsid põrandale ja jooksis isale vastu.",
+            "Jätsin auto parkimismajja.",
+            "Jätsime lapsed koju ja läksime teatrisse.",
+            "Jätsin otsuse enda teada.",
+            "Keegi oli lahkudes ukse lahti jätnud.",
+            "Külalised jätsid oma riided esikusse.",
+            "Olen võtmed koju jätnud.",
+            "Jätsin vihmavarju trammi."
+          ],
+          "synonyms": [
+            "maha jätma",
+            "unustama,unestama,unetama",
+            "andma",
+            "panema",
+            "hoidma"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "laisser",
+                "weight": 1
+              },
+              {
+                "words": "oublier",
+                "weight": 0.7593
+              },
+              {
+                "words": "poser,mettre",
+                "weight": 0.465
+              },
+              {
+                "words": "garder",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "оставлять",
+                "weight": 1
+              },
+              {
+                "words": "оставить",
+                "weight": 1
+              },
+              {
+                "words": "оставлять,оставить",
+                "weight": 0.7
+              },
+              {
+                "words": "забыть,забывать,запамятовать,позабыть",
+                "weight": 0.7593
+              },
+              {
+                "words": "отдать,сдавать,сдать,отдавать",
+                "weight": 0.6705
+              },
+              {
+                "words": "класть,положить,ставить,поставить",
+                "weight": 0.465
+              },
+              {
+                "words": "хранить,держать,содержать",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "залишати",
+                "weight": 1
+              },
+              {
+                "words": "залишити",
+                "weight": 1
+              },
+              {
+                "words": "лишати",
+                "weight": 1
+              },
+              {
+                "words": "лишити",
+                "weight": 1
+              },
+              {
+                "words": "лишати,лишити,залишати,залишити",
+                "weight": 0.7
+              },
+              {
+                "words": "забути,забувати",
+                "weight": 0.7593
+              },
+              {
+                "words": "ставити,покласти,класти,поставити",
+                "weight": 0.465
+              },
+              {
+                "words": "берегти,утримувати,тримати",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "forget",
+                "weight": 0.7593
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingiks otstarbeks, kellegi või millegi jaoks või teatud ajani kõrvale panema või varuma",
+          "partOfSpeech": [],
+          "examples": [
+            "Kõige suurema koogitüki jätsin vennale.",
+            "Punased õunad jäeti jõuluks.",
+            "Jätan endale õiguse lepingust loobuda.",
+            "Jätame selle vestluse homse peale."
+          ],
+          "synonyms": [
+            "hoidma",
+            "varuma",
+            "varuks hoidma",
+            "tallele panema",
+            "lükkama",
+            "üle jätma",
+            "alles jätma,alles hoidma"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "соблюсти,соблюдать,сохранять,сохранить,сберечь,сберегать,поберечь,беречь,хранить",
+                "weight": 0.7
+              },
+              {
+                "words": "заготовлять,заготовить,заготавливать,запасать,запасти,припасать,припасти",
+                "weight": 0.7
+              },
+              {
+                "words": "отодвигать,отодвинуть,откладывать,отложить,переносить,перенести,передвигать,передвинуть",
+                "weight": 0.7
+              },
+              {
+                "words": "сберегать в целости,сберечь в целости,сберечь в сохранности,сохранять,сберегать в сохранности,сохранить",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "garder,conserver",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зберегти,зберігати",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "keep",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingisuguseks muutma või muutuda laskma, mingit olukorda või seisundit tekitama, tulemust või tagajärge andma,mingit olukorda tekitama,millegi tekkimist põhjustama",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Poiss jättis ülesande lahendamata.",
+            "Seltskond jättis halva mulje.",
+            "Torm jättis tuhanded kodud elektrita.",
+            "Film ei jäta ruumi kujutlusvõimele.",
+            "Vein jättis lipsule pleki.",
+            "Palun jäta mind üksi.",
+            "Ema jättis lapsed koju õppima.",
+            "Jätsin kinno minemata."
+          ],
+          "synonyms": [
+            "andma",
+            "looma",
+            "põhjustama,sigitama,sünnitama,tekitama"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "laisser",
+                "weight": 1
+              },
+              {
+                "words": "donner",
+                "weight": 0.6705
+              },
+              {
+                "words": "créer",
+                "weight": 0.7
+              },
+              {
+                "words": "causer,provoquer",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "оставлять",
+                "weight": 1
+              },
+              {
+                "words": "оставить",
+                "weight": 1
+              },
+              {
+                "words": "давать,дать,подавать,подать",
+                "weight": 0.6705
+              },
+              {
+                "words": "основывать,основать,создавать,создать,формировать,сформировать,образовывать,образовать,созидать",
+                "weight": 0.7
+              },
+              {
+                "words": "возбуждать,создавать,творить,служить поводом,порождать,вызывать,вызвать,служить причиной,обуславливать,обусловить,зарождать,зародить,породить,влечь за собой,обусловливать,причинять,причинить,являться причиной,явиться причиной,повлечь за собой,рождать",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "залишати",
+                "weight": 1
+              },
+              {
+                "words": "залишити",
+                "weight": 1
+              },
+              {
+                "words": "лишати",
+                "weight": 1
+              },
+              {
+                "words": "лишити",
+                "weight": 1
+              },
+              {
+                "words": "давати,дати",
+                "weight": 0.6705
+              },
+              {
+                "words": "створювати,створити,творити",
+                "weight": 0.7
+              },
+              {
+                "words": "спричиняти,спричинити,викликати,викликати,створювати,створити,призводити,призвести,завдавати,завдати",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(lahkudes) loovutama, (üle või edasi) andma,kellelegi midagi andma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Jäta mulle oma meiliaadress.",
+            "Jätsin avalduse sekretäri kätte.",
+            "Seltskond jättis kelnerile priskelt jootraha.",
+            "Jäta mulle oma meiliaadress."
+          ],
+          "synonyms": [
+            "andma",
+            "loovutama,ära andma",
+            "üle andma",
+            "kätte andma"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "laisser",
+                "weight": 1
+              },
+              {
+                "words": "donner",
+                "weight": 0.6705
+              },
+              {
+                "words": "donner",
+                "weight": 0.75
+              },
+              {
+                "words": "remettre,transmettre",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "оставить",
+                "weight": 1
+              },
+              {
+                "words": "оставлять",
+                "weight": 1
+              },
+              {
+                "words": "давать,дать,подавать,подать",
+                "weight": 0.6705
+              },
+              {
+                "words": "уступать,отдавать,уступить,отдать,сдавать,сдать,передавать,передать",
+                "weight": 0.75
+              },
+              {
+                "words": "преподносить,вручать,вручить,передавать,передать",
+                "weight": 0.7
+              },
+              {
+                "words": "вручить",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "залишати",
+                "weight": 1
+              },
+              {
+                "words": "залишити",
+                "weight": 1
+              },
+              {
+                "words": "лишати",
+                "weight": 1
+              },
+              {
+                "words": "лишити",
+                "weight": 1
+              },
+              {
+                "words": "давати,дати",
+                "weight": 0.6705
+              },
+              {
+                "words": "віддавати,віддати,здавати,здати,поступатися,поступитися",
+                "weight": 0.75
+              },
+              {
+                "words": "передавати,передати,вручати,вручити",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "lõpetama, lakkama, järele jätma,hülgama, maha jätma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Naine jättis pere ja kolis maailma otsa.",
+            "Inimesed pidid sõja tõttu oma kodud jätma ja võõrsile pagema.",
+            "Jäta see loll jutt!",
+            "Tema juba enne ei jäta, kui töö tehtud."
+          ],
+          "synonyms": [
+            "järele jätma",
+            "maha jätma",
+            "katki jätma,sinnapaika jätma",
+            "pooleli jätma",
+            "lõpetama",
+            "ära lõpetama",
+            "katkestama",
+            "kaotama",
+            "reetma",
+            "kinkima",
+            "hülgama",
+            "loobuma",
+            "kaotama",
+            "viskama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "оставлять",
+                "weight": 1
+              },
+              {
+                "words": "оставить",
+                "weight": 1
+              },
+              {
+                "words": "бросать",
+                "weight": 1
+              },
+              {
+                "words": "бросить",
+                "weight": 1
+              },
+              {
+                "words": "покидать",
+                "weight": 1
+              },
+              {
+                "words": "покинуть",
+                "weight": 1
+              },
+              {
+                "words": "переставать",
+                "weight": 1
+              },
+              {
+                "words": "перестать",
+                "weight": 1
+              },
+              {
+                "words": "прекращать",
+                "weight": 1
+              },
+              {
+                "words": "прекратить",
+                "weight": 1
+              },
+              {
+                "words": "оставлять,оставить,перестать,прекратить,прекращать,переставать,бросать,бросить",
+                "weight": 0.9
+              },
+              {
+                "words": "бросать,бросить,покидать,перестать,переставать,покинуть,оставлять,оставить",
+                "weight": 0.7
+              },
+              {
+                "words": "бросать,прекращать,бросить,прекратить",
+                "weight": 0.7
+              },
+              {
+                "words": "отложить,откладывать,прервать,прерывать",
+                "weight": 0.7
+              },
+              {
+                "words": "прекратить,прерывать,прервать,кончить,кончать,прекращать",
+                "weight": 0.9
+              },
+              {
+                "words": "прервать,прерывать,разрывать,приостанавливать,приостановить,разорвать,порывать,порвать",
+                "weight": 0.697
+              },
+              {
+                "words": "упразднять,отменять,отменить,уничтожать,уничтожить,ликвидировать,упразднить",
+                "weight": 0.9
+              },
+              {
+                "words": "предавать,предать",
+                "weight": 0.75
+              },
+              {
+                "words": "оставлять,оставить,отринуть,покинуть,покидать,бросить,бросать,отвергнуть,отвергать",
+                "weight": 0.511
+              },
+              {
+                "words": "терять,задевать,утерять,потерять",
+                "weight": 0.9
+              },
+              {
+                "words": "выбрасывать,выбросить",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "arrêter,cesser",
+                "weight": 0.9
+              },
+              {
+                "words": "interrompre",
+                "weight": 0.697
+              },
+              {
+                "words": "égarer,perdre",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "припиняти,припинити,перестати,переставати",
+                "weight": 0.9
+              },
+              {
+                "words": "кинути,кидати,покинути,залишати,покидати,полишити,полишати,лишити,лишати,залишити",
+                "weight": 0.7
+              },
+              {
+                "words": "перервати,уривати,урвати,припиняти,припинити,перебити,перебивати,переривати",
+                "weight": 0.697
+              },
+              {
+                "words": "загубити,губити",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "tekitama",
+        "üle jätma",
+        "üksi jätma",
+        "välja jätma",
+        "vahele jätma",
+        "sinnapaika jätma",
+        "rahule jätma",
+        "pooleli jätma",
+        "muljet jätma",
+        "kõrvale jätma",
+        "katki jätma",
+        "jälge jätma",
+        "ilma jätma",
+        "hooletusse jätma",
+        "alles jätma",
+        "maha jätma",
+        "looma",
+        "varuks hoidma",
+        "tallele panema",
+        "lükkama",
+        "varuma",
+        "üle andma",
+        "kätte andma",
+        "ära lõpetama",
+        "ära jätma",
+        "hoidma",
+        "lõpetama",
+        "unustama",
+        "kaotama",
+        "reetma",
+        "ära andma",
+        "annulleerima",
+        "katkestama",
+        "andma",
+        "hülgama",
+        "panema",
+        "järele jätma",
+        "tühistama",
+        "ära muutma",
+        "jumalaga jätma",
+        "likvideerima",
+        "hüvasti",
+        "ära",
+        "ära",
+        "seiskama",
+        "puuduma",
+        "kolima",
+        "ootama",
+        "peitma",
+        "võtma",
+        "varjuma",
+        "tulema",
+        "tulema",
+        "tulema",
+        "eksima",
+        "jääma",
+        "tegema",
+        "lahkuma",
+        "anduma"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "jätma",
+      "translations": []
+    }
+  ]
+}

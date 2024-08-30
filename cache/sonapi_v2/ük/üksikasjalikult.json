@@ -1,0 +1,124 @@
+{
+  "requestedWord": "üksikasjalikult",
+  "estonianWord": "üksikasjalikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "üksikasjalikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "väga täpselt, põhjalikult, peensusteni, üksikasjades",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Õpetaja seletas ülesannet üksikasjalikult."
+          ],
+          "synonyms": [
+            "detailselt",
+            "üksikasjaliselt",
+            "ammendavalt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "en détail",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "подробно",
+                "weight": 1
+              },
+              {
+                "words": "основательно",
+                "weight": 1
+              },
+              {
+                "words": "детально",
+                "weight": 1
+              },
+              {
+                "words": "обстоятельно",
+                "weight": 1
+              },
+              {
+                "words": "исчерпывающе",
+                "weight": 1
+              },
+              {
+                "words": "досконально",
+                "weight": 1
+              },
+              {
+                "words": "исчерпывающе,подробно,всесторонне,полностью",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ammendavalt",
+        "üksikasjaliselt",
+        "risti-rästi",
+        "sügavuti",
+        "risti ja põiki",
+        "peenelt",
+        "risti-põiki",
+        "pulk-pulgalt",
+        "radikaalselt",
+        "risti ja rästi",
+        "näpp-näpult",
+        "süviti",
+        "pulkhaaval",
+        "kardinaalselt",
+        "detailselt",
+        "üksipulgi",
+        "täht-tähelt",
+        "põhjalikult",
+        "igakülgselt",
+        "punkt-punktilt",
+        "sügavalt",
+        "süvitsi",
+        "sügavasti",
+        "rida-realt",
+        "punkthaaval",
+        "asjalikult",
+        "üksikasjalikumalt",
+        "üksikasjalik",
+        "üksikasjaline",
+        "üksikasjalikum",
+        "jalg-jalalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "üksikasjalikult",
+      "translations": [
+        "circumstantially",
+        "elaborately",
+        "in detail",
+        "meticulously",
+        "painstakingly",
+        "scrupulously"
+      ]
+    }
+  ]
+}

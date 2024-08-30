@@ -1,0 +1,165 @@
+{
+  "requestedWord": "eespool",
+  "estonianWord": "eespool",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eespool"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(kaugemal) ees, esiküljel või esiosas,(kaugemal) ees",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Käis meist paar sammu eespool.",
+            "Mart kõndis minust paar sammu eespool.",
+            "Mis hoone seal eespool paistab?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "devant",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "впереди",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "попереду",
+                "weight": 1
+              },
+              {
+                "words": "спереду",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tekstis, tegevuses) eelnevalt, varem, enne teatavat asja,(tekstis) varem",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Sellest oli eespool juttu.",
+            "Ohu märgid liiguvad õhus eespool tegusid, eespool sõnu ..",
+            "Sellest oli juba eespool juttu."
+          ],
+          "synonyms": [
+            "eelpool",
+            "eel",
+            "ülal,ülalpool,ülevalpool"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "précédemment",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "выше",
+                "weight": 1
+              },
+              {
+                "words": "ранее",
+                "weight": 1
+              },
+              {
+                "words": "выше,ранее",
+                "weight": 0.511
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вище",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ajaliselt lähemal või kaugemal (ka tulevikus)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Loodan, et eespool ootavad mind paremad ajad."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "ees",
+        "ülespoole",
+        "eest",
+        "ülal",
+        "eesotsas",
+        "ettepoole",
+        "eelesitatud",
+        "eestpoolt",
+        "ülevalpool",
+        "plusspool",
+        "seespool",
+        "ülalpool",
+        "kuspool",
+        "allpool",
+        "meespool",
+        "tagapool",
+        "pealpool",
+        "eespoolne",
+        "eelpool"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "eespool",
+      "translations": [
+        "afore",
+        "thereinbefore"
+      ]
+    }
+  ]
+}

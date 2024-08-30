@@ -1,0 +1,88 @@
+{
+  "requestedWord": "mujalt",
+  "estonianWord": "mujalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "mujalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teisest, muust kohast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ehk üritad mujalt abi leida ?",
+            "Taksojuht ei tunne tänavaid, sest on mujalt tulnud.",
+            "Festivalil oli esinejaid nii Eestist kui ka mujalt maailmast.",
+            "Teda peab otsima kuskilt mujalt, mitte siit."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "d'ailleurs",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "из других мест",
+                "weight": 1
+              },
+              {
+                "words": "из других краёв",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з іншого місця",
+                "weight": 1
+              },
+              {
+                "words": "з інших країв",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kaugemalt",
+        "väljastpoolt",
+        "sealt",
+        "kõikjalt",
+        "siitmaalt",
+        "usjalt",
+        "teadjalt",
+        "siit-sealt",
+        "kusagilt",
+        "pärit",
+        "siitmailt",
+        "sealtpoolt",
+        "kuskilt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "mujalt",
+      "translations": []
+    }
+  ]
+}

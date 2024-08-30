@@ -1,0 +1,781 @@
+{
+  "requestedWord": "vaikne",
+  "estonianWord": "vaikne",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen",
+        null
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "2",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "vaikne"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "vaikse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "vaikset"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "vaiksesse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "vaikses"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "vaiksest"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "vaiksele"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "vaiksel"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "vaikselt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "vaikseks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "vaikseni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "vaiksena"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "vaikseta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "vaiksega"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "vaiksed"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "vaiksete"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "vaikseid"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "vaiksetesse,vaikseisse"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "vaiksetes,vaikseis"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "vaiksetest,vaikseist"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "vaiksetele,vaikseile"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "vaiksetel,vaikseil"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "vaiksetelt,vaikseilt"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "vaikseteks,vaikseiks"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "vaikseteni"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "vaiksetena"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "vaikseteta"
+        },
+        {
+          "inflectionType": "2",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "vaiksetega"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "Vaikne"
+        },
+        {
+          "inflectionType": null,
+          "code": "??",
+          "morphValue": "määramatu vorm",
+          "value": "Vaikse"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(hääle, helide kohta:) nõrgalt või vähe kuulda olev,selline, mida on vähe kuulda",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Poiss palus vaiksel häälel vabandust.",
+            "Kostis vaikne krabin.",
+            "Pane muusika vaiksemaks.",
+            "Elutoast kostis vaikset muusikat."
+          ],
+          "synonyms": [
+            "tasane",
+            "vagune,vagus",
+            "vaik",
+            "vagane",
+            "pehme"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "doux",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "тихий",
+                "weight": 1
+              },
+              {
+                "words": "негромкий",
+                "weight": 1
+              },
+              {
+                "words": "слабый",
+                "weight": 1
+              },
+              {
+                "words": "заглушённый",
+                "weight": 1
+              },
+              {
+                "words": "приглушённый",
+                "weight": 1
+              },
+              {
+                "words": "неслышный",
+                "weight": 1
+              },
+              {
+                "words": "бесшумный",
+                "weight": 1
+              },
+              {
+                "words": "смиренный,тихий,смирный,спокойный,безропотный,кроткий",
+                "weight": 0.9
+              },
+              {
+                "words": "тихий,спокойный",
+                "weight": 0.9
+              },
+              {
+                "words": "мягкий,нежный",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тихий",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ümbritseva keskkonna kohta:) hääletu või häälte poolest vaene,selline, et helisid pole või neid on väga vähe",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Lennukis oli väga vaikne.",
+            "Majas oli vaikne."
+          ],
+          "synonyms": [
+            "hääletu",
+            "helitu",
+            "müratu,müravaba",
+            "käratu",
+            "haudvaikne",
+            "hiirvaikne",
+            "surmvaikne",
+            "hääleta",
+            "sõnatu"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "silencieux",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "тихо",
+                "weight": 1
+              },
+              {
+                "words": "безмолвный,молчаливый,безголосый,безгласный,тихий,беззвучный",
+                "weight": 0.9
+              },
+              {
+                "words": "беззвучный",
+                "weight": 0.9
+              },
+              {
+                "words": "бесшумный,беззвучный",
+                "weight": 0.478
+              },
+              {
+                "words": "бесшумный",
+                "weight": 0.9
+              },
+              {
+                "words": "абсолютно безмолвный,замерший,абсолютно тихий,совершенно тихий,совсем тихий",
+                "weight": 0.9
+              },
+              {
+                "words": "очень тихий,затихший,притихший",
+                "weight": 0.8163
+              },
+              {
+                "words": "мертвенно тихо",
+                "weight": 0.9
+              },
+              {
+                "words": "безмолвный,молчаливый,немой,бессловесный",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тихо",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "loomult, laadilt rahulik, leebe, talitsetud,vähese jutuga või tegevusega,rahulik, vähese jutuga või tegevusega",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Naine on tal vaikse loomuga.",
+            "Nad elavad vaikses väikelinnas.",
+            "Ta on vaikne ja tagasihoidlik mees.",
+            "Maal on vaiksem elu kui linnas."
+          ],
+          "synonyms": [
+            "tasane",
+            "vagur",
+            "vaikseloomuline",
+            "talitsetud",
+            "kidakeelne,napisõnaline",
+            "vaikiv",
+            "tumm",
+            "vähesõnaline",
+            "leebe",
+            "sõnavaene,sõnakehv,sõnaaher,sõnanapp",
+            "taltsas",
+            "vagane",
+            "malbe",
+            "kinnine",
+            "rahulik",
+            "rahumeelne",
+            "surnud"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "calme",
+                "weight": 1
+              },
+              {
+                "words": "calme,tranquille",
+                "weight": 0.7967
+              }
+            ],
+            "rus": [
+              {
+                "words": "тихий",
+                "weight": 1
+              },
+              {
+                "words": "спокойный",
+                "weight": 1
+              },
+              {
+                "words": "смирный",
+                "weight": 1
+              },
+              {
+                "words": "умиротворённый",
+                "weight": 1
+              },
+              {
+                "words": "молчаливый",
+                "weight": 1
+              },
+              {
+                "words": "спокойный,кроткий,смирный,нетребовательный,тихий,неприхотливый,невзыскательный,покорный",
+                "weight": 0.9
+              },
+              {
+                "words": "мирный,тихий,голубиный,смиренный,кроткий,безропотный,спокойный,овечий,смирный",
+                "weight": 0.9
+              },
+              {
+                "words": "тихонравный,спокойный,тихий",
+                "weight": 0.9
+              },
+              {
+                "words": "немногословный,неразговорчивый,косноязычный,скупой на слова,немногоречивый,лаконичный,несловоохотливый",
+                "weight": 0.9
+              },
+              {
+                "words": "безмолвный,бессловесный,немой,молчаливый",
+                "weight": 0.9
+              },
+              {
+                "words": "малоречивый,немногословный,неразговорчивый",
+                "weight": 0.9
+              },
+              {
+                "words": "кроткий,нежный,лёгкий,покладистый,мягкий,снисходительный,скромный,незлобивый,ласковый",
+                "weight": 0.9
+              },
+              {
+                "words": "несловоохотливый,молчаливый,немногословный,малоразговорчивый,неразговорчивый,малоречивый,скупой на слова",
+                "weight": 0.9
+              },
+              {
+                "words": "смиренный,кроткий,безропотный,послушный,уступчивый,покладистый,покорный",
+                "weight": 0.9
+              },
+              {
+                "words": "кроткий,покорный,смирный",
+                "weight": 0.9
+              },
+              {
+                "words": "скромный,кроткий,тихий,мягкий,незлобивый,невзыскательный",
+                "weight": 0.9
+              },
+              {
+                "words": "замкнутый,скрытный",
+                "weight": 0.7
+              },
+              {
+                "words": "уравновешенный,мирный,смирный,спокойный,кроткий",
+                "weight": 0.7967
+              },
+              {
+                "words": "мирный,кроткий,смирный",
+                "weight": 0.7
+              },
+              {
+                "words": "мёртвый,омертвелый",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "тихий",
+                "weight": 1
+              },
+              {
+                "words": "спокійний",
+                "weight": 1
+              },
+              {
+                "words": "спокійний",
+                "weight": 0.7967
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ilma, looduse kohta:) tuuletu, seetõttu rahulik",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Täna on vaikne ilm.",
+            "Meri on vaikne."
+          ],
+          "synonyms": [
+            "tuuletu,tuulevaikne",
+            "peegelvaikne",
+            "mahe,leebe,pehme",
+            "tüüne,tüün",
+            "sumbe",
+            "taltsas",
+            "malbe",
+            "idülliline",
+            "rahulik"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "тихий",
+                "weight": 1
+              },
+              {
+                "words": "спокойный",
+                "weight": 1
+              },
+              {
+                "words": "безветренный",
+                "weight": 1
+              },
+              {
+                "words": "штилевой",
+                "weight": 1
+              },
+              {
+                "words": "безветренный,штилевой",
+                "weight": 0.9
+              },
+              {
+                "words": "зеркально неподвижный",
+                "weight": 0.9
+              },
+              {
+                "words": "мягкий,умеренно-тёплый",
+                "weight": 0.9
+              },
+              {
+                "words": "спокойный,штилевой,тихий,смирный,безмятежный",
+                "weight": 0.9
+              },
+              {
+                "words": "душный,затхлый,спёртый",
+                "weight": 0.9
+              },
+              {
+                "words": "тихий,спокойный,мирный,покойный",
+                "weight": 0.9
+              },
+              {
+                "words": "идиллический,идилличный",
+                "weight": 0.7
+              },
+              {
+                "words": "спокойный",
+                "weight": 0.7967
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(tunnete, nähtuste, seisundite kohta:) tagasi hoitud, mitte intensiivne, mitte selgelt väljendatud või väljendunud",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Tekkis vaikne lootus, et ..",
+            "Haige lapse vaikne areng tegi palju rõõmu.",
+            "Tüdruk viibis mingis vaikses uneluses.",
+            "Vaikne iiveldus pööras südame all."
+          ],
+          "synonyms": [
+            "õrn",
+            "tagasihoidlik",
+            "rahulik",
+            "tillukene,pisikene,pisuke,pisukene,tilluke,pisike",
+            "tuim",
+            "vaga",
+            "väike"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "тихий",
+                "weight": 1
+              },
+              {
+                "words": "безмолвный",
+                "weight": 1
+              },
+              {
+                "words": "молчаливый",
+                "weight": 1
+              },
+              {
+                "words": "немой",
+                "weight": 1
+              },
+              {
+                "words": "пастельный,бархатистый,бархатный,мягкий,нежный",
+                "weight": 0.7
+              },
+              {
+                "words": "сдержанный,скромный",
+                "weight": 0.7
+              },
+              {
+                "words": "мягкий,гармоничный,спокойный",
+                "weight": 0.7967
+              },
+              {
+                "words": "маленький,небольшой",
+                "weight": 0.7
+              },
+              {
+                "words": "глухой,тупой,приглушённый",
+                "weight": 0.7
+              },
+              {
+                "words": "кроткий,спокойный,тихий,смиренный",
+                "weight": 0.9
+              },
+              {
+                "words": "маленький,незначительный",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "modeste",
+                "weight": 0.7
+              },
+              {
+                "words": "faible,petit",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "скромний",
+                "weight": 0.7
+              },
+              {
+                "words": "незначний,маленький",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "small,little",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "surnud",
+        "tuim",
+        "rahumeelne",
+        "idülliline",
+        "kinnine",
+        "hääleta",
+        "sumbunud",
+        "pisike",
+        "õrn",
+        "vaikiv",
+        "talitsetud",
+        "tagasihoidlik",
+        "jutukehv",
+        "sõnatu",
+        "loid",
+        "kõneaher",
+        "taltsas",
+        "vagus",
+        "pikatoimeline",
+        "lauge",
+        "tasane",
+        "haudvaikne",
+        "kidakeelne",
+        "kõnekehv",
+        "napisõnaline",
+        "allaheitlik",
+        "tumm",
+        "aeglane",
+        "vagane",
+        "venib nagu härja ila",
+        "tuuletu",
+        "helitu",
+        "kidane",
+        "peegelvaikne",
+        "malbe",
+        "tüün",
+        "sõnanapp",
+        "vagur",
+        "vaikseloomuline",
+        "vähesõnaline",
+        "flegmaatiline",
+        "plankvaikne",
+        "hiirvaikne",
+        "surmaeglane",
+        "pehme",
+        "sõnaaher",
+        "vaga",
+        "teosammuline",
+        "tüüne",
+        "leebe",
+        "hääletu",
+        "mahe",
+        "pikaloomuline",
+        "sõnavaene",
+        "pika vinnaga",
+        "surmvaikne",
+        "siidine",
+        "sõnakehv",
+        "vaane",
+        "sumbe",
+        "käratu",
+        "vagune",
+        "pikaldane",
+        "rahulik",
+        "vaikselt",
+        "tasaselt",
+        "tasa",
+        "rahulikult",
+        "vaguralt",
+        "vagusalt",
+        "tuulevaikne",
+        "tubane",
+        "mõtlik",
+        "väike",
+        "ihulik",
+        "ilus",
+        "müratu",
+        "kõrvulukustav",
+        "vaikus",
+        "päikseline",
+        "sõbralik",
+        "päikeseline",
+        "vaiknema",
+        "kärekülm",
+        "varjuline",
+        "hubane",
+        "unine",
+        "hämar",
+        "tumm",
+        "mahe",
+        "lärmakas",
+        "pagiline",
+        "vaiksem"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vaikne",
+      "translations": [
+        "mousy",
+        "quiescent",
+        "quiet",
+        "silent",
+        "still"
+      ]
+    }
+  ]
+}

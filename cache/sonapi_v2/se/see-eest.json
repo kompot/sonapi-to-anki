@@ -1,0 +1,134 @@
+{
+  "requestedWord": "see-eest",
+  "estonianWord": "see-eest",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "see-eest"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nagu vastukaaluks, tasakaalustuseks, hüvituseks millelegi eespool mainitule,vastupidi eespool mainitud asjaolule",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tuba oli väike, aga see-eest laitmatult korras.",
+            "Maitse pole väga hea, seeeest on toime väga tõhus.",
+            "Maitse pole väga hea, seeeest on toime väga tõhus."
+          ],
+          "synonyms": [
+            "seevastu",
+            "selle-eest",
+            "sellevastu"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "par contre",
+                "weight": 1
+              },
+              {
+                "words": "en revanche",
+                "weight": 1
+              },
+              {
+                "words": "au contraire",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "зато",
+                "weight": 1
+              },
+              {
+                "words": "напротив",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зате",
+                "weight": 1
+              },
+              {
+                "words": "проте",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "aga",
+        "aga",
+        "jälle",
+        "selle-eest",
+        "sellevastu",
+        "seevastu",
+        "ent",
+        "jällegi",
+        "kuid",
+        "sellepärast",
+        "kuigi",
+        "ehkki",
+        "siiski",
+        "vähe",
+        "vähe",
+        "seal",
+        "muidugi",
+        "üllatavalt",
+        "sellegipoolest",
+        "tüütult",
+        "seega",
+        "igavavõitu",
+        "kahjuks",
+        "isegi",
+        "meeletult",
+        "pealegi",
+        "veel",
+        "küll",
+        "küll",
+        "ikka",
+        "üsna",
+        "enamasti",
+        "palju",
+        "palju",
+        "üpris",
+        "tegelikult",
+        "päris",
+        "õnneks",
+        "endiselt",
+        "sest",
+        "kuna",
+        "kuna",
+        "paraku",
+        "täitsa",
+        "täitsa",
+        "väga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "see-eest",
+      "translations": [
+        "but then"
+      ]
+    }
+  ]
+}

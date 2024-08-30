@@ -1,0 +1,122 @@
+{
+  "requestedWord": "heaks",
+  "estonianWord": "heaks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "heaks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi, millegi kasuks või hüvanguks,kellegi või millegi aitamiseks, kasuks või huvides",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Oma laste heaks oli ta kõigeks valmis.",
+            "Korjandus maavärinas kannatadasaanute heaks.",
+            "Oma laste heaks on ta kõigeks valmis."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "pour",
+                "weight": 1
+              },
+              {
+                "words": "en faveur de",
+                "weight": 1
+              },
+              {
+                "words": "au profit de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "на благо",
+                "weight": 1
+              },
+              {
+                "words": "для",
+                "weight": 1
+              },
+              {
+                "words": "ради",
+                "weight": 1
+              },
+              {
+                "words": "в пользу",
+                "weight": 1
+              },
+              {
+                "words": "на",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на благо",
+                "weight": 1
+              },
+              {
+                "words": "для",
+                "weight": 1
+              },
+              {
+                "words": "заради",
+                "weight": 1
+              },
+              {
+                "words": "ради",
+                "weight": 1
+              },
+              {
+                "words": "задля",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "huvides",
+        "kasuks",
+        "jaoks",
+        "tasa tegema",
+        "lunastama",
+        "tarvis",
+        "pärast",
+        "heastama",
+        "hüvitama",
+        "korvama",
+        "kiitma",
+        "kiit",
+        "kiita"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "heaks",
+      "translations": [
+        "on behalf of",
+        "pro bono"
+      ]
+    }
+  ]
+}

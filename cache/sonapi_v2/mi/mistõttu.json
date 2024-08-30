@@ -1,0 +1,162 @@
+{
+  "requestedWord": "mistõttu",
+  "estonianWord": "mistõttu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "mistõttu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mille pärast, mille tõttu,selle tõttu, seepärast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Uuel aastal tõuseb alkoholiaktsiis, mistõttu vägijoogid kallinevad.",
+            "Jäin haigeks, mistõttu ei saanud koosolekul osaleda."
+          ],
+          "synonyms": [
+            "miska",
+            "misläbi",
+            "seepärast,seetõttu,sellepärast,selletõttu,selle pärast",
+            "sestap",
+            "seeläbi",
+            "tollepärast,toopärast"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "c'est pourquoi",
+                "weight": 1
+              },
+              {
+                "words": "c'est la raison pour laquelle",
+                "weight": 1
+              },
+              {
+                "words": "c'est pourquoi,c'est pour ça que,c'est pour cela que",
+                "weight": 0.8403
+              },
+              {
+                "words": "ainsi",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "отчего",
+                "weight": 1
+              },
+              {
+                "words": "почему",
+                "weight": 1
+              },
+              {
+                "words": "из-за чего",
+                "weight": 1
+              },
+              {
+                "words": "вследствие чего",
+                "weight": 1
+              },
+              {
+                "words": "почему,отчего,вследствие чего",
+                "weight": 0.9
+              },
+              {
+                "words": "потому,из-за того,вследствие того,затем,поэтому,оттого,посему",
+                "weight": 0.8403
+              },
+              {
+                "words": "оттого-то,поэтому и,оттого и,поэтому-то",
+                "weight": 0.7617
+              },
+              {
+                "words": "поэтому,оттого",
+                "weight": 0.9
+              },
+              {
+                "words": "из-за того,поэтому,оттого,потому",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "чому",
+                "weight": 1
+              },
+              {
+                "words": "чого",
+                "weight": 1
+              },
+              {
+                "words": "через що",
+                "weight": 1
+              },
+              {
+                "words": "внаслідок чого",
+                "weight": 1
+              },
+              {
+                "words": "тому,через те,того",
+                "weight": 0.8403
+              },
+              {
+                "words": "через те,того,тому",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "misläbi",
+        "seetõttu",
+        "seepärast",
+        "sellepärast",
+        "seekaudu",
+        "sestap",
+        "seeläbi",
+        "toopärast",
+        "mispärast",
+        "selletõttu",
+        "miks",
+        "ning",
+        "aga",
+        "aga",
+        "kuigi",
+        "sest",
+        "kuna",
+        "kuna",
+        "ehkki",
+        "ent",
+        "seega",
+        "kuid",
+        "miks"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "mistõttu",
+      "translations": [
+        "for what reason",
+        "on account of which"
+      ]
+    }
+  ]
+}

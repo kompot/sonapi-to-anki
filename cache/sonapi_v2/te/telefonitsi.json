@@ -1,0 +1,57 @@
+{
+  "requestedWord": "telefonitsi",
+  "estonianWord": "telefonitsi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "telefonitsi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "telefoni teel, telefoniga",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tüdruk olla poisile telefonitsi teatanud, et nüüd on lool lõpp."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "по телефону",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "meilitsi",
+        "telefonikõne",
+        "telefonitoru",
+        "telefonineiu",
+        "telefonihelin"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "telefonitsi",
+      "translations": []
+    }
+  ]
+}

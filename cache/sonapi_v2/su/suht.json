@@ -1,0 +1,199 @@
+{
+  "requestedWord": "suht",
+  "estonianWord": "suht",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "suht"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "suhteliselt, üsna",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Suht igav raamat."
+          ],
+          "synonyms": [
+            "suht-koht",
+            "suhtkoht",
+            "enam-vähem",
+            "küllalt,küllaltki,suhteliselt,võrdlemisi,üpris,üsna"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "довольно-таки",
+                "weight": 1
+              },
+              {
+                "words": "более-менее",
+                "weight": 1
+              },
+              {
+                "words": "почти,более или менее",
+                "weight": 0.505
+              },
+              {
+                "words": "довольно-таки,изрядно,достаточно,порядочно,весьма,порядком,сравнительно,в достаточной мере,в известной степени,в достаточной степени,в известной мере,довольно,относительно",
+                "weight": 0.565
+              }
+            ],
+            "fra": [
+              {
+                "words": "plus ou moins,à peu près,presque",
+                "weight": 0.505
+              },
+              {
+                "words": "assez,plutôt,relativement",
+                "weight": 0.565
+              }
+            ],
+            "ukr": [
+              {
+                "words": "більш-менш,майже",
+                "weight": 0.505
+              },
+              {
+                "words": "відносно,порівняно,досить,достатньо",
+                "weight": 0.565
+              }
+            ],
+            "eng": [
+              {
+                "words": "more or less",
+                "weight": 0.505
+              },
+              {
+                "words": "relatively",
+                "weight": 0.565
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "muidu",
+        "tõesti",
+        "siuke",
+        "küllaltki",
+        "kobe",
+        "natuke",
+        "natuke",
+        "mõttetult",
+        "suht-koht",
+        "suhteliselt",
+        "võrdlemisi",
+        "rõvedalt",
+        "ikka",
+        "üsna",
+        "küll",
+        "küll",
+        "ilgelt",
+        "jube",
+        "jube",
+        "üpris",
+        "tegelt",
+        "jubedalt",
+        "päris",
+        "vist",
+        "vist",
+        "enam-vähem",
+        "lihtsalt",
+        "täitsa",
+        "täitsa",
+        "okei",
+        "okei",
+        "väga",
+        "täiesti"
+      ]
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "suht-"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "selline, mis avaldub ainult seoses mõne teise nähtuse või objektiga, millestki sõltuv või tingitud,selline, mis avaldub ainult seoses mõne teise nähtuse või objektiga, sõltuv",
+          "partOfSpeech": [],
+          "examples": [
+            "Suhtviga.",
+            "Suhtarv.",
+            "Suhtniiskus.",
+            "Suhtjoon."
+          ],
+          "synonyms": [
+            "relatiivne",
+            "suhteline",
+            "subjektiivne"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "relatif",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "относительный",
+                "weight": 1
+              },
+              {
+                "words": "релятивный",
+                "weight": 1
+              },
+              {
+                "words": "условный",
+                "weight": 1
+              },
+              {
+                "words": "субъективный",
+                "weight": 0.7
+              },
+              {
+                "words": "зависимый",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "відносний",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": []
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "suht",
+      "translations": []
+    }
+  ]
+}

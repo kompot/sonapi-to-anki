@@ -1,0 +1,266 @@
+{
+  "requestedWord": "varjunimi",
+  "estonianWord": "varjunimi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "20",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "varjunimi"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "varjunime"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "varjunime"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "varjunimesse"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "varjunimes"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "varjunimest"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "varjunimele"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "varjunimel"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "varjunimelt"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "varjunimeks"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "varjunimeni"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "varjunimena"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "varjunimeta"
+        },
+        {
+          "inflectionType": "20",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "varjunimega"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "varjunimed"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "varjunimede"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "varjunimesid"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "varjunimedesse"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "varjunimedes"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "varjunimedest"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "varjunimedele"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "varjunimedel"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "varjunimedelt"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "varjunimedeks"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "varjunimedeni"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "varjunimedena"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "varjunimedeta"
+        },
+        {
+          "inflectionType": "20",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "varjunimedega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nimi, mida inimene kasutab oma kodanikunime asemel hrl loomingulises tegevuses, nt kirjanikunimi",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "pseudonüüm"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "псевдоним",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "nimi, mida kasutatakse agendi, luuraja vms isiku varjamiseks",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Agent varjunimega Šotlane."
+          ],
+          "synonyms": [
+            "salanimi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "кличка",
+                "weight": 1
+              },
+              {
+                "words": "прозвище",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "salanimi",
+        "pseudonüüm",
+        "valenimi",
+        "hüüdnimi",
+        "pilkenimi",
+        "kogunimi",
+        "kunstnikunimi",
+        "nimi",
+        "perenimi",
+        "kirjanikunimi",
+        "isikunimi",
+        "võõrnimi",
+        "liignimi",
+        "kodanikunimi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "varjunimi",
+      "translations": [
+        "code name",
+        "nom de guerre (< sõdurinimi)",
+        "nom de plume",
+        "pseudonym"
+      ]
+    }
+  ]
+}

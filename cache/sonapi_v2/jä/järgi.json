@@ -1,0 +1,380 @@
+{
+  "requestedWord": "järgi",
+  "estonianWord": "järgi",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "järgi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab asjaolule, millest lähtudes, millele vastavalt, mille kohaselt midagi toimub,millestki lähtudes, midagi järgides, millegi põhjal",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Poisile pandi vanaisa järgi nimeks Mihkel.",
+            "Tegutsesin tema nõuande järgi.",
+            "Taastasin teksti mälu järgi.",
+            "Orienteeruti kompassi järgi.",
+            "Tema jutu järgi olnud lugu hoopis teisiti.",
+            "Kohaliku aja järgi on kell kümme.",
+            "Küpsetasin koogi sinu retsepti järgi.",
+            "Bussid sõidavad uue plaani järgi.",
+            "Kohaliku aja järgi on kell kaks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "selon",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "по",
+                "weight": 1
+              },
+              {
+                "words": "согласно",
+                "weight": 1
+              },
+              {
+                "words": "соответственно",
+                "weight": 1
+              },
+              {
+                "words": "в соответствии с",
+                "weight": 1
+              },
+              {
+                "words": "сообразно",
+                "weight": 1
+              },
+              {
+                "words": "сообразно с",
+                "weight": 1
+              },
+              {
+                "words": "согласно с",
+                "weight": 1
+              },
+              {
+                "words": "соответственно с",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "згідно",
+                "weight": 1
+              },
+              {
+                "words": "відповідно",
+                "weight": 1
+              },
+              {
+                "words": "згідно з",
+                "weight": 1
+              },
+              {
+                "words": "відповідно до",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi alusel, millestki lähtudes",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Välimuse järgi otsustades võis arvata, et ta tegeleb kunstiga."
+          ],
+          "synonyms": [
+            "põhjal",
+            "põhiselt",
+            "järele",
+            "alusel,baasil",
+            "najal",
+            "kaupa,viisi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "sur la base de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "по",
+                "weight": 1
+              },
+              {
+                "words": "согласно",
+                "weight": 1
+              },
+              {
+                "words": "в соответствии",
+                "weight": 1
+              },
+              {
+                "words": "на основании",
+                "weight": 1
+              },
+              {
+                "words": "на основе",
+                "weight": 1
+              },
+              {
+                "words": "на базе",
+                "weight": 1
+              },
+              {
+                "words": "на базе,на основании,на основе",
+                "weight": 0.7
+              },
+              {
+                "words": "на основании",
+                "weight": 0.7
+              },
+              {
+                "words": "по",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на основі",
+                "weight": 1
+              },
+              {
+                "words": "на підставі",
+                "weight": 1
+              },
+              {
+                "words": "на підставі,на основі",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "vastavuses, millegagi sobivalt",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Mina tegin oma valiku südame järgi.",
+            "Ideaalselt mehe keha järgi õmmeldud kallist kangast frakk äratas kadedust.",
+            "Ega kõigi meele järgi ei jõuagi olla.",
+            "Kingad peaksid olema jala järgi."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "ajaliselt tagapool, järgnemas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Me jõuame talle varsti järgi."
+          ],
+          "synonyms": [
+            "järele"
+          ],
+          "translations": {}
+        },
+        {
+          "definition": "(endisest) säilinud, veel või endist viisi olemas,säilinud, (veel) olemas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ainult kamabatoonid on järgi, aga neid ma ei taha.",
+            "Jaana jättis supi järgi."
+          ],
+          "synonyms": [
+            "järel",
+            "alles"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "осталось",
+                "weight": 1
+              },
+              {
+                "words": "сохранилось",
+                "weight": 1
+              },
+              {
+                "words": "в сохранности",
+                "weight": 1
+              },
+              {
+                "words": "цел",
+                "weight": 1
+              },
+              {
+                "words": "цела",
+                "weight": 1
+              },
+              {
+                "words": "цело",
+                "weight": 1
+              },
+              {
+                "words": "целы",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "залишилося",
+                "weight": 1
+              },
+              {
+                "words": "лишилося",
+                "weight": 1
+              },
+              {
+                "words": "в цілості",
+                "weight": 1
+              },
+              {
+                "words": "збереглося",
+                "weight": 1
+              },
+              {
+                "words": "цілий",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab ainele või esemele, mille lõhn või lehk on kellegi või millegi küljes,osutab ainele või asjale, mille lõhn on kellegi või millegi küljes",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Jahedas, hämaras aidas lõhnas hallituse ja kopituse järgi.",
+            "Pumbad haisesid bensiini ja diisliõli järgi, ja mõnikord tundsin grillvorsti ja süütevedeliku lõhna .."
+          ],
+          "synonyms": [
+            "järele"
+          ],
+          "translations": {}
+        },
+        {
+          "definition": "osutab soovide, vajaduste sihtmärgile või huvipakkuvale asjaolule,osutab sellele, kes või mis pakub huvi",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Selle järgi on tungiv vajadus.",
+            "Kaua ma pean sinu järgi ootama?"
+          ],
+          "synonyms": [
+            "järele"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "о",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "про",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vastavalt",
+        "pidi",
+        "alal",
+        "najal",
+        "kohaselt",
+        "alles",
+        "mööda",
+        "põhjal",
+        "järel",
+        "järel",
+        "alusel",
+        "koheselt",
+        "sobivalt",
+        "järgimine",
+        "milline",
+        "ükski"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "järgi",
+      "translations": [
+        "according",
+        "according to",
+        "after",
+        "under"
+      ]
+    }
+  ]
+}

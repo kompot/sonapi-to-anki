@@ -1,0 +1,96 @@
+{
+  "requestedWord": "siia",
+  "estonianWord": "siia",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "siia"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "osutab lähemal, kõneleja ligidal olevale kohale, kuhu keegi või miski suundub,sellesse kohta (kus sa ise oled või millele sa viitad)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Jää siia seisma.",
+            "Siia ei käi ei buss ega rong.",
+            "Siia turiste ligi ei lasta.",
+            "Tule siia!",
+            "Jääme siia ööseks.",
+            "Võib-olla ma ei satu siia enam kunagi.",
+            "Pane see raamat siia laua peale."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "ici",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "сюда",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "сюди",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab eelnevast ilmnevale või kohe mainitavale olukorrale või (paratamatule) asjade seisule",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mis see siia puutub?",
+            "Siia pole midagi parata."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "siiasamma",
+        "juurde",
+        "sinnapoolegi",
+        "sinna",
+        "siiakanti",
+        "siiasamasse",
+        "siiapoole",
+        "kusagile"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "siia",
+      "translations": [
+        "here",
+        "hither"
+      ]
+    }
+  ]
+}

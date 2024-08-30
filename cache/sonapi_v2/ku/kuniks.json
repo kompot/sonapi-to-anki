@@ -1,0 +1,119 @@
+{
+  "requestedWord": "kuniks",
+  "estonianWord": "kuniks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kuniks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "niikaua kui, seni kui",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kuniks elu, nautige!",
+            "Oli vaja leida üürilised, kuniks korter müüdud saab."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "до тех пор, пока",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kui kaua, kui pikaks ajaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Paat peab esialgu vett, aga kuniks?"
+          ],
+          "synonyms": [
+            "kauaks"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "надолго ли",
+                "weight": 1
+              },
+              {
+                "words": "долго ли",
+                "weight": 1
+              },
+              {
+                "words": "надолго",
+                "weight": 1
+              },
+              {
+                "words": "до каких пор",
+                "weight": 1
+              },
+              {
+                "words": "до какого времени",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ajaliselt",
+        "saati",
+        "saadik",
+        "saadik",
+        "ruumiliselt",
+        "kauaks",
+        "seni kui",
+        "niikaua kui",
+        "kuni",
+        "niikaua",
+        "loodetavasti",
+        "natukeseks",
+        "ootama",
+        "kaua",
+        "niikauaks",
+        "veel",
+        "ikka",
+        "pikalt",
+        "jaks",
+        "ootele",
+        "seniks",
+        "aastake",
+        "korraks"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kuniks",
+      "translations": [
+        "inasmuch as",
+        "pending",
+        "whilst"
+      ]
+    }
+  ]
+}

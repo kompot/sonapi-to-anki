@@ -1,0 +1,328 @@
+{
+  "requestedWord": "kindlasti",
+  "estonianWord": "kindlasti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kindlasti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "täie kindlusega, ilma et mingit kahtlust tekiks,ilma et tekiks kahtlust",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Loodan Londoni kindlasti ära näha.",
+            "Selline küsitlus oleks kindlasti vajalik.",
+            "Koosolek toimub kindlasti.",
+            "Töö tuleb kindlasti täna valmis saada."
+          ],
+          "synonyms": [
+            "ilmtingimata",
+            "kahtlemata",
+            "kahtlematult",
+            "kindlalt",
+            "tingimata",
+            "igal juhul",
+            "kaheldamatult",
+            "raudselt,surmkindlalt",
+            "igastahes,igatahes,absoluutselt",
+            "niikuinii,nagunii",
+            "raudpolt,raudkindlalt",
+            "iga kell,iga naks",
+            "tõega,õigus,tõsilugu,tõsijutt,tõsi,tõesõna,tõesti,tõepoolest,tõejutt,ausalt,ausõna",
+            "maksku mis maksab,kramplikult,iga hinna eest"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "in any case",
+                "weight": 1
+              },
+              {
+                "words": "you bet,anyhow,anyway",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "incontestablement",
+                "weight": 1
+              },
+              {
+                "words": "indubitablement",
+                "weight": 1
+              },
+              {
+                "words": "sans aucun doute",
+                "weight": 1
+              },
+              {
+                "words": "sûrement",
+                "weight": 1
+              },
+              {
+                "words": "certainement",
+                "weight": 1
+              },
+              {
+                "words": "de toute façon",
+                "weight": 0.9
+              },
+              {
+                "words": "vraiment",
+                "weight": 0.59
+              }
+            ],
+            "rus": [
+              {
+                "words": "безусловно",
+                "weight": 1
+              },
+              {
+                "words": "непременно",
+                "weight": 1
+              },
+              {
+                "words": "несомненно",
+                "weight": 1
+              },
+              {
+                "words": "бесспорно",
+                "weight": 1
+              },
+              {
+                "words": "неоспоримо",
+                "weight": 1
+              },
+              {
+                "words": "обязательно",
+                "weight": 1
+              },
+              {
+                "words": "конечно",
+                "weight": 1
+              },
+              {
+                "words": "определённо",
+                "weight": 1
+              },
+              {
+                "words": "наверняка",
+                "weight": 1
+              },
+              {
+                "words": "факт",
+                "weight": 1
+              },
+              {
+                "words": "в любом случае",
+                "weight": 1
+              },
+              {
+                "words": "без сомнения",
+                "weight": 1
+              },
+              {
+                "words": "без всякого сомнения",
+                "weight": 1
+              },
+              {
+                "words": "что бы там ни было",
+                "weight": 1
+              },
+              {
+                "words": "во что бы то ни стало",
+                "weight": 1
+              },
+              {
+                "words": "факт,без всякого сомнения,железно,бесспорно,непременно,безусловно,точно,абсолютно,наверняка",
+                "weight": 0.9
+              },
+              {
+                "words": "конечно,как бы то ни было,во всяком случае,в любом случае",
+                "weight": 0.9
+              },
+              {
+                "words": "так или иначе,в любом случае,всё равно,так и так",
+                "weight": 0.9
+              },
+              {
+                "words": "с железной уверенностью,железно,твёрдо",
+                "weight": 0.9
+              },
+              {
+                "words": "в любое время,в любом случае,несомненно",
+                "weight": 0.9
+              },
+              {
+                "words": "честное слово,правда,право слово,право,воистину,вправду,всерьёз,подлинно,на самом деле,поистине,впрямь,серьёзно,действительно,в самом деле",
+                "weight": 0.59
+              },
+              {
+                "words": "хоть лопни,хоть тресни,хоть умри,настойчиво,упорно,чего бы это ни стоило,во что бы то ни стало,любой ценой",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "безумовно",
+                "weight": 1
+              },
+              {
+                "words": "безперечно",
+                "weight": 1
+              },
+              {
+                "words": "неодмінно",
+                "weight": 1
+              },
+              {
+                "words": "звичайно",
+                "weight": 1
+              },
+              {
+                "words": "обовʼязково",
+                "weight": 1
+              },
+              {
+                "words": "конче",
+                "weight": 1
+              },
+              {
+                "words": "безсумнівно",
+                "weight": 1
+              },
+              {
+                "words": "певна річ",
+                "weight": 1
+              },
+              {
+                "words": "без сумніву",
+                "weight": 1
+              },
+              {
+                "words": "у будь-якому разі",
+                "weight": 1
+              },
+              {
+                "words": "хай там як,в усякому разі,у будь-якому разі,звичайно",
+                "weight": 0.9
+              },
+              {
+                "words": "так чи інакше,однаково,все одно",
+                "weight": 0.9
+              },
+              {
+                "words": "дійсно,в дійсності,насправді,справді",
+                "weight": 0.59
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "surmkindlalt",
+        "julgelt",
+        "iga hinna eest",
+        "saagu mis saab",
+        "igatahes",
+        "nagunii",
+        "sadagu taevast või pussnuge",
+        "kindlalt",
+        "ikka",
+        "küll",
+        "küll",
+        "kas või malk pooleks",
+        "iga kell",
+        "raudkindlalt",
+        "niikuinii",
+        "vabalt",
+        "ammugi",
+        "maksku mis maksab",
+        "endastmõistetavalt",
+        "kindla peale",
+        "tingimata",
+        "loalt",
+        "kahtlemata",
+        "iga naks",
+        "kahtlematult",
+        "julgesti",
+        "iga toll",
+        "raudselt",
+        "sadagu või pussnuge",
+        "ilmtingimata",
+        "nagu nalja",
+        "igal juhul",
+        "täpselt",
+        "vääramatult",
+        "tõepoolest",
+        "muidu",
+        "tõesti",
+        "see",
+        "siinkohal",
+        "aga",
+        "aga",
+        "siiski",
+        "ilmselt",
+        "muidugi",
+        "tõenäoliselt",
+        "siin",
+        "siin",
+        "üldse",
+        "loomulikult",
+        "kunagi",
+        "mitte",
+        "mitte",
+        "isegi",
+        "veel",
+        "samuti",
+        "palju",
+        "palju",
+        "oluliselt",
+        "tegelikult",
+        "ise",
+        "ise",
+        "ise",
+        "ikkagi",
+        "päris",
+        "just",
+        "kohe",
+        "kohe",
+        "lihtsalt",
+        "siis",
+        "alati",
+        "väga",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kindlasti",
+      "translations": [
+        "certainly",
+        "for a certainty",
+        "for certain",
+        "positively",
+        "surely",
+        "to a certainty",
+        "you bet"
+      ]
+    }
+  ]
+}

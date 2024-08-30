@@ -1,0 +1,403 @@
+{
+  "requestedWord": "sekka",
+  "estonianWord": "sekka",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sekka"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingisse rühma, kellegi keskele,kellegagi kokku,mingisse gruppi, kellegi keskele",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Jõudis kolme parema sekka.",
+            "Kas sa meie sekka ei tule?",
+            "Üks suure kübaraga naine oli meeste sekka ära eksinud ..",
+            "Ta kuulub Eesti parimate kunstnike sekka."
+          ],
+          "synonyms": [
+            "hulka",
+            "mesti",
+            "kilda",
+            "seltsi"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "parmi",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в число",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "к",
+                "weight": 1
+              },
+              {
+                "words": "в среду",
+                "weight": 1
+              },
+              {
+                "words": "в компанию",
+                "weight": 1
+              },
+              {
+                "words": "в компанию,в число",
+                "weight": 0.9
+              },
+              {
+                "words": "к числу,в компанию,в число,в среду",
+                "weight": 0.9
+              },
+              {
+                "words": "в,в среду,в компанию,в общество,в окружение",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              },
+              {
+                "words": "серед",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(olemasoleva, eelneva) täiendusena, peale selle (veel),täienduseks; peale selle",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Naljade sekka vestlesime asjalikel teemadel.",
+            "Tahtsin sõna sekka öelda.",
+            "Raputa sekka soola ja pipart."
+          ],
+          "synonyms": [
+            "lisaks",
+            "hulka",
+            "täiendavalt",
+            "juurde",
+            "pluss"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "дополнительно",
+                "weight": 1
+              },
+              {
+                "words": "в дополнение к",
+                "weight": 1
+              },
+              {
+                "words": "вдобавок",
+                "weight": 1
+              },
+              {
+                "words": "в добавок к",
+                "weight": 1
+              },
+              {
+                "words": "к,в дополнение к,в добавок к",
+                "weight": 0.9
+              },
+              {
+                "words": "плюс",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до,на додаток до",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "aeg-ajalt (ette tulles), mõne aja tagant (kordudes), mõnel juhul,nii, et tegevus kordub mõne aja tagant",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ilm oli külm, sekka vihmanegi."
+          ],
+          "synonyms": [
+            "aeg-ajalt",
+            "mõnikord",
+            "hooti",
+            "kohati",
+            "teinekord",
+            "paiguti",
+            "puhuti",
+            "taoti",
+            "vahel",
+            "tükati",
+            "vahetevahel",
+            "vahest",
+            "ajuti",
+            "hetketi,hetkiti",
+            "periooditi",
+            "kord",
+            "juhuti",
+            "puhanguti",
+            "hooti,hookaupa,hoo kaupa",
+            "mõndapuhku",
+            "vaheti",
+            "harvasti,harva,harvalt",
+            "pilguti"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "sometimes",
+                "weight": 1
+              },
+              {
+                "words": "occasionally",
+                "weight": 1
+              },
+              {
+                "words": "once in a while",
+                "weight": 1
+              },
+              {
+                "words": "now and again",
+                "weight": 1
+              },
+              {
+                "words": "every now and then",
+                "weight": 1
+              },
+              {
+                "words": "every so often",
+                "weight": 1
+              },
+              {
+                "words": "from time to time",
+                "weight": 1
+              },
+              {
+                "words": "rarely",
+                "weight": 0.709
+              }
+            ],
+            "fra": [
+              {
+                "words": "de temps en temps",
+                "weight": 1
+              },
+              {
+                "words": "par moments",
+                "weight": 1
+              },
+              {
+                "words": "parfois",
+                "weight": 1
+              },
+              {
+                "words": "tantôt",
+                "weight": 0.7
+              },
+              {
+                "words": "rarement",
+                "weight": 0.709
+              }
+            ],
+            "rus": [
+              {
+                "words": "кое-когда",
+                "weight": 1
+              },
+              {
+                "words": "иногда",
+                "weight": 1
+              },
+              {
+                "words": "порой",
+                "weight": 1
+              },
+              {
+                "words": "временами",
+                "weight": 1
+              },
+              {
+                "words": "время от времени",
+                "weight": 1
+              },
+              {
+                "words": "по временам",
+                "weight": 1
+              },
+              {
+                "words": "от случая к случаю",
+                "weight": 1
+              },
+              {
+                "words": "иной раз",
+                "weight": 1
+              },
+              {
+                "words": "эпизодически",
+                "weight": 1
+              },
+              {
+                "words": "другой раз",
+                "weight": 1
+              },
+              {
+                "words": "подчас",
+                "weight": 1
+              },
+              {
+                "words": "урывками",
+                "weight": 1
+              },
+              {
+                "words": "время от времени,временами,иногда,порой",
+                "weight": 0.9
+              },
+              {
+                "words": "время от времени,иногда,порой,подчас",
+                "weight": 0.9
+              },
+              {
+                "words": "периодически,периодами",
+                "weight": 0.9
+              },
+              {
+                "words": "то..., то...,",
+                "weight": 0.7
+              },
+              {
+                "words": "время от времени,нерегулярно,от случая к случаю,иногда",
+                "weight": 0.9
+              },
+              {
+                "words": "порывами",
+                "weight": 0.9
+              },
+              {
+                "words": "время от времени,по временам,рывками,урывками,урывочно,порывами,порывисто",
+                "weight": 0.9
+              },
+              {
+                "words": "иной раз,иногда,в некоторых случаях",
+                "weight": 0.9
+              },
+              {
+                "words": "нечасто,иногда,изредка,редко",
+                "weight": 0.709
+              },
+              {
+                "words": "порой,иногда,время от времени,подчас",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "іноді",
+                "weight": 1
+              },
+              {
+                "words": "інколи",
+                "weight": 1
+              },
+              {
+                "words": "часом",
+                "weight": 1
+              },
+              {
+                "words": "час від часу",
+                "weight": 1
+              },
+              {
+                "words": "деколи",
+                "weight": 1
+              },
+              {
+                "words": "то..., то...",
+                "weight": 0.7
+              },
+              {
+                "words": "рідко,нечасто,зрідка,іноді",
+                "weight": 0.709
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mesti",
+        "hulka",
+        "kilda",
+        "vahele",
+        "keskele",
+        "ühes",
+        "kaasa",
+        "kaasa",
+        "sisse",
+        "seltsi",
+        "sleppi",
+        "juurde segama",
+        "raputama",
+        "juurde",
+        "rekka",
+        "seas",
+        "sekk"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sekka",
+      "translations": []
+    }
+  ]
+}

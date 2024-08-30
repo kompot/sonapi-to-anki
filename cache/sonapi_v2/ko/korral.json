@@ -1,0 +1,91 @@
+{
+  "requestedWord": "korral",
+  "estonianWord": "korral",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "korral"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi esinedes või toimudes, juhul, kui miski ilmneb,millegi tekkimisel või esinemisel",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Vihma korral jääb kontsert ära.",
+            "Soovi korral tuuakse hommikusöök hotellituppa.",
+            "Vihmase ilma korral jääb võistlus ära."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "en cas de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в случае",
+                "weight": 1
+              },
+              {
+                "words": "при",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на випадок",
+                "weight": 1
+              },
+              {
+                "words": "у разі",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "при",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "puhul",
+        "tõttu",
+        "lõpukorral",
+        "päeval",
+        "juhul",
+        "ajal"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "korral",
+      "translations": [
+        "in case",
+        "(millegi) in case of"
+      ]
+    }
+  ]
+}

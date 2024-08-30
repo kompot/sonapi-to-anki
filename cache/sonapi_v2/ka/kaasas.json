@@ -1,0 +1,94 @@
+{
+  "requestedWord": "kaasas",
+  "estonianWord": "kaasas",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kaasas"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegagi koos, seltsis (midagi tegemas),näitab, et miski või keegi on kellelgi kaasa võetud, kellegagi koos",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kes sinuga kaasas oli?",
+            "Mul ei ole raha kaasas.",
+            "Emal on lapsed tööl kaasas.",
+            "Tal on vihmavari alati kaasas."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "с собой",
+                "weight": 1
+              },
+              {
+                "words": "при себе",
+                "weight": 1
+              },
+              {
+                "words": "с",
+                "weight": 1
+              },
+              {
+                "words": "вместе",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з собою",
+                "weight": 1
+              },
+              {
+                "words": "при собі",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "endaga ühes võetuna",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mul pole täna raha kaasas.",
+            "On sul vihmavari kaasas?"
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "kaasaskantav",
+        "kaasaskäiv"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kaasas",
+      "translations": []
+    }
+  ]
+}

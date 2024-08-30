@@ -1,0 +1,485 @@
+{
+  "requestedWord": "päris",
+  "estonianWord": "päris",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "päris"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "täiel määral,(tugevdavalt, määra rõhutavalt:) peaaegu et väga,täiel määral, täiesti,teataval määral, üsna",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Päris kindel ma selles muidugi pole.",
+            "Ole päris rahulik!",
+            "Arsti juures läks päris palju aega.",
+            "Mul läks päris hästi.",
+            "Asi pole veel päris kindel.",
+            "Laps on päris üksi kodus.",
+            "Etendus oli päris huvitav.",
+            "Kott on päris raske."
+          ],
+          "synonyms": [
+            "kogunisti,koguni,isegi",
+            "suisa,lausa",
+            "täitsa",
+            "puha,puhta",
+            "issanda,jumala,jumalast,puhtani,puhtanisti",
+            "hoopiski,hoopistükkis,sootuks,sootumaks,hoopis",
+            "kohe",
+            "kaunis",
+            "aiva",
+            "küllalt,küllaltki,suhteliselt,võrdlemisi,üpris,üsna",
+            "üksjagu,parasjagu,omajagu,kenakesti,kaunikesti,kaunisti",
+            "täisvereline,täisverd,puhtavereline,puhastverd",
+            "täiesti,tervenisti,totaalselt,täielikult,päriselt,täienisti,läbinisti,läbini,absoluutselt,üleni,täieliselt,terveni"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "совсем",
+                "weight": 1
+              },
+              {
+                "words": "совершенно",
+                "weight": 1
+              },
+              {
+                "words": "аж,даже",
+                "weight": 0.9
+              },
+              {
+                "words": "совершенно,прямо,просто,прямо-таки,впрямь",
+                "weight": 0.9
+              },
+              {
+                "words": "вполне,решительно,окончательно,всецело,полностью,напрочь,вконец",
+                "weight": 0.8438
+              },
+              {
+                "words": "совершенно,полностью,чисто,совсем",
+                "weight": 0.9
+              },
+              {
+                "words": "полностью,совсем,абсолютно,целиком,насквозь,совершенно",
+                "weight": 0.9
+              },
+              {
+                "words": "совершенно,совсем,значительно",
+                "weight": 0.9
+              },
+              {
+                "words": "прямо,просто,даже,прямо-таки",
+                "weight": 0.9
+              },
+              {
+                "words": "довольно,порядком,довольно-таки,весьма,изрядно,порядочно,достаточно",
+                "weight": 0.9
+              },
+              {
+                "words": "в достаточной степени,довольно-таки,изрядно,достаточно,порядочно,весьма,порядком,сравнительно,в достаточной мере,в известной степени,в известной мере,довольно,относительно",
+                "weight": 0.9
+              },
+              {
+                "words": "порядочно,достаточно,довольно,изрядно,довольно-таки,немало,довольно порядочно,порядком,весьма",
+                "weight": 0.9
+              },
+              {
+                "words": "полнокровный,полноценный,содержательный,насыщенный,чистокровный,настоящий",
+                "weight": 0.9
+              },
+              {
+                "words": "целиком,всецело,сплошь,в полной мере,насквозь,тотально,вконец,всеобъемлюще,окончательно,полностью,сполна,абсолютно,совершенно,совсем,целиком и полностью",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зовсім",
+                "weight": 1
+              },
+              {
+                "words": "цілком",
+                "weight": 1
+              },
+              {
+                "words": "досить",
+                "weight": 1
+              },
+              {
+                "words": "аж,навіть",
+                "weight": 0.9
+              },
+              {
+                "words": "просто,прямо,прямо-таки",
+                "weight": 0.9
+              },
+              {
+                "words": "зовсім,цілком,повністю",
+                "weight": 0.9
+              },
+              {
+                "words": "відносно,порівняно,досить,достатньо",
+                "weight": 0.9
+              },
+              {
+                "words": "повністю,цілком,абсолютно,цілковито,зовсім,геть",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "même",
+                "weight": 0.9
+              },
+              {
+                "words": "franchement,carrément,vraiment",
+                "weight": 0.9
+              },
+              {
+                "words": "tout à fait",
+                "weight": 0.9
+              },
+              {
+                "words": "assez,plutôt,relativement",
+                "weight": 0.9
+              },
+              {
+                "words": "entièrement",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "relatively",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "olemasolev, tegelikkusesse kuuluv, tegelikele asjaoludele vastav,ehtne, mitte järeletehtud või võltsitud,tõeline, tegelik",
+          "partOfSpeech": [
+            {
+              "code": "adj",
+              "value": "omadussõna, adjektiiv"
+            }
+          ],
+          "examples": [
+            "Suuremal osal lennuõnnetustest jääb päris põhjus üldse välja selgitamata.",
+            "Kas meile tuleb ikka päris jõuluvana?",
+            "Sojakanaliha maitses täpselt nagu päris kanaliha.",
+            "Kati päris nimi on Katrin.",
+            "Need ehted ei ole päris kullast."
+          ],
+          "synonyms": [
+            "reaalne,tõelik,tõeline,tegelik",
+            "eht,ehtne,tõeline",
+            "olemasolev",
+            "pesueht,pesuehtne",
+            "tõsieluline",
+            "tõsioluline",
+            "elus",
+            "naturaalne",
+            "autentne",
+            "tõene",
+            "faktiline",
+            "konkreetne",
+            "sisuline",
+            "puhas",
+            "täisvereline,täisverd,puhtavereline,puhastverd",
+            "vana"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "vrai",
+                "weight": 1
+              },
+              {
+                "words": "véritable",
+                "weight": 1
+              },
+              {
+                "words": "réel",
+                "weight": 0.9
+              },
+              {
+                "words": "vrai,authentique",
+                "weight": 0.9
+              },
+              {
+                "words": "véritable,pur",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "настоящий",
+                "weight": 1
+              },
+              {
+                "words": "истинный",
+                "weight": 1
+              },
+              {
+                "words": "действительный",
+                "weight": 1
+              },
+              {
+                "words": "подлинный",
+                "weight": 1
+              },
+              {
+                "words": "натуральный",
+                "weight": 1
+              },
+              {
+                "words": "фактический,действительный,реальный",
+                "weight": 0.9
+              },
+              {
+                "words": "натуральный,подлинный,неподдельный,настоящий,истинный,доподлинный,действительный",
+                "weight": 0.9
+              },
+              {
+                "words": "сущий,наличный,имеющийся,существующий",
+                "weight": 0.9
+              },
+              {
+                "words": "форменный,чистой воды,настоящий,сущий",
+                "weight": 0.9
+              },
+              {
+                "words": "реалистический,подлинный,документальный,реальный,основанный на подлинных событиях,из реальной жизни",
+                "weight": 0.9
+              },
+              {
+                "words": "реалистичный,реальный",
+                "weight": 0.9
+              },
+              {
+                "words": "настоящий,сущий,живой",
+                "weight": 0.9
+              },
+              {
+                "words": "настоящий,натуральный,подлинный",
+                "weight": 0.7
+              },
+              {
+                "words": "аутентический,аутентичный,подлинный",
+                "weight": 0.7
+              },
+              {
+                "words": "достоверный,верный,правдоподобный,правдивый,истинный",
+                "weight": 0.7
+              },
+              {
+                "words": "действительный,реальный,конкретный",
+                "weight": 0.7
+              },
+              {
+                "words": "чистый",
+                "weight": 0.7
+              },
+              {
+                "words": "полноценный,содержательный,чистокровный,настоящий,полнокровный,насыщенный",
+                "weight": 0.9
+              },
+              {
+                "words": "настоящий",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "справжній",
+                "weight": 1
+              },
+              {
+                "words": "реальний",
+                "weight": 1
+              },
+              {
+                "words": "істинний",
+                "weight": 1
+              },
+              {
+                "words": "дійсний",
+                "weight": 1
+              },
+              {
+                "words": "фактичний,справжній,дійсний,реальний",
+                "weight": 0.9
+              },
+              {
+                "words": "справжній,непідробний,щирий",
+                "weight": 0.9
+              },
+              {
+                "words": "фактичний",
+                "weight": 0.9
+              },
+              {
+                "words": "реальний,конкретний",
+                "weight": 0.7
+              },
+              {
+                "words": "чистий,справжній",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "actual",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vana",
+        "puhas",
+        "sisuline",
+        "konkreetne",
+        "tõene",
+        "autentne",
+        "naturaalne",
+        "olemasolev",
+        "kaunis",
+        "kaunis",
+        "puhastverd",
+        "jumalast",
+        "hoopistükkis",
+        "pesueht",
+        "tükkis",
+        "tükkis",
+        "pesuehtne",
+        "täitsa",
+        "täitsa",
+        "tegelik",
+        "sula",
+        "sula",
+        "puha",
+        "kogunisti",
+        "reaalne",
+        "täiesti",
+        "parasjagu",
+        "tõsieluline",
+        "tõeline",
+        "hoopiski",
+        "sootuks",
+        "küllaltki",
+        "päriselt",
+        "puhta",
+        "hoopis",
+        "koguni",
+        "kenakesti",
+        "otse",
+        "otse",
+        "elus",
+        "elus",
+        "elus",
+        "tõsioluline",
+        "puupaljas",
+        "otseselt",
+        "paavstim kui paavst ise",
+        "puhtakujuline",
+        "kohe",
+        "kohe",
+        "püsti",
+        "püsti",
+        "aiva",
+        "aiva",
+        "sootumaks",
+        "küllalt",
+        "lihtsalt",
+        "võrdlemisi",
+        "täisvereline",
+        "õige",
+        "õige",
+        "jumala",
+        "sootu",
+        "sootu",
+        "suisa",
+        "üsna",
+        "ehtne",
+        "üpris",
+        "täisvärk",
+        "kaunikesti",
+        "lausa",
+        "omajagu",
+        "faktiline",
+        "lähedale",
+        "tõsiselt",
+        "vahetult",
+        "lihane",
+        "tihedasti",
+        "innukas",
+        "juurde",
+        "kirglik",
+        "pole",
+        "tõepoolest",
+        "kuigi",
+        "muidu",
+        "tõesti",
+        "juba",
+        "kindlasti",
+        "piisavalt",
+        "aga",
+        "aga",
+        "siiski",
+        "ilmselt",
+        "muidugi",
+        "suht",
+        "suhteliselt",
+        "üldse",
+        "kunagi",
+        "isegi",
+        "veel",
+        "küll",
+        "küll",
+        "ikka",
+        "eriti",
+        "palju",
+        "palju",
+        "tegelikult",
+        "ikkagi",
+        "vist",
+        "vist",
+        "üldiselt",
+        "alati",
+        "väga",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "päris",
+      "translations": [
+        "pukka",
+        "pukkah",
+        "quite",
+        "very"
+      ]
+    }
+  ]
+}

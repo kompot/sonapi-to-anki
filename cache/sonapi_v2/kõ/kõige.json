@@ -1,0 +1,135 @@
+{
+  "requestedWord": "kõige",
+  "estonianWord": "kõige",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kõige"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ülivõrret või ülivõrde laadset ühendit moodustav sõna,suuremal määral kui ükski teine samasse rühma kuuluv inimene, olend, asi või nähtus",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõige parem lahendus.",
+            "Kõige läänepoolsem Eesti saar.",
+            "Elan kõige tavalisemat elu.",
+            "Ta on järjekorras kõige viimane.",
+            "Tema sai kõige enne teada, mis koosolekul otsustati.",
+            "Ave on klassi kõige ilusam tüdruk.",
+            "Mis loom jookseb kõige kiiremini?",
+            "Robert hüppas kõige kaugemale."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "most",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "самый",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "най..",
+                "weight": 1
+              },
+              {
+                "words": "щонай..",
+                "weight": 1
+              },
+              {
+                "words": "якнай..",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegagi koos",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Viskas kõige riietega voodisse pikali.",
+            "Aga lossi jätsime puutumatult ja kõige kraamiga tema omaks."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вместе с",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kõige täiega",
+        "kogu täiega",
+        "koos",
+        "koos",
+        "ühes",
+        "kõige enam",
+        "paremini",
+        "enim",
+        "enim",
+        "vähem",
+        "vähem",
+        "ilmselt",
+        "kohutavam",
+        "üha",
+        "kõigevägevam",
+        "võimalikum",
+        "märksa",
+        "palju",
+        "palju",
+        "oluliselt",
+        "olulisem",
+        "hoopis",
+        "pisut",
+        "üllatavam",
+        "olulisemalt",
+        "tunduvalt",
+        "rohkem",
+        "rohkem",
+        "veelgi",
+        "üks"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kõige",
+      "translations": [
+        "alder- (nt alderbest",
+        "kõige parem)",
+        "most"
+      ]
+    }
+  ]
+}

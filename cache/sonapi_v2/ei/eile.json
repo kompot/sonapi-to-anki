@@ -1,0 +1,371 @@
+{
+  "requestedWord": "eile",
+  "estonianWord": "eile",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "eile"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "käesolevale päevale, tänasele päevale eelnenud päeval,tänasele päevale eelnenud päeval",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Eile sadas vihma, aga täna särab päike.",
+            "Käisin eile teatris.",
+            "Eile oli ilus ilm."
+          ],
+          "synonyms": [
+            "eila"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "yesterday",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "hier",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вчера",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вчора",
+                "weight": 1
+              },
+              {
+                "words": "учора",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "lähemas minevikus",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "See, mis eile tundus uus ja innovaatiline, sobib täna pigem muuseumisse."
+          ],
+          "synonyms": [
+            "eila",
+            "hiljaaegu,hiljuti"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "вчера",
+                "weight": 1
+              },
+              {
+                "words": "не так давно,недавно,незадолго до настоящего времени,на днях,давеча,намедни",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "récemment",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "нещодавно,недавно,цими днями,допіру",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "recently",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hiljaaegu",
+        "minevik",
+        "täna",
+        "täna",
+        "teisipäeval",
+        "üleeile",
+        "homme",
+        "homme",
+        "üleeilne",
+        "täna-homme"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "16",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "eile"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "eile"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "eilet"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "eilesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "eiles"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "eilest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "eilele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "eilel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "eilelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "eileks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "eileni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "eilena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "eileta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "eilega"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "eiled"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "eilede"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "eilesid"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "eiledesse"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "eiledes"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "eiledest"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "eiledele"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "eiledel"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "eiledelt"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "eiledeks"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "eiledeni"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "eiledena"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "eiledeta"
+        },
+        {
+          "inflectionType": "16",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "eiledega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "eilne päev,minevik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ent mõned uut veel vähem tajuvad, neil kogu elu täidab eile."
+          ],
+          "synonyms": [
+            "minevik,möödanik,möödunu,olnu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "вчерашний день",
+                "weight": 1
+              },
+              {
+                "words": "вчера",
+                "weight": 1
+              },
+              {
+                "words": "прошлое,прошедшее,минувшее,былое,прежнее",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "passé",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "минуле",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "past",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "minevik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "eile",
+      "translations": [
+        "yesterday"
+      ]
+    }
+  ]
+}

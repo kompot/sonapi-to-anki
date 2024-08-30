@@ -1,0 +1,77 @@
+{
+  "requestedWord": "kokkuvõtvalt",
+  "estonianWord": "kokkuvõtvalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kokkuvõtvalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nii, et lühidalt on esitatud ainult kõige tähtsam",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kokkuvõtvalt võib öelda, et reis oli tore."
+          ],
+          "synonyms": [
+            "kokkuvõtlikult",
+            "kokkuvõetult"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "кратко",
+                "weight": 1
+              },
+              {
+                "words": "сжато",
+                "weight": 1
+              },
+              {
+                "words": "конспективно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "konspektiivselt",
+        "konkreetselt",
+        "lihtsustatult",
+        "lühidalt",
+        "kokkuvõtlikult",
+        "kokkuvõtlik",
+        "kokkuvõttes",
+        "kiitvalt",
+        "köitvalt",
+        "siinkohal",
+        "üldistatult",
+        "selgelt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kokkuvõtvalt",
+      "translations": [
+        "in a nutshell"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "requestedWord": "alla",
+  "estonianWord": "alla",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "alla"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kuskilt kõrgemalt või millegi suhtes madalamale, allapoole,millegi poolt kaetud, varjatud olekusse,(millestki kõrgemal asuvast) madalamasse kohta,millegagi kaetud olekusse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Rattur kihutas mäest alla.",
+            "Tuul raputab õunu alla.",
+            "Tähed annavad ülalt alla lugedes kokku sõna „sinimustvalge”.",
+            "Seelik on alla põlve.",
+            "Lilled jäid lume alla.",
+            "Mari läks trepist alla.",
+            "Laps kukkus puu otsast alla.",
+            "Koer ronis tooli alla.",
+            "Lilled jäid lume alla."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вниз",
+                "weight": 1
+              },
+              {
+                "words": "под",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "с",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вниз",
+                "weight": 1
+              },
+              {
+                "words": "униз",
+                "weight": 1
+              },
+              {
+                "words": "під",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi alumisele poolele kinnitatuks (oma otstarvet täitma)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Suusad alla ja rajale!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "под",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi juurde, lähedale,millegi juurde või lähedale",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Naaber parkis auto meie ukse alla.",
+            "Vanaisa istus akna alla."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "под",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "під",
+                "weight": 1
+              },
+              {
+                "words": "біля",
+                "weight": 1
+              },
+              {
+                "words": "коло",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(mingist suunast) kõrvale",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Keerasime Peterburi maanteelt alla Jõelähtme poole."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "suudme poole, pärivoolu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sõitsime mööda jõge alla."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "määralt vähemaks, tasemelt madalamaks,kehvemaks, nõrgemaks, kaotajaks,vähemaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Hinnast polnud võimalik sentigi alla kaubelda.",
+            "Rumal lugu kiskus kooli autoriteeti alla.",
+            "Tüdruk tahab kaalust alla võtta."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "меньше",
+                "weight": 1
+              },
+              {
+                "words": "ниже",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "менше",
+                "weight": 1
+              },
+              {
+                "words": "нижче",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingist määrapiirist vähem, vähem kui,tasemelt kehvem või kehvemini,vähem kui",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Müüs korteri alla turuhinna.",
+            "Alla viitsadat krooni tunnis jutule ei võta.",
+            "Alla neljakümnene paarike.",
+            "Töötab alla oma võimete.",
+            "Naine kaalub pisut alla 60 kilogrammi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "меньше",
+                "weight": 1
+              },
+              {
+                "words": "меньше чем",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "менше ніж",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajaliselt:) (vahetult) enne, millegi eel",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Söögi alla võeti pits viina."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "перед",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingisse tegevus- või mõjupiirkonda, mingi tegevuse või mõju objektiks,osutab olukorrale, millesse keegi või miski satub",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Autor sattus meedia rünnaku alla.",
+            "Uurija pädevus seati kahtluse alla.",
+            "Kannatanu jäi arstide hoole alla.",
+            "Artikkel sattus kriitika alla."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "под",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "під",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi, millegi alluvusse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Asutus kuulub haridusministeeriumi alla."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "millestki hõlmatud, hõivatud seisundisse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Zeusi kuju võttis enda alla kolmandiku templi sisemusest."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "osutab lahtrile, rubriigile, kategooriale, kuhu miski arvatakse, paigutatakse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Mis paragrahvi alla selline sulitemp käib?"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "под",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "enne",
+        "eeli",
+        "eel",
+        "ette",
+        "lähedale",
+        "selga",
+        "rippu",
+        "ligidale",
+        "ära",
+        "kätte",
+        "taha",
+        "juurde",
+        "ült",
+        "allapoole",
+        "kõrvale",
+        "maha",
+        "üles",
+        "püsti",
+        "püsti",
+        "lähemale",
+        "sisse",
+        "edasi",
+        "pealt",
+        "ümber",
+        "lahti",
+        "peale",
+        "otsa",
+        "ligemale",
+        "seljast",
+        "üle",
+        "all",
+        "pealepoole",
+        "alt",
+        "sinna",
+        "ülesse",
+        "vahele",
+        "enne",
+        "ümber panema",
+        "loopima",
+        "kukkuma",
+        "kukkuma",
+        "keerama",
+        "asetama",
+        "lükkama",
+        "koolutama",
+        "pähe panema",
+        "maha libisema",
+        "maha tulema",
+        "juhtima",
+        "maha varisema",
+        "kargama",
+        "libisema",
+        "kallutama",
+        "maha jooksma",
+        "üles hüppama",
+        "painutama",
+        "vajuma",
+        "sihtima",
+        "käänama",
+        "maha kukkuma",
+        "maha ronima",
+        "ära voolama",
+        "laskuma",
+        "talutama",
+        "minema",
+        "minema",
+        "sisse vajuma",
+        "jooksma",
+        "alla vajuma",
+        "tirima",
+        "tõukama",
+        "maha veerema",
+        "pugema",
+        "ette veeretama",
+        "langema",
+        "lihkuma",
+        "roomama",
+        "maha hüppama",
+        "ära",
+        "lahti saama",
+        "valguma",
+        "tüürima",
+        "ümber keerama",
+        "maha langema",
+        "murdma",
+        "välja laskma",
+        "vedama",
+        "tõmbama",
+        "painduma",
+        "kõrvale viima",
+        "langetama",
+        "ümber kukkuma",
+        "ära tassima",
+        "paiskuma",
+        "üles käärima",
+        "maha laskma",
+        "vedima",
+        "peale tõmbama",
+        "alt",
+        "neelama"
+      ]
+    },
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "alla"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(märge noodikirjas:) kombel, viisil, millegi taoliselt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "püsti",
+        "enne",
+        "enne",
+        "eeli",
+        "eel",
+        "ette",
+        "ümber panema",
+        "loopima",
+        "kukkuma",
+        "kukkuma",
+        "keerama",
+        "lähedale",
+        "asetama",
+        "lükkama",
+        "selga",
+        "koolutama",
+        "pähe panema",
+        "rippu",
+        "ligidale",
+        "ära",
+        "ära",
+        "maha tulema",
+        "maha libisema",
+        "juhtima",
+        "maha varisema",
+        "kargama",
+        "libisema",
+        "kallutama",
+        "taha",
+        "kätte",
+        "maha jooksma",
+        "üles hüppama",
+        "painutama",
+        "vajuma",
+        "juurde",
+        "ült",
+        "sihtima",
+        "käänama",
+        "maha kukkuma",
+        "maha ronima",
+        "ära voolama",
+        "talutama",
+        "laskuma",
+        "üles",
+        "minema",
+        "minema",
+        "sisse vajuma",
+        "jooksma",
+        "alla vajuma",
+        "tirima",
+        "tõukama",
+        "maha veerema",
+        "pugema",
+        "ette veeretama",
+        "langema",
+        "lihkuma",
+        "roomama",
+        "allapoole",
+        "kõrvale",
+        "maha",
+        "püsti",
+        "lähemale",
+        "maha hüppama",
+        "sisse",
+        "lahti saama",
+        "valguma",
+        "tüürima",
+        "ümber keerama",
+        "edasi",
+        "maha langema",
+        "pealt",
+        "ümber",
+        "murdma",
+        "lahti",
+        "välja laskma",
+        "peale",
+        "vedama",
+        "tõmbama",
+        "painduma",
+        "kõrvale viima",
+        "otsa",
+        "langetama",
+        "ümber kukkuma",
+        "ära tassima",
+        "paiskuma",
+        "üles käärima",
+        "maha laskma",
+        "ligemale",
+        "seljast",
+        "vedima",
+        "peale tõmbama",
+        "üle",
+        "all",
+        "pealepoole",
+        "alt",
+        "alt",
+        "sinna",
+        "ülesse",
+        "vahele",
+        "neelama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "alla",
+      "translations": [
+        "(van) adown",
+        "alla (kombel",
+        "viisil)",
+        "below",
+        "beneath",
+        "down",
+        "downward",
+        "less than",
+        "shy of",
+        "under"
+      ]
+    }
+  ]
+}

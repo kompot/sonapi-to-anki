@@ -1,0 +1,291 @@
+{
+  "requestedWord": "käes",
+  "estonianWord": "käes",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "käes"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi valduses, omanduses, kasutada,kellegi valdusse saabunud või saadud,valduses, kasutuses",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Võti on minu käes.",
+            "Kiri on käes.",
+            "Varsti oli kala käes.",
+            "Võim on rahva käes.",
+            "Mis käes, see käes.",
+            "Kiri on käes.",
+            "Sinu raamat on minu käes.",
+            "Võti on omaniku käes."
+          ],
+          "synonyms": [
+            "käepärast,saadaval,saada",
+            "valduses",
+            "käsutuses"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "в руках",
+                "weight": 1
+              },
+              {
+                "words": "на руках",
+                "weight": 1
+              },
+              {
+                "words": "в наличии",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              },
+              {
+                "words": "под рукой,наготове,можно получить,в наличии,иметься",
+                "weight": 0.9
+              },
+              {
+                "words": "во владении",
+                "weight": 0.9
+              },
+              {
+                "words": "в распоряжении",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "в руках",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "у",
+                "weight": 1
+              },
+              {
+                "words": "у власності,під володінням",
+                "weight": 0.9
+              },
+              {
+                "words": "у розпорядженні",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "en possession de",
+                "weight": 0.9
+              },
+              {
+                "words": "à la disposition de",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellelgi tehes, sooritades, käsil,kellegi otsustada, teha, sooritada",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Töö laabub käes.",
+            "Minu saatus on sinu käes.",
+            "Tal on uus töö käes."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(millegi valdamise, oskamise, äraõppimise kohta:) selge",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mitu keelt vabalt käes."
+          ],
+          "synonyms": [
+            "selge"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "выученный",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вивчений",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "märgib mingis seisukorras, kellegi või millegi mõju all, meelevallas olekut,millegi mõju all",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Rahaga on kitsas käes.",
+            "Olin terve päeva metsas külma ja vihma käes.",
+            "Haavatu oigas valu käes.",
+            "Sisalik soojendas end päikese käes.",
+            "Haige kannatab valude käes.",
+            "Laps väriseb hirmu käes."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на",
+                "weight": 1
+              },
+              {
+                "words": "под",
+                "weight": 1
+              },
+              {
+                "words": "от",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на",
+                "weight": 1
+              },
+              {
+                "words": "під",
+                "weight": 1
+              },
+              {
+                "words": "від",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajaliselt) saabunud, tulnud või saabumas, vahetult ees,aja kohta: saabunud või saabumas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Suvi on käes ja töölkäijad ootavad pikisilmi puhkuste algust.",
+            "Vanadus on käes, nüüd tahaks ainult rahu ja vaikust.",
+            "Talv on käes.",
+            "Varsti on hommik käes."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "là",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "наступить",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "käsutuses",
+        "päralt",
+        "küüsis",
+        "silmapiiril",
+        "käpas",
+        "vesiselge",
+        "peos",
+        "sula",
+        "sula",
+        "selge nagu vesi",
+        "selge",
+        "pöidla all",
+        "käsil",
+        "küünte vahel",
+        "saadaval",
+        "varnast võtta",
+        "ees",
+        "sulaselge",
+        "valmis",
+        "käpa all",
+        "saada",
+        "valduses",
+        "käepärast",
+        "teoksil",
+        "tuhvli all",
+        "pihus",
+        "pihus",
+        "kohal",
+        "vaevlema",
+        "kätte",
+        "käest",
+        "aeg",
+        "käeside"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "käes",
+      "translations": [
+        "due",
+        "I have it",
+        "in arms"
+      ]
+    }
+  ]
+}

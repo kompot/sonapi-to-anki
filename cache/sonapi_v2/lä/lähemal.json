@@ -1,0 +1,85 @@
+{
+  "requestedWord": "lähemal",
+  "estonianWord": "lähemal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "lähemal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "rohkem lähedal, rohkem ligi,rohkem lähedal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Varasem elupaik oli Kärkna raudteejaamale lähemal.",
+            "Mida lähemal südalinnale, seda parem.",
+            "Samaväärset kooli lähemal ei leidu.",
+            "Vastus on lähemal, kui sa arvata oskad.",
+            "Kumb on siit lähemal, Tartu või Tallinn?"
+          ],
+          "synonyms": [
+            "ligemal"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "plus près",
+                "weight": 1
+              },
+              {
+                "words": "plus proche",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "ближе",
+                "weight": 1
+              },
+              {
+                "words": "близко",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ближче до",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ligemal",
+        "peatselt",
+        "varsti",
+        "peagi",
+        "lähemale",
+        "lähem",
+        "kaugemal"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lähemal",
+      "translations": []
+    }
+  ]
+}

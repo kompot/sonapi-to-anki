@@ -1,0 +1,120 @@
+{
+  "requestedWord": "lähemalt",
+  "estonianWord": "lähemalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "lähemalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "üksikasjalikumalt, põhjalikumalt,vahetumalt, isiklikumalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ka Toomas ei tahtnud projektist lähemalt rääkida.",
+            "Lähemalt loe homsest päevalehest.",
+            "Kas keegi teda lähemalt tundis?"
+          ],
+          "synonyms": [
+            "ligemalt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "подробно",
+                "weight": 1
+              },
+              {
+                "words": "подробнее",
+                "weight": 1
+              },
+              {
+                "words": "основательно",
+                "weight": 1
+              },
+              {
+                "words": "основательнее",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rohkem lähedalt, rohkem juurest",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Vaatasin marki lähemalt.",
+            "Ta vaatas veel lähemalt, kuid ei näinud midagi."
+          ],
+          "synonyms": [
+            "ligemalt"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "с близкого расстояния",
+                "weight": 1
+              },
+              {
+                "words": "поближе",
+                "weight": 1
+              },
+              {
+                "words": "ближе",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зблизька",
+                "weight": 1
+              },
+              {
+                "words": "ближче до",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ligemalt",
+        "täpsemalt",
+        "üksikasjalikumalt",
+        "põhjalikumalt",
+        "siit",
+        "kaugemalt",
+        "loe",
+        "pikemalt",
+        "lähem",
+        "edasi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lähemalt",
+      "translations": []
+    }
+  ]
+}

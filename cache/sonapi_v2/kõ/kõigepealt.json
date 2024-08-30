@@ -1,0 +1,236 @@
+{
+  "requestedWord": "kõigepealt",
+  "estonianWord": "kõigepealt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kõigepealt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "alguses, esimese asjana,kõige esimese tegevuse või asjana, alguses",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Saame kõigepealt tuttavaks.",
+            "Talvel seisnud auto tuleks kõigepealt puhtaks pesta.",
+            "Turistid sõitsid kõigepealt hotelli.",
+            "Kuhu me kõigepealt läheme?"
+          ],
+          "synonyms": [
+            "enne",
+            "esmalt",
+            "esialgu,esipuhku",
+            "esialgu",
+            "algatuseks",
+            "alul,algul"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "first",
+                "weight": 1
+              },
+              {
+                "words": "firstly",
+                "weight": 1
+              },
+              {
+                "words": "first of all",
+                "weight": 1
+              },
+              {
+                "words": "in the beginning",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "d'abord",
+                "weight": 1
+              },
+              {
+                "words": "(tout) d'abord,au début",
+                "weight": 0.7928
+              },
+              {
+                "words": "au début,d'abord",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "сначала",
+                "weight": 1
+              },
+              {
+                "words": "прежде",
+                "weight": 1
+              },
+              {
+                "words": "прежде всего",
+                "weight": 1
+              },
+              {
+                "words": "в первую очередь",
+                "weight": 1
+              },
+              {
+                "words": "сперва",
+                "weight": 1
+              },
+              {
+                "words": "первоначально,пока,пока что,сперва,поначалу,на первых порах,в первое время,сначала,вначале",
+                "weight": 0.7928
+              },
+              {
+                "words": "сперва,вначале,сначала",
+                "weight": 0.7928
+              },
+              {
+                "words": "для начала",
+                "weight": 0.7
+              },
+              {
+                "words": "в начале,поначалу,на первых порах,в первое время,сначала,вначале",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "спочатку",
+                "weight": 1
+              },
+              {
+                "words": "насамперед",
+                "weight": 1
+              },
+              {
+                "words": "передусім",
+                "weight": 1
+              },
+              {
+                "words": "найперше",
+                "weight": 1
+              },
+              {
+                "words": "перш за все",
+                "weight": 1
+              },
+              {
+                "words": "у першу чергу",
+                "weight": 1
+              },
+              {
+                "words": "поки що,спершу,на початку,спочатку,поки",
+                "weight": 0.7928
+              },
+              {
+                "words": "спершу,на початку,спочатку",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(loetlemisel:) esiteks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõigepealt lend hilines, siis kadus kohver ära."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "сначала",
+                "weight": 1
+              },
+              {
+                "words": "во-первых",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "esmalt",
+        "põhimiselt",
+        "eeskätt",
+        "ennekõike",
+        "põhiliselt",
+        "peamiselt",
+        "esmajärjekorras",
+        "eriti",
+        "eelkõige",
+        "esmajoones",
+        "kõige enam",
+        "enamasti",
+        "peaasjalikult",
+        "esijoones",
+        "esiteks",
+        "alguseks",
+        "kas",
+        "alustuseks",
+        "kuidas",
+        "taas",
+        "sedapidi",
+        "uuesti",
+        "juba",
+        "smalt",
+        "kindlasti",
+        "siiski",
+        "seejärel",
+        "jälle",
+        "ruttu-ruttu",
+        "kõik",
+        "sealt",
+        "ikka",
+        "vaja",
+        "kiiresti",
+        "alles",
+        "lõpuks",
+        "ise",
+        "ise",
+        "ise",
+        "ikkagi",
+        "just",
+        "kohe",
+        "kohe",
+        "nüüd",
+        "lihtsalt",
+        "siis"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kõigepealt",
+      "translations": [
+        "first of all",
+        "first off",
+        "for starters",
+        "imprimis (< lad in+primus)"
+      ]
+    }
+  ]
+}

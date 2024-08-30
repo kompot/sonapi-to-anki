@@ -1,0 +1,81 @@
+{
+  "requestedWord": "seniks",
+  "estonianWord": "seniks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "seniks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(täpsustab ajalist kestust:) selleks (vahepealseks) ajaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sina mine seniks koridori!"
+          ],
+          "synonyms": [
+            "seni kauaks",
+            "niikauaks",
+            "senikauaks"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "до тех пор пока",
+                "weight": 1
+              },
+              {
+                "words": "пока",
+                "weight": 1
+              },
+              {
+                "words": "на то время пока",
+                "weight": 1
+              },
+              {
+                "words": "до того времени, пока не",
+                "weight": 1
+              },
+              {
+                "words": "до тех пор, пока не",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "niikauaks",
+        "senikauaks",
+        "ootele",
+        "kniks",
+        "kuniks",
+        "niks",
+        "niks",
+        "senikaua",
+        "kauemaks"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "seniks",
+      "translations": []
+    }
+  ]
+}

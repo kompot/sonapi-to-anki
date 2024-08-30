@@ -1,0 +1,604 @@
+{
+  "requestedWord": "paljastama",
+  "estonianWord": "paljastama",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "27",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "paljastama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "paljastamata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "paljastamas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "paljastamast"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "paljastamaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "paljastatama"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "paljastada"
+        },
+        {
+          "inflectionType": "27",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "paljastades"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "paljastav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "paljastatav"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "paljastanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "paljastanud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "paljastatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "paljastatud"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "paljastan"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "paljastad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "paljastab"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "paljastame"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "paljastate"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "paljastavad"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "paljasta"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "paljastatakse"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "paljastata"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "paljastasin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "paljastasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "paljastas"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "paljastasime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "paljastasite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "paljastasid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "paljastati"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "paljastaksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "paljastaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "paljastaks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "paljastaksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "paljastaksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "paljastaksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "paljastataks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "paljastanuksin"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "paljastanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "paljastanuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "paljastanuksime"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "paljastanuksite"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "paljastanuksid"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "paljastatuks"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "paljastavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "paljastatavat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "paljastanuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "paljastatuvat"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "paljasta"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "paljastagem"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "paljastage"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "paljastagu"
+        },
+        {
+          "inflectionType": "27",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "paljastatagu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "midagi salajast, varjatut, seni teadmata olnut avalikkuse ette, päevavalgele tooma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Värske uurimus paljastab, et ..",
+            "Film paljastab selle, kes president tegelikult on.",
+            "Kaitsepolitsei paljastas korruptsiooni."
+          ],
+          "synonyms": [
+            "avalikustama",
+            "avaldama,pihtima",
+            "näitama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "обнажать",
+                "weight": 1
+              },
+              {
+                "words": "обнажить",
+                "weight": 1
+              },
+              {
+                "words": "раскрывать",
+                "weight": 1
+              },
+              {
+                "words": "раскрыть",
+                "weight": 1
+              },
+              {
+                "words": "открывать",
+                "weight": 1
+              },
+              {
+                "words": "открыть",
+                "weight": 1
+              },
+              {
+                "words": "разоблачать",
+                "weight": 1
+              },
+              {
+                "words": "разоблачить",
+                "weight": 1
+              },
+              {
+                "words": "изобличать",
+                "weight": 1
+              },
+              {
+                "words": "изобличить",
+                "weight": 1
+              },
+              {
+                "words": "обличать",
+                "weight": 1
+              },
+              {
+                "words": "обличить",
+                "weight": 1
+              },
+              {
+                "words": "уличать",
+                "weight": 1
+              },
+              {
+                "words": "уличить",
+                "weight": 1
+              },
+              {
+                "words": "посрамлять",
+                "weight": 1
+              },
+              {
+                "words": "посрамить",
+                "weight": 1
+              },
+              {
+                "words": "огласить,обнародовать,предавать гласности,предать гласности,оглашать",
+                "weight": 0.8277
+              },
+              {
+                "words": "исповедоваться,признаваться,признаться,изливать душу,излить душу,высказываться,высказаться",
+                "weight": 0.75
+              },
+              {
+                "words": "показывать,показать",
+                "weight": 0.75
+              }
+            ],
+            "fra": [
+              {
+                "words": "rendre public",
+                "weight": 0.8277
+              }
+            ],
+            "ukr": [
+              {
+                "words": "оприлюднити,обнародувати,оголошувати,оголосити",
+                "weight": 0.8277
+              },
+              {
+                "words": "показувати,показати",
+                "weight": 0.75
+              }
+            ],
+            "eng": [
+              {
+                "words": "show",
+                "weight": 0.75
+              }
+            ]
+          }
+        },
+        {
+          "definition": "midagi katvat millegi pealt, ümbert või eest kõrvaldama, ära võtma,midagi paljana, avatuna paista laskma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Taluniku selja taga paljastavad kihvu kaks koera.",
+            "Avar dekoltee paljastas ümarad rinnad."
+          ],
+          "synonyms": [
+            "koorima,maha koorima",
+            "näitama",
+            "vabastama"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "обнажать",
+                "weight": 1
+              },
+              {
+                "words": "обнажить",
+                "weight": 1
+              },
+              {
+                "words": "оголять",
+                "weight": 1
+              },
+              {
+                "words": "оголить",
+                "weight": 1
+              },
+              {
+                "words": "заголять",
+                "weight": 1
+              },
+              {
+                "words": "заголить",
+                "weight": 1
+              },
+              {
+                "words": "сбрасывать,сбросить,скидывать,скинуть,стаскивать,стащить,сдирать,содрать",
+                "weight": 0.9
+              },
+              {
+                "words": "показывать,показать,демонстрировать,продемонстрировать",
+                "weight": 0.75
+              }
+            ],
+            "fra": [
+              {
+                "words": "montrer",
+                "weight": 0.75
+              }
+            ],
+            "ukr": [
+              {
+                "words": "показувати,показати",
+                "weight": 0.75
+              }
+            ],
+            "eng": [
+              {
+                "words": "show",
+                "weight": 0.75
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "lahti riietama",
+        "saladuskatet kergitama",
+        "lahti riietuma",
+        "lansseerima",
+        "riidest lahti võtma",
+        "avalikustama",
+        "maha koorima",
+        "lahti rõivastama",
+        "lahti koorima",
+        "valge ette tooma",
+        "avaldama",
+        "koorima",
+        "osutama",
+        "näitama",
+        "süüstama",
+        "tunnistust andma",
+        "nähvama",
+        "karastama",
+        "parastama",
+        "pilastama",
+        "ässitama",
+        "uuristama",
+        "üldistama",
+        "ahastama",
+        "kissitama",
+        "kehastama",
+        "tümitama",
+        "tuvastama",
+        "pimestama",
+        "ilastama",
+        "mossitama",
+        "mustama",
+        "tarastama",
+        "rüütama",
+        "hämmastama",
+        "lömastama",
+        "külastama",
+        "kinnistama",
+        "lekitama",
+        "tumestama",
+        "laveerima",
+        "ähmastama",
+        "ilustama",
+        "haljastama",
+        "paljastuma",
+        "eksitama",
+        "pareerima",
+        "halastama",
+        "põlastama",
+        "heastama",
+        "ajastama",
+        "salastama",
+        "läkastama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "paljastama",
+      "translations": [
+        "bare",
+        "bewray",
+        "debunk (šarlatanlust vm)",
+        "denudate",
+        "denude",
+        "expose",
+        "give the lie to",
+        "lay bare",
+        "lay open",
+        "(avaliku elu tegelast",
+        "firmat) muckrake",
+        "reveal",
+        "show up",
+        "uncover"
+      ]
+    }
+  ]
+}

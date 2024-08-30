@@ -1,0 +1,83 @@
+{
+  "requestedWord": "kombel",
+  "estonianWord": "kombel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kombel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "koos eelneva sõnaga väljendab, kuidas või mismoodi miski toimub,(väljendab võrdlust eelneva nimisõnaga:) kellegi sarnaselt, nii nagu",
+          "partOfSpeech": [
+            {
+              "code": "vrm",
+              "value": "muutevorm (ambivorm, määramata)"
+            }
+          ],
+          "examples": [
+            "Hämmastaval kombel ei ole seda väga palju uuritud.",
+            "Läksin hirmsal kombel närvi.",
+            "Järv lehkas koledal kombel.",
+            "Ameeriklase kombel tööd rabav mees."
+          ],
+          "synonyms": [
+            "moel",
+            "viisil"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "образом",
+                "weight": 1
+              },
+              {
+                "words": "способом",
+                "weight": 1
+              },
+              {
+                "words": "манером",
+                "weight": 1
+              },
+              {
+                "words": "подобно",
+                "weight": 1
+              },
+              {
+                "words": "как",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "imekombel",
+        "kombetu",
+        "kombes",
+        "viisil",
+        "ajal",
+        "moel",
+        "kombelisus",
+        "õnnekombel",
+        "kombelõtvus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kombel",
+      "translations": []
+    }
+  ]
+}

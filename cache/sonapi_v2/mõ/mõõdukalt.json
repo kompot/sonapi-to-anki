@@ -1,0 +1,92 @@
+{
+  "requestedWord": "mõõdukalt",
+  "estonianWord": "mõõdukalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "mõõdukalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "parajal määral, keskmiselt,pigem vähem kui rohkem",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kui pruukida alkoholi, siis mõõdukalt.",
+            "Kõrreliste õietolmu oli vähe või mõõdukalt.",
+            "Lepa õietolmu oli mõõdukalt või palju.",
+            "Ma olen mõõdukalt optimistlik, kõike võib veel juhtuda.",
+            "Lumerohkel talvel ei pääse külm ka mõõdukalt kaetud taimedele liiga tegema.",
+            "Alkoholi peab tarbima mõõdukalt.",
+            "Nädal tuleb mõõdukalt soe."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "modérément",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "умеренно",
+                "weight": 1
+              },
+              {
+                "words": "в меру",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "помірно",
+                "weight": 1
+              },
+              {
+                "words": "в міру",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "parajalt",
+        "parasjagu",
+        "väheselt",
+        "mõõdukas",
+        "mõõdukam",
+        "tugevalt",
+        "konservatiivselt",
+        "hapukalt",
+        "tervislikult",
+        "suhteliselt",
+        "väga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "mõõdukalt",
+      "translations": [
+        "abstemiously",
+        "moderately"
+      ]
+    }
+  ]
+}

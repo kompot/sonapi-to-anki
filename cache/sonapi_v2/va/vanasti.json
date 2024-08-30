@@ -1,0 +1,143 @@
+{
+  "requestedWord": "vanasti",
+  "estonianWord": "vanasti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vanasti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vanal ajal, kaua aega tagasi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Vanasti ei käinud madisepäeval Saaremaa naised võõrsil, muidu pidavat sead pahuraks minema.",
+            "Vanasti kannatasin vinnide tõttu.",
+            "Vanasti oli siin järv."
+          ],
+          "synonyms": [
+            "hallil ajal",
+            "vanal hallil ajal"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "autrefois",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в старину",
+                "weight": 1
+              },
+              {
+                "words": "в прошлые времена",
+                "weight": 1
+              },
+              {
+                "words": "в былые времена",
+                "weight": 1
+              },
+              {
+                "words": "в прежние времена",
+                "weight": 1
+              },
+              {
+                "words": "в старые времена",
+                "weight": 1
+              },
+              {
+                "words": "встарь",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "за старих часів",
+                "weight": 1
+              },
+              {
+                "words": "за давніх часів",
+                "weight": 1
+              },
+              {
+                "words": "у давні часи",
+                "weight": 1
+              },
+              {
+                "words": "у старовину",
+                "weight": 1
+              },
+              {
+                "words": "у давнину",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "когда-то",
+                "weight": 1
+              },
+              {
+                "words": "некогда",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "nagu mullu ja muistegi",
+        "muiste",
+        "ennemuiste",
+        "ennevanasti",
+        "vanatont",
+        "vanataat",
+        "ennemalt",
+        "vanaõel",
+        "vanatoi",
+        "vanatühi",
+        "vanaõelus",
+        "vanasarvik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vanasti",
+      "translations": [
+        "formerly",
+        "in the past"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "requestedWord": "kategooria",
+  "estonianWord": "kategooria",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "1",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "kategooria"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "kategooria"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "kategooriat"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "kategooriasse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "kategoorias"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "kategooriast"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "kategooriale"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "kategoorial"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "kategoorialt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "kategooriaks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "kategooriani"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "kategooriana"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "kategooriata"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "kategooriaga"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "kategooriad"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "kategooriate"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "kategooriaid"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "kategooriatesse,kategooriaisse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "kategooriates,kategooriais"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "kategooriatest,kategooriaist"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "kategooriatele,kategooriaile"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "kategooriatel,kategooriail"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "kategooriatelt,kategooriailt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "kategooriateks,kategooriaiks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "kategooriateni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "kategooriatena"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "kategooriateta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "kategooriatega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teatud osa või rühm, mis tekib jaotamise tulemusena",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tal puudus vastava kategooria sõiduki juhtimise õigus.",
+            "Parima võõrkeelse filmi kategooria."
+          ],
+          "synonyms": [
+            "liik,sort",
+            "sort",
+            "sort",
+            "laad",
+            "klass",
+            "jagu",
+            "selts",
+            "sugu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "категория",
+                "weight": 1
+              },
+              {
+                "words": "род,разряд,сорт,тип,вид",
+                "weight": 0.9
+              },
+              {
+                "words": "сорт",
+                "weight": 0.9
+              },
+              {
+                "words": "характер,строй,способ,лад,образ,стиль,состав",
+                "weight": 0.9
+              },
+              {
+                "words": "класс",
+                "weight": 0.9
+              },
+              {
+                "words": "доля,часть",
+                "weight": 0.9
+              },
+              {
+                "words": "порода,сорт,вид,род",
+                "weight": 0.9
+              },
+              {
+                "words": "сорт,род",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "категорія",
+                "weight": 1
+              },
+              {
+                "words": "рід,розряд,вид,тип",
+                "weight": 0.9
+              },
+              {
+                "words": "ґатунок,сорт",
+                "weight": 0.9
+              },
+              {
+                "words": "стиль,характер",
+                "weight": 0.9
+              },
+              {
+                "words": "клас",
+                "weight": 0.9
+              },
+              {
+                "words": "частка,частина",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "type,sorte,catégorie",
+                "weight": 0.9
+              },
+              {
+                "words": "catégorie,qualité",
+                "weight": 0.9
+              },
+              {
+                "words": "genre,sorte",
+                "weight": 0.9
+              },
+              {
+                "words": "classe",
+                "weight": 0.9
+              },
+              {
+                "words": "partie",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "töölise, kohtuniku vm kvalifikatsioonijärk",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Sel aastal on Eestis kümme uut rahvusvahelise kategooria kohtunikku."
+          ],
+          "synonyms": [
+            "järk",
+            "kvalifikatsioonijärk"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "категория",
+                "weight": 1
+              },
+              {
+                "words": "разряд",
+                "weight": 1
+              },
+              {
+                "words": "степень,разряд,категория,ранг",
+                "weight": 0.9
+              },
+              {
+                "words": "квалификационный разряд",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "категорія",
+                "weight": 1
+              },
+              {
+                "words": "розряд",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingi teadusala põhimõiste",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Öeldise grammatilised kategooriad.",
+            "Vabadus kui filosoofiline kategooria."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "категория",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "категорія",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kvalifikatsioonijärk",
+        "sort",
+        "artikkel",
+        "aste",
+        "klass",
+        "värk",
+        "selts",
+        "laad",
+        "liik",
+        "kululiik",
+        "sugu",
+        "jagu",
+        "mark",
+        "järk",
+        "sookategooria",
+        "aste",
+        "laad",
+        "liik",
+        "sugu",
+        "mark",
+        "mark",
+        "absoluutkategooria"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kategooria",
+      "translations": [
+        "category"
+      ]
+    }
+  ]
+}

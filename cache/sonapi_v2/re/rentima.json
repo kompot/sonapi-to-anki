@@ -1,0 +1,640 @@
+{
+  "requestedWord": "rentima",
+  "estonianWord": "rentima",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "verb"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg1",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 1.pööre",
+          "value": "rendin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg2",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 2.p.",
+          "value": "rendid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrSg3",
+          "morphValue": "kindla kõneviisi oleviku ainsuse 3.p.",
+          "value": "rendib"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl1",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 1.p.",
+          "value": "rendime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl2",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 2.p.",
+          "value": "rendite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPl3",
+          "morphValue": "kindla kõneviisi oleviku mitmuse 3.p.",
+          "value": "rendivad"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrPs_",
+          "morphValue": "kindla kõneviisi oleviku isikuline tegumood (eitusega)",
+          "value": "rendi"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood",
+          "value": "renditakse"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndPrIps_",
+          "morphValue": "kindla kõneviisi oleviku umbisikuline tegumood (eitusega)",
+          "value": "rendita"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg1",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 1.p.",
+          "value": "rentisin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg2",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 2.p.",
+          "value": "rentisid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfSg3",
+          "morphValue": "kindla kõneviisi lihtmineviku ainsuse 3.p.",
+          "value": "rentis"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl1",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 1.p.",
+          "value": "rentisime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl2",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 2.p.",
+          "value": "rentisite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfPl3",
+          "morphValue": "kindla kõneviisi lihtmineviku mitmuse 3.p.",
+          "value": "rentisid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "IndIpfIps",
+          "morphValue": "kindla kõneviisi lihtmineviku umbisikuline tegumood",
+          "value": "renditi"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg1",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 1.p.",
+          "value": "rendiksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrSg2",
+          "morphValue": "tingiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "rendiksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPs",
+          "morphValue": "tingiva kõneviisi oleviku isikuline tegumood",
+          "value": "rendiks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl1",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "rendiksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl2",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "rendiksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrPl3",
+          "morphValue": "tingiva kõneviisi oleviku mitmuse 3.p.",
+          "value": "rendiksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPrIps",
+          "morphValue": "tingiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "renditaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg1",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 1.p.",
+          "value": "rentinuksin"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtSg2",
+          "morphValue": "tingiva kõneviisi mineviku ainsuse 2.p.",
+          "value": "rentinuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPs",
+          "morphValue": "tingiva kõneviisi mineviku isikuline tegumood",
+          "value": "rentinuks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl1",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 1.p.",
+          "value": "rentinuksime"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl2",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 2.p.",
+          "value": "rentinuksite"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtPl3",
+          "morphValue": "tingiva kõneviisi mineviku mitmuse 3.p.",
+          "value": "rentinuksid"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KndPtIps",
+          "morphValue": "tingiva kõneviisi mineviku umbisikuline tegumood",
+          "value": "rendituks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrPs",
+          "morphValue": "kaudse kõneviisi oleviku isikuline tegumood",
+          "value": "rentivat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPrIps",
+          "morphValue": "kaudse kõneviisi oleviku umbisikuline tegumood",
+          "value": "renditavat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtPs",
+          "morphValue": "kaudse kõneviisi mineviku isikuline tegumood",
+          "value": "rentinuvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "KvtPtIps",
+          "morphValue": "kaudse kõneviisi mineviku umbisikuline tegumood",
+          "value": "rendituvat"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrSg2",
+          "morphValue": "käskiva kõneviisi oleviku ainsuse 2.p.",
+          "value": "rendi"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl1",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 1.p.",
+          "value": "rentigem"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPl2",
+          "morphValue": "käskiva kõneviisi oleviku mitmuse 2.p.",
+          "value": "rentige"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrPs",
+          "morphValue": "käskiva kõneviisi oleviku isikuline tegumood",
+          "value": "rentigu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "ImpPrIps",
+          "morphValue": "käskiva kõneviisi oleviku umbisikuline tegumood",
+          "value": "renditagu"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Sup",
+          "morphValue": "ma-infinitiiv e ma-tegevusnimi",
+          "value": "rentima"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupAb",
+          "morphValue": "mata-vorm",
+          "value": "rentimata"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIn",
+          "morphValue": "mas-vorm",
+          "value": "rentimas"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupEl",
+          "morphValue": "mast-vorm",
+          "value": "rentimast"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupTr",
+          "morphValue": "maks-vorm",
+          "value": "rentimaks"
+        },
+        {
+          "inflectionType": "28",
+          "code": "SupIps",
+          "morphValue": "ma-tegevusnime umbisikuline tegumood",
+          "value": "renditama"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Inf",
+          "morphValue": "da-infinitiiv e da-tegevusnimi",
+          "value": "rentida"
+        },
+        {
+          "inflectionType": "28",
+          "code": "Ger",
+          "morphValue": "des-vorm",
+          "value": "rentides"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrPs",
+          "morphValue": "oleviku isikuline kesksõna e v-kesksõna",
+          "value": "rentiv"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPrIps",
+          "morphValue": "oleviku umbisikuline kesksõna e tav-kesksõna",
+          "value": "renditav"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPs",
+          "morphValue": "mineviku isikuline kesksõna e nud-kesksõna",
+          "value": "rentinud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtPsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud nud-kesksõna",
+          "value": "rentinud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIps",
+          "morphValue": "mineviku umbisikuline kesksõna e tud-kesksõna",
+          "value": "renditud"
+        },
+        {
+          "inflectionType": "28",
+          "code": "PtsPtIpsNeg",
+          "morphValue": "mitmeosalise verbi pööratud ja eitatud tud-kesksõna",
+          "value": "renditud"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "midagi kokkulepitud tingimustel, tasu eest kelleltki kasutada võtma,raha eest teiselt inimeselt näiteks maad või hoonet kasutada võtma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Kui oli vaja tähtsale kohtumisele sõita, siis renditi selleks sõiduks esinduslikum auto.",
+            "Firmalt saab ka ruume rentida.",
+            "Saatkond rentis linnalt ruume."
+          ],
+          "synonyms": [
+            "rendile võtma",
+            "üürile võtma",
+            "üürima"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "rent",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "louer",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "снимать",
+                "weight": 1
+              },
+              {
+                "words": "снять",
+                "weight": 1
+              },
+              {
+                "words": "арендовать",
+                "weight": 1
+              },
+              {
+                "words": "брать в аренду",
+                "weight": 1
+              },
+              {
+                "words": "взять в аренду",
+                "weight": 1
+              },
+              {
+                "words": "снимать в аренду",
+                "weight": 1
+              },
+              {
+                "words": "заарендовывать",
+                "weight": 1
+              },
+              {
+                "words": "заарендовать",
+                "weight": 1
+              },
+              {
+                "words": "снять в аренду",
+                "weight": 1
+              },
+              {
+                "words": "брать внаём",
+                "weight": 1
+              },
+              {
+                "words": "взять внаём",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "наймати",
+                "weight": 1
+              },
+              {
+                "words": "найняти",
+                "weight": 1
+              },
+              {
+                "words": "винаймати",
+                "weight": 1
+              },
+              {
+                "words": "винайняти",
+                "weight": 1
+              },
+              {
+                "words": "брати в оренду",
+                "weight": 1
+              },
+              {
+                "words": "узяти в оренду",
+                "weight": 1
+              },
+              {
+                "words": "орендувати",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "midagi kokkulepitud tingimustel, tasu eest kellelegi kasutamiseks andma,oma vara teisele inimesele, asutusele või ettevõttele raha eest kasutada andma",
+          "partOfSpeech": [
+            {
+              "code": "v",
+              "value": "tegusõna, verb"
+            }
+          ],
+          "examples": [
+            "Linn on staadioni rentinud Maardu jalgpalliklubile.",
+            "Talunik rentis naabrile maad."
+          ],
+          "synonyms": [
+            "rendile andma",
+            "üürima",
+            "üürile andma",
+            "välja üürima",
+            "renditama",
+            "välja rentima"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "rent out",
+                "weight": 1
+              },
+              {
+                "words": "rent",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "louer",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "сдавать в аренду",
+                "weight": 1
+              },
+              {
+                "words": "сдать в аренду",
+                "weight": 1
+              },
+              {
+                "words": "пересдавать в аренду",
+                "weight": 1
+              },
+              {
+                "words": "отдавать в аренду",
+                "weight": 1
+              },
+              {
+                "words": "отдать в аренду",
+                "weight": 1
+              },
+              {
+                "words": "отдавать внаём",
+                "weight": 1
+              },
+              {
+                "words": "отдать внаём",
+                "weight": 1
+              },
+              {
+                "words": "сдавать внаём",
+                "weight": 1
+              },
+              {
+                "words": "пересдать в аренду",
+                "weight": 1
+              },
+              {
+                "words": "пересдавать внаём",
+                "weight": 1
+              },
+              {
+                "words": "пересдать внаём",
+                "weight": 1
+              },
+              {
+                "words": "предоставлять в аренду",
+                "weight": 1
+              },
+              {
+                "words": "предоставить в аренду",
+                "weight": 1
+              },
+              {
+                "words": "давать в аренду",
+                "weight": 1
+              },
+              {
+                "words": "дать в аренду",
+                "weight": 1
+              },
+              {
+                "words": "давать внаём",
+                "weight": 1
+              },
+              {
+                "words": "дать внаём",
+                "weight": 1
+              },
+              {
+                "words": "сдать внаём",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "наймати",
+                "weight": 1
+              },
+              {
+                "words": "найняти",
+                "weight": 1
+              },
+              {
+                "words": "винаймати",
+                "weight": 1
+              },
+              {
+                "words": "винайняти",
+                "weight": 1
+              },
+              {
+                "words": "здавати в оренду",
+                "weight": 1
+              },
+              {
+                "words": "здати в оренду",
+                "weight": 1
+              },
+              {
+                "words": "віддавати в оренду",
+                "weight": 1
+              },
+              {
+                "words": "віддати в оренду",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "renditama",
+        "rendile andma",
+        "välja rentima",
+        "rendile võtma",
+        "majutama",
+        "ostma",
+        "üürima",
+        "kasutama",
+        "tviitima",
+        "majandama",
+        "lantima",
+        "skvottima",
+        "transportima",
+        "varastama",
+        "rajama",
+        "arendama",
+        "pautima",
+        "jantima",
+        "kantima",
+        "renoveerima",
+        "käitama",
+        "kühveldama",
+        "hankima",
+        "remontima",
+        "võõrandama",
+        "ehitama",
+        "hooldama",
+        "spurtima",
+        "kruntima",
+        "pantima",
+        "planeerima",
+        "planeerima",
+        "soetama",
+        "putitama",
+        "asutama",
+        "paigaldama",
+        "müntima",
+        "haldama"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "rentima",
+      "translations": [
+        "farm out",
+        "lease"
+      ]
+    }
+  ]
+}

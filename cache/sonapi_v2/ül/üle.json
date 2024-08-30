@@ -1,0 +1,596 @@
+{
+  "requestedWord": "üle",
+  "estonianWord": "üle",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "üle"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(liikumise või asendi kohta:) osutab teatava pinna või takistuse ületamisele,ühelt poolt teisele poole (kas millegi pinda mööda või sellest kõrgemalt)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Poiss ronis üle aia.",
+            "Läksin üle tänava.",
+            "Istusin, jalg üle põlve.",
+            "Üle järve on veel üks maja.",
+            "Jõest viib üle uhke sild.",
+            "Ta pilk libises minust üle.",
+            "Naine vaatas üle õla tagasi.",
+            "Auto sõitis üle silla.",
+            "Laps jooksis üle tee.",
+            "Poisid ronisid üle aia.",
+            "Pall lendas väravast kõrgelt üle.",
+            "Pikk lend üle ookeani on väsitav."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "над",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "через",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(liiklusvahendiga sõitmisel:) mingi koha või vahepunkti kaudu",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Sõitsime Riiga üle Pärnu."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "через",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajaliselt:) mingi ajavahemiku järel,osutab ajavahemikule, mille järel midagi kordub",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Üle hulga aja sajab lund.",
+            "Loengud toimuvad üle nädala.",
+            "Loengud toimuvad üle nädala."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "спустя",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "через",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(seisundi, nähtuse kohta:) osutab millegi hõlmamisele või katmisele, valdavale olekule mingis kohas, milleski",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Naer kõlas üle toa.",
+            "Punastasin üle kogu näo.",
+            "Puista pirukas riivitud juustuga üle.",
+            "Kurjus võidutses headuse üle."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "по",
+                "weight": 1
+              },
+              {
+                "words": "на",
+                "weight": 1
+              },
+              {
+                "words": "над",
+                "weight": 1
+              },
+              {
+                "words": "поверх",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab kohale või kollektiivile, kus keegi on (millegi poolest) kõige parem, silmapaistvam",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Üle küla tüdruk.",
+            "Üle kooli rammumees."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на",
+                "weight": 1
+              },
+              {
+                "words": "в",
+                "weight": 1
+              },
+              {
+                "words": "самый",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(ajaliselt:) millegi jooksul, kestel,mingi aeg läbi",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Muusika, mis kestab üle aegade."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "сквозь",
+                "weight": 1
+              },
+              {
+                "words": "через",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab mingile (jutuks olevale) teemale või põhjuseks olevale asjaolule,osutab sellele, kellest või millest räägitakse või mõeldakse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Arutleti moodsa kunsti üle.",
+            "Kurtis väsimuse üle.",
+            "Mille üle sa kurvastad?",
+            "Ära naera minu üle!",
+            "Olen rõõmus kingituse üle.",
+            "Arutlesime tervisliku eluviisi üle."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "о",
+                "weight": 1
+              },
+              {
+                "words": "об",
+                "weight": 1
+              },
+              {
+                "words": "на",
+                "weight": 1
+              },
+              {
+                "words": "над",
+                "weight": 1
+              },
+              {
+                "words": "надо",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з",
+                "weight": 1
+              },
+              {
+                "words": "над",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(asendi, ulatuse kohta:) millestki kõrgemal või kõrgemale, kaugemal(e), millegi kohal,(riietusesemete pikkusega seoses:) millestki allapoole, (jalanõude sääre pikkusega seoses:) millestki kõrgemale",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Lipud lehvisid üle inimeste peade.",
+            "Seelik ulatus üle põlve.",
+            "Üle põlve ulatuvad saapad."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "над",
+                "weight": 1
+              },
+              {
+                "words": "выше",
+                "weight": 1
+              },
+              {
+                "words": "ниже",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingist määrast, piirist rohkem, rohkem kui,rohkem kui",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Temperatuur tõusis üle 30 kraadi.",
+            "Üle kuuekümnene mees.",
+            "Aeg oli juba üle kesköö.",
+            "Armastas üle kõige voodis lesida.",
+            "Leping oli tähtajast üle läinud.",
+            "Remont läks perele maksma üle 10 000 euro.",
+            "Õues on üle 30 kraadi sooja."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "выше",
+                "weight": 1
+              },
+              {
+                "words": "свыше",
+                "weight": 1
+              },
+              {
+                "words": "больше",
+                "weight": 1
+              },
+              {
+                "words": "сверх",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "більше ніж",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "liiga (palju), ülemäära, tavapärasest, ettenähtust rohkem,liiga palju, rohkem kui vajalik või kasulik",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mootor kuumenes üle.",
+            "Vahel kiputakse end üle hindama.",
+            "Mul jäi pisut raha üle.",
+            "Sportlane treenis üle.",
+            "Oled üle töötanud, pead puhkust võtma.",
+            "Ära pinguta üle!"
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "слишком",
+                "weight": 1
+              },
+              {
+                "words": "чрезмерно",
+                "weight": 1
+              },
+              {
+                "words": "непомерно",
+                "weight": 1
+              },
+              {
+                "words": "безмерно",
+                "weight": 1
+              },
+              {
+                "words": "сверх меры",
+                "weight": 1
+              },
+              {
+                "words": "не в меру",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "надто",
+                "weight": 1
+              },
+              {
+                "words": "понад міру",
+                "weight": 1
+              },
+              {
+                "words": "надміру",
+                "weight": 1
+              },
+              {
+                "words": "занадто",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab muutunud, uuele asukohale, olukorrale või seisundile",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kolis Tartust üle Tallinna.",
+            "Ameerika börsi langus kandus üle ka Euroopale.",
+            "Läks vastase poolele üle.",
+            "Üksikud sajupiisad läksid varsti üle lausvihmaks.",
+            "Peolauas mindi kiiresti üle sinatamisele."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "пере-",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kontrollivalt) uuesti, veel kord,(kontrollides) uuesti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Luges rahatähed hoolikalt üle.",
+            "Küsi üle, mis ta tahtis.",
+            "Elektrisüsteemid tuleks kord aastas üle vaadata.",
+            "Küsi üle, mis ta tahtis."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "пере-",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пере--",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(millegi lakkamise või lakanud-oleku kohta:) möödas, lõppenud",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Õhtuks oli tuisk üle."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "про-",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "piserdama",
+        "peale raputama",
+        "kallama",
+        "peale puistama",
+        "üle riputama",
+        "ületama",
+        "noolima",
+        "laiali",
+        "täis",
+        "täis",
+        "jagu saama",
+        "ära määrima",
+        "suhtes",
+        "suhtes",
+        "ära",
+        "ära",
+        "mööda vaatama",
+        "valitsema",
+        "riputama",
+        "edasi kanduma",
+        "valama",
+        "üle külvama",
+        "nakatama",
+        "täis valama",
+        "üle ujutama",
+        "ümber kündma",
+        "mätsima",
+        "kõmama",
+        "kinni tuiskama",
+        "pealt",
+        "pealtpoolt",
+        "kittima",
+        "külge",
+        "domineerima",
+        "lohistama",
+        "tirima",
+        "uhtma",
+        "kaikuma",
+        "sisse",
+        "edasi",
+        "teisale",
+        "üles lugema",
+        "peale",
+        "külge kleepuma",
+        "raputama",
+        "peale kleepima",
+        "vedama",
+        "üle meelitama",
+        "loendama",
+        "kohta",
+        "ümber",
+        "kokku",
+        "taas",
+        "uuesti",
+        "poole",
+        "poole",
+        "umbes",
+        "umbes",
+        "alla",
+        "alla",
+        "rohkem",
+        "rohkem",
+        "kümnekaupa",
+        "isegi",
+        "ligikaudu",
+        "enam",
+        "enam",
+        "poolesajas",
+        "läbi",
+        "täielikult",
+        "maha",
+        "ligi",
+        "keskeltläbi",
+        "loendamine"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "üle",
+      "translations": [
+        "above",
+        "beyond",
+        "every other",
+        "o'er",
+        "over",
+        "over the top (piiri)",
+        "upward of"
+      ]
+    }
+  ]
+}

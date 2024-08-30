@@ -1,0 +1,417 @@
+{
+  "requestedWord": "kõrval",
+  "estonianWord": "kõrval",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kõrval"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kellegi või millegi külje suunas (väga) lähedal, reas järgmisena, naabruses,kellegi või millegi külje juures, lähedal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Istus minu kõrval.",
+            "Seisis, käed kõrval.",
+            "Kiriku kõrval on surnuaed.",
+            "Tüdruk istus diivanil, kass kõrval.",
+            "Maja kõrval on parkla.",
+            "Laps seisab isa kõrval.",
+            "Koer istub kassi kõrval."
+          ],
+          "synonyms": [
+            "ligi",
+            "külje all",
+            "ligidal,lähedal",
+            "noolelennu kaugusel,kiviviske kaugusel,kiviga visata",
+            "siinsamas",
+            "nina all,nina ees",
+            "juures"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "à côté de",
+                "weight": 1
+              },
+              {
+                "words": "près de",
+                "weight": 0.9
+              },
+              {
+                "words": "près,à proximité",
+                "weight": 0.9
+              },
+              {
+                "words": "ici",
+                "weight": 0.9
+              },
+              {
+                "words": "près de",
+                "weight": 0.8343
+              }
+            ],
+            "rus": [
+              {
+                "words": "у",
+                "weight": 1
+              },
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "возле",
+                "weight": 1
+              },
+              {
+                "words": "рядом",
+                "weight": 1
+              },
+              {
+                "words": "рядом с",
+                "weight": 1
+              },
+              {
+                "words": "поблизости",
+                "weight": 1
+              },
+              {
+                "words": "подле",
+                "weight": 1
+              },
+              {
+                "words": "вблизи",
+                "weight": 1
+              },
+              {
+                "words": "поближе,к,возле,при,близко,ближе",
+                "weight": 0.9
+              },
+              {
+                "words": "вблизи,рядом,под боком,у самого",
+                "weight": 0.9
+              },
+              {
+                "words": "близко,недалеко,вблизи,поблизости,неподалёку,недалеко от,поблизости от,близ",
+                "weight": 0.9
+              },
+              {
+                "words": "рядом,рукой подать",
+                "weight": 0.9
+              },
+              {
+                "words": "тут же",
+                "weight": 0.9
+              },
+              {
+                "words": "под носом,перед носом",
+                "weight": 0.9
+              },
+              {
+                "words": "вблизи,у,около,возле,рядом,рядом с,поблизости,подле",
+                "weight": 0.8343
+              }
+            ],
+            "ukr": [
+              {
+                "words": "поряд з",
+                "weight": 1
+              },
+              {
+                "words": "поруч",
+                "weight": 1
+              },
+              {
+                "words": "коло",
+                "weight": 1
+              },
+              {
+                "words": "біля",
+                "weight": 1
+              },
+              {
+                "words": "поблизу",
+                "weight": 1
+              },
+              {
+                "words": "близько",
+                "weight": 1
+              },
+              {
+                "words": "ближче,до,близько",
+                "weight": 0.9
+              },
+              {
+                "words": "близько,недалеко,поблизу,неподалік",
+                "weight": 0.9
+              },
+              {
+                "words": "тут же",
+                "weight": 0.9
+              },
+              {
+                "words": "поруч,поряд з,коло,біля,поблизу,близько",
+                "weight": 0.8343
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab tihe-olekule, pidevale (ja pingelisele) ajajärgule",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Istusime külg külje kõrval.",
+            "On aastaid päev päeva kõrval tööd rüganud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "об",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "samaaegselt, rööbiti millegagi või kellegagi,peale millegi, lisaks,peale millegi, millelegi (põhilisele) lisaks",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Joonistamise kõrval tegeles ta sõnaloominguga.",
+            "Töö ja õpingute kõrval tegeleb ta ka ettevõtlusega."
+          ],
+          "synonyms": [
+            "kõrvu,kõrvuti"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "à côté de",
+                "weight": 1
+              },
+              {
+                "words": "en plus de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "кроме",
+                "weight": 1
+              },
+              {
+                "words": "помимо",
+                "weight": 1
+              },
+              {
+                "words": "наряду с",
+                "weight": 1
+              },
+              {
+                "words": "вдобавок",
+                "weight": 1
+              },
+              {
+                "words": "рядом,наряду с,одновременно",
+                "weight": 0.418
+              }
+            ],
+            "ukr": [
+              {
+                "words": "крім",
+                "weight": 1
+              },
+              {
+                "words": "опріч",
+                "weight": 1
+              },
+              {
+                "words": "на додаток",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "kellegi juhatusel",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Poeg on maatööd õppinud isa kõrval."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "millegagi, kellegagi võrreldes",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Mõtlesin ka veel seda, et Lüübeki kõrval on Pariis täielik kolgas .."
+          ],
+          "synonyms": [
+            "ees"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "рядом с",
+                "weight": 1
+              },
+              {
+                "words": "наряду с",
+                "weight": 1
+              },
+              {
+                "words": "перед",
+                "weight": 1
+              },
+              {
+                "words": "сравнительно с",
+                "weight": 1
+              },
+              {
+                "words": "по сравнению с",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "asendilt teatava vahemaa taga, (millestki) eemal",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Suurest teest kõrval algas ilus seenemets."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в стороне",
+                "weight": 1
+              },
+              {
+                "words": "вдали",
+                "weight": 1
+              },
+              {
+                "words": "поодаль",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millestki mitteosavõtvas seisundis",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ta on pikka aega poliitikast kõrval olnud."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "ligi",
+        "ajaliselt",
+        "külje all",
+        "võrreldes",
+        "lähedal",
+        "ruumiliselt",
+        "ligidal",
+        "kiviviske kaugusel",
+        "käegakatsutav",
+        "kohe",
+        "kohe",
+        "kukil",
+        "käeulatuses",
+        "nina ees",
+        "siinsamas",
+        "nina all",
+        "ligilähedal",
+        "juures",
+        "käe-jala juures",
+        "kiviga visata",
+        "kõrvale",
+        "ümber",
+        "lähedale",
+        "ees",
+        "ümberringi",
+        "all",
+        "ääres",
+        "taga",
+        "juurde",
+        "järel",
+        "järel",
+        "kõrvaltuba",
+        "käekõrval",
+        "kõrvalroll",
+        "kõrvalaltar",
+        "kõrvalpõige"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kõrval",
+      "translations": [
+        "beside",
+        "by",
+        "next door",
+        "next to"
+      ]
+    }
+  ]
+}

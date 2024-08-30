@@ -1,0 +1,134 @@
+{
+  "requestedWord": "loodetavasti",
+  "estonianWord": "loodetavasti",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "loodetavasti"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "nagu tahaks loota, nagu võib loota,nagu tahaks loota",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Loodetavasti nõelravi aitab sind.",
+            "Loodetavasti läheb kõik hästi.",
+            "Jõuame loodetavasti õigeks ajaks."
+          ],
+          "synonyms": [
+            "oodatavasti"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "hopefully",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "j'espère que",
+                "weight": 1
+              },
+              {
+                "words": "espérons que",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "надеюсь",
+                "weight": 1
+              },
+              {
+                "words": "надо надеяться",
+                "weight": 1
+              },
+              {
+                "words": "вероятно",
+                "weight": 1
+              },
+              {
+                "words": "по всей вероятности",
+                "weight": 1
+              },
+              {
+                "words": "предположительно,видимо,вероятно,по-видимому,очевидно,должно быть",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "сподіваюся",
+                "weight": 1
+              },
+              {
+                "words": "певно",
+                "weight": 1
+              },
+              {
+                "words": "мабуть",
+                "weight": 1
+              },
+              {
+                "words": "цілком імовірно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "oodatavasti",
+        "kardetavasti",
+        "saan",
+        "praegu",
+        "peagi",
+        "see",
+        "kindlasti",
+        "aga",
+        "aga",
+        "siiski",
+        "jälle",
+        "ilmselt",
+        "tulevikus",
+        "küll",
+        "küll",
+        "veel",
+        "loodetu",
+        "täna-homme",
+        "ikka",
+        "jätkuvalt",
+        "tõenäoliselt",
+        "ikkagi",
+        "õnneks",
+        "varsti",
+        "nüüd",
+        "siis"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "loodetavasti",
+      "translations": [
+        "hopefully"
+      ]
+    }
+  ]
+}

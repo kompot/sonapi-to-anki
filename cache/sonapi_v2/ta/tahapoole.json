@@ -1,0 +1,123 @@
+{
+  "requestedWord": "tahapoole",
+  "estonianWord": "tahapoole",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "tahapoole"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(kaugemale) taha, (millegi või kellegi suhtes) kaugemale,suunaga tagasi,tagumisse ossa",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Madalad põõsad istutame ette ja kõrgemad tahapoole.",
+            "Vangilaager jäi tahapoole polaarjoont.",
+            "Vaatasin tahapoole ja märkasin lähenevat autot.",
+            "Istume kinos tahapoole."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "en arrière",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "назад",
+                "weight": 1
+              },
+              {
+                "words": "подальше",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "назад",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(paremusjärjestuses) lõpu poole, saavutustelt, paremuselt teistest kehvemaks",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Favoriit langes turniiritabelis üha tahapoole."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "möödanik",
+        "eemale",
+        "eilne",
+        "minevik",
+        "taamale",
+        "kaugemale",
+        "eilne päev olema",
+        "endisaeg",
+        "tagasi",
+        "möödas",
+        "taha",
+        "tagapool",
+        "taga",
+        "seljataga",
+        "seljataha",
+        "järel",
+        "järel",
+        "ülespoole",
+        "paremale",
+        "siiapoole",
+        "pealepoole",
+        "kuhupoole",
+        "tahaplaanile",
+        "sissepoole",
+        "ettepoole",
+        "kuhugipoole",
+        "allapoole",
+        "kehapool",
+        "ette-taha",
+        "sinnapoole"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "tahapoole",
+      "translations": [
+        "(arh) aback",
+        "backward",
+        "rearwards"
+      ]
+    }
+  ]
+}

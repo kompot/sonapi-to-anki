@@ -1,0 +1,408 @@
+{
+  "requestedWord": "raadio",
+  "estonianWord": "raadio",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "1",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "raadio"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "raadio"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "raadiot"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "raadiosse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "raadios"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "raadiost"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "raadiole"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "raadiol"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "raadiolt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "raadioks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "raadioni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "raadiona"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "raadiota"
+        },
+        {
+          "inflectionType": "1",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "raadioga"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "raadiod"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "raadiote"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "raadioid"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "raadiotesse,raadioisse"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "raadiotes,raadiois"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "raadiotest,raadioist"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "raadiotele,raadioile"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "raadiotel,raadioil"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "raadioilt,raadiotelt"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "raadioteks,raadioiks"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "raadioteni"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "raadiotena"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "raadioteta"
+        },
+        {
+          "inflectionType": "1",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "raadiotega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "meetod informatsiooni juhtmeteta edastamiseks ja vastuvõtmiseks raadiolainete abil,helide läbi õhu saatmine ja vastuvõtmine spetsiaalsete lainete abil",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Raadio kiire areng.",
+            "Raadio teel juhitav mudellennuk.",
+            "Kapten kutsus raadio teel abi."
+          ],
+          "synonyms": [
+            "raadioside"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "radio",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "radio",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "радио",
+                "weight": 1
+              },
+              {
+                "words": "радиосвязь",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "радіо",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "aparaat või seadmete ja rajatiste kompleks raadiosignaalide saatmiseks ja vastuvõtmiseks,vastav saatejaam",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ma ei kuula raadiot kuigi sageli.",
+            "Raadios algab tööpäev juba kell 6 hommikul.",
+            "Laulja andis raadiole intervjuu."
+          ],
+          "synonyms": [
+            "raadiojaam",
+            "jaam",
+            "raadiokanal",
+            "raadiosaade"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "radio",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "радио",
+                "weight": 1
+              },
+              {
+                "words": "радиовещание",
+                "weight": 1
+              },
+              {
+                "words": "радиостанция",
+                "weight": 1
+              },
+              {
+                "words": "рация",
+                "weight": 1
+              },
+              {
+                "words": "радиовещательная станция",
+                "weight": 1
+              },
+              {
+                "words": "радиовещательный передатчик",
+                "weight": 1
+              },
+              {
+                "words": "радиопередача",
+                "weight": 1
+              },
+              {
+                "words": "радиоканал",
+                "weight": 0.689
+              },
+              {
+                "words": "радиопередача,передача по радио",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "seade raadiosaadete vastuvõtuks ja kuulamiseks,aparaat, kust saab kuulata läbi õhu levivaid saateid; need saated",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mees ostis endale uue raadio.",
+            "Pane raadio mängima.",
+            "Kuulasin raadiost uudiseid.",
+            "Ta esineb sageli raadios.",
+            "Vanaema kuulab raadiot."
+          ],
+          "synonyms": [
+            "raadioaparaat",
+            "raadiovastuvõtja",
+            "lustikummut",
+            "plärakast"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "radio",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "radio",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "радио",
+                "weight": 1
+              },
+              {
+                "words": "радиоприёмник",
+                "weight": 1
+              },
+              {
+                "words": "приёмник",
+                "weight": 1
+              },
+              {
+                "words": "радиовещательный приёмник",
+                "weight": 1
+              },
+              {
+                "words": "радиоаппарат",
+                "weight": 1
+              },
+              {
+                "words": "радиопередатчик",
+                "weight": 1
+              },
+              {
+                "words": "передатчик",
+                "weight": 1
+              },
+              {
+                "words": "говорильник",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "радіо",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "raadioside",
+        "raadiosaade",
+        "raadiojaam",
+        "plärakast",
+        "pill",
+        "pill",
+        "raadiovastuvõtja",
+        "ringhääling",
+        "lustikummut",
+        "raadioaparaat",
+        "netiraadio",
+        "riigiraadio",
+        "autoraadio",
+        "raadiokanal",
+        "kommertsraadio",
+        "kellraadio",
+        "raadiopoi"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "raadio",
+      "translations": [
+        "radio (seade",
+        "edastusviis jms)"
+      ]
+    }
+  ]
+}

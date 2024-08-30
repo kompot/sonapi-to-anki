@@ -1,0 +1,64 @@
+{
+  "requestedWord": "lähistel",
+  "estonianWord": "lähistel",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "lähistel"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vahemaa või hulga poolest millegi lähedal, läheduses",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Hiiumaa lähistel on merepõhjas huvitavaid vrakke.",
+            "Eesti idaosas on õhusooja 10 kraadi lähistel."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вблизи",
+                "weight": 1
+              },
+              {
+                "words": "около",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ümberkaudu",
+        "lähistele",
+        "jõeluht",
+        "lähedal",
+        "külas",
+        "ääres",
+        "lähistelt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "lähistel",
+      "translations": []
+    }
+  ]
+}

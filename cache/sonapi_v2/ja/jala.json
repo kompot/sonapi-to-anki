@@ -1,0 +1,107 @@
+{
+  "requestedWord": "jala",
+  "estonianWord": "jala",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "jala"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kõndides, liiklusvahendit kasutamata,kõndides, mitte sõidukiga",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ilus ilm ja tee pole pikk, lähme parem jala.",
+            "Läksin linnast jala koju.",
+            "Kas lähme autoga või jala?"
+          ],
+          "synonyms": [
+            "jalgsi",
+            "omal jalal",
+            "kondimootoriga"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "on foot",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "à pied",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "пешком",
+                "weight": 1
+              },
+              {
+                "words": "пешечком",
+                "weight": 1
+              },
+              {
+                "words": "пешочком",
+                "weight": 1
+              },
+              {
+                "words": "самостоятельно,на своих ногах",
+                "weight": 0.9
+              },
+              {
+                "words": "на своих двоих,пехтурой",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пішки",
+                "weight": 1
+              },
+              {
+                "words": "пішака",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "jalgsi",
+        "kondimootoriga",
+        "kand ja varvas",
+        "omal jalal",
+        "jalapink",
+        "jalg",
+        "jalavõlv",
+        "jalalaba",
+        "kondiaur"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "jala",
+      "translations": [
+        "on foot"
+      ]
+    }
+  ]
+}

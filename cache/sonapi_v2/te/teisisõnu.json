@@ -1,0 +1,99 @@
+{
+  "requestedWord": "teisisõnu",
+  "estonianWord": "teisisõnu",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "teisisõnu"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "teiste sõnadega, teisiti öeldes,osutab, et järgneb eelnevat tekstiosa (sõna, väljendit või lauset) edasi andev ümberütlus",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Film valmib Ameerika presidendivalimiste ajaks ehk teisisõnu novembriks.",
+            "Olukorra kirjeldus viitab diskrimineerimisele ehk teisi sõnu inimeste eristamisele nende kvalifikatsiooni või võimete seisukohast ebaoluliste tunnuste alusel."
+          ],
+          "synonyms": [
+            "teisi sõnu"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "иными словами",
+                "weight": 1
+              },
+              {
+                "words": "другими словами",
+                "weight": 1
+              },
+              {
+                "words": "словом",
+                "weight": 1
+              },
+              {
+                "words": "то есть",
+                "weight": 1
+              },
+              {
+                "words": "иначе говоря",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "erinevalt",
+        "isemoodi",
+        "naaviisi",
+        "alias",
+        "alias",
+        "naapidi",
+        "naa",
+        "muidu",
+        "teistviisi",
+        "omamoodi",
+        "teistmoodi",
+        "teisipidi",
+        "teisiti",
+        "intransitiivsus",
+        "negatiivsus",
+        "kujundlikult",
+        "nulltolerants",
+        "teisik",
+        "lihtsamalt",
+        "üldisemalt",
+        "ehk",
+        "infosõda",
+        "siis",
+        "transitiivsus",
+        "transitiivne",
+        "piltlikult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "teisisõnu",
+      "translations": [
+        "in other words"
+      ]
+    }
+  ]
+}

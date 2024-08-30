@@ -1,0 +1,58 @@
+{
+  "requestedWord": "strateegiliselt",
+  "estonianWord": "strateegiliselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "strateegiliselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "стратегически",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "taktikaliselt",
+        "strateegiline",
+        "tähtis",
+        "eluliselt",
+        "sõjaliselt",
+        "majanduslikult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "strateegiliselt",
+      "translations": [
+        "strategically"
+      ]
+    }
+  ]
+}

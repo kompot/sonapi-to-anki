@@ -1,0 +1,110 @@
+{
+  "requestedWord": "paremal",
+  "estonianWord": "paremal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "paremal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "keha keskjoonest südamest teisel pool,parema käe pool",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Paremal all on lukustusnupp.",
+            "Laps istus emast paremal."
+          ],
+          "synonyms": [
+            "paremal pool",
+            "hüvakul"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "à droite",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "направо",
+                "weight": 1
+              },
+              {
+                "words": "вправо",
+                "weight": 1
+              },
+              {
+                "words": "по правую сторону",
+                "weight": 1
+              },
+              {
+                "words": "на правой стороне",
+                "weight": 1
+              },
+              {
+                "words": "справа",
+                "weight": 1
+              },
+              {
+                "words": "с правой стороны",
+                "weight": 1
+              },
+              {
+                "words": "справа,по правую сторону",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "праворуч",
+                "weight": 1
+              },
+              {
+                "words": "справа",
+                "weight": 1
+              },
+              {
+                "words": "з правого боку",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hüvakul",
+        "paremale",
+        "paremalt",
+        "vasemal",
+        "vasem",
+        "pahemal",
+        "vasakul",
+        "paremklikk"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "paremal",
+      "translations": [
+        "on the right"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "requestedWord": "ehkki",
+  "estonianWord": "ehkki",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ehkki"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "alustab kõrvallauset, mis toob esile asjaolu, millest hoolimata pealauses märgitud olukord või tegevus siiski aset leiab,alustab lauses osa, mis toob esile asjaolu, millest hoolimata mingi olukord või tegevus aset leiab",
+          "partOfSpeech": [
+            {
+              "code": "konj",
+              "value": "sidesõna, konjunktsioon"
+            }
+          ],
+          "examples": [
+            "Ehkki ta on veel noor mees, hakkavad juuksed juba halliks minema.",
+            "Ta ei tulnud, ehkki lubas.",
+            "Need marjad on tervislikud, ehkki mitte kõige maitsvamad.",
+            "Läksin peole, ehkki olin väsinud.",
+            "Mul hakkas külm, ehkki olin soojalt riides."
+          ],
+          "synonyms": [
+            "ehk küll",
+            "kuigi",
+            "olgu et",
+            "olgugi et",
+            "olgu peale",
+            "olgu pealegi",
+            "olenemata,sõltumata,olenematult",
+            "hoolimata,vaatamata"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "although",
+                "weight": 1
+              },
+              {
+                "words": "albeit",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "bien que",
+                "weight": 1
+              },
+              {
+                "words": "même si",
+                "weight": 1
+              },
+              {
+                "words": "malgré,en dépit de",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "хотя",
+                "weight": 1
+              },
+              {
+                "words": "хоть",
+                "weight": 1
+              },
+              {
+                "words": "хотя и",
+                "weight": 1
+              },
+              {
+                "words": "несмотря на",
+                "weight": 1
+              },
+              {
+                "words": "несмотря на то что",
+                "weight": 1
+              },
+              {
+                "words": "независимо,безотносительно,вне зависимости от,независимо от,несмотря на",
+                "weight": 0.7
+              },
+              {
+                "words": "несмотря на то что,несмотря на,невзирая на,вопреки,не обращая внимания",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "хоч",
+                "weight": 1
+              },
+              {
+                "words": "хоча",
+                "weight": 1
+              },
+              {
+                "words": "хоч і",
+                "weight": 1
+              },
+              {
+                "words": "хоча й",
+                "weight": 1
+              },
+              {
+                "words": "незважаючи на те, що",
+                "weight": 1
+              },
+              {
+                "words": "дарма що",
+                "weight": 1
+              },
+              {
+                "words": "незважаючи на,попри,невважаючи на",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vaatamata",
+        "kui ka",
+        "ehk küll",
+        "olgugi et",
+        "kuigi",
+        "hoolimata",
+        "seetõttu",
+        "isegi",
+        "ilmselt",
+        "endiselt",
+        "sest",
+        "kuna",
+        "kuna",
+        "küll",
+        "küll",
+        "see",
+        "ent",
+        "olgugi",
+        "mistõttu",
+        "seega",
+        "tegelikult",
+        "paraku",
+        "vaid",
+        "kuid",
+        "aga",
+        "aga",
+        "siiski"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ehkki",
+      "translations": [
+        "albeit",
+        "although"
+      ]
+    }
+  ]
+}

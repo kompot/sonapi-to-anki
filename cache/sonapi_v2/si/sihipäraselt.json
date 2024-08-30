@@ -1,0 +1,74 @@
+{
+  "requestedWord": "sihipäraselt",
+  "estonianWord": "sihipäraselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sihipäraselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kindla eesmärgi kohaselt, kindlat eesmärki taotledes,määratud otstarbele vastavalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Põllul hõbedakogule sattunud mees ei olnud juhuslik möödakõndija, vaid tegutses sihipäraselt – metalliotsijaga.",
+            "Selgus, et raha ei kasutatud sihipäraselt."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "целеустремлённо",
+                "weight": 1
+              },
+              {
+                "words": "целенаправленно",
+                "weight": 1
+              },
+              {
+                "words": "направленно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sihipärane",
+        "mittesihipärane",
+        "sihiteadlikult",
+        "seaduspäraselt",
+        "tulemuslikult",
+        "sääraselt",
+        "eripäraselt",
+        "eesmärgipäraselt",
+        "sihtotstarbeliselt",
+        "õiguspäraselt",
+        "sihipäratu",
+        "sihipärasus",
+        "otstarbekalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sihipäraselt",
+      "translations": []
+    }
+  ]
+}

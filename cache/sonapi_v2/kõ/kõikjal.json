@@ -1,0 +1,119 @@
+{
+  "requestedWord": "kõikjal",
+  "estonianWord": "kõikjal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kõikjal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "igas kohas, kõikides kohtades,kõikides kohtades, igas kohas",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Täna sajab kõikjal Eestis vihma.",
+            "Veekindel korpus lubab selle kaameraga pildistada kõikjal.",
+            "Armunud käivad kõikjal koos.",
+            "Sellest uudisest räägitakse kõikjal."
+          ],
+          "synonyms": [
+            "igal pool"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "everywhere",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "partout",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "везде",
+                "weight": 1
+              },
+              {
+                "words": "всюду",
+                "weight": 1
+              },
+              {
+                "words": "повсюду",
+                "weight": 1
+              },
+              {
+                "words": "повсеместно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "всюди",
+                "weight": 1
+              },
+              {
+                "words": "повсюди",
+                "weight": 1
+              },
+              {
+                "words": "скрізь",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ümberringi",
+        "ringiratast",
+        "igal sammul",
+        "üldiselt",
+        "praktiliselt",
+        "laialipillatult",
+        "kõik",
+        "mujal",
+        "otsatult",
+        "kõikjalt",
+        "haruldaselt",
+        "kõikjale",
+        "kogu",
+        "kogu",
+        "kogu",
+        "laialdaselt",
+        "alati",
+        "siin-seal",
+        "nii",
+        "peaaegu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kõikjal",
+      "translations": [
+        "everywhere",
+        "far and wide",
+        "high and low"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "requestedWord": "sunnil",
+  "estonianWord": "sunnil",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "sunnil"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mingist asjaolust tingituna, mingil tungival põhjusel",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Olin produtsent olude sunnil.",
+            "Naine käib kalmistul südame sunnil."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "по воле",
+                "weight": 1
+              },
+              {
+                "words": "по велению",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "mõjul",
+        "õhutusel",
+        "uhal",
+        "ajel",
+        "tõttu",
+        "sunnitud",
+        "korral",
+        "sunniviisil",
+        "sunnivõim",
+        "sunnik"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "sunnil",
+      "translations": []
+    }
+  ]
+}

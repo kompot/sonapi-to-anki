@@ -1,0 +1,158 @@
+{
+  "requestedWord": "kõrgelt",
+  "estonianWord": "kõrgelt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kõrgelt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "maapinnast tublisti ülaltpoolt,maapinnast kaugelt, ülaltpoolt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kukkus kõrgelt alla.",
+            "Laps ei saa kõrgelt puu otsast õunu kätte.",
+            "Kõrgemalt avanes ilus vaade."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "haut",
+                "weight": 1
+              },
+              {
+                "words": "de haut",
+                "weight": 1
+              },
+              {
+                "words": "d'en haut",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "с высоты",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з висоти",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "seisundilt, tasemelt silmapaistvalt,väga, suurel määral,väga",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõrgelt haritud mees.",
+            "Eriti kõrgelt hindas õpetaja tema järjekindlust.",
+            "Ta ema on kõrgelt hinnatud arst.",
+            "Martin on kõrgelt haritud mees."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "hautement",
+                "weight": 1
+              },
+              {
+                "words": "très",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "высоко",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "високо",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "koguselt, hulgalt rohkesti, kõvasti",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõrgelt tasustatud spetsialistid."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "(hääle, heli kohta:) kõrgemate toonidega, kõrgemas registris",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kontratenorid võivad väga kõrgelt laulda."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "madalalt",
+        "kõrgele",
+        "madalamalt",
+        "kõrgel",
+        "silmapaistvalt",
+        "hindavalt",
+        "kõrgelennuline",
+        "haritud",
+        "kõrgeimalt",
+        "hinnatud",
+        "kõrgesti",
+        "kvalifitseeritud",
+        "kaugelt",
+        "kõrgemalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kõrgelt",
+      "translations": [
+        "highly"
+      ]
+    }
+  ]
+}

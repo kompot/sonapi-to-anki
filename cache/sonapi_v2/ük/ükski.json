@@ -1,0 +1,215 @@
+{
+  "requestedWord": "ükski",
+  "estonianWord": "ükski",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "0",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "ükski"
+        },
+        {
+          "inflectionType": "0",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "ühegi"
+        },
+        {
+          "inflectionType": "0",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "ühtki,ühtegi"
+        },
+        {
+          "inflectionType": "0",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "ühtegi"
+        },
+        {
+          "inflectionType": "0",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "ühessegi"
+        },
+        {
+          "inflectionType": "0",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "üheski"
+        },
+        {
+          "inflectionType": "0",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "ühestki"
+        },
+        {
+          "inflectionType": "0",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "ühelegi"
+        },
+        {
+          "inflectionType": "0",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "ühelgi"
+        },
+        {
+          "inflectionType": "0",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "üheltki"
+        },
+        {
+          "inflectionType": "0",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "ühekski"
+        },
+        {
+          "inflectionType": "0",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "ühenigi"
+        },
+        {
+          "inflectionType": "0",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "ühenagi"
+        },
+        {
+          "inflectionType": "0",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "ühetagi"
+        },
+        {
+          "inflectionType": "0",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "ühegagi"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mitte ainuski, mitte mingi,mitte mingi, mitte mingisugune",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Ükski sõber ei tulnud appi.",
+            "Me ei teadnud ühtegi vastust.",
+            "Ükski küsimus ei ole rumal.",
+            "Tal pole ühtegi sõpra.",
+            "Seda ei tohi ühelgi juhul teha."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "aucun",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "ни один",
+                "weight": 1
+              },
+              {
+                "words": "ни единый",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "жодний",
+                "weight": 1
+              },
+              {
+                "words": "жоден",
+                "weight": 1
+              },
+              {
+                "words": "ні один",
+                "weight": 1
+              },
+              {
+                "words": "ніякий",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mitte keegi",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Ükski ei taibanud, mis juttu ta ajab.",
+            "Kõik on kohal, mitte ükski ei puudu.",
+            "Peatuses seisis mitu inimest, kuid ükski neist ei astunud bussi."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "никто",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "ніхто",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ükskõik kes teine, mis tahes muu",
+          "partOfSpeech": [
+            {
+              "code": "pron",
+              "value": "asesõna, pronoomen"
+            }
+          ],
+          "examples": [
+            "Puravik on maitsvam kui ükski teine seen."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "keegi",
+        "pole",
+        "milline",
+        "veel"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ükski",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "requestedWord": "algul",
+  "estonianWord": "algul",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "algul"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "alguses, hetkel, mil miski peale hakkab,millegi alguses, siis, kui miski algas või algab",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Asi pole nii hull, kui algul paistis.",
+            "Algul töötas ta assistendina, hiljem teadurina.",
+            "Möödunud sajandi algul.",
+            "Algul oli mul raske, pärast harjusin ära.",
+            "Töö polnudki nii väsitav, kui algul tundus.",
+            "Lähen juuli algul reisile."
+          ],
+          "synonyms": [
+            "alul",
+            "hakul",
+            "esipuhku,esialgu",
+            "esimese valuga,esimese uhaga,esimese hooga",
+            "enne,esmalt,kõigepealt",
+            "algselt",
+            "esiteks",
+            "algatuseks"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "in the beginning",
+                "weight": 1
+              },
+              {
+                "words": "first of all,first,firstly",
+                "weight": 0.9
+              },
+              {
+                "words": "originally,initially",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "d'abord",
+                "weight": 1
+              },
+              {
+                "words": "au début",
+                "weight": 1
+              },
+              {
+                "words": "au début,(tout) d'abord",
+                "weight": 0.815
+              },
+              {
+                "words": "d'abord",
+                "weight": 0.9
+              },
+              {
+                "words": "au départ,à l'origine,initialement",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "сначала",
+                "weight": 1
+              },
+              {
+                "words": "вначале",
+                "weight": 1
+              },
+              {
+                "words": "в начале",
+                "weight": 1
+              },
+              {
+                "words": "в первое время",
+                "weight": 1
+              },
+              {
+                "words": "на первых порах",
+                "weight": 1
+              },
+              {
+                "words": "поначалу",
+                "weight": 1
+              },
+              {
+                "words": "в начале",
+                "weight": 0.9
+              },
+              {
+                "words": "в первое время,сперва,на первых порах,пока что,поначалу,пока,первоначально,вначале,сначала",
+                "weight": 0.815
+              },
+              {
+                "words": "прежде всего,в первую очередь,сначала,прежде,сперва",
+                "weight": 0.9
+              },
+              {
+                "words": "изначально,первоначально",
+                "weight": 0.9
+              },
+              {
+                "words": "сперва,сначала,поначалу,прежде всего,вначале",
+                "weight": 0.9
+              },
+              {
+                "words": "для начала",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "спочатку",
+                "weight": 1
+              },
+              {
+                "words": "на початку",
+                "weight": 1
+              },
+              {
+                "words": "спершу",
+                "weight": 1
+              },
+              {
+                "words": "поки,поки що,спершу,на початку,спочатку",
+                "weight": 0.815
+              },
+              {
+                "words": "спочатку,насамперед,передусім,найперше,перш за все,у першу чергу",
+                "weight": 0.9
+              },
+              {
+                "words": "первісно,первинно,спочатку",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "esialgselt",
+        "esmalt",
+        "hakul",
+        "esimesel hoobil",
+        "esimese hooga",
+        "esimese jutiga",
+        "esmapilgul",
+        "alguses",
+        "algselt",
+        "esialgu",
+        "esiotsa",
+        "enne",
+        "esiti",
+        "esiteks",
+        "algupool",
+        "lõpupoole",
+        "algupoole",
+        "lõpuks",
+        "enne",
+        "keskpaiku",
+        "keskel",
+        "lõpusilp",
+        "algult",
+        "lõpupool",
+        "hiljem",
+        "lõpus"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "algul",
+      "translations": [
+        "at first"
+      ]
+    }
+  ]
+}

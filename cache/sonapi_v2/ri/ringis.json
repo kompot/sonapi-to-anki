@@ -1,0 +1,268 @@
+{
+  "requestedWord": "ringis",
+  "estonianWord": "ringis",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ringis"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(hrl koos arvulise näitajaga:) umbes, ligikaudu,(ajaliselt:) ligikaudu mingil ajal",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Paistis välja viiekümne ringis mehena.",
+            "Keskmine palk oli kunagi 1000 euro ringis.",
+            "Ärkan tavaliselt 10 ringis."
+          ],
+          "synonyms": [
+            "ümber",
+            "üks",
+            "ajal"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "с",
+                "weight": 1
+              },
+              {
+                "words": "приблизительно",
+                "weight": 1
+              },
+              {
+                "words": "примерно",
+                "weight": 1
+              },
+              {
+                "words": "почти,с,примерно,приблизительно",
+                "weight": 0.9
+              },
+              {
+                "words": "во время",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "pendant",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "під час",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "during",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mitte päris täpselt, enam-vähem, ligilähedaselt,mitte päris täpselt, ligikaudu, enam-vähem",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "umbkaudu",
+            "umbes",
+            "nii",
+            "ligikaudu",
+            "ligikaudselt",
+            "umbkaudselt",
+            "arvata",
+            "kusagil",
+            "u",
+            "kuskil",
+            "nõnda",
+            "kuski",
+            "üks",
+            "orienteerivalt,orienteeruvalt",
+            "enam-vähem"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "approximately",
+                "weight": 1
+              },
+              {
+                "words": "more or less",
+                "weight": 1
+              },
+              {
+                "words": "roughly",
+                "weight": 1
+              },
+              {
+                "words": "more or less",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "approximativement",
+                "weight": 1
+              },
+              {
+                "words": "environ",
+                "weight": 1
+              },
+              {
+                "words": "à peu près",
+                "weight": 1
+              },
+              {
+                "words": "à peu près,plus ou moins,presque",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "около",
+                "weight": 1
+              },
+              {
+                "words": "приблизительно",
+                "weight": 1
+              },
+              {
+                "words": "почти",
+                "weight": 1
+              },
+              {
+                "words": "так",
+                "weight": 1
+              },
+              {
+                "words": "порядка",
+                "weight": 1
+              },
+              {
+                "words": "почти что",
+                "weight": 1
+              },
+              {
+                "words": "на круг",
+                "weight": 1
+              },
+              {
+                "words": "приближённо",
+                "weight": 1
+              },
+              {
+                "words": "ориентировочно",
+                "weight": 1
+              },
+              {
+                "words": "грубо говоря",
+                "weight": 1
+              },
+              {
+                "words": "где-то",
+                "weight": 1
+              },
+              {
+                "words": "примерно",
+                "weight": 1
+              },
+              {
+                "words": "почти,приблизительно,примерно,с",
+                "weight": 0.9
+              },
+              {
+                "words": "ориентировочно,примерно,приблизительно",
+                "weight": 0.7
+              },
+              {
+                "words": "более или менее,почти",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "майже",
+                "weight": 1
+              },
+              {
+                "words": "приблизно",
+                "weight": 1
+              },
+              {
+                "words": "більш-менш,майже",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ajal",
+        "nii",
+        "ligikaudu",
+        "umbes",
+        "umbes",
+        "nõnda",
+        "ümber",
+        "ligilähedalt",
+        "peaaegu",
+        "tuuris",
+        "tuuris",
+        "orienteerivalt",
+        "oma",
+        "oma",
+        "oma",
+        "mõni",
+        "umbkaudselt",
+        "aegu",
+        "na",
+        "ümmarguselt",
+        "üks",
+        "umbkaudu",
+        "ligikaudselt",
+        "arvata",
+        "ringitöö",
+        "ringi",
+        "ring",
+        "ringik",
+        "ringike"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ringis",
+      "translations": [
+        "in a circle"
+      ]
+    }
+  ]
+}

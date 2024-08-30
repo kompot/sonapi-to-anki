@@ -1,0 +1,424 @@
+{
+  "requestedWord": "pealt",
+  "estonianWord": "pealt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "pealt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi või kellegi ülapoolelt, pealispinnalt, millestki kõrgemalt (ära),millegi (ülemiselt) pinnalt (ära),katmast (ära)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Tõstsin kohvri riiuli pealt alla.",
+            "Astus bussi pealt maha.",
+            "Särk oli selja pealt lõhki.",
+            "Sibul on seest siiruviiruline, pealt kullakarvaline.",
+            "Kallur lükkas koorma pealt maha.",
+            "Majal on värv pealt maha tulnud.",
+            "Võta pann pliidi pealt ära.",
+            "Koer hüppab tooli pealt maha."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "с",
+                "weight": 1
+              },
+              {
+                "words": "со",
+                "weight": 1
+              },
+              {
+                "words": "сверху",
+                "weight": 1
+              },
+              {
+                "words": "снаружи",
+                "weight": 1
+              },
+              {
+                "words": "на",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з",
+                "weight": 1
+              },
+              {
+                "words": "із",
+                "weight": 1
+              },
+              {
+                "words": "зі",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "midagi katmast, varjamast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Laps on teki pealt ära ajanud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "сверху",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kehaasendist kõneldes:) nii, et lakatakse põhisõnaga märgitud kehaosale toetumast",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Magaja keeras end selja pealt külje peale.",
+            "Mees tammus jala pealt jala peale."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "с",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab kohale, kust keegi või miski läheb, liigub või kust midagi saadakse,osutab kohale, kust keegi tuleb",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Kalurid tulid paadiga järve pealt.",
+            "Mine mul tee pealt eest!",
+            "Ostsin selle nurga pealt poest.",
+            "Tüdrukud jõudsid linna pealt alles õhtul.",
+            "Tulin just rongi pealt."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "с",
+                "weight": 1
+              },
+              {
+                "words": "из",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з",
+                "weight": 1
+              },
+              {
+                "words": "із",
+                "weight": 1
+              },
+              {
+                "words": "зі",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teatud kauguselt, teatud vahemaa tagant",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Peolärmi oli juba hulga maa pealt kuulda."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingist suunast, mingilt poolt",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Tuul puhus külje pealt.",
+            "Seda asja tuleb iga kandi pealt kaaluda, enne kui otsus teha."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "с",
+                "weight": 1
+              },
+              {
+                "words": "со",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab ametile, tegevusele või seisundile, millest keegi loobub või lahkub",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Tulin selle töö pealt ära.",
+            "Ta sai direktori koha pealt lahti.",
+            "Kütmine viidi masuudi pealt elektri peale."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "с",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(seoses protsessi või tegevuse katkemisega)",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Aeti öösel une pealt üles.",
+            "Tulime poole etenduse pealt ära.",
+            "Hüppas sõidu pealt rongist välja.",
+            "Magusaisu läks pealt ära."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "с",
+                "weight": 1
+              },
+              {
+                "words": "со",
+                "weight": 1
+              },
+              {
+                "words": "на",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab sellele, kelle või mille eest või arvel midagi saadakse või loovutatakse,osutab sellele, mida piiratakse millegi saamiseks",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Teenis selle tehingu pealt kenakese summa.",
+            "Ühise kingituse jaoks tuli maksta kümme eurot inimese pealt.",
+            "Poiss on õige vastuse teiste pealt maha kirjutanud.",
+            "Hoian toidu pealt raha kokku."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "на",
+                "weight": 1
+              },
+              {
+                "words": "з",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab ülimale täpsusastmele",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Maksan selle kõik sendi pealt kinni.",
+            "Ta tuleb alati kella pealt."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "до",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "rohkem kui, enam kui, üle (hrl vanusega ühenduses)",
+          "partOfSpeech": [
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Naine juba pealt viiekümne."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "за",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "pealtpoolt",
+        "poolt",
+        "tagant",
+        "loopima",
+        "otsast",
+        "üle",
+        "ülal",
+        "äärest",
+        "peal",
+        "pealpool",
+        "kõrvale",
+        "alla",
+        "alla",
+        "ülalt",
+        "üleval",
+        "kõrbema",
+        "ülevalt",
+        "ülevalt",
+        "kõrvale hiilima",
+        "lahti saama",
+        "maha",
+        "lahti",
+        "küljest",
+        "seljast",
+        "lahti lõikama",
+        "ära",
+        "ära",
+        "jalapealt",
+        "peale",
+        "otsaeest",
+        "pealepoole",
+        "sendipealt",
+        "alt",
+        "alt",
+        "paugupealt",
+        "seest",
+        "punktipealt",
+        "käigupealt",
+        "korrapealt",
+        "kohapealt",
+        "vahelt",
+        "pealttuule",
+        "vahepealt",
+        "täpipealt",
+        "poole",
+        "poole"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pealt",
+      "translations": []
+    }
+  ]
+}

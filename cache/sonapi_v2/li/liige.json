@@ -1,0 +1,495 @@
+{
+  "requestedWord": "liige",
+  "estonianWord": "liige",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "5",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "liige"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "liikme"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "liiget"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "liikmesse"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "liikmes"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "liikmest"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "liikmele"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "liikmel"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "liikmelt"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "liikmeks"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "liikmeni"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "liikmena"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "liikmeta"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "liikmega"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "liikmed"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "liikmete"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "liikmeid"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "liikmetesse,liikmeisse"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "liikmetes,liikmeis"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "liikmetest,liikmeist"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "liikmetele,liikmeile"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "liikmetel,liikmeil"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "liikmetelt,liikmeilt"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "liikmeteks,liikmeiks"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "liikmeteni"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "liikmetena"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "liikmeteta"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "liikmetega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "inimene, rühm või riik, kes kuulub organisatsiooni, liitu vm ühendusse,mingisse organisatsiooni või rühma kuuluv inimene või riik",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Riigikogu liikmed.",
+            "Juhatuse liikmete koosolek.",
+            "Island on NATO liige.",
+            "Seltsi võeti kolm uut liiget.",
+            "Selts võttis koosolekul vastu kolm uut liiget.",
+            "Eesti on ÜRO liige."
+          ],
+          "synonyms": [
+            "saadik"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "membre",
+                "weight": 1
+              },
+              {
+                "words": "député,députée",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "член",
+                "weight": 1
+              },
+              {
+                "words": "депутат,депутатка",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "член",
+                "weight": 1
+              },
+              {
+                "words": "членкиня",
+                "weight": 1
+              },
+              {
+                "words": "депутат,депутатка",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "liikuv kehaosa, nt käsi või jalg,liiges",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Peaks istumisest kangeid liikmeid sirutama.",
+            "Kõik luud ja liikmed valutavad.",
+            "Ta väänas labajala liikmest välja."
+          ],
+          "synonyms": [
+            "ihuliige,kehaliige",
+            "liiges"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "часть тела",
+                "weight": 1
+              },
+              {
+                "words": "член",
+                "weight": 1
+              },
+              {
+                "words": "сустав",
+                "weight": 1
+              },
+              {
+                "words": "часть тела,член тела",
+                "weight": 0.75
+              },
+              {
+                "words": "сустав,сочленение",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "articulation",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "суглоб",
+                "weight": 0.7
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mehe või isaslooma suguelund, mille kaudu väljub seemnevedelik,mehe kehaosa, mida ta kasutab seksiks ja selleks, et uriini välja lasta",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [
+            "suguti",
+            "peenis",
+            "suguliige",
+            "kürb",
+            "riist",
+            "vänt",
+            "rippriist",
+            "fallos",
+            "tillu",
+            "türa,munn,till,võmp",
+            "lont",
+            "noku"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "penis",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "pénis",
+                "weight": 1
+              },
+              {
+                "words": "verge",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "пенис",
+                "weight": 1
+              },
+              {
+                "words": "половой член",
+                "weight": 1
+              },
+              {
+                "words": "мужской половой член",
+                "weight": 1
+              },
+              {
+                "words": "член",
+                "weight": 1
+              },
+              {
+                "words": "хрен",
+                "weight": 1
+              },
+              {
+                "words": "фаллос",
+                "weight": 0.9
+              },
+              {
+                "words": "писька,пипка,писюлька,пися,писуля,писюн",
+                "weight": 0.9
+              },
+              {
+                "words": "хрен,хуй,хер,писюн,стручок",
+                "weight": 0.9
+              },
+              {
+                "words": "шланг",
+                "weight": 0.7
+              },
+              {
+                "words": "пися,пипка,писюлька,писька,писюн,писуля",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пеніс",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "iseseisev osa tervikust (nt jadast, mingist järgnevusest)",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Hulkliikme liikmed.",
+            "Koondlause korduvad liikmed."
+          ],
+          "synonyms": [
+            "osa",
+            "osis",
+            "komponent,element"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "член",
+                "weight": 1
+              },
+              {
+                "words": "доля,часть",
+                "weight": 0.7
+              },
+              {
+                "words": "составная часть,компонент,составляющая,составной элемент",
+                "weight": 0.7
+              },
+              {
+                "words": "составляющая,компонент,составная часть,элемент",
+                "weight": 0.7
+              }
+            ],
+            "fra": [
+              {
+                "words": "partie",
+                "weight": 0.7
+              },
+              {
+                "words": "élément",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "пай,доля,частка,частина",
+                "weight": 0.7
+              },
+              {
+                "words": "елемент",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "element",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "liiges",
+        "riist",
+        "peenis",
+        "komponent",
+        "osa",
+        "osis",
+        "suguliige",
+        "saadik",
+        "liikmeskond",
+        "osanik",
+        "osaleja",
+        "osavõtja",
+        "kehaliige",
+        "varuliige",
+        "tegevliige",
+        "noorliige",
+        "hulkliige",
+        "jääkliige",
+        "toetajaliige",
+        "üksliige",
+        "täisliige",
+        "kollektiivliige",
+        "asutajaliige",
+        "vabaliige",
+        "üksikliige",
+        "pealiige",
+        "auliige",
+        "lihtliige",
+        "esimees"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "liige",
+      "translations": [
+        "fellow",
+        "member"
+      ]
+    }
+  ]
+}

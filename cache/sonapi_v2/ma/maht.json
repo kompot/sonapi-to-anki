@@ -1,0 +1,413 @@
+{
+  "requestedWord": "maht",
+  "estonianWord": "maht",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "maht"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "mahu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "mahtu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "mahtu"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "mahusse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "mahus"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "mahust"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "mahule"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "mahul"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "mahult"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "mahuks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "mahuni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "mahuna"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "mahuta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "mahuga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "mahud"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "mahtude"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "mahte,mahtusid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "mahtudesse,mahesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "mahtudes,mahes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "mahtudest,mahest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "mahtudele,mahele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "mahtudel,mahel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "mahtudelt,mahelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "mahtudeks,maheks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "mahtudeni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "mahtudena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "mahtudeta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "mahtudega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mahutavus (ruumala- või mahuühikutes),see, kui palju ainet mingisse anumasse või ruumi mahub",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Supilusika maht on umbes 20 milliliitrit.",
+            "Ämbri maht on tavaliselt 10 liitrit."
+          ],
+          "synonyms": [
+            "mahtuvus,mahutavus",
+            "V,ruumala",
+            "kapatsiteet"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "volume",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вместимость",
+                "weight": 1
+              },
+              {
+                "words": "ёмкость",
+                "weight": 1
+              },
+              {
+                "words": "вместимость,ёмкость",
+                "weight": 0.7
+              },
+              {
+                "words": "объём",
+                "weight": 0.7
+              },
+              {
+                "words": "ёмкость,вместимость",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "місткість",
+                "weight": 1
+              },
+              {
+                "words": "ємність",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(millegi sisu kohta:) suurus, hulk vms,kõik see, mida miski hõlmab,millegi (sisu) suurus või hulk",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Riigieelarve maht on kolme aasta jooksul kasvanud kolmandiku võrra.",
+            "Mõiste maht.",
+            "Ajakirja maht on 100 lehekülge.",
+            "Sõnaraamat on mahult eelmisest suurem."
+          ],
+          "synonyms": [
+            "kogus,kvantum",
+            "hulk",
+            "pikkus",
+            "suurus",
+            "suurus",
+            "mastaap",
+            "ruum",
+            "piir"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "volume",
+                "weight": 1
+              },
+              {
+                "words": "quantité",
+                "weight": 0.7
+              },
+              {
+                "words": "quantité,nombre",
+                "weight": 0.7
+              },
+              {
+                "words": "durée",
+                "weight": 0.7
+              },
+              {
+                "words": "taille",
+                "weight": 0.7
+              },
+              {
+                "words": "espace,place",
+                "weight": 0.7
+              }
+            ],
+            "rus": [
+              {
+                "words": "объём",
+                "weight": 1
+              },
+              {
+                "words": "объём,количество,партия",
+                "weight": 0.7
+              },
+              {
+                "words": "количество,множество,число,объём",
+                "weight": 0.7
+              },
+              {
+                "words": "продолжительность,длина,долгота",
+                "weight": 0.7
+              },
+              {
+                "words": "размер,величина,численность,объём,площадь",
+                "weight": 0.7
+              },
+              {
+                "words": "граница,охват,предел",
+                "weight": 0.7
+              },
+              {
+                "words": "масштаб",
+                "weight": 0.7
+              },
+              {
+                "words": "место",
+                "weight": 0.7
+              },
+              {
+                "words": "пределы,рамки,границы",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "обсяг",
+                "weight": 1
+              },
+              {
+                "words": "партія,кількість,обсяг",
+                "weight": 0.7
+              },
+              {
+                "words": "кількість,обсяг",
+                "weight": 0.7
+              },
+              {
+                "words": "тривалість,довжина",
+                "weight": 0.7
+              },
+              {
+                "words": "розмір,величина",
+                "weight": 0.7
+              },
+              {
+                "words": "масштаб",
+                "weight": 0.7
+              },
+              {
+                "words": "місце",
+                "weight": 0.7
+              },
+              {
+                "words": "межі,рамки",
+                "weight": 0.7
+              }
+            ],
+            "eng": [
+              {
+                "words": "length,duration",
+                "weight": 0.7
+              },
+              {
+                "words": "space",
+                "weight": 0.7
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "kogus",
+        "ruumala",
+        "mahutavus",
+        "hulk",
+        "pikkus",
+        "suurus",
+        "kapatsiteet",
+        "ajumaht",
+        "lepingumaht",
+        "andmemaht",
+        "löögimaht",
+        "toodangumaht",
+        "üldmaht",
+        "bilansimaht",
+        "müügimaht",
+        "töömaht",
+        "kogumaht"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "maht",
+      "translations": [
+        "capacity",
+        "cubage",
+        "volume"
+      ]
+    }
+  ]
+}

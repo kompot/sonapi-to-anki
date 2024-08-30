@@ -1,0 +1,65 @@
+{
+  "requestedWord": "külla",
+  "estonianWord": "külla",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "külla"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "külaskäigule, külaliseks kellegi juurde,kellegi juurde koju, et koos aega veeta",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Tulge mulle vahel külla.",
+            "Ootame homme Reinu külla.",
+            "Kutsu kedagi mõnikord ise ka külla!",
+            "Tule mulle homme külla!"
+          ],
+          "synonyms": [
+            "võõrusele"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "в гости",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "у гості",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "draglain",
+        "ülla-ülla"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "külla",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "requestedWord": "teiseks",
+  "estonianWord": "teiseks",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "teiseks"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(asjaolude loetlemisel:) teisena, pärast esimest,teise asjana",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Kõigepealt ma loen, teiseks kirjutan mõtte läbi.",
+            "Teiseks on suur probleem asukoht.",
+            "Esiteks oli etendus igav ja teiseks ka väga pikk."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "secondly",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "deuxièmement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "во-вторых",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "по-друге",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "muundama",
+        "teisendama",
+        "transformeerima",
+        "ümber kujundama",
+        "korraldama",
+        "kolmandaks",
+        "viiendaks",
+        "pooleks",
+        "kuuendaks",
+        "neljandaks",
+        "esimeseks",
+        "esiteks"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "teiseks",
+      "translations": [
+        "secondly"
+      ]
+    }
+  ]
+}

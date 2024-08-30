@@ -1,0 +1,340 @@
+{
+  "requestedWord": "produkt",
+  "estonianWord": "produkt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "22e",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "produkt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "produkti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "produkti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "produkti"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "produktisse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "produktis"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "produktist"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "produktile"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "produktil"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "produktilt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "produktiks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "produktini"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "produktina"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "produktita"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "produktiga"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "produktid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "produktide"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "produkte,produktisid"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "produktidesse,produktesse"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "produktides,produktes"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "produktidest,produktest"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "produktidele,produktele"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "produktidel,produktel"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "produktidelt,produktelt"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "produktideks,produkteks"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "produktideni"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "produktidena"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "produktideta"
+        },
+        {
+          "inflectionType": "22e",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "produktidega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "toode või (looduslik) saadus,tootmise vm tegevuse tulemus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Alkohol on looduslik produkt.",
+            "Metsast saadavad produktid.",
+            "Kunstiteos on loometegevuse produkt."
+          ],
+          "synonyms": [
+            "toode",
+            "vili"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "продукт",
+                "weight": 1
+              },
+              {
+                "words": "продукт,изделие",
+                "weight": 0.9
+              },
+              {
+                "words": "плоды",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "produit",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "виріб,продукт",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(poes müüdav) toiduaine",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Ma rivistasin eile pärast poeskäiku produktid aknalauale ja tegin neist pilti.",
+            "Piimaproduktid."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "продукт",
+                "weight": 1
+              },
+              {
+                "words": "продукт питания",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi tekitatud, põhjustatud asjaolu või nähtus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Oleme ühiskonna produktid."
+          ],
+          "synonyms": [
+            "resultaat,tulemus",
+            "vili"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "продукт",
+                "weight": 1
+              },
+              {
+                "words": "итог,результат,следствие,последствие",
+                "weight": 0.9
+              },
+              {
+                "words": "плод",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "résultat",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "результат,підсумок",
+                "weight": 0.9
+              }
+            ],
+            "eng": [
+              {
+                "words": "result",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "vili",
+        "resultaat",
+        "saam",
+        "sünnitis",
+        "fabrikaat",
+        "saagis",
+        "toode",
+        "tulemus",
+        "tulem",
+        "tagajärg",
+        "saadus",
+        "sigitis",
+        "lagunemisprodukt",
+        "kõrvalprodukt",
+        "vaheprodukt",
+        "laguprodukt",
+        "produktsioon",
+        "lõpp-produkt",
+        "jääkprodukt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "produkt",
+      "translations": []
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "requestedWord": "vastastikku",
+  "estonianWord": "vastastikku",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "vastastikku"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(kahe või enama isiku või nähtuse vahel toimuva või olemasoleva kirjeldamisel:) üks ühte ja teine teist, üks ühele ja teine teisele vms",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mehed surusid vastastikku kätt.",
+            "Leping oli neile vastastikku kasulik."
+          ],
+          "synonyms": [
+            "vastakuti",
+            "vastamisi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "взаимно",
+                "weight": 1
+              },
+              {
+                "words": "обоюдно",
+                "weight": 1
+              },
+              {
+                "words": "друг друга",
+                "weight": 1
+              },
+              {
+                "words": "друг другу",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(asendi poolest:) teineteise vastas või vastu",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nad istusid vastastikku, teine teispool lõõmavat lõket."
+          ],
+          "synonyms": [
+            "vastakuti",
+            "vastamisi",
+            "vis-à-vis,visavii"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "друг против друга",
+                "weight": 1
+              },
+              {
+                "words": "против",
+                "weight": 1
+              },
+              {
+                "words": "напротив",
+                "weight": 1
+              },
+              {
+                "words": "напротив,друг против друга,визави",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(üksteisega) vaenutsedes, vastasseisus vms",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Vaenuleerid seisid vastastikku."
+          ],
+          "synonyms": [
+            "vastakuti",
+            "vastamisi"
+          ],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "silm silma vastu",
+        "palgest palgesse",
+        "vastakuti",
+        "silmitsi",
+        "sülitsi",
+        "vastamisi",
+        "visavii",
+        "silmsi",
+        "näost näkku",
+        "teineteise",
+        "üksteise",
+        "vastastikune",
+        "vastastikkus",
+        "üksteist"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "vastastikku",
+      "translations": [
+        "mutually",
+        "vis-a-vis"
+      ]
+    }
+  ]
+}

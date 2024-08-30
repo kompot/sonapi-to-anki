@@ -1,0 +1,915 @@
+{
+  "requestedWord": "pööre",
+  "estonianWord": "pööre",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "6",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "pööre"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "pöörde"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "pööret"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "pöördesse"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "pöördes"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "pöördest"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "pöördele"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "pöördel"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "pöördelt"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "pöördeks"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "pöördeni"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "pöördena"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "pöördeta"
+        },
+        {
+          "inflectionType": "6",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "pöördega"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "pöörded"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "pöörete"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "pöördeid"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "pööretesse,pöördeisse"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "pööretes,pöördeis"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "pööretest,pöördeist"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "pööretele,pöördeile"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "pööretel,pöördeil"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "pööretelt,pöördeilt"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "pööreteks,pöördeiks"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "pööreteni"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "pööretena"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "pööreteta"
+        },
+        {
+          "inflectionType": "6",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "pööretega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "ühekordne täisringis pöördumine ümber telje või keskpunkti,üks ring ümber oma keskmise punkti",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Tsentrifuug teeb 3000 pööret minutis.",
+            "Kõrgematel pööretel on mootori müra suurem."
+          ],
+          "synonyms": [
+            "tuur"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "tour",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "оборот",
+                "weight": 1
+              },
+              {
+                "words": "круговой поворот",
+                "weight": 1
+              },
+              {
+                "words": "оборот",
+                "weight": 0.7
+              }
+            ],
+            "ukr": [
+              {
+                "words": "оберт",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(geomeetrias:) tasandi või ruumi liikumine ümber keskpunkti või telje, mille korral tasandi või ruumi iga punkt liigub mööda ringjoont samas suunas ühe ja sama nurga võrra",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Pööre täisnurga võrra."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "поворот",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "enese keha või sõiduriista pööramine, selle asendi või suuna muutmine,(keha, sõiduki) asendi või suuna muutmine",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Köietantsija tegi riskantse pöörde.",
+            "Tantsijatel polnud ruumi hoogsaid pöördeid võtta.",
+            "Kerepööre.",
+            "Peapööre.",
+            "Auto tegi pöörde vasakule.",
+            "Pöördel läks paat ümber.",
+            "Auto tegi järsu pöörde paremale."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "поворот",
+                "weight": 1
+              },
+              {
+                "words": "оборот",
+                "weight": 1
+              },
+              {
+                "words": "вираж",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "поворот",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "tee vms suuna järsem muutumine,selle muutuse koht",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Matkarada teeb siin pöörde üles mäkke.",
+            "Kõrge, järsu pöördega trepp."
+          ],
+          "synonyms": [
+            "käänak",
+            "käänd",
+            "kääne",
+            "kurv",
+            "teekäänak",
+            "pöörak",
+            "pöörd",
+            "käänukoht",
+            "pöördepunkt",
+            "teepöörak",
+            "pöörang",
+            "looge",
+            "keere,keerang",
+            "jõnks,jonks"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "поворот",
+                "weight": 1
+              },
+              {
+                "words": "изгиб",
+                "weight": 1
+              },
+              {
+                "words": "извилина",
+                "weight": 1
+              },
+              {
+                "words": "излучина",
+                "weight": 1
+              },
+              {
+                "words": "изворот",
+                "weight": 1
+              },
+              {
+                "words": "извив",
+                "weight": 1
+              },
+              {
+                "words": "зигзаг",
+                "weight": 1
+              },
+              {
+                "words": "круговой поворот",
+                "weight": 0.9
+              },
+              {
+                "words": "поворот дороги,извилина дороги",
+                "weight": 0.9
+              },
+              {
+                "words": "переворот,круговой поворот,перелом",
+                "weight": 0.9
+              },
+              {
+                "words": "поворот,изгиб",
+                "weight": 0.9
+              },
+              {
+                "words": "место поворота,круговой поворот",
+                "weight": 0.9
+              },
+              {
+                "words": "изгиб дороги,поворот дороги",
+                "weight": 0.9
+              },
+              {
+                "words": "разворот,заворот,круговой поворот,излучина",
+                "weight": 0.7687
+              },
+              {
+                "words": "извилина,излучина,извив,прогиб,колено,изгиб,завиток",
+                "weight": 0.9
+              },
+              {
+                "words": "круговой поворот,виток,круг,завиток,оборот",
+                "weight": 0.75
+              },
+              {
+                "words": "извилина,изгиб",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "tournant,virage",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "поворот",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "mingi protsessi, sündmuse üldsuunas või sisus toimuv (suur, otsustav) muutus,murrang,oluline muutus mingi protsessi või sündmuse suunas või sisus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Asi võttis halva pöörde.",
+            "Niisugust sündmuste pööret ei osanud oodatagi.",
+            "Millest selline pööre sinu käitumises?",
+            "Kriisile järgneb kas surm või pööre paranemisele.",
+            "Pööre toimus raamatu viimases peatükis.",
+            "Haigus võttis halva pöörde."
+          ],
+          "synonyms": [
+            "murrang",
+            "areng",
+            "kalle",
+            "nihe"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "tournant",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "поворот",
+                "weight": 1
+              },
+              {
+                "words": "оборот",
+                "weight": 1
+              },
+              {
+                "words": "перелом",
+                "weight": 1
+              },
+              {
+                "words": "излом,переворот,перелом",
+                "weight": 0.9
+              },
+              {
+                "words": "сдвиг",
+                "weight": 0.758
+              }
+            ],
+            "ukr": [
+              {
+                "words": "поворот",
+                "weight": 1
+              },
+              {
+                "words": "перелом",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(muusikas:) intervalli või kooskõla helide asetuse muutus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "обращение",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "millegi (näiteks lehe, postkaardi) tagumine külg",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Foto pöördel oli pühendus.",
+            "Jätkake lehe pöördelt.",
+            "Foto pöördele oli kirjutatud kuupäev."
+          ],
+          "synonyms": [
+            "tagakülg",
+            "tagupool,tagapool"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "verso",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "оборот",
+                "weight": 1
+              },
+              {
+                "words": "обратная сторона",
+                "weight": 1
+              },
+              {
+                "words": "зад,обратная сторона,тыл,тыльная сторона,задняя сторона",
+                "weight": 0.9
+              },
+              {
+                "words": "зад,оборот,обратная сторона,тыльная сторона,задняя сторона",
+                "weight": 0.9
+              },
+              {
+                "words": "оборот,задняя сторона,обратная сторона,тыльная сторона",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "зворот",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "grammatiline kategooria, mis tähistab verbi vormi, mis näitab tegijat ja ainsust või mitmust,grammatikas: tegusõna vorm, mis näitab tegijat. Eesti keeles on kolm pööret ainsuses ja mitmuses",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Mitmuse 3. pööre."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "лицо",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "особа",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "käänak",
+        "murrangujärk",
+        "teelahe",
+        "teekäänak",
+        "kääne",
+        "murrang",
+        "teetähis",
+        "pöörak",
+        "pöördemoment",
+        "risttee",
+        "tagapool",
+        "pöörd",
+        "pöörd",
+        "pöördepunkt",
+        "koold",
+        "kurv",
+        "teepöörak",
+        "pöörang",
+        "põige",
+        "murranguaeg",
+        "käänukoht",
+        "looge",
+        "nihe",
+        "käänd",
+        "pöördeaeg",
+        "tagakülg",
+        "käänamine",
+        "tiir",
+        "tiir",
+        "tiir",
+        "keerang",
+        "pöördumine",
+        "areng",
+        "höör",
+        "täispööre",
+        "vääne",
+        "tagasipööre",
+        "pööramine",
+        "keerd",
+        "pöörel",
+        "parempööre",
+        "saltopööre",
+        "pöördenurk",
+        "pöör",
+        "pöördesild",
+        "pöördeline",
+        "paleepööre",
+        "ümberpööre",
+        "pöördetelg",
+        "juunipööre",
+        "pöördering",
+        "kannapööre",
+        "vasakpööre",
+        "pööripäev",
+        "pöördtelg"
+      ]
+    },
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "5",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "pööre"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "pöörme"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "pööret"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "pöörmesse"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "pöörmes"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "pöörmest"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "pöörmele"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "pöörmel"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "pöörmelt"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "pöörmeks"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "pöörmeni"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "pöörmena"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "pöörmeta"
+        },
+        {
+          "inflectionType": "5",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "pöörmega"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "pöörmed"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "pöörmete"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "pöörmeid"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "pöörmetesse,pöörmeisse"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "pöörmetes,pöörmeis"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "pöörmetest,pöörmeist"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "pöörmetele,pöörmeile"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "pöörmetel,pöörmeil"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "pöörmetelt,pöörmeilt"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "pöörmeteks,pöörmeiks"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "pöörmeteni"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "pöörmetena"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "pöörmeteta"
+        },
+        {
+          "inflectionType": "5",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "pöörmetega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "seade rongide või trammide juhtimiseks ühelt rööpmelt teisele",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Pöörmete märgutuled.",
+            "Plaanis on Ülemiste jaama pöörme nr 81 vahetus."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "стрелка",
+                "weight": 1
+              },
+              {
+                "words": "стрелочный перевод",
+                "weight": 1
+              },
+              {
+                "words": "железнодорожная стрелка",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "käänak",
+        "teelahe",
+        "pöörd",
+        "pöörang",
+        "pööripäev",
+        "tagapool",
+        "murrangujärk",
+        "teekäänak",
+        "kääne",
+        "murrang",
+        "teetähis",
+        "pöörak",
+        "pöördemoment",
+        "risttee",
+        "pöörd",
+        "pöördepunkt",
+        "koold",
+        "kurv",
+        "teepöörak",
+        "põige",
+        "murranguaeg",
+        "käänukoht",
+        "looge",
+        "nihe",
+        "käänd",
+        "pöördeaeg",
+        "tagakülg",
+        "käänamine",
+        "tiir",
+        "tiir",
+        "tiir",
+        "keerang",
+        "pöördumine",
+        "areng",
+        "höör",
+        "täispööre",
+        "vääne",
+        "tagasipööre",
+        "pööramine",
+        "keerd",
+        "pöörel",
+        "parempööre",
+        "saltopööre",
+        "pöördenurk",
+        "pöör",
+        "pöördesild",
+        "pöördeline",
+        "paleepööre",
+        "ümberpööre",
+        "pöördetelg",
+        "juunipööre",
+        "pöördering",
+        "kannapööre",
+        "vasakpööre",
+        "pöördtelg"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "pööre",
+      "translations": [
+        "gyration",
+        "(gramm) person",
+        "revolution",
+        "rotation",
+        "sheer",
+        "turn",
+        "turning",
+        "volte"
+      ]
+    }
+  ]
+}

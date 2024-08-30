@@ -1,0 +1,126 @@
+{
+  "requestedWord": "kallal",
+  "estonianWord": "kallal",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "kallal"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "seisundis, kus ollakse millegagi tegevuses,osutab sellele, millega keegi tegeleb",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Töötab uue romaani kallal.",
+            "Kirjanik töötab uue romaani kallal."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "sur",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "над",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "над",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "sõnade või jõuga ründamas, tülikalt millegi küljes,osutab kellelegi, keda rünnatakse, või asjale, millega toimub midagi halba",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Poisid olid hulgakesi ühe kallal.",
+            "Norib iga pisiasja kallal.",
+            "Mees kasutas naise kallal vägivalda.",
+            "Vargad käisid öösel auto kallal."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "над",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з",
+                "weight": 1
+              },
+              {
+                "words": "із",
+                "weight": 1
+              },
+              {
+                "words": "зі",
+                "weight": 1
+              },
+              {
+                "words": "над",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "nimel",
+        "nokitsema",
+        "palehigis",
+        "kallama",
+        "töötama",
+        "norimine",
+        "kallale",
+        "töö",
+        "kallalt"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "kallal",
+      "translations": [
+        "(millegi) at work"
+      ]
+    }
+  ]
+}

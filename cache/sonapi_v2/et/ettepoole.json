@@ -1,0 +1,132 @@
+{
+  "requestedWord": "ettepoole",
+  "estonianWord": "ettepoole",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ettepoole"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(kaugemale) ette, esiküljele või esiossa,(kaugemale) ette",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Ettepoole kammitud tukk.",
+            "Kummardusin ettepoole.",
+            "Naise pilk oli suunatud ettepoole.",
+            "Istume kaks rida ettepoole."
+          ],
+          "synonyms": [
+            "eele"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "en avant",
+                "weight": 1
+              },
+              {
+                "words": "vers l'avant",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "вперёд",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вперед",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ajaliselt lähemale või kaugemale (ka tulevikus),varasemale ajale",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Koosoleku algus nihutati tunni võrra ettepoole.",
+            "Tõstsime töö valmimise tähtaja ettepoole."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "вперёд",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "вперед",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ette",
+        "eetsi",
+        "etteotsa",
+        "ees",
+        "eestpoolt",
+        "eest",
+        "eespool",
+        "ülespoole",
+        "tagantpoolt",
+        "siiapoole",
+        "kokkupoole",
+        "pealepoole",
+        "pealtpoolt",
+        "ülevaltpoolt",
+        "ülaltpoolt",
+        "tahapoole",
+        "nihkuma",
+        "sissepoole",
+        "ette-taha",
+        "kuhugipoole",
+        "allapoole"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ettepoole",
+      "translations": [
+        "frontward"
+      ]
+    }
+  ]
+}

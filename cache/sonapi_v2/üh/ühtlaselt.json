@@ -1,0 +1,130 @@
+{
+  "requestedWord": "ühtlaselt",
+  "estonianWord": "ühtlaselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ühtlaselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "vahelduseta, muutumatult, ühesuguselt,nii, et kõik on ühesugune",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Taevas on ühtlaselt hall.",
+            "Jooksen ühtlaselt aeglases tempos."
+          ],
+          "synonyms": [
+            "ühetasa"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "ровно",
+                "weight": 1
+              },
+              {
+                "words": "равномерно",
+                "weight": 1
+              },
+              {
+                "words": "размеренно",
+                "weight": 1
+              },
+              {
+                "words": "одинаково",
+                "weight": 1
+              },
+              {
+                "words": "ритмично",
+                "weight": 1
+              },
+              {
+                "words": "постоянно",
+                "weight": 1
+              },
+              {
+                "words": "монотонно",
+                "weight": 1
+              },
+              {
+                "words": "поровну,одинаково,вровень",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "рівномірно",
+                "weight": 1
+              },
+              {
+                "words": "рівно",
+                "weight": 1
+              },
+              {
+                "words": "однаково",
+                "weight": 1
+              },
+              {
+                "words": "постійно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "võrdselt",
+        "ühetasa",
+        "ühevõrra",
+        "ühtemoodi",
+        "ühteviisi",
+        "ühtviisi",
+        "ühtmoodi",
+        "mõõdetult",
+        "rütmiliselt",
+        "kenasti",
+        "tasaselt",
+        "korralikult",
+        "aeglaselt",
+        "ühtlasem",
+        "kollaselt",
+        "ühtlane",
+        "enam-vähem",
+        "kerglaselt",
+        "kiiresti",
+        "stabiilselt",
+        "ühtlasemalt",
+        "ühetaoliselt",
+        "ebaühtlaselt",
+        "võimalikult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ühtlaselt",
+      "translations": [
+        "equably",
+        "evenly",
+        "homogeneously",
+        "uniformly"
+      ]
+    }
+  ]
+}

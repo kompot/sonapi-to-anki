@@ -1,0 +1,408 @@
+{
+  "requestedWord": "üldiselt",
+  "estonianWord": "üldiselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "üldiselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "suuremal osal juhtudest, peaaegu alati",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Mehed on naistest üldiselt tugevamad.",
+            "Üldiselt ta ei joo.",
+            "Eve on oma tööga üldiselt rahul.",
+            "Üldiselt oli konverents väga põnev.",
+            "Ave üldiselt liha ei söö."
+          ],
+          "synonyms": [
+            "üldjuhul",
+            "reeglina",
+            "üldreeglina",
+            "üldjuhtumil"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "generally",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "en règle générale",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "обычно",
+                "weight": 1
+              },
+              {
+                "words": "как правило",
+                "weight": 1
+              },
+              {
+                "words": "преимущественно",
+                "weight": 1
+              },
+              {
+                "words": "в основном",
+                "weight": 1
+              },
+              {
+                "words": "большей частью",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "як правило",
+                "weight": 1
+              },
+              {
+                "words": "як звичайно",
+                "weight": 1
+              },
+              {
+                "words": "зазвичай",
+                "weight": 1
+              },
+              {
+                "words": "в основному",
+                "weight": 1
+              },
+              {
+                "words": "переважно",
+                "weight": 1
+              },
+              {
+                "words": "здебільшого",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "umbkaudu hinnates, peaaegu täielikult",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Üldiselt on töötajad direktoriga rahul."
+          ],
+          "synonyms": [
+            "laias laastus",
+            "jämedalt võttes",
+            "jämedates joontes",
+            "suures piiris",
+            "suurtes joontes",
+            "suurtes piirides",
+            "üldjoontes",
+            "enam-vähem"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "generally",
+                "weight": 1
+              },
+              {
+                "words": "more or less",
+                "weight": 0.517
+              }
+            ],
+            "rus": [
+              {
+                "words": "в самом общем виде",
+                "weight": 1
+              },
+              {
+                "words": "не вникая в подробности",
+                "weight": 1
+              },
+              {
+                "words": "по общему счёту",
+                "weight": 1
+              },
+              {
+                "words": "в общем",
+                "weight": 1
+              },
+              {
+                "words": "в основном",
+                "weight": 1
+              },
+              {
+                "words": "в принципе",
+                "weight": 1
+              },
+              {
+                "words": "вообще",
+                "weight": 1
+              },
+              {
+                "words": "в общих чертах",
+                "weight": 1
+              },
+              {
+                "words": "в значительной степени",
+                "weight": 1
+              },
+              {
+                "words": "почти,более или менее",
+                "weight": 0.517
+              }
+            ],
+            "fra": [
+              {
+                "words": "plus ou moins,à peu près,presque",
+                "weight": 0.517
+              }
+            ],
+            "ukr": [
+              {
+                "words": "більш-менш,майже",
+                "weight": 0.517
+              }
+            ]
+          }
+        },
+        {
+          "definition": "osutab, et hõlmatud on mingi kogum tervikuna",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Meie külas on setu keel üldiselt mõistetav, aga naaberkülas enam mitte.",
+            "Arst tundis huvi patsiendi elu vastu üldiselt.",
+            "Kohus tundis huvi firma tegevuse vastu üldiselt."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "в целом",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "laialt, ulatuslikult",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Üldiselt levinud hoiakud.",
+            "Maria on üldiselt levinud nimi.",
+            "Ta on üldiselt tunnustatud teadlane."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "широко",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "üldisema, abstraktsema teadmise tasandilt võttes, vaadates vms,konkretiseerimata, üksikasjadesse laskumata,sellisel kujul, mis pole konkreetne ega täpne",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Liiga üldiselt sõnastatud taotlus.",
+            "Õpilane vastas küsimusele liiga üldiselt."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "broadly",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "superficiellement",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "поверхностно",
+                "weight": 1
+              },
+              {
+                "words": "в общих чертах",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "поверхово",
+                "weight": 1
+              },
+              {
+                "words": "у загальних рисах",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "keskeltläbi",
+        "näpuvalge",
+        "rahahunnik",
+        "algkapital",
+        "sularaha",
+        "rahasedel",
+        "raha",
+        "raha",
+        "üldjuhul",
+        "sula",
+        "sula",
+        "omavaluuta",
+        "linnulennult",
+        "teng",
+        "teng",
+        "reeglina",
+        "lapp",
+        "kukkur",
+        "papp",
+        "papp",
+        "papp",
+        "rahanatuke",
+        "puru",
+        "puru",
+        "puru",
+        "sent",
+        "sent",
+        "muidu",
+        "laias laastus",
+        "nurgeline",
+        "puhas raha",
+        "mammon",
+        "naud",
+        "jämedates joontes",
+        "rahakopikas",
+        "maailmaraha",
+        "kuld",
+        "stardiraha",
+        "paberraha",
+        "kõnd",
+        "kõnd",
+        "prügi",
+        "kopikas",
+        "rahatäht",
+        "tavaliselt",
+        "nodi",
+        "suurtes joontes",
+        "sandikopikas",
+        "finantsid",
+        "rahapuru",
+        "rahapenn",
+        "linnulennul",
+        "penn",
+        "penn",
+        "rahapaber",
+        "paber",
+        "harilikult",
+        "üldjoontes",
+        "valuuta",
+        "plekk",
+        "plekk",
+        "rahapatsakas",
+        "kapital",
+        "kõikjal",
+        "väheselt",
+        "peamiselt",
+        "kuigi",
+        "tõesti",
+        "see",
+        "küllaltki",
+        "sageli",
+        "kuid",
+        "aga",
+        "aga",
+        "siiski",
+        "vähe",
+        "vähe",
+        "ilmselt",
+        "jätkuvalt",
+        "muidugi",
+        "seega",
+        "suhteliselt",
+        "pigem",
+        "üldse",
+        "loomulikult",
+        "isegi",
+        "samuti",
+        "küll",
+        "küll",
+        "üsna",
+        "ikka",
+        "enamasti",
+        "eriti",
+        "palju",
+        "palju",
+        "üpris",
+        "tegelikult",
+        "tihti",
+        "ikkagi",
+        "päris",
+        "endiselt",
+        "lihtsalt",
+        "alati",
+        "väga",
+        "nii"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "üldiselt",
+      "translations": [
+        "by and large",
+        "generally",
+        "generically",
+        "in general",
+        "loosely"
+      ]
+    }
+  ]
+}

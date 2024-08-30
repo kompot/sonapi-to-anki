@@ -1,0 +1,92 @@
+{
+  "requestedWord": "olenevalt",
+  "estonianWord": "olenevalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "olenevalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "olenedes millestki, teatud asjaolusid arvesse võttes,millestki lähtudes, millegi järgi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Olukorrast olenevalt vastatakse kirjale kuni viie tööpäeva jooksul.",
+            "Laevapiletite hinnad võivad olenevalt kajutiklassist erineda."
+          ],
+          "synonyms": [
+            "sõltuvalt"
+          ],
+          "translations": {
+            "fra": [
+              {
+                "words": "en fonction de",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "в зависимости",
+                "weight": 1
+              },
+              {
+                "words": "согласно",
+                "weight": 1
+              },
+              {
+                "words": "в соответствии",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "залежно від",
+                "weight": 1
+              },
+              {
+                "words": "згідно з",
+                "weight": 1
+              },
+              {
+                "words": "відповідно до",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "sõltuvalt",
+        "olenema",
+        "olenevus",
+        "sõltumata",
+        "tulenevalt",
+        "lähtuvalt",
+        "olenematult",
+        "olenemata",
+        "olenematu"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "olenevalt",
+      "translations": []
+    }
+  ]
+}

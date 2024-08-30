@@ -1,0 +1,100 @@
+{
+  "requestedWord": "väljapoole",
+  "estonianWord": "väljapoole",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "väljapoole"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi piiridest välja või välimisele küljele",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            },
+            {
+              "code": "prep",
+              "value": "prepositsioon, eessõna"
+            }
+          ],
+          "examples": [
+            "Kasukal oli karv väljapoole pööratud.",
+            "Teos jääb peavoolust natuke väljapoole.",
+            "See oli mu esimene reis väljapoole Euroopa Liitu.",
+            "Uks avaneb väljapoole."
+          ],
+          "synonyms": [
+            "väljaspoole"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "наружу",
+                "weight": 1
+              },
+              {
+                "words": "снаружи",
+                "weight": 1
+              },
+              {
+                "words": "вне",
+                "weight": 1
+              },
+              {
+                "words": "за",
+                "weight": 1
+              },
+              {
+                "words": "из",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "назовні",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "väljaspool",
+        "õue",
+        "välja",
+        "väljast",
+        "eemale",
+        "väljastpoolt",
+        "siiapoole",
+        "kaugemale",
+        "väljaspoole",
+        "seljapool",
+        "allapoole",
+        "sissepoole",
+        "väljaspoolt",
+        "sinnapoole",
+        "teispoole"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "väljapoole",
+      "translations": [
+        "outwards"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "requestedWord": "najale",
+  "estonianWord": "najale",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "najale"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "millegi vastu või millelegi najatuvaks, toetuvasse olekusse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Tüdruk toetas suusad seina najale.",
+            "Asetasin kargud laua najale."
+          ],
+          "synonyms": [],
+          "translations": {}
+        },
+        {
+          "definition": "millegi või kellegi poolt abistatud, toetatud olekusse",
+          "partOfSpeech": [
+            {
+              "code": "postp",
+              "value": "postpositsioon, tagasõna"
+            }
+          ],
+          "examples": [
+            "Parteid ei tohiks jääda vaid annetuste najale."
+          ],
+          "synonyms": [],
+          "translations": {}
+        }
+      ],
+      "similarWords": [
+        "najalt",
+        "tudile"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "najale",
+      "translations": []
+    }
+  ]
+}

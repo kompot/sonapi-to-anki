@@ -1,0 +1,292 @@
+{
+  "requestedWord": "hierarhia",
+  "estonianWord": "hierarhia",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "noomen"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "01",
+          "code": "SgN",
+          "morphValue": "ainsuse nimetav",
+          "value": "hierarhia"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgG",
+          "morphValue": "ainsuse omastav",
+          "value": "hierarhia"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgP",
+          "morphValue": "ainsuse osastav",
+          "value": "hierarhiat"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAdt",
+          "morphValue": "ainsuse suunduv e lühike sisseütlev",
+          "value": "-"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgIll",
+          "morphValue": "ainsuse sisseütlev",
+          "value": "hierarhiasse"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgIn",
+          "morphValue": "ainsuse seesütlev",
+          "value": "hierarhias"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgEl",
+          "morphValue": "ainsuse seestütlev",
+          "value": "hierarhiast"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAll",
+          "morphValue": "ainsuse alaleütlev",
+          "value": "hierarhiale"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAd",
+          "morphValue": "ainsuse alalütlev",
+          "value": "hierarhial"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAbl",
+          "morphValue": "ainsuse alaltütlev",
+          "value": "hierarhialt"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgTr",
+          "morphValue": "ainsuse saav",
+          "value": "hierarhiaks"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgTer",
+          "morphValue": "ainsuse rajav",
+          "value": "hierarhiani"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgEs",
+          "morphValue": "ainsuse olev",
+          "value": "hierarhiana"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgAb",
+          "morphValue": "ainsuse ilmaütlev",
+          "value": "hierarhiata"
+        },
+        {
+          "inflectionType": "01",
+          "code": "SgKom",
+          "morphValue": "ainsuse kaasaütlev",
+          "value": "hierarhiaga"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlN",
+          "morphValue": "mitmuse nimetav",
+          "value": "hierarhiad"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlG",
+          "morphValue": "mitmuse omastav",
+          "value": "hierarhiate"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlP",
+          "morphValue": "mitmuse osastav",
+          "value": "hierarhiaid"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlIll",
+          "morphValue": "mitmuse sisseütlev",
+          "value": "hierarhiatesse,hierarhiaisse"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlIn",
+          "morphValue": "mitmuse seesütlev",
+          "value": "hierarhiates,hierarhiais"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlEl",
+          "morphValue": "mitmuse seestütlev",
+          "value": "hierarhiatest,hierarhiaist"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAll",
+          "morphValue": "mitmuse alaleütlev",
+          "value": "hierarhiatele,hierarhiaile"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAd",
+          "morphValue": "mitmuse alalütlev",
+          "value": "hierarhiatel,hierarhiail"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAbl",
+          "morphValue": "mitmuse alaltütlev",
+          "value": "hierarhiatelt,hierarhiailt"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlTr",
+          "morphValue": "mitmuse saav",
+          "value": "hierarhiateks,hierarhiaiks"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlTer",
+          "morphValue": "mitmuse rajav",
+          "value": "hierarhiateni"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlEs",
+          "morphValue": "mitmuse olev",
+          "value": "hierarhiatena"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlAb",
+          "morphValue": "mitmuse ilmaütlev",
+          "value": "hierarhiateta"
+        },
+        {
+          "inflectionType": "01",
+          "code": "PlKom",
+          "morphValue": "mitmuse kaasaütlev",
+          "value": "hierarhiatega"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "süsteemi eri tasandite järjestikune sõltuvus ülalt alla, kõrgemalt madalamale või üldiselt erilisele",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Bändis oli kindel hierarhia ja mina jäin kuhugi allapoole.",
+            "Vajaduste hierarhia."
+          ],
+          "synonyms": [
+            "järjestus,reastus",
+            "süsteem",
+            "redel"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "иерархия",
+                "weight": 1
+              },
+              {
+                "words": "расположение,расстановка,последовательность,порядок,очерёдность",
+                "weight": 0.7
+              },
+              {
+                "words": "система",
+                "weight": 0.7
+              },
+              {
+                "words": "лестница",
+                "weight": 0.9
+              }
+            ]
+          }
+        },
+        {
+          "definition": "ametikohtade, -astmete tõusev järjestus",
+          "partOfSpeech": [
+            {
+              "code": "s",
+              "value": "nimisõna, substantiiv"
+            }
+          ],
+          "examples": [
+            "Trotski positsioon Nõukogude hierarhia tipus.",
+            "Igal usuliikumisel on oma vaimulike hierarhia.",
+            "1930. aastatel toimus külas keeruline hierarhiate vahetus."
+          ],
+          "synonyms": [
+            "ametiredel",
+            "hierarhiaredel",
+            "karjääriredel",
+            "teenistusredel",
+            "võimuredel"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "иерархия",
+                "weight": 1
+              },
+              {
+                "words": "карьерная лестница",
+                "weight": 1
+              },
+              {
+                "words": "служебная лестница",
+                "weight": 1
+              },
+              {
+                "words": "иерархическая лестница",
+                "weight": 1
+              },
+              {
+                "words": "лестница власти",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "hierarhiaredel",
+        "süsteem",
+        "järjestus",
+        "ametiredel",
+        "võimuredel",
+        "redel",
+        "pulk",
+        "hierarhiline"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "hierarhia",
+      "translations": [
+        "hierarchy"
+      ]
+    }
+  ]
+}

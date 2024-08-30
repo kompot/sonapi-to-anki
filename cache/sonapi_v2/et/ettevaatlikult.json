@@ -1,0 +1,130 @@
+{
+  "requestedWord": "ettevaatlikult",
+  "estonianWord": "ettevaatlikult",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ettevaatlikult"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Sõitke ettevaatlikult, tee on libe."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "carefully",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "prudemment",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "осторожно",
+                "weight": 1
+              },
+              {
+                "words": "осмотрительно",
+                "weight": 1
+              },
+              {
+                "words": "бережно",
+                "weight": 1
+              },
+              {
+                "words": "опасливо",
+                "weight": 1
+              },
+              {
+                "words": "с оглядкой",
+                "weight": 1
+              },
+              {
+                "words": "с опаской",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "обережно",
+                "weight": 1
+              },
+              {
+                "words": "обачно",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "targu",
+        "tasa ja targu",
+        "natuke",
+        "natuke",
+        "veidi",
+        "tasa",
+        "pisut",
+        "argsi",
+        "tähelepanelikult",
+        "säästvalt",
+        "hoolitsevalt",
+        "kergelt",
+        "ettevaatlikkus",
+        "optimistlikult",
+        "hoolikalt",
+        "ettevaatamatult",
+        "rahulikult",
+        "ettevaatlikum",
+        "ettevaatlikumalt",
+        "kartlikult",
+        "kannatlikult",
+        "üliettevaatlik",
+        "ettevaatlik",
+        "mõistlikult"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ettevaatlikult",
+      "translations": [
+        "cagily",
+        "carefully",
+        "cautiously",
+        "gingerly",
+        "guardedly",
+        "hedgingly",
+        "heedfully",
+        "precautiously",
+        "tentatively",
+        "with care",
+        "with caution"
+      ]
+    }
+  ]
+}

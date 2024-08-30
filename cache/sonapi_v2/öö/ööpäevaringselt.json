@@ -1,0 +1,70 @@
+{
+  "requestedWord": "ööpäevaringselt",
+  "estonianWord": "ööpäevaringselt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "ööpäevaringselt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kogu ööpäeva jooksul ilma katkestamata, terve ööpäeva",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Apteek töötab ööpäevaringselt kõikidel päevadel.",
+            "Maapealne parkla on avatud ööpäevaringselt.",
+            "Õhutemperatuurid püsivad ööpäevaringselt 0 kraadi lähedal ning sagedased sajuhood võivad muuta teed libedaks."
+          ],
+          "synonyms": [
+            "ööpäev läbi",
+            "ööpäev ringi"
+          ],
+          "translations": {
+            "rus": [
+              {
+                "words": "круглосуточно",
+                "weight": 1
+              },
+              {
+                "words": "круглые сутки",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ööpäev",
+        "ööpäevaringne",
+        "ööpäevarütm",
+        "ööpäevarühm"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "ööpäevaringselt",
+      "translations": [
+        "around the clock",
+        "around-the-clock",
+        "round the clock",
+        "round-the-clock"
+      ]
+    }
+  ]
+}

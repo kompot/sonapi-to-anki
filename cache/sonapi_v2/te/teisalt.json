@@ -1,0 +1,127 @@
+{
+  "requestedWord": "teisalt",
+  "estonianWord": "teisalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "teisalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "(asjaolusid vaagides:) teise nurga alt, teisest küljest vaadates,toob esile teise asjaolu: teiselt poolt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ühtpidi võime mõne miljoni kokku hoida, kuid teisalt palju enam kaotada.",
+            "Muidugi on see risk, ent teisalt – kes ei riski, see ei võida.",
+            "Bussiga minna on odavam, teisalt jõuab autoga kiiremini kohale."
+          ],
+          "synonyms": [],
+          "translations": {
+            "fra": [
+              {
+                "words": "d'un autre côté",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "с другой стороны",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "з другого боку",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "(kohasuhetes:) teiselt poolt, teisest suunast",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Müügis olev kinnistu piirneb ühest küljest Tallinna ringteega ning teisalt Jüri alevikuga."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "с другой стороны",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        {
+          "definition": "teisest kohast, mujalt",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Nad on teisalt tulnud."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "из другого места",
+                "weight": 1
+              },
+              {
+                "words": "из других мест",
+                "weight": 1
+              },
+              {
+                "words": "со стороны",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "väikeselt",
+        "teisale",
+        "teisal",
+        "laisalt",
+        "ühtpidi",
+        "ent",
+        "küljest",
+        "loomulikult",
+        "vanamoodsalt",
+        "aga",
+        "aga"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "teisalt",
+      "translations": []
+    }
+  ]
+}

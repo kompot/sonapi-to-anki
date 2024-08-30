@@ -1,0 +1,149 @@
+{
+  "requestedWord": "korduvalt",
+  "estonianWord": "korduvalt",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "korduvalt"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "mitte üks, vaid rohkem kordi, üha uuesti,mitte üks, vaid rohkem kordi",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Ma olen sellele korduvalt tähelepanu juhtinud.",
+            "Ajakirjanduses on sellest korduvalt juttu olnud.",
+            "Poiss puudus korduvalt koolist."
+          ],
+          "synonyms": [],
+          "translations": {
+            "eng": [
+              {
+                "words": "repeatedly",
+                "weight": 1
+              }
+            ],
+            "fra": [
+              {
+                "words": "à plusieurs reprises",
+                "weight": 1
+              },
+              {
+                "words": "plusieurs fois",
+                "weight": 1
+              }
+            ],
+            "rus": [
+              {
+                "words": "неоднократно",
+                "weight": 1
+              },
+              {
+                "words": "многократно",
+                "weight": 1
+              },
+              {
+                "words": "повторно",
+                "weight": 1
+              }
+            ],
+            "ukr": [
+              {
+                "words": "не раз",
+                "weight": 1
+              },
+              {
+                "words": "неодноразово",
+                "weight": 1
+              },
+              {
+                "words": "кілька разів",
+                "weight": 1
+              },
+              {
+                "words": "багато разів",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "ühtepuhku",
+        "harutihti",
+        "tihtilugu",
+        "alailma",
+        "alatihti",
+        "tihtipeale",
+        "muudkui",
+        "ühtelugu",
+        "ikka ja jälle",
+        "sagedasti",
+        "tihti",
+        "mitut puhku",
+        "söögi alla ja söögi peale",
+        "alatasa",
+        "tihedasti",
+        "ühtaina",
+        "pidevalt",
+        "ala",
+        "ala",
+        "aina",
+        "tihedalt",
+        "ilmast ilma",
+        "pahatihti",
+        "sagetihti",
+        "sageli",
+        "teist",
+        "teistkordselt",
+        "vahelduvalt",
+        "aeg-ajalt",
+        "uuesti",
+        "juba",
+        "regulaarselt",
+        "varasemalt",
+        "kunagi",
+        "isegi",
+        "vahepeal",
+        "eelnevalt",
+        "andekalt",
+        "läbi",
+        "ise",
+        "ise",
+        "ise",
+        "mitu",
+        "kord-korralt",
+        "varem",
+        "alati",
+        "korda",
+        "jooksul"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "korduvalt",
+      "translations": [
+        "a number of times",
+        "frequently",
+        "repeatedly",
+        "repetitively"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "requestedWord": "esiplaanil",
+  "estonianWord": "esiplaanil",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": "41",
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "esiplaanil"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "kõige tähtsamal, valitseval, juhtival kohal või positsioonil",
+          "partOfSpeech": [
+            {
+              "code": "adv",
+              "value": "määrsõna, adverb"
+            }
+          ],
+          "examples": [
+            "Meie pole ärimehed, meil pole esiplaanil kasum."
+          ],
+          "synonyms": [],
+          "translations": {
+            "rus": [
+              {
+                "words": "на первом месте",
+                "weight": 1
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "paremal",
+        "tagaplaanil",
+        "esiplaanile",
+        "taamal",
+        "vasakul",
+        "eestvaade",
+        "esiplaan"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "esiplaanil",
+      "translations": [
+        "in the foreground"
+      ]
+    }
+  ]
+}

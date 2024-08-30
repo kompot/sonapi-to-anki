@@ -1,0 +1,155 @@
+{
+  "requestedWord": "nägemist",
+  "estonianWord": "nägemist",
+  "searchResult": [
+    {
+      "wordClasses": [
+        "muutumatu"
+      ],
+      "wordForms": [
+        {
+          "inflectionType": null,
+          "code": "ID",
+          "morphValue": "muutumatu sõna (indekl)",
+          "value": "nägemist"
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "lahkumisel öeldav sõna või sõnaühend,see, mida sa ütled, kui sina lähed ära või keegi teine läheb ära",
+          "partOfSpeech": [
+            {
+              "code": "interj",
+              "value": "hüüdsõna, interjektsioon"
+            }
+          ],
+          "examples": [
+            "Aitäh ja nägemist!",
+            "Seniks head nägemist!",
+            "Ma pean nüüd minema, nägemist!"
+          ],
+          "synonyms": [
+            "head aega",
+            "nägemiseni",
+            "prassai",
+            "aidaa,nägudeni,pakaa,adaa",
+            "tšau,tsau,tsauki,tšao",
+            "hüvasti,jumalaga",
+            "adjöö"
+          ],
+          "translations": {
+            "eng": [
+              {
+                "words": "goodbye",
+                "weight": 1
+              },
+              {
+                "words": "bye",
+                "weight": 1
+              },
+              {
+                "words": "see you",
+                "weight": 1
+              },
+              {
+                "words": "see you later",
+                "weight": 1
+              },
+              {
+                "words": "ciao",
+                "weight": 0.9
+              }
+            ],
+            "fra": [
+              {
+                "words": "au revoir",
+                "weight": 1
+              },
+              {
+                "words": "adieu",
+                "weight": 0.9
+              }
+            ],
+            "rus": [
+              {
+                "words": "до свидания",
+                "weight": 1
+              },
+              {
+                "words": "до свиданья",
+                "weight": 1
+              },
+              {
+                "words": "всего доброго",
+                "weight": 1
+              },
+              {
+                "words": "пока",
+                "weight": 1
+              },
+              {
+                "words": "прощай",
+                "weight": 0.7
+              },
+              {
+                "words": "до встречи,увидимся,до скорого,пока",
+                "weight": 0.9
+              },
+              {
+                "words": "чао",
+                "weight": 0.9
+              },
+              {
+                "words": "прощайте,прощай,с Богом",
+                "weight": 0.9
+              },
+              {
+                "words": "адью",
+                "weight": 0.9
+              }
+            ],
+            "ukr": [
+              {
+                "words": "до побачення",
+                "weight": 1
+              },
+              {
+                "words": "на все добре",
+                "weight": 1
+              },
+              {
+                "words": "щасливо",
+                "weight": 1
+              },
+              {
+                "words": "прощавайте,прощайте,прощавай,прощай",
+                "weight": 0.9
+              }
+            ]
+          }
+        }
+      ],
+      "similarWords": [
+        "nägemismälu",
+        "nägemine",
+        "nägemispurpur",
+        "nägemistee",
+        "nägemisteravus",
+        "nägemistaju",
+        "nägemisvõime"
+      ]
+    }
+  ],
+  "translations": [
+    {
+      "from": "et",
+      "to": "en",
+      "input": "nägemist",
+      "translations": [
+        "bye",
+        "cheerio",
+        "so long"
+      ]
+    }
+  ]
+}
