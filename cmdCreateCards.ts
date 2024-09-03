@@ -122,8 +122,26 @@ function convertWordDataToAnkiCard(
     sr.meanings.forEach((meaning, idx2) => {
       cardFront += `<li>${meaning.definition}<br>`;
       // TODO customise translations here
-      cardBack += `<li>${meaning.translations.rus
-        ?.map((i) => i.words)
+      const allMeanings =
+        meaning.translations.rus?.flatMap((i) => {
+          const spl = i.words.split(",");
+          return spl.map((s) => ({
+            word: s,
+            weight: i.weight,
+          }));
+        }) || [];
+      const allMeaningsSorted = allMeanings
+        .sort((a, b) => b.weight - a.weight)
+        // probably we don't need more than 5 translations
+        .slice(0, 5);
+
+      cardBack += `<li>${allMeaningsSorted
+        .map((i) => {
+          if (i.weight == 1) {
+            return i.word;
+          }
+          return `<span style="opacity: ${i.weight / 1.7}">${i.word}</span>`;
+        })
         .join(", ")}</li>`;
       cardFront += "<ul>";
       meaning.examples.forEach((example) => {
