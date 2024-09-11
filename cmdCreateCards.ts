@@ -18,18 +18,47 @@ const externalApiUrls = {
 // https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 type LangCode = "eng" | "fra" | "rus" | "ukr";
 
+type WordFormCode =
+  | "SgN"
+  | "SgG"
+  | "SgP"
+  | "SgAdt"
+  | "PlN"
+  | "PlG"
+  | "PlP"
+  | "PlAdt"
+  | "Sup"
+  | "Inf"
+  | "IndPrSg1";
+
+// nimetav, omastav, osastav, suunduv e lühike sisseütlev
+const meaningfulInclinations = ["N", "G", "P", "Adt"] as const;
+
+type MeaningfulInclination = (typeof meaningfulInclinations)[number];
+
+const inclinationLongByShort = {
+  N: "nime",
+  G: "omas",
+  P: "osas",
+  Adt: "lüh sütl",
+} as const satisfies Record<MeaningfulInclination, string>;
+
+type WordForm = {
+  inflectionType: string;
+  code: WordFormCode | string;
+  morphValue: string;
+  value: string;
+};
+
+type WordClass = "noomen" | "muutumatu" | "verb";
+
 type ExternalApiReturnTypes = {
   sonapi_v2: {
     requestedWord: string;
     estonianWord: string;
     searchResult: Array<{
-      wordClasses: string[];
-      wordForms: Array<{
-        inflectionType: string;
-        code: "SgN" | "SgG" | "SgP" | "PlN" | "PlG" | "PlP" | string;
-        morphValue: string;
-        value: string;
-      }>;
+      wordClasses: WordClass[];
+      wordForms: WordForm[];
       meanings: Array<{
         definition: string;
         partOfSpeech: Array<{ code: string; value: string }>;
@@ -114,13 +143,22 @@ function createCachingProxy({ delay }: { delay: number }) {
 function convertWordDataToAnkiCard(
   wordData: ExternalApiReturnTypes["sonapi_v2"]
 ): string {
-  let cardFront = "";
-  let cardBack = "";
+  let cardExamples = "";
+  let cardWordForms = "";
+  let cardTranslations = "";
+
+  function getWordForm(
+    wordFormCode: WordFormCode,
+    allForms: WordForm[]
+  ): string | undefined {
+    return allForms.find((wf) => wf.code === wordFormCode)?.value ?? "";
+  }
+
   wordData.searchResult.forEach((sr, idx1) => {
-    cardFront += "<ol>";
-    cardBack += "<ol>";
+    cardExamples += "<ol>";
+    cardTranslations += "<ol>";
     sr.meanings.forEach((meaning, idx2) => {
-      cardFront += `<li>${meaning.definition}<br>`;
+      cardExamples += `<li>${meaning.definition}<br>`;
       // TODO customise translations here
       const allMeanings =
         meaning.translations.rus?.flatMap((i) => {
@@ -135,7 +173,7 @@ function convertWordDataToAnkiCard(
         // probably we don't need more than 5 translations
         .slice(0, 5);
 
-      cardBack += `<li>${allMeaningsSorted
+      cardTranslations += `<li>${allMeaningsSorted
         .map((i) => {
           if (i.weight == 1) {
             return i.word;
@@ -143,17 +181,42 @@ function convertWordDataToAnkiCard(
           return `<span style="opacity: ${i.weight / 1.7}">${i.word}</span>`;
         })
         .join(", ")}</li>`;
-      cardFront += "<ul>";
+      cardExamples += "<ul>";
       meaning.examples.forEach((example) => {
-        cardFront += `<li>${example}</li>`;
+        cardExamples += `<li>${example}</li>`;
       });
-      cardFront += "</ul>";
-      cardFront;
+      cardExamples += "</ul>";
     });
-    cardBack += "</ol>";
-    cardFront += "</ol>";
+    cardTranslations += "</ol>";
+    cardExamples += "</ol>";
+
+    if (sr.wordClasses[0] === "noomen") {
+      cardWordForms +=
+        "<table><thead><tr><th></th><th>ainsus</th><th>mitmus</th></tr></thead><tbody>";
+      cardWordForms += meaningfulInclinations
+        .map((code) => {
+          return `<tr><td>${inclinationLongByShort[code]}</td><td>${getWordForm(
+            `Sg${code}`,
+            sr.wordForms
+          )}</td><td>${getWordForm(`Pl${code}`, sr.wordForms)}</td></tr>`;
+        })
+        .join("");
+      cardWordForms += "</tbody></table>";
+    }
+    if (sr.wordClasses[0] === "verb") {
+      cardWordForms +=
+        "<table><thead><tr><th>-ma</th><th>-da</th><th>-n</th></tr></thead><tbody>";
+      cardWordForms += `<tr><td>${getWordForm(
+        "Sup",
+        sr.wordForms
+      )}</td><td>${getWordForm("Inf", sr.wordForms)}</td><td>${getWordForm(
+        "IndPrSg1",
+        sr.wordForms
+      )}</td></tr>`;
+      cardWordForms += "</tbody></table>";
+    }
   });
-  return `${wordData.estonianWord}<br>${cardFront}|${cardBack}`;
+  return `${wordData.estonianWord}|${cardExamples}|${cardWordForms}|${cardTranslations}`;
 }
 
 async function fetchAndCache<T extends ExternalAPI>(
@@ -218,6 +281,8 @@ export const cmdCreateCards = command({
         outputFile,
         `#separator:pipe
 #html:true
+#deck:${outputFile.substring(0, outputFile.lastIndexOf("."))}
+#columns:front|frontExamples|frontWordForms|back
 `,
         {
           create: true,
